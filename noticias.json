@@ -1,6 +1,6 @@
 {
  "semana": "23 al 30 de octubre de 2026",
- "actualizado": "30/10 11:30",
+ "actualizado": "30/10 11:46",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -254,11 +254,11 @@
      "url": "https://www.elonce.com/politica/presupuesto-2027-entre-rios-proyecta-una-inversion-de-905-394-millones-para-infraestructura.htm"
     },
     {
-     "titulo": "Paraná: Por la creciente, modifican el embarque de excursiones náuticas",
-     "medio": "AFP Digital",
+     "titulo": "Frigerio destacó el potencial de Entre Ríos para inversiones mineras y energéticas",
+     "medio": "Ahora",
      "fecha": "29/10/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/10/29/476967-parana-por-la-creciente-modifican-el-embarque-de-excursiones-nauticas",
-     "tag": "También en Ahora, El Once y 1 más"
+     "url": "https://ahora.com.ar/politica/frigerio-destaco-el-potencial-de-entre-rios-para-inversiones-mineras-y-energeticas",
+     "tag": "También en AFP Digital, UNO ER"
     }
    ],
    "imagen": []
@@ -297,7 +297,7 @@
      "tag": "También en Todo Jujuy, El Tribuno"
     },
     {
-     "titulo": "UNA BATALLA TRAS OTRA Jujuy: la Cámara Nacional Electoral le dio una vida más a la lista de Rivarola y asoman las internas en el PJ Por Lucio Di Giuseppe",
+     "titulo": "Jujuy: la Cámara Nacional Electoral le dio una vida más a la lista de Rivarola y asoman las internas en el PJ Por Lucio Di Giuseppe",
      "medio": "Letra P",
      "fecha": "30/10/2026",
      "url": "https://www.letrap.com.ar/politica/jujuy-la-camara-nacional-electoral-le-dio-una-vida-mas-la-lista-rivarola-y-asoman-las-internas-el-pj-n5427831"
@@ -308,7 +308,7 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Bensusán construye su candidatura a gobernador de La Pampa mirando al campo como aliado",
+     "titulo": "GUERRA DE SUCESIÓN Bensusán construye su candidatura a gobernador de La Pampa mirando al campo como aliado Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/bensusan-construye-su-candidatura-gobernador-la-pampa-mirando-al-campo-como-aliado-n5427739"
@@ -355,6 +355,12 @@
   "Mendoza": {
    "top3": [
     {
+     "titulo": "Mauricio Macri aseguró que no hubo avances entre LLa y el PRO",
+     "medio": "Mendoza Post",
+     "fecha": "30/10/2026",
+     "url": "https://www.mendozapost.com/politica/mauricio-macri-no-se-avanzo-nada-acuerdo-entre-lla-y-pro/"
+    },
+    {
      "titulo": "\"Peor es elegir mal\": Cornejo avisa a Milei que podría no votar contra las PASO",
      "medio": "Memo",
      "fecha": "30/10/2026",
@@ -366,12 +372,6 @@
      "medio": "Prensa oficial de Mendoza",
      "fecha": "30/10/2026",
      "url": "https://prensa.mendoza.gob.ar/mendoza-publico-la-resolucion-que-regula-la-pesca-deportiva-para-la-temporada-2026-2027/"
-    },
-    {
-     "titulo": "El Gobierno volvió a dejar sin efecto más de 21.800 pensiones por invalidez: ¿estás en la lista?",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "30/10/2026",
-     "url": "https://www.diariouno.com.ar/politica/el-gobierno-volvio-dejar-efecto-mas-21800-pensiones-invalidez-estas-la-lista-n1611384"
     }
    ],
    "imagen": [
@@ -392,16 +392,16 @@
      "url": "https://lavozdemisiones.com/politica/el-hcd-aprobo-por-una-unanimidad-el-presupuesto-municipal-2027"
     },
     {
-     "titulo": "LLA dictamina Ley Malvinas con disidencia de Herrera Ahuad y Arrúa",
-     "medio": "La Voz - Misiones",
-     "fecha": "27/10/2026",
-     "url": "https://lavozdemisiones.com/politica/lla-dictamina-ley-malvinas-con-disidencia-de-herrera-ahuad-y-arrua"
-    },
-    {
      "titulo": "Operativo Bolsonaro. Quiénes son los dos empleados de Yacyretá que ayudaron a Santiago Caputo en Misiones",
      "medio": "La Nación",
      "fecha": "29/10/2026",
      "url": "https://www.lanacion.com.ar/politica/quienes-son-los-dos-empleados-de-yacyreta-que-ayudaron-a-santiago-caputo-en-misiones-para-el-nid29102026/"
+    },
+    {
+     "titulo": "La huida de Bolsonaro. En Misiones piden desestimar la denuncia contra el Gobierno, mientras en Comodoro Py solicitan pruebas",
+     "medio": "La Nación",
+     "fecha": "29/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/la-justicia-pidio-al-gobierno-datos-sobre-la-salida-de-bolsonaro-de-la-argentina-nid29102026/"
     }
    ],
    "imagen": []
@@ -409,7 +409,7 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Neuquén: las cinco claves para entender el presupuesto que Figueroa proyecta para afrontar el año electoral Por Letra P | Periodismo Político",
+     "titulo": "Neuquén: las cinco claves para entender el presupuesto que Figueroa proyecta para afrontar el año electoral",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/neuquen-las-cinco-claves-entender-el-presupuesto-que-figueroa-proyecta-afrontar-el-ano-electoral-n5427806"
@@ -465,16 +465,16 @@
      "url": "https://www.salta.gob.ar/organismos/jefatura-de-gabinete-de-ministros-4"
     },
     {
-     "titulo": "La carrera electoral ya tiene fechas en el horizonte: Las claves del calendario 2027 en Salta",
-     "medio": "Informate Salta",
+     "titulo": "TEMPORADA DE PODA El saencismo desguazó la carta orgánica municipal libertaria en la Legislatura de Salta Por Maira López",
+     "medio": "Letra P",
      "fecha": "30/10/2026",
-     "url": "https://informatesalta.com.ar/sin-vueltas-tv/la-carrera-electoral-ya-tiene-fechas-en-el-horizonte--las-claves-del-calendario-2027-en-salta_a6ae37038052cad7d0181456d"
+     "url": "https://www.letrap.com.ar/politica/salta-el-saencismo-desguazo-la-carta-organica-municipal-libertaria-la-legislatura-provincial-n5427835"
     },
     {
-     "titulo": "La UCR de Salta postergó una semana sus elecciones internas: Serán el 8 de noviembre",
-     "medio": "Nuevo Diario de Salta",
+     "titulo": "Elecciones: Kosiner adelantó que Fuerza Patria irá “con candidatos en toda la provincia”",
+     "medio": "Informate Salta",
      "fecha": "30/10/2026",
-     "url": "https://nuevodiariodesalta.com.ar/la-ucr-de-salta-postergo-una-semana-sus-elecciones-internas-seran-el-8-de-noviembre/"
+     "url": "https://informatesalta.com.ar/sin-vueltas-tv/elecciones--kosiner-adelanto-que-fuerza-patria-ira--con-candidatos-en-toda-la-provincia-_a6ae37973052cad7d01821edf"
     }
    ],
    "imagen": [
@@ -613,11 +613,10 @@
      "url": "https://www.diariopanorama.com/noticia/571286/macri-aseguro-no-hay-avances-acuerdo-electoral-entre-pro-libertad-avanza-para-2027"
     },
     {
-     "titulo": "Tintina Celebró su 122° aniversario con la presencia de autoridades provinciales",
+     "titulo": "El Gobernador participó de la inauguración de la Plaza de las Ciencias en la ciudad Capital",
      "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "30/10/2026",
-     "url": "https://sde.gob.ar/2026/10/29/tintina-celebro-su-122-aniversario-con-la-presencia-de-autoridades-provinciales/",
-     "tag": "También en El Liberal, Info del Estero"
+     "fecha": "28/10/2026",
+     "url": "https://sde.gob.ar/2026/10/28/el-gobernador-participo-de-la-inauguracion-de-la-plaza-de-las-ciencias-en-la-ciudad-capital/"
     }
    ],
    "imagen": []
@@ -637,7 +636,7 @@
      "url": "https://www.infobae.com/politica/2026/10/29/la-cautelar-que-freno-el-proyecto-sea-lion-sigue-vigente-y-la-justicia-sumo-a-tierra-del-fuego-a-la-causa-contra-las-petroleras/"
     },
     {
-     "titulo": "Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
+     "titulo": "TIERRA DEL FUEGO Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/martin-perez-destaco-el-fallo-que-permitio-la-fiscalizacion-provincial-el-puerto-ushuaia-n5427821"
@@ -707,6 +706,7 @@
   "https://www.opisantacruz.com.ar/",
   "https://agenciafe.com/",
   "https://www.ellitoral.com/",
+  "https://www.elliberal.com.ar/",
   "https://nuevodiarioweb.com.ar/",
   "https://www.infofueguina.com/",
   "https://www.minutofueguino.com.ar/",
