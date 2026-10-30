@@ -1,10 +1,19 @@
 {
- "actualizado": "30/10 15:09",
+ "actualizado": "30/10 15:13",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "jimena barón",
+   "busquedas": "200+",
+   "nota": "Jimena Barón se convirtió en abuela: nació la camada de su perrita Lucy y mostró los videos",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/10/30/jimena-baron-se-convirtio-en-abuela-nacio-la-camada-de-su-perrita-lucy-y-mostro-los-videos/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "dia",
    "busquedas": "200+",
@@ -16,10 +25,10 @@
   },
   {
    "tema": "f1 mexico",
-   "busquedas": "200+",
-   "nota": "ESPN trae a Disney+ Plan Premium el GP de la Ciudad de México 2026",
-   "nota_url": "https://television.com.ar/noticias/streaming/espn-trae-a-disney-plan-premium-el-gp-de-la-ciudad-de-mexico-2026/",
-   "medio": "Inicio - Television",
+   "busquedas": "2000+",
+   "nota": "Quién es Gabriele Minì, el reemplazo de Colapinto en el GP de México que se subió a un karting de bebé",
+   "nota_url": "https://www.tycsports.com/automovilismo/quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-karting-de-bebe-id769197.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
@@ -61,7 +70,7 @@
   },
   {
    "tema": "christa pike",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "‘My Body Hurts’: Christa Pike Describes Pain and Isolation After Botched Execution",
    "nota_url": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
    "medio": "The New York Times",
@@ -83,15 +92,6 @@
    "nota": "Clima hoy en La Rioja: el pronóstico del tiempo para este jueves 29 octubre de 2026",
    "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-rioja-pronostico-tiempo-jueves-29-octubre-2026_0_AXOA6EhyBK.html",
    "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan sebastián verón",
-   "busquedas": "100+",
-   "nota": "Sanción. Dura baja para Estudiantes de cara a los partidos ante Instituto y Talleres",
-   "nota_url": "https://www.lavoz.com.ar/deportes/dura-baja-estudiantes-cara-partidos-instituto-talleres_0_pvqDAvowhW.html",
-   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
