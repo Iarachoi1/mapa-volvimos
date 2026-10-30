@@ -1,6 +1,6 @@
 {
  "semana": "23 al 30 de octubre de 2026",
- "actualizado": "30/10 11:15",
+ "actualizado": "30/10 11:30",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -41,19 +41,57 @@
      "titulo": "COMBATIENDO EN CAPITAL Legislatura porteña: el peronismo logró sancionar dos proyectos y polarizó con Milei, pero LLA no dio pelea Por Abigail Contreiras Martínez",
      "medio": "Letra P",
      "fecha": "29/10/2026",
-     "url": "https://www.letrap.com.ar/politica/legislatura-portena-el-peronismo-logro-sancionar-dos-proyectos-y-polarizo-milei-pero-lla-no-dio-pelea-n5427830"
-    },
-    {
-     "titulo": "La ciudad de la furia Con la discusión de un acuerdo electoral en pausa, el PRO y LLA vuelven a confluir en la Legislatura porteña Por Abigail Contreiras Martínez",
-     "medio": "Letra P",
-     "fecha": "29/10/2026",
-     "url": "https://www.letrap.com.ar/politica/con-la-discusion-un-acuerdo-electoral-pausa-el-pro-y-lla-vuelven-confluir-la-legislatura-portena-n5427779"
+     "url": "https://www.letrap.com.ar/politica/legislatura-portena-el-peronismo-logro-sancionar-dos-proyectos-y-polarizo-milei-pero-lla-no-dio-pelea-n5427830",
+     "tag": "Política"
     },
     {
      "titulo": "La Legislatura porteña aprobó la \"Ley Turco García\", que establece el Día de la Prevención de los Consumos Problemáticos de Sustancias",
      "medio": "Infobae",
      "fecha": "29/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/29/la-legislatura-portena-aprobo-la-ley-turco-garcia-que-establece-el-dia-de-la-prevencion-de-los-consumos-problematicos-de-sustancias/"
+     "url": "https://www.infobae.com/politica/2026/10/29/la-legislatura-portena-aprobo-la-ley-turco-garcia-que-establece-el-dia-de-la-prevencion-de-los-consumos-problematicos-de-sustancias/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "LA JUSTICIA QUE VIENE Consejo de la Magistratura porteño: quiénes integran las listas que competirán en las elecciones de abogados Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/consejo-la-magistratura-porteno-quienes-integran-las-listas-que-competiran-las-elecciones-abogados-n5427801",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Inscripción para Proveedores de Obra Pública",
+     "medio": "Legislatura porteña de CABA",
+     "fecha": "30/10/2026",
+     "url": "https://www.legislatura.gob.ar/seccion/inscripcion-para-proveedores-de-obra-publica.html",
+     "tag": "Ciudad"
+    },
+    {
+     "titulo": "Nuevo shopping en Recoleta. Así avanza el proyecto que reemplaza al Buenos Aires Design",
+     "medio": "La Nación (tema Buenos Aires)",
+     "fecha": "30/10/2026",
+     "url": "https://www.lanacion.com.ar/propiedades/se-asoma-el-nuevo-shopping-de-recoleta-asi-avanza-el-proyecto-que-reemplaza-al-buenos-aires-design-nid14072025/",
+     "tag": "Gabinete"
+    },
+    {
+     "titulo": "La ciudad de la furia Con la discusión de un acuerdo electoral en pausa, el PRO y LLA vuelven a confluir en la Legislatura porteña Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/con-la-discusion-un-acuerdo-electoral-pausa-el-pro-y-lla-vuelven-confluir-la-legislatura-portena-n5427779",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Quirós presentó el Presupuesto 2027 de Salud ante la Comisión de Presupuesto",
+     "medio": "Legislatura porteña de CABA",
+     "fecha": "30/10/2026",
+     "url": "https://www.legislatura.gob.ar/posts/quiros-presento-el-presupuesto-2027-de-salud-ante-la-comision-de-presupuesto.html",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Jorge Macri cierra el acuerdo con Ritondo para disputarle a Mauricio la lista de diputados del PRO",
+     "medio": "La Politica Online",
+     "fecha": "30/10/2026",
+     "url": "https://www.lapoliticaonline.com/ciudad/jorge-macri-profundiza-su-vinculo-con-ritondo-y-busca-ganar-influencia-en-la-lista-de-diputados-del-pro-3934/",
+     "tag": "Política"
     }
    ],
    "imagen": []
@@ -109,10 +147,10 @@
      "url": "https://www.lapoliticaonline.com/politica/un-diputado-libertario-dijo-que-le-pegaron-a-milei-en-catamarca-y-lo-desmintieron/"
     },
     {
-     "titulo": "LIBERTARIOS VS. LIBERTARIOS La tropa de La Libertad Avanza en Catamarca le dijo a Milei que no quiere un acuerdo con Jalil Por Letra P | Periodismo Político",
-     "medio": "Letra P",
-     "fecha": "28/10/2026",
-     "url": "https://www.letrap.com.ar/politica/la-tropa-la-libertad-avanza-catamarca-le-dijo-milei-que-no-quiere-un-acuerdo-jalil-n5427782"
+     "titulo": "Ancasti Streaming Raúl Jalil: \"Yo creo que voy a ser el gobernador que más hospitales hizo\"",
+     "medio": "El Ancasti",
+     "fecha": "30/10/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/raul-jalil-yo-creo-que-voy-ser-el-gobernador-que-mas-hospitales-hizo-n625008"
     }
    ],
    "imagen": []
@@ -150,17 +188,16 @@
      "url": "https://www.letrap.com.ar/politica/rodrigo-loredo-busca-cercar-lla-cordoba-la-banca-macri-y-los-gobernadores-radicales-n5427725"
     },
     {
+     "titulo": "Alfil de Karina Milei. Bornoroni acelera su armado electoral en Córdoba y amaga con lanzarse: “El modelo de Llaryora está agotado”",
+     "medio": "La Nación",
+     "fecha": "30/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/el-libertario-gabriel-bornoroni-acelera-su-armado-en-cordoba-y-amaga-con-lanzarse-el-modelo-de-nid30102026/"
+    },
+    {
      "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
      "medio": "Hoy Dia",
      "fecha": "30/10/2026",
      "url": "https://hoydia.com.ar/politica/nacional/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-y-habilito-las-internaciones-involuntarias/"
-    },
-    {
-     "titulo": "Pedirán antecedentes penales para entrar y continuar en la Municipalidad de Córdoba: qué plantea la reforma",
-     "medio": "ElDoce",
-     "fecha": "29/10/2026",
-     "url": "https://eldoce.tv/politica/2026/10/29/pediran-antecedentes-penales-para-entrar-y-continuar-en-la-municipalidad-de-cordoba-los-cambios-de-la-reforma/",
-     "tag": "También en Cadena3"
     }
    ],
    "imagen": [
@@ -271,7 +308,7 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "GUERRA DE SUCESIÓN Bensusán construye su candidatura a gobernador de La Pampa mirando al campo como aliado Por Letra P | Periodismo Político",
+     "titulo": "Bensusán construye su candidatura a gobernador de La Pampa mirando al campo como aliado",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/bensusan-construye-su-candidatura-gobernador-la-pampa-mirando-al-campo-como-aliado-n5427739"
@@ -301,16 +338,16 @@
      "url": "https://www.eldestapeweb.com/politica/quintela-propuso-plan-emergencia-productiva-2027-remato-milei-unico-presidente-no-puso-solo-ladrillo-20261029221534"
     },
     {
+     "titulo": "«NI UN EXTREMO NI EL OTRO»: DIPUTADA RADICAL RECHAZA ALIANZA CON PJ Y LLA",
+     "medio": "Rioja Virtual",
+     "fecha": "29/10/2026",
+     "url": "https://riojavirtual.com.ar/ni-un-extremo-ni-el-otro-diputada-radical-rechaza-alianza-con-pj-y-lla/"
+    },
+    {
      "titulo": "Del RIGI a “los Chachos” y Bolsonaro. Javier Milei y Ricardo Quintela volvieron a cruzar críticas y chicanas",
      "medio": "La Nación",
      "fecha": "29/10/2026",
      "url": "https://www.lanacion.com.ar/politica/del-rigi-a-los-chachos-y-bolsonaro-javier-milei-y-ricardo-quintela-volvieron-a-cruzar-criticas-y-nid29102026/"
-    },
-    {
-     "titulo": "Magistratura: Con una jugada en el Senado, Cristina retiene dos lugares y manda a Wado de Pedro y la riojana López",
-     "medio": "La Politica Online",
-     "fecha": "27/10/2026",
-     "url": "https://www.lapoliticaonline.com/congreso/cristina-quiere-a-los-senadores-wado-de-pedro-y-la-riojana-lopez-para-el-consejo-de-la-magistratura-3830/"
     }
    ],
    "imagen": []
@@ -355,10 +392,10 @@
      "url": "https://lavozdemisiones.com/politica/el-hcd-aprobo-por-una-unanimidad-el-presupuesto-municipal-2027"
     },
     {
-     "titulo": "Ruiz y su proyecto de imprescriptibilidad de delitos sexuales: “Es una deuda histórica”",
+     "titulo": "LLA dictamina Ley Malvinas con disidencia de Herrera Ahuad y Arrúa",
      "medio": "La Voz - Misiones",
-     "fecha": "28/10/2026",
-     "url": "https://lavozdemisiones.com/politica/ruiz-y-su-proyecto-de-imprescriptibilidad-de-delitos-sexuales-es-una-deuda-historica"
+     "fecha": "27/10/2026",
+     "url": "https://lavozdemisiones.com/politica/lla-dictamina-ley-malvinas-con-disidencia-de-herrera-ahuad-y-arrua"
     },
     {
      "titulo": "Operativo Bolsonaro. Quiénes son los dos empleados de Yacyretá que ayudaron a Santiago Caputo en Misiones",
@@ -428,19 +465,26 @@
      "url": "https://www.salta.gob.ar/organismos/jefatura-de-gabinete-de-ministros-4"
     },
     {
-     "titulo": "Elecciones: Kosiner adelantó que Fuerza Patria irá “con candidatos en toda la provincia”",
-     "medio": "Informate Salta",
-     "fecha": "30/10/2026",
-     "url": "https://informatesalta.com.ar/sin-vueltas-tv/elecciones--kosiner-adelanto-que-fuerza-patria-ira--con-candidatos-en-toda-la-provincia-_a6ae37973052cad7d01821edf"
-    },
-    {
      "titulo": "La carrera electoral ya tiene fechas en el horizonte: Las claves del calendario 2027 en Salta",
      "medio": "Informate Salta",
      "fecha": "30/10/2026",
      "url": "https://informatesalta.com.ar/sin-vueltas-tv/la-carrera-electoral-ya-tiene-fechas-en-el-horizonte--las-claves-del-calendario-2027-en-salta_a6ae37038052cad7d0181456d"
+    },
+    {
+     "titulo": "La UCR de Salta postergó una semana sus elecciones internas: Serán el 8 de noviembre",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "30/10/2026",
+     "url": "https://nuevodiariodesalta.com.ar/la-ucr-de-salta-postergo-una-semana-sus-elecciones-internas-seran-el-8-de-noviembre/"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Visita de León XIV | Salteños buscarán que el Papa acepte como presente una imagen de la Virgen de la Peña",
+     "medio": "Cuarto",
+     "fecha": "29/10/2026",
+     "url": "https://www.cuarto.com.ar/visita-de-leon-xiv-saltenos-buscaran-que-el-papa-acepte-como-presente-una-imagen-de-la-virgen-de-la-pena/"
+    }
+   ]
   },
   "San Juan": {
    "top3": [
@@ -458,11 +502,10 @@
      "url": "https://www.diariodecuyo.com.ar/politica/cumbre-minera-rosario-karina-milei-y-12-gobernadores-las-paso-la-agenda-politica-n6587180"
     },
     {
-     "titulo": "Lula agradeció a Macri y marcó diferencias con Milei",
-     "medio": "El Zonda",
-     "fecha": "29/10/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/lula-agradecio-a-macri-y-marco-diferencias-con-milei",
-     "tag": "También en Diario de Cuyo"
+     "titulo": "El Gobierno provincial retoma la negociación salarial con los docentes: se trata de la última reunión paritaria del año El Gobiernoreactiva este lunes las paritarias con UDAP, UDA y AMET para definir el cierre salarial del año.",
+     "medio": "Diario de Cuyo",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-provincial-retoma-la-negociacion-salarial-los-docentes-se-trata-la-ultima-reunion-paritaria-del-ano-n6587251"
     }
    ],
    "imagen": [
@@ -491,29 +534,22 @@
      "tag": "También en La Gaceta Digital"
     },
     {
-     "titulo": "Acusan al gobernador Poggi de enriquecimiento ilícito por la compra masiva de inmuebles",
-     "medio": "La Politica Online",
-     "fecha": "24/10/2026",
-     "url": "https://www.lapoliticaonline.com/politica/acusan-al-gobernador-poggi-de-enriquecimiento-ilicito-por-la-compra-masiva-de-inmuebles/"
-    },
-    {
      "titulo": "Concejo Deliberante: con la ausencia del peronismo, el oficialismo dedicó toda la sesión a la aprobación de homenajes",
      "medio": "La Gaceta Digital",
      "fecha": "29/10/2026",
      "url": "https://lagacetadigital.com.ar/2026/10/29/concejo-deliberante-con-la-ausencia-del-peronismo-el-oficialismo-dedico-toda-la-sesion-a-la-aprobacion-de-homenajes/"
+    },
+    {
+     "titulo": "Ley Micaela: continúan las capacitaciones a organismos del Gobierno",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "30/10/2026",
+     "url": "https://agenciasanluis.com/2026/10/30/1226505-ley-micaela-continuan-las-capacitaciones-a-organismos-del-gobierno-2/"
     }
    ],
    "imagen": []
   },
   "Santa Cruz": {
    "top3": [
-    {
-     "titulo": "Compartir Pesar. El Gobierno de Santa Cruz declaró dos días de duelo provincial por la muerte de los hermanitos Leo y José",
-     "medio": "Winfo",
-     "fecha": "29/10/2026",
-     "url": "https://winfo.ar/politica/2026/10/el-gobierno-de-santa-cruz-declaro-dos-dias-de-duelo-provincial-por-la-muerte-de-los-hermanitos-leo-y-jose",
-     "tag": "También en El Diario Nuevo Día, Mediatíca y 2 más"
-    },
     {
      "titulo": "El Gobierno retomó las mesas de discusión salarial con los gremios de Salud, Educación y la Administración Central",
      "medio": "Prensa oficial de Santa Cruz",
@@ -522,10 +558,17 @@
      "tag": "También en El Diario Nuevo Día, Mediatíca"
     },
     {
-     "titulo": "Nadia Ricci, ministra de la Producción: “Esta ley no es para vivos, está hecha para la gente que cree en Santa Cruz”",
+     "titulo": "Habilita internaciones involuntarias El Senado aprobó en general la reforma de la Ley de Salud Mental",
+     "medio": "Tiempo Sur",
+     "fecha": "30/10/2026",
+     "url": "https://www.tiemposur.com.ar/politica/el-senado-aprobo-en-general-la-reforma-de-la-ley-de-salud-mental"
+    },
+    {
+     "titulo": "Álvarez: “La quinta perforación es el futuro de la provincia de Santa Cruz”",
      "medio": "La Opinión Austral",
-     "fecha": "28/10/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/nadia-ricci-ministra-de-la-produccion-esta-ley-no-es-para-vivos-esta-hecha-para-la-gente-que-cree-en-santa-cruz-724872.html"
+     "fecha": "29/10/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/alvarez-la-quinta-perforacion-es-el-futuro-de-la-provincia-de-santa-cruz-725327.html",
+     "tag": "También en Tiempo Sur, Mediatíca"
     }
    ],
    "imagen": []
@@ -547,11 +590,10 @@
      "tag": "También en Infobae"
     },
     {
-     "titulo": "Lula le agradeció a Macri el saludo por el triunfo electoral con una indirecta a Milei",
-     "medio": "La Capital",
-     "fecha": "29/10/2026",
-     "url": "https://www.lacapital.com.ar/politica/lula-le-agradecio-macri-el-saludo-el-triunfo-electoral-una-indirecta-milei-n10289425.html",
-     "tag": "También en UNO - SF"
+     "titulo": "PLATA EN MANO El gobierno de Santa Fe presentó el Presupuesto 2027: $18,9 billones, equilibrio fiscal y guiño al campo Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "30/10/2026",
+     "url": "https://www.letrap.com.ar/politica/el-gobierno-santa-fe-presento-el-presupuesto-2027-189-billones-equilibrio-fiscal-y-guino-al-campo-n5427848"
     }
    ],
    "imagen": []
@@ -595,7 +637,7 @@
      "url": "https://www.infobae.com/politica/2026/10/29/la-cautelar-que-freno-el-proyecto-sea-lion-sigue-vigente-y-la-justicia-sumo-a-tierra-del-fuego-a-la-causa-contra-las-petroleras/"
     },
     {
-     "titulo": "TIERRA DEL FUEGO Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
+     "titulo": "Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/martin-perez-destaco-el-fallo-que-permitio-la-fiscalizacion-provincial-el-puerto-ushuaia-n5427821"
@@ -620,16 +662,16 @@
      "tag": "También en LV12"
     },
     {
-     "titulo": "Jaldo estalló contra Manzur porque impugnaron su reelección ante la Corte: \"le va a tener que devolver a Tucumán\"",
-     "medio": "La Politica Online",
-     "fecha": "27/10/2026",
-     "url": "https://www.lapoliticaonline.com/politica/jaldo-estallo-contra-manzur-porque-impugnaron-su-reeleccion-ante-la-corte-le-va-a-tener-que-devolver-a-tucuman/"
-    },
-    {
      "titulo": "Elecciones en la Asociación de Magistrados: la Cámara Civil suspendió los comicios por la posible inclusión irregular de funcionarios en el padrón",
      "medio": "La Gaceta - Tucumán",
      "fecha": "30/10/2026",
      "url": "https://www.lagaceta.com.ar/nota/1160280/politica/elecciones-asociacion-magistrados-camara-civil-suspendio-comicios-posible-inclusion-irregular-funcionarios-padron.html"
+    },
+    {
+     "titulo": "Macri admitió que \"no se avanzó nada\" en las negociaciones electorales con La Libertad Avanza",
+     "medio": "Los Primeros",
+     "fecha": "30/10/2026",
+     "url": "https://www.losprimeros.tv/politica/macri-admitio-que--no-se-avanzo-nada--en-las-negociaciones-electorales-con-la-libertad-avanza_a6ae49f85052cad7d0193077d"
     }
    ],
    "imagen": []
@@ -645,7 +687,6 @@
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
-  "https://eltermometroweb.com/",
   "https://grupolaprovincia.com/",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
@@ -655,12 +696,10 @@
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://nuevarioja.com.ar/",
-  "https://riojavirtual.com.ar/",
   "https://www.mdzol.com/mendoza",
   "https://www.elterritorio.com.ar/",
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
-  "https://www.cuarto.com.ar/",
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
