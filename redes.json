@@ -1,97 +1,97 @@
 {
- "actualizado": "30/10 17:26",
+ "actualizado": "30/10 18:25",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "selección de fútbol sub-15 de argentina",
-   "busquedas": "100+",
-   "nota": "Nicolás Losavio, el pibe de San Lorenzo que fue el máximo goleador de Argentina en el Mundial Sub 15",
-   "nota_url": "https://www.ole.com.ar/seleccion/nicolas-losavio-pibe-san-lorenzo-maximo-goleador-argentina-mundial-sub-15_0_tlr5e5iL8U.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carburando",
+   "tema": "estudiantes de río cuarto - gimnasia",
    "busquedas": "200+",
-   "nota": "Martín Costanzo, sobre los nuevos motores del TC: “No sé para que más potencia, no entiendo el por qué\"",
-   "nota_url": "https://www.carburando.com/turismo-carretera/martin-costanzo-no-se-para-que-mas-potencia-no-entiendo-el-por-que-id200336",
-   "medio": "Carburando",
+   "nota": "Estudiantes de Río Cuarto vs. Gimnasia, por el Torneo Clausura: dónde ver en vivo, hora y formaciones",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-estudiantes-rc-vs-gimnasia-fecha-15-id769087.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "reserva natural",
-   "busquedas": "100+",
-   "nota": "Misiones suma 118 áreas naturales protegidas con la incorporación de Fachinal Miní",
-   "nota_url": "https://economis.com.ar/fachinal-mini-se-incorporo-como-area-natural-protegida/",
-   "medio": "Economis",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima mendoza",
+   "tema": "sporting lisboa",
    "busquedas": "200+",
-   "nota": "Clima en Mendoza hoy viernes 30 de octubre: lluvia moderada y temperatura agradable",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/10/30/clima-en-mendoza-hoy-viernes-30-de-octubre-lluvia-moderada-y-temperatura-agradable/",
+   "nota": "Na briga pelo título do Brasileirão, técnicos portugueses estão na mira de clube europeu",
+   "nota_url": "https://www.bnews.com.br/noticias/esporte/na-briga-pelo-titulo-do-brasileirao-tecnicos-portugueses-estao-na-mira-de-clube-europeu.html",
+   "medio": "Bnews",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "contingencias climaticas",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marina calabró",
+   "busquedas": "200+",
+   "nota": "Marina Calabró se cansó y destruyó a una primera figura en pleno vivo: \"Tenés que volver a nacer\"",
+   "nota_url": "https://elintransigente.com/2026/10/30/marina-calabro-se-canso-y-destruyo-a-una-primera-figura-en-pleno-vivo-tenes-que-volver-a-nacer/",
+   "medio": "El Intransigente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riesgo país",
+   "busquedas": "200+",
+   "nota": "Riesgo país, dólar y acciones: así opera el mercado hoy, viernes 30 de octubre",
+   "nota_url": "https://tn.com.ar/economia/2026/10/30/las-acciones-argentinas-en-wall-street-caen-hasta-un-7-y-el-riesgo-pais-vuelve-a-superar-los-750-puntos/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "nieta",
+   "tema": "joan manuel serrat",
    "busquedas": "100+",
-   "nota": "“Quiero que me devuelvan a mi nieta”: el desesperado reclamo de una abuela tras una intervención del SENAF",
-   "nota_url": "https://www.altagracianoticias.com/quiero-que-me-devuelvan-a-mi-nieta-el-desesperado-reclamo-de-una-abuela-tras-una-intervencion-del-senaf/",
-   "medio": "Noticias de Alta Gracia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bodo glimt",
-   "busquedas": "100+",
-   "nota": "Arctic giants Bodo/Glimt in heated debate with fans over new stadium name",
-   "nota_url": "https://www.tribalfootball.com/article/arctic-giants-bodo-glimt-in-heated-debate-with-fans-over-new-stadium-name-912f317c-a7ba-422a-aaa3-992e17754332",
-   "medio": "TribalFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos melconian",
-   "busquedas": "100+",
-   "nota": "Melconian fue lapidario con Milei: habló de US$ 100.000 millones de pérdida y alertó por una doble crisis en 2027",
-   "nota_url": "https://eleconomista.com.ar/economia/melconian-fue-lapidario-milei-hablo-us-100000-millones-perdida-alerto-una-doble-crisis-2027-n99270",
-   "medio": "El Economista - Últimas noticias económicas y financieras",
+   "nota": "El Gobierno regional reconoce la labor de las Amigas de la Lectura y los clubes de lectura y destaca el legado de Joan Manuel Serrat",
+   "nota_url": "https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-regional-reconoce-la-labor-de-las-amigas-de-la-lectura-y-los-clubes-de-lectura-y-destaca",
+   "medio": "Gobierno de Castilla-La Mancha",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "ejecución",
-   "busquedas": "100+",
-   "nota": "Christa Pike habló por primera vez tras sobrevivir a la inyección letal: “No hay un solo momento en que no sienta dolor”",
-   "nota_url": "https://tn.com.ar/internacional/2026/10/30/christa-pike-hablo-por-primera-vez-tras-sobrevivir-a-la-inyeccion-letal-no-hay-un-solo-momento-en-que-no-sienta-dolor/",
-   "medio": "TN",
+   "tema": "daniel osvaldo",
+   "busquedas": "200+",
+   "nota": "Jimena Barón habló de la salud de Daniel Osvaldo tras su internación y puso un límite",
+   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/10/29/jimena-baron-dio-detalles-sobre-el-estado-de-salud-de-daniel-osvaldo-esta-mucho-mejor/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "losc - lens",
+   "tema": "emiliano martínez",
    "busquedas": "500+",
-   "nota": "\"Direct\"!! PSG - Le Havre En Direct 30 octobre 2026",
-   "nota_url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-psg-le-havre-lie-en-crkfdxs",
-   "medio": "Port of Rotterdam",
+   "nota": "Dibu Martínez mostró las secuelas de su fractura en el Mundial: \"Me queda así de por vida\"",
+   "nota_url": "https://www.cadena3.com/noticia/futbol/dibu-martinez-mostro-las-secuelas-de-su-fractura-en-el-mundial-me-queda-asi-de-por-vida_608768",
+   "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "villarreal - rcd espanyol",
-   "busquedas": "1000+",
-   "nota": "Mikautadze y Moleiro regresan en el Villarreal ante un Espanyol en el que debuta Santiago",
-   "nota_url": "https://www.infobae.com/espana/agencias/2026/10/30/mikautadze-y-moleiro-regresan-en-el-villarreal-ante-un-espanyol-en-el-que-debuta-santiago/",
-   "medio": "Infobae",
+   "tema": "inflación",
+   "busquedas": "200+",
+   "nota": "RDEco: por qué se frenó la desinflación y qué puede pasar antes de las elecciones",
+   "nota_url": "https://www.perfil.com/mas-perfil/rdeco-por-que-se-freno-la-desinflacion-y-que-puede-pasar-antes-de-las-elecciones-aTn4m3z7ad4X",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "radar",
+   "busquedas": "100+",
+   "nota": "Hoy se coloca un radar sobre Ruta 22 y se vienen las fotomultas: cuándo comenzarán a labrarse las actas",
+   "nota_url": "https://www.lcr.com.ar/noticias/2026/10/27/58221-hoy-se-coloca-un-radar-sobre-ruta-22-y-se-vienen-las-fotomultas-cuando-comenzaran-a-labrarse-las-actas",
+   "medio": "LCR Diario Digital",
    "relevante": false,
    "temas": []
   }
