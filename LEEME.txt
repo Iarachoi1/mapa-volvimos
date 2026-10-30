@@ -19,3 +19,18 @@ Para que un gobernador nuevo se reconozca en los titulares: editá jurisdiccione
 Para probar en tu Mac (opcional), en la app Terminal, dentro de esta carpeta:
   python3 -m pip install -r requirements.txt
   python3 actualizar_noticias.py
+
+COMUNAS DE CABA
+  Al tocar CABA, el mapa hace zoom y muestra las 15 comunas. Debajo del mapa
+  hay un selector para pintarlas por "Fuerza" (quién preside la junta) o por
+  "Reelección 2027" (si quien preside puede volver a ser elegido/a).
+  Cada comuna abre su ficha: barrios, presidencia, los 7 integrantes de la
+  Junta Comunal y si cada uno puede ser reelecto en 2027.
+  - Regla: Ley 1777, art. 22. Quien ya fue reelecto (dos mandatos seguidos)
+    no puede volver a ser elegido sin un intervalo de cuatro años.
+  - Los datos están dentro de index.html, en el bloque que empieza con
+    "JUNTAS COMUNALES DE CABA". Cada integrante tiene "reelige": true (puede)
+    o false (no puede) y un "motivo". Para corregir algo, editá ese texto y
+    volvé a subir index.html.
+  - Enlace directo a una comuna: agregá #comuna-14 (o el número) al final de la
+    dirección de la página.
