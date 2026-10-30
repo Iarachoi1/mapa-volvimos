@@ -86,16 +86,80 @@ PALABRAS_IMAGEN = [
 ]
 PALABRAS_CANDIDATURA = ["candidat", "postula", "reeleccion", "encabez"]
 PALABRAS_NEGATIVAS = [
-    "futbol", "gol$", "hincha", "torneo", "choque", "accidente",
-    "murio", "muerte de", "asesin", "robo$", "incendio", "horoscopo", "receta",
-    "pronostico", "famos", "novela", "streaming", "detuvieron",
+    "choque", "accidente", "murio", "muerte de", "asesin", "robo$", "incendio",
+    "horoscopo", "receta", "pronostico", "detuvieron",
 ]
+# Secciones que no se leen nunca
 SECCIONES_DESCARTADAS = [
-    "/deporte", "/futbol", "/policial", "/espectaculo", "/show", "/famosos",
-    "/farandula", "/horoscopo", "/clima", "/tecnologia", "/gastronomia",
+    "/policial", "/horoscopo", "/clima", "/tecnologia", "/gastronomia",
     "/turismo", "/autos", "/mundo", "/internacional", "/salud-y-bienestar",
     "/estilo", "/tendencias", "/videos", "/servicios", "/agro",
 ]
+
+# FILTRO DE EXCLUSIÓN ESTRICTO: deportes, farándula y espectáculos.
+# Estas notas se descartan por completo, salvo que el título muestre un
+# impacto institucional, judicial o político directo (PALABRAS_INSTITUCIONALES).
+SECCIONES_EXCLUIDAS = ["/deporte", "/futbol", "/espectaculo", "/show", "/famosos", "/farandula"]
+PALABRAS_EXCLUIDAS = [
+    "futbol", "gol$", "goles$", "hincha", "torneo", "superclasico", "river plate",
+    "boca juniors", "seleccion argentina", "messi", "tenis$", "formula 1", "farandula",
+    "famos", "actriz", "actor$", "cantante", "influencer", "streamer", "gran hermano",
+    "recital", "concierto", "estreno", "pelicula", "serie$", "novela", "espectaculo",
+]
+PALABRAS_INSTITUCIONALES = [
+    "legislatura", "gobierno", "justicia", "juez", "jueza", "fiscal", "denuncia",
+    "imputad", "procesad", "ley$", "decreto", "clausura", "ministr", "jefe de gobierno",
+    "intendent", "gobernador", "congreso", "diputad", "senad", "funcionari",
+    "licitacion", "contrato", "subsidio", "presupuesto", "milei", "macri", "kicillof",
+]
+
+# ----------------------------------------------------------------------------
+# CABA: COBERTURA AMPLIADA
+# ----------------------------------------------------------------------------
+# En CABA se muestran más noticias y se buscan cinco criterios. Primero entra
+# la mejor noticia de cada criterio (si la hay) y después se completa por
+# relevancia. Cada noticia lleva su criterio como etiqueta.
+MAX_TOP_CABA = 8
+CRITERIOS_CABA = {
+    # C. Cambios de gabinete (se prioriza prensa oficial y Boletín Oficial)
+    "Gabinete": [
+        "renunci", "design", "desplaz", "nombr", "asumi", "jura$", "juro$", "gabinete",
+        "ministr", "secretari", "jefe de gabinete", "vicejef", "reestructur", "fusion",
+        "organigrama", "boletin oficial",
+    ],
+    # D. Calendario electoral
+    "Calendario electoral": [
+        "eleccion", "electoral", "desdobla", "concurren", "paso$", "boleta",
+        "reforma electoral", "reforma constitucional", "reeleccion", "convocatoria",
+        "cronograma", "ficha limpia", "voto$", "votacion",
+    ],
+    # A. Política
+    "Política": [
+        "interna$", "internas$", "alianza", "candidat", "armado", "2027", "frente",
+        "bloque", "ruptura", "rompi", "quiebre", "tension", "conflicto", "pelea",
+        "enfrent", "casa rosada", "milei", "gobierno nacional", "gobernador",
+        "libertari", "lla$", "pro$", "ucr$", "peronis", "pj$", "oposicion",
+        "oficialismo", "acuerdo",
+    ],
+    # E. Gestión municipal y problemáticas de la Ciudad
+    "Ciudad": [
+        "subte", "colectivo", "transporte", "recoleccion", "residuos", "basura",
+        "contenedor", "transito", "semaforo", "bache", "bacheo", "asfalto",
+        "iluminacion", "luminaria", "vereda", "plaza", "inundac", "anegam", "desague",
+        "arbolado", "limpieza", "cuidacoches", "trapitos", "inseguridad", "motochorro",
+        "delito", "vecinos", "vecinal", "reclamo", "protesta", "paro$", "gremio",
+        "sutecba", "municipales", "metrodelegados", "emova", "clausura", "agc$",
+        "situacion de calle", "autopista", "ciclovia", "estacionamiento", "acarreo",
+        "grua", "obras$", "obra$",
+    ],
+    # B. Gestión y políticas públicas
+    "Gestión": [
+        "legislatura", "ley$", "leyes$", "proyecto", "sesion", "aprob", "decreto",
+        "presupuesto", "endeudamiento", "deuda", "impuesto", "abl$", "tasa$", "salud",
+        "hospital", "educacion", "escuela", "docente", "seguridad", "policia",
+        "obra publica", "economia", "empleo", "alquiler", "vivienda", "licitacion",
+    ],
+}
 
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
          "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
@@ -294,10 +358,34 @@ def fecha_real_de_nota(url):
 # ----------------------------------------------------------------------------
 # CLASIFICACIÓN Y PUNTAJE
 # ----------------------------------------------------------------------------
-def puntaje_politico(titulo, url):
+def esta_excluida(titulo, url):
+    """Filtro estricto: deportes, farándula y espectáculos afuera, salvo impacto institucional."""
     t = normalizar(titulo)
     ruta = urlparse(url).path.lower()
     if any(s in ruta for s in SECCIONES_DESCARTADAS):
+        return True
+    es_de_ocio = any(s in ruta for s in SECCIONES_EXCLUIDAS) or any(contiene(t, w) for w in PALABRAS_EXCLUIDAS)
+    if es_de_ocio and not any(contiene(t, w) for w in PALABRAS_INSTITUCIONALES):
+        return True
+    return False
+
+
+def criterio_caba(titulo):
+    """Devuelve (criterio, puntos extra) para una noticia de CABA."""
+    t = normalizar(titulo)
+    mejor, mejor_hits, total = "Gestión", 0, 0
+    for criterio, palabras in CRITERIOS_CABA.items():
+        hits = sum(1 for w in palabras if contiene(t, w))
+        total += hits * (2 if criterio == "Ciudad" else 1)
+        if hits > mejor_hits:  # en empate gana el que está primero en la lista
+            mejor, mejor_hits = criterio, hits
+    return mejor, min(total, 5)
+
+
+def puntaje_politico(titulo, url):
+    t = normalizar(titulo)
+    ruta = urlparse(url).path.lower()
+    if esta_excluida(titulo, url):
         return -10
     p = 0
     p += sum(2 for w in PALABRAS_FUERTES if contiene(t, w))
@@ -380,6 +468,8 @@ def main():
                 continue
 
             puntos = puntaje_politico(n["titulo"], n["url"])
+            if puntos <= -10:
+                continue  # deportes, farándula, espectáculos, policiales, etc.
             if fuente["bloque"] in ("2", "3"):
                 puntos += 2      # prensa oficial y legislaturas: hechos de gestión
             elif fuente["bloque"] == "1":
@@ -399,10 +489,11 @@ def main():
                     puntos += 1
 
             for destino in destinos:
+                criterio, extra = criterio_caba(n["titulo"]) if destino == "CABA" else (None, 0)
                 candidatas.append({
                     "juris": destino, "titulo": n["titulo"], "url": n["url"],
                     "medio": medio, "fecha": fecha, "fecha_segura": bool(h["fecha"]),
-                    "puntos": puntos, "bloque": fuente["bloque"],
+                    "puntos": puntos + extra, "bloque": fuente["bloque"], "criterio": criterio,
                     "imagen": es_de_imagen(n["titulo"]) or fuente["bloque"] == "4",
                     "local": fuente["juris"] == destino,
                 })
@@ -439,14 +530,24 @@ def main():
             elegidas.append({"rep": rep, "medios": medios, "puntaje": puntaje,
                              "imagen": any(c["imagen"] for c in g["notas"])})
         elegidas.sort(key=lambda e: -e["puntaje"])
+        max_top = MAX_TOP_CABA if clave == "CABA" else MAX_TOP
+        if clave == "CABA":
+            # Primero la mejor noticia de cada criterio, después el resto por relevancia
+            primeras, vistos = [], set()
+            for e in elegidas:
+                if not e["imagen"] and e["rep"]["criterio"] not in vistos and e["puntaje"] >= PUNTAJE_MINIMO:
+                    vistos.add(e["rep"]["criterio"])
+                    primeras.append(e)
+            elegidas = primeras + [e for e in elegidas if e not in primeras]
 
         top, imagen, por_medio = [], [], defaultdict(int)
+        max_mismo_medio = MAX_MISMO_MEDIO * 2 if clave == "CABA" else MAX_MISMO_MEDIO
         for e in elegidas:
             rep = e["rep"]
-            lista, maximo = (imagen, MAX_IMAGEN) if e["imagen"] else (top, MAX_TOP)
+            lista, maximo = (imagen, MAX_IMAGEN) if e["imagen"] else (top, max_top)
             if len(lista) >= maximo or e["puntaje"] < (2 if e["imagen"] else PUNTAJE_MINIMO):
                 continue
-            if por_medio[rep["medio"]] >= MAX_MISMO_MEDIO:
+            if por_medio[rep["medio"]] >= max_mismo_medio:
                 continue
             # Si no sabemos la fecha real, abrir la nota para confirmarla
             if not rep["fecha_segura"] and verificadas < MAX_FECHAS_A_VERIFICAR:
@@ -460,8 +561,13 @@ def main():
             otros = [m for m in e["medios"] if m != rep["medio"]]
             nota = {"titulo": rep["titulo"], "medio": rep["medio"],
                     "fecha": rep["fecha"].strftime("%d/%m/%Y"), "url": rep["url"]}
+            etiquetas = []
+            if clave == "CABA" and not e["imagen"]:
+                etiquetas.append(rep["criterio"])
             if otros:
-                nota["tag"] = "También en " + ", ".join(otros[:2]) + (f" y {len(otros) - 2} más" if len(otros) > 2 else "")
+                etiquetas.append("También en " + ", ".join(otros[:2]) + (f" y {len(otros) - 2} más" if len(otros) > 2 else ""))
+            if etiquetas:
+                nota["tag"] = " · ".join(etiquetas)
             lista.append(nota)
             por_medio[rep["medio"]] += 1
         if top or imagen:
