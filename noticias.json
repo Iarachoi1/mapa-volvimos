@@ -1,6 +1,6 @@
 {
  "semana": "23 al 30 de octubre de 2026",
- "actualizado": "30/10 11:47",
+ "actualizado": "30/10 15:09",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -19,14 +19,20 @@
      "tag": "También en El Parlamentario"
     },
     {
-     "titulo": "Lo apoyaron Milei y Trump Elecciones en Israel: los resultados finales confirmaron que el Likud de Netanyahu ganó pero no alcanza la mayoría y deberá negociar para formar gobierno Marcos Pintos",
-     "medio": "Perfil",
-     "fecha": "30/10/2026",
-     "url": "https://www.perfil.com/politica/elecciones-en-israel-los-resultados-finales-confirmaron-que-el-likud-de-netanyahu-gano-pero-no-alcanza-la-mayoria-y-debera-negociar-para-formar-gobierno-aHIRY9y6MOla",
-     "tag": "También en Letra P"
+     "titulo": "Milei felicitó a Netanyahu por ser el más votado en las elecciones de Israel, aunque no logró alcanzar una mayoría de gobierno",
+     "medio": "Infobae",
+     "fecha": "29/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/29/milei-felicito-a-netanyahu-por-ser-el-mas-votado-en-las-elecciones-de-israel-aunque-no-logro-alcanzar-una-mayoria-de-gobierno/",
+     "tag": "También en El Destape"
     }
    ],
    "imagen": [
+    {
+     "titulo": "DISCUSIÓN 2027 | BUENOS AIRES Nardini, una candidatura que no prende entre las tribus del peronismo Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/leonardo-nardini-una-candidatura-que-no-prende-las-tribus-del-peronismo-n5427852"
+    },
     {
      "titulo": "La consultora top de la City dice que el dólar está atrasado y Milei no podrá sostenerlo hasta las elecciones",
      "medio": "La Politica Online",
@@ -82,28 +88,22 @@
     {
      "titulo": "Quirós presentó el Presupuesto 2027 de Salud ante la Comisión de Presupuesto",
      "medio": "Legislatura porteña de CABA",
-     "fecha": "30/10/2026",
+     "fecha": "23/10/2026",
      "url": "https://www.legislatura.gob.ar/posts/quiros-presento-el-presupuesto-2027-de-salud-ante-la-comision-de-presupuesto.html",
      "tag": "Gestión"
     },
     {
-     "titulo": "Jorge Macri cierra el acuerdo con Ritondo para disputarle a Mauricio la lista de diputados del PRO",
-     "medio": "La Politica Online",
+     "titulo": "La Legislatura porteña aprobó límites a las cobranzas extrajudiciales y creó una mesa de asistencia para personas endeudadas",
+     "medio": "Infobae",
      "fecha": "30/10/2026",
-     "url": "https://www.lapoliticaonline.com/ciudad/jorge-macri-profundiza-su-vinculo-con-ritondo-y-busca-ganar-influencia-en-la-lista-de-diputados-del-pro-3934/",
-     "tag": "Política"
+     "url": "https://www.infobae.com/politica/2026/10/30/la-legislatura-portena-aprobo-limites-a-las-cobranzas-extrajudiciales-y-creo-una-mesa-de-asistencia-para-personas-endeudadas/",
+     "tag": "Gestión"
     }
    ],
    "imagen": []
   },
   "Buenos Aires": {
    "top3": [
-    {
-     "titulo": "El gobierno pretende que la Cámara Electoral obligue a Kicillof a desdoblar la elección",
-     "medio": "La Politica Online",
-     "fecha": "23/10/2026",
-     "url": "https://www.lapoliticaonline.com/politica/el-gobierno-de-milei-le-pide-a-la-camara-electoral-que-obligue-a-kicillof-a-desdoblar-la-eleccion/"
-    },
     {
      "titulo": "ELECCIONES 2027 Reforma electoral: la CNE apura al Congreso y advierte por los plazos",
      "medio": "La Tecla",
@@ -115,6 +115,12 @@
      "medio": "Infobae",
      "fecha": "30/10/2026",
      "url": "https://www.infobae.com/politica/2026/10/30/reelecciones-paso-bonaerenses-y-construccion-propia-que-dejo-la-reunion-de-kicillof-con-sus-intendentes/"
+    },
+    {
+     "titulo": "“Cristina Kirchner puede ser candidata”: la tesis jurídica que desafía las lecturas sobre su condena",
+     "medio": "Info Cielo",
+     "fecha": "30/10/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/cristina-kirchner-puede-ser-candidata-la-tesis-juridica-que-desafia-las-lecturas-sobre-su-condena"
     }
    ],
    "imagen": [
@@ -171,10 +177,10 @@
      "url": "https://www.diariojornada.com.ar/426146/politica/sergio_unac_avanza_con_su_armado_nacional_y_prepara_una_propuesta_para_2027"
     },
     {
-     "titulo": "Paritaria docente 2027: qué pide ATEN y por qué rechazó la propuesta del Ejecutivo",
-     "medio": "ADN Sur",
+     "titulo": "Ley de Salud Mental: El Senado aprobó la reforma que habilita internaciones involuntarias",
+     "medio": "El Chubut",
      "fecha": "30/10/2026",
-     "url": "https://www.adnsur.com.ar/sociedad/paritaria-docente-2027--que-pide-aten-y-por-que-rechazo-la-propuesta-del-ejecutivo_a6ae486984c1b26cf08c1a759"
+     "url": "https://www.elchubut.com.ar/nacionales/2026-10-30-10-25-0-ley-de-salud-mental-el-senado-aprobo-la-reforma-que-habilita-internaciones-involuntarias"
     }
    ],
    "imagen": []
@@ -182,25 +188,31 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "De Loredo busca cercar a LLA en Córdoba con la banca de Macri y los gobernadores radicales",
-     "medio": "Letra P",
-     "fecha": "27/10/2026",
-     "url": "https://www.letrap.com.ar/politica/rodrigo-loredo-busca-cercar-lla-cordoba-la-banca-macri-y-los-gobernadores-radicales-n5427725"
-    },
-    {
      "titulo": "Alfil de Karina Milei. Bornoroni acelera su armado electoral en Córdoba y amaga con lanzarse: “El modelo de Llaryora está agotado”",
      "medio": "La Nación",
      "fecha": "30/10/2026",
      "url": "https://www.lanacion.com.ar/politica/el-libertario-gabriel-bornoroni-acelera-su-armado-en-cordoba-y-amaga-con-lanzarse-el-modelo-de-nid30102026/"
     },
     {
-     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
-     "medio": "Hoy Dia",
-     "fecha": "30/10/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-y-habilito-las-internaciones-involuntarias/"
+     "titulo": "LIBERTARIOS & FEDERALES El pacto de Rosario: la Casa Rosada le abre el juego del RIGI a Pullaro, Frigerio y Llaryora Por Ramiro Porchietti",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/el-pacto-rosario-la-casa-rosada-le-abre-el-juego-del-rigi-pullaro-frigerio-y-llaryora-n5427827"
+    },
+    {
+     "titulo": "La Legislatura aprobó la modificación de los radios urbanos de Arroyo Cabral y Nicolás Bruzzone",
+     "medio": "Legislatura de Córdoba",
+     "fecha": "29/10/2026",
+     "url": "https://legislaturacba.gob.ar/la-legislatura-aprobo-la-modificacion-de-los-radios-urbanos-de-arroyo-cabral-y-nicolas-bruzzone/"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Elecciones 2027. Menem descartó una interna con Bullrich en LLA y fue tajante: \"El único candidato es Milei\"",
+     "medio": "Cadena3",
+     "fecha": "30/10/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/menem-descarto-una-interna-con-bullrich-en-lla-y-fue-tajante-el-unico-candidato-es-milei_608695"
+    },
     {
      "titulo": "Llaryora supera a Juez, Bornoroni y De Loredo en una encuesta para 2027",
      "medio": "La Politica Online",
@@ -241,24 +253,24 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental: qué cambios propone",
+     "titulo": "Boleta Única de Papel: capacitaron a 270 estudiantes de Ramírez y Nogoyá para las elecciones de 2027",
      "medio": "El Once",
      "fecha": "30/10/2026",
-     "url": "https://www.elonce.com/politica/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-que-cambios-propone.htm",
-     "tag": "También en UNO ER, AFP Digital y 1 más"
+     "url": "https://www.elonce.com/haciendo-comunidad/boleta-unica-de-papel-capacitaron-a-270-estudiantes-de-ramirez-y-nogoya-para-las-elecciones-de-2027.htm",
+     "tag": "También en Ahora, AFP Digital"
     },
     {
-     "titulo": "Presupuesto 2027: Entre Ríos proyecta una inversión de $905.394 millones para infraestructura",
-     "medio": "El Once",
+     "titulo": "El Senado aprobó en general la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+     "medio": "AFP Digital",
      "fecha": "30/10/2026",
-     "url": "https://www.elonce.com/politica/presupuesto-2027-entre-rios-proyecta-una-inversion-de-905-394-millones-para-infraestructura.htm"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/10/30/477012-el-senado-aprobo-en-general-la-reforma-de-la-ley-de-salud-mental-que-habilita-internaciones-involuntarias",
+     "tag": "También en Ahora"
     },
     {
-     "titulo": "Frigerio destacó el potencial de Entre Ríos para inversiones mineras y energéticas",
-     "medio": "Ahora",
-     "fecha": "29/10/2026",
-     "url": "https://ahora.com.ar/politica/frigerio-destaco-el-potencial-de-entre-rios-para-inversiones-mineras-y-energeticas",
-     "tag": "También en AFP Digital, UNO ER"
+     "titulo": "“No se ha avanzado nada”: Mauricio Macri aseguró que el acuerdo electoral entre el PRO y LLA está estancado",
+     "medio": "AFP Digital",
+     "fecha": "30/10/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/10/30/477078-no-se-ha-avanzado-nada-mauricio-macri-aseguro-que-el-acuerdo-electoral-entre-el-pro-y-lla-esta-estancado"
     }
    ],
    "imagen": []
@@ -297,13 +309,21 @@
      "tag": "También en Todo Jujuy, El Tribuno"
     },
     {
-     "titulo": "Jujuy: la Cámara Nacional Electoral le dio una vida más a la lista de Rivarola y asoman las internas en el PJ Por Lucio Di Giuseppe",
-     "medio": "Letra P",
+     "titulo": "video Política. Axel Kicillof en Jujuy: firmó siete convenios con Carlos Sadir y habló sobre Milei y las elecciones de 2027 Por Maria Eugenia Burgos",
+     "medio": "Todo Jujuy",
      "fecha": "30/10/2026",
-     "url": "https://www.letrap.com.ar/politica/jujuy-la-camara-nacional-electoral-le-dio-una-vida-mas-la-lista-rivarola-y-asoman-las-internas-el-pj-n5427831"
+     "url": "https://www.todojujuy.com/axel-kicillof-jujuy-firmo-siete-convenios-carlos-sadir-y-hablo-milei-y-las-elecciones-2027-n298188",
+     "tag": "También en El Tribuno"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "video Encuesta. Diego Maradona cumpliría 66 años: los jujeños lo recordaron con emoción y admiración Por Gabriela Bernasconi",
+     "medio": "Todo Jujuy",
+     "fecha": "30/10/2026",
+     "url": "https://www.todojujuy.com/jujuy/diego-maradona-cumpliria-66-anos-los-jujenos-lo-recordaron-emocion-y-admiracion-n298179"
+    }
+   ]
   },
   "La Pampa": {
    "top3": [
@@ -368,10 +388,10 @@
      "tag": "También en Mendoza Post"
     },
     {
-     "titulo": "Mendoza publicó la resolución que regula la pesca deportiva para la temporada 2026/2027",
-     "medio": "Prensa oficial de Mendoza",
+     "titulo": "El Gobierno volvió a dejar sin efecto más de 21.800 pensiones por invalidez: ¿estás en la lista?",
+     "medio": "Diario UNO - MDZ",
      "fecha": "30/10/2026",
-     "url": "https://prensa.mendoza.gob.ar/mendoza-publico-la-resolucion-que-regula-la-pesca-deportiva-para-la-temporada-2026-2027/"
+     "url": "https://www.diariouno.com.ar/politica/el-gobierno-volvio-dejar-efecto-mas-21800-pensiones-invalidez-estas-la-lista-n1611384"
     }
    ],
    "imagen": [
@@ -409,17 +429,16 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Neuquén: las cinco claves para entender el presupuesto que Figueroa proyecta para afrontar el año electoral",
+     "titulo": "LOS NÚMEROS DE ROLO Neuquén: las cinco claves para entender el presupuesto que Figueroa proyecta para afrontar el año electoral Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/neuquen-las-cinco-claves-entender-el-presupuesto-que-figueroa-proyecta-afrontar-el-ano-electoral-n5427806"
     },
     {
-     "titulo": "Ciclo lectivo 2027 Comienza la preinscripción para ingresantes a nivel Inicial",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "29/10/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/29/266400-comienza-la-preinscripcion-para-ingresantes-a-nivel-inicial",
-     "tag": "También en Noticias NQN, Neuquén al Instante"
+     "titulo": "Presupuesto 2027 El Poder Judicial de Neuquén proyectó un presupuesto de $508.910 millones para 2027",
+     "medio": "Noticias NQN",
+     "fecha": "30/10/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/30/358845-el-poder-judicial-de-neuquen-proyecto-un-presupuesto-de-508910-millones-para-2027"
     },
     {
      "titulo": "Concejo Deliberante El Concejo Deliberante de Plottier aprobó su presupuesto para 2027",
@@ -440,18 +459,18 @@
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "En Río Negro. Weretilneck adelantará las elecciones 2027 en Río Negro y respaldó eliminar las PASO",
-     "medio": "La Nación",
-     "fecha": "29/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/weretilneck-adelantara-las-elecciones-2027-en-rio-negro-y-respaldo-eliminar-las-paso-nid29102026/",
-     "tag": "También en El Destape"
-    },
-    {
      "titulo": "Weretilneck impulsa una solución histórica para los residuos de Bariloche y la región",
      "medio": "Prensa oficial de Río Negro",
      "fecha": "30/10/2026",
      "url": "https://prensa.rionegro.gov.ar/articulo/62514/weretilneck-impulsa-una-solucion-historica-para-los-residuos-de-bariloche-y-la-region",
      "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Se aprobó la reforma de la Ley de Salud Mental: habilita las internaciones involuntarias",
+     "medio": "AN Roca",
+     "fecha": "30/10/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/10/30/230214-se-aprobo-la-reforma-de-la-ley-de-salud-mental-habilita-las-internaciones-involuntarias",
+     "tag": "También en LCR, Noticias Net"
     }
    ],
    "imagen": []
@@ -465,34 +484,34 @@
      "url": "https://www.salta.gob.ar/organismos/jefatura-de-gabinete-de-ministros-4"
     },
     {
+     "titulo": "Salta avanza en la construcción del Presupuesto 2027 con eje en obras, servicios y desarrollo productivo",
+     "medio": "Prensa oficial de Salta",
+     "fecha": "30/10/2026",
+     "url": "https://www.salta.gob.ar/prensa/noticias/salta-avanza-en-la-construccion-del-presupuesto-2027-con-eje-en-obras-servicios-y-desarrollo-productivo-110871"
+    },
+    {
      "titulo": "TEMPORADA DE PODA El saencismo desguazó la carta orgánica municipal libertaria en la Legislatura de Salta Por Maira López",
      "medio": "Letra P",
      "fecha": "30/10/2026",
      "url": "https://www.letrap.com.ar/politica/salta-el-saencismo-desguazo-la-carta-organica-municipal-libertaria-la-legislatura-provincial-n5427835"
-    },
-    {
-     "titulo": "Elecciones: Kosiner adelantó que Fuerza Patria irá “con candidatos en toda la provincia”",
-     "medio": "Informate Salta",
-     "fecha": "30/10/2026",
-     "url": "https://informatesalta.com.ar/sin-vueltas-tv/elecciones--kosiner-adelanto-que-fuerza-patria-ira--con-candidatos-en-toda-la-provincia-_a6ae37973052cad7d01821edf"
     }
    ],
    "imagen": [
     {
-     "titulo": "Visita de León XIV | Salteños buscarán que el Papa acepte como presente una imagen de la Virgen de la Peña",
-     "medio": "Cuarto",
-     "fecha": "29/10/2026",
-     "url": "https://www.cuarto.com.ar/visita-de-leon-xiv-saltenos-buscaran-que-el-papa-acepte-como-presente-una-imagen-de-la-virgen-de-la-pena/"
+     "titulo": "Funcionarias municipales explican en el Concejo el pago de $74 millones a consultoras",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "30/10/2026",
+     "url": "https://nuevodiariodesalta.com.ar/funcionarias-municipales-explican-en-el-concejo-el-pago-de-74-millones-a-consultoras/"
     }
    ]
   },
   "San Juan": {
    "top3": [
     {
-     "titulo": "El Senado aprobó la reforma de Salud Mental: qué cambia y cuál es el paso que falta para que sea ley",
-     "medio": "El Zonda",
+     "titulo": "Internaciones, psiquiatras y financiamiento los principales cambios de la reforma de Salud Mental que aprobó el Senado y giró a Diputados",
+     "medio": "0264 Noticias",
      "fecha": "30/10/2026",
-     "url": "https://www.diarioelzondasj.com.ar/nacionales/el-senado-aprobo-la-reforma-de-salud-mental-que-cambia-y-cual-es-el-paso-que-falta-para-que-sea-ley",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/10/30/115311-internaciones-psiquiatras-y-financiamiento-los-principales-cambios-de-la-reforma-de-salud-mental-que-aprobo-el-senado-y-giro-a-diputados",
      "tag": "También en San Juan 8, Huarpe"
     },
     {
@@ -502,42 +521,36 @@
      "url": "https://www.diariodecuyo.com.ar/politica/cumbre-minera-rosario-karina-milei-y-12-gobernadores-las-paso-la-agenda-politica-n6587180"
     },
     {
-     "titulo": "El Gobierno provincial retoma la negociación salarial con los docentes: se trata de la última reunión paritaria del año El Gobiernoreactiva este lunes las paritarias con UDAP, UDA y AMET para definir el cierre salarial del año.",
-     "medio": "Diario de Cuyo",
-     "fecha": "30/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-provincial-retoma-la-negociacion-salarial-los-docentes-se-trata-la-ultima-reunion-paritaria-del-ano-n6587251"
+     "titulo": "El Consejo Superior de la UNSJ aprobó la creación de la Facultad de Ciencias de la Salud",
+     "medio": "Tiempo de San Juan",
+     "fecha": "29/10/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/el-consejo-superior-de-la-unsj-aprobo-la-cracion-de-la-facultad-de-ciencias-de-la-salud_1793310967",
+     "tag": "También en Huarpe"
     }
    ],
    "imagen": [
     {
-     "titulo": "¿Candidato en 2027? Qué respondió Fabián Martín",
-     "medio": "Huarpe",
+     "titulo": "Martín Menem descartó una interna en La Libertad Avanza y ratificó a Milei como único candidato para 2027",
+     "medio": "Diario de Cuyo",
      "fecha": "30/10/2026",
-     "url": "https://www.diariohuarpe.com/nota/fabian-martin-puso-el-foco-en-2027-y-la-agenda-legislativa-202610306032"
-    },
-    {
-     "titulo": "La Justicia pidió preservar imágenes de cámaras de seguridad e información sobre la salida de Flávio Bolsonaro desde Argentina",
-     "medio": "0264 Noticias",
-     "fecha": "29/10/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/10/29/115233-la-justicia-pidio-preservar-imagenes-de-camaras-de-seguridad-e-informacion-sobre-la-salida-de-flavio-bolsonaro-desde-argentina",
-     "tag": "También en El Zonda"
+     "url": "https://www.diariodecuyo.com.ar/politica/martin-menem-descarto-una-interna-la-libertad-avanza-y-ratifico-milei-como-unico-candidato-2027-n6587271",
+     "tag": "También en Huarpe"
     }
    ]
   },
   "San Luis": {
    "top3": [
     {
-     "titulo": "El Gobernador Poggi se sometió nuevamente al examen toxicológico",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "29/10/2026",
-     "url": "https://agenciasanluis.com/2026/10/29/1225899-el-gobernador-poggi-se-sometio-nuevamente-al-examen-toxicologico/",
-     "tag": "También en La Gaceta Digital"
-    },
-    {
      "titulo": "Concejo Deliberante: con la ausencia del peronismo, el oficialismo dedicó toda la sesión a la aprobación de homenajes",
      "medio": "La Gaceta Digital",
      "fecha": "29/10/2026",
      "url": "https://lagacetadigital.com.ar/2026/10/29/concejo-deliberante-con-la-ausencia-del-peronismo-el-oficialismo-dedico-toda-la-sesion-a-la-aprobacion-de-homenajes/"
+    },
+    {
+     "titulo": "El Gobernador inauguró una nueva perforación que mejorará el abastecimiento de agua en Concarán",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "30/10/2026",
+     "url": "https://agenciasanluis.com/2026/10/30/1226592-el-gobernador-inauguro-una-nueva-perforacion-que-mejorara-el-abastecimiento-de-agua-en-concaran/"
     },
     {
      "titulo": "Ley Micaela: continúan las capacitaciones a organismos del Gobierno",
@@ -551,30 +564,50 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "El Gobierno retomó las mesas de discusión salarial con los gremios de Salud, Educación y la Administración Central",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "29/10/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/el-gobierno-retomo-las-mesas-de-discusion-salarial-con-los-gremios-de-salud-educacion-y-la-administracion-central",
-     "tag": "También en El Diario Nuevo Día, Mediatíca"
-    },
-    {
      "titulo": "Habilita internaciones involuntarias El Senado aprobó en general la reforma de la Ley de Salud Mental",
      "medio": "Tiempo Sur",
      "fecha": "30/10/2026",
      "url": "https://www.tiemposur.com.ar/politica/el-senado-aprobo-en-general-la-reforma-de-la-ley-de-salud-mental"
     },
     {
-     "titulo": "Álvarez: “La quinta perforación es el futuro de la provincia de Santa Cruz”",
+     "titulo": "Santa Cruz reabrió las paritarias: qué se discutió con los gremios de Educación, Salud y estatales",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "30/10/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-reabrio-las-paritarias-que-se-discutio-con-los-gremios-de-educacion-salud-y-estatales-6060/",
+     "tag": "También en Tiempo Sur"
+    },
+    {
+     "titulo": "Milei contratará una empresa privada para controlar las obras de las represas en Santa Cruz",
      "medio": "La Opinión Austral",
-     "fecha": "29/10/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/alvarez-la-quinta-perforacion-es-el-futuro-de-la-provincia-de-santa-cruz-725327.html",
-     "tag": "También en Tiempo Sur, Mediatíca"
+     "fecha": "30/10/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/milei-contratara-una-empresa-privada-para-controlar-las-obras-de-las-represas-en-santa-cruz-725507.html",
+     "tag": "También en El Diario Nuevo Día"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Última encuesta 6 de cada 10 creen que si Milei es reelecto no habrá clase media",
+     "medio": "Tiempo Sur",
+     "fecha": "30/10/2026",
+     "url": "https://www.tiemposur.com.ar/politica/6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media"
+    },
+    {
+     "titulo": "Casi la mitad de jóvenes encuestados en la zona norte y Río Gallegos realiza apuestas online",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "30/10/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/casi-la-mitad-de-los-jovenes-encuestados-en-la-zona-norte-y-rio-gallegos-apuesta-online-2117/"
+    }
+   ]
   },
   "Santa Fe": {
    "top3": [
+    {
+     "titulo": "Pullaro calcula $18,8 billones de presupuesto y equilibrio fiscal para 2027",
+     "medio": "Rosario Plus",
+     "fecha": "30/10/2026",
+     "url": "https://www.rosarioplus.com/actualidad/politica/pullaro-calcula--18-8-billones-de-presupuesto-y-equilibrio-fiscal-para-2027_a6ae4b106052cad7d0194f024",
+     "tag": "También en Letra P, La Capital"
+    },
     {
      "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental y la giró a Diputados",
      "medio": "Rosario Plus",
@@ -588,12 +621,6 @@
      "fecha": "29/10/2026",
      "url": "https://www.lacapital.com.ar/politica/karina-milei-la-expo-rigi-rosario-es-un-win-win-ganan-las-mineras-y-las-pymes-n10289391.html",
      "tag": "También en Infobae"
-    },
-    {
-     "titulo": "PLATA EN MANO El gobierno de Santa Fe presentó el Presupuesto 2027: $18,9 billones, equilibrio fiscal y guiño al campo Por Letra P | Periodismo Político",
-     "medio": "Letra P",
-     "fecha": "30/10/2026",
-     "url": "https://www.letrap.com.ar/politica/el-gobierno-santa-fe-presento-el-presupuesto-2027-189-billones-equilibrio-fiscal-y-guino-al-campo-n5427848"
     }
    ],
    "imagen": []
@@ -613,11 +640,10 @@
      "url": "https://www.diariopanorama.com/noticia/571286/macri-aseguro-no-hay-avances-acuerdo-electoral-entre-pro-libertad-avanza-para-2027"
     },
     {
-     "titulo": "Tintina Celebró su 122° aniversario con la presencia de autoridades provinciales",
-     "medio": "Prensa oficial de Santiago del Estero",
+     "titulo": "Martín Menem cerró filas tras Milei para 2027 y frenó las aspiraciones presidenciales de Bullrich en LLA",
+     "medio": "El Liberal",
      "fecha": "30/10/2026",
-     "url": "https://sde.gob.ar/2026/10/29/tintina-celebro-su-122-aniversario-con-la-presencia-de-autoridades-provinciales/",
-     "tag": "También en El Liberal, Info del Estero"
+     "url": "https://www.elliberal.com.ar/nota/96459/2026/10/martin-menem-cerro-filas-tras-javier-milei-para-2027-y-freno-las-aspiraciones-presidenciales-de-patricia-bullrich-"
     }
    ],
    "imagen": []
@@ -637,7 +663,7 @@
      "url": "https://www.infobae.com/politica/2026/10/29/la-cautelar-que-freno-el-proyecto-sea-lion-sigue-vigente-y-la-justicia-sumo-a-tierra-del-fuego-a-la-causa-contra-las-petroleras/"
     },
     {
-     "titulo": "TIERRA DEL FUEGO Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
+     "titulo": "Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "29/10/2026",
      "url": "https://www.letrap.com.ar/politica/martin-perez-destaco-el-fallo-que-permitio-la-fiscalizacion-provincial-el-puerto-ushuaia-n5427821"
@@ -655,26 +681,32 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental: cuáles son los cambios y qué falta para su sanción",
+     "titulo": "Mauricio Macri enfrió un posible acuerdo electoral entre el PRO y LLA: “No se ha avanzado nada”",
      "medio": "La Gaceta - Tucumán",
      "fecha": "30/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160269/politica/senado-aprobo-reforma-ley-salud-mental-cuales-son-cambios-falta-para-sancion.html",
-     "tag": "También en LV12"
+     "url": "https://www.lagaceta.com.ar/nota/1160303/politica/mauricio-macri-enfrio-posible-acuerdo-electoral-entre-pro-lla-no-se-ha-avanzado-nada.html"
     },
     {
-     "titulo": "Elecciones en la Asociación de Magistrados: la Cámara Civil suspendió los comicios por la posible inclusión irregular de funcionarios en el padrón",
+     "titulo": "La Justicia se inclina por rechazar la impugnación contra Jaldo, pero puede retomar el caso en 2027",
+     "medio": "La Politica Online",
+     "fecha": "30/10/2026",
+     "url": "https://www.lapoliticaonline.com/politica/la-corte-se-inclina-por-rechazar-la-impugnacion-contra-jaldo-pero-puede-retomar-el-caso-en-2027/"
+    },
+    {
+     "titulo": "Unos 50 gremios denunciarán a Luis Caputo por fondos adeudados a las obras sociales",
      "medio": "La Gaceta - Tucumán",
      "fecha": "30/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160280/politica/elecciones-asociacion-magistrados-camara-civil-suspendio-comicios-posible-inclusion-irregular-funcionarios-padron.html"
-    },
-    {
-     "titulo": "Macri admitió que \"no se avanzó nada\" en las negociaciones electorales con La Libertad Avanza",
-     "medio": "Los Primeros",
-     "fecha": "30/10/2026",
-     "url": "https://www.losprimeros.tv/politica/macri-admitio-que--no-se-avanzo-nada--en-las-negociaciones-electorales-con-la-libertad-avanza_a6ae49f85052cad7d0193077d"
+     "url": "https://www.lagaceta.com.ar/nota/1160318/politica/unos-50-gremios-denunciaran-luis-caputo-fondos-adeudados-obras-sociales.html"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Una encuesta midió a 15 posibles candidatos para 2027 y todos tienen más rechazo que apoyo",
+     "medio": "Los Primeros",
+     "fecha": "30/10/2026",
+     "url": "https://www.losprimeros.tv/politica/una-encuesta-midio-a-15-posibles-candidatos-para-2027-y-todos-tienen-mas-rechazo-que-apoyo-_a6ae4bb34052cad7d01960d55"
+    }
+   ]
   }
  },
  "fuentes_no_accesibles": [
@@ -702,6 +734,7 @@
   "https://www.minutoneuquen.com/",
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
+  "https://www.diarioelzondasj.com.ar/",
   "https://elchorrillero.com/",
   "https://elmediadortv.com.ar/",
   "https://www.opisantacruz.com.ar/",

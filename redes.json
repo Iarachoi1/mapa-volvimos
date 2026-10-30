@@ -1,16 +1,52 @@
 {
- "actualizado": "30/10 14:30",
+ "actualizado": "30/10 15:09",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "le havre - psg",
+   "tema": "dia",
    "busquedas": "200+",
-   "nota": "L1 : Le Havre-Paris SG, les compos",
-   "nota_url": "https://m.maxifoot.fr/ligue-1/le-havre-paris-sg-les-compos-foot-466751.htm",
-   "medio": "Maxifoot",
+   "nota": "Finados: quando cai o 5º dia útil de novembro para o pagamento de salário",
+   "nota_url": "https://www.brasil247.com/tendencias/2026/10/30/finados-quando-cai-o-5-dia-util-de-novembro-para-o-pagamento-de-salario/",
+   "medio": "Brasil 247",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "f1 mexico",
+   "busquedas": "200+",
+   "nota": "ESPN trae a Disney+ Plan Premium el GP de la Ciudad de México 2026",
+   "nota_url": "https://television.com.ar/noticias/streaming/espn-trae-a-disney-plan-premium-el-gp-de-la-ciudad-de-mexico-2026/",
+   "medio": "Inicio - Television",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "beca",
+   "busquedas": "200+",
+   "nota": "¡Atención estudiantes! Descubrí si cobras la Beca Progresar en noviembre",
+   "nota_url": "https://cholilaonline.ar/2026/10/descubri-si-cobras-la-beca-progresar-en-noviembre.html",
+   "medio": "» Cholila Online",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "le havre - psg",
+   "busquedas": "5000+",
+   "nota": "Le Havre AC - Le groupe du HAC convoqué par Didier Digard pour le match face au PSG",
+   "nota_url": "https://madeinfoot.ouest-france.fr/infos/article-le-havre-ac-le-groupe-du-hac-convoque-par-didier-digard-pour-le-match-face-au-psg-544034.html",
+   "medio": "MadeInFOOT",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "superclásico del fútbol argentino",
+   "busquedas": "200+",
+   "nota": "¡TODOS EN CASA!",
+   "nota_url": "https://velez.com.ar/futbol/notas/2026/10/27/140648_todos-en-casa",
+   "medio": "Vélez Sarsfield",
    "relevante": false,
    "temas": []
   },
@@ -20,15 +56,6 @@
    "nota": "Doble alegría argentina en el WTA 125 de Curitiba: Sierra y Ortenzi clasificaron a cuartos de final",
    "nota_url": "https://www.lagaceta.com.ar/nota/1160146/deportes/doble-alegria-argentina-wta-125-curitiba-sierra-ortenzi-clasificaron-cuartos-final.html",
    "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "superclásico del fútbol argentino",
-   "busquedas": "200+",
-   "nota": "River se bajó y no habrá conferencia de prensa previa al Superclásico: el duro comunicado de la LPF",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17450166/boca-vs-river-no-hay-conferencia-de-prensa-lpf-liga",
-   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "Sanción. Dura baja para Estudiantes de cara a los partidos ante Instituto y Talleres",
    "nota_url": "https://www.lavoz.com.ar/deportes/dura-baja-estudiantes-cara-partidos-instituto-talleres_0_pvqDAvowhW.html",
    "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "calor",
-   "busquedas": "100+",
-   "nota": "Clima en Mendoza Observatorio hoy: cuál es el pronóstico del tiempo para el 30 de octubre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/mendoza/clima-en-mendoza-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-30-de-octubre-de-2026-nid29102026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "xuxa",
-   "busquedas": "100+",
-   "nota": "'Maior esculacho da minha vida. Não me arrependo, não. Se fosse hoje...': diretor de jornalismo da Globo em 1998 conta que reportagem sobre o nascimento de Sasha rendeu 'bronca' e polêmica dentro do canal: Fotos",
-   "nota_url": "https://www.purepeople.com.br/galeria/sasha-meneghel-gravida-no-jornal-nacional-da-globo-nascimento-da-filha-de-xuxa-gerou-bronca-e-polemica-na-tv-entregou-diretor-de-jornalismo-esculacho_a425862/1",
-   "medio": "www.purepeople.com.br",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atraso cambiario",
-   "busquedas": "100+",
-   "nota": "RDEco: cómo influye el atraso cambiario en las exportaciones y qué desafíos plantea para la economía argentina",
-   "nota_url": "https://www.perfil.com/mas-perfil/rdeco-como-influye-el-atraso-cambiario-en-las-exportaciones-y-que-desafios-plantea-para-la-economia-argentina-a4RdS5n6us3w",
-   "medio": "Perfil",
    "relevante": false,
    "temas": []
   }
