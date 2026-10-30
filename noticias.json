@@ -1,1073 +1,679 @@
 {
- "semana": "19 al 26 de octubre de 2026",
+ "semana": "23 al 30 de octubre de 2026",
+ "actualizado": "30/10 11:15",
  "items": {
-  "Jujuy": {
+  "NACIONAL": {
    "top3": [
     {
-     "titulo": "Carlos Sadir amaga con partir al bloque oficialista en Jujuy para romper lanzas con Gerardo Morales",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/carlos-sadir-amaga-partir-al-bloque-oficialista-jujuy-romper-lanzas-gerardo-morales-n5427631",
-     "por_que": "Una ruptura del bloque mayoritario alteraría la gobernabilidad legislativa y la deuda de US$85 millones."
-    },
-    {
-     "titulo": "Arde la UCR en Jujuy: Gerardo Morales apura a Carlos Sadir para definir las candidaturas",
-     "medio": "Letra P",
-     "fecha": "21/10/2026",
-     "url": "https://www.letrap.com.ar/politica/arde-la-ucr-jujuy-gerardo-morales-apura-carlos-sadir-definir-las-candidaturas-n5427532",
-     "por_que": "Hace pública la disputa Sadir–Morales por la fórmula y las listas 2027."
-    },
-    {
-     "titulo": "Resolución del ARCA: “Puede significar la pérdida de muchos puestos de trabajo”, dijo el Gobernador Carlos Sadir",
-     "medio": "Todo Jujuy",
-     "fecha": "23/10/2026",
-     "url": "https://www.todojujuy.com/jujuy/resolucion-del-arca-puede-significar-la-perdida-muchos-puestos-trabajo-dijo-el-gobernador-carlos-sadir-n297887",
-     "por_que": "Es un frente de conflicto explícito con un organismo nacional."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Arde la UCR en Jujuy: Gerardo Morales apura a Carlos Sadir para definir las candidaturas",
-     "medio": "Letra P",
-     "fecha": "21/10/2026",
-     "url": "https://www.letrap.com.ar/politica/arde-la-ucr-jujuy-gerardo-morales-apura-carlos-sadir-definir-las-candidaturas-n5427532",
-     "resumen": "Morales pidió a Sadir definir las candidaturas empezando por la Capital (Adriano Morone contra el intendente «Chuli» Jorge) y advirtió que podrían surgir más candidatos del espacio; Bernis quiere repetir fórmula.",
-     "tag": "Fuente única"
-    },
-    {
-     "titulo": "Carlos Sadir amaga con partir al bloque oficialista en Jujuy para romper lanzas con Gerardo Morales",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/carlos-sadir-amaga-partir-al-bloque-oficialista-jujuy-romper-lanzas-gerardo-morales-n5427631",
-     "resumen": "Sadir evaluaría desprender de 5 a 8 diputados del bloque Jujuy Crece (25 de 48 bancas). El presidente del bloque lo negó.",
-     "tag": "Versión sin confirmar · fuente única"
-    }
-   ]
-  },
-  "Salta": {
-   "top3": [
-    {
-     "titulo": "Salta 2027 | “No tenemos plan B”, dijo Jarsún sobre una nueva postulación de Sáenz a la gobernación",
-     "medio": "Cuarto",
-     "fecha": "23/10/2026",
-     "url": "https://www.cuarto.com.ar/2027-no-tenemos-plan-b-dijo-jarsun-sobre-una-nueva-postulacion-de-saenz-a-la-gobernacion/",
-     "por_que": "El Gobierno confirma en público su apuesta por un nuevo mandato de Sáenz."
-    },
-    {
-     "titulo": "La UCR de Salta no logró la unidad y va a internas: Gustavo Sáenz, la piedra de la discordia",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/la-ucr-salta-no-logro-la-unidad-y-va-internas-gustavo-saenz-la-piedra-la-discordia-n5427592",
-     "por_que": "La interna del 01/11 define si la UCR sigue cerca de Sáenz."
-    },
-    {
-     "titulo": "Tras reunión con Sáenz, Nación garantiza inversiones para los ramales C14 y C15",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "23/10/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/tras-reunion-con-saenz-nacion-garantiza-inversiones-para-los-ramales-c14-y-c15-110694",
-     "por_que": "Es el principal acuerdo de la semana entre la provincia y Nación."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Salta 2027 | “No tenemos plan B”, dijo Jarsún sobre una nueva postulación de Sáenz a la gobernación",
-     "medio": "Cuarto",
-     "fecha": "23/10/2026",
-     "url": "https://www.cuarto.com.ar/2027-no-tenemos-plan-b-dijo-jarsun-sobre-una-nueva-postulacion-de-saenz-a-la-gobernacion/",
-     "resumen": "El ministro de Gobierno, Jarsún, ratificó que Sáenz buscará un nuevo mandato: «No tenemos plan B». La oposición objeta su habilitación."
-    },
-    {
-     "titulo": "La UCR de Salta no logró la unidad y va a internas: Gustavo Sáenz, la piedra de la discordia",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/la-ucr-salta-no-logro-la-unidad-y-va-internas-gustavo-saenz-la-piedra-la-discordia-n5427592",
-     "resumen": "La UCR no logró la unidad y va a internas el 01/11 entre Soledad Farfán, cercana a Sáenz, e Iglesias, crítico de ese alineamiento."
-    },
-    {
-     "titulo": "El PJ salteño prepara un frente rumbo a 2027",
-     "medio": "Nuevo Diario de Salta",
-     "fecha": "25/10/2026",
-     "url": "https://nuevodiariodesalta.com.ar/el-pj-salteno-prepara-un-frente-rumbo-a-2027-para-recuperar-bancas-en-capital/",
-     "resumen": "Nota citada en el clipping sobre el armado peronista provincial."
-    },
-    {
-     "titulo": "Para habilitar reelecciones, oficialismos de Salta y Catamarca empujarían a Lijo en la Corte",
-     "medio": "Cuarto",
-     "fecha": "23/10/2026",
-     "url": "https://www.cuarto.com.ar/para-habilitar-reelecciones-oficialistas-catamarquenos-y-saltenos-empujarian-la-designacion-de-lijo-en-la-corte-suprema/",
-     "resumen": "Cuarto atribuye la versión a LPO; esa nota no se encontró en la ventana.",
-     "tag": "Versión sin confirmar · fuente única"
-    }
-   ]
-  },
-  "Tucumán": {
-   "top3": [
-    {
-     "titulo": "La oposición abre una batalla judicial contra la reelección de Jaldo",
-     "medio": "La Gaceta",
-     "fecha": "25/10/2026",
-     "url": "https://lagaceta.com.ar/nota/1159626/politica/oposicion-abre-batalla-judicial-contra-reeleccion-jaldo.html",
-     "por_que": "Si prospera, puede alterar la oferta electoral del 09/05/2027."
-    },
-    {
-     "titulo": "Catalán teme perder en Tucumán si el gobierno no baja la candidatura de Campero",
-     "medio": "La Política Online",
-     "fecha": "22/10/2026",
-     "url": "https://www.lapoliticaonline.com/politica/catalan-teme-perder-en-tucuman-si-el-gobierno-no-baja-la-candidatura-de-campero-5240/",
-     "por_que": "Muestra la fragmentación opositora frente a Jaldo (versión sin confirmar)."
-    },
-    {
-     "titulo": "El mensaje de Pablo Yedlin a Jaldo que profundiza la interna peronista: “No se debe acompañar a Milei”",
-     "medio": "La Gaceta",
-     "fecha": "23/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1159252/politica/mensaje-pablo-yedlin-jaldo-profundiza-interna-peronista-no-se-debe-acompanar-milei.html",
-     "por_que": "Expone la fractura del PJ tucumano de cara a 2027."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "La oposición abre una batalla judicial contra la reelección de Jaldo",
-     "medio": "La Gaceta",
-     "fecha": "25/10/2026",
-     "url": "https://lagaceta.com.ar/nota/1159626/politica/oposicion-abre-batalla-judicial-contra-reeleccion-jaldo.html",
-     "resumen": "Campero (Cambia Tucumán), con Fuerza Republicana, CREO y PRO, anunció una acción ante la Corte Suprema contra el art. 90 de la Constitución provincial; la presentación efectiva está a confirmar."
-    },
-    {
-     "titulo": "Catalán teme perder en Tucumán si el gobierno no baja la candidatura de Campero",
-     "medio": "La Política Online",
-     "fecha": "22/10/2026",
-     "url": "https://www.lapoliticaonline.com/politica/catalan-teme-perder-en-tucuman-si-el-gobierno-no-baja-la-candidatura-de-campero-5240/",
-     "resumen": "Catalán (LLA) ratificó su candidatura y, según LPO, pide a la Casa Rosada que baje la de Campero; la nota cita sondeos que dan a Jaldo entre 12 y 20 puntos de ventaja.",
-     "tag": "Versión sin confirmar · fuente única"
-    },
-    {
-     "titulo": "El mensaje de Pablo Yedlin a Jaldo que profundiza la interna peronista: “No se debe acompañar a Milei”",
-     "medio": "La Gaceta",
-     "fecha": "23/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1159252/politica/mensaje-pablo-yedlin-jaldo-profundiza-interna-peronista-no-se-debe-acompanar-milei.html",
-     "resumen": "Yedlin responsabilizó a Jaldo por la falta de unidad y dijo que «no se debe acompañar a Milei», en línea con Manzur."
-    }
-   ]
-  },
-  "Catamarca": {
-   "top3": [
-    {
-     "titulo": "Jalil envía a Natella a dialogar y advierte: “El que no quiera acompañar sabe lo que tiene que hacer”",
-     "medio": "El Esquiú",
-     "fecha": "20/10/2026",
-     "url": "https://www.elesquiu.com/politica/2026/10/20/jalil-envia-a-natella-a-dialogar-y-advierte-el-que-no-quiera-acompanar-sabe-lo-que-tiene-que-hacer-600370.html",
-     "por_que": "El gobernador ordena la interna y alinea a los legisladores con Nación de cara a 2027."
-    },
-    {
-     "titulo": "Casa Rosada confirmó que mañana Javier Milei tendrá su primera visita a Catamarca",
-     "medio": "El Esquiú",
-     "fecha": "26/10/2026",
-     "url": "https://www.elesquiu.com/politica/2026/10/26/casa-rosada-confirmo-que-manana-javier-milei-tedra-su-primera-visita-a-catamarca-601073.html",
-     "por_que": "Es la primera visita presidencial, con acto de LLA, en un contexto de cooperación Jalil–Milei."
-    },
-    {
-     "titulo": "Scolamieri: “Nuestro candidato a gobernador tiene que ser Gustavo Saadi”",
-     "medio": "El Ancasti",
-     "fecha": "24/10/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/scolamieri-nuestro-candidato-gobernador-tiene-que-ser-gustavo-saadi-n624586",
-     "por_que": "Crecen los apoyos del PJ a Saadi para la sucesión de Jalil."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Scolamieri: “Nuestro candidato a gobernador tiene que ser Gustavo Saadi”",
-     "medio": "El Ancasti",
-     "fecha": "24/10/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/scolamieri-nuestro-candidato-gobernador-tiene-que-ser-gustavo-saadi-n624586",
-     "resumen": "El diputado Scolamieri, del sector de Corpacci, postuló al intendente de la Capital, Gustavo Saadi, para gobernador. Se suma a apoyos previos y no es una candidatura oficializada."
-    },
-    {
-     "titulo": "Jalil envía a Natella a dialogar y advierte: “El que no quiera acompañar sabe lo que tiene que hacer”",
-     "medio": "El Esquiú",
-     "fecha": "20/10/2026",
-     "url": "https://www.elesquiu.com/politica/2026/10/20/jalil-envia-a-natella-a-dialogar-y-advierte-el-que-no-quiera-acompanar-sabe-lo-que-tiene-que-hacer-600370.html",
-     "resumen": "Jalil envió a su ministro de Gobierno a dialogar con los partidos y advirtió a los legisladores que acompañen al Gobierno nacional."
-    }
-   ]
-  },
-  "Santiago del Estero": {
-   "top3": [
-    {
-     "titulo": "“Inadmisible e incomprensible”: Gerardo Zamora repudió expresiones de Milei contra el periodismo",
-     "medio": "Diario Panorama",
-     "fecha": "24/10/2026",
-     "url": "https://www.diariopanorama.com/noticia/570706/inadmisible-e-incomprensible-gerardo-zamora-repudio-expresiones-milei-contra-periodismo",
-     "por_que": "Marca el tono de la relación del zamorismo con la Casa Rosada."
-    },
-    {
-     "titulo": "Convocado por el gobernador Elías Suárez, el Consejo Económico y Social delineará los objetivos para el 2027",
-     "medio": "Prensa oficial SDE",
-     "fecha": "25/10/2026",
-     "url": "https://sde.gob.ar/2026/10/25/convocado-por-el-gobernador-elias-suarez-el-consejo-economico-y-social-delineara-los-objetivos-para-el-2027/",
-     "por_que": "Ordena la agenda de gestión y el Presupuesto 2027."
-    },
-    {
-     "titulo": "Elías Suárez: “El compromiso es generar rápidamente trabajo y actividad económica”",
-     "medio": "El Liberal",
-     "fecha": "22/10/2026",
-     "url": "https://www.elliberal.com.ar/nota/95615/2026/10/elias-suarez--el-compromiso-es-generar-rapidamente-trabajo-y-actividad-economica",
-     "por_que": "Anticipa el impacto de la caída de la coparticipación en el presupuesto."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "“Inadmisible e incomprensible”: Gerardo Zamora repudió expresiones de Milei contra el periodismo",
-     "medio": "Diario Panorama",
-     "fecha": "24/10/2026",
-     "url": "https://www.diariopanorama.com/noticia/570706/inadmisible-e-incomprensible-gerardo-zamora-repudio-expresiones-milei-contra-periodismo",
-     "resumen": "Gerardo Zamora repudió los ataques de Milei a periodistas: un gesto puntual que marca el tono de la relación del zamorismo con la Casa Rosada, no una ruptura."
-    }
-   ]
-  },
-  "Misiones": {
-   "top3": [
-    {
-     "titulo": "Passalacqua anunció aumento del 8,5% para los estatales y dijo que ese dinero adicional ayudará a mover la economía",
-     "medio": "Plan B",
-     "fecha": "20/10/2026",
-     "url": "https://planbmisiones.com/2026/10/20/nota/passalacqua-anuncio-aumento-del-85-para-los-estatales-y-dijo-que-ese-dinero-adicional-ayudara-a-mover-la-economia/",
-     "por_que": "Es la principal medida de gestión, con impacto fiscal y gremial."
-    },
-    {
-     "titulo": "“Parásitos” y “ridículo”, el cruce en redes entre Hartfield y Centeno",
-     "medio": "La Voz de Misiones",
-     "fecha": "23/10/2026",
-     "url": "https://lavozdemisiones.com/politica/parasitos-y-ridiculo-el-cruce-en-redes-entre-hartfield-y-centeno",
-     "por_que": "Muestra la tensión entre LLA y el oficialismo por la Ley de Lemas, de cara a 2027."
-    },
-    {
-     "titulo": "Oficialismo misionero esta vez se dividió en Diputados: Vancsik y OHA a favor, Ruiz y Arrúa en contra",
-     "medio": "Plan B",
-     "fecha": "21/10/2026",
-     "url": "https://planbmisiones.com/2026/10/21/nota/oficialismo-misionero-esta-vez-se-dividio-en-diputados-vancsik-y-oha-a-favor-ruiz-y-arrua-en-contra/",
-     "por_que": "Es una fisura en el comportamiento de la bancada misionera en el Congreso."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Ramón Amarilla se lanzó en Instagram y negó en privado",
-     "medio": "La Voz de Misiones",
-     "fecha": "25/10/2026",
-     "url": "https://lavozdemisiones.com/politica/amarilla-se-lanzo-en-instagram-y-nego-en-privado-voy-a-hablar-con-mi-gente",
-     "resumen": "Una cuenta suya publicó un flyer como candidato a gobernador 2027, pero él lo negó en privado.",
-     "tag": "Versión sin confirmar · fuente única"
-    },
-    {
-     "titulo": "“Parásitos” y “ridículo”, el cruce en redes entre Hartfield y Centeno",
-     "medio": "La Voz de Misiones",
-     "fecha": "23/10/2026",
-     "url": "https://lavozdemisiones.com/politica/parasitos-y-ridiculo-el-cruce-en-redes-entre-hartfield-y-centeno",
-     "resumen": "Cruce en redes entre el diputado de LLA Diego Hartfield y la legisladora oficialista Anazul Centeno por la Ley de Lemas y las sesiones extraordinarias."
-    }
-   ]
-  },
-  "Chaco": {
-   "top3": [
-    {
-     "titulo": "Jorge Capitanich adelantó que el PJ de Chaco dirimirá sus candidaturas en una interna abierta",
+     "titulo": "“No se ha avanzado nada”: Mauricio Macri aseguró que el acuerdo electoral entre el PRO y LLA está estancado",
      "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/22/jorge-capitanich-adelanto-que-el-pj-de-chaco-dirimira-sus-candidaturas-en-una-interna-abierta/",
-     "por_que": "Capitanich se corre de la gobernación y el PJ define su método de selección para 2027."
+     "fecha": "30/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/30/no-se-ha-avanzado-nada-mauricio-macri-aseguro-que-el-acuerdo-electoral-entre-el-pro-y-lla-esta-estancado/",
+     "tag": "También en La Nación"
     },
     {
-     "titulo": "Javier Milei apura la cesión de una propiedad a Leandro Zdero como gesto en plena negociación por las PASO",
-     "medio": "Letra P",
-     "fecha": "22/10/2026",
-     "url": "https://www.letrap.com.ar/politica/javier-milei-apura-la-cesion-una-propiedad-leandro-zdero-como-gesto-plena-negociacion-las-paso-n5427580",
-     "por_que": "Muestra el intercambio entre Zdero y la Casa Rosada y el peso de sus legisladores en el Congreso."
+     "titulo": "Con cambios de último momento. El Senado aprobó y giró a Diputados la reforma a la ley de salud mental",
+     "medio": "La Nación",
+     "fecha": "29/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/con-cambios-de-ultimo-momento-el-senado-debate-la-reforma-a-la-ley-de-salud-mental-nid29102026/",
+     "tag": "También en El Parlamentario"
     },
     {
-     "titulo": "El oficialismo buscará aprobar el Presupuesto 2027 el mes que viene",
-     "medio": "Diario Norte",
-     "fecha": "19/10/2026",
-     "url": "https://www.diarionorte.com/335177-el-oficialismo-buscara-aprobar-el-presupuesto-2027-el-mes-que-viene",
-     "por_que": "Fija las cifras y el cronograma fiscal del año electoral."
+     "titulo": "Lo apoyaron Milei y Trump Elecciones en Israel: los resultados finales confirmaron que el Likud de Netanyahu ganó pero no alcanza la mayoría y deberá negociar para formar gobierno Marcos Pintos",
+     "medio": "Perfil",
+     "fecha": "30/10/2026",
+     "url": "https://www.perfil.com/politica/elecciones-en-israel-los-resultados-finales-confirmaron-que-el-likud-de-netanyahu-gano-pero-no-alcanza-la-mayoria-y-debera-negociar-para-formar-gobierno-aHIRY9y6MOla",
+     "tag": "También en Letra P"
     }
    ],
    "imagen": [
     {
-     "titulo": "Jorge Capitanich adelantó que el PJ de Chaco dirimirá sus candidaturas en una interna abierta",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/22/jorge-capitanich-adelanto-que-el-pj-de-chaco-dirimira-sus-candidaturas-en-una-interna-abierta/",
-     "resumen": "Capitanich anunció que el PJ elegirá sus candidatos en una interna abierta y que él no buscará la gobernación; suenan Juan Manuel García, Magda Ayala y Javier Martínez."
-    },
-    {
-     "titulo": "Zdero buscaría la reelección como primer aliado electoral de LLA",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": null,
-     "resumen": "Versión de Infobae citada en el clipping, sin link.",
-     "tag": "Versión sin confirmar"
-    }
-   ]
-  },
-  "Formosa": {
-   "top3": [
-    {
-     "titulo": "El PJ prepara una nueva cumbre de unidad para ajustar la postura por las PASO y el Presupuesto",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/22/el-pj-prepara-una-nueva-cumbre-de-unidad-para-ajustar-la-postura-por-las-paso-y-el-presupuesto/",
-     "por_que": "Ubica a Insfrán en el bloque de gobernadores del PJ que negocia en conjunto PASO y Presupuesto."
-    },
-    {
-     "titulo": "Axel Kicillof, Sergio Massa y Kirchner, juntos: cómo ampliar un frente con otras fuerzas en medio de la guerra",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/axel-kicillof-sergio-massa-y-kirchner-juntos-como-ampliar-un-frente-otras-fuerzas-medio-la-guerra-n5427621",
-     "por_que": "Insfrán participa de la reunificación del peronismo nacional."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "El PJ prepara una nueva cumbre de unidad para ajustar la postura por las PASO y el Presupuesto",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/22/el-pj-prepara-una-nueva-cumbre-de-unidad-para-ajustar-la-postura-por-las-paso-y-el-presupuesto/",
-     "resumen": "Insfrán integra el grupo de gobernadores del PJ que quiere conservar las PASO y fijar una postura común frente al Presupuesto 2027."
-    },
-    {
-     "titulo": "Axel Kicillof, Sergio Massa y Kirchner, juntos: cómo ampliar un frente con otras fuerzas en medio de la guerra",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/axel-kicillof-sergio-massa-y-kirchner-juntos-como-ampliar-un-frente-otras-fuerzas-medio-la-guerra-n5427621",
-     "resumen": "Insfrán participó por Zoom de la ampliación del frente peronista. Sigue pendiente en la Corte Suprema la causa contra su habilitación para 2027."
-    }
-   ]
-  },
-  "Corrientes": {
-   "top3": [
-    {
-     "titulo": "Claves del Presupuesto 2027 de Corrientes: equilibrio fiscal y gastos por $4,8 billones",
-     "medio": "El Litoral",
-     "fecha": "21/10/2026",
-     "url": "https://www.ellitoral.com.ar/actualidad/2026-10-21-0-39-0-claves-del-presupuesto-2027-de-corrientes-equilibrio-fiscal-y-gastos-por-4-8-billones",
-     "por_que": "Define las autorizaciones de deuda y la política salarial del año electoral."
-    },
-    {
-     "titulo": "Se complejiza el camino del Gobierno para suspender las PASO: los acuerdos alcanzados y los que faltan",
-     "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/21/se-complejiza-el-camino-del-gobierno-para-suspender-las-paso-los-acuerdos-alcanzados-y-los-que-faltan/",
-     "por_que": "Fija la posición de Valdés en la negociación nacional por las PASO."
-    },
-    {
-     "titulo": "Se desarrolló la Sesión Plenaria del Parlamento Norte Grande en Corrientes",
-     "medio": "HCD Corrientes",
-     "fecha": "23/10/2026",
-     "url": "https://hcdcorrientes.gov.ar/se-desarrollo-la-sesion-plenaria-del-parlamento-norte-grande-en-corrientes/",
-     "por_que": "Muestra el protagonismo regional de los Valdés y el reclamo por la Isla Apipé."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Se desarrolló la Sesión Plenaria del Parlamento Norte Grande en Corrientes",
-     "medio": "HCD Corrientes",
-     "fecha": "23/10/2026",
-     "url": "https://hcdcorrientes.gov.ar/se-desarrollo-la-sesion-plenaria-del-parlamento-norte-grande-en-corrientes/",
-     "resumen": "Corrientes fue sede del Parlamento del Norte Grande, con protagonismo del senador provincial Gustavo Valdés y el reclamo por la Isla Apipé."
-    }
-   ]
-  },
-  "Córdoba": {
-   "top3": [
-    {
-     "titulo": "Unicameral paralizada: el oficialismo condiciona el funcionamiento al apartamiento de Ferrero",
-     "medio": "Cadena3",
-     "fecha": "23/10/2026",
-     "url": "https://www.cadena3.com/noticia/radioinforme-3/unicameral-paralizada-el-oficialismo-condiciona-el-funcionamiento-al-apartamiento-de-ferrero_606393",
-     "por_que": "Casi dos meses sin sesiones en la previa del Presupuesto, con la grieta PJ-UCR rumbo a 2027."
-    },
-    {
-     "titulo": "Encuesta en Córdoba: Llaryora lidera con el 25,7% de intención de voto y aventaja por 5,8 puntos a De Loredo",
-     "medio": "Letra P",
-     "fecha": "20/10/2026",
-     "url": "https://www.letrap.com.ar/politica/encuesta-cordoba-llaryora-lidera-el-257-intencion-voto-y-aventaja-58-puntos-loredo-n5427512",
-     "por_que": "Único dato electoral provincial de la semana."
-    },
-    {
-     "titulo": "RIGI para pymes, biocombustibles y ley de autopartes: los reclamos de Llaryora a Nación en la UIC",
-     "medio": "Cadena3",
-     "fecha": "22/10/2026",
-     "url": "https://www.cadena3.com/noticia/18-coloquio-de-uic/rigi-para-pymes-biocombustibles-y-ley-de-autopartes-los-reclamos-de-llaryora-a-nacion-en-la-uic_606154",
-     "por_que": "Agenda de diferenciación con Milei frente al jefe de Gabinete."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Encuesta en Córdoba: Llaryora lidera con el 25,7% de intención de voto y aventaja por 5,8 puntos a De Loredo",
-     "medio": "Letra P",
-     "fecha": "20/10/2026",
-     "url": "https://www.letrap.com.ar/politica/encuesta-cordoba-llaryora-lidera-el-257-intencion-voto-y-aventaja-58-puntos-loredo-n5427512",
-     "resumen": "Dialogía (campo 11 al 16/10, 700 casos online): Llaryora 25,7%, De Loredo 19,9% y Bornoroni 15,4%; la gestión provincial tiene 40,2% de valoración positiva.",
-     "tag": "Fuente única · encuesta online"
-    },
-    {
-     "titulo": "RIGI para pymes, biocombustibles y ley de autopartes: los reclamos de Llaryora a Nación en la UIC",
-     "medio": "Cadena3",
-     "fecha": "22/10/2026",
-     "url": "https://www.cadena3.com/noticia/18-coloquio-de-uic/rigi-para-pymes-biocombustibles-y-ley-de-autopartes-los-reclamos-de-llaryora-a-nacion-en-la-uic_606154",
-     "resumen": "En el Coloquio de la UIC, Llaryora pidió un «RIGI para pymes», biocombustibles y la prórroga del régimen autopartista, y marcó diferencias con Milei."
-    }
-   ]
-  },
-  "Santa Fe": {
-   "top3": [
-    {
-     "titulo": "El gobierno de Santa Fe apura a la Legislatura para tratar las leyes de seguridad impulsadas por Pullaro",
-     "medio": "Letra P",
-     "fecha": "21/10/2026",
-     "url": "https://www.letrap.com.ar/politica/el-gobierno-santa-fe-apura-la-legislatura-tratar-las-leyes-seguridad-impulsadas-pullaro-n5427553",
-     "por_que": "Reforma insignia del gobernador, con dictamen previsto el 29/10 y tensión en la coalición."
-    },
-    {
-     "titulo": "La deuda como moneda de cambio: la estrategia de Santa Fe para que Javier Milei envíe fondos",
-     "medio": "Aire de Santa Fe",
-     "fecha": "23/10/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/la-deuda-como-moneda-cambio-la-estrategia-santa-fe-que-javier-milei-envie-fondos-n674255",
-     "por_que": "Acuerdo fiscal concreto con Nación que alivia las cuentas provinciales."
-    },
-    {
-     "titulo": "La revancha de Milei, las señales de Bullrich y las tensiones en Unidos",
-     "medio": "La Capital",
-     "fecha": "25/10/2026",
-     "url": "https://www.lacapital.com.ar/suscriptores/la-revancha-milei-las-senales-bullrich-y-las-tensiones-unidos-n10288524.html",
-     "por_que": "Sintetiza el vínculo con Milei y la interna UCR-PS de cara a 2027."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Ranking de gobernadores: Pullaro, 6.º con 52,5% de imagen positiva",
-     "medio": "La Capital",
-     "fecha": "25/10/2026",
-     "url": "https://www.lacapital.com.ar/politica/ranking-gobernadores-como-quedo-ubicado-pullaro-una-encuesta-nacional-n10288586.html",
-     "resumen": "Encuesta CB Global Data, con campo del 11 al 15/10."
-    },
-    {
-     "titulo": "Michlig contra todos: criticó las ausencias de su tropa en el Senado",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/politica/michlig-contra-todos-critico-ausencias-su-tropa-del-senado-y-apuro-diputados-las-leyes-seguridad-n5427624",
-     "resumen": "Tensión dentro de Unidos entre la UCR y el PS por el paquete de leyes de seguridad, sin ruptura de bloque; el próximo hito es el 29/10."
-    },
-    {
-     "titulo": "El PJ definiría sus candidaturas en diciembre; Diego Giuliano encabeza entre los posibles",
-     "medio": "La Capital",
-     "fecha": "25/10/2026",
-     "url": null,
-     "resumen": "Roly Santacroce dijo que la conducción tiene «secuestrado» al partido.",
-     "tag": "Versión · sin link en el clipping"
-    }
-   ]
-  },
-  "Entre Ríos": {
-   "top3": [
-    {
-     "titulo": "Presupuesto 2027: este miércoles arranca el debate en Diputados con la presencia del ministro Boleas",
-     "medio": "APF Digital",
-     "fecha": "21/10/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/10/21/475738-presupuesto-2027-este-miercoles-arranca-el-debate-en-diputados-con-la-presencia-del-ministro-boleas",
-     "por_que": "Ley central del año preelectoral; define recursos y obra de Frigerio rumbo a 2027."
-    },
-    {
-     "titulo": "Allende llamó a hacer una amnistía en el PJ: “Tenemos que abrazarnos y abrir las puertas del partido”",
-     "medio": "APF Digital",
-     "fecha": "21/10/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/10/21/475705-allende-llamo-a-hacer-una-amnistia-en-el-pj-tenemos-que-abrazarnos-y-abrir-las-puertas-del-partido",
-     "por_que": "Muestra la fractura del peronismo opositor."
-    },
-    {
-     "titulo": "Frigerio, Llaryora y Pullaro reclamaron “que el narco y el crimen organizado no terminen financiando la política”",
-     "medio": "Infobae",
-     "fecha": "20/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/20/frigerio-llaryora-y-pullaro-reclamaron-que-el-narco-y-el-crimen-organizado-no-terminen-financiando-la-politica/",
-     "por_que": "Postura de los gobernadores de la Región Centro sobre la reforma electoral y las PASO."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Allende llamó a hacer una amnistía en el PJ: “Tenemos que abrazarnos y abrir las puertas del partido”",
-     "medio": "APF Digital",
-     "fecha": "21/10/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/10/21/475705-allende-llamo-a-hacer-una-amnistia-en-el-pj-tenemos-que-abrazarnos-y-abrir-las-puertas-del-partido",
-     "resumen": "José Allende (UPCN) pidió una «amnistía» para los expulsados del PJ y propuso a Bordet para la intendencia de Concordia."
-    },
-    {
-     "titulo": "Galimberti monitorea la pulseada en Chajarí",
-     "medio": "Letra P",
-     "fecha": "24/10/2026",
-     "url": "https://www.letrap.com.ar/politica/entre-rios-galimberti-monitorea-la-pulseada-chajari-y-apuesta-dos-mujeres-suceder-borghesan-n5427568",
-     "resumen": "Según la nota, se espera una elección provincial desdoblada y sin PASO; Galimberti (UCR) defiende las PASO dentro de la alianza oficialista.",
-     "tag": "Versión sin confirmar · fuente única"
+     "titulo": "La consultora top de la City dice que el dólar está atrasado y Milei no podrá sostenerlo hasta las elecciones",
+     "medio": "La Politica Online",
+     "fecha": "29/10/2026",
+     "url": "https://www.lapoliticaonline.com/economia/la-consultora-top-de-la-city-dice-que-el-dolar-esta-atrasado-y-milei-no-podra-sostenerlo-hasta-las-elecciones-5167/"
     }
    ]
   },
   "CABA": {
    "top3": [
     {
-     "titulo": "Alerta en la Justicia Electoral por la posibilidad de que PBA y CABA voten el mismo día con distintos sistemas",
-     "medio": "Infobae",
-     "fecha": "23/10/2026",
-     "url": "https://infobae.com/politica/2026/10/23/alerta-en-la-justicia-electoral-por-la-posibilidad-de-que-pba-y-caba-voten-el-mismo-dia-con-distintos-sistemas",
-     "por_que": "Perfila el calendario porteño 2027 y lo ata al acuerdo PRO-LLA."
+     "titulo": "COMBATIENDO EN CAPITAL Legislatura porteña: el peronismo logró sancionar dos proyectos y polarizó con Milei, pero LLA no dio pelea Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/legislatura-portena-el-peronismo-logro-sancionar-dos-proyectos-y-polarizo-milei-pero-lla-no-dio-pelea-n5427830"
     },
     {
-     "titulo": "Jorge Macri respaldó la detención de los metrodelegados en medio de una protesta del subte",
-     "medio": "La Nación",
-     "fecha": "20/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/jorge-macri-respaldo-la-detencion-de-los-metrodelegados-en-medio-de-una-protesta-del-subte-nid20102026/",
-     "por_que": "Principal conflicto de gestión de la semana, con paro total del servicio."
+     "titulo": "La ciudad de la furia Con la discusión de un acuerdo electoral en pausa, el PRO y LLA vuelven a confluir en la Legislatura porteña Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/con-la-discusion-un-acuerdo-electoral-pausa-el-pro-y-lla-vuelven-confluir-la-legislatura-portena-n5427779"
     },
     {
-     "titulo": "La presidenta de LLA en CABA mostró cautela ante un acuerdo electoral con el PRO: “Futurología no hago”",
+     "titulo": "La Legislatura porteña aprobó la \"Ley Turco García\", que establece el Día de la Prevención de los Consumos Problemáticos de Sustancias",
      "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://infobae.com/politica/2026/10/21/la-presidenta-de-lla-en-caba-mostro-cautela-ante-un-acuerdo-electoral-con-el-pro-futurologia-no-hago",
-     "por_que": "La alianza PRO-LLA para 2027 sigue abierta."
+     "fecha": "29/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/29/la-legislatura-portena-aprobo-la-ley-turco-garcia-que-establece-el-dia-de-la-prevencion-de-los-consumos-problematicos-de-sustancias/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "La presidenta de LLA en CABA mostró cautela ante un acuerdo electoral con el PRO: “Futurología no hago”",
-     "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://infobae.com/politica/2026/10/21/la-presidenta-de-lla-en-caba-mostro-cautela-ante-un-acuerdo-electoral-con-el-pro-futurologia-no-hago",
-     "resumen": "Pilar Ramírez, presidenta del bloque LLA, evitó comprometer un acuerdo electoral con el PRO y descartó por ahora ser vicejefa con Jorge Macri."
-    },
-    {
-     "titulo": "Jorge Macri respaldó la detención de los metrodelegados en medio de una protesta del subte",
-     "medio": "La Nación",
-     "fecha": "20/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/jorge-macri-respaldo-la-detencion-de-los-metrodelegados-en-medio-de-una-protesta-del-subte-nid20102026/",
-     "resumen": "Macri respaldó la detención de los metrodelegados desde Madrid; PRO y LLA compiten con proyectos de Código Contravencional, un anticipo del eje de «ley y orden» de la campaña porteña."
-    }
-   ]
+   "imagen": []
   },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Kicillof analiza una elección provincial unificada si el Gobierno no logra suspender las PASO",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/22/kicillof-analiza-una-eleccion-provincial-unificada-si-el-gobierno-no-logra-suspender-las-paso/",
-     "por_que": "Define el escenario de calendario del distrito con mayor padrón del país."
+     "titulo": "El gobierno pretende que la Cámara Electoral obligue a Kicillof a desdoblar la elección",
+     "medio": "La Politica Online",
+     "fecha": "23/10/2026",
+     "url": "https://www.lapoliticaonline.com/politica/el-gobierno-de-milei-le-pide-a-la-camara-electoral-que-obligue-a-kicillof-a-desdoblar-la-eleccion/"
     },
     {
-     "titulo": "Cumbre peronista con gusto a poco: puesta en escena de unidad, con cada uno en la suya",
-     "medio": "Diagonales",
-     "fecha": "24/10/2026",
-     "url": "https://www.diagonales.com/nacion/cumbre-peronista-con-gusto-a-poco--puesta-en-escena-de-unidad--con-cada-uno-en-la-suya_a6adcffa130605f2dd32da56f",
-     "por_que": "Unidad por las PASO, pero sin acuerdo sobre conducción ni candidaturas 2027."
+     "titulo": "ELECCIONES 2027 Reforma electoral: la CNE apura al Congreso y advierte por los plazos",
+     "medio": "La Tecla",
+     "fecha": "28/10/2026",
+     "url": "https://www.latecla.info/170764-reforma-electoral-la-camara-nacional-electoral-apura-al-congreso-y-advierte-por-los-plazos"
     },
     {
-     "titulo": "Kicillof quiere garantizar la reelección de los intendentes y buscará una negociación con la oposición",
+     "titulo": "Reelecciones, PASO bonaerenses y construcción propia: qué dejó la reunión de Kicillof con sus intendentes",
      "medio": "Infobae",
-     "fecha": "25/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/25/kicillof-quiere-garantizar-la-reeleccion-de-los-intendentes-y-buscara-una-negociacion-con-la-oposicion/",
-     "por_que": "Reforma de reglas que afecta a más de 80 intendentes, atada a la Corte y al calendario."
+     "fecha": "30/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/30/reelecciones-paso-bonaerenses-y-construccion-propia-que-dejo-la-reunion-de-kicillof-con-sus-intendentes/"
     }
    ],
    "imagen": [
     {
-     "titulo": "Encuesta Zuban Córdoba: aprobación de Kicillof 48,7% y desaprobación de Milei en PBA 59,9%",
-     "medio": "Diagonales",
-     "fecha": "24/10/2026",
-     "url": "https://www.diagonales.com/nacion/casi-el-60--de-los-bonaerenses-rechaza-todo-lo-que-hace-milei_a6adcb14730605f2dd3095184",
-     "resumen": "La nota no informa la fecha de campo.",
-     "tag": "Sin fecha de campo"
+     "titulo": "ELECCIONES 2027 Kicillof lidera el ranking de imagen positiva y el peronismo aventaja a Milei por tres puntos Por Susana Maidana",
+     "medio": "Letra P",
+     "fecha": "27/10/2026",
+     "url": "https://www.letrap.com.ar/politica/axel-kicillof-lidera-el-ranking-imagen-positiva-y-el-peronismo-aventaja-javier-milei-tres-puntos-n5427699"
     },
     {
-     "titulo": "Al menos 11 aspirantes peronistas a la gobernación",
-     "medio": "Infobae",
-     "fecha": "22/10/2026",
-     "url": null,
-     "resumen": "Entre ellos se mencionan Ferraresi, Alak, Katopodis, Bianco y Espinoza. La nota no tiene link en el clipping.",
-     "tag": "Fuente única"
-    },
-    {
-     "titulo": "Cumbre peronista con gusto a poco: puesta en escena de unidad, con cada uno en la suya",
-     "medio": "Diagonales",
-     "fecha": "24/10/2026",
-     "url": "https://www.diagonales.com/nacion/cumbre-peronista-con-gusto-a-poco--puesta-en-escena-de-unidad--con-cada-uno-en-la-suya_a6adcffa130605f2dd32da56f",
-     "resumen": "Unidad por las PASO en la cumbre del 22/10, pero sin acuerdo sobre candidaturas ni conducción; la interna entre Kicillof y La Cámpora sigue abierta."
+     "titulo": "DISCUSIÓN 2027 | BUENOS AIRES Kicillof y sus intendentes quieren PASO y reelecciones: cómo conseguir votos para cambiar la ley Vidal Por Macarena Ramírez",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/axel-kicillof-y-sus-intendentes-quieren-paso-y-reelecciones-como-conseguir-votos-cambiar-la-ley-vidal-n5427836"
     }
    ]
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Reunión radical La UCR reunió a sus diputados y cuestionó al Gobierno por educación, salud y minería",
+     "medio": "El Ancasti",
+     "fecha": "30/10/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-ucr-reunio-sus-diputados-y-cuestiono-al-gobierno-educacion-salud-y-mineria-n625014"
+    },
+    {
+     "titulo": "Un diputado libertario dijo que le pegaron a Milei en Catamarca y lo desmintieron",
+     "medio": "La Politica Online",
+     "fecha": "28/10/2026",
+     "url": "https://www.lapoliticaonline.com/politica/un-diputado-libertario-dijo-que-le-pegaron-a-milei-en-catamarca-y-lo-desmintieron/"
+    },
+    {
+     "titulo": "LIBERTARIOS VS. LIBERTARIOS La tropa de La Libertad Avanza en Catamarca le dijo a Milei que no quiere un acuerdo con Jalil Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "28/10/2026",
+     "url": "https://www.letrap.com.ar/politica/la-tropa-la-libertad-avanza-catamarca-le-dijo-milei-que-no-quiere-un-acuerdo-jalil-n5427782"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Así es la boleta de los candidatos a Intendente de Gaiman",
+     "medio": "Diario Jornada",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariojornada.com.ar/426106/politica/asi_es_la_boleta_de_los_candidatos_a_intendente_de_gaiman",
+     "tag": "También en El Chubut"
+    },
+    {
+     "titulo": "Sergio Uñac avanza con su armado nacional y prepara una propuesta para 2027",
+     "medio": "Diario Jornada",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariojornada.com.ar/426146/politica/sergio_unac_avanza_con_su_armado_nacional_y_prepara_una_propuesta_para_2027"
+    },
+    {
+     "titulo": "Paritaria docente 2027: qué pide ATEN y por qué rechazó la propuesta del Ejecutivo",
+     "medio": "ADN Sur",
+     "fecha": "30/10/2026",
+     "url": "https://www.adnsur.com.ar/sociedad/paritaria-docente-2027--que-pide-aten-y-por-que-rechazo-la-propuesta-del-ejecutivo_a6ae486984c1b26cf08c1a759"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "De Loredo busca cercar a LLA en Córdoba con la banca de Macri y los gobernadores radicales",
+     "medio": "Letra P",
+     "fecha": "27/10/2026",
+     "url": "https://www.letrap.com.ar/politica/rodrigo-loredo-busca-cercar-lla-cordoba-la-banca-macri-y-los-gobernadores-radicales-n5427725"
+    },
+    {
+     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+     "medio": "Hoy Dia",
+     "fecha": "30/10/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-y-habilito-las-internaciones-involuntarias/"
+    },
+    {
+     "titulo": "Pedirán antecedentes penales para entrar y continuar en la Municipalidad de Córdoba: qué plantea la reforma",
+     "medio": "ElDoce",
+     "fecha": "29/10/2026",
+     "url": "https://eldoce.tv/politica/2026/10/29/pediran-antecedentes-penales-para-entrar-y-continuar-en-la-municipalidad-de-cordoba-los-cambios-de-la-reforma/",
+     "tag": "También en Cadena3"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Llaryora supera a Juez, Bornoroni y De Loredo en una encuesta para 2027",
+     "medio": "La Politica Online",
+     "fecha": "29/10/2026",
+     "url": "https://www.lapoliticaonline.com/cordoba/llaryora-supera-a-juez-bornoroni-y-de-loredo-en-una-encuesta-para-2027/"
+    },
+    {
+     "titulo": "Exclusivo Encuesta en Córdoba: Llaryora puntea y Juez asoma como el rival más competitivo a casi nueve puntos Por Yanina Passero",
+     "medio": "Letra P",
+     "fecha": "26/10/2026",
+     "url": "https://www.letrap.com.ar/politica/encuesta-cordoba-llaryora-puntea-y-juez-asoma-como-el-rival-mas-competitivo-casi-nueve-puntos-n5427691"
+    }
+   ]
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Tomó estado parlamentario el proyecto de Presupuesto 2027: prevén gastos por $4,8 billones",
+     "medio": "El Litoral",
+     "fecha": "29/10/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-10-29-23-19-0-tomo-estado-parlamentario-el-proyecto-de-presupuesto-2027-preven-gastos-por-4-8-billones"
+    },
+    {
+     "titulo": "“Nos falta una maestra”: los sindicatos docentes ya se movilizan a la casa de Corrientes en el centro porteño",
+     "medio": "Infobae",
+     "fecha": "29/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/29/nos-falta-una-maestra-los-sindicatos-docentes-se-movilizan-hoy-a-la-casa-de-corrientes-en-el-centro-porteno/"
+    },
+    {
+     "titulo": "Javier Milei estará en Corrientes a fines de noviembre para participar de una actividad privada",
+     "medio": "Infobae",
+     "fecha": "29/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/29/javier-milei-estara-en-corrientes-a-fines-de-noviembre-para-participar-de-una-actividad-privada/"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental: qué cambios propone",
+     "medio": "El Once",
+     "fecha": "30/10/2026",
+     "url": "https://www.elonce.com/politica/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-que-cambios-propone.htm",
+     "tag": "También en UNO ER, AFP Digital y 1 más"
+    },
+    {
+     "titulo": "Presupuesto 2027: Entre Ríos proyecta una inversión de $905.394 millones para infraestructura",
+     "medio": "El Once",
+     "fecha": "30/10/2026",
+     "url": "https://www.elonce.com/politica/presupuesto-2027-entre-rios-proyecta-una-inversion-de-905-394-millones-para-infraestructura.htm"
+    },
+    {
+     "titulo": "Paraná: Por la creciente, modifican el embarque de excursiones náuticas",
+     "medio": "AFP Digital",
+     "fecha": "29/10/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/10/29/476967-parana-por-la-creciente-modifican-el-embarque-de-excursiones-nauticas",
+     "tag": "También en Ahora, El Once y 1 más"
+    }
+   ],
+   "imagen": []
+  },
+  "Formosa": {
+   "top3": [
+    {
+     "titulo": "El Senado aprobó en general la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+     "medio": "La Mañana",
+     "fecha": "30/10/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108275/el-senado-aprob-en-general-la-reforma-de-la-ley-de-salud-mental-que-habilita-internaciones-involuntarias/"
+    },
+    {
+     "titulo": "Javier Milei inaugurará una planta de litio y se mostrará con un gobernador peronista aliado",
+     "medio": "La Mañana",
+     "fecha": "30/10/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108188/javier-milei-inaugurar-una-planta-de-litio-y-se-mostrar-con-un-gobernador-peronista-aliado/"
+    }
+   ],
+   "imagen": []
+  },
+  "Jujuy": {
+   "top3": [
+    {
+     "titulo": "La Cámara Nacional Electoral habilitó a la Lista Celeste y Blanca a participar de las elecciones internas en el PJ de Jujuy",
+     "medio": "Somos Jujuy",
+     "fecha": "29/10/2026",
+     "url": "https://www.somosjujuy.com.ar/politica/la-camara-nacional-electoral-habilito-lista-celeste-blanca-participar-elecciones-internas-pj-jujuy-n126313",
+     "tag": "También en Todo Jujuy"
+    },
+    {
+     "titulo": "Con cambios, el Senado aprobó y giró a Diputados la reforma a la ley de salud mental",
+     "medio": "Somos Jujuy",
+     "fecha": "30/10/2026",
+     "url": "https://www.somosjujuy.com.ar/politica/con-cambios-senado-aprobo-giro-diputados-reforma-ley-salud-mental-n126359",
+     "tag": "También en Todo Jujuy, El Tribuno"
+    },
+    {
+     "titulo": "UNA BATALLA TRAS OTRA Jujuy: la Cámara Nacional Electoral le dio una vida más a la lista de Rivarola y asoman las internas en el PJ Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "30/10/2026",
+     "url": "https://www.letrap.com.ar/politica/jujuy-la-camara-nacional-electoral-le-dio-una-vida-mas-la-lista-rivarola-y-asoman-las-internas-el-pj-n5427831"
+    }
+   ],
+   "imagen": []
+  },
+  "La Pampa": {
+   "top3": [
+    {
+     "titulo": "GUERRA DE SUCESIÓN Bensusán construye su candidatura a gobernador de La Pampa mirando al campo como aliado Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/bensusan-construye-su-candidatura-gobernador-la-pampa-mirando-al-campo-como-aliado-n5427739"
+    },
+    {
+     "titulo": "La Legislatura aprobó por unanimidad que las salas de 3 años sean obligatorias",
+     "medio": "El Diario de La Pampa",
+     "fecha": "30/10/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82385/la-legislatura-aprobo-por-unanimidad-la-obligatoriedad-de-las-salas-de-3-anos",
+     "tag": "También en La Arena"
+    },
+    {
+     "titulo": "Pico: el Municipio pidió al Concejo postergarla presentación del Presupuesto 2027",
+     "medio": "El Diario de La Pampa",
+     "fecha": "30/10/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82417/pico--el-municipio-pidio-al-concejo-postergarla-presentacion-del-presupuesto-2027"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "Quintela planteó un plan de emergencia productiva para el 2027 y cruzó a Milei: “Es el único presidente que no puso un solo ladrillo”",
+     "medio": "El Destape",
+     "fecha": "30/10/2026",
+     "url": "https://www.eldestapeweb.com/politica/quintela-propuso-plan-emergencia-productiva-2027-remato-milei-unico-presidente-no-puso-solo-ladrillo-20261029221534"
+    },
+    {
+     "titulo": "Del RIGI a “los Chachos” y Bolsonaro. Javier Milei y Ricardo Quintela volvieron a cruzar críticas y chicanas",
+     "medio": "La Nación",
+     "fecha": "29/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/del-rigi-a-los-chachos-y-bolsonaro-javier-milei-y-ricardo-quintela-volvieron-a-cruzar-criticas-y-nid29102026/"
+    },
+    {
+     "titulo": "Magistratura: Con una jugada en el Senado, Cristina retiene dos lugares y manda a Wado de Pedro y la riojana López",
+     "medio": "La Politica Online",
+     "fecha": "27/10/2026",
+     "url": "https://www.lapoliticaonline.com/congreso/cristina-quiere-a-los-senadores-wado-de-pedro-y-la-riojana-lopez-para-el-consejo-de-la-magistratura-3830/"
+    }
+   ],
+   "imagen": []
   },
   "Mendoza": {
    "top3": [
     {
-     "titulo": "La crisis de cloacas de AYSAM, la salida de Mingorance y el riesgo latente del castigo en las urnas",
-     "medio": "Diario UNO",
-     "fecha": "25/10/2026",
-     "url": "https://www.diariouno.com.ar/politica/la-crisis-cloacas-aysam-la-salida-mingorance-y-el-riesgo-latente-del-castigo-las-urnas-n1609518",
-     "por_que": "Es el principal costo de gestión del oficialismo de cara a 2027."
-    },
-    {
-     "titulo": "Cornejo vs Petri: datos de la pulseada electoral",
+     "titulo": "\"Peor es elegir mal\": Cornejo avisa a Milei que podría no votar contra las PASO",
      "medio": "Memo",
-     "fecha": "25/10/2026",
-     "url": "https://www.memo.com.ar/poder/abrelatas-analisis-resumen-petri-cornejo-elecciones/",
-     "por_que": "La relación UCR–LLA define la competencia por la gobernación (análisis de fuente única)."
+     "fecha": "30/10/2026",
+     "url": "https://www.memo.com.ar/opinion/abrelatas-analisis-escenario-electoral-cornejo-petri-karina-pullaro/",
+     "tag": "También en Mendoza Post"
     },
     {
-     "titulo": "Renuncias, escándalos y cloacas: la política mendocina desbordada",
-     "medio": "MDZ",
-     "fecha": "25/10/2026",
-     "url": "https://www.mdzol.com/politica/2026/10/25/renuncias-escandalos-y-cloacas-la-politica-mendocina-desbordada-1990587.html",
-     "por_que": "Reúne la salida de Mingorance y el caso Latorre, con versiones contrapuestas."
+     "titulo": "Mendoza publicó la resolución que regula la pesca deportiva para la temporada 2026/2027",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "30/10/2026",
+     "url": "https://prensa.mendoza.gob.ar/mendoza-publico-la-resolucion-que-regula-la-pesca-deportiva-para-la-temporada-2026-2027/"
+    },
+    {
+     "titulo": "El Gobierno volvió a dejar sin efecto más de 21.800 pensiones por invalidez: ¿estás en la lista?",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariouno.com.ar/politica/el-gobierno-volvio-dejar-efecto-mas-21800-pensiones-invalidez-estas-la-lista-n1611384"
     }
    ],
    "imagen": [
     {
-     "titulo": "Cornejo vs Petri: datos de la pulseada electoral",
-     "medio": "Memo",
-     "fecha": "25/10/2026",
-     "url": "https://www.memo.com.ar/poder/abrelatas-analisis-resumen-petri-cornejo-elecciones/",
-     "resumen": "Petri (LLA) se da por candidato; Cornejo pediría a LLA el compromiso de no llevar candidato propio antes de apoyar reformas en el Congreso.",
-     "tag": "Fuente única · análisis"
-    },
-    {
-     "titulo": "La crisis de cloacas de AYSAM, la salida de Mingorance y el riesgo latente del castigo en las urnas",
-     "medio": "Diario UNO",
-     "fecha": "25/10/2026",
-     "url": "https://www.diariouno.com.ar/politica/la-crisis-cloacas-aysam-la-salida-mingorance-y-el-riesgo-latente-del-castigo-las-urnas-n1609518",
-     "resumen": "La crisis de desbordes cloacales de AYSAM se volvió un riesgo electoral para el oficialismo, en especial en Guaymallén."
-    },
-    {
-     "titulo": "Renuncias, escándalos y cloacas: la política mendocina desbordada",
-     "medio": "MDZ",
-     "fecha": "25/10/2026",
-     "url": "https://www.mdzol.com/politica/2026/10/25/renuncias-escandalos-y-cloacas-la-politica-mendocina-desbordada-1990587.html",
-     "resumen": "La ministra de Energía, Jimena Latorre, quedó cuestionada por un reintegro de unos $13,6 millones por una maestría; ella lo defendió como legal."
+     "titulo": "Festival de fotografía FOCUS: Mendoza se transformó en epicentro global de la imagen y la memoria",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "29/10/2026",
+     "url": "https://www.diariouno.com.ar/sociedad/festival-fotografia-focus-mendoza-se-transforma-epicentro-global-la-imagen-y-la-memoria-n1609591"
     }
    ]
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "El HCD aprobó por una unanimidad el Presupuesto Municipal 2027",
+     "medio": "La Voz - Misiones",
+     "fecha": "29/10/2026",
+     "url": "https://lavozdemisiones.com/politica/el-hcd-aprobo-por-una-unanimidad-el-presupuesto-municipal-2027"
+    },
+    {
+     "titulo": "Ruiz y su proyecto de imprescriptibilidad de delitos sexuales: “Es una deuda histórica”",
+     "medio": "La Voz - Misiones",
+     "fecha": "28/10/2026",
+     "url": "https://lavozdemisiones.com/politica/ruiz-y-su-proyecto-de-imprescriptibilidad-de-delitos-sexuales-es-una-deuda-historica"
+    },
+    {
+     "titulo": "Operativo Bolsonaro. Quiénes son los dos empleados de Yacyretá que ayudaron a Santiago Caputo en Misiones",
+     "medio": "La Nación",
+     "fecha": "29/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/quienes-son-los-dos-empleados-de-yacyreta-que-ayudaron-a-santiago-caputo-en-misiones-para-el-nid29102026/"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Neuquén: las cinco claves para entender el presupuesto que Figueroa proyecta para afrontar el año electoral Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/neuquen-las-cinco-claves-entender-el-presupuesto-que-figueroa-proyecta-afrontar-el-ano-electoral-n5427806"
+    },
+    {
+     "titulo": "Ciclo lectivo 2027 Comienza la preinscripción para ingresantes a nivel Inicial",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "29/10/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/29/266400-comienza-la-preinscripcion-para-ingresantes-a-nivel-inicial",
+     "tag": "También en Noticias NQN, Neuquén al Instante"
+    },
+    {
+     "titulo": "Concejo Deliberante El Concejo Deliberante de Plottier aprobó su presupuesto para 2027",
+     "medio": "Noticias NQN",
+     "fecha": "29/10/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/10/29/358734-el-concejo-deliberante-de-plottier-aprobo-su-presupuesto-para-2027"
+    }
+   ],
+   "imagen": []
+  },
+  "Río Negro": {
+   "top3": [
+    {
+     "titulo": "Weretilneck destacó el impacto energético y confirmó que Río Negro desdoblará las elecciones",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "30/10/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62482/weretilneck-destaco-el-impacto-energetico-y-confirmo-que-rio-negro-desdoblara-las-elecciones",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "En Río Negro. Weretilneck adelantará las elecciones 2027 en Río Negro y respaldó eliminar las PASO",
+     "medio": "La Nación",
+     "fecha": "29/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/weretilneck-adelantara-las-elecciones-2027-en-rio-negro-y-respaldo-eliminar-las-paso-nid29102026/",
+     "tag": "También en El Destape"
+    },
+    {
+     "titulo": "Weretilneck impulsa una solución histórica para los residuos de Bariloche y la región",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "30/10/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62514/weretilneck-impulsa-una-solucion-historica-para-los-residuos-de-bariloche-y-la-region",
+     "tag": "También en AN Roca, LCR y 1 más"
+    }
+   ],
+   "imagen": []
+  },
+  "Salta": {
+   "top3": [
+    {
+     "titulo": "Jefatura de Gabinete de Ministros",
+     "medio": "Prensa oficial de Salta",
+     "fecha": "30/10/2026",
+     "url": "https://www.salta.gob.ar/organismos/jefatura-de-gabinete-de-ministros-4"
+    },
+    {
+     "titulo": "Elecciones: Kosiner adelantó que Fuerza Patria irá “con candidatos en toda la provincia”",
+     "medio": "Informate Salta",
+     "fecha": "30/10/2026",
+     "url": "https://informatesalta.com.ar/sin-vueltas-tv/elecciones--kosiner-adelanto-que-fuerza-patria-ira--con-candidatos-en-toda-la-provincia-_a6ae37973052cad7d01821edf"
+    },
+    {
+     "titulo": "La carrera electoral ya tiene fechas en el horizonte: Las claves del calendario 2027 en Salta",
+     "medio": "Informate Salta",
+     "fecha": "30/10/2026",
+     "url": "https://informatesalta.com.ar/sin-vueltas-tv/la-carrera-electoral-ya-tiene-fechas-en-el-horizonte--las-claves-del-calendario-2027-en-salta_a6ae37038052cad7d0181456d"
+    }
+   ],
+   "imagen": []
   },
   "San Juan": {
    "top3": [
     {
-     "titulo": "Las perlitas de la rosca en San Juan: el empresario que amaga como en 2023, la página de lanzamiento de “Andino 2027”…",
-     "medio": "Diario de Cuyo",
-     "fecha": "25/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/las-perlitas-la-rosca-san-juan-el-empresario-que-amaga-como-el-2023-la-pagina-lanzamiento-andino-2027-y-la-miel-defina-rossi-rawson-n6586722",
-     "por_que": "Perfila a los candidatos peronistas a gobernador para 2027 (trascendidos)."
-    },
-    {
-     "titulo": "Escobar habló de Orrego y dio su pronóstico para 2027: ¿repite?",
-     "medio": "Diario Huarpe",
-     "fecha": "23/10/2026",
-     "url": "https://www.diariohuarpe.com/nota/segun-escobar-orrego-tiene-tremendas-chances-de-repetir-mandato-2026102318140",
-     "por_que": "Instala la discusión sobre la reelección de Orrego."
-    },
-    {
-     "titulo": "Orrego envió a la Legislatura la ampliación de La Ciénaga",
+     "titulo": "El Senado aprobó la reforma de Salud Mental: qué cambia y cuál es el paso que falta para que sea ley",
      "medio": "El Zonda",
-     "fecha": "25/10/2026",
-     "url": "https://www.diarioelzondasj.com.ar/locales/orrego-envio-a-la-legislatura-la-ampliacion-de-la-cienaga",
-     "por_que": "Es una iniciativa del Ejecutivo en la agenda legislativa."
+     "fecha": "30/10/2026",
+     "url": "https://www.diarioelzondasj.com.ar/nacionales/el-senado-aprobo-la-reforma-de-salud-mental-que-cambia-y-cual-es-el-paso-que-falta-para-que-sea-ley",
+     "tag": "También en San Juan 8, Huarpe"
+    },
+    {
+     "titulo": "Cumbre minera en Rosario: Karina Milei y 12 gobernadores, con las PASO en la agenda política",
+     "medio": "Diario de Cuyo",
+     "fecha": "29/10/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/cumbre-minera-rosario-karina-milei-y-12-gobernadores-las-paso-la-agenda-politica-n6587180"
+    },
+    {
+     "titulo": "Lula agradeció a Macri y marcó diferencias con Milei",
+     "medio": "El Zonda",
+     "fecha": "29/10/2026",
+     "url": "https://www.diarioelzondasj.com.ar/politica/lula-agradecio-a-macri-y-marco-diferencias-con-milei",
+     "tag": "También en Diario de Cuyo"
     }
    ],
    "imagen": [
     {
-     "titulo": "Las perlitas de la rosca en San Juan: el empresario que amaga como en 2023, la página de lanzamiento de “Andino 2027”…",
-     "medio": "Diario de Cuyo",
-     "fecha": "25/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/las-perlitas-la-rosca-san-juan-el-empresario-que-amaga-como-el-2023-la-pagina-lanzamiento-andino-2027-y-la-miel-defina-rossi-rawson-n6586722",
-     "resumen": "Intendentes respaldan a Cristian Andino como candidato peronista a gobernador; también se mencionan Aballay, Perrone y el empresario Paladini.",
-     "tag": "Versión sin confirmar · fuente única"
+     "titulo": "¿Candidato en 2027? Qué respondió Fabián Martín",
+     "medio": "Huarpe",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariohuarpe.com/nota/fabian-martin-puso-el-foco-en-2027-y-la-agenda-legislativa-202610306032"
     },
     {
-     "titulo": "Escobar habló de Orrego y dio su pronóstico para 2027: ¿repite?",
-     "medio": "Diario Huarpe",
-     "fecha": "23/10/2026",
-     "url": "https://www.diariohuarpe.com/nota/segun-escobar-orrego-tiene-tremendas-chances-de-repetir-mandato-2026102318140",
-     "resumen": "El exgobernador Jorge Escobar dijo que Orrego tiene «tremendas chances» de ser reelecto."
+     "titulo": "La Justicia pidió preservar imágenes de cámaras de seguridad e información sobre la salida de Flávio Bolsonaro desde Argentina",
+     "medio": "0264 Noticias",
+     "fecha": "29/10/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/10/29/115233-la-justicia-pidio-preservar-imagenes-de-camaras-de-seguridad-e-informacion-sobre-la-salida-de-flavio-bolsonaro-desde-argentina",
+     "tag": "También en El Zonda"
     }
    ]
   },
   "San Luis": {
    "top3": [
     {
-     "titulo": "El Senado convirtió en ley el programa de desendeudamiento familiar, la innovación financiera y el Plan Maestro del Agua",
+     "titulo": "El Gobernador Poggi se sometió nuevamente al examen toxicológico",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "29/10/2026",
+     "url": "https://agenciasanluis.com/2026/10/29/1225899-el-gobernador-poggi-se-sometio-nuevamente-al-examen-toxicologico/",
+     "tag": "También en La Gaceta Digital"
+    },
+    {
+     "titulo": "Acusan al gobernador Poggi de enriquecimiento ilícito por la compra masiva de inmuebles",
+     "medio": "La Politica Online",
+     "fecha": "24/10/2026",
+     "url": "https://www.lapoliticaonline.com/politica/acusan-al-gobernador-poggi-de-enriquecimiento-ilicito-por-la-compra-masiva-de-inmuebles/"
+    },
+    {
+     "titulo": "Concejo Deliberante: con la ausencia del peronismo, el oficialismo dedicó toda la sesión a la aprobación de homenajes",
      "medio": "La Gaceta Digital",
-     "fecha": "20/10/2026",
-     "url": "https://lagacetadigital.com.ar/2026/10/20/el-senado-convirtio-en-ley-el-programa-de-desendeudamiento-familiar-la-innovacion-financiera-y-el-plan-maestro-del-agua/",
-     "por_que": "Muestra la mayoría legislativa de Poggi en su agenda económica."
-    },
-    {
-     "titulo": "Diputados sancionó una nueva reforma judicial pese al rechazo de fiscales",
-     "medio": "La Gaceta Digital",
-     "fecha": "21/10/2026",
-     "url": "https://lagacetadigital.com.ar/2026/10/21/diputados-sanciono-una-nueva-reforma-judicial-pese-al-rechazo-de-fiscales/",
-     "por_que": "Es un cambio institucional en la Justicia con fuerte resistencia."
-    },
-    {
-     "titulo": "Identidad Radical no va a votar el domingo y denuncia “elección tramposa”",
-     "medio": "El Diario de la República",
-     "fecha": "21/10/2026",
-     "url": "https://www.eldiariodelarepublica.com/nota/2026-10-21-12-51-0-identidad-radical-no-va-a-votar-el-domingo-y-denuncia-eleccion-tramposa",
-     "por_que": "El control de la UCR provincial define la coalición oficialista para 2027."
+     "fecha": "29/10/2026",
+     "url": "https://lagacetadigital.com.ar/2026/10/29/concejo-deliberante-con-la-ausencia-del-peronismo-el-oficialismo-dedico-toda-la-sesion-a-la-aprobacion-de-homenajes/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Identidad Radical no va a votar el domingo y denuncia “elección tramposa”",
-     "medio": "El Diario de la República",
-     "fecha": "21/10/2026",
-     "url": "https://www.eldiariodelarepublica.com/nota/2026-10-21-12-51-0-identidad-radical-no-va-a-votar-el-domingo-y-denuncia-eleccion-tramposa",
-     "resumen": "La interna de la UCR del 25/10 tuvo lista única oficialista; Identidad Radical no votó y denunció una «elección tramposa».",
-     "tag": "Fuente única"
-    }
-   ]
-  },
-  "La Rioja": {
-   "top3": [
-    {
-     "titulo": "Quintela aceptó la licencia del ministro de Viviendas, Ariel Puy Soria",
-     "medio": "Fénix 95.1",
-     "fecha": "24/10/2026",
-     "url": "https://www.fenix951.com.ar/noticia.php?id=357906",
-     "por_que": "Es un movimiento en el gabinete, con versiones contrapuestas sobre su alcance."
-    },
-    {
-     "titulo": "La sucesión de Ricardo Quintela: un sector del PJ rechaza la ley de lemas y propone internas abiertas",
-     "medio": "Letra P",
-     "fecha": "25/10/2026",
-     "url": "https://www.letrap.com.ar/politica/la-sucesion-ricardo-quintela-un-sector-del-pj-rechaza-la-ley-lemas-y-propone-internas-abiertas-n5427654",
-     "por_que": "Anticipa la disputa por la sucesión y por el sistema electoral de 2027."
-    },
-    {
-     "titulo": "Cumbre de Kicillof, Massa, Máximo Kirchner y gobernadores: vocación de unidad y acuerdo para enfrentar a Milei en el Congreso",
-     "medio": "Infobae",
-     "fecha": "23/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/23/cumbre-de-kicillof-massa-maximo-kirchner-y-gobernadores-vocacion-de-unidad-y-acuerdo-para-enfrentar-a-milei-en-el-congreso/",
-     "por_que": "Quintela integra el núcleo opositor del PJ nacional."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "La sucesión de Ricardo Quintela: un sector del PJ rechaza la ley de lemas y propone internas abiertas",
-     "medio": "Letra P",
-     "fecha": "25/10/2026",
-     "url": "https://www.letrap.com.ar/politica/la-sucesion-ricardo-quintela-un-sector-del-pj-rechaza-la-ley-lemas-y-propone-internas-abiertas-n5427654",
-     "resumen": "Un sector del PJ de Chilecito rechaza la ley de lemas y propone internas abiertas. Se mencionan Rejal, Florencia López, Pedrali (señalada como preferida de Quintela), Madera y Molina, y Martín Menem por LLA.",
-     "tag": "Fuente única"
-    }
-   ]
-  },
-  "Neuquén": {
-   "top3": [
-    {
-     "titulo": "Figueroa: “Vamos a decretar la emergencia meteorológica por seis meses”",
-     "medio": "Neuquén Informa",
-     "fecha": "24/10/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/24/266142-figueroa-vamos-a-decretar-la-emergencia-meteorologica-por-seis-meses",
-     "por_que": "Es una herramienta de excepción que define la agenda de gestión de los próximos seis meses."
-    },
-    {
-     "titulo": "Martínez: “Es el plan más ambicioso en obra pública que ha tenido la provincia”",
-     "medio": "Neuquén Informa",
-     "fecha": "23/10/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/23/266047-martinez-es-el-plan-mas-ambicioso-en-obra-publica-que-ha-tenido-la-provincia",
-     "por_que": "El Presupuesto 2027 marca la plataforma de gestión del año preelectoral."
-    },
-    {
-     "titulo": "En Neuquén, Milei destacó el crecimiento de las exportaciones de petróleo y lo adjudicó a las desregulaciones del Gobierno",
-     "medio": "La Nación",
-     "fecha": "19/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/en-neuquen-milei-destaco-el-crecimiento-de-las-exportaciones-de-petroleo-y-lo-adjudico-a-las-nid19102026/",
-     "por_que": "Muestra la disputa por el crédito político de Vaca Muerta."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "En Neuquén, Milei destacó el crecimiento de las exportaciones de petróleo y lo adjudicó a las desregulaciones del Gobierno",
-     "medio": "La Nación",
-     "fecha": "19/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/en-neuquen-milei-destaco-el-crecimiento-de-las-exportaciones-de-petroleo-y-lo-adjudico-a-las-nid19102026/",
-     "resumen": "Milei atribuyó el crecimiento de Vaca Muerta a la desregulación en la expo de petróleo y gas; la nota no menciona a Figueroa."
-    }
-   ]
-  },
-  "Río Negro": {
-   "top3": [
-    {
-     "titulo": "Causa Techo Digno: diez legisladores opositores denuncian al STJ y se reabre la investigación por Gennuso",
-     "medio": "Diario Río Negro",
-     "fecha": "25/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/causa-techo-digno-diez-legisladores-opositores-denuncian-al-stj-y-abre-la-investigacion-por-gennuso/",
-     "por_que": "Abre un conflicto institucional entre la oposición y el Poder Judicial."
-    },
-    {
-     "titulo": "Unter rechazó la oferta salarial del Gobierno y advirtió que hará un paro si no hay nueva paritaria",
-     "medio": "AN Roca",
-     "fecha": "24/10/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/10/24/229344-unter-rechazo-la-oferta-salarial-del-gobierno-y-advirtio-que-hara-un-paro-si-no-hay-nueva-paritaria",
-     "por_que": "Es un riesgo de conflicto educativo en la antesala electoral."
-    },
-    {
-     "titulo": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional”",
-     "medio": "Prensa RN",
-     "fecha": "23/10/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62359/weretilneck-rio-negro-esta-viviendo-su-tercer-acto-fundacional",
-     "por_que": "Es el relato de gestión energética con el que el oficialismo encara 2027."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Esto es en off: la política patagónica tuvo una semana intensa",
-     "medio": "Diario Río Negro",
-     "fecha": "24/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/esto-es-en-off-la-politica-patagonica-tuvo-una-semana-de-oficinas-guinos-y-reclamos/",
-     "resumen": "Weretilneck pasó tres días en Bariloche en una actividad que el diario lee como de campaña; María Emilia Soria, candidata peronista, recorrió Viedma.",
-     "tag": "Columna de trascendidos"
-    },
-    {
-     "titulo": "Weretilneck: “Río Negro está viviendo su tercer acto fundacional”",
-     "medio": "Prensa RN",
-     "fecha": "23/10/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62359/weretilneck-rio-negro-esta-viviendo-su-tercer-acto-fundacional",
-     "resumen": "Weretilneck habló de un «tercer acto fundacional» para la provincia: el relato de gestión energética con el que el oficialismo encara 2027."
-    }
-   ]
+   "imagen": []
   },
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Vidal está con recorridas, anuncios, reuniones y fotos con intendentes. En clave política",
-     "medio": "Tiempo Sur",
-     "fecha": "24/10/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-oficialismo-ensaya-su-estrategia-para-2027",
-     "por_que": "Perfila la reelección de Vidal, su acercamiento a LLA y las fisuras en su bloque."
+     "titulo": "Compartir Pesar. El Gobierno de Santa Cruz declaró dos días de duelo provincial por la muerte de los hermanitos Leo y José",
+     "medio": "Winfo",
+     "fecha": "29/10/2026",
+     "url": "https://winfo.ar/politica/2026/10/el-gobierno-de-santa-cruz-declaro-dos-dias-de-duelo-provincial-por-la-muerte-de-los-hermanitos-leo-y-jose",
+     "tag": "También en El Diario Nuevo Día, Mediatíca y 2 más"
     },
     {
-     "titulo": "Legislatura provincial rechazó renovar la emergencia hidrocarburífera",
-     "medio": "OPI Santa Cruz",
-     "fecha": "23/10/2026",
-     "url": "https://www.opisantacruz.com.ar/2026/10/23/legislatura-provincial-rechazo-renovar-la-emergencia-hidrocarburifera/",
-     "por_que": "Es una derrota legislativa del Ejecutivo en un tema económico central."
+     "titulo": "El Gobierno retomó las mesas de discusión salarial con los gremios de Salud, Educación y la Administración Central",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "29/10/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/el-gobierno-retomo-las-mesas-de-discusion-salarial-con-los-gremios-de-salud-educacion-y-la-administracion-central",
+     "tag": "También en El Diario Nuevo Día, Mediatíca"
     },
     {
-     "titulo": "Continúa en análisis el Proyecto que establece el Código Electoral de Santa Cruz",
-     "medio": "Mediática",
-     "fecha": "22/10/2026",
-     "url": "https://www.mediaticadigital.com.ar/nota/39665-continua-en-analisis-el-proyecto-que-establece-el-codigo-electoral-de-santa-cruz/",
-     "por_que": "Definirá las reglas de la elección de 2027."
+     "titulo": "Nadia Ricci, ministra de la Producción: “Esta ley no es para vivos, está hecha para la gente que cree en Santa Cruz”",
+     "medio": "La Opinión Austral",
+     "fecha": "28/10/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/nadia-ricci-ministra-de-la-produccion-esta-ley-no-es-para-vivos-esta-hecha-para-la-gente-que-cree-en-santa-cruz-724872.html"
     }
    ],
-   "imagen": [
+   "imagen": []
+  },
+  "Santa Fe": {
+   "top3": [
     {
-     "titulo": "Vidal está con recorridas, anuncios, reuniones y fotos con intendentes. En clave política",
-     "medio": "Tiempo Sur",
-     "fecha": "24/10/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-oficialismo-ensaya-su-estrategia-para-2027",
-     "resumen": "Vidal se perfila para la reelección y se acerca a LLA, pero pierde apoyos en el Senado (Carambia y Gadano se alejaron).",
-     "tag": "Fuente única · análisis"
+     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental y la giró a Diputados",
+     "medio": "Rosario Plus",
+     "fecha": "30/10/2026",
+     "url": "https://www.rosarioplus.com/actualidad/politica/el-senado-aprobo-la-reforma-de-la-ley-de-salud-mental-y-la-giro-a-diputados_a6ae481e8052cad7d018fff1f",
+     "tag": "También en UNO - SF, Rosario3"
     },
     {
-     "titulo": "Santa Cruz en clave política",
-     "medio": "La Opinión Austral",
-     "fecha": "25/10/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/santa-cruz-en-clave-politica-asueto-por-nestor-kirchner-movimientos-opositores-y-fuertes-cruces-entre-dirigentes-723198.html",
-     "resumen": "El diputado Garrido anticipó que quiere ser candidato a gobernador y no descartó una interna con Vidal.",
-     "tag": "Versión sin confirmar"
+     "titulo": "Karina Milei en la Expo Rigi en Rosario:",
+     "medio": "La Capital",
+     "fecha": "29/10/2026",
+     "url": "https://www.lacapital.com.ar/politica/karina-milei-la-expo-rigi-rosario-es-un-win-win-ganan-las-mineras-y-las-pymes-n10289391.html",
+     "tag": "También en Infobae"
+    },
+    {
+     "titulo": "Lula le agradeció a Macri el saludo por el triunfo electoral con una indirecta a Milei",
+     "medio": "La Capital",
+     "fecha": "29/10/2026",
+     "url": "https://www.lacapital.com.ar/politica/lula-le-agradecio-macri-el-saludo-el-triunfo-electoral-una-indirecta-milei-n10289425.html",
+     "tag": "También en UNO - SF"
     }
-   ]
+   ],
+   "imagen": []
+  },
+  "Santiago del Estero": {
+   "top3": [
+    {
+     "titulo": "La intendente Fuentes asistió a la sesión preparatoria del Concejo Deliberante donde asumieron concejales y se designaron autoridades",
+     "medio": "Diario Panorama",
+     "fecha": "29/10/2026",
+     "url": "https://www.diariopanorama.com/noticia/571245/intendente-fuentes-asistio-sesion-preparatoria-concejo-deliberante-donde-asumieron-concejales-se-designaron-autoridades"
+    },
+    {
+     "titulo": "Macri aseguró que no hay avances en un acuerdo electoral entre el PRO y La Libertad Avanza para 2027",
+     "medio": "Diario Panorama",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariopanorama.com/noticia/571286/macri-aseguro-no-hay-avances-acuerdo-electoral-entre-pro-libertad-avanza-para-2027"
+    },
+    {
+     "titulo": "Tintina Celebró su 122° aniversario con la presencia de autoridades provinciales",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "30/10/2026",
+     "url": "https://sde.gob.ar/2026/10/29/tintina-celebro-su-122-aniversario-con-la-presencia-de-autoridades-provinciales/",
+     "tag": "También en El Liberal, Info del Estero"
+    }
+   ],
+   "imagen": []
   },
   "Tierra del Fuego": {
    "top3": [
     {
-     "titulo": "Tierra del Fuego: dos libertarios se disputan el liderazgo provincial y buscan posicionarse para la gobernación",
+     "titulo": "El Ministro Taiana anunció junto al gobernador Melella el incremento de vuelos de LADE a la provincia y la instalación de un radar en Río Grande",
+     "medio": "Provincia 23",
+     "fecha": "30/10/2026",
+     "url": "https://www.provincia23.com.ar/2022/03/04/el-ministro-taiana-anuncio-junto-al-gobernador-melella-el-incremento-de-vuelos-de-lade-a-la-provincia-y-la-instalacion-de-un-radar-en-rio-grande/"
+    },
+    {
+     "titulo": "La cautelar que frenó el proyecto Sea Lion sigue vigente y la Justicia sumó a Tierra del Fuego a la causa contra las petroleras",
      "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/21/tierra-del-fuego-dos-libertarios-se-disputan-el-liderazgo-provincial-y-buscan-posicionarse-para-la-gobernacion/",
-     "por_que": "La candidatura de LLA ordena la competencia en una sucesión abierta."
+     "fecha": "29/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/29/la-cautelar-que-freno-el-proyecto-sea-lion-sigue-vigente-y-la-justicia-sumo-a-tierra-del-fuego-a-la-causa-contra-las-petroleras/"
     },
     {
-     "titulo": "Tierra del Fuego: el manejo del puerto de Ushuaia mete ruido en la alianza entre Melella y Milei",
+     "titulo": "TIERRA DEL FUEGO Martín Perez destacó el fallo que permitió la fiscalización provincial sobre el puerto de Ushuaia Por Letra P | Periodismo Político",
      "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/patagonia/tierra-del-fuego-el-manejo-del-puerto-ushuaia-mete-ruido-la-alianza-melella-y-milei-n5427575",
-     "por_que": "La relación con Nación es ambigua y hay versiones contrapuestas."
-    },
+     "fecha": "29/10/2026",
+     "url": "https://www.letrap.com.ar/politica/martin-perez-destaco-el-fallo-que-permitio-la-fiscalizacion-provincial-el-puerto-ushuaia-n5427821"
+    }
+   ],
+   "imagen": [
     {
-     "titulo": "Otro adelanto de coparticipación de $45.000 millones",
+     "titulo": "Aunque se prefiere un cambio, Milei encabeza la intención de voto",
      "medio": "El Diario del Fin del Mundo",
-     "fecha": "23/10/2026",
-     "url": "https://www.eldiariodelfindelmundo.com/noticias/2026/10/23/118342-otro-adelanto-de-coparticipacion-de-45000-millones",
-     "por_que": "Muestra la dependencia financiera de la provincia respecto de Nación."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Tierra del Fuego: dos libertarios se disputan el liderazgo provincial y buscan posicionarse para la gobernación",
-     "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/21/tierra-del-fuego-dos-libertarios-se-disputan-el-liderazgo-provincial-y-buscan-posicionarse-para-la-gobernacion/",
-     "resumen": "El senador Agustín Coto y el diputado Santiago Pauli disputan la candidatura de LLA; la definición quedaría en la Casa Rosada. Melella no puede buscar otro mandato."
-    },
-    {
-     "titulo": "Tierra del Fuego: el manejo del puerto de Ushuaia mete ruido en la alianza entre Melella y Milei",
-     "medio": "Letra P",
-     "fecha": "23/10/2026",
-     "url": "https://www.letrap.com.ar/patagonia/tierra-del-fuego-el-manejo-del-puerto-ushuaia-mete-ruido-la-alianza-melella-y-milei-n5427575",
-     "resumen": "La relación de Melella con Milei tiene versiones opuestas: alianza según Letra P, crítica según Minuto Fueguino y único en oponerse a sostener las PASO según Infobae.",
-     "tag": "Versiones contrapuestas"
+     "fecha": "30/10/2026",
+     "url": "https://www.eldiariodelfindelmundo.com/noticias/2026/10/30/118475-aunque-se-prefiere-un-cambio-milei-encabeza-la-intencion-de-voto"
     }
    ]
   },
-  "Chubut": {
+  "Tucumán": {
    "top3": [
     {
-     "titulo": "Chubut | Torres deshoja la margarita: la fecha de las elecciones y el dilema de una alianza con Milei",
-     "medio": "Diario Río Negro",
-     "fecha": "24/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/chubut-torres-deshoja-la-margarita-la-fecha-de-las-elecciones-y-el-dilema-de-una-alianza-con-milei-4771513/",
-     "por_que": "Define el posible alineamiento de Torres con LLA en 2027 y la fecha de la elección (versión de fuente única)."
+     "titulo": "El Senado aprobó la reforma de la Ley de Salud Mental: cuáles son los cambios y qué falta para su sanción",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "30/10/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160269/politica/senado-aprobo-reforma-ley-salud-mental-cuales-son-cambios-falta-para-sancion.html",
+     "tag": "También en LV12"
     },
     {
-     "titulo": "Provincias Unidas debe sostener la agenda en el ámbito parlamentario",
-     "medio": "El Chubut",
-     "fecha": "24/10/2026",
-     "url": "https://www.elchubut.com.ar/regionales/2026-10-24-23-20-0-provincias-unidas-debe-sostener-la-agenda-en-el-ambito-parlamentario",
-     "por_que": "Torres ratifica a Provincias Unidas y su rechazo a las PASO, en tensión con la versión de un acuerdo con LLA."
+     "titulo": "Jaldo estalló contra Manzur porque impugnaron su reelección ante la Corte: \"le va a tener que devolver a Tucumán\"",
+     "medio": "La Politica Online",
+     "fecha": "27/10/2026",
+     "url": "https://www.lapoliticaonline.com/politica/jaldo-estallo-contra-manzur-porque-impugnaron-su-reeleccion-ante-la-corte-le-va-a-tener-que-devolver-a-tucuman/"
     },
     {
-     "titulo": "La Libertad Avanza reunió a su juventud provincial en Comodoro con la mira en 2027",
-     "medio": "ADN Sur",
-     "fecha": "25/10/2026",
-     "url": "https://www.adnsur.com.ar/politica/la-libertad-avanza-reunio-a-su-juventud-provincial-en-comodoro-con-la-mira-en-2027_a6adde700a6427ef3bf99f7fb",
-     "por_que": "LLA anuncia candidato propio a gobernador, lo que complica una alianza con Torres."
+     "titulo": "Elecciones en la Asociación de Magistrados: la Cámara Civil suspendió los comicios por la posible inclusión irregular de funcionarios en el padrón",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "30/10/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160280/politica/elecciones-asociacion-magistrados-camara-civil-suspendio-comicios-posible-inclusion-irregular-funcionarios-padron.html"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Chubut | Torres deshoja la margarita: la fecha de las elecciones y el dilema de una alianza con Milei",
-     "medio": "Diario Río Negro",
-     "fecha": "24/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/chubut-torres-deshoja-la-margarita-la-fecha-de-las-elecciones-y-el-dilema-de-una-alianza-con-milei-4771513/",
-     "resumen": "Torres evalúa aliarse con LLA y no fijó la fecha electoral («entre enero y octubre del 27»); aliados como Ávila y Molina rechazan el acuerdo.",
-     "tag": "Versiones contrapuestas"
-    },
-    {
-     "titulo": "Provincias Unidas debe sostener la agenda en el ámbito parlamentario",
-     "medio": "El Chubut",
-     "fecha": "24/10/2026",
-     "url": "https://www.elchubut.com.ar/regionales/2026-10-24-23-20-0-provincias-unidas-debe-sostener-la-agenda-en-el-ambito-parlamentario",
-     "resumen": "Torres propuso una «alternativa federal», respaldó la continuidad de Provincias Unidas en el Congreso y rechazó las PASO."
-    },
-    {
-     "titulo": "La Libertad Avanza reunió a su juventud provincial en Comodoro con la mira en 2027",
-     "medio": "ADN Sur",
-     "fecha": "25/10/2026",
-     "url": "https://www.adnsur.com.ar/politica/la-libertad-avanza-reunio-a-su-juventud-provincial-en-comodoro-con-la-mira-en-2027_a6adde700a6427ef3bf99f7fb",
-     "resumen": "LLA, con César Treffinger, confirmó que llevará candidato propio a gobernador."
-    }
-   ]
-  },
-  "La Pampa": {
-   "top3": [
-    {
-     "titulo": "Kicillof profundiza su armado nacional tras la cumbre de unidad del peronismo",
-     "medio": "Infobae",
-     "fecha": "23/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/23/kicillof-profundiza-su-armado-nacional-tras-la-cumbre-de-unidad-del-peronismo/",
-     "por_que": "Ziliotto se consolida como articulador de los gobernadores del PJ frente a Milei."
-    },
-    {
-     "titulo": "Ziliotto salió al cruce del ataque de Milei a La Pampa, pero al peronismo no lo unió ni el espanto",
-     "medio": "Letra P",
-     "fecha": "21/10/2026",
-     "url": "https://www.letrap.com.ar/politica/ziliotto-salio-al-cruce-del-ataque-milei-la-pampa-pero-al-peronismo-no-lo-unio-ni-el-espanto-n5427543",
-     "por_que": "Confrontación abierta con Nación y señal de que Milei impulsa a Ravier para 2027."
-    },
-    {
-     "titulo": "Forte no descarta ir por la intendencia de Pico, y pide por Berhongaray en la provincia",
-     "medio": "La Arena",
-     "fecha": "24/10/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/forte-no-descarta-ir-por-la-intendencia-de-pico-y-pide-por-berhongaray-en-la-provincia-2026102413280",
-     "por_que": "Muestra que el liderazgo del frente opositor UCR–LLA está en disputa."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Ziliotto salió al cruce del ataque de Milei a La Pampa, pero al peronismo no lo unió ni el espanto",
-     "medio": "Letra P",
-     "fecha": "21/10/2026",
-     "url": "https://www.letrap.com.ar/politica/ziliotto-salio-al-cruce-del-ataque-milei-la-pampa-pero-al-peronismo-no-lo-unio-ni-el-espanto-n5427543",
-     "resumen": "Milei dijo que La Pampa «decidió enemistarse con el crecimiento» y anticipó «un buen candidato» (Adrián Ravier); la provincia respondió con un documento oficial.",
-     "tag": "Fuente única"
-    },
-    {
-     "titulo": "Forte no descarta ir por la intendencia de Pico, y pide por Berhongaray en la provincia",
-     "medio": "La Arena",
-     "fecha": "24/10/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/forte-no-descarta-ir-por-la-intendencia-de-pico-y-pide-por-berhongaray-en-la-provincia-2026102413280",
-     "resumen": "La concejala radical Eugenia Forte pidió por Martín Berhongaray como candidato a gobernador y cuestionó que la UCR no encabece el frente con LLA."
-    },
-    {
-     "titulo": "Kicillof profundiza su armado nacional tras la cumbre de unidad del peronismo",
-     "medio": "Infobae",
-     "fecha": "23/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/23/kicillof-profundiza-su-armado-nacional-tras-la-cumbre-de-unidad-del-peronismo/",
-     "resumen": "Tras la cumbre del PJ, Ziliotto se consolida como articulador de los gobernadores peronistas frente a Milei."
-    }
-   ]
-  },
-  "NACIONAL": {
-   "top3": [
-    {
-     "titulo": "Se complejiza el camino del Gobierno para suspender las PASO: los acuerdos alcanzados y los que faltan",
-     "medio": "Infobae",
-     "fecha": "21/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/21/se-complejiza-el-camino-del-gobierno-para-suspender-las-paso-los-acuerdos-alcanzados-y-los-que-faltan/",
-     "por_que": "Define las reglas del calendario 2027 y muestra la posición de cada gobernador."
-    },
-    {
-     "titulo": "Kicillof, Massa, Máximo Kirchner, jefes legislativos y gobernadores peronistas buscan mostrar unidad",
-     "medio": "El Parlamentario",
-     "fecha": "23/10/2026",
-     "url": "https://www.parlamentario.com/2026/10/23/kicillof-massa-maximo-kirchner-jefes-legislativos-y-gobernadores-peronistas-buscan-mostrar-unidad/",
-     "por_que": "Primer frente opositor común hacia el Presupuesto y 2027."
-    },
-    {
-     "titulo": "Patricia Bullrich insinúa un “Plan B” y alimenta la inquietud en la Rosada",
-     "medio": "El Parlamentario",
-     "fecha": "25/10/2026",
-     "url": "https://www.parlamentario.com/2026/10/25/patricia-bullrich-insinua-un-plan-b-y-alimenta-la-inquietud-en-la-rosada/",
-     "por_que": "Primera señal pública de competencia interna en el oficialismo por 2027."
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Patricia Bullrich insinúa un “Plan B” y alimenta la inquietud en la Rosada",
-     "medio": "El Parlamentario",
-     "fecha": "25/10/2026",
-     "url": "https://www.parlamentario.com/2026/10/25/patricia-bullrich-insinua-un-plan-b-y-alimenta-la-inquietud-en-la-rosada/",
-     "resumen": "La jefa del bloque LLA en el Senado difundió un video con alusiones a un «Plan B» y dijo estar «preparada para ser presidenta»; Milei ratificó que buscará la reelección."
-    },
-    {
-     "titulo": "UdeSA (campo 5–13/10): aprobación del Gobierno 36% y desaprobación 60%",
-     "medio": "Infobae",
-     "fecha": "19/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/19/aciertos-y-deudas-del-gobierno-de-milei-la-desaprobacion-llega-al-60-mientras-crece-la-incertidumbre-electoral-segun-una-encuesta/",
-     "resumen": "Intención de voto: LLA 26% y peronismo 24%. Es la misma medición de la semana anterior."
-    },
-    {
-     "titulo": "ICG (UTDT): sin mediciones nuevas en la semana",
-     "medio": "ICG UTDT",
-     "fecha": "septiembre de 2026",
-     "url": null,
-     "resumen": "La última disponible es la de septiembre: 1,94 puntos, 5,9% menos que en agosto (2,06). El enlace al PDF de septiembre parece apuntar al informe de agosto.",
-     "tag": "Sin medición nueva"
-    }
-   ]
+   "imagen": []
   }
- }
+ },
+ "fuentes_no_accesibles": [
+  "https://www.argentina.gob.ar/desarrollosocial/noticias",
+  "https://www.argentina.gob.ar/obras-publicas/noticias",
+  "https://www.hcdiputados-ba.gov.ar/",
+  "https://www.diputadosalta.gob.ar/",
+  "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
+  "https://prensa.cba.gov.ar/",
+  "https://www.santafe.gov.ar/noticias",
+  "https://www.tucuman.gob.ar/noticias/",
+  "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
+  "https://eltermometroweb.com/",
+  "https://grupolaprovincia.com/",
+  "https://www.elesquiu.com/",
+  "https://www.diariochaco.com/",
+  "https://www.diarionorte.com/",
+  "https://lmdiario.com.ar/",
+  "https://www.elcomercial.com.ar/",
+  "https://www.elindependiente.com.ar/",
+  "https://www.fenix951.com.ar/",
+  "https://nuevarioja.com.ar/",
+  "https://riojavirtual.com.ar/",
+  "https://www.mdzol.com/mendoza",
+  "https://www.elterritorio.com.ar/",
+  "https://misionescuatro.com/",
+  "https://www.minutoneuquen.com/",
+  "https://www.cuarto.com.ar/",
+  "https://elexpresodesalta.com.ar/",
+  "https://todosalta.com/",
+  "https://elchorrillero.com/",
+  "https://elmediadortv.com.ar/",
+  "https://www.opisantacruz.com.ar/",
+  "https://agenciafe.com/",
+  "https://www.ellitoral.com/",
+  "https://nuevodiarioweb.com.ar/",
+  "https://www.infofueguina.com/",
+  "https://www.minutofueguino.com.ar/",
+  "https://www.contextotucuman.com/",
+  "https://www.eltucumano.com/",
+  "https://tucumandespierta.com/",
+  "https://www.tucumanoticias.com.ar/"
+ ]
 }
