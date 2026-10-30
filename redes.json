@@ -1,5 +1,5 @@
 {
- "actualizado": "30/10 15:13",
+ "actualizado": "30/10 15:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -25,10 +25,10 @@
   },
   {
    "tema": "f1 mexico",
-   "busquedas": "2000+",
-   "nota": "Quién es Gabriele Minì, el reemplazo de Colapinto en el GP de México que se subió a un karting de bebé",
-   "nota_url": "https://www.tycsports.com/automovilismo/quien-es-gabriele-mini-el-reemplazo-de-colapinto-en-el-gp-de-mexico-que-se-subio-a-un-karting-de-bebe-id769197.html",
-   "medio": "TyC Sports",
+   "busquedas": "200+",
+   "nota": "ESPN trae a Disney+ Plan Premium el GP de la Ciudad de México 2026",
+   "nota_url": "https://television.com.ar/noticias/streaming/espn-trae-a-disney-plan-premium-el-gp-de-la-ciudad-de-mexico-2026/",
+   "medio": "Inicio - Television",
    "relevante": false,
    "temas": []
   },
@@ -53,9 +53,9 @@
   {
    "tema": "superclásico del fútbol argentino",
    "busquedas": "200+",
-   "nota": "¡TODOS EN CASA!",
-   "nota_url": "https://velez.com.ar/futbol/notas/2026/10/27/140648_todos-en-casa",
-   "medio": "Vélez Sarsfield",
+   "nota": "SAN LORENZO BUSCA DAR UN PASO CLAVE HACIA LOS PLAYOFFS",
+   "nota_url": "https://sanlorenzo.com.ar/futbol-profesional/noticias/1793379651_san-lorenzo-busca-dar-un-paso-clave-hacia-los-playoffs",
+   "medio": "San Lorenzo",
    "relevante": false,
    "temas": []
   },
@@ -65,6 +65,15 @@
    "nota": "Doble alegría argentina en el WTA 125 de Curitiba: Sierra y Ortenzi clasificaron a cuartos de final",
    "nota_url": "https://www.lagaceta.com.ar/nota/1160146/deportes/doble-alegria-argentina-wta-125-curitiba-sierra-ortenzi-clasificaron-cuartos-final.html",
    "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de los muertos",
+   "busquedas": "100+",
+   "nota": "Presentaron la Catrina más alta del mundo para celebra una tradición única en México",
+   "nota_url": "https://www.todojujuy.com/presentaron-la-catrina-mas-alta-del-mundo-celebra-una-tradicion-unica-mexico-n298177",
+   "medio": "Todo Jujuy",
    "relevante": false,
    "temas": []
   },
@@ -84,15 +93,6 @@
    "nota_url": "https://www.lanueva.com/nota/2026-10-29-8-44-0-jubilados-el-gobierno-oficializo-el-bono-de-hasta-70-000-para-noviembre",
    "medio": "La Nueva Provincia",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima la rioja",
-   "busquedas": "100+",
-   "nota": "Clima hoy en La Rioja: el pronóstico del tiempo para este jueves 29 octubre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-rioja-pronostico-tiempo-jueves-29-octubre-2026_0_AXOA6EhyBK.html",
-   "medio": "Clarin.com",
-   "relevante": false,
    "temas": []
   }
  ],
