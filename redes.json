@@ -1,61 +1,88 @@
 {
- "actualizado": "30/10 11:47",
+ "actualizado": "30/10 12:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "glaciar",
+   "tema": "assassin's creed",
    "busquedas": "100+",
-   "nota": "Un glaciar en Bután se desprendió, provocando inundaciones torrenciales que arrasaron numerosas estructuras.",
-   "nota_url": "https://www.vietnam.vn/es/vo-ho-bang-o-bhutan-lu-quet-cuon-cuon-cuon-troi-nhieu-cong-trinh",
-   "medio": "Vietnam.vn",
+   "nota": "Don't Expect More Assassin's Creed Remakes Anytime Soon",
+   "nota_url": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
+   "medio": "Engadget",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos alcaraz",
+   "busquedas": "2000+",
+   "nota": "Alcaraz eliminó con suspenso a la revelación de la gira y se metió entre los ocho mejores del ATP 500 de Viena",
+   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17448296/alcaraz-elimino-con-suspenso-a-la-revelacion-de-la-gira-y-se-metio-entre-los-ocho-mejores-del-atp-500-de-viena-basilashvili-resultados",
+   "medio": "ESPN Chile",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "glaciar",
+   "busquedas": "200+",
+   "nota": "India decreta alerta máxima en Bengala tras desbordamiento de lago glaciar",
+   "nota_url": "https://radiomundial.com.ve/india-decreta-alerta-maxima-en-bengala-tras-desbordamiento-de-lago-glaciar/",
+   "medio": "Yvke Mundial",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "huerta",
+   "busquedas": "500+",
+   "nota": "'Fighting for others': Utah lawmakers laud Dolores Huerta following her death",
+   "nota_url": "https://www.ksl.com/article/51642216/fighting-for-others-utah-lawmakers-laud-dolores-huerta-following-her-death",
+   "medio": "KSL News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "al ittihad",
    "busquedas": "200+",
-   "nota": "Lowering U.S. and NC Flags to Half-Staff in Honor of Dolores Huerta",
-   "nota_url": "https://www.doa.nc.gov/news/press-releases/2026/10/28/lowering-us-and-nc-flags-half-staff-honor-dolores-huerta",
-   "medio": "NC Department of Administration (.gov)",
+   "nota": "Highlights: Abha 1 - 1 Al Ittihad (Saudi Pro League)",
+   "nota_url": "https://onefootball.com/en/video/highlights-abha-1-1-al-ittihad-saudi-pro-league-43697878",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "intel",
    "busquedas": "200+",
-   "nota": "Intel plunges 25% as weak Q4 forecast overshadows earnings beat",
-   "nota_url": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988",
-   "medio": "Investing.com",
+   "nota": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3%",
+   "nota_url": "https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/",
+   "medio": "24/7 Wall St.",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "abha - al ittihad",
-   "busquedas": "500+",
-   "nota": "Abha vs Al Ittihad match lineup | Saudi Pro League · 30 Oct 2026",
-   "nota_url": "https://www.ysscores.com/en/lineup/5970182/Abha-Club-vs-Al-Ittihad-Club",
-   "medio": "YSscores",
+   "busquedas": "200+",
+   "nota": "Abha – Al Ittihad 1 - 1 | GOL – Faisal Ismail Al Subiani",
+   "nota_url": "https://onefootball.com/en/video/abha-al-ittihad-1-1-gol-faisal-ismail-al-subiani-43697864",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "edificio",
-   "busquedas": "500+",
-   "nota": "Con fondos provinciales, la EPET Nº21 de San Vicente recuperó sus aulas y habilitó nuevos talleres",
-   "nota_url": "https://www.canal12misiones.com/noticias-de-misiones/educacion/san-vicente-epet-21-aulas-talleres",
-   "medio": "Canal Doce Misiones",
+   "busquedas": "1000+",
+   "nota": "¿Una oficina puede ser una vivienda? Ideas para que reviva el centro de Buenos Aires",
+   "nota_url": "https://cenital.com/una-oficina-puede-ser-una-vivienda-ideas-para-que-reviva-el-centro-de-buenos-aires/",
+   "medio": "Cenital",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "horarios f1 mexico",
    "busquedas": "200+",
-   "nota": "Gran Premio de México conmemora a los pilotos difuntos en su altar del Día de Muertos",
-   "nota_url": "https://www.infobae.com/mexico/deportes/2026/10/29/gran-premio-de-mexico-conmemora-a-los-pilotos-difuntos-en-su-altar-del-dia-de-muertos/",
-   "medio": "Infobae",
+   "nota": "Franco Colapinto y los problemas que puede traer la altitud en el GP de México",
+   "nota_url": "https://campeones.com.ar/franco-colapinto-y-los-problemas-que-puede-traer-la-altitud-en-el-gp-de-mexico/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "Norman Briski es homenajeado con un festival de teatro en Buenos Aires",
    "nota_url": "https://elecos.com.ar/norman-briski-es-homenajeado-con-un-festival-de-teatro-en-buenos-aires",
    "medio": "Ecos Diarios Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "30 de octubre",
-   "busquedas": "500+",
-   "nota": "Efemérides del 30 de octubre",
-   "nota_url": "https://www.elheraldo.com.ar/noticias/efemerides/efemerides-del-30-de-octubre-2",
-   "medio": "elheraldo.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "feriados de noviembre 2026 en argentina",
-   "busquedas": "500+",
-   "nota": "🔴 Javier Milei, en vivo: el Gobierno confirmó que el Presidente recibirá al papa León XIV en el aeropuerto y evalúan transmitir el encuentro por cadena nacional",
-   "nota_url": "https://tn.com.ar/politica/2026/10/30/el-gobierno-confirmo-que-milei-recibira-al-papa-leon-xiv-en-el-aeropuerto-evaluan-transmitir-el-encuentro-por-cadena-nacional/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "mercado pago banco",
-   "busquedas": "2000+",
-   "nota": "Mercado Pago ya superó las revisiones técnicas para convertirse en banco",
-   "nota_url": "https://www.lanacion.com.ar/economia/confirmacion-del-bcra-mercado-pago-ya-supero-las-revisiones-tecnicas-para-convertirse-en-banco-nid29102026/",
-   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
