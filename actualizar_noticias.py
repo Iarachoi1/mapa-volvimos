@@ -8,7 +8,7 @@ Qué hace, en pocas palabras:
      medio lo tiene, y si no, leyendo los links de la portada).
   3. Se queda con los que hablan de política o gestión, los asigna a cada
      provincia (según el medio, o según qué provincia/gobernador nombra el título)
-     y elige los más relevantes de los últimos 7 días.
+     y elige los más relevantes del día (las de días anteriores se descartan).
   4. Guarda el resultado en "noticias.json", que la página lee al abrirse.
 
 No usa inteligencia artificial: elige por palabras clave, cantidad de medios
@@ -45,8 +45,8 @@ ARCHIVO_SALIDA = CARPETA / "noticias.json"
 ARCHIVO_HISTORIAL = CARPETA / "historial.json"   # recuerda cuándo vio cada nota
 
 ZONA = ZoneInfo("America/Argentina/Buenos_Aires")
-DIAS_VENTANA = 7          # cuántos días hacia atrás cuentan
-MAX_TOP = 3               # noticias por jurisdicción
+DIAS_VENTANA = 0          # 0 = solo noticias de hoy: al cambiar el día, las de ayer se borran
+MAX_TOP = 3               # noticias por jurisdicción (CABA usa MAX_TOP_CABA)
 MAX_IMAGEN = 4            # notas de "Imagen, evaluación y candidatos"
 PUNTAJE_MINIMO = 3        # debajo de esto, la nota no se publica
 MAX_MISMO_MEDIO = 2       # máximo de notas del mismo medio en un top
@@ -119,7 +119,8 @@ PALABRAS_INSTITUCIONALES = [
 # En CABA se muestran más noticias y se buscan cinco criterios. Primero entra
 # la mejor noticia de cada criterio (si la hay) y después se completa por
 # relevancia. Cada noticia lleva su criterio como etiqueta.
-MAX_TOP_CABA = 8
+MAX_TOP_CABA = 10         # CABA: 10 noticias del día
+MAX_MISMO_MEDIO_CABA = 5  # en CABA, hasta 5 notas del mismo medio
 CRITERIOS_CABA = {
     # C. Cambios de gabinete (se prioriza prensa oficial y Boletín Oficial)
     "Gabinete": [
@@ -541,7 +542,7 @@ def main():
             elegidas = primeras + [e for e in elegidas if e not in primeras]
 
         top, imagen, por_medio = [], [], defaultdict(int)
-        max_mismo_medio = MAX_MISMO_MEDIO * 2 if clave == "CABA" else MAX_MISMO_MEDIO
+        max_mismo_medio = MAX_MISMO_MEDIO_CABA if clave == "CABA" else MAX_MISMO_MEDIO
         for e in elegidas:
             rep = e["rep"]
             lista, maximo = (imagen, MAX_IMAGEN) if e["imagen"] else (top, max_top)
@@ -574,13 +575,16 @@ def main():
             items[clave] = {"top3": top, "imagen": imagen}
 
     inicio = HOY - timedelta(days=DIAS_VENTANA)
-    if inicio.month == HOY.month:
+    if DIAS_VENTANA == 0:
+        semana = f"{HOY.day} de {MESES[HOY.month - 1]} de {HOY.year}"
+    elif inicio.month == HOY.month:
         semana = f"{inicio.day} al {HOY.day} de {MESES[HOY.month - 1]} de {HOY.year}"
     else:
         semana = f"{inicio.day} de {MESES[inicio.month - 1]} al {HOY.day} de {MESES[HOY.month - 1]} de {HOY.year}"
 
     salida = {
         "semana": semana,
+        "fecha": HOY.isoformat(),   # la página oculta las noticias si no son de hoy
         "actualizado": datetime.now(ZONA).strftime("%d/%m %H:%M"),
         "items": items,
         "fuentes_no_accesibles": caidas,
