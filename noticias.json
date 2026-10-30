@@ -1,10 +1,16 @@
 {
  "semana": "30 de octubre de 2026",
  "fecha": "2026-10-30",
- "actualizado": "30/10 16:37",
+ "actualizado": "30/10 18:37",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "Congreso. Macri complica a Milei con objeciones al Presupuesto 2027, la reforma electoral y la ley de biocombustibles",
+     "medio": "La Nación",
+     "fecha": "30/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/congreso-pro-complica-al-gobierno-con-objeciones-al-presupuesto-2027-la-reforma-electoral-y-la-ley-nid30102026/"
+    },
     {
      "titulo": "“No se ha avanzado nada”: Mauricio Macri aseguró que el acuerdo electoral entre el PRO y LLA está estancado",
      "medio": "Infobae",
@@ -17,12 +23,6 @@
      "fecha": "30/10/2026",
      "url": "https://www.eldestapeweb.com/politica/senado-aprobo-tres-reformas-clave-fuertes-criticas-ajuste-impacto-fiscal-2026103083326",
      "tag": "También en El Parlamentario"
-    },
-    {
-     "titulo": "Cuáles serán los nuevos controles sobre el fentanilo si el Senado transforma en ley la iniciativa aprobada en Diputados",
-     "medio": "Infobae",
-     "fecha": "30/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/30/cuales-seran-los-nuevos-controles-sobre-el-fentanilo-si-el-senado-transforma-en-ley-la-iniciativa-aprobada-en-diputados/"
     }
    ],
    "imagen": [
@@ -72,6 +72,13 @@
      "tag": "Calendario electoral"
     },
     {
+     "titulo": "Ciclo lectivo 2027: las clases en la Ciudad comenzarán el 1 de marzo y terminarán el 17 de diciembre",
+     "medio": "Gobierno de la Ciudad (prensa) de CABA",
+     "fecha": "30/10/2026",
+     "url": "https://buenosaires.gob.ar/noticias/ciclo-lectivo-2027-las-clases-en-la-ciudad-comenzaran-el-1-de-marzo-y-terminaran-el-17-de",
+     "tag": "Política"
+    },
+    {
      "titulo": "Ciudad. La Legislatura autorizó al gobierno porteño endeudarse por 75 millones de dólares: para qué se usará el dinero",
      "medio": "La Nación (tema Buenos Aires)",
      "fecha": "30/10/2026",
@@ -98,13 +105,6 @@
      "fecha": "30/10/2026",
      "url": "https://buenosaires.gob.ar/noticias/mas-de-2800-personas-pasaron-por-la-tecweeked-la-mayor-comunidad-docente-de-ia-de",
      "tag": "Gestión"
-    },
-    {
-     "titulo": "El embajador de Francia visitó un Centro de Inclusión Social porteño para personas en situación de calle",
-     "medio": "Gobierno de la Ciudad (prensa) de CABA",
-     "fecha": "30/10/2026",
-     "url": "https://buenosaires.gob.ar/noticias/el-embajador-de-francia-visito-un-centro-de-inclusion-social-porteno-para-personas-en",
-     "tag": "Ciudad"
     }
    ],
    "imagen": []
@@ -118,16 +118,16 @@
      "url": "https://www.latecla.info/170824-kicillof-sumo-otra-foto-con-un-gobernador-radical-y-busca-ampliar-su-armado-federal"
     },
     {
+     "titulo": "Kicillof pidió ir a una PASO en el peronismo para definir candidaturas: “Que lo decida la gente”",
+     "medio": "Infobae",
+     "fecha": "30/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/30/kicillof-pidio-ir-a-una-paso-en-el-peronismo-para-definir-candidaturas-que-lo-decida-la-gente/"
+    },
+    {
      "titulo": "Reelecciones, PASO bonaerenses y construcción propia: qué dejó la reunión de Kicillof con sus intendentes",
      "medio": "Infobae",
      "fecha": "30/10/2026",
      "url": "https://www.infobae.com/politica/2026/10/30/reelecciones-paso-bonaerenses-y-construccion-propia-que-dejo-la-reunion-de-kicillof-con-sus-intendentes/"
-    },
-    {
-     "titulo": "Las incógnitas electorales que atraviesan al peronismo bonaerense rumbo a 2027 INCERTIDUMBRE",
-     "medio": "La Tecla",
-     "fecha": "30/10/2026",
-     "url": "https://www.latecla.info/170811-las-incognitas-electorales-que-atraviesan-al-peronismo-bonaerense-rumbo-a-2027"
     }
    ],
    "imagen": []
@@ -135,16 +135,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Ancasti Streaming Raúl Jalil: \"Yo creo que voy a ser el gobernador que más hospitales hizo\"",
+     "titulo": "Críticas a la política sanitaria Herrera acusó al Gobierno de priorizar funcionarios por sobre la salud pública",
      "medio": "El Ancasti",
      "fecha": "30/10/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/raul-jalil-yo-creo-que-voy-ser-el-gobernador-que-mas-hospitales-hizo-n625008"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/herrera-acuso-al-gobierno-priorizar-funcionarios-la-salud-publica-n625031"
     },
     {
-     "titulo": "Concejo Deliberante Aguirre, sobre Figueroa: \"Fue un límite que se pasó\"",
+     "titulo": "Sobreseimiento del Presidente y su hermana Causa $LIBRA: la fiscalía anticorrupción pidió reabrir la investigación contra Milei",
      "medio": "El Ancasti",
      "fecha": "30/10/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/aguirre-figueroa-fue-un-limite-que-se-paso-n625036"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/causa-libra-la-fiscalia-anticorrupcion-pidio-reabrir-la-investigacion-contra-milei-n625042"
     }
    ],
    "imagen": []
@@ -175,16 +175,17 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "De cara a 2027. El Gobierno le respondió a Macri y dijo que la interna en el PRO traba un acuerdo electoral",
-     "medio": "Cadena3",
-     "fecha": "30/10/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-gobierno-le-respondio-a-macri-y-dijo-que-la-interna-en-el-pro-traba-un-acuerdo-electoral_608735"
-    },
-    {
      "titulo": "Alfil de Karina Milei. Bornoroni acelera su armado electoral en Córdoba y amaga con lanzarse: “El modelo de Llaryora está agotado”",
      "medio": "La Nación",
      "fecha": "30/10/2026",
      "url": "https://www.lanacion.com.ar/politica/el-libertario-gabriel-bornoroni-acelera-su-armado-en-cordoba-y-amaga-con-lanzarse-el-modelo-de-nid30102026/"
+    },
+    {
+     "titulo": "En la mira de la Justicia. Caso $LIBRA: una fiscalía especializada apeló el sobreseimiento de Milei y pidió reabrir la causa",
+     "medio": "Cadena3",
+     "fecha": "30/10/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/caso-libra-una-fiscalia-especializada-apelo-el-sobreseimiento-de-milei-y-pidio-reabrir-la-causa_608771",
+     "tag": "También en CBA24N"
     },
     {
      "titulo": "La Legislatura reconoció a dos festivales de cine estudiantil de Córdoba",
@@ -193,14 +194,18 @@
      "url": "https://legislaturacba.gob.ar/la-legislatura-reconocio-a-dos-festivales-de-cine-estudiantil-de-cordoba/"
     }
    ],
-   "imagen": [
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
     {
-     "titulo": "Elecciones 2027. Menem descartó una interna con Bullrich en LLA y fue tajante: \"El único candidato es Milei\"",
-     "medio": "Cadena3",
+     "titulo": "Elecciones: publicarán el padrón provisional en Corrientes y abren el período de reclamos",
+     "medio": "El Litoral",
      "fecha": "30/10/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/menem-descarto-una-interna-con-bullrich-en-lla-y-fue-tajante-el-unico-candidato-es-milei_608695"
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-10-30-17-50-0-elecciones-2027-publicaran-el-padron-provisional-en-corrientes-y-abren-el-periodo-de-reclamos"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Entre Ríos": {
    "top3": [
@@ -293,10 +298,11 @@
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82417/pico--el-municipio-pidio-al-concejo-postergarla-presentacion-del-presupuesto-2027"
     },
     {
-     "titulo": "Dirigentes de la oposición se reunieron en Santa Rosa: \"No somos un frente anti nadie\"",
-     "medio": "La Arena",
+     "titulo": "El Gobierno negó que Brasil le haya pedido explicaciones a la Argentina por la huida de Flávio Bolsonaro",
+     "medio": "La Pampa 24",
      "fecha": "30/10/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/dirigentes-de-la-oposicion-se-reunieron-en-santa-rosa-no-somos-anti-nadie-2026103011520"
+     "url": "https://lapampa24.com.ar/nacionales/el-gobierno-nego-que-brasil-le-haya-pedido-explicaciones-a-la-argentina-por-la-huida-de-flavio-bolsonaro/",
+     "tag": "También en El Diario de La Pampa, La Arena"
     }
    ],
    "imagen": []
@@ -345,16 +351,22 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Adrián Nuñez repudia persecución política a un profesor y apunta contra el SPEPM",
-     "medio": "La Voz - Misiones",
+     "titulo": "Contactos en el NOA Caputo se movió en Misiones con empleados de Yacyretá que entran a Casa Rosada y dependen de un primo del jefe de Economía Giselle Leclercq",
+     "medio": "Perfil",
      "fecha": "30/10/2026",
-     "url": "https://lavozdemisiones.com/politica/adrian-nunez-repudia-persecucion-politica-a-un-profesor-y-apunta-contra-el-spepm"
+     "url": "https://www.perfil.com/politica/caputo-se-movio-en-misiones-con-empleados-de-yacyreta-que-entran-a-casa-rosada-y-dependen-de-un-primo-del-jefe-de-economia-a8ZTZ5U5OX1R"
     },
     {
-     "titulo": "El Senado dio media sanción al proyecto de cartas gastronómicas con pictogramas",
+     "titulo": "El proyecto de ley de mercados de carbono obtuvo media sanción en el Senado",
+     "medio": "La Voz - Misiones",
+     "fecha": "30/10/2026",
+     "url": "https://lavozdemisiones.com/ambiente/el-proyecto-de-ley-de-mercados-de-carbono-obtuvo-media-sancion-en-el-senado1"
+    },
+    {
+     "titulo": "El Gobierno provincial llevó “El Gabinete en los Barrios” a Itaembé Miní",
      "medio": "Primera Edición",
      "fecha": "30/10/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101156117/media-sancion-cartas-gastronomicas-pictogramas/"
+     "url": "https://www.primeraedicion.com.ar/nota/101156211/el-gobierno-provincial-llevo-el-gabinete-en-los-barrios-a-itaembe-mini/"
     }
    ],
    "imagen": []
@@ -387,6 +399,12 @@
   "Río Negro": {
    "top3": [
     {
+     "titulo": "ENSAYO GENERAL Elecciones en Bariloche: una prueba para la proyección 2027 de Weretilneck, el peronismo y La Libertad Avanza Por Juan Gorosito",
+     "medio": "Letra P",
+     "fecha": "30/10/2026",
+     "url": "https://www.letrap.com.ar/politica/elecciones-bariloche-una-prueba-la-proyeccion-2027-weretilneck-el-peronismo-y-la-libertad-avanza-n5427849"
+    },
+    {
      "titulo": "Presupuesto 2027: Neuquén proyecta su propio estadio, un kartódromo y un nuevo centro de convenciones",
      "medio": "Diario Rio Negro",
      "fecha": "30/10/2026",
@@ -398,16 +416,16 @@
      "fecha": "30/10/2026",
      "url": "https://prensa.rionegro.gov.ar/articulo/62514/weretilneck-impulsa-una-solucion-historica-para-los-residuos-de-bariloche-y-la-region",
      "tag": "También en AN Roca, LCR y 1 más"
-    },
-    {
-     "titulo": "Rutas 22 y 151: Weretilneck pidió “paciencia” y planteó un plan a 50 años",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "30/10/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62517/rutas-22-y-151-weretilneck-pidio-paciencia-y-planteo-un-plan-a-50-anos",
-     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Viedma: vecinos de la calle 20 definirán mediante una encuesta la remodelación de su avenida principal",
+     "medio": "Noticias Net",
+     "fecha": "30/10/2026",
+     "url": "https://www.noticiasnet.com.ar/noticias/2026/10/30/232053-viedma-vecinos-de-la-calle-20-definiran-mediante-una-encuesta-la-remodelacion-de-su-avenida-principal"
+    }
+   ]
   },
   "Salta": {
    "top3": [
@@ -442,17 +460,18 @@
      "tag": "También en San Juan 8, Huarpe"
     },
     {
-     "titulo": "Brasil citó a la máxima representante argentina y pidió explicaciones por la fuga de Flávio Bolsonaro Por Redacción Diario de Cuyo",
+     "titulo": "El exfiscal Yannello fue condenado a 25 años de prisión por encubrir crímenes de la dictadura en San Juan Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "30/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/brasil-cito-la-maxima-representante-argentina-y-pidio-explicaciones-la-fuga-flavio-bolsonaro-n6587280",
-     "tag": "También en 0264 Noticias, Huarpe y 1 más"
+     "url": "https://www.diariodecuyo.com.ar/politica/el-exfiscal-yannello-fue-condenado-25-anos-prision-encubrir-crimenes-la-dictadura-san-juan-n6587281",
+     "tag": "También en Huarpe, San Juan 8"
     },
     {
-     "titulo": "Se viene una nueva paritaria docente: qué anticipan desde el Ministerio de Educación",
-     "medio": "Tiempo de San Juan",
+     "titulo": "El Gobierno confirmó que Milei recibirá al papa León XIV en el aeropuerto: evalúan transmitir el encuentro por cadena nacional",
+     "medio": "0264 Noticias",
      "fecha": "30/10/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/se-viene-una-nueva-paritaria-docente-que-anticipan-desde-el-ministerio-de-educacion_1793365961"
+     "url": "https://www.0264noticias.com.ar/noticias/2026/10/30/115359-el-gobierno-confirmo-que-milei-recibira-al-papa-leon-xiv-en-el-aeropuerto-evaluan-transmitir-el-encuentro-por-cadena-nacional",
+     "tag": "También en San Juan 8, Tiempo de San Juan"
     }
    ],
    "imagen": [
@@ -491,24 +510,24 @@
   "Santa Cruz": {
    "top3": [
     {
+     "titulo": "INSPECCIONARÁN EL ESTADO DE LAS OBRAS. El Gobierno activa un control externo sobre las represas en Santa Cruz con una licitación de $39.624 millones",
+     "medio": "Winfo",
+     "fecha": "30/10/2026",
+     "url": "https://winfo.ar/politica/2026/10/el-gobierno-activa-un-control-externo-sobre-las-represas-en-santa-cruz-con-una-licitacion-de-39-624-millones",
+     "tag": "También en La Nación"
+    },
+    {
      "titulo": "Habilita internaciones involuntarias El Senado aprobó en general la reforma de la Ley de Salud Mental",
      "medio": "Tiempo Sur",
      "fecha": "30/10/2026",
      "url": "https://www.tiemposur.com.ar/politica/el-senado-aprobo-en-general-la-reforma-de-la-ley-de-salud-mental"
     },
     {
-     "titulo": "Santa Cruz reabrió las paritarias: qué se discutió con los gremios de Educación, Salud y estatales",
-     "medio": "El Diario Nuevo Día",
+     "titulo": "La Provincia sostuvo su candidatura y El Calafate será sede del Foro Nacional de Turismo",
+     "medio": "Prensa oficial de Santa Cruz",
      "fecha": "30/10/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-reabrio-las-paritarias-que-se-discutio-con-los-gremios-de-educacion-salud-y-estatales-6060/",
-     "tag": "También en Tiempo Sur"
-    },
-    {
-     "titulo": "Milei contratará una empresa privada para controlar las obras de las represas en Santa Cruz",
-     "medio": "La Opinión Austral",
-     "fecha": "30/10/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/milei-contratara-una-empresa-privada-para-controlar-las-obras-de-las-represas-en-santa-cruz-725507.html",
-     "tag": "También en El Diario Nuevo Día"
+     "url": "https://noticias.santacruz.gob.ar/organismos/produccion/la-provincia-sostuvo-su-candidatura-y-el-calafate-sera-sede-del-foro-nacional-de-turismo",
+     "tag": "También en Winfo"
     }
    ],
    "imagen": [
@@ -554,7 +573,7 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "País Ciencia y Tecnología: renunció el subsecretario… Ciencia y Tecnología: renunció el subsecretario que Milei había designado hace un mes Seguir leyendo →",
+     "titulo": "País Ciencia y Tecnología: renunció el subsecretario que Milei había designado hace un mes Hace 3 horas",
      "medio": "Info del Estero",
      "fecha": "30/10/2026",
      "url": "https://infodelestero.com/2026/10/30/ciencia-y-tecnologia-renuncio-el-subsecretario-que-milei-habia-designado-hace-un-mes"
@@ -595,6 +614,12 @@
   "Tucumán": {
    "top3": [
     {
+     "titulo": "Menem descartó una interna y le marcó la cancha a Bullrich: “El único candidato de LLA es Javier Milei”",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "30/10/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160352/politica/menem-descarto-interna-le-marco-cancha-bullrich-unico-candidato-lla-javier-milei.html"
+    },
+    {
      "titulo": "Mauricio Macri enfrió un posible acuerdo electoral entre el PRO y LLA: “No se ha avanzado nada”",
      "medio": "La Gaceta - Tucumán",
      "fecha": "30/10/2026",
@@ -605,12 +630,6 @@
      "medio": "La Politica Online",
      "fecha": "30/10/2026",
      "url": "https://www.lapoliticaonline.com/politica/la-corte-se-inclina-por-rechazar-la-impugnacion-contra-jaldo-pero-puede-retomar-el-caso-en-2027/"
-    },
-    {
-     "titulo": "Unos 50 gremios denunciarán a Luis Caputo por fondos adeudados a las obras sociales",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "30/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160318/politica/unos-50-gremios-denunciaran-luis-caputo-fondos-adeudados-obras-sociales.html"
     }
    ],
    "imagen": []

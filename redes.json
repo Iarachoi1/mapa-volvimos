@@ -1,10 +1,28 @@
 {
- "actualizado": "30/10 18:25",
+ "actualizado": "30/10 18:37",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "huracán - tigre",
+   "busquedas": "200+",
+   "nota": "Huracán recibe a Tigre",
+   "nota_url": "https://www.afa.com.ar/es/posts/huracan-recibe-a-tigre",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "star trek",
+   "busquedas": "100+",
+   "nota": "Patrick Stewart, Shakespearean actor and Star Trek star, dies at 86",
+   "nota_url": "https://www.washingtonpost.com/obituaries/2026/10/29/patrick-stewart-shakespearean-actor-star-trek-star-dies-86-2/",
+   "medio": "The Washington Post",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "estudiantes de río cuarto - gimnasia",
    "busquedas": "200+",
@@ -52,7 +70,7 @@
   },
   {
    "tema": "joan manuel serrat",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El Gobierno regional reconoce la labor de las Amigas de la Lectura y los clubes de lectura y destaca el legado de Joan Manuel Serrat",
    "nota_url": "https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-regional-reconoce-la-labor-de-las-amigas-de-la-lectura-y-los-clubes-de-lectura-y-destaca",
    "medio": "Gobierno de Castilla-La Mancha",
@@ -74,24 +92,6 @@
    "nota": "Dibu Martínez mostró las secuelas de su fractura en el Mundial: \"Me queda así de por vida\"",
    "nota_url": "https://www.cadena3.com/noticia/futbol/dibu-martinez-mostro-las-secuelas-de-su-fractura-en-el-mundial-me-queda-asi-de-por-vida_608768",
    "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inflación",
-   "busquedas": "200+",
-   "nota": "RDEco: por qué se frenó la desinflación y qué puede pasar antes de las elecciones",
-   "nota_url": "https://www.perfil.com/mas-perfil/rdeco-por-que-se-freno-la-desinflacion-y-que-puede-pasar-antes-de-las-elecciones-aTn4m3z7ad4X",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "radar",
-   "busquedas": "100+",
-   "nota": "Hoy se coloca un radar sobre Ruta 22 y se vienen las fotomultas: cuándo comenzarán a labrarse las actas",
-   "nota_url": "https://www.lcr.com.ar/noticias/2026/10/27/58221-hoy-se-coloca-un-radar-sobre-ruta-22-y-se-vienen-las-fotomultas-cuando-comenzaran-a-labrarse-las-actas",
-   "medio": "LCR Diario Digital",
    "relevante": false,
    "temas": []
   }
