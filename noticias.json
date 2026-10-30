@@ -1,7 +1,7 @@
 {
  "semana": "30 de octubre de 2026",
  "fecha": "2026-10-30",
- "actualizado": "30/10 15:13",
+ "actualizado": "30/10 16:37",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -25,7 +25,14 @@
      "url": "https://www.infobae.com/politica/2026/10/30/cuales-seran-los-nuevos-controles-sobre-el-fentanilo-si-el-senado-transforma-en-ley-la-iniciativa-aprobada-en-diputados/"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Última encuesta. El 68% de los argentinos no espera que la visita del papa León XIV mejore el clima social del país",
+     "medio": "La Nación",
+     "fecha": "30/10/2026",
+     "url": "https://www.lanacion.com.ar/politica/el-68-de-los-argentinos-no-espera-que-la-visita-del-papa-leon-xiv-mejore-el-clima-social-del-pais-nid30102026/"
+    }
+   ]
   },
   "CABA": {
    "top3": [
@@ -65,13 +72,6 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Ciclo lectivo 2027: las clases en la Ciudad comenzarán el 1 de marzo y terminarán el 17 de diciembre",
-     "medio": "Gobierno de la Ciudad (prensa) de CABA",
-     "fecha": "30/10/2026",
-     "url": "https://buenosaires.gob.ar/noticias/ciclo-lectivo-2027-las-clases-en-la-ciudad-comenzaran-el-1-de-marzo-y-terminaran-el-17-de",
-     "tag": "Política"
-    },
-    {
      "titulo": "Ciudad. La Legislatura autorizó al gobierno porteño endeudarse por 75 millones de dólares: para qué se usará el dinero",
      "medio": "La Nación (tema Buenos Aires)",
      "fecha": "30/10/2026",
@@ -86,17 +86,24 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "Continúan los Concursos de Ascenso Docente 2026 en la Ciudad",
+     "titulo": "Patricia se acerca a Jorge Macri en otro desafío a los Milei",
+     "medio": "La Politica Online",
+     "fecha": "30/10/2026",
+     "url": "https://www.lapoliticaonline.com/ciudad/patricia-se-acerca-a-jorge-macri-en-otro-desafio-a-los-milei/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Más de 2.800 personas pasaron por la TecweekED, la mayor comunidad docente de IA de Latinoamérica",
      "medio": "Gobierno de la Ciudad (prensa) de CABA",
      "fecha": "30/10/2026",
-     "url": "https://buenosaires.gob.ar/noticias/continuan-los-concursos-de-ascenso-docente-2026-en-la-ciudad",
+     "url": "https://buenosaires.gob.ar/noticias/mas-de-2800-personas-pasaron-por-la-tecweeked-la-mayor-comunidad-docente-de-ia-de",
      "tag": "Gestión"
     },
     {
-     "titulo": "Medios Vecinales de Comunicación Social",
-     "medio": "Legislatura porteña de CABA",
+     "titulo": "El embajador de Francia visitó un Centro de Inclusión Social porteño para personas en situación de calle",
+     "medio": "Gobierno de la Ciudad (prensa) de CABA",
      "fecha": "30/10/2026",
-     "url": "https://www.legislatura.gob.ar/seccion/medios-vecinales-de-comunicacion-social.html",
+     "url": "https://buenosaires.gob.ar/noticias/el-embajador-de-francia-visito-un-centro-de-inclusion-social-porteno-para-personas-en",
      "tag": "Ciudad"
     }
    ],
@@ -105,16 +112,16 @@
   "Buenos Aires": {
    "top3": [
     {
+     "titulo": "Kicillof sumó otra foto con un gobernador radical y busca ampliar su armado federal RUMBO AL 2027",
+     "medio": "La Tecla",
+     "fecha": "30/10/2026",
+     "url": "https://www.latecla.info/170824-kicillof-sumo-otra-foto-con-un-gobernador-radical-y-busca-ampliar-su-armado-federal"
+    },
+    {
      "titulo": "Reelecciones, PASO bonaerenses y construcción propia: qué dejó la reunión de Kicillof con sus intendentes",
      "medio": "Infobae",
      "fecha": "30/10/2026",
      "url": "https://www.infobae.com/politica/2026/10/30/reelecciones-paso-bonaerenses-y-construccion-propia-que-dejo-la-reunion-de-kicillof-con-sus-intendentes/"
-    },
-    {
-     "titulo": "“Cristina Kirchner puede ser candidata”: la tesis jurídica que desafía las lecturas sobre su condena",
-     "medio": "Info Cielo",
-     "fecha": "30/10/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/cristina-kirchner-puede-ser-candidata-la-tesis-juridica-que-desafia-las-lecturas-sobre-su-condena"
     },
     {
      "titulo": "Las incógnitas electorales que atraviesan al peronismo bonaerense rumbo a 2027 INCERTIDUMBRE",
@@ -128,16 +135,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Reunión radical La UCR reunió a sus diputados y cuestionó al Gobierno por educación, salud y minería",
-     "medio": "El Ancasti",
-     "fecha": "30/10/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-ucr-reunio-sus-diputados-y-cuestiono-al-gobierno-educacion-salud-y-mineria-n625014"
-    },
-    {
      "titulo": "Ancasti Streaming Raúl Jalil: \"Yo creo que voy a ser el gobernador que más hospitales hizo\"",
      "medio": "El Ancasti",
      "fecha": "30/10/2026",
      "url": "https://www.elancasti.com.ar/politica-y-economia/raul-jalil-yo-creo-que-voy-ser-el-gobernador-que-mas-hospitales-hizo-n625008"
+    },
+    {
+     "titulo": "Concejo Deliberante Aguirre, sobre Figueroa: \"Fue un límite que se pasó\"",
+     "medio": "El Ancasti",
+     "fecha": "30/10/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/aguirre-figueroa-fue-un-limite-que-se-paso-n625036"
     }
    ],
    "imagen": []
@@ -145,10 +152,10 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Así es la boleta de los candidatos a Intendente de Gaiman",
-     "medio": "Diario Jornada",
+     "titulo": "Gaido presentó el Presupuesto 2027 con $458.000 millones para obra pública: cómo se distribuye",
+     "medio": "ADN Sur",
      "fecha": "30/10/2026",
-     "url": "https://www.diariojornada.com.ar/426106/politica/asi_es_la_boleta_de_los_candidatos_a_intendente_de_gaiman"
+     "url": "https://www.adnsur.com.ar/economia/gaido-presento-el-presupuesto-2027-con--458-000-millones-para-obra-publica--como-se-distribuye_a6ae4daea778e6b1c12d385d8"
     },
     {
      "titulo": "Sergio Uñac avanza con su armado nacional y prepara una propuesta para 2027",
@@ -157,16 +164,22 @@
      "url": "https://www.diariojornada.com.ar/426146/politica/sergio_unac_avanza_con_su_armado_nacional_y_prepara_una_propuesta_para_2027"
     },
     {
-     "titulo": "Ley de Salud Mental: El Senado aprobó la reforma que habilita internaciones involuntarias",
-     "medio": "El Chubut",
+     "titulo": "Este jueves el Senado debate reformas a la Ley de Salud Mental",
+     "medio": "Diario Jornada",
      "fecha": "30/10/2026",
-     "url": "https://www.elchubut.com.ar/nacionales/2026-10-30-10-25-0-ley-de-salud-mental-el-senado-aprobo-la-reforma-que-habilita-internaciones-involuntarias"
+     "url": "https://www.diariojornada.com.ar/426129/politica/este_jueves_el_senado_debate_reformas_a_la_ley_de_salud_mental"
     }
    ],
    "imagen": []
   },
   "Córdoba": {
    "top3": [
+    {
+     "titulo": "De cara a 2027. El Gobierno le respondió a Macri y dijo que la interna en el PRO traba un acuerdo electoral",
+     "medio": "Cadena3",
+     "fecha": "30/10/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-gobierno-le-respondio-a-macri-y-dijo-que-la-interna-en-el-pro-traba-un-acuerdo-electoral_608735"
+    },
     {
      "titulo": "Alfil de Karina Milei. Bornoroni acelera su armado electoral en Córdoba y amaga con lanzarse: “El modelo de Llaryora está agotado”",
      "medio": "La Nación",
@@ -178,12 +191,6 @@
      "medio": "Legislatura de Córdoba",
      "fecha": "30/10/2026",
      "url": "https://legislaturacba.gob.ar/la-legislatura-reconocio-a-dos-festivales-de-cine-estudiantil-de-cordoba/"
-    },
-    {
-     "titulo": "En Córdoba, Javier Milei fideliza su núcleo duro: ¿Anticipo preelectoral de 2027?",
-     "medio": "CBA24N",
-     "fecha": "30/10/2026",
-     "url": "https://www.cba24n.com.ar/opinion/en-cordoba--javier-milei-fideliza-su-nucleo-duro---anticipo-preelectoral-de-2027--_a6ae48a3968c83bbb7447ecc0"
     }
    ],
    "imagen": [
@@ -198,13 +205,6 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Boleta Única de Papel: capacitaron a 270 estudiantes de Ramírez y Nogoyá para las elecciones de 2027",
-     "medio": "El Once",
-     "fecha": "30/10/2026",
-     "url": "https://www.elonce.com/haciendo-comunidad/boleta-unica-de-papel-capacitaron-a-270-estudiantes-de-ramirez-y-nogoya-para-las-elecciones-de-2027.htm",
-     "tag": "También en Ahora, AFP Digital"
-    },
-    {
      "titulo": "El Senado aprobó en general la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
      "medio": "AFP Digital",
      "fecha": "30/10/2026",
@@ -212,10 +212,17 @@
      "tag": "También en Ahora"
     },
     {
-     "titulo": "“No se ha avanzado nada”: Mauricio Macri aseguró que el acuerdo electoral entre el PRO y LLA está estancado",
+     "titulo": "Capacitaron a casi 300 jóvenes más en la Boleta Única Papel",
+     "medio": "Ahora",
+     "fecha": "30/10/2026",
+     "url": "https://ahora.com.ar/politica/capacitaron-a-casi-300-jovenes-mas-en-la-boleta-unica-papel",
+     "tag": "También en AFP Digital"
+    },
+    {
+     "titulo": "Concordia presentó el Proyecto de Presupuesto 2027, que busca duplicar la inversión en obras públicas",
      "medio": "AFP Digital",
      "fecha": "30/10/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/10/30/477078-no-se-ha-avanzado-nada-mauricio-macri-aseguro-que-el-acuerdo-electoral-entre-el-pro-y-lla-esta-estancado"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/10/30/477144-concordia-presento-el-proyecto-de-presupuesto-2027-que-busca-duplicar-la-inversion-en-obras-publicas"
     }
    ],
    "imagen": []
@@ -250,14 +257,15 @@
      "titulo": "video Política. Axel Kicillof en Jujuy: firmó siete convenios con Carlos Sadir y habló sobre Milei y las elecciones de 2027 Por Maria Eugenia Burgos",
      "medio": "Todo Jujuy",
      "fecha": "30/10/2026",
-     "url": "https://www.todojujuy.com/axel-kicillof-jujuy-firmo-siete-convenios-carlos-sadir-y-hablo-milei-y-las-elecciones-2027-n298188",
+     "url": "https://www.todojujuy.com/jujuy/axel-kicillof-jujuy-firmo-siete-convenios-carlos-sadir-y-hablo-milei-y-las-elecciones-2027-n298188",
      "tag": "También en El Tribuno"
     },
     {
-     "titulo": "Rumbo a 2027. Kicillof sigue de gira por el país: visita Jujuy con el objetivo de fortalecer su proyecto presidencial",
-     "medio": "La Nación",
+     "titulo": "Sadir recibió al gobernador de Buenos Aires en Casa de Gobierno",
+     "medio": "Prensa oficial de Jujuy",
      "fecha": "30/10/2026",
-     "url": "https://www.lanacion.com.ar/politica/kicillof-sigue-de-gira-por-el-pais-visita-jujuy-con-el-objetivo-de-fortalecer-su-proyecto-nid30102026/"
+     "url": "https://prensa.jujuy.gob.ar/sadir/sadir-recibio-al-gobernador-buenos-aires-casa-gobierno-n125795",
+     "tag": "También en Somos Jujuy"
     }
    ],
    "imagen": [
@@ -285,11 +293,10 @@
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82417/pico--el-municipio-pidio-al-concejo-postergarla-presentacion-del-presupuesto-2027"
     },
     {
-     "titulo": "Santa Rosa: docentes se movilizaron para exigir justicia por Nancy Godoy",
-     "medio": "La Pampa 24",
+     "titulo": "Dirigentes de la oposición se reunieron en Santa Rosa: \"No somos un frente anti nadie\"",
+     "medio": "La Arena",
      "fecha": "30/10/2026",
-     "url": "https://lapampa24.com.ar/la-pampa-hoy/docentes-se-movilizaron-para-exigir-justicia-por-nancy-godoy/",
-     "tag": "También en La Arena"
+     "url": "https://www.laarena.com.ar/la-pampa/dirigentes-de-la-oposicion-se-reunieron-en-santa-rosa-no-somos-anti-nadie-2026103011520"
     }
    ],
    "imagen": []
@@ -314,7 +321,7 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Mauricio Macri aseguró que no hubo avances entre LLa y el PRO",
+     "titulo": "Mauricio Macri aseguró que no hubo avances entre LLA y el PRO",
      "medio": "Mendoza Post",
      "fecha": "30/10/2026",
      "url": "https://www.mendozapost.com/politica/mauricio-macri-no-se-avanzo-nada-acuerdo-entre-lla-y-pro/"
@@ -337,12 +344,6 @@
   },
   "Misiones": {
    "top3": [
-    {
-     "titulo": "El Concejo aprobó presupuestos municipales para el año próximo",
-     "medio": "Primera Edición",
-     "fecha": "30/10/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101155985/el-concejo-aprobo-presupuestos-municipales-para-el-ano-proximo/"
-    },
     {
      "titulo": "Adrián Nuñez repudia persecución política a un profesor y apunta contra el SPEPM",
      "medio": "La Voz - Misiones",
@@ -386,6 +387,12 @@
   "Río Negro": {
    "top3": [
     {
+     "titulo": "Presupuesto 2027: Neuquén proyecta su propio estadio, un kartódromo y un nuevo centro de convenciones",
+     "medio": "Diario Rio Negro",
+     "fecha": "30/10/2026",
+     "url": "https://www.rionegro.com.ar/politica/presupuesto-2027-neuquen-proyecta-su-propio-estadio-un-kartodromo-y-un-nuevo-centro-de-convenciones-4779000/"
+    },
+    {
      "titulo": "Weretilneck impulsa una solución histórica para los residuos de Bariloche y la región",
      "medio": "Prensa oficial de Río Negro",
      "fecha": "30/10/2026",
@@ -398,19 +405,18 @@
      "fecha": "30/10/2026",
      "url": "https://prensa.rionegro.gov.ar/articulo/62517/rutas-22-y-151-weretilneck-pidio-paciencia-y-planteo-un-plan-a-50-anos",
      "tag": "También en AN Roca, LCR y 1 más"
-    },
-    {
-     "titulo": "Se aprobó la reforma de la Ley de Salud Mental: habilita las internaciones involuntarias",
-     "medio": "AN Roca",
-     "fecha": "30/10/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/10/30/230214-se-aprobo-la-reforma-de-la-ley-de-salud-mental-habilita-las-internaciones-involuntarias",
-     "tag": "También en LCR, Noticias Net"
     }
    ],
    "imagen": []
   },
   "Salta": {
    "top3": [
+    {
+     "titulo": "Macri confirmó que no hay acuerdo con Milei: qué pasa con la alianza electoral rumbo a 2027",
+     "medio": "Que Pasa Salta",
+     "fecha": "30/10/2026",
+     "url": "https://www.quepasasalta.com.ar/politica/mauricio-macri-negociaciones-pro-libertad-avanza/"
+    },
     {
      "titulo": "Jefatura de Gabinete de Ministros",
      "medio": "Prensa oficial de Salta",
@@ -422,12 +428,6 @@
      "medio": "Prensa oficial de Salta",
      "fecha": "30/10/2026",
      "url": "https://www.salta.gob.ar/prensa/noticias/salta-avanza-en-la-construccion-del-presupuesto-2027-con-eje-en-obras-servicios-y-desarrollo-productivo-110871"
-    },
-    {
-     "titulo": "TEMPORADA DE PODA El saencismo desguazó la carta orgánica municipal libertaria en la Legislatura de Salta Por Maira López",
-     "medio": "Letra P",
-     "fecha": "30/10/2026",
-     "url": "https://www.letrap.com.ar/politica/salta-el-saencismo-desguazo-la-carta-organica-municipal-libertaria-la-legislatura-provincial-n5427835"
     }
    ],
    "imagen": []
@@ -442,10 +442,11 @@
      "tag": "También en San Juan 8, Huarpe"
     },
     {
-     "titulo": "El Gobierno provincial retoma la negociación salarial con los docentes: se trata de la última reunión paritaria del año",
+     "titulo": "Brasil citó a la máxima representante argentina y pidió explicaciones por la fuga de Flávio Bolsonaro Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "30/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-provincial-retoma-la-negociacion-salarial-los-docentes-se-trata-la-ultima-reunion-paritaria-del-ano-n6587251"
+     "url": "https://www.diariodecuyo.com.ar/politica/brasil-cito-la-maxima-representante-argentina-y-pidio-explicaciones-la-fuga-flavio-bolsonaro-n6587280",
+     "tag": "También en 0264 Noticias, Huarpe y 1 más"
     },
     {
      "titulo": "Se viene una nueva paritaria docente: qué anticipan desde el Ministerio de Educación",
@@ -553,23 +554,22 @@
   "Santiago del Estero": {
    "top3": [
     {
+     "titulo": "País Ciencia y Tecnología: renunció el subsecretario… Ciencia y Tecnología: renunció el subsecretario que Milei había designado hace un mes Seguir leyendo →",
+     "medio": "Info del Estero",
+     "fecha": "30/10/2026",
+     "url": "https://infodelestero.com/2026/10/30/ciencia-y-tecnologia-renuncio-el-subsecretario-que-milei-habia-designado-hace-un-mes"
+    },
+    {
+     "titulo": "El Gobierno respondió a Macri y atribuyó a la interna del PRO las demoras en el acuerdo electoral",
+     "medio": "Diario Panorama",
+     "fecha": "30/10/2026",
+     "url": "https://www.diariopanorama.com/noticia/571313/gobierno-respondio-macri-atribuyo-interna-pro-demoras-acuerdo-electoral"
+    },
+    {
      "titulo": "Macri aseguró que no hay avances en un acuerdo electoral entre el PRO y La Libertad Avanza para 2027",
      "medio": "Diario Panorama",
      "fecha": "30/10/2026",
      "url": "https://www.diariopanorama.com/noticia/571286/macri-aseguro-no-hay-avances-acuerdo-electoral-entre-pro-libertad-avanza-para-2027"
-    },
-    {
-     "titulo": "Martín Menem cerró filas tras Milei para 2027 y frenó las aspiraciones presidenciales de Bullrich en LLA",
-     "medio": "El Liberal",
-     "fecha": "30/10/2026",
-     "url": "https://www.elliberal.com.ar/nota/96459/2026/10/martin-menem-cerro-filas-tras-javier-milei-para-2027-y-freno-las-aspiraciones-presidenciales-de-patricia-bullrich-"
-    },
-    {
-     "titulo": "Tintina Celebró su 122° aniversario con la presencia de autoridades provinciales",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "30/10/2026",
-     "url": "https://sde.gob.ar/2026/10/29/tintina-celebro-su-122-aniversario-con-la-presencia-de-autoridades-provinciales/",
-     "tag": "También en El Liberal, Info del Estero"
     }
    ],
    "imagen": []
@@ -613,14 +613,7 @@
      "url": "https://www.lagaceta.com.ar/nota/1160318/politica/unos-50-gremios-denunciaran-luis-caputo-fondos-adeudados-obras-sociales.html"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Una encuesta midió a 15 posibles candidatos para 2027 y todos tienen más rechazo que apoyo",
-     "medio": "Los Primeros",
-     "fecha": "30/10/2026",
-     "url": "https://www.losprimeros.tv/politica/una-encuesta-midio-a-15-posibles-candidatos-para-2027-y-todos-tienen-mas-rechazo-que-apoyo-_a6ae4bb34052cad7d01960d55"
-    }
-   ]
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [
