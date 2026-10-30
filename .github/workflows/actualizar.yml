@@ -1,0 +1,64 @@
+yaml
+name: Actualizar noticias
+
+on:
+  schedule:
+    # Horario de GitHub (UTC). Argentina = UTC-3:
+    # 9 UTC = 6 h · 14 UTC = 11 h · 19 UTC = 16 h · 0 UTC = 21 h
+    - cron: "0 0,9,14,19 * * *"
+  workflow_dispatch:      # botón "Run workflow" para correrlo a mano
+  push:
+    branches: [main]      # también corre cuando subís cambios a la página
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar-noticias
+  cancel-in-progress: false
+
+jobs:
+  actualizar-y-publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Bajar los archivos del repositorio
+        uses: actions/checkout@v5
+
+      - name: Instalar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+
+      - name: Buscar noticias
+        run: python actualizar_noticias.py
+
+      - name: Guardar noticias en el repositorio
+        run: |
+          git config user.name "actualizador-noticias"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json historial.json
+          git diff --cached --quiet || git commit -m "Noticias actualizadas $(TZ=America/Argentina/Buenos_Aires date +'%d/%m %H:%M')"
+          git pull --rebase --autostash || true
+          git push || echo "No se pudo guardar el historial esta vez; la página se publica igual."
+
+      - name: Preparar la página
+        run: |
+          mkdir -p _site
+          cp index.html noticias.json _site/
+
+      - name: Subir la página
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
