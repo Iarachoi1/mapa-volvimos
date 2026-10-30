@@ -1,0 +1,21 @@
+MAPA POLÍTICO — VOLVIMOS
+========================
+
+Archivos:
+  index.html               La página (el mapa). Tiene que llamarse así.
+  noticias.json            Las noticias que muestra la página. Lo reescribe el script.
+  actualizar_noticias.py   El programa en Python que busca las noticias.
+  fuentes_limpias.xlsx     Lista de medios que lee el programa. Editala en Excel.
+  jurisdicciones.json      Nombres, gentilicios y personas de cada provincia,
+                           para saber de qué provincia habla una nota de un medio nacional.
+  requirements.txt         Librerías de Python que necesita el programa.
+  actualizar.yml           (en GitHub va en .github/workflows/actualizar.yml)
+                           Le dice a GitHub que corra el programa 4 veces por día
+                           (6, 11, 16 y 21 h) y publique la página.
+
+Para cambiar un medio: editá fuentes_limpias.xlsx y volvé a subirlo a GitHub.
+Para que un gobernador nuevo se reconozca en los titulares: editá jurisdicciones.json.
+
+Para probar en tu Mac (opcional), en la app Terminal, dentro de esta carpeta:
+  python3 -m pip install -r requirements.txt
+  python3 actualizar_noticias.py

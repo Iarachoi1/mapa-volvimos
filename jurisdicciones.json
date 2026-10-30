@@ -1,0 +1,364 @@
+{
+ "NACIONAL": {
+  "nombres": [],
+  "palabras": [],
+  "personas": []
+ },
+ "CABA": {
+  "nombres": [
+   "CABA",
+   "Ciudad de Buenos Aires",
+   "Ciudad Autónoma"
+  ],
+  "palabras": [
+   "porteño",
+   "porteña",
+   "porteños",
+   "porteñas",
+   "legislatura porteña"
+  ],
+  "personas": [
+   "Jorge Macri",
+   "Clara Muzzio"
+  ]
+ },
+ "Buenos Aires": {
+  "nombres": [
+   "provincia de Buenos Aires",
+   "PBA",
+   "La Plata"
+  ],
+  "palabras": [
+   "bonaerense",
+   "bonaerenses",
+   "conurbano"
+  ],
+  "personas": [
+   "Kicillof",
+   "Verónica Magario",
+   "Magario"
+  ]
+ },
+ "Catamarca": {
+  "nombres": [
+   "Catamarca"
+  ],
+  "palabras": [
+   "catamarqueño",
+   "catamarqueña",
+   "catamarqueños"
+  ],
+  "personas": [
+   "Jalil",
+   "Rubén Dusso"
+  ]
+ },
+ "Chaco": {
+  "nombres": [
+   "Chaco"
+  ],
+  "palabras": [
+   "chaqueño",
+   "chaqueña",
+   "chaqueños"
+  ],
+  "personas": [
+   "Zdero"
+  ]
+ },
+ "Chubut": {
+  "nombres": [
+   "Chubut",
+   "Rawson",
+   "Comodoro Rivadavia"
+  ],
+  "palabras": [
+   "chubutense",
+   "chubutenses"
+  ],
+  "personas": [
+   "Nacho Torres",
+   "Ignacio Torres",
+   "Gustavo Menna"
+  ]
+ },
+ "Córdoba": {
+  "nombres": [
+   "Córdoba"
+  ],
+  "palabras": [
+   "cordobés",
+   "cordobesa",
+   "cordobeses"
+  ],
+  "personas": [
+   "Llaryora",
+   "Myrian Prunotto",
+   "Prunotto"
+  ]
+ },
+ "Corrientes": {
+  "nombres": [
+   "Corrientes"
+  ],
+  "palabras": [
+   "correntino",
+   "correntina",
+   "correntinos"
+  ],
+  "personas": [
+   "Juan Pablo Valdés",
+   "Braillard Poccard"
+  ]
+ },
+ "Entre Ríos": {
+  "nombres": [
+   "Entre Ríos",
+   "Paraná"
+  ],
+  "palabras": [
+   "entrerriano",
+   "entrerriana",
+   "entrerrianos"
+  ],
+  "personas": [
+   "Frigerio",
+   "Alicia Aluani"
+  ]
+ },
+ "Formosa": {
+  "nombres": [
+   "Formosa"
+  ],
+  "palabras": [
+   "formoseño",
+   "formoseña",
+   "formoseños"
+  ],
+  "personas": [
+   "Insfrán",
+   "Eber Solís"
+  ]
+ },
+ "Jujuy": {
+  "nombres": [
+   "Jujuy"
+  ],
+  "palabras": [
+   "jujeño",
+   "jujeña",
+   "jujeños"
+  ],
+  "personas": [
+   "Sadir",
+   "Alberto Bernis"
+  ]
+ },
+ "La Pampa": {
+  "nombres": [
+   "La Pampa",
+   "Santa Rosa"
+  ],
+  "palabras": [
+   "pampeano",
+   "pampeana",
+   "pampeanos"
+  ],
+  "personas": [
+   "Ziliotto",
+   "Alicia Mayoral"
+  ]
+ },
+ "La Rioja": {
+  "nombres": [
+   "La Rioja"
+  ],
+  "palabras": [
+   "riojano",
+   "riojana",
+   "riojanos"
+  ],
+  "personas": [
+   "Quintela",
+   "Teresita Madera"
+  ]
+ },
+ "Mendoza": {
+  "nombres": [
+   "Mendoza"
+  ],
+  "palabras": [
+   "mendocino",
+   "mendocina",
+   "mendocinos"
+  ],
+  "personas": [
+   "Cornejo",
+   "Hebe Casado"
+  ]
+ },
+ "Misiones": {
+  "nombres": [
+   "Misiones",
+   "Posadas"
+  ],
+  "palabras": [
+   "misionero",
+   "misionera",
+   "misioneros"
+  ],
+  "personas": [
+   "Passalacqua",
+   "Rovira",
+   "Romero Spinelli"
+  ]
+ },
+ "Neuquén": {
+  "nombres": [
+   "Neuquén"
+  ],
+  "palabras": [
+   "neuquino",
+   "neuquina",
+   "neuquinos"
+  ],
+  "personas": [
+   "Rolando Figueroa",
+   "Zulma Reina"
+  ]
+ },
+ "Río Negro": {
+  "nombres": [
+   "Río Negro",
+   "Viedma",
+   "Bariloche"
+  ],
+  "palabras": [
+   "rionegrino",
+   "rionegrina",
+   "rionegrinos"
+  ],
+  "personas": [
+   "Weretilneck",
+   "Pesatti"
+  ]
+ },
+ "Salta": {
+  "nombres": [
+   "Salta"
+  ],
+  "palabras": [
+   "salteño",
+   "salteña",
+   "salteños"
+  ],
+  "personas": [
+   "Sáenz",
+   "Antonio Marocco"
+  ]
+ },
+ "San Juan": {
+  "nombres": [
+   "San Juan"
+  ],
+  "palabras": [
+   "sanjuanino",
+   "sanjuanina",
+   "sanjuaninos"
+  ],
+  "personas": [
+   "Orrego",
+   "Fabián Martín"
+  ]
+ },
+ "San Luis": {
+  "nombres": [
+   "San Luis"
+  ],
+  "palabras": [
+   "puntano",
+   "puntana",
+   "puntanos"
+  ],
+  "personas": [
+   "Poggi",
+   "Endeiza"
+  ]
+ },
+ "Santa Cruz": {
+  "nombres": [
+   "Santa Cruz",
+   "Río Gallegos"
+  ],
+  "palabras": [
+   "santacruceño",
+   "santacruceña",
+   "santacruceños"
+  ],
+  "personas": [
+   "Claudio Vidal",
+   "Leguizamón"
+  ]
+ },
+ "Santa Fe": {
+  "nombres": [
+   "Santa Fe",
+   "Rosario"
+  ],
+  "palabras": [
+   "santafesino",
+   "santafesina",
+   "santafesinos",
+   "rosarino",
+   "rosarina"
+  ],
+  "personas": [
+   "Pullaro",
+   "Gisela Scaglia"
+  ]
+ },
+ "Santiago del Estero": {
+  "nombres": [
+   "Santiago del Estero"
+  ],
+  "palabras": [
+   "santiagueño",
+   "santiagueña",
+   "santiagueños"
+  ],
+  "personas": [
+   "Elías Suárez",
+   "Julio Neder"
+  ]
+ },
+ "Tierra del Fuego": {
+  "nombres": [
+   "Tierra del Fuego",
+   "Ushuaia",
+   "Río Grande"
+  ],
+  "palabras": [
+   "fueguino",
+   "fueguina",
+   "fueguinos"
+  ],
+  "personas": [
+   "Melella",
+   "Mónica Urquiza"
+  ]
+ },
+ "Tucumán": {
+  "nombres": [
+   "Tucumán"
+  ],
+  "palabras": [
+   "tucumano",
+   "tucumana",
+   "tucumanos"
+  ],
+  "personas": [
+   "Jaldo",
+   "Miguel Acevedo"
+  ]
+ }
+}
