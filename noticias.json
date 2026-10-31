@@ -1,7 +1,7 @@
 {
  "semana": "31 de octubre de 2026",
  "fecha": "2026-10-31",
- "actualizado": "31/10 11:27",
+ "actualizado": "31/10 16:28",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -24,22 +24,27 @@
      "url": "https://www.infobae.com/politica/2026/10/31/el-pj-rumbo-al-2027-la-reunion-de-un-sector-con-intendentes-la-fecha-clave-de-unac-y-una-interna-en-suspenso/"
     }
    ],
-   "imagen": [
+   "imagen": []
+  },
+  "CABA": {
+   "top3": [
     {
-     "titulo": "Discusión 2027 Tetaz quiere ser candidato en la Ciudad en un frente que pueda disputar un balotaje contra LLA Por Abigail Contreiras Martínez",
-     "medio": "Letra P",
+     "titulo": "Sentido homenaje Jorge Macri encabezó el acto de homenaje de la Ciudad a policías caídos: \"Son héroes de la vida cotidiana”",
+     "medio": "Perfil",
      "fecha": "31/10/2026",
-     "url": "https://www.letrap.com.ar/politica/martin-tetaz-quiere-ser-candidato-la-ciudad-un-frente-que-pueda-disputar-un-balotaje-contra-lla-n5427706"
+     "url": "https://www.perfil.com/ciudad-de-buenos-aires/jorge-macri-encabezo-el-acto-de-homenaje-de-la-ciudad-a-policias-caidos-son-heroes-de-la-vida-cotidiana-acOoX9Z6FZ5U",
+     "tag": "Gestión"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Interna peronista Axel Kicillof reunió a intendentes y se mostró dispuesto a competir en las PASO contra Cristina Kirchner y Sergio Massa",
-     "medio": "Perfil",
+     "titulo": "\"Veo que se están lanzando\". Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO",
+     "medio": "La Nación",
      "fecha": "31/10/2026",
-     "url": "https://www.perfil.com/politica/axel-kicillof-reunio-a-intendentes-y-se-mostro-dispuesto-a-competir-en-las-paso-contra-cristina-kirchner-y-sergio-massa-aTguu4J5mZLF"
+     "url": "https://www.lanacion.com.ar/politica/axel-kicillof-rechaza-que-cristina-kirchner-designe-a-dedo-a-un-candidato-como-ocurrio-con-alberto-nid31102026/"
     },
     {
      "titulo": "Proyecto en marcha Kicillof tuvo un encuentro con el gobernador radical Carlos Sadir en Jujuy",
@@ -76,6 +81,13 @@
   "Chubut": {
    "top3": [
     {
+     "titulo": "Ante el reclamo de Torres, Vialidad Nacional comenzó a reparar la Ruta 3",
+     "medio": "Diario Jornada",
+     "fecha": "31/10/2026",
+     "url": "https://www.diariojornada.com.ar/426261/politica/ante_el_reclamo_de_torres_vialidad_nacional_comenzo_a_reparar_la_ruta_3",
+     "tag": "También en ADN Sur"
+    },
+    {
      "titulo": "Milei vuelve a Neuquén por tercera vez para inaugurar un templo con capacidad para más de 4.000 personas",
      "medio": "ADN Sur",
      "fecha": "31/10/2026",
@@ -86,12 +98,6 @@
      "medio": "Diario Jornada",
      "fecha": "31/10/2026",
      "url": "https://www.diariojornada.com.ar/426239/politica/otro_papelon_de_milei_confundio_al_mito_griego_odiseo_con_eliseo"
-    },
-    {
-     "titulo": "\"Perdí frente al sistema\": el mensaje de Flavio Bolsonaro",
-     "medio": "Diario Jornada",
-     "fecha": "31/10/2026",
-     "url": "https://www.diariojornada.com.ar/426240/politica/perdi_frente_al_sistema_el_mensaje_de_flavio_bolsonaro"
     }
    ],
    "imagen": []
@@ -99,16 +105,16 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Elecciones 2027. Kicillof criticó a Milei y llamó a construir una alternativa electoral: \"Nadie se salva solo\"",
-     "medio": "Cadena3",
-     "fecha": "31/10/2026",
-     "url": "https://www.cadena3.com/noticia/panorama-federal/kicillof-critico-a-milei-y-llamo-a-construir-una-alternativa-electoral-nadie-se-salva-solo_608902"
-    },
-    {
      "titulo": "Elecciones EE.UU. Trump se juega \"el principio del fin\" pero un ex FMI dice: \"El apoyo a Milei va a seguir\"",
      "medio": "Cadena3",
      "fecha": "31/10/2026",
      "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/trump-se-juega-el-principio-del-fin-pero-un-ex-fmi-dice-el-apoyo-a-milei-va-a-seguir_608926"
+    },
+    {
+     "titulo": "Villarruel otorgará adelantos de hasta tres sueldos a empleados del Senado",
+     "medio": "Hoy Dia",
+     "fecha": "31/10/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/villarruel-otorgara-adelantos-de-hasta-tres-sueldos-a-empleados-del-senado/"
     },
     {
      "titulo": "Ante 2.200 adultos mayores, Llaryora rechazó “la cultura del descarte”",
@@ -117,10 +123,35 @@
      "url": "https://hoydia.com.ar/politica/cordoba/ante-2-200-adultos-mayores-llaryora-rechazo-la-cultura-del-descarte/"
     }
    ],
+   "imagen": [
+    {
+     "titulo": "Tiempo inestable en Córdoba. Impactantes imágenes: así fue la caída de granizo en distintas localidades de Córdoba",
+     "medio": "Cadena3",
+     "fecha": "31/10/2026",
+     "url": "https://www.cadena3.com/noticia/una-manana-para-todos/impactantes-imagenes-asi-fue-la-caida-de-granizo-en-distintas-localidades-de-cordoba_608959"
+    }
+   ]
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Macri reveló que “no se avanzó nada” en un acuerdo del PRO con el partido de los Milei",
+     "medio": "El Litoral",
+     "fecha": "31/10/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-10-31-13-57-0-macri-revelo-que-no-se-avanzo-nada-en-un-acuerdo-del-pro-con-el-partido-de-los-milei"
+    }
+   ],
    "imagen": []
   },
   "Entre Ríos": {
    "top3": [
+    {
+     "titulo": "Equipos del Copnaf capacitan a sus equipos ante los cambios de la nueva ley penal juvenil",
+     "medio": "El Once",
+     "fecha": "31/10/2026",
+     "url": "https://www.elonce.com/politica/nueva-ley-penal-juvenil-entre-rios-capacita-a-sus-equipos.htm",
+     "tag": "También en AFP Digital, UNO ER"
+    },
     {
      "titulo": "TEMPORADA DE ROSCA Renoldi avisó que quiere competir por la sucesión de Romero abrió otra grieta más en la UCR de Paraná. Por Exequiel Flesler",
      "medio": "Letra P",
@@ -133,13 +164,6 @@
      "fecha": "31/10/2026",
      "url": "https://www.apfdigital.com.ar/noticias/2026/10/31/477195-entre-rios-se-encuentra-sin-alerta-meteorologico",
      "tag": "También en Ahora, El Once"
-    },
-    {
-     "titulo": "Comienza el pago de haberes para la administración pública entrerriana: cronograma",
-     "medio": "El Once",
-     "fecha": "31/10/2026",
-     "url": "https://www.elonce.com/economia/comienza-el-cronograma-de-pagos-para-la-administracion-entrerriana.htm",
-     "tag": "También en Ahora"
     }
    ],
    "imagen": []
@@ -153,7 +177,7 @@
      "url": "https://www.perfil.com/politica/kicillof-tuvo-un-encuentro-con-el-gobernador-radical-carlos-sadir-en-jujuy-axd9U3K5Iqdk"
     },
     {
-     "titulo": "Rubén Rivarola: \"Voy a ser de vuelta el presidente del Partido Justicialista de Jujuy\"",
+     "titulo": "video Política. Rubén Rivarola: \"Voy a ser de vuelta el presidente del Partido Justicialista de Jujuy\" Por Claudio Serra",
      "medio": "Todo Jujuy",
      "fecha": "31/10/2026",
      "url": "https://www.todojujuy.com/politica/ruben-rivarola-voy-ser-vuelta-el-presidente-del-partido-justicialista-jujuy-n298218"
@@ -177,18 +201,29 @@
      "tag": "También en La Pampa 24, La Arena"
     },
     {
-     "titulo": "General Pico: dos policías le salvaron la vida a un bebé que se ahogaba con la comida",
+     "titulo": "Ravier negó que el frente opositor sea antiperonista porque incluye a Tierno",
      "medio": "El Diario de La Pampa",
      "fecha": "31/10/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82462/general-pico--dos-policias-le-salvaron-la-vida-a-un-bebe-de-ocho-meses-que-se-ahogaba-con-la-comida",
-     "tag": "También en La Arena"
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82458/ravier-nego-que-el-frente-opositor-sea-antiperonista-porque-tiene-a-tierno",
+     "tag": "También en La Pampa 24"
     },
     {
-     "titulo": "El riesgo país subió 30 % en octubre y roza los 800 puntos",
+     "titulo": "La Pampa creó un organismo provincial para coordinar la procuración de órganos",
      "medio": "La Arena",
      "fecha": "31/10/2026",
-     "url": "https://www.laarena.com.ar/el-pais/el-riesgo-pais-subio-30-en-octubre-y-roza-los-800-puntos-20261031040",
+     "url": "https://www.laarena.com.ar/la-pampa/la-pampa-creo-un-organismo-provincial-para-coordinar-la-procuracion-de-organos-202610311020",
      "tag": "También en La Pampa 24"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "FLORENCIA LÓPEZ LANZÓ SU CANDIDATURA  A GOBERNADORA Y ACUSÓ A NACIÓN DE «QUERES HACER DESAPARECER» LA RIOJA",
+     "medio": "Rioja Virtual",
+     "fecha": "31/10/2026",
+     "url": "https://riojavirtual.com.ar/florencia-lopez-lanzo-su-candidatura-a-gobernadora-y-acuso-a-nacion-de-queres-hacer-desaparecer-la-rioja/"
     }
    ],
    "imagen": []
@@ -202,22 +237,28 @@
      "url": "https://www.mendozapost.com/politica/la-ucr-convoco-a-su-congreso-provincial-para-el-12-de-diciembre/"
     },
     {
-     "titulo": "Milei vuelve a España en la víspera de la llegada de León XIV",
-     "medio": "Mendoza Post",
+     "titulo": "Janina Ortiz no ejercerá su defensa en Diputados en la previa a su destitución",
+     "medio": "Diario UNO - MDZ",
      "fecha": "31/10/2026",
-     "url": "https://www.mendozapost.com/politica/agenda-politica-en-la-vispera-de-la-llegada-de-leon-xiv/"
+     "url": "https://www.diariouno.com.ar/politica/janina-ortiz-no-ejercera-su-defensa-diputados-la-previa-su-destitucion-n1612036"
     },
     {
-     "titulo": "Mendoza incorporará una nueva tecnicatura superior en senderismo y turismo de naturaleza",
-     "medio": "Prensa oficial de Mendoza",
+     "titulo": "Los detalles que ultima el Gobierno para la llegada del papa León XIV",
+     "medio": "Mendoza Post",
      "fecha": "31/10/2026",
-     "url": "https://prensa.mendoza.gob.ar/mendoza-incorporara-una-nueva-tecnicatura-superior-en-senderismo-y-turismo-de-naturaleza/"
+     "url": "https://www.mendozapost.com/politica/el-gobierno-palpita-la-llegada-del-papa-leon-xiv-y-ultima-detalles-de-la-agenda-2478/"
     }
    ],
    "imagen": []
   },
   "Misiones": {
    "top3": [
+    {
+     "titulo": "Misiones condiciona el voto al Presupuesto nacional por recursos y la deuda previsional",
+     "medio": "Primera Edición",
+     "fecha": "31/10/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101156337/misiones-reclama-300-mil-millones-presupuesto-2027/"
+    },
     {
      "titulo": "REVUELTO VIOLETA El presupuesto de Posadas expuso la interna de La Libertad Avanza en Misiones Por Letra P | Periodismo Político",
      "medio": "Letra P",
@@ -229,12 +270,6 @@
      "medio": "Plan B",
      "fecha": "31/10/2026",
      "url": "https://planbmisiones.com/2026/10/30/nota/concejales-opositores-de-concepcion-de-la-sierra-apoyaran-a-passalacqua-y-se-pasaron-a-mv/"
-    },
-    {
-     "titulo": "El 51% de las escuelas de Misiones son rurales, pero concentran solo al 26% de los docentes",
-     "medio": "Primera Edición",
-     "fecha": "31/10/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101156307/escuelas-rurales-misiones-docentes-alumnos-caminos/"
     }
    ],
    "imagen": []
@@ -255,10 +290,10 @@
      "url": "https://www.perfil.com/politica/milei-llega-a-neuquen-con-un-guino-evangelico-aRWpL3K8O5h2"
     },
     {
-     "titulo": "Gestión de cercanía El Registro Civil Móvil informa su cronograma para la primera quincena de noviembre",
-     "medio": "Prensa oficial de Neuquén",
+     "titulo": "El Poder Judicial presentó un presupuesto de 508.910 millones de pesos para 2027",
+     "medio": "Neuquén al Instante",
      "fecha": "31/10/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/31/266457-el-registro-civil-movil-informa-su-cronograma-para-la-primera-quincena-de-noviembre"
+     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/10/31/146547-el-poder-judicial-presento-un-presupuesto-de-508910-millones-de-pesos-para-2027"
     }
    ],
    "imagen": []
@@ -266,10 +301,17 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Javier Milei llega a Neuquén: inaugurará un auditorio evangélico y mantendrá reuniones políticas clave de cara a 2027",
+     "titulo": "Juegos de la Araucanía: Río Negro sumó 15 oros y se mantiene como la provincia más ganadora",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "31/10/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62546/juegos-de-la-araucania-rio-negro-sumo-15-oros-y-se-mantiene-como-la-provincia-mas-ganadora",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "El panorama político en Neuquén y Río Negro: entre Vaca Muerta, la veda y alianzas locales",
      "medio": "Diario Rio Negro",
      "fecha": "31/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/javier-milei-llega-a-neuquen-inaugurara-un-auditorio-evangelico-y-mantendra-reuniones-politicas-clave-de-cara-a-2027-4779529/"
+     "url": "https://www.rionegro.com.ar/politica/el-panorama-politico-en-neuquen-y-rio-negro-entre-vaca-muerta-la-veda-y-alianzas-locales-4780086/"
     },
     {
      "titulo": "Río Negro pagó los sueldos de octubre a todos los estatales",
@@ -277,12 +319,6 @@
      "fecha": "31/10/2026",
      "url": "https://www.anroca.com.ar/noticias/2026/10/31/230349-rio-negro-pago-los-sueldos-de-octubre-a-todos-los-estatales",
      "tag": "También en LCR, Noticias Net"
-    },
-    {
-     "titulo": "El intendente Castro anticipó definiciones electorales y repasó las obras que avanzan en Viedma",
-     "medio": "Noticias Net",
-     "fecha": "31/10/2026",
-     "url": "https://www.noticiasnet.com.ar/noticias/2026/10/31/232113-el-intendente-castro-anticipo-definiciones-electorales-y-repaso-las-obras-que-avanzan-en-viedma"
     }
    ],
    "imagen": [
@@ -320,6 +356,12 @@
   "San Juan": {
    "top3": [
     {
+     "titulo": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO",
+     "medio": "0264 Noticias",
+     "fecha": "31/10/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/10/31/115482-axel-kicillof-rechaza-que-cristina-kirchner-designe-a-un-candidato-y-pide-ir-a-unas-paso"
+    },
+    {
      "titulo": "La Libertad Avanza inauguró su sede en Zonda y sigue ampliando su presencia territorial en San Juan",
      "medio": "Tiempo de San Juan",
      "fecha": "31/10/2026",
@@ -331,12 +373,6 @@
      "medio": "Tiempo de San Juan",
      "fecha": "31/10/2026",
      "url": "https://www.tiempodesanjuan.com/politica/diputados-la-oposicion-exige-la-presencia-de-funcionarios-nacionales-por-ayudar-a-huir-flavio-bolsonaro_1793403133"
-    },
-    {
-     "titulo": "10:16 La Libertad Avanza abrió una sede en Zonda y amplía su estructura en los departamentos de San Juan",
-     "medio": "Diario de Cuyo",
-     "fecha": "31/10/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/la-libertad-avanza-abrio-una-sede-zonda-y-amplia-su-estructura-los-departamentos-san-juan-n6587323"
     }
    ],
    "imagen": []
@@ -344,16 +380,16 @@
   "San Luis": {
    "top3": [
     {
+     "titulo": "El Gobernador encabezó los festejos por el 168° aniversario de la Policía de la Provincia",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "31/10/2026",
+     "url": "https://agenciasanluis.com/2026/10/31/1227010-el-gobernador-encabezo-los-festejos-por-el-168-aniversario-de-la-policia-de-la-provincia/"
+    },
+    {
      "titulo": "Pastores evangélicos de toda la provincia celebraron su día junto al Gobernador",
      "medio": "Prensa oficial de San Luis",
      "fecha": "31/10/2026",
      "url": "https://agenciasanluis.com/2026/10/31/1226973-pastores-evangelicos-de-toda-la-provincia-celebraron-su-dia-junto-al-gobernador/"
-    },
-    {
-     "titulo": "La ULP impulsa una formación para responder al nuevo panorama laboral del turismo",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "31/10/2026",
-     "url": "https://agenciasanluis.com/2026/10/31/1226315-la-ulp-impulsa-una-formacion-para-responder-al-nuevo-panorama-laboral-del-turismo/"
     }
    ],
    "imagen": []
@@ -361,22 +397,22 @@
   "Santa Cruz": {
    "top3": [
     {
+     "titulo": "Diputados Presentaron un proyecto para actualizar el Registro de Obstructores de Vínculos Familiares",
+     "medio": "Tiempo Sur",
+     "fecha": "31/10/2026",
+     "url": "https://www.tiemposur.com.ar/politica/presentaron-un-proyecto-para-actualizar-el-registro-de-obstructores-de-vinculos-familiares"
+    },
+    {
+     "titulo": "Río Gallegos: “Se está generando un segundo basural completamente descontrolado, otro desastre igual al que ya tenemos”",
+     "medio": "La Opinión Austral",
+     "fecha": "31/10/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/rio-gallegos-se-esta-generando-un-segundo-basural-completamente-descontrolado-otro-desastre-igual-al-que-ya-tenemos-en-la-ciudad-725914.html"
+    },
+    {
      "titulo": "Edicto: Sindicato de Docentes de la Universidad Nacional de la Patagonia Austral – Convocatoria a elecciones",
      "medio": "La Opinión Austral",
      "fecha": "31/10/2026",
      "url": "https://laopinionaustral.com.ar/sociedad/edicto-sindicato-de-docentes-de-la-universidad-nacional-de-la-patagonia-austral-convocatoria-a-elecciones-725892.html"
-    },
-    {
-     "titulo": "Nación El Gobierno palpita la llegada del papa León XIV y ultima detalles de la agenda",
-     "medio": "Tiempo Sur",
-     "fecha": "31/10/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-gobierno-palpita-la-llegada-del-papa-leon-xiv-y-ultima-detalles-de-la-agenda"
-    },
-    {
-     "titulo": "Presentan y despliegan la plataforma Historia de Salud Integrada en la provincia",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "31/10/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/salud/presentan-y-despliegan-la-plataforma-historia-de-salud-integrada-en-la-provincia"
     }
    ],
    "imagen": []
@@ -390,20 +426,32 @@
      "url": "https://www.letrap.com.ar/politica/cavatorta-levanta-la-mano-rosario-y-el-massismo-lo-anota-jugar-2027-n5427833"
     },
     {
-     "titulo": "El PRO de San Francisco propone un muro para frenar la ola de inseguridad y apunta contra Santa Fe Por Letra P | Periodismo Político",
+     "titulo": "A LO TRUMP El PRO de San Francisco propone un muro para frenar la ola de inseguridad y apunta contra Santa Fe Por Nicolás Albera",
      "medio": "Letra P",
      "fecha": "31/10/2026",
      "url": "https://www.letrap.com.ar/politica/el-pro-san-francisco-propone-un-muro-frenar-la-ola-inseguridad-y-apunta-contra-santa-fe-n5427861"
     },
     {
-     "titulo": "En el Km 7 Autopista Rosario-Santa Fe: instalaron una balanza que pesa y multa el sobrepeso de los camiones, sin detenerlos",
+     "titulo": "Estela Díaz en Santa Fe: \"Cuando se precariza la vida, se recrudecen las violencias\"",
      "medio": "Aire",
      "fecha": "31/10/2026",
-     "url": "https://www.airedesantafe.com.ar/santa-fe/para-cuidar-la-autopista-rosario-santa-fe-provincia-instalo-una-balanza-que-pesa-y-multa-el-sobrepeso-los-camiones-detenerlos-n675154",
-     "tag": "También en Rosario3"
+     "url": "https://www.airedesantafe.com.ar/politica/estela-diaz-santa-fe-cuando-se-precariza-la-vida-se-recrudecen-las-violencias-n675182"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Imágenes falsas con IA en las escuelas de Santa Fe: cómo actuar y qué propone el proyecto para sancionar estas prácticas",
+     "medio": "Aire",
+     "fecha": "31/10/2026",
+     "url": "https://www.airedesantafe.com.ar/santa-fe/imagenes-falsas-ia-las-escuelas-santa-fe-como-actuar-y-que-propone-el-proyecto-sancionar-estas-practicas-n674831"
+    },
+    {
+     "titulo": "Ranking de imagen de los senadores nacionales: quiénes están mejor y peor posicionados y cómo les fue a los santafesinos",
+     "medio": "Rosario3",
+     "fecha": "31/10/2026",
+     "url": "https://www.rosario3.com/informaciongeneral/ranking-de-imagen-de-los-senadores-nacionales-quienes-estan-mejor-y-peor-posicionados-y-como-les-fue-a-los-santafesinos-20261031-0019.html"
+    }
+   ]
   },
   "Santiago del Estero": {
    "top3": [
@@ -414,21 +462,28 @@
      "url": "https://www.elliberal.com.ar/nota/96530/2026/10/interna-en-lla--patricia-bullrich-le-bajo-el-tono-a-los-dichos-de-martin-menem-sobre-la-candidatura-de-javier-milei"
     },
     {
-     "titulo": "Mario Benavente asumió como intendente de la Capital: los principales ejes de su gestión",
+     "titulo": "El intendente de Loreto tomó juramento a sus funcionarios y marcó el rumbo de su gestión",
      "medio": "Diario Panorama",
      "fecha": "31/10/2026",
-     "url": "https://www.diariopanorama.com/noticia/571409/mario-benavente-asumio-como-intendente-capital-principales-ejes-gestion",
-     "tag": "También en Info del Estero, El Liberal"
+     "url": "https://www.diariopanorama.com/noticia/571408/intendente-loreto-tomo-juramento-sus-funcionarios-marco-rumbo-gestion",
+     "tag": "También en El Liberal, Info del Estero"
     },
     {
-     "titulo": "Con un acto en el Cine Teatro Renzi, Llamil Abdala jura como intendente de La Banda",
+     "titulo": "Mario Benavente tomó juramento a los funcionarios que integrarán su Gabinete municipal",
      "medio": "Diario Panorama",
      "fecha": "31/10/2026",
-     "url": "https://www.diariopanorama.com/noticia/571375/con-acto-cine-teatro-renzi-llamil-abdala-jura-como-intendente-banda",
+     "url": "https://www.diariopanorama.com/noticia/571426/mario-benavente-tomo-juramento-funcionarios-integraran-gabinete-municipal",
      "tag": "También en El Liberal"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Locales Gerardo Zamora, entre los senadores con mejor imagen del país y Patricia Bullrich entre los peores Hace 2 horas",
+     "medio": "Info del Estero",
+     "fecha": "31/10/2026",
+     "url": "https://infodelestero.com/2026/10/31/gerardo-zamora-entre-los-senadores-con-mejor-imagen-del-pais-y-patricia-bullrich-entre-los"
+    }
+   ]
   },
   "Tierra del Fuego": {
    "top3": [
@@ -444,23 +499,22 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "El gobernador Jaldo participó del cierre del “Octubre Rosa”",
-     "medio": "Los Primeros",
+     "titulo": "Más de 23.400 personas dejaron de trabajar en empresas del Estado desde que asumió Milei",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "31/10/2026",
-     "url": "https://www.losprimeros.tv/politica/el-gobernador-jaldo-participo-del-cierre-del--octubre-rosa-_a6ae5ab2009dee0a0b9abc1d2",
-     "tag": "También en LV12"
+     "url": "https://www.lagaceta.com.ar/nota/1160436/politica/mas-23400-personas-dejaron-trabajar-empresas-estado-desde-asumio-milei.html"
+    },
+    {
+     "titulo": "Delacroix cuestionó al municipio de Yerba Buena por su dependencia del Gobierno provincial: “Siguen atados a Jaldo”",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "31/10/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160461/politica/delacroix-cuestiono-al-municipio-yerba-buena-dependencia-gobierno-provincial-siguen-atados-jaldo.html"
     },
     {
      "titulo": "Campaña del limón 2026-2027: cómo están los lotes en Tucumán",
      "medio": "LV12",
      "fecha": "31/10/2026",
      "url": "https://www.lv12.com.ar/campana/campana-del-limon-2026-2027-como-estan-los-lotes-tucuman-n205933"
-    },
-    {
-     "titulo": "Jaldo, Catalán y Campero: cómo se mueve el tablero y los mensajes rumbo a 2027",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "31/10/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160398/opinion/jaldo-catalan-campero-como-se-mueve-tablero-mensajes-rumbo-2027.html"
     }
    ],
    "imagen": []
@@ -496,6 +550,7 @@
   "https://www.opisantacruz.com.ar/",
   "https://agenciafe.com/",
   "https://www.ellitoral.com/",
+  "https://www.rosarioplus.com/",
   "https://nuevodiarioweb.com.ar/",
   "https://www.infofueguina.com/",
   "https://www.minutofueguino.com.ar/",
