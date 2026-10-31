@@ -1,5 +1,5 @@
 {
- "actualizado": "31/10 03:31",
+ "actualizado": "31/10 04:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -15,29 +15,20 @@
    "temas": []
   },
   {
-   "tema": "stephen curry",
-   "busquedas": "100+",
-   "nota": "Steph Curry passes Hall-of-Famer to move up NBA all-time scoring list",
-   "nota_url": "https://nypost.com/2026/10/31/sports/steph-curry-passes-hall-of-famer-to-move-up-nba-all-time-scoring-list/",
-   "medio": "New York Post",
+   "tema": "sports",
+   "busquedas": "200+",
+   "nota": "Commissioner Brett Yormark to Leave Big 12 Conference",
+   "nota_url": "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
+   "medio": "Big 12 Conference",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "warriors vs lakers",
-   "busquedas": "200+",
-   "nota": "Denver Nuggets vs Phoenix Suns Oct 30, 2026 Play-by-Play",
-   "nota_url": "https://www.nba.com/game/den-vs-phx-0022600024/play-by-play",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors",
-   "busquedas": "200+",
-   "nota": "Warriors erase big early deficit and beat the Lakers at home",
-   "nota_url": "https://www.espn.co.uk/video/clip/_/id/50333448/warriors-erase-big-early-deficit-beat-lakers-home",
-   "medio": "ESPN",
+   "tema": "lakers",
+   "busquedas": "1000+",
+   "nota": "Lakers make final decision on Ziaire Williams for Friday's game",
+   "nota_url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/",
+   "medio": "Lakers Wire",
    "relevante": false,
    "temas": []
   },
@@ -53,18 +44,18 @@
   {
    "tema": "noche de brujas",
    "busquedas": "20000+",
-   "nota": "Halloween sobre ruedas: este sábado habrá una bicicleteada nocturna en Río Grande",
-   "nota_url": "https://www.minutofueguino.com.ar/rio-grande/halloween-sobre-ruedas-este-sbado-habr-una-bicicleteada-nocturna-en-ro-grande.htm",
-   "medio": "Minuto Fueguino",
+   "nota": "Halloween en el Tren de la Costa: habrá una experiencia inmersiva de terror con entrada gratuita",
+   "nota_url": "https://www.cronista.com/informacion-gral/halloween-en-el-tren-de-la-costa-habra-una-experiencia-inmersiva-de-terror-con-entrada-gratuita/",
+   "medio": "El Cronista",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "isack hadjar",
    "busquedas": "200+",
-   "nota": "La repudiable reacción de Isack Hadjar con un hincha en la F1: empujón y bronca en México",
-   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/10/la-repudiable-reaccion-de-isack-hadjar-con-un-hincha-en-la-f1-empujon-y-bronca-en-mexico.php",
-   "medio": "FM Del Sol Pehuajo",
+   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
+   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
@@ -92,6 +83,15 @@
    "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
    "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
    "medio": "La 100",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tabla anual 2026",
+   "busquedas": "500+",
+   "nota": "Nicolás Goitea y Oscar Salomón: los dos candidatos a ocupar un lugar en la zaga central de Newell's",
+   "nota_url": "https://www.lacapital.com.ar/ovacion/nicolas-goitea-y-oscar-salomon-los-dos-candidatos-ocupar-un-lugar-la-zaga-central-newells-n10289691.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   }
