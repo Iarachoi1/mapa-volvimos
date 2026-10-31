@@ -1,13 +1,58 @@
 {
- "actualizado": "31/10 08:22",
+ "actualizado": "31/10 09:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "arresto",
+   "tema": "levante - atlético madrid",
+   "busquedas": "2000+",
+   "nota": "Levante - Atlético, en directo: última hora de LaLiga EA Sports, hoy en vivo",
+   "nota_url": "https://as.com/futbol/primera/levante-atletico-en-directo-hoy-en-vivo-laliga-ea-sports-f202610-d/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "murió patrick stewart",
+   "busquedas": "200+",
+   "nota": "Patrick Stewart, de Shakespeare al espacio",
+   "nota_url": "https://www.pagina12.com.ar/2026/10/29/patrick-stewart-de-shakespeare-al-espacio/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chelsea - manchester united",
+   "busquedas": "5000+",
+   "nota": "The Chelsea-Manchester United combined XI ⚔️",
+   "nota_url": "https://sports.yahoo.com/articles/chelsea-manchester-united-combined-xi-095200272.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "challenger de guayaquil",
    "busquedas": "100+",
+   "nota": "Un tenista argentino fue descalificado del Challenger de Guayaquil por abandonar un partido tras un enojo",
+   "nota_url": "https://www.lanacion.com.ar/deportes/tenis/un-tenista-argentino-fue-descalificado-del-challenger-de-guayaquil-por-abandonar-un-partido-tras-un-nid31102026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "thiago agustín tirante",
+   "busquedas": "500+",
+   "nota": "Thiago Agustin Tirante Zachary Svajda live score and H2H results",
+   "nota_url": "https://www.sofascore.com/tennis/match/zachary-svajda-thiago-agustin-tirante/pFNbsXouc",
+   "medio": "Sofascore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "arresto",
+   "busquedas": "200+",
    "nota": "Dictaron el arresto domiciliario para el acusado de privar de la libertad a su familia en Chubut",
    "nota_url": "https://www.diariocronica.com.ar/noticias/2026/10/30/175206-dictaron-el-arresto-domiciliario-para-el-acusado-de-privar-de-la-libertad-a-su-familia-en-chubut",
    "medio": "Diario Crónica",
@@ -16,19 +61,28 @@
   },
   {
    "tema": "guillermo coppola",
-   "busquedas": "200+",
-   "nota": "Un colectivero tuvo una sorpresa en el día de su cumpleaños | Guillermo Coppola subió a su unidad",
-   "nota_url": "https://nuevodiarioweb.com.ar/especiales/info-santiago-estero-un-colectivero-tuvo-una-sorpresa-en-el-dia-de-su-cumpleanos-guillermo-coppola-subio-a-su-unidad.htm",
-   "medio": "Nuevo Diario Web",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "La emocionante historia de Guillermo Coppola con un chofer de colectivo que lo hizo sentir cerca de Diego Maradona: “El mismo día”",
+   "nota_url": "https://la100.cienradios.com/videos/la-emocionante-historia-de-guillermo-coppola-con-un-chofer-de-colectivo-que-lo-hizo-sentir-cerca-de-diego-maradona-el-mismo-dia/",
+   "medio": "La 100",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "jubilaciones",
+   "busquedas": "500+",
+   "nota": "Aumento confirmado para jubilados: así queda la mínima con bono en noviembre 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/aumento-confirmado-jubilados-queda-minima-bono-noviembre-2026_0_CdpqgcUoPO.html",
+   "medio": "Clarin.com",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "breaking bad",
-   "busquedas": "200+",
-   "nota": "L.A. Comic Con 2026: Breaking Bad Reunion, Nicolas Cage, Outlander and More",
-   "nota_url": "https://kfiam640.iheart.com/featured/la-local-news/content/2026-10-29-la-comic-con-2026-breaking-bad-reunion-nicolas-cage-outlander-and-more/",
-   "medio": "KFI AM 640",
+   "busquedas": "500+",
+   "nota": "Snapmaker Brings Creativity, Cosplay and Hands-On Support to L.A. Comic Con 2026",
+   "nota_url": "https://www.prweb.com/releases/snapmaker-brings-creativity-cosplay-and-hands-on-support-to-la-comic-con-2026-302919065.html",
+   "medio": "PRWeb",
    "relevante": false,
    "temas": []
   },
@@ -38,60 +92,6 @@
    "nota": "Cómo estará el clima en Chubut este lunes 26 de octubre",
    "nota_url": "https://canal12web.com/como-estara-el-clima-en-chubut-este-lunes-26-de-octubre/",
    "medio": "Canal 12 Web",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sports",
-   "busquedas": "200+",
-   "nota": "Commissioner Brett Yormark to Leave Big 12 Conference",
-   "nota_url": "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
-   "medio": "Big 12 Conference",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors",
-   "busquedas": "500+",
-   "nota": "4 Takeaways: Warriors open Group Play with historic comeback win",
-   "nota_url": "https://www.nba.com/news/4-takeaways-warriors-open-group-play-with-historic-comeback-win",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "puebla - pumas",
-   "busquedas": "200+",
-   "nota": "¡PUMAS RUGE ANTE PUEBLA! ¡GOLAZOS, FALLAS Y POLÉMICA DEL VAR EN UN PARTIDAZO!",
-   "nota_url": "https://www.tvazteca.com/aztecadeportes/puebla-vs-pumas-resumen-y-goles-highlights-j15-apertura-2026-liga-mx/",
-   "medio": "TV Azteca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "noche de brujas",
-   "busquedas": "20000+",
-   "nota": "De los rituales celtas al fenómeno local: cómo se resignificó Halloween y dos tutoriales express para tu noche de brujas",
-   "nota_url": "https://www.perfil.com/comercial/de-los-rituales-celtas-al-fenomeno-local-como-se-resignifico-halloween-y-dos-tutoriales-express-para-tu-noche-de-brujas-ak4G53r4bM37",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "isack hadjar",
-   "busquedas": "1000+",
-   "nota": "Laurent Mekies to face big questions about Max Verstappen's criticism of the team",
-   "nota_url": "https://www.gpblog.com/en/news/mekies-to-face-max-verstappen-strategy-questions-in-mexico-as-red-bull-keep-review-findings-private",
-   "medio": "GPblog",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima neuquen",
-   "busquedas": "500+",
-   "nota": "Viernes inestable en Río Negro y Neuquén: las máximas llegarán a los 29 grados",
-   "nota_url": "https://www.rionegro.com.ar/servicios/viernes-inestable-en-rio-negro-y-neuquen-las-maximas-llegaran-a-los-29-grados-4778319/",
-   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   }
