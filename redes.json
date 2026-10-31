@@ -1,97 +1,97 @@
 {
- "actualizado": "30/10 21:31",
+ "actualizado": "30/10 22:44",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "exportación",
+   "tema": "canelo",
    "busquedas": "100+",
-   "nota": "Exportaciones de carne vacuna: las cuotas llegaron para cambiar el ritmo del negocio exportador",
-   "nota_url": "https://www.bcr.com.ar/es/mercados/investigacion-y-desarrollo/informativo-semanal/noticias-informativo-semanal-116",
-   "medio": "Bolsa de Comercio de Rosario",
+   "nota": "Canelo Álvarez vs. Christian Mbilli: qué cinturón hay en juego y cuántos millones se lleva cada uno",
+   "nota_url": "https://www.ole.com.ar/boxeo/canelo-alvarez-vs-christian-mbilli-cinturon-juego-millones-llevan_0_eirFNe538T.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "coppola",
-   "busquedas": "100+",
-   "nota": "El rey de Arabia, dos casamientos y Diego Maradona: Juan Minujín en la piel de Guillermo Coppola otra vez",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/10/30/el-rey-de-arabia-dos-casamientos-y-diego-maradona-juan-minujin-en-la-piel-de-guillermo-coppola-otra-vez/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gelp",
+   "tema": "bucaramanga - pasto",
    "busquedas": "200+",
-   "nota": "\"Me genera algo que no me genera nadie\": Nacho Fernández y su admiración por Maradona",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17449342/me-genera-algo-que-no-me-genera-nadie-nacho-fernandez-y-su-admiracion-por-diego-maradona-gimnasia-y-esgrima-de-la-plata",
-   "medio": "ESPN Argentina",
+   "nota": "Bucaramanga en procura de retornar a la victoria",
+   "nota_url": "https://elfrente.com.co/bucaramanga-en-procura-de-retornar-a-la-victoria/",
+   "medio": "El Frente",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "wizards - hornets",
-   "busquedas": "100+",
-   "nota": "Hornets vs Wizards: Prediction, Team News and Brandon Miller",
-   "nota_url": "https://www.squawka.com/ca/news/nba/hornets-vs-wizards-prediction-team-news/",
-   "medio": "Squawka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "haití",
+   "tema": "warriors - lakers",
    "busquedas": "200+",
-   "nota": "“No es una invasión”: el presidente salvadoreño Nayib Bukele desplegó tropas y blindados en Haití en una inédita intervención militar",
-   "nota_url": "https://tn.com.ar/internacional/2026/10/29/no-es-una-invasion-el-presidente-salvadoreno-bukele-desplego-tropas-y-blindados-en-haiti-en-una-inedita-intervencion-militar/",
+   "nota": "Warriors injury report: Gui Santos upgraded prior to matchup vs. Lakers",
+   "nota_url": "https://www.aol.com/articles/warriors-injury-report-gui-santos-212722000.html",
+   "medio": "AOL.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "river messi cup",
+   "busquedas": "200+",
+   "nota": "\"Estamos como en una nube\": la emoción del padre de \"Pepo\" Fiorotto, el gualeyo que brilla en la Messi Cup",
+   "nota_url": "https://ahora.com.ar/ultimas-noticias/estamos-como-en-una-nube-la-emocion-del-padre-de-pepo-fiorotto-el-gualeyo-que-brilla-en-la-messi-cup",
+   "medio": "AHORA Entre Ríos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "futbol argentino hoy",
+   "busquedas": "100+",
+   "nota": "River Plate quiere repatriar al Dibu Martínez",
+   "nota_url": "https://www.fichajes.net/noticias/river-plate-quiere-repatriar-dibu-martinez-20261027.html",
+   "medio": "Fichajes.net",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sebastián ortega",
+   "busquedas": "500+",
+   "nota": "El primer posteo de Julieta Prandi tras la separación de Emanuel Ortega",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/10/30/el-primer-posteo-de-julieta-prandi-tras-la-separacion-de-emanuel-ortega/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "racing - aldosivi",
-   "busquedas": "20000+",
-   "nota": "Aldosivi juega otra final por la permanencia ante Racing: formaciones, hora y TV",
-   "nota_url": "https://www.lacapitalmdp.com/aldosivi-juega-otra-final-por-la-permanencia-ante-racing-formaciones-hora-y-tv/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sarmiento - rosario central",
-   "busquedas": "10000+",
-   "nota": "Al canaya solo le sirve ganar en Junín",
-   "nota_url": "https://www.pagina12.com.ar/2026/10/29/al-canaya-solo-le-sirve-ganar-en-junin/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolli irigoyen",
+   "tema": "temblor en catamarca",
    "busquedas": "200+",
-   "nota": "Dolli Irigoyen estalló contra un cronista que le preguntó por el rol de Maru Botana en MasterChef Celebrity: \"¿No hay noticias?\"",
-   "nota_url": "https://www.pronto.com.ar/television/2026/10/30/dolli-irigoyen-estallo-contra-un-cronista-que-le-pregunto-por-el-rol-de-maru-botana-en-masterchef-ce-265760.html",
-   "medio": "Pronto",
+   "nota": "Reportan un sismo en Catamarca",
+   "nota_url": "https://inforama.com.ar/actualidad/2026/10/30/reportan-un-sismo-en-catamarca/",
+   "medio": "Diario Inforama - Catamarca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "team liquid",
-   "busquedas": "100+",
-   "nota": "Liquid - TSpirit, October 30, 2026 - match stream, live broadcast - PARI Universe - Dota 2",
-   "nota_url": "https://escorenews.com/en/dota-2/pari-universe/playoff/liquid-vs-spirit-664939",
-   "medio": "escorenews.com",
+   "tema": "inpres",
+   "busquedas": "200+",
+   "nota": "El INPRES mantuvo al sur de San Juan en la zona de mayor peligro",
+   "nota_url": "https://www.diarioelzondasj.com.ar/locales/el-inpres-mantuvo-al-sur-de-san-juan-en-la-zona-de-mayor-peligro",
+   "medio": "El Zonda",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "76ers - knicks",
+   "tema": "guillermina valdés",
    "busquedas": "500+",
-   "nota": "Game Discussion Thread: Knicks at 76ers, October 30, 2026",
-   "nota_url": "https://www.postingandtoasting.com/knicks-game-threads/90736/game-discussion-thread-knicks-at-76ers-october-30-2026",
-   "medio": "Posting and Toasting",
+   "nota": "Presentación musical de Dante Ortega en Es mi sueño",
+   "nota_url": "https://www.infobae.com/video/teleshow/presentacion-musical-de-dante-ortega-en-es-mi-sueno/WpCI3Kn1/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mavericks - rockets",
+   "busquedas": "100+",
+   "nota": "Best Bets & Prop Picks for Rockets vs Mavs (Oct 30)",
+   "nota_url": "https://www.sportsbettingdime.com/news/nba/best-bets-prop-picks-for-rockets-vs-mavs-oct-30/",
+   "medio": "Sports Betting Dime",
    "relevante": false,
    "temas": []
   }
