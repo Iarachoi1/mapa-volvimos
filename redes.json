@@ -1,22 +1,40 @@
 {
- "actualizado": "31/10 00:31",
+ "actualizado": "31/10 01:30",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "puebla - pumas",
+   "busquedas": "200+",
+   "nota": "¿A qué hora y dónde ver a Keylor Navas contra Juan Pablo Vargas en el Pumas - Puebla de la Liga MX?",
+   "nota_url": "https://www.nacion.com/puro-deporte/a-que-hora-y-donde-ver-a-keylor-navas-contra-juan/V56UTEPBPNH3PK2VCVOEFWWQHM/story/",
+   "medio": "La Nación Costa Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "noche de brujas",
+   "busquedas": "10000+",
+   "nota": "Realizarán una masiva bicicletada por La Plata en la Noche de Brujas",
+   "nota_url": "https://www.0221.com.ar/realizaran-una-masiva-bicicletada-la-plata-la-noche-brujas-n136576",
+   "medio": "0221",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "isack hadjar",
-   "busquedas": "100+",
-   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
-   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
-   "medio": "Carburando",
+   "busquedas": "200+",
+   "nota": "Video: la fuerte reacción de Isack Hadjar con un fanático que le pidió una selfie en México",
+   "nota_url": "https://www.mdzol.com/deportes/2026/10/30/video-la-fuerte-reaccion-de-isack-hadjar-con-un-fanatico-que-le-pidio-una-selfie-en-mexico-1992107.html",
+   "medio": "MDZ Online",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima neuquen",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Viernes inestable en Río Negro y Neuquén: las máximas llegarán a los 29 grados",
    "nota_url": "https://www.rionegro.com.ar/servicios/viernes-inestable-en-rio-negro-y-neuquen-las-maximas-llegaran-a-los-29-grados-4778319/",
    "medio": "Diario Río Negro",
@@ -43,10 +61,10 @@
   },
   {
    "tema": "suns - nuggets",
-   "busquedas": "200+",
-   "nota": "Nuggets vs. Suns: Prediction, How to Watch for Free (10/30/26)",
-   "nota_url": "https://globelynews.com/americas/nuggets-vs-suns-prediction-how-to-watch-for-free-10-30-26/",
-   "medio": "Globely News",
+   "busquedas": "500+",
+   "nota": "Suns' Dillon Brooks ejected from NBA Cup game against Nuggets",
+   "nota_url": "https://www.azcentral.com/story/sports/nba/suns/2026/10/30/dillon-brooks-hit-with-flagrant-2-after-kick-in-suns-nuggets-game/92528760007/",
+   "medio": "azcentral.com and The Arizona Republic",
    "relevante": false,
    "temas": []
   },
@@ -62,9 +80,9 @@
   {
    "tema": "san luis - atlas",
    "busquedas": "200+",
-   "nota": "Atl. de San Luis vs. Atlas, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/mexico/liga-mx/atl-de-san-luis-vs-atlas-en-vivo-donde-ver-por-tv-y-online-id769353.html",
-   "medio": "TyC Sports",
+   "nota": "Atlas sube al segundo lugar del Apertura al vencer a San Luis con gol del argentino Monzón",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/10/31/atlas-sube-al-segundo-lugar-del-apertura-al-vencer-a-san-luis-con-gol-del-argentino-monzon/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -74,24 +92,6 @@
    "nota": "\"La precuela de 'Viernes 13'\": La serie en HBO Max que aspiraba a ser el plan perfecto para Halloween, pero prefiere desvelar misterios que disfrutar del mito de Jason",
    "nota_url": "https://www.fotogramas.es/series-tv-noticias/a74282904/crystal-lake-serie-hbo-critica-opinion-viernes-13/",
    "medio": "Fotogramas ES",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canelo",
-   "busquedas": "500+",
-   "nota": "Un juez de Comodoro Py será jurado de la pelea de Canelo Álvarez ante Mbilli en Arabia Saudita",
-   "nota_url": "https://tn.com.ar/deportes/boxeo/2026/10/30/un-juez-de-comodoro-py-sera-jurado-de-la-pelea-de-canelo-alvarez-ante-mbilli-en-arabia-saudita/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pipino cuevas",
-   "busquedas": "200+",
-   "nota": "Pipino Cuevas se animó a Es mi sueño, la rompió y recibió los elogios de Abel Pintos: “Muy profesional”",
-   "nota_url": "https://la100.cienradios.com/espectaculos/pipino-cuevas-se-animo-a-es-mi-sueno-la-rompio-y-recibio-los-elogios-de-abel-pintos-muy-profesional/",
-   "medio": "La 100",
    "relevante": false,
    "temas": []
   }
