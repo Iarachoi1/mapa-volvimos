@@ -1,10 +1,28 @@
 {
- "actualizado": "31/10 06:28",
+ "actualizado": "31/10 07:23",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "guillermo coppola",
+   "busquedas": "200+",
+   "nota": "Un colectivero tuvo una sorpresa en el día de su cumpleaños | Guillermo Coppola subió a su unidad",
+   "nota_url": "https://nuevodiarioweb.com.ar/especiales/info-santiago-estero-un-colectivero-tuvo-una-sorpresa-en-el-dia-de-su-cumpleanos-guillermo-coppola-subio-a-su-unidad.htm",
+   "medio": "Nuevo Diario Web",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "breaking bad",
+   "busquedas": "100+",
+   "nota": "Snapmaker Brings Creativity, Cosplay and Hands-On Support to L.A. Comic Con 2026",
+   "nota_url": "https://www.prweb.com/releases/snapmaker-brings-creativity-cosplay-and-hands-on-support-to-la-comic-con-2026-302919065.html",
+   "medio": "PRWeb",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "clima puerto madryn",
    "busquedas": "100+",
@@ -17,27 +35,27 @@
   {
    "tema": "sports",
    "busquedas": "200+",
-   "nota": "Celtic Boss Makes Brutally Honest Jota Admission",
-   "nota_url": "https://sports.yahoo.com/articles/celtic-boss-makes-brutally-honest-080301912.html",
-   "medio": "Yahoo Sports",
+   "nota": "Commissioner Brett Yormark to Leave Big 12 Conference",
+   "nota_url": "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
+   "medio": "Big 12 Conference",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "stephen curry",
-   "busquedas": "100+",
-   "nota": "Steph Curry passes Hall-of-Famer to move up NBA all-time scoring list",
-   "nota_url": "https://sports.yahoo.com/articles/steph-curry-passes-hall-famer-052450339.html",
-   "medio": "Yahoo Sports",
+   "tema": "nba",
+   "busquedas": "500+",
+   "nota": "Steph drops Luka with ankle-breaking crossover before hitting a 3",
+   "nota_url": "https://www.espn.com/video/clip/_/id/50333162/steph-drops-luka-ankle-breaking-crossover-hitting-3",
+   "medio": "ESPN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "warriors",
-   "busquedas": "200+",
-   "nota": "Warriors predicted to trade for Thunder's 7-foot-1 NBA champion to replace Kristaps Porzingis",
-   "nota_url": "https://sports.yahoo.com/articles/warriors-predicted-trade-thunders-7-064159027.html",
-   "medio": "Yahoo Sports",
+   "busquedas": "500+",
+   "nota": "Luka Dončić scores game-high 37 points vs. GSW",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/luka-doncic-scores-game-high-37-points-vs-gsw",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
@@ -53,18 +71,18 @@
   {
    "tema": "noche de brujas",
    "busquedas": "20000+",
-   "nota": "De los rituales celtas al fenómeno local: cómo se resignificó Halloween y dos tutoriales express para tu noche de brujas",
-   "nota_url": "https://www.perfil.com/comercial/de-los-rituales-celtas-al-fenomeno-local-como-se-resignifico-halloween-y-dos-tutoriales-express-para-tu-noche-de-brujas-ak4G53r4bM37",
-   "medio": "Perfil",
+   "nota": "“Trick or treat”: por qué se celebra Halloween hoy en Estados Unidos y qué significa la tradición de dulce o truco",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/trick-or-treat-por-que-se-celebra-halloween-hoy-en-estados-unidos-y-que-significa-la-tradicion-de-nid31102026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "isack hadjar",
    "busquedas": "500+",
-   "nota": "Visibly Annoyed Isack Hadjar Shoves Fan Seeking Selfie in Mexico City Paddock",
-   "nota_url": "https://sports.yahoo.com/articles/visibly-annoyed-isack-hadjar-shoves-084311967.html",
-   "medio": "Yahoo Sports",
+   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
+   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
@@ -74,24 +92,6 @@
    "nota": "Viernes inestable en Río Negro y Neuquén: las máximas llegarán a los 29 grados",
    "nota_url": "https://www.rionegro.com.ar/servicios/viernes-inestable-en-rio-negro-y-neuquen-las-maximas-llegaran-a-los-29-grados-4778319/",
    "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "matias ale",
-   "busquedas": "200+",
-   "nota": "El crudo relato de Matías Alé sobre su internación psiquiátrica, el abandono y la lucha por volver a empezar: \"Me saqué yo\"",
-   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/10/30/el-crudo-relato-de-matias-ale-sobre-su-internacion-psiquiatrica-el-abandono-y-la-lucha-por-volver-a-265736.html",
-   "medio": "Pronto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de racing club contra aldosivi",
-   "busquedas": "100000+",
-   "nota": "Aldosivi perdió y se consumó su descenso a la Primera Nacional",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17455455/aldosivi-perdio-y-se-consumo-su-descenso-a-la-primera-nacional",
-   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
