@@ -1,7 +1,7 @@
 {
  "semana": "31 de octubre de 2026",
  "fecha": "2026-10-31",
- "actualizado": "31/10 06:28",
+ "actualizado": "31/10 11:27",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -24,15 +24,51 @@
      "url": "https://www.infobae.com/politica/2026/10/31/el-pj-rumbo-al-2027-la-reunion-de-un-sector-con-intendentes-la-fecha-clave-de-unac-y-una-interna-en-suspenso/"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Discusión 2027 Tetaz quiere ser candidato en la Ciudad en un frente que pueda disputar un balotaje contra LLA Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "31/10/2026",
+     "url": "https://www.letrap.com.ar/politica/martin-tetaz-quiere-ser-candidato-la-ciudad-un-frente-que-pueda-disputar-un-balotaje-contra-lla-n5427706"
+    }
+   ]
   },
   "Buenos Aires": {
    "top3": [
+    {
+     "titulo": "Interna peronista Axel Kicillof reunió a intendentes y se mostró dispuesto a competir en las PASO contra Cristina Kirchner y Sergio Massa",
+     "medio": "Perfil",
+     "fecha": "31/10/2026",
+     "url": "https://www.perfil.com/politica/axel-kicillof-reunio-a-intendentes-y-se-mostro-dispuesto-a-competir-en-las-paso-contra-cristina-kirchner-y-sergio-massa-aTguu4J5mZLF"
+    },
     {
      "titulo": "Proyecto en marcha Kicillof tuvo un encuentro con el gobernador radical Carlos Sadir en Jujuy",
      "medio": "Perfil",
      "fecha": "31/10/2026",
      "url": "https://www.perfil.com/politica/kicillof-tuvo-un-encuentro-con-el-gobernador-radical-carlos-sadir-en-jujuy-axd9U3K5Iqdk"
+    },
+    {
+     "titulo": "Tras reclamar una PASO, Axel Kicillof convocó al PJ bonaerense y reabre la disputa con Máximo Kirchner",
+     "medio": "Infobae",
+     "fecha": "31/10/2026",
+     "url": "https://www.infobae.com/politica/2026/10/31/tras-reclamar-una-paso-axel-kicillof-convoco-al-pj-bonaerense-y-reabre-la-disputa-con-maximo-kirchner/"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Protesta “Caputo vendepatria”: la durísima crítica contra el ministro de Economía en su country",
+     "medio": "El Ancasti",
+     "fecha": "31/10/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/caputo-vendepatria-la-durisima-critica-contra-el-ministro-economia-su-country-n625082"
+    },
+    {
+     "titulo": "Indignación El crimen de Nancy Godoy expuso la desvalorización docente: los salarios perdieron casi 5 millones de pesos de poder adquisitivo",
+     "medio": "El Ancasti",
+     "fecha": "31/10/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-crimen-nancy-godoy-expuso-la-desvalorizacion-docente-los-salarios-perdieron-casi-5-millones-pesos-poder-adquisitivo-n625086"
     }
    ],
    "imagen": []
@@ -40,16 +76,70 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Milei volvió a atacar al periodismo: “Seres cargados de maldad”",
+     "titulo": "Milei vuelve a Neuquén por tercera vez para inaugurar un templo con capacidad para más de 4.000 personas",
      "medio": "ADN Sur",
      "fecha": "31/10/2026",
-     "url": "https://www.adnsur.com.ar/politica/milei-volvio-a-atacar-al-periodismo---seres-cargados-de-maldad-_a6ae53f3b778e6b1c12ddad2a"
+     "url": "https://www.adnsur.com.ar/politica/milei-vuelve-a-neuquen-por-tercera-vez-para-inaugurar-un-templo-con-capacidad-para-mas-de-4-000-personas_a6ae5f031778e6b1c12ec3298"
     },
     {
-     "titulo": "Sampaoli planteó alternativas para los 72 trabajadores de Patagonia Argentina en Comodoro",
-     "medio": "ADN Sur",
+     "titulo": "Otro papelón de Milei: confundió al mito griego Odiseo con \"Eliseo\"",
+     "medio": "Diario Jornada",
      "fecha": "31/10/2026",
-     "url": "https://www.adnsur.com.ar/politica/sampaoli-planteo-alternativas-para-los-72-trabajadores-de-patagonia-argentina-en-comodoro_a6ae52ee4778e6b1c12dbf5f4"
+     "url": "https://www.diariojornada.com.ar/426239/politica/otro_papelon_de_milei_confundio_al_mito_griego_odiseo_con_eliseo"
+    },
+    {
+     "titulo": "\"Perdí frente al sistema\": el mensaje de Flavio Bolsonaro",
+     "medio": "Diario Jornada",
+     "fecha": "31/10/2026",
+     "url": "https://www.diariojornada.com.ar/426240/politica/perdi_frente_al_sistema_el_mensaje_de_flavio_bolsonaro"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Elecciones 2027. Kicillof criticó a Milei y llamó a construir una alternativa electoral: \"Nadie se salva solo\"",
+     "medio": "Cadena3",
+     "fecha": "31/10/2026",
+     "url": "https://www.cadena3.com/noticia/panorama-federal/kicillof-critico-a-milei-y-llamo-a-construir-una-alternativa-electoral-nadie-se-salva-solo_608902"
+    },
+    {
+     "titulo": "Elecciones EE.UU. Trump se juega \"el principio del fin\" pero un ex FMI dice: \"El apoyo a Milei va a seguir\"",
+     "medio": "Cadena3",
+     "fecha": "31/10/2026",
+     "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/trump-se-juega-el-principio-del-fin-pero-un-ex-fmi-dice-el-apoyo-a-milei-va-a-seguir_608926"
+    },
+    {
+     "titulo": "Ante 2.200 adultos mayores, Llaryora rechazó “la cultura del descarte”",
+     "medio": "Hoy Dia",
+     "fecha": "31/10/2026",
+     "url": "https://hoydia.com.ar/politica/cordoba/ante-2-200-adultos-mayores-llaryora-rechazo-la-cultura-del-descarte/"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "TEMPORADA DE ROSCA Renoldi avisó que quiere competir por la sucesión de Romero abrió otra grieta más en la UCR de Paraná. Por Exequiel Flesler",
+     "medio": "Letra P",
+     "fecha": "31/10/2026",
+     "url": "https://www.letrap.com.ar/politica/parana-renoldi-aviso-que-quiere-competir-la-sucesion-romero-y-abrio-otra-grieta-mas-la-ucr-n5427853"
+    },
+    {
+     "titulo": "Entre Ríos se encuentra sin alerta meteorológico",
+     "medio": "AFP Digital",
+     "fecha": "31/10/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/10/31/477195-entre-rios-se-encuentra-sin-alerta-meteorologico",
+     "tag": "También en Ahora, El Once"
+    },
+    {
+     "titulo": "Comienza el pago de haberes para la administración pública entrerriana: cronograma",
+     "medio": "El Once",
+     "fecha": "31/10/2026",
+     "url": "https://www.elonce.com/economia/comienza-el-cronograma-de-pagos-para-la-administracion-entrerriana.htm",
+     "tag": "También en Ahora"
     }
    ],
    "imagen": []
@@ -63,16 +153,16 @@
      "url": "https://www.perfil.com/politica/kicillof-tuvo-un-encuentro-con-el-gobernador-radical-carlos-sadir-en-jujuy-axd9U3K5Iqdk"
     },
     {
+     "titulo": "Rubén Rivarola: \"Voy a ser de vuelta el presidente del Partido Justicialista de Jujuy\"",
+     "medio": "Todo Jujuy",
+     "fecha": "31/10/2026",
+     "url": "https://www.todojujuy.com/politica/ruben-rivarola-voy-ser-vuelta-el-presidente-del-partido-justicialista-jujuy-n298218"
+    },
+    {
      "titulo": "Axel Kicillof en Jujuy: \"Lo que estamos viviendo con Milei se vuelve insoportable, pero está engendrando una fuerza muy grande\"",
      "medio": "Somos Jujuy",
      "fecha": "31/10/2026",
      "url": "https://www.somosjujuy.com.ar/politica/axel-kicillof-jujuy-lo-estamos-viviendo-milei-vuelve-insoportable-pero-esta-engendrando-una-fuerza-muy-grande-n126411"
-    },
-    {
-     "titulo": "Construir para vender ya no cierra: por qué podrían subir los precios de los departamentos en 2027",
-     "medio": "Jujuy al día",
-     "fecha": "31/10/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/10/31/construir-para-vender-ya-no-cierra-por-que-podrian-subir-los-precios-de-los-departamentos-en-2027/"
     }
    ],
    "imagen": []
@@ -80,11 +170,25 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Realicó: el gobernador Ziliotto entregó 25 viviendas y anunció otras 20 más",
-     "medio": "La Pampa 24",
+     "titulo": "Todo listo para la inauguración de la segunda etapa del Parque Lineal en Santa Rosa",
+     "medio": "El Diario de La Pampa",
      "fecha": "31/10/2026",
-     "url": "https://lapampa24.com.ar/la-pampa-hoy/realico-el-gobernador-ziliotto-entrego-25-viviendas-y-anuncio-otras-20-mas/",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82454/todo-listo-para-la-inauguracion-de-la-segunda-etapa-del-parque-lineal-en-santa-rosa",
+     "tag": "También en La Pampa 24, La Arena"
+    },
+    {
+     "titulo": "General Pico: dos policías le salvaron la vida a un bebé que se ahogaba con la comida",
+     "medio": "El Diario de La Pampa",
+     "fecha": "31/10/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82462/general-pico--dos-policias-le-salvaron-la-vida-a-un-bebe-de-ocho-meses-que-se-ahogaba-con-la-comida",
      "tag": "También en La Arena"
+    },
+    {
+     "titulo": "El riesgo país subió 30 % en octubre y roza los 800 puntos",
+     "medio": "La Arena",
+     "fecha": "31/10/2026",
+     "url": "https://www.laarena.com.ar/el-pais/el-riesgo-pais-subio-30-en-octubre-y-roza-los-800-puntos-20261031040",
+     "tag": "También en La Pampa 24"
     }
    ],
    "imagen": []
@@ -92,16 +196,22 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Mendoza abrió las puertas al mundo de Quino con un espacio para descubrir su obra y su legado",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "31/10/2026",
-     "url": "https://prensa.mendoza.gob.ar/mendoza-abrio-las-puertas-al-mundo-de-quino-con-un-espacio-para-descubrir-su-obra-y-su-legado/"
-    },
-    {
-     "titulo": "Lulazo, el escapista y el avión que doblaba para los dos lados",
+     "titulo": "La UCR recordó el triunfo de Alfonsín y convocó al congreso provincial",
      "medio": "Mendoza Post",
      "fecha": "31/10/2026",
-     "url": "https://www.mendozapost.com/politica/huida-bolsonaro-estados-unidos-avion-argentina-escape-viaje-lula-cuba-covid-pandemia-coincidencia-gulfstream-g400/"
+     "url": "https://www.mendozapost.com/politica/la-ucr-convoco-a-su-congreso-provincial-para-el-12-de-diciembre/"
+    },
+    {
+     "titulo": "Milei vuelve a España en la víspera de la llegada de León XIV",
+     "medio": "Mendoza Post",
+     "fecha": "31/10/2026",
+     "url": "https://www.mendozapost.com/politica/agenda-politica-en-la-vispera-de-la-llegada-de-leon-xiv/"
+    },
+    {
+     "titulo": "Mendoza incorporará una nueva tecnicatura superior en senderismo y turismo de naturaleza",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "31/10/2026",
+     "url": "https://prensa.mendoza.gob.ar/mendoza-incorporara-una-nueva-tecnicatura-superior-en-senderismo-y-turismo-de-naturaleza/"
     }
    ],
    "imagen": []
@@ -109,10 +219,10 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "La Legislatura reclamó a Nación que libere fondos para los tabacaleros de Misiones",
-     "medio": "Primera Edición",
+     "titulo": "REVUELTO VIOLETA El presupuesto de Posadas expuso la interna de La Libertad Avanza en Misiones Por Letra P | Periodismo Político",
+     "medio": "Letra P",
      "fecha": "31/10/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101156275/la-legislatura-reclamo-a-nacion-que-libere-fondos-para-los-tabacaleros-de-misiones/"
+     "url": "https://www.letrap.com.ar/el-presupuesto-posadas-expuso-la-interna-la-libertad-avanza-misiones-n5427850"
     },
     {
      "titulo": "Concejales opositores de Concepción de la Sierra apoyarán a Passalacqua y se pasaron a MV",
@@ -121,10 +231,10 @@
      "url": "https://planbmisiones.com/2026/10/30/nota/concejales-opositores-de-concepcion-de-la-sierra-apoyaran-a-passalacqua-y-se-pasaron-a-mv/"
     },
     {
-     "titulo": "Hoy es el Día de la Reforma Protestante en Misiones",
+     "titulo": "El 51% de las escuelas de Misiones son rurales, pero concentran solo al 26% de los docentes",
      "medio": "Primera Edición",
      "fecha": "31/10/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101054791/hoy-es-el-dia-de-la-reforma-protestante-en-misiones/"
+     "url": "https://www.primeraedicion.com.ar/nota/101156307/escuelas-rurales-misiones-docentes-alumnos-caminos/"
     }
    ],
    "imagen": []
@@ -135,13 +245,20 @@
      "titulo": "Milei visita Neuquén para inaugurar una iglesia evangélica: tensiones internas y señales de cara a las elecciones 2027",
      "medio": "Infobae",
      "fecha": "31/10/2026",
-     "url": "https://www.infobae.com/politica/2026/10/31/milei-visita-neuquen-para-inaugurar-una-iglesia-evangelica-tensiones-internas-y-senales-de-cara-a-las-elecciones-2027/"
+     "url": "https://www.infobae.com/politica/2026/10/31/milei-visita-neuquen-para-inaugurar-una-iglesia-evangelica-tensiones-internas-y-senales-de-cara-a-las-elecciones-2027/",
+     "tag": "También en El Destape"
     },
     {
      "titulo": "Respaldo a la senadora Nadia Márquez, una semana antes de la visita del Papa Milei llega a Neuquén con un guiño evangélico",
      "medio": "Perfil",
      "fecha": "31/10/2026",
      "url": "https://www.perfil.com/politica/milei-llega-a-neuquen-con-un-guino-evangelico-aRWpL3K8O5h2"
+    },
+    {
+     "titulo": "Gestión de cercanía El Registro Civil Móvil informa su cronograma para la primera quincena de noviembre",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "31/10/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/31/266457-el-registro-civil-movil-informa-su-cronograma-para-la-primera-quincena-de-noviembre"
     }
    ],
    "imagen": []
@@ -149,29 +266,42 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Río Negro licita vuelos privados por un año para el gobernador",
+     "titulo": "Javier Milei llega a Neuquén: inaugurará un auditorio evangélico y mantendrá reuniones políticas clave de cara a 2027",
      "medio": "Diario Rio Negro",
      "fecha": "31/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/rio-negro-licita-vuelos-privados-por-un-ano-para-el-gobernador/"
+     "url": "https://www.rionegro.com.ar/politica/javier-milei-llega-a-neuquen-inaugurara-un-auditorio-evangelico-y-mantendra-reuniones-politicas-clave-de-cara-a-2027-4779529/"
     },
     {
-     "titulo": "Neuquén destinará el 22% del presupuesto a personal y proyecta un ahorro del 46%",
-     "medio": "Diario Rio Negro",
-     "fecha": "31/10/2026",
-     "url": "https://www.rionegro.com.ar/politica/neuquen-destinara-el-22-del-presupuesto-a-personal-y-proyecta-un-ahorro-del-46/"
-    },
-    {
-     "titulo": "DIPLOMACIA Tras su enfrentamiento con Pedro Sánchez, Milei volverá a España",
+     "titulo": "Río Negro pagó los sueldos de octubre a todos los estatales",
      "medio": "AN Roca",
      "fecha": "31/10/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/10/31/230322-tras-su-enfrentamiento-con-pedro-sanchez-milei-volvera-a-espana",
-     "tag": "También en Noticias Net"
+     "url": "https://www.anroca.com.ar/noticias/2026/10/31/230349-rio-negro-pago-los-sueldos-de-octubre-a-todos-los-estatales",
+     "tag": "También en LCR, Noticias Net"
+    },
+    {
+     "titulo": "El intendente Castro anticipó definiciones electorales y repasó las obras que avanzan en Viedma",
+     "medio": "Noticias Net",
+     "fecha": "31/10/2026",
+     "url": "https://www.noticiasnet.com.ar/noticias/2026/10/31/232113-el-intendente-castro-anticipo-definiciones-electorales-y-repaso-las-obras-que-avanzan-en-viedma"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Mejores imágenes y diagnósticos precisos: así operan los nuevos equipos de endoscopía en Viedma",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "31/10/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62528/mejores-imagenes-y-diagnosticos-precisos-asi-operan-los-nuevos-equipos-de-endoscopia-en-viedma"
+    }
+   ]
   },
   "Salta": {
    "top3": [
+    {
+     "titulo": "La UCR de Salta postergó sus elecciones internas ¿Cuándo se votará y quiénes compiten?",
+     "medio": "Informate Salta",
+     "fecha": "31/10/2026",
+     "url": "https://informatesalta.com.ar/politica/la-ucr-de-salta-postergo-sus-elecciones-internas--cuando-se-votara-y-quienes-compiten-_a6ae4bd2b052cad7d01964d5a"
+    },
     {
      "titulo": "Presupuesto 2027: intendentes plantean una pulseada por los fondos",
      "medio": "Nuevo Diario de Salta",
@@ -183,12 +313,6 @@
      "medio": "El Tribuno",
      "fecha": "31/10/2026",
      "url": "https://www.eltribuno.com/salta/2026-10-31-0-0-0-capital-y-guemes-plantearon-sus-pedidos-para-el-presupuesto-2027"
-    },
-    {
-     "titulo": "María Edith Rodríguez asumió como fiscal ante la Corte de Salta",
-     "medio": "El Tribuno",
-     "fecha": "31/10/2026",
-     "url": "https://www.eltribuno.com/salta/2026-10-31-0-0-0-maria-edith-rodriguez-asumio-como-fiscal-ante-la-corte-de-salta"
     }
    ],
    "imagen": []
@@ -196,22 +320,63 @@
   "San Juan": {
    "top3": [
     {
+     "titulo": "La Libertad Avanza inauguró su sede en Zonda y sigue ampliando su presencia territorial en San Juan",
+     "medio": "Tiempo de San Juan",
+     "fecha": "31/10/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/la-libertad-avanza-inauguro-su-sede-en-zonda-y-sigue-ampliando-su-presencia-territorial-en-san-juan_1793448845",
+     "tag": "También en 0264 Noticias, Huarpe"
+    },
+    {
      "titulo": "Diputados: la oposición exige la presencia de funcionarios nacionales por ayudar a huir Flávio Bolsonaro",
      "medio": "Tiempo de San Juan",
      "fecha": "31/10/2026",
      "url": "https://www.tiempodesanjuan.com/politica/diputados-la-oposicion-exige-la-presencia-de-funcionarios-nacionales-por-ayudar-a-huir-flavio-bolsonaro_1793403133"
     },
     {
-     "titulo": "El Senado dio media sanción a la reforma de la Ley de Salud Mental, que facilita las internaciones voluntarias",
-     "medio": "Tiempo de San Juan",
+     "titulo": "10:16 La Libertad Avanza abrió una sede en Zonda y amplía su estructura en los departamentos de San Juan",
+     "medio": "Diario de Cuyo",
      "fecha": "31/10/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/el-senado-dio-media-sancion-a-la-reforma-de-la-ley-de-salud-mental-que-facilita-las-internaciones-voluntarias_1793398009"
+     "url": "https://www.diariodecuyo.com.ar/politica/la-libertad-avanza-abrio-una-sede-zonda-y-amplia-su-estructura-los-departamentos-san-juan-n6587323"
+    }
+   ],
+   "imagen": []
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Pastores evangélicos de toda la provincia celebraron su día junto al Gobernador",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "31/10/2026",
+     "url": "https://agenciasanluis.com/2026/10/31/1226973-pastores-evangelicos-de-toda-la-provincia-celebraron-su-dia-junto-al-gobernador/"
     },
     {
-     "titulo": "Milei criticó a periodistas y anunció un libro para noviembre",
-     "medio": "El Zonda",
+     "titulo": "La ULP impulsa una formación para responder al nuevo panorama laboral del turismo",
+     "medio": "Prensa oficial de San Luis",
      "fecha": "31/10/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/milei-critico-a-periodistas-y-anuncio-un-libro-para-noviembre"
+     "url": "https://agenciasanluis.com/2026/10/31/1226315-la-ulp-impulsa-una-formacion-para-responder-al-nuevo-panorama-laboral-del-turismo/"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Edicto: Sindicato de Docentes de la Universidad Nacional de la Patagonia Austral – Convocatoria a elecciones",
+     "medio": "La Opinión Austral",
+     "fecha": "31/10/2026",
+     "url": "https://laopinionaustral.com.ar/sociedad/edicto-sindicato-de-docentes-de-la-universidad-nacional-de-la-patagonia-austral-convocatoria-a-elecciones-725892.html"
+    },
+    {
+     "titulo": "Nación El Gobierno palpita la llegada del papa León XIV y ultima detalles de la agenda",
+     "medio": "Tiempo Sur",
+     "fecha": "31/10/2026",
+     "url": "https://www.tiemposur.com.ar/politica/el-gobierno-palpita-la-llegada-del-papa-leon-xiv-y-ultima-detalles-de-la-agenda"
+    },
+    {
+     "titulo": "Presentan y despliegan la plataforma Historia de Salud Integrada en la provincia",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "31/10/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/salud/presentan-y-despliegan-la-plataforma-historia-de-salud-integrada-en-la-provincia"
     }
    ],
    "imagen": []
@@ -219,10 +384,23 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Nicolás Goitea y Oscar Salomón: los dos candidatos a ocupar un lugar en la zaga central de Newell's",
-     "medio": "La Capital",
+     "titulo": "TEMPORADA DE ROSCA Cavatorta levanta la mano en Rosario y el massismo lo anota para jugar en 2027 Por Álvaro Maté",
+     "medio": "Letra P",
      "fecha": "31/10/2026",
-     "url": "https://www.lacapital.com.ar/ovacion/nicolas-goitea-y-oscar-salomon-los-dos-candidatos-ocupar-un-lugar-la-zaga-central-newells-n10289691.html"
+     "url": "https://www.letrap.com.ar/politica/cavatorta-levanta-la-mano-rosario-y-el-massismo-lo-anota-jugar-2027-n5427833"
+    },
+    {
+     "titulo": "El PRO de San Francisco propone un muro para frenar la ola de inseguridad y apunta contra Santa Fe Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "31/10/2026",
+     "url": "https://www.letrap.com.ar/politica/el-pro-san-francisco-propone-un-muro-frenar-la-ola-inseguridad-y-apunta-contra-santa-fe-n5427861"
+    },
+    {
+     "titulo": "En el Km 7 Autopista Rosario-Santa Fe: instalaron una balanza que pesa y multa el sobrepeso de los camiones, sin detenerlos",
+     "medio": "Aire",
+     "fecha": "31/10/2026",
+     "url": "https://www.airedesantafe.com.ar/santa-fe/para-cuidar-la-autopista-rosario-santa-fe-provincia-instalo-una-balanza-que-pesa-y-multa-el-sobrepeso-los-camiones-detenerlos-n675154",
+     "tag": "También en Rosario3"
     }
    ],
    "imagen": []
@@ -230,23 +408,35 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Llamil Abdala jura hoy como intendente y también los 12 ediles",
+     "titulo": "Interna en LLA: Patricia Bullrich le bajó el tono a los dichos de Martín Menem sobre la candidatura de Milei",
      "medio": "El Liberal",
      "fecha": "31/10/2026",
-     "url": "https://www.elliberal.com.ar/nota/96516/2026/10/llamil-abdala-jura-hoy-como-intendente-y-tambien-los-12-ediles"
+     "url": "https://www.elliberal.com.ar/nota/96530/2026/10/interna-en-lla--patricia-bullrich-le-bajo-el-tono-a-los-dichos-de-martin-menem-sobre-la-candidatura-de-javier-milei"
     },
     {
-     "titulo": "El Ing. Mario Benavente asumirá hoy la intendencia de la ciudad Capital por los próximos cuatro años",
-     "medio": "El Liberal",
-     "fecha": "31/10/2026",
-     "url": "https://www.elliberal.com.ar/nota/96514/2026/10/el-ing-mario-benavente-asumira-hoy-la-intendencia-de-la-ciudad-capital-por-los-proximos-cuatro-anos"
-    },
-    {
-     "titulo": "Colapinto se mostró optimista tras las prácticas en México: \"Hay mucho por mejorar\"",
+     "titulo": "Mario Benavente asumió como intendente de la Capital: los principales ejes de su gestión",
      "medio": "Diario Panorama",
      "fecha": "31/10/2026",
-     "url": "https://www.diariopanorama.com/noticia/571350/colapinto-se-mostro-optimista-tras-practicas-mexico-hay-mucho-mejorar",
+     "url": "https://www.diariopanorama.com/noticia/571409/mario-benavente-asumio-como-intendente-capital-principales-ejes-gestion",
+     "tag": "También en Info del Estero, El Liberal"
+    },
+    {
+     "titulo": "Con un acto en el Cine Teatro Renzi, Llamil Abdala jura como intendente de La Banda",
+     "medio": "Diario Panorama",
+     "fecha": "31/10/2026",
+     "url": "https://www.diariopanorama.com/noticia/571375/con-acto-cine-teatro-renzi-llamil-abdala-jura-como-intendente-banda",
      "tag": "También en El Liberal"
+    }
+   ],
+   "imagen": []
+  },
+  "Tierra del Fuego": {
+   "top3": [
+    {
+     "titulo": "no hay plata Tierra del Fuego: la ley para el fondo educativo de Melella sigue empantanada y el lunes puede ser el Día D Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "31/10/2026",
+     "url": "https://www.letrap.com.ar/politica/tierra-del-fuego-la-ley-el-fondo-educativo-melella-sigue-empantanada-y-el-lunes-puede-ser-el-dia-d-n5427837"
     }
    ],
    "imagen": []
@@ -261,16 +451,16 @@
      "tag": "También en LV12"
     },
     {
+     "titulo": "Campaña del limón 2026-2027: cómo están los lotes en Tucumán",
+     "medio": "LV12",
+     "fecha": "31/10/2026",
+     "url": "https://www.lv12.com.ar/campana/campana-del-limon-2026-2027-como-estan-los-lotes-tucuman-n205933"
+    },
+    {
      "titulo": "Jaldo, Catalán y Campero: cómo se mueve el tablero y los mensajes rumbo a 2027",
      "medio": "La Gaceta - Tucumán",
      "fecha": "31/10/2026",
      "url": "https://www.lagaceta.com.ar/nota/1160398/opinion/jaldo-catalan-campero-como-se-mueve-tablero-mensajes-rumbo-2027.html"
-    },
-    {
-     "titulo": "Coparticipación: Tucumán registró una baja de 0,2% en octubre",
-     "medio": "Los Primeros",
-     "fecha": "31/10/2026",
-     "url": "https://www.losprimeros.tv/economia/coparticipacion--tucuman-registro-una-baja-de-0-2--en-octubre_a6ae5a79109dee0a0b9aba706"
     }
    ],
    "imagen": []
