@@ -1,5 +1,5 @@
 {
- "actualizado": "31/10 05:31",
+ "actualizado": "31/10 06:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -17,15 +17,24 @@
   {
    "tema": "sports",
    "busquedas": "200+",
-   "nota": "Dystany Spurlock joins Alpha Prime Racing for 2027 ARCA Menards Series season",
-   "nota_url": "https://www.arcaracing.com/2026/10/28/dystany-spurlock-alpha-prime-racing-2027-arca/",
-   "medio": "arcaracing.com",
-   "relevante": true,
+   "nota": "Celtic Boss Makes Brutally Honest Jota Admission",
+   "nota_url": "https://sports.yahoo.com/articles/celtic-boss-makes-brutally-honest-080301912.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "nba",
-   "busquedas": "500+",
+   "tema": "stephen curry",
+   "busquedas": "100+",
+   "nota": "Steph Curry passes Hall-of-Famer to move up NBA all-time scoring list",
+   "nota_url": "https://sports.yahoo.com/articles/steph-curry-passes-hall-famer-052450339.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "warriors",
+   "busquedas": "200+",
    "nota": "Warriors predicted to trade for Thunder's 7-foot-1 NBA champion to replace Kristaps Porzingis",
    "nota_url": "https://sports.yahoo.com/articles/warriors-predicted-trade-thunders-7-064159027.html",
    "medio": "Yahoo Sports",
@@ -33,20 +42,11 @@
    "temas": []
   },
   {
-   "tema": "warriors",
-   "busquedas": "500+",
-   "nota": "4 Takeaways: Warriors open Group Play with historic comeback win",
-   "nota_url": "https://www.nba.com/news/4-takeaways-warriors-open-group-play-with-historic-comeback-win",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "puebla - pumas",
    "busquedas": "200+",
-   "nota": "Puebla vs Pumas: cuándo, a qué hora y dónde ver en vivo el encuentro de los universitarios en la J15 del Apertura 2026",
-   "nota_url": "https://www.infobae.com/mexico/deportes/2026/10/29/puebla-vs-pumas-cuando-a-que-hora-y-donde-ver-en-vivo-el-encuentro-de-los-universitarios-en-la-j15-del-apertura-2026/",
-   "medio": "Infobae",
+   "nota": "¡Garrafal! Así fue la terrible falla de Chino Huerta que impidió darle la ventaja a Pumas ante Puebla | VIDEO",
+   "nota_url": "https://www.mediotiempo.com/futbol/liga-mx/chino-huerta-asi-fue-la-terrible-falla-frente-a-la-porteria-en-el-puebla-vs-pumas",
+   "medio": "Mediotiempo",
    "relevante": false,
    "temas": []
   },
@@ -61,10 +61,10 @@
   },
   {
    "tema": "isack hadjar",
-   "busquedas": "200+",
-   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
-   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
-   "medio": "Carburando",
+   "busquedas": "500+",
+   "nota": "Visibly Annoyed Isack Hadjar Shoves Fan Seeking Selfie in Mexico City Paddock",
+   "nota_url": "https://sports.yahoo.com/articles/visibly-annoyed-isack-hadjar-shoves-084311967.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -87,11 +87,11 @@
    "temas": []
   },
   {
-   "tema": "colision netflix",
-   "busquedas": "200+",
-   "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
-   "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
-   "medio": "La 100",
+   "tema": "posiciones de racing club contra aldosivi",
+   "busquedas": "100000+",
+   "nota": "Aldosivi perdió y se consumó su descenso a la Primera Nacional",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17455455/aldosivi-perdio-y-se-consumo-su-descenso-a-la-primera-nacional",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
