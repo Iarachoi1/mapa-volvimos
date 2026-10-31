@@ -1,10 +1,19 @@
 {
- "actualizado": "31/10 07:23",
+ "actualizado": "31/10 08:22",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "arresto",
+   "busquedas": "100+",
+   "nota": "Dictaron el arresto domiciliario para el acusado de privar de la libertad a su familia en Chubut",
+   "nota_url": "https://www.diariocronica.com.ar/noticias/2026/10/30/175206-dictaron-el-arresto-domiciliario-para-el-acusado-de-privar-de-la-libertad-a-su-familia-en-chubut",
+   "medio": "Diario Crónica",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "guillermo coppola",
    "busquedas": "200+",
@@ -16,10 +25,10 @@
   },
   {
    "tema": "breaking bad",
-   "busquedas": "100+",
-   "nota": "Snapmaker Brings Creativity, Cosplay and Hands-On Support to L.A. Comic Con 2026",
-   "nota_url": "https://www.prweb.com/releases/snapmaker-brings-creativity-cosplay-and-hands-on-support-to-la-comic-con-2026-302919065.html",
-   "medio": "PRWeb",
+   "busquedas": "200+",
+   "nota": "L.A. Comic Con 2026: Breaking Bad Reunion, Nicolas Cage, Outlander and More",
+   "nota_url": "https://kfiam640.iheart.com/featured/la-local-news/content/2026-10-29-la-comic-con-2026-breaking-bad-reunion-nicolas-cage-outlander-and-more/",
+   "medio": "KFI AM 640",
    "relevante": false,
    "temas": []
   },
@@ -42,47 +51,38 @@
    "temas": []
   },
   {
-   "tema": "nba",
-   "busquedas": "500+",
-   "nota": "Steph drops Luka with ankle-breaking crossover before hitting a 3",
-   "nota_url": "https://www.espn.com/video/clip/_/id/50333162/steph-drops-luka-ankle-breaking-crossover-hitting-3",
-   "medio": "ESPN",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "warriors",
    "busquedas": "500+",
-   "nota": "Luka Dončić scores game-high 37 points vs. GSW",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/luka-doncic-scores-game-high-37-points-vs-gsw",
-   "medio": "NBC Sports",
+   "nota": "4 Takeaways: Warriors open Group Play with historic comeback win",
+   "nota_url": "https://www.nba.com/news/4-takeaways-warriors-open-group-play-with-historic-comeback-win",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "puebla - pumas",
    "busquedas": "200+",
-   "nota": "¡Garrafal! Así fue la terrible falla de Chino Huerta que impidió darle la ventaja a Pumas ante Puebla | VIDEO",
-   "nota_url": "https://www.mediotiempo.com/futbol/liga-mx/chino-huerta-asi-fue-la-terrible-falla-frente-a-la-porteria-en-el-puebla-vs-pumas",
-   "medio": "Mediotiempo",
+   "nota": "¡PUMAS RUGE ANTE PUEBLA! ¡GOLAZOS, FALLAS Y POLÉMICA DEL VAR EN UN PARTIDAZO!",
+   "nota_url": "https://www.tvazteca.com/aztecadeportes/puebla-vs-pumas-resumen-y-goles-highlights-j15-apertura-2026-liga-mx/",
+   "medio": "TV Azteca",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "noche de brujas",
    "busquedas": "20000+",
-   "nota": "“Trick or treat”: por qué se celebra Halloween hoy en Estados Unidos y qué significa la tradición de dulce o truco",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/trick-or-treat-por-que-se-celebra-halloween-hoy-en-estados-unidos-y-que-significa-la-tradicion-de-nid31102026/",
-   "medio": "La Nación",
+   "nota": "De los rituales celtas al fenómeno local: cómo se resignificó Halloween y dos tutoriales express para tu noche de brujas",
+   "nota_url": "https://www.perfil.com/comercial/de-los-rituales-celtas-al-fenomeno-local-como-se-resignifico-halloween-y-dos-tutoriales-express-para-tu-noche-de-brujas-ak4G53r4bM37",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "isack hadjar",
-   "busquedas": "500+",
-   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
-   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
-   "medio": "Carburando",
+   "busquedas": "1000+",
+   "nota": "Laurent Mekies to face big questions about Max Verstappen's criticism of the team",
+   "nota_url": "https://www.gpblog.com/en/news/mekies-to-face-max-verstappen-strategy-questions-in-mexico-as-red-bull-keep-review-findings-private",
+   "medio": "GPblog",
    "relevante": false,
    "temas": []
   },
