@@ -1,61 +1,70 @@
 {
- "actualizado": "31/10 02:28",
+ "actualizado": "31/10 03:31",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "nba",
-   "busquedas": "500+",
-   "nota": "Portland Trail Blazers guard Ja Morant is out injured.The Trail Blazers said on the 31st (Korea Stan..",
-   "nota_url": "https://www.mk.co.kr/en/sports/12192383",
-   "medio": "매일경제",
+   "tema": "clima puerto madryn",
+   "busquedas": "100+",
+   "nota": "Cómo estará el clima en Chubut este lunes 26 de octubre",
+   "nota_url": "https://canal12web.com/como-estara-el-clima-en-chubut-este-lunes-26-de-octubre/",
+   "medio": "Canal 12 Web",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "stephen curry",
+   "busquedas": "100+",
+   "nota": "Steph Curry passes Hall-of-Famer to move up NBA all-time scoring list",
+   "nota_url": "https://nypost.com/2026/10/31/sports/steph-curry-passes-hall-of-famer-to-move-up-nba-all-time-scoring-list/",
+   "medio": "New York Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "warriors vs lakers",
    "busquedas": "200+",
-   "nota": "Steph Curry Passes Dominique Wilkins on NBA All-Time Scoring List, Where Does He Rank Among Greats?",
-   "nota_url": "https://bleacherreport.com/articles/25527571-steph-curry-passes-dominique-wilkins-nba-all-time-scoring-list-where-does-he-rank-among-greats",
-   "medio": "Bleacher Report",
+   "nota": "Denver Nuggets vs Phoenix Suns Oct 30, 2026 Play-by-Play",
+   "nota_url": "https://www.nba.com/game/den-vs-phx-0022600024/play-by-play",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "warriors",
    "busquedas": "200+",
-   "nota": "Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers",
-   "nota_url": "https://www.sfchronicle.com/sports/warriors/article/warriors-win-rematch-lakers-behind-steph-curry-s-22503614.php",
-   "medio": "San Francisco Chronicle",
+   "nota": "Warriors erase big early deficit and beat the Lakers at home",
+   "nota_url": "https://www.espn.co.uk/video/clip/_/id/50333448/warriors-erase-big-early-deficit-beat-lakers-home",
+   "medio": "ESPN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "puebla - pumas",
    "busquedas": "200+",
-   "nota": "¿A qué hora y dónde ver a Keylor Navas contra Juan Pablo Vargas en el Pumas - Puebla de la Liga MX?",
-   "nota_url": "https://www.nacion.com/puro-deporte/a-que-hora-y-donde-ver-a-keylor-navas-contra-juan/V56UTEPBPNH3PK2VCVOEFWWQHM/story/",
-   "medio": "La Nación Costa Rica",
+   "nota": "Puebla vs Pumas: cuándo, a qué hora y dónde ver en vivo el encuentro de los universitarios en la J15 del Apertura 2026",
+   "nota_url": "https://www.infobae.com/mexico/deportes/2026/10/29/puebla-vs-pumas-cuando-a-que-hora-y-donde-ver-en-vivo-el-encuentro-de-los-universitarios-en-la-j15-del-apertura-2026/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "noche de brujas",
    "busquedas": "20000+",
-   "nota": "Realizarán una masiva bicicletada por La Plata en la Noche de Brujas",
-   "nota_url": "https://www.0221.com.ar/realizaran-una-masiva-bicicletada-la-plata-la-noche-brujas-n136576",
-   "medio": "0221",
+   "nota": "Halloween sobre ruedas: este sábado habrá una bicicleteada nocturna en Río Grande",
+   "nota_url": "https://www.minutofueguino.com.ar/rio-grande/halloween-sobre-ruedas-este-sbado-habr-una-bicicleteada-nocturna-en-ro-grande.htm",
+   "medio": "Minuto Fueguino",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "isack hadjar",
    "busquedas": "200+",
-   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
-   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
-   "medio": "Carburando",
+   "nota": "La repudiable reacción de Isack Hadjar con un hincha en la F1: empujón y bronca en México",
+   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/10/la-repudiable-reaccion-de-isack-hadjar-con-un-hincha-en-la-f1-empujon-y-bronca-en-mexico.php",
+   "medio": "FM Del Sol Pehuajo",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
    "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
    "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tabla anual 2026",
-   "busquedas": "500+",
-   "nota": "Un partido clave: cuándo y a qué hora juega Gimnasia vs. Lanús",
-   "nota_url": "https://www.mendozapost.com/deportes/partido-clave-cuando-a-que-hora-juega-gimnasia-vs-lanus-torneo-clausura-2026/",
-   "medio": "Mendoza Post",
    "relevante": false,
    "temas": []
   }
