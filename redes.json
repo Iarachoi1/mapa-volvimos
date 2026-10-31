@@ -1,25 +1,43 @@
 {
- "actualizado": "30/10 23:35",
+ "actualizado": "31/10 00:31",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "colision netflix",
+   "tema": "isack hadjar",
    "busquedas": "100+",
-   "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
-   "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
-   "medio": "La 100",
+   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
+   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tabla anual futbol argentino",
-   "busquedas": "500+",
-   "nota": "Los equipos que llegan con chances de coronarse",
-   "nota_url": "https://www.eleco.com.ar/deportes/los-equipos-que-llegan-con-chances-de-coronarse",
-   "medio": "El Eco",
+   "tema": "clima neuquen",
+   "busquedas": "200+",
+   "nota": "Viernes inestable en Río Negro y Neuquén: las máximas llegarán a los 29 grados",
+   "nota_url": "https://www.rionegro.com.ar/servicios/viernes-inestable-en-rio-negro-y-neuquen-las-maximas-llegaran-a-los-29-grados-4778319/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "matias ale",
+   "busquedas": "200+",
+   "nota": "El crudo relato de Matías Alé sobre su internación psiquiátrica, el abandono y la lucha por volver a empezar: \"Me saqué yo\"",
+   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/10/30/el-crudo-relato-de-matias-ale-sobre-su-internacion-psiquiatrica-el-abandono-y-la-lucha-por-volver-a-265736.html",
+   "medio": "Pronto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "colision netflix",
+   "busquedas": "200+",
+   "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
+   "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
+   "medio": "La 100",
    "relevante": false,
    "temas": []
   },
@@ -33,17 +51,26 @@
    "temas": []
   },
   {
+   "tema": "tabla anual futbol argentino",
+   "busquedas": "1000+",
+   "nota": "Arde la tabla anual: qué necesita Central para ser primero y entrar directo a la Copa Libertadores",
+   "nota_url": "https://www.rosario3.com/deportes/arde-la-tabla-anual-que-necesita-central-para-ser-primero-y-entrar-directo-a-la-copa-libertadores-20261027-0092.html",
+   "medio": "Rosario3",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "san luis - atlas",
-   "busquedas": "100+",
-   "nota": "Desplegarán más de 700 elementos GCE en operativo “Estadio Seguro”",
-   "nota_url": "https://elheraldoslp.com.mx/new/2026/10/29/desplegaran-mas-de-700-elementos-gce-en-operativo-estadio-seguro/",
-   "medio": "El Heraldo de San Luis Potosí.",
+   "busquedas": "200+",
+   "nota": "Atl. de San Luis vs. Atlas, EN VIVO: dónde ver por TV y ONLINE",
+   "nota_url": "https://www.tycsports.com/mexico/liga-mx/atl-de-san-luis-vs-atlas-en-vivo-donde-ver-por-tv-y-online-id769353.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "viernes 13",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "\"La precuela de 'Viernes 13'\": La serie en HBO Max que aspiraba a ser el plan perfecto para Halloween, pero prefiere desvelar misterios que disfrutar del mito de Jason",
    "nota_url": "https://www.fotogramas.es/series-tv-noticias/a74282904/crystal-lake-serie-hbo-critica-opinion-viernes-13/",
    "medio": "Fotogramas ES",
@@ -52,10 +79,10 @@
   },
   {
    "tema": "canelo",
-   "busquedas": "100+",
-   "nota": "Arabia Saudita, una sede que solo enamora a Turki y Canelo Álvarez",
-   "nota_url": "https://www.espn.com.ar/boxeo/nota/_/id/17444499/canelo-alvarez-arabia-saudita-sede-enamora-turki-boxeo",
-   "medio": "ESPN Argentina",
+   "busquedas": "500+",
+   "nota": "Un juez de Comodoro Py será jurado de la pelea de Canelo Álvarez ante Mbilli en Arabia Saudita",
+   "nota_url": "https://tn.com.ar/deportes/boxeo/2026/10/30/un-juez-de-comodoro-py-sera-jurado-de-la-pelea-de-canelo-alvarez-ante-mbilli-en-arabia-saudita/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "Pipino Cuevas se animó a Es mi sueño, la rompió y recibió los elogios de Abel Pintos: “Muy profesional”",
    "nota_url": "https://la100.cienradios.com/espectaculos/pipino-cuevas-se-animo-a-es-mi-sueno-la-rompio-y-recibio-los-elogios-de-abel-pintos-muy-profesional/",
    "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucaramanga - pasto",
-   "busquedas": "200+",
-   "nota": "Bucaramanga en procura de retornar a la victoria",
-   "nota_url": "https://elfrente.com.co/bucaramanga-en-procura-de-retornar-a-la-victoria/",
-   "medio": "El Frente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors - lakers",
-   "busquedas": "1000+",
-   "nota": "Lakers make final decision on Ziaire Williams for Friday's game",
-   "nota_url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/",
-   "medio": "Lakers Wire",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "futbol argentino hoy",
-   "busquedas": "200+",
-   "nota": "Emiliano Dibu Martínez explicó por qué no volverá a jugar en el fútbol argentino",
-   "nota_url": "https://elecos.com.ar/emiliano-dibu-martinez-explico-por-que-no-volvera-a-jugar-en-el-futbol-argentino",
-   "medio": "Ecos Diarios Necochea",
    "relevante": false,
    "temas": []
   }
