@@ -1,5 +1,5 @@
 {
- "actualizado": "31/10 04:41",
+ "actualizado": "31/10 05:31",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -17,18 +17,27 @@
   {
    "tema": "sports",
    "busquedas": "200+",
-   "nota": "Commissioner Brett Yormark to Leave Big 12 Conference",
-   "nota_url": "https://big12sports.com/news/2026/10/30/general-commissioner-brett-yormark-to-leave-big-12-conference.aspx",
-   "medio": "Big 12 Conference",
+   "nota": "Dystany Spurlock joins Alpha Prime Racing for 2027 ARCA Menards Series season",
+   "nota_url": "https://www.arcaracing.com/2026/10/28/dystany-spurlock-alpha-prime-racing-2027-arca/",
+   "medio": "arcaracing.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nba",
+   "busquedas": "500+",
+   "nota": "Warriors predicted to trade for Thunder's 7-foot-1 NBA champion to replace Kristaps Porzingis",
+   "nota_url": "https://sports.yahoo.com/articles/warriors-predicted-trade-thunders-7-064159027.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lakers",
-   "busquedas": "1000+",
-   "nota": "Lakers make final decision on Ziaire Williams for Friday's game",
-   "nota_url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/",
-   "medio": "Lakers Wire",
+   "tema": "warriors",
+   "busquedas": "500+",
+   "nota": "4 Takeaways: Warriors open Group Play with historic comeback win",
+   "nota_url": "https://www.nba.com/news/4-takeaways-warriors-open-group-play-with-historic-comeback-win",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
@@ -44,9 +53,9 @@
   {
    "tema": "noche de brujas",
    "busquedas": "20000+",
-   "nota": "Halloween en el Tren de la Costa: habrá una experiencia inmersiva de terror con entrada gratuita",
-   "nota_url": "https://www.cronista.com/informacion-gral/halloween-en-el-tren-de-la-costa-habra-una-experiencia-inmersiva-de-terror-con-entrada-gratuita/",
-   "medio": "El Cronista",
+   "nota": "De los rituales celtas al fenómeno local: cómo se resignificó Halloween y dos tutoriales express para tu noche de brujas",
+   "nota_url": "https://www.perfil.com/comercial/de-los-rituales-celtas-al-fenomeno-local-como-se-resignifico-halloween-y-dos-tutoriales-express-para-tu-noche-de-brujas-ak4G53r4bM37",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "Cuándo se estrena Colisión, el nuevo thriller español con Luis Zahera que promete cautivar al público de Netflix",
    "nota_url": "https://la100.cienradios.com/espectaculos/cine-y-series/cuando-se-estrena-colision-el-nuevo-thriller-espanol-con-luis-zahera-que-promete-cautivar-al-publico-de-netflix/",
    "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tabla anual 2026",
-   "busquedas": "500+",
-   "nota": "Nicolás Goitea y Oscar Salomón: los dos candidatos a ocupar un lugar en la zaga central de Newell's",
-   "nota_url": "https://www.lacapital.com.ar/ovacion/nicolas-goitea-y-oscar-salomon-los-dos-candidatos-ocupar-un-lugar-la-zaga-central-newells-n10289691.html",
-   "medio": "La Capital",
    "relevante": false,
    "temas": []
   }
