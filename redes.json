@@ -1,10 +1,37 @@
 {
- "actualizado": "31/10 01:30",
+ "actualizado": "31/10 02:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "nba",
+   "busquedas": "500+",
+   "nota": "Portland Trail Blazers guard Ja Morant is out injured.The Trail Blazers said on the 31st (Korea Stan..",
+   "nota_url": "https://www.mk.co.kr/en/sports/12192383",
+   "medio": "매일경제",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "stephen curry",
+   "busquedas": "200+",
+   "nota": "Steph Curry Passes Dominique Wilkins on NBA All-Time Scoring List, Where Does He Rank Among Greats?",
+   "nota_url": "https://bleacherreport.com/articles/25527571-steph-curry-passes-dominique-wilkins-nba-all-time-scoring-list-where-does-he-rank-among-greats",
+   "medio": "Bleacher Report",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "warriors",
+   "busquedas": "200+",
+   "nota": "Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers",
+   "nota_url": "https://www.sfchronicle.com/sports/warriors/article/warriors-win-rematch-lakers-behind-steph-curry-s-22503614.php",
+   "medio": "San Francisco Chronicle",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "puebla - pumas",
    "busquedas": "200+",
@@ -16,7 +43,7 @@
   },
   {
    "tema": "noche de brujas",
-   "busquedas": "10000+",
+   "busquedas": "20000+",
    "nota": "Realizarán una masiva bicicletada por La Plata en la Noche de Brujas",
    "nota_url": "https://www.0221.com.ar/realizaran-una-masiva-bicicletada-la-plata-la-noche-brujas-n136576",
    "medio": "0221",
@@ -26,9 +53,9 @@
   {
    "tema": "isack hadjar",
    "busquedas": "200+",
-   "nota": "Video: la fuerte reacción de Isack Hadjar con un fanático que le pidió una selfie en México",
-   "nota_url": "https://www.mdzol.com/deportes/2026/10/30/video-la-fuerte-reaccion-de-isack-hadjar-con-un-fanatico-que-le-pidio-una-selfie-en-mexico-1992107.html",
-   "medio": "MDZ Online",
+   "nota": "Tensión en el paddock de la Fórmula 1: el polémico gesto de Isack Hadjar con un fanático en México",
+   "nota_url": "https://www.carburando.com/formula-1/tension-en-el-paddock-de-la-f1-el-polemico-gesto-de-hadjar-con-un-fanatico-en-mexico-id200435",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
@@ -60,38 +87,11 @@
    "temas": []
   },
   {
-   "tema": "suns - nuggets",
+   "tema": "tabla anual 2026",
    "busquedas": "500+",
-   "nota": "Suns' Dillon Brooks ejected from NBA Cup game against Nuggets",
-   "nota_url": "https://www.azcentral.com/story/sports/nba/suns/2026/10/30/dillon-brooks-hit-with-flagrant-2-after-kick-in-suns-nuggets-game/92528760007/",
-   "medio": "azcentral.com and The Arizona Republic",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tabla anual futbol argentino",
-   "busquedas": "1000+",
-   "nota": "Arde la tabla anual: qué necesita Central para ser primero y entrar directo a la Copa Libertadores",
-   "nota_url": "https://www.rosario3.com/deportes/arde-la-tabla-anual-que-necesita-central-para-ser-primero-y-entrar-directo-a-la-copa-libertadores-20261027-0092.html",
-   "medio": "Rosario3",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "san luis - atlas",
-   "busquedas": "200+",
-   "nota": "Atlas sube al segundo lugar del Apertura al vencer a San Luis con gol del argentino Monzón",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/10/31/atlas-sube-al-segundo-lugar-del-apertura-al-vencer-a-san-luis-con-gol-del-argentino-monzon/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "viernes 13",
-   "busquedas": "200+",
-   "nota": "\"La precuela de 'Viernes 13'\": La serie en HBO Max que aspiraba a ser el plan perfecto para Halloween, pero prefiere desvelar misterios que disfrutar del mito de Jason",
-   "nota_url": "https://www.fotogramas.es/series-tv-noticias/a74282904/crystal-lake-serie-hbo-critica-opinion-viernes-13/",
-   "medio": "Fotogramas ES",
+   "nota": "Un partido clave: cuándo y a qué hora juega Gimnasia vs. Lanús",
+   "nota_url": "https://www.mendozapost.com/deportes/partido-clave-cuando-a-que-hora-juega-gimnasia-vs-lanus-torneo-clausura-2026/",
+   "medio": "Mendoza Post",
    "relevante": false,
    "temas": []
   }
