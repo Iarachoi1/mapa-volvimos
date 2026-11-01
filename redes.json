@@ -1,40 +1,49 @@
 {
- "actualizado": "01/11 07:27",
+ "actualizado": "01/11 08:22",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "como - venezia",
+   "busquedas": "200+",
+   "nota": "Dónde ver el Como-Venezia: streaming, canales de televisión, fecha, hora y alineaciones",
+   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-el-como-venezia-streaming-canales-de-television-fecha-hora-y-alineaciones/blt67a1800595fae407",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "thiago agustín tirante",
+   "busquedas": "100+",
+   "nota": "Thiago Agustin Tirante Zachary Svajda live score and H2H results",
+   "nota_url": "https://www.sofascore.com/tennis/match/zachary-svajda-thiago-agustin-tirante/pFNbsXouc",
+   "medio": "Sofascore",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima",
-   "busquedas": "50000+",
-   "nota": "Clima en Ciudad Autónoma de Buenos Aires hoy: cuál es el pronóstico del tiempo para el 1 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/ciudad-de-buenos-aires/clima-en-ciudad-autonoma-de-buenos-aires-hoy-cual-es-el-pronostico-del-tiempo-para-el-1-de-noviembre-nid31102026/",
-   "medio": "La Nación",
-   "relevante": true,
+   "busquedas": "100000+",
+   "nota": "Clima hoy en La Plata, Buenos Aires: el pronóstico del tiempo para este domingo 1 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-plata-buenos-aires-pronostico-tiempo-domingo-1-noviembre-2026_0_XPORHwLXqz.html",
+   "medio": "Clarín",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "weather",
    "busquedas": "200+",
-   "nota": "Cold Front Headed To South Louisiana, Temperatures Could Take Serious Dip",
-   "nota_url": "https://999ktdy.com/louisiana-strongest-cold-front/",
-   "medio": "99.9 KTDY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de club américa contra deportivo toluca",
-   "busquedas": "1000+",
-   "nota": "¿Por qué no juegan Paulinho y Alexis Vega en América vs. Toluca por la Liga MX?",
-   "nota_url": "https://bolavip.com/mx/ligamx/por-que-no-juegan-paulinho-y-alexis-vega-en-america-vs-toluca-por-la-liga-mx",
-   "medio": "Bolavip México",
+   "nota": "Several chances for rain as November begins",
+   "nota_url": "https://fox59.com/weather/several-chances-for-rain-as-november-begins/",
+   "medio": "Fox 59",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fuego",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Durante una pelea con su padre incendió una habitación y quedó preso",
    "nota_url": "https://www.elchubut.com.ar/policiales/2026-10-31-22-11-0-durante-una-pelea-con-su-padre-incendio-una-habitacion-y-quedo-preso",
    "medio": "El Chubut",
@@ -43,7 +52,7 @@
   },
   {
    "tema": "xbox cloud gaming",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "From dual-screen handhelds to Xbox Cloud Gaming, DroidDeck just got a huge update",
    "nota_url": "https://www.androidauthority.com/droiddeck-update-xbox-cloud-gaming-3729907/",
    "medio": "Android Authority",
@@ -83,15 +92,6 @@
    "nota": "Robert Lewandowski breaks drought as Chicago Fire build playoff momentum",
    "nota_url": "https://sports.yahoo.com/articles/robert-lewandowski-breaks-drought-chicago-040900180.html",
    "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inpres",
-   "busquedas": "200+",
-   "nota": "El INPRES mantuvo al sur de San Juan en la zona de mayor peligro",
-   "nota_url": "https://www.diarioelzondasj.com.ar/locales/el-inpres-mantuvo-al-sur-de-san-juan-en-la-zona-de-mayor-peligro",
-   "medio": "El Zonda",
    "relevante": false,
    "temas": []
   }
