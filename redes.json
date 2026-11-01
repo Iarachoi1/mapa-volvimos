@@ -1,13 +1,22 @@
 {
- "actualizado": "01/11 01:38",
+ "actualizado": "01/11 02:33",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "inpres",
+   "tema": "colisión película netflix",
    "busquedas": "100+",
+   "nota": "Hoy en Netflix: un nuevo thriller de suspenso sobre el robo de un banco en España",
+   "nota_url": "https://www.losandes.com.ar/espectaculos/hoy-netflix-un-nuevo-thriller-suspenso-el-robo-un-banco-espana-n6012388",
+   "medio": "Los Andes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inpres",
+   "busquedas": "200+",
    "nota": "El INPRES mantuvo al sur de San Juan en la zona de mayor peligro",
    "nota_url": "https://www.diarioelzondasj.com.ar/locales/el-inpres-mantuvo-al-sur-de-san-juan-en-la-zona-de-mayor-peligro",
    "medio": "El Zonda",
@@ -34,7 +43,7 @@
   },
   {
    "tema": "américa - toluca",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Club América vs. Toluca FC, EN VIVO: dónde ver por TV y ONLINE",
    "nota_url": "https://www.tycsports.com/mexico/liga-mx/club-america-vs-toluca-fc-en-vivo-donde-ver-por-tv-y-online-id769574.html",
    "medio": "TyC Sports",
@@ -44,36 +53,36 @@
   {
    "tema": "1 de noviembre que se celebra",
    "busquedas": "200+",
-   "nota": "Fiesta de todos los Santos",
-   "nota_url": "https://www.religionenlibertad.com/blogs/jesucristo-es-el-primero-en-todo/261031/fiesta-todos-santos_120743.html",
-   "medio": "Religión en Libertad",
+   "nota": "Día de Todos los Santos: por qué se celebra el 1 de noviembre y cuál es su origen",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/01/dia-de-todos-los-santos-por-que-se-celebra-el-1-de-noviembre-y-cual-es-su-origen/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tom nolan",
    "busquedas": "100+",
-   "nota": "Fight By Fight Preview | UFC Fight Night: Moicano vs Nolan",
-   "nota_url": "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-moicano-vs-nolan",
-   "medio": "UFC.com",
+   "nota": "Renato Moicano v Tom Nolan Prediction and Tips",
+   "nota_url": "https://news.bet365.com/en-gb/article/mma-renato-moicano-tom-nolan-prediction-and-tips/2026103009175170910",
+   "medio": "news.bet365.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "heidi klum",
    "busquedas": "500+",
-   "nota": "Halloween queen Heidi Klum deserves a hand for her costume in 2026",
-   "nota_url": "https://www.wdrbwave.com/2026/11/01/halloween-queen-heidi-klum-deserves-hand-her-costume-2026/",
-   "medio": "WDRB",
+   "nota": "Heidi Klum transformed into a gory, 8-foot version of her own severed left hand for her annual Halloween party on Saturday. Tap the link in our comments to see more photos.",
+   "nota_url": "https://www.facebook.com/nytimes/posts/heidi-klum-transformed-into-a-gory-8-foot-version-of-her-own-severed-left-hand-f/1533729258609532/",
+   "medio": "Facebook",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "obsession",
    "busquedas": "200+",
-   "nota": "Is SNL New Tonight, October 31, 2026? About This Week's Host & Musical Guest",
-   "nota_url": "https://www.nbc.com/nbc-insider/snl-new-tonight-october-31-host-musical-guest",
-   "medio": "NBC TV",
+   "nota": "Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue",
+   "nota_url": "https://www.yahoo.com/entertainment/tv/articles/inde-navarrette-takes-swipe-shane-035255670.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
@@ -84,15 +93,6 @@
    "nota_url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/policias-de-valle-de-santiago-exigen-destituir-a-titular-de-seguridad-denuncian-violencia-de-genero-amenazas-etc-170503.html",
    "medio": "Periódico Correo",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "grizzlies - kings",
-   "busquedas": "100+",
-   "nota": "Grizzlies match best start in franchise history as Cameron Boozer shines again",
-   "nota_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/31/grizzlies-match-best-start-in-franchise-history-as-cameron-boozer-shines-again/92544692007/",
-   "medio": "HoopsHype",
-   "relevante": false,
    "temas": []
   }
  ],
