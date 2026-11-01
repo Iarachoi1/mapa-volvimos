@@ -1,5 +1,5 @@
 {
- "actualizado": "01/11 02:33",
+ "actualizado": "01/11 03:35",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -7,10 +7,37 @@
  "google": [
   {
    "tema": "colisión película netflix",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Hoy en Netflix: un nuevo thriller de suspenso sobre el robo de un banco en España",
    "nota_url": "https://www.losandes.com.ar/espectaculos/hoy-netflix-un-nuevo-thriller-suspenso-el-robo-un-banco-espana-n6012388",
    "medio": "Los Andes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mi argentina",
+   "busquedas": "500+",
+   "nota": "Licencia de conducir digital en Mi Argentina: cómo mostrarla sin internet",
+   "nota_url": "https://www.elonce.com/sociedad/licencia-de-conducir-digital-en-mi-argentina-como-mostrarla-sin-internet.htm",
+   "medio": "Elonce.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "loto plus hoy",
+   "busquedas": "200+",
+   "nota": "Loto Plus: tres apostadores se llevaron más de $6 millones",
+   "nota_url": "https://www.elcordillerano.com.ar/noticias/2026/10/25/269295-loto-plus-tres-apostadores-se-llevaron-mas-de-6-millones",
+   "medio": "Diario El Cordillerano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de colorado rapids contra chicago fire fc",
+   "busquedas": "1000+",
+   "nota": "Jonathan Bamba scores 2 goals for Fire in 4-2 win over Rapids",
+   "nota_url": "https://www.foxsports.com/articles/soccer/jonathan-bamba-scores-2-goals-for-fire-in-42-win-over-rapids",
+   "medio": "FOX Sports",
    "relevante": false,
    "temas": []
   },
@@ -44,18 +71,18 @@
   {
    "tema": "américa - toluca",
    "busquedas": "1000+",
-   "nota": "Club América vs. Toluca FC, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/mexico/liga-mx/club-america-vs-toluca-fc-en-vivo-donde-ver-por-tv-y-online-id769574.html",
-   "medio": "TyC Sports",
+   "nota": "¿Por qué no juegan Paulinho y Alexis Vega en América vs. Toluca por la Liga MX?",
+   "nota_url": "https://bolavip.com/mx/ligamx/por-que-no-juegan-paulinho-y-alexis-vega-en-america-vs-toluca-por-la-liga-mx",
+   "medio": "Bolavip México",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "1 de noviembre que se celebra",
    "busquedas": "200+",
-   "nota": "Día de Todos los Santos: por qué se celebra el 1 de noviembre y cuál es su origen",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/01/dia-de-todos-los-santos-por-que-se-celebra-el-1-de-noviembre-y-cual-es-su-origen/",
-   "medio": "TN",
+   "nota": "Fiesta de todos los Santos",
+   "nota_url": "https://www.religionenlibertad.com/blogs/jesucristo-es-el-primero-en-todo/261031/fiesta-todos-santos_120743.html",
+   "medio": "Religión en Libertad",
    "relevante": false,
    "temas": []
   },
@@ -66,33 +93,6 @@
    "nota_url": "https://news.bet365.com/en-gb/article/mma-renato-moicano-tom-nolan-prediction-and-tips/2026103009175170910",
    "medio": "news.bet365.com",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "heidi klum",
-   "busquedas": "500+",
-   "nota": "Heidi Klum transformed into a gory, 8-foot version of her own severed left hand for her annual Halloween party on Saturday. Tap the link in our comments to see more photos.",
-   "nota_url": "https://www.facebook.com/nytimes/posts/heidi-klum-transformed-into-a-gory-8-foot-version-of-her-own-severed-left-hand-f/1533729258609532/",
-   "medio": "Facebook",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "obsession",
-   "busquedas": "200+",
-   "nota": "Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue",
-   "nota_url": "https://www.yahoo.com/entertainment/tv/articles/inde-navarrette-takes-swipe-shane-035255670.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "misoginia",
-   "busquedas": "200+",
-   "nota": "Policías de Valle de Santiago exigen destituir a titular de Seguridad; denuncian violencia de género, amenazas, etc.",
-   "nota_url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/policias-de-valle-de-santiago-exigen-destituir-a-titular-de-seguridad-denuncian-violencia-de-genero-amenazas-etc-170503.html",
-   "medio": "Periódico Correo",
-   "relevante": true,
    "temas": []
   }
  ],
