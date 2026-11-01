@@ -1,7 +1,7 @@
 {
  "semana": "1 de noviembre de 2026",
  "fecha": "2026-11-01",
- "actualizado": "01/11 11:26",
+ "actualizado": "01/11 16:28",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -22,6 +22,32 @@
      "medio": "Letra P",
      "fecha": "01/11/2026",
      "url": "https://www.letrap.com.ar/politica/la-eleccion-brasil-acomodo-la-politica-argentina-2027-n5427871"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "OPINIÓN PÚBLICA Encuesta nacional: cómo impactará la visita del Papa en la Argentina Eduardo Menegazzi",
+     "medio": "Perfil",
+     "fecha": "01/11/2026",
+     "url": "https://www.perfil.com/politica/encuesta-el-impacto-de-la-visita-papal-aOhph2g4cwCW"
+    }
+   ]
+  },
+  "CABA": {
+   "top3": [
+    {
+     "titulo": "Karina Milei y Jorge Macri, en los preparativos por la visita del Papa",
+     "medio": "Gobierno de la Ciudad (prensa) de CABA",
+     "fecha": "01/11/2026",
+     "url": "https://buenosaires.gob.ar/noticias/karina-milei-y-jorge-macri-en-los-preparativos-por-la-visita-del-papa",
+     "tag": "Política · También en La Nación"
+    },
+    {
+     "titulo": "La foto de Karina Milei y Jorge Macri en los preparativos por la visita del papa León XIV",
+     "medio": "Infobae",
+     "fecha": "01/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/01/la-foto-de-karina-milei-y-jorge-macri-en-los-preparativos-por-la-visita-del-papa-leon-xiv/",
+     "tag": "Política"
     }
    ],
    "imagen": []
@@ -49,6 +75,40 @@
    ],
    "imagen": []
   },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "En la Cámara de Diputados La Ley Ema, a contrarreloj en el Congreso: el proyecto puede perder estado parlamentario el 20 de noviembre",
+     "medio": "El Ancasti",
+     "fecha": "01/11/2026",
+     "url": "https://www.elancasti.com.ar/politica/la-ley-ema-contrarreloj-el-congreso-el-proyecto-puede-perder-estado-parlamentario-el-20-noviembre-n625150"
+    },
+    {
+     "titulo": "Violencia digital Catamarca desde hace más de una década tiene una ley de uso seguro de Internet",
+     "medio": "El Ancasti",
+     "fecha": "01/11/2026",
+     "url": "https://www.elancasti.com.ar/politica/catamarca-hace-mas-una-decada-tiene-una-ley-uso-seguro-internet-n625152"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "El Gobierno no avanza en el Senado para eliminar las PASO",
+     "medio": "Diario Jornada",
+     "fecha": "01/11/2026",
+     "url": "https://www.diariojornada.com.ar/426292/politica/el_gobierno_no_avanza_en_el_senado_para_eliminar_las_paso"
+    },
+    {
+     "titulo": "Elecciones en los EEUU: ¿Cómo impactaría una derrota de Trump?",
+     "medio": "Diario Jornada",
+     "fecha": "01/11/2026",
+     "url": "https://www.diariojornada.com.ar/426290/economia/elecciones_en_los_eeuu_como_impactaria_una_derrota_de_trump"
+    }
+   ],
+   "imagen": []
+  },
   "Córdoba": {
    "top3": [
     {
@@ -58,23 +118,29 @@
      "url": "https://www.infobae.com/politica/2026/11/01/peligra-la-unidad-opositora-en-cordoba-la-incertidumbre-por-las-candidaturas-y-la-propuesta-que-llego-a-la-casa-rosada/"
     },
     {
+     "titulo": "Elecciones en EE.UU.. Cómo es el sistema electoral de Estados Unidos y por qué el papa León XIV envió su voto por correo",
+     "medio": "Cadena3",
+     "fecha": "01/11/2026",
+     "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/como-es-el-sistema-electoral-de-estados-unidos-y-por-que-el-papa-leon-xiv-envio-su-voto-por-correo_609100"
+    },
+    {
      "titulo": "Córdoba: por la creciente, quedó atrapado debajo de un puente y fue rescatado",
      "medio": "CBA24N",
      "fecha": "01/11/2026",
      "url": "https://www.cba24n.com.ar/cordoba/cordoba--por-la-creciente--quedo-atrapado-debajo-de-un-puente-y-fue-rescatado_a6ae73f9ce4c94847296d107c",
      "tag": "También en ElDoce, Hoy Dia"
-    },
-    {
-     "titulo": "Tensión entre Milei y el Vaticano por un requisito en la visita del papa León XIV",
-     "medio": "Hoy Dia",
-     "fecha": "01/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/tension-entre-milei-y-el-vaticano-por-un-requisito-en-la-visita-del-papa-leon-xiv-a-la-argentina/"
     }
    ],
    "imagen": []
   },
   "Entre Ríos": {
    "top3": [
+    {
+     "titulo": "Donald Trump anticipó que vetará todas las leyes si pierde las elecciones",
+     "medio": "Ahora",
+     "fecha": "01/11/2026",
+     "url": "https://ahora.com.ar/politica/donald-trump-anticipo-que-vetara-todas-las-leyes-si-pierde-las-elecciones"
+    },
     {
      "titulo": "Extendieron alerta por tormentas a 12 departamentos de Entre Ríos este domingo",
      "medio": "Ahora",
@@ -83,10 +149,10 @@
      "tag": "También en El Once"
     },
     {
-     "titulo": "Malvinas: confirmaron las audiencias por el reclamo argentino contra la explotación petrolera",
+     "titulo": "\"La memoria tiene gran importancia\", sostuvo Romero en el homenaje a Urquiza en Concepción del Uruguay",
      "medio": "El Once",
      "fecha": "01/11/2026",
-     "url": "https://www.elonce.com/politica/malvinas-confirmaron-las-audiencias-por-el-reclamo-argentino-contra-la-explotacion-petrolera.htm"
+     "url": "https://www.elonce.com/politica/aluani-lauritto-y-romero-destacaron-el-legado-de-urquiza-durante-el-desfile-historico-en-concepcion-del-uruguay.htm"
     }
    ],
    "imagen": []
@@ -100,16 +166,18 @@
      "url": "https://www.letrap.com.ar/politica/el-pj-jujuy-despues-kicillof-la-resurreccion-rivarola-la-cruzada-moises-y-un-mar-esquirlas-n5427876"
     },
     {
-     "titulo": "Tren Solar: Jujuy prepara un 2027 con nuevas experiencias",
-     "medio": "Jujuy al día",
+     "titulo": "Padrón provisorio en Jujuy: ya se puede consultar online",
+     "medio": "El Tribuno",
      "fecha": "01/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/01/tren-solar-jujuy-prepara-un-2027-con-nuevas-experiencias/"
+     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-1-12-3-0-padron-provisorio-en-jujuy-ya-se-puede-consultar-online",
+     "tag": "También en Somos Jujuy"
     },
     {
-     "titulo": "Educación agradeció el compromiso y participación docente en la preparación del ingreso a 1er año 2027",
-     "medio": "Jujuy al día",
+     "titulo": "Jujuy celebró Halloween con cientos de personas en la calle: mirá las mejores fotos",
+     "medio": "Somos Jujuy",
      "fecha": "01/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/01/educacion-agradecio-el-compromiso-y-participacion-docente-en-la-preparacion-del-ingreso-a-1er-ano-2027/"
+     "url": "https://www.somosjujuy.com.ar/jujuy/jujuy-celebro-halloween-cientos-personas-calle-mira-mejores-fotos-n126441",
+     "tag": "También en Todo Jujuy"
     }
    ],
    "imagen": []
@@ -123,17 +191,28 @@
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82487/kroneberger-en-pico--el-unico-partido-que-puede-liderar-este-frente-amplio-es-la-ucr"
     },
     {
-     "titulo": "La Pampa se sumó al Frente Ambiental Latinoamericano",
+     "titulo": "Córdoba podría votar gobernador e intendente entre Pascuas y el feriado de Malvinas",
      "medio": "La Arena",
      "fecha": "01/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/la-pampa-se-sumo-al-frente-ambiental-latinoamericano-20261110120"
+     "url": "https://www.laarena.com.ar/el-pais/cordoba-podria-votar-gobernador-e-intendente-entre-pascuas-y-el-feriado-de-malvinas-202611114330"
     },
     {
-     "titulo": "Comenzó la Expo Vivero en Toay",
+     "titulo": "La venta de autos usados en La Pampa cayó 7,37%",
      "medio": "La Arena",
      "fecha": "01/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/comenzo-la-expo-vivero-en-toay-2026111050",
+     "url": "https://www.laarena.com.ar/la-pampa/la-venta-de-autos-usados-en-la-pampa-cayo-7-37-202611113340",
      "tag": "También en La Pampa 24"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "Obispo de La Rioja alertó que \"los más postergados no pueden ser variable de ajuste\"",
+     "medio": "El Destape",
+     "fecha": "01/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/postergados-no-pueden-ser-variable-ajuste-duro-mensaje-obispo-rioja-2026111122219"
     }
    ],
    "imagen": []
@@ -147,17 +226,17 @@
      "url": "https://www.diariouno.com.ar/politica/las-dos-internas-mendocinas-la-guerra-oficialista-un-nuevo-frente-cercano-al-pj-n1612014"
     },
     {
+     "titulo": "Domingo de elecciones en Irrigación: quiénes votan",
+     "medio": "Mendoza Post",
+     "fecha": "01/11/2026",
+     "url": "https://www.mendozapost.com/politica/este-domingo-hay-elecciones-en-irrigacion-quienes-pueden-votar/"
+    },
+    {
      "titulo": "Datos políticos: la impaciencia de Cornejo hace notar una grieta con Milei",
      "medio": "Memo",
      "fecha": "01/11/2026",
      "url": "https://www.memo.com.ar/poder/abrelatas-resumen-ejecutivo-alianza-lla-cm-cornejo-karina-petri/",
      "tag": "También en Mendoza Post"
-    },
-    {
-     "titulo": "Cómo obtener el libre deuda del Impuesto Automotor en línea",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "01/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/como-obtener-el-libre-deuda-del-impuesto-automotor-en-linea-12/"
     }
    ],
    "imagen": []
@@ -175,6 +254,12 @@
      "medio": "La Voz - Misiones",
      "fecha": "01/11/2026",
      "url": "https://lavozdemisiones.com/historias/misioneros-de-maradona-presento-proyecto-de-parque-homenaje-al-diez-en-posadas"
+    },
+    {
+     "titulo": "La aprobación de Milei suma tres meses de recuperación, pero el rechazo sigue por encima del 55%",
+     "medio": "Primera Edición",
+     "fecha": "01/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101156549/encuesta-zentrix-octubre-2026-milei-aprobacion-rechazo-economia/"
     }
    ],
    "imagen": []
@@ -182,16 +267,16 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Acompañamiento a jóvenes emprendedores Un crédito rescató su emprendimiento de alquiler de inflables y hoy se prepara para la temporada de verano",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "01/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/01/266478-un-credito-rescato-su-emprendimiento-de-alquiler-de-inflables-y-hoy-se-prepara-para-la-temporada-de-verano"
-    },
-    {
      "titulo": "Infraestructura operativa y penitenciaria Una por una las obras que impulsa la Provincia para mejorar la seguridad",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "01/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/01/266481-una-por-una-las-obras-que-impulsa-la-provincia-para-mejorar-la-seguridad"
+    },
+    {
+     "titulo": "Plan vial Cómo es el plan diseñado por Provincia para mejorar los accesos viales a Neuquén capital",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "01/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/01/266490-como-es-el-plan-disenado-por-provincia-para-mejorar-los-accesos-viales-a-neuquen-capital"
     }
    ],
    "imagen": []
@@ -199,16 +284,16 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Elecciones en Bariloche | Votó Govetto, de LLA: «estamos muy conformes con la campaña que hicimos»",
+     "titulo": "Elecciones en Bariloche | Ya votó el 30% del padrón y todos los candidatos: hubo un detenido",
      "medio": "Diario Rio Negro",
      "fecha": "01/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/elecciones-en-bariloche-voto-govetto-de-lla-estamos-muy-conformes-con-la-campana-que-hicimos-4780439/"
+     "url": "https://www.rionegro.com.ar/politica/elecciones-en-bariloche-ya-voto-el-30-del-padron-y-todos-los-candidatos-hubo-un-detenido-4780810/"
     },
     {
-     "titulo": "Elecciones en Bariloche | Votó Sánchez, de Estamos Haciendo: «Esperamos que nos acompañen»",
+     "titulo": "Una agenda apretada para el Presupuesto 2027 y la posibilidad de su tratamiento en extraordinarias en Diputados",
      "medio": "Diario Rio Negro",
      "fecha": "01/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/elecciones-en-bariloche-voto-sanchez-de-estamos-haciendo-bariloche-esperamos-que-nos-acompanen-4780467/"
+     "url": "https://www.rionegro.com.ar/politica/una-agenda-apretada-para-el-presupuesto-2027-y-la-posibilidad-de-su-tratamiento-en-extraordinarias-en-diputados/"
     },
     {
      "titulo": "Bariloche: hoy se vota la reforma de la Carta Orgánica",
@@ -236,10 +321,10 @@
      "tag": "También en Informate Salta"
     },
     {
-     "titulo": "Aprueban proyecto de presupuesto para sumar 919 cargos más en el Ministerio Público Fiscal",
-     "medio": "Nuevo Diario de Salta",
+     "titulo": "Sin ceder a los aliados, se frena el debate del Presupuesto y las Paso",
+     "medio": "El Tribuno",
      "fecha": "01/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/aprueban-proyecto-de-presupuesto-para-sumar-919-cargos-mas-en-el-ministerio-publico-fiscal/"
+     "url": "https://www.eltribuno.com/nacionales/2026-11-1-0-0-0-sin-ceder-a-los-aliados-se-frena-el-debate-del-presupuesto-y-las-paso"
     }
    ],
    "imagen": [
@@ -260,16 +345,46 @@
      "url": "https://www.diariodecuyo.com.ar/politica/los-dos-candidateables-la-largada-del-peronismo-sanjuanino-se-cuentan-las-costillas-actos-y-fotos-n6587352"
     },
     {
-     "titulo": "Los proyectos de Malvinas y Banco Central piden pista de cara a la próxima sesión en Diputados",
-     "medio": "0264 Noticias",
+     "titulo": "Fiesta Nacional de la Tradición Diez candidatas se presentaron antes de la elección de la Paisana Nacional",
+     "medio": "El Zonda",
      "fecha": "01/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/01/115530-los-proyectos-de-malvinas-y-banco-central-piden-pista-de-cara-a-la-proxima-sesion-en-diputados"
+     "url": "https://www.diarioelzondasj.com.ar/locales/diez-candidatas-se-presentaron-antes-de-la-eleccion-de-la-paisana-nacional"
     },
     {
-     "titulo": "Mesa Federal Minera: qué piden los gobernadores no mineros al sector y el reclamo que hizo Caputo a las empresas Por Carolina Putelli",
+     "titulo": "Karina Milei y Jorge Macri recorrieron Palermo por la visita papal",
+     "medio": "El Zonda",
+     "fecha": "01/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-palermo-por-la-visita-papal"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Fallo contra Diario de Cuyo por afectación al honor e imagen de abogada local",
      "medio": "Diario de Cuyo",
      "fecha": "01/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/cuyo-minero/mesa-federal-minera-que-piden-los-gobernadores-no-mineros-al-sector-y-el-reclamo-que-hizo-caputo-las-empresas-n6587317"
+     "url": "https://www.diariodecuyo.com.ar/politica/fallo-contra-diario-cuyo-afectacion-al-honor-e-imagen-abogada-local-n6587365"
+    }
+   ]
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Gobierno realizó una jornada de concientización sobre discapacidad e inclusión laboral",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "01/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/01/1227165-gobierno-realizo-una-jornada-de-concientizacion-sobre-discapacidad-e-inclusion-laboral/"
+    },
+    {
+     "titulo": "“Este programa es una oportunidad muy importante para mí”",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "01/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/01/1227144-este-programa-es-una-oportunidad-muy-importante-para-mi/"
+    },
+    {
+     "titulo": "La coparticipación a San Luis creció un 1,3% real interanual en octubre y superó los $155.000 millones",
+     "medio": "La Gaceta Digital",
+     "fecha": "01/11/2026",
+     "url": "https://lagacetadigital.com.ar/2026/11/01/la-coparticipacion-a-san-luis-crecio-un-13-real-interanual-en-octubre-y-supero-los-155-000-millones/"
     }
    ],
    "imagen": []
@@ -277,16 +392,24 @@
   "Santa Cruz": {
    "top3": [
     {
+     "titulo": "Ambiente advirtió incumplimientos en el relleno municipal y alertó por el riesgo para los productores de Punta Loyola",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "01/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/ambiente-advirtio-incumplimientos-en-el-relleno-municipal-y-alerto-por-el-riesgo-para-los-productores-de-punta-loyola",
+     "tag": "También en La Opinión Austral, El Diario Nuevo Día"
+    },
+    {
      "titulo": "Se concretó la XXX Sesión Ordinaria del Consejo Provincial de Niñez",
      "medio": "Prensa oficial de Santa Cruz",
      "fecha": "01/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/desarrollo-social/se-concreto-la-xxx-sesion-ordinaria-del-consejo-provincial-de-ninez"
+     "url": "https://noticias.santacruz.gob.ar/organismos/desarrollo-social/se-concreto-la-xxx-sesion-ordinaria-del-consejo-provincial-de-ninez",
+     "tag": "También en El Diario Nuevo Día"
     },
     {
-     "titulo": "Juicio Hotesur-Los Sauces: cómo funcionaba el circuito de dinero entre las empresas de Báez e Indalo y los Kirchner, según la Fiscalía",
-     "medio": "La Opinión Austral",
+     "titulo": "En clave política Muchos candidatos, una sola Gobernación",
+     "medio": "Tiempo Sur",
      "fecha": "01/11/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/juicio-hotesur-los-sauces-como-funcionaba-el-circuito-de-dinero-entre-las-empresas-de-baez-e-indalo-y-los-kirchner-segun-la-fiscalia-726337.html"
+     "url": "https://www.tiemposur.com.ar/politica/muchos-candidatos-una-sola-gobernacion"
     }
    ],
    "imagen": []
@@ -294,10 +417,10 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "El año que viene será el 37,8% de la población bonaerense El voto joven para 2027 y la provincia del futuro que no miran las campañas Rosario Ayerdi",
-     "medio": "Perfil",
+     "titulo": "La interna en el gobierno Karina Milei le marca la cancha a Patricia Bullrich en la carrera por la presidencia Laura Serra",
+     "medio": "Aire",
      "fecha": "01/11/2026",
-     "url": "https://www.perfil.com/politica/el-voto-joven-para-2027-y-la-provincia-del-futuro-que-no-miran-las-campanas-agBUf2t7Gh5H"
+     "url": "https://www.airedesantafe.com.ar/politica/karina-milei-le-marca-la-cancha-patricia-bullrich-la-carrera-la-presidencia-n675120"
     },
     {
      "titulo": "Bloqueos sindicales: tras el polémico fallo en San Nicolás, comienza un juicio clave contra Camioneros en Rosario",
@@ -306,10 +429,10 @@
      "url": "https://www.infobae.com/politica/2026/11/01/bloqueos-sindicales-tras-el-polemico-fallo-en-san-nicolas-comienza-un-juicio-clave-contra-camioneros-en-rosario/"
     },
     {
-     "titulo": "Italianos en Rosario: cierra la inscripción para poder elegir representantes en las elecciones",
+     "titulo": "Unidos y el desafío de sacar del pantano la reforma de seguridad",
      "medio": "La Capital",
      "fecha": "01/11/2026",
-     "url": "https://www.lacapital.com.ar/la-ciudad/italianos-rosario-cierra-la-inscripcion-poder-representantes-las-elecciones-n10289787.html"
+     "url": "https://www.lacapital.com.ar/politica/unidos-y-el-desafio-sacar-del-pantano-la-reforma-seguridad-n10289741.html"
     }
    ],
    "imagen": []
@@ -323,16 +446,16 @@
      "url": "https://nuevodiarioweb.com.ar/el-pais/info-santiago-estero-macri-aseguro-que-no-hay-avances-en-un-acuerdo-electoral-entre-el-pro-y-la-libertad-avanza-para-2027.htm"
     },
     {
-     "titulo": "País El Gobierno designó al nuevo subsecretario de Ciencia tras la renuncia de Lencina por \"destrato\" Hace 4 horas",
-     "medio": "Info del Estero",
+     "titulo": "Domingo Gattella asumió como intendente de Las Termas y presentó su proyecto de una ciudad activa todo el año",
+     "medio": "Nuevo Diario Web",
      "fecha": "01/11/2026",
-     "url": "https://infodelestero.com/2026/11/01/el-gobierno-designo-al-nuevo-subsecretario-de-ciencia-tras-la-renuncia-de-lencina-por-destrato"
+     "url": "https://nuevodiarioweb.com.ar/provinciales/domingo-gattella-asumio-como-intendente-de-las-termas-y-presento-su-proyecto-de-una-ciudad-activa-todo-el-ano.htm"
     },
     {
-     "titulo": "Locales El gobernador Elías Suárez remarcó la \"contundente decisión de los santiagueños\" con el \"26 a 0\" de los intendentes Hace 11 horas",
-     "medio": "Info del Estero",
+     "titulo": "Marcelo Bernasconi asumió como intendente y anunció los principales ejes de su gestión",
+     "medio": "Diario Panorama",
      "fecha": "01/11/2026",
-     "url": "https://infodelestero.com/2026/11/01/el-gobernador-elias-suarez-remarco-la-contundente-decision-de-los-santiaguenos-con-el-26-a-0-de"
+     "url": "https://www.diariopanorama.com/noticia/571504/marcelo-bernasconi-asumio-como-intendente-anuncio-principales-ejes-gestion"
     }
    ],
    "imagen": []
@@ -340,22 +463,22 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Catamarca busca achicar el Estado: enviarán un proyecto para incentivar el pase de estatales al sector privado",
-     "medio": "Los Primeros",
-     "fecha": "01/11/2026",
-     "url": "https://www.losprimeros.tv/politica/catamarca-busca-achicar-el-estado--enviaran-un-proyecto-para-incentivar-el-pase-de-estatales-al-sector-privado_a6ae72d8e09dee0a0b9b5c8e1"
-    },
-    {
-     "titulo": "Dimes y diretes de la política tucumana",
+     "titulo": "Elecciones 2027: cómo saber si estás en el padrón electoral desde la app Mi Argentina",
      "medio": "La Gaceta - Tucumán",
      "fecha": "01/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160519/politica/dimes-diretes-politica-tucumana.html"
+     "url": "https://www.lagaceta.com.ar/nota/1160552/politica/elecciones-2027-como-saber-si-estas-padron-electoral-desde-app-mi-argentina.html"
     },
     {
-     "titulo": "Revelan transferencias de la AFA a empresas fantasma por más de 57 millones de dólares",
-     "medio": "Los Primeros",
+     "titulo": "Elecciones 2027: Cuál es el panorama de los argentinos",
+     "medio": "LV12",
      "fecha": "01/11/2026",
-     "url": "https://www.losprimeros.tv/politica/revelan-transferencias-de-la-afa-a-empresas-fantasma-por-mas-de-57-millones-de-dolares_a6ae72fba09dee0a0b9b5dcee"
+     "url": "https://www.lv12.com.ar/elecciones/elecciones-2027-cual-es-el-panorama-los-argentinos-n205972"
+    },
+    {
+     "titulo": "Milei recupera aprobación, pero no logra revertir la desaprobación en medio de las dificultades de la economía cotidiana",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "01/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160565/politica/milei-recupera-aprobacion-pero-no-logra-revertir-desaprobacion-medio-dificultades-economia-cotidiana.html"
     }
    ],
    "imagen": []
@@ -375,9 +498,9 @@
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
-  "https://www.diariojornada.com.ar/home",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
+  "https://www.lapampanoticias.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://nuevarioja.com.ar/",
