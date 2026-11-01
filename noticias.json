@@ -1,7 +1,7 @@
 {
  "semana": "1 de noviembre de 2026",
  "fecha": "2026-11-01",
- "actualizado": "01/11 06:30",
+ "actualizado": "01/11 11:26",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -18,10 +18,10 @@
      "url": "https://www.infobae.com/politica/2026/11/01/sin-acuerdo-por-el-presupuesto-el-oficialismo-posterga-su-cronograma-y-se-encamina-a-las-extraordinarias/"
     },
     {
-     "titulo": "La Casa Rosada invitó a Villarruel a la visita del Papa León XIV",
-     "medio": "El Destape",
+     "titulo": "LETRA PEPE La elección de Brasil acomoda a la política argentina para 2027 Por Gabriela Pepe",
+     "medio": "Letra P",
      "fecha": "01/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/casa-rosada-invito-villarruel-visita-papa-leon-xiv-2026103122251"
+     "url": "https://www.letrap.com.ar/politica/la-eleccion-brasil-acomodo-la-politica-argentina-2027-n5427871"
     }
    ],
    "imagen": []
@@ -35,16 +35,16 @@
      "url": "https://www.infobae.com/politica/2026/11/01/el-complejo-panorama-del-gobierno-para-suspender-las-paso-alienta-a-kicillof-a-realizar-una-eleccion-unificada-en-pba/"
     },
     {
+     "titulo": "Kicillof rechazó candidaturas \"a dedo\" y La Cámpora le recordó que Cristina lo hizo gobernador: \"Ingratitud y estupidez\"",
+     "medio": "Noticia 1",
+     "fecha": "01/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/kicillof-rechazo-candidaturas-a-dedo-y-la-campora-le-recordo-que-cristina-lo-hizo-gobernador-ingratitud-y-estupidez"
+    },
+    {
      "titulo": "Kicillof ratifica su apuesta a las PASO y agita la discusión en el peronismo",
      "medio": "El Destape",
      "fecha": "01/11/2026",
      "url": "https://www.eldestapeweb.com/politica/kicillof-ratifica-apuesta-paso-agita-discusion-peronismo-20261110537"
-    },
-    {
-     "titulo": "El año que viene será el 37,8% de la población bonaerense El voto joven para 2027 y la provincia del futuro que no miran las campañas Rosario Ayerdi",
-     "medio": "Perfil",
-     "fecha": "01/11/2026",
-     "url": "https://www.perfil.com/politica/el-voto-joven-para-2027-y-la-provincia-del-futuro-que-no-miran-las-campanas-agBUf2t7Gh5H"
     }
    ],
    "imagen": []
@@ -56,6 +56,37 @@
      "medio": "Infobae",
      "fecha": "01/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/01/peligra-la-unidad-opositora-en-cordoba-la-incertidumbre-por-las-candidaturas-y-la-propuesta-que-llego-a-la-casa-rosada/"
+    },
+    {
+     "titulo": "Córdoba: por la creciente, quedó atrapado debajo de un puente y fue rescatado",
+     "medio": "CBA24N",
+     "fecha": "01/11/2026",
+     "url": "https://www.cba24n.com.ar/cordoba/cordoba--por-la-creciente--quedo-atrapado-debajo-de-un-puente-y-fue-rescatado_a6ae73f9ce4c94847296d107c",
+     "tag": "También en ElDoce, Hoy Dia"
+    },
+    {
+     "titulo": "Tensión entre Milei y el Vaticano por un requisito en la visita del papa León XIV",
+     "medio": "Hoy Dia",
+     "fecha": "01/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/tension-entre-milei-y-el-vaticano-por-un-requisito-en-la-visita-del-papa-leon-xiv-a-la-argentina/"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "Extendieron alerta por tormentas a 12 departamentos de Entre Ríos este domingo",
+     "medio": "Ahora",
+     "fecha": "01/11/2026",
+     "url": "https://ahora.com.ar/sociedad/extendieron-alerta-por-tormentas-a-12-departamentos-de-entre-rios-este-domingo",
+     "tag": "También en El Once"
+    },
+    {
+     "titulo": "Malvinas: confirmaron las audiencias por el reclamo argentino contra la explotación petrolera",
+     "medio": "El Once",
+     "fecha": "01/11/2026",
+     "url": "https://www.elonce.com/politica/malvinas-confirmaron-las-audiencias-por-el-reclamo-argentino-contra-la-explotacion-petrolera.htm"
     }
    ],
    "imagen": []
@@ -63,11 +94,22 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Una multitud celebró Halloween en Jujuy",
-     "medio": "El Tribuno",
+     "titulo": "El PJ de Jujuy después de Kicillof: la resurrección de Rivarola, la cruzada de Moisés y un mar de esquirlas Por Lucio Di Giuseppe",
+     "medio": "Letra P",
      "fecha": "01/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-1-1-34-0-una-multitud-celebro-halloween-en-jujuy",
-     "tag": "También en Somos Jujuy"
+     "url": "https://www.letrap.com.ar/politica/el-pj-jujuy-despues-kicillof-la-resurreccion-rivarola-la-cruzada-moises-y-un-mar-esquirlas-n5427876"
+    },
+    {
+     "titulo": "Tren Solar: Jujuy prepara un 2027 con nuevas experiencias",
+     "medio": "Jujuy al día",
+     "fecha": "01/11/2026",
+     "url": "https://www.jujuyaldia.com.ar/2026/11/01/tren-solar-jujuy-prepara-un-2027-con-nuevas-experiencias/"
+    },
+    {
+     "titulo": "Educación agradeció el compromiso y participación docente en la preparación del ingreso a 1er año 2027",
+     "medio": "Jujuy al día",
+     "fecha": "01/11/2026",
+     "url": "https://www.jujuyaldia.com.ar/2026/11/01/educacion-agradecio-el-compromiso-y-participacion-docente-en-la-preparacion-del-ingreso-a-1er-ano-2027/"
     }
    ],
    "imagen": []
@@ -75,10 +117,23 @@
   "La Pampa": {
    "top3": [
     {
+     "titulo": "Kroneberger en Pico: \"El único partido que puede liderar este frente amplio es la UCR\"",
+     "medio": "El Diario de La Pampa",
+     "fecha": "01/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82487/kroneberger-en-pico--el-unico-partido-que-puede-liderar-este-frente-amplio-es-la-ucr"
+    },
+    {
      "titulo": "La Pampa se sumó al Frente Ambiental Latinoamericano",
      "medio": "La Arena",
      "fecha": "01/11/2026",
      "url": "https://www.laarena.com.ar/la-pampa/la-pampa-se-sumo-al-frente-ambiental-latinoamericano-20261110120"
+    },
+    {
+     "titulo": "Comenzó la Expo Vivero en Toay",
+     "medio": "La Arena",
+     "fecha": "01/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/comenzo-la-expo-vivero-en-toay-2026111050",
+     "tag": "También en La Pampa 24"
     }
    ],
    "imagen": []
@@ -86,16 +141,35 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Quincho: los nuevos socios de Ramón, blindaje a Latorre y la banca de Ortiz",
-     "medio": "Mendoza Post",
+     "titulo": "Las dos internas mendocinas: de la guerra oficialista a un nuevo frente cercano al PJ",
+     "medio": "Diario UNO - MDZ",
      "fecha": "01/11/2026",
-     "url": "https://www.mendozapost.com/politica/no-aun-307/"
+     "url": "https://www.diariouno.com.ar/politica/las-dos-internas-mendocinas-la-guerra-oficialista-un-nuevo-frente-cercano-al-pj-n1612014"
+    },
+    {
+     "titulo": "Datos políticos: la impaciencia de Cornejo hace notar una grieta con Milei",
+     "medio": "Memo",
+     "fecha": "01/11/2026",
+     "url": "https://www.memo.com.ar/poder/abrelatas-resumen-ejecutivo-alianza-lla-cm-cornejo-karina-petri/",
+     "tag": "También en Mendoza Post"
+    },
+    {
+     "titulo": "Cómo obtener el libre deuda del Impuesto Automotor en línea",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "01/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/como-obtener-el-libre-deuda-del-impuesto-automotor-en-linea-12/"
     }
    ],
    "imagen": []
   },
   "Misiones": {
    "top3": [
+    {
+     "titulo": "María Corina Machado presiona por elecciones en Venezuela, pero el Gobierno todavía no fija una fecha",
+     "medio": "Primera Edición",
+     "fecha": "01/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101156542/maria-corina-machado-elecciones-venezuela-2027-delcy-rodriguez/"
+    },
     {
      "titulo": "Misioneros de Maradona presentó proyecto de parque homenaje al Diez en Posadas",
      "medio": "La Voz - Misiones",
@@ -105,19 +179,43 @@
    ],
    "imagen": []
   },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Acompañamiento a jóvenes emprendedores Un crédito rescató su emprendimiento de alquiler de inflables y hoy se prepara para la temporada de verano",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "01/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/01/266478-un-credito-rescato-su-emprendimiento-de-alquiler-de-inflables-y-hoy-se-prepara-para-la-temporada-de-verano"
+    },
+    {
+     "titulo": "Infraestructura operativa y penitenciaria Una por una las obras que impulsa la Provincia para mejorar la seguridad",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "01/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/01/266481-una-por-una-las-obras-que-impulsa-la-provincia-para-mejorar-la-seguridad"
+    }
+   ],
+   "imagen": []
+  },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Bariloche elige la Convención que reformará la Carta Orgánica Municipal",
+     "titulo": "Elecciones en Bariloche | Votó Govetto, de LLA: «estamos muy conformes con la campaña que hicimos»",
      "medio": "Diario Rio Negro",
      "fecha": "01/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/bariloche-elige-la-convencion-que-reformara-la-carta-organica-municipal/"
+     "url": "https://www.rionegro.com.ar/politica/elecciones-en-bariloche-voto-govetto-de-lla-estamos-muy-conformes-con-la-campana-que-hicimos-4780439/"
     },
     {
-     "titulo": "Cuánto cuesta viajar por el Estado en Río Negro: los gastos del Gobierno y las diferencias entre poderes",
+     "titulo": "Elecciones en Bariloche | Votó Sánchez, de Estamos Haciendo: «Esperamos que nos acompañen»",
      "medio": "Diario Rio Negro",
      "fecha": "01/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/cuanto-cuesta-viajar-por-el-estado-en-rio-negro-los-gastos-del-gobierno-y-las-diferencias-entre-poderes/"
+     "url": "https://www.rionegro.com.ar/politica/elecciones-en-bariloche-voto-sanchez-de-estamos-haciendo-bariloche-esperamos-que-nos-acompanen-4780467/"
+    },
+    {
+     "titulo": "Bariloche: hoy se vota la reforma de la Carta Orgánica",
+     "medio": "AN Roca",
+     "fecha": "01/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/01/230445-bariloche-hoy-se-vota-la-reforma-de-la-carta-organica",
+     "tag": "También en LCR, Noticias Net"
     }
    ],
    "imagen": []
@@ -131,10 +229,11 @@
      "url": "https://informatesalta.com.ar/politica/la-ucr-saltena-va-a-elecciones-el-8-de-noviembre--pero-una-lista-quedo-afuera-y-denuncia-irregularidades_a6ae51a8409dee0a0b9a57f73"
     },
     {
-     "titulo": "Sin ceder a los aliados, se frena el debate del Presupuesto y las Paso",
-     "medio": "El Tribuno",
+     "titulo": "Hasta hoy se podrá pescar con devolución obligatoria en el río Bermejo",
+     "medio": "Prensa oficial de Salta",
      "fecha": "01/11/2026",
-     "url": "https://www.eltribuno.com/nacionales/2026-11-1-0-0-0-sin-ceder-a-los-aliados-se-frena-el-debate-del-presupuesto-y-las-paso"
+     "url": "https://www.salta.gob.ar/prensa/noticias/hasta-hoy-se-podra-pescar-con-devolucion-obligatoria-en-el-rio-bermejo-110767",
+     "tag": "También en Informate Salta"
     },
     {
      "titulo": "Aprueban proyecto de presupuesto para sumar 919 cargos más en el Ministerio Público Fiscal",
@@ -155,16 +254,39 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "En San Juan, buscan que el Estado provincial reserve vacantes laborales para personas trans",
-     "medio": "Tiempo de San Juan",
-     "fecha": "01/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/en-san-juan-buscan-que-el-estado-provincial-reserve-vacantes-laborales-para-personas-trans_1793456834"
-    },
-    {
-     "titulo": "06:00 Boho romántico: flecos, encaje y volados, las claves de la moda primavera-verano 2026/2027",
+     "titulo": "Los dos candidateables en la largada del peronismo sanjuanino se cuentan las costillas con actos y fotos Por Fernando Ortiz",
      "medio": "Diario de Cuyo",
      "fecha": "01/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/revista-oh/boho-romantico-flecos-encaje-y-volados-las-claves-la-moda-primavera-verano-20262027-n6587075"
+     "url": "https://www.diariodecuyo.com.ar/politica/los-dos-candidateables-la-largada-del-peronismo-sanjuanino-se-cuentan-las-costillas-actos-y-fotos-n6587352"
+    },
+    {
+     "titulo": "Los proyectos de Malvinas y Banco Central piden pista de cara a la próxima sesión en Diputados",
+     "medio": "0264 Noticias",
+     "fecha": "01/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/01/115530-los-proyectos-de-malvinas-y-banco-central-piden-pista-de-cara-a-la-proxima-sesion-en-diputados"
+    },
+    {
+     "titulo": "Mesa Federal Minera: qué piden los gobernadores no mineros al sector y el reclamo que hizo Caputo a las empresas Por Carolina Putelli",
+     "medio": "Diario de Cuyo",
+     "fecha": "01/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/cuyo-minero/mesa-federal-minera-que-piden-los-gobernadores-no-mineros-al-sector-y-el-reclamo-que-hizo-caputo-las-empresas-n6587317"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Se concretó la XXX Sesión Ordinaria del Consejo Provincial de Niñez",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "01/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/desarrollo-social/se-concreto-la-xxx-sesion-ordinaria-del-consejo-provincial-de-ninez"
+    },
+    {
+     "titulo": "Juicio Hotesur-Los Sauces: cómo funcionaba el circuito de dinero entre las empresas de Báez e Indalo y los Kirchner, según la Fiscalía",
+     "medio": "La Opinión Austral",
+     "fecha": "01/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/juicio-hotesur-los-sauces-como-funcionaba-el-circuito-de-dinero-entre-las-empresas-de-baez-e-indalo-y-los-kirchner-segun-la-fiscalia-726337.html"
     }
    ],
    "imagen": []
@@ -182,6 +304,12 @@
      "medio": "Infobae",
      "fecha": "01/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/01/bloqueos-sindicales-tras-el-polemico-fallo-en-san-nicolas-comienza-un-juicio-clave-contra-camioneros-en-rosario/"
+    },
+    {
+     "titulo": "Italianos en Rosario: cierra la inscripción para poder elegir representantes en las elecciones",
+     "medio": "La Capital",
+     "fecha": "01/11/2026",
+     "url": "https://www.lacapital.com.ar/la-ciudad/italianos-rosario-cierra-la-inscripcion-poder-representantes-las-elecciones-n10289787.html"
     }
    ],
    "imagen": []
@@ -195,14 +323,13 @@
      "url": "https://nuevodiarioweb.com.ar/el-pais/info-santiago-estero-macri-aseguro-que-no-hay-avances-en-un-acuerdo-electoral-entre-el-pro-y-la-libertad-avanza-para-2027.htm"
     },
     {
-     "titulo": "Julio Castro asumió su cuarto mandato como intendente de Añatuya",
-     "medio": "El Liberal",
+     "titulo": "País El Gobierno designó al nuevo subsecretario de Ciencia tras la renuncia de Lencina por \"destrato\" Hace 4 horas",
+     "medio": "Info del Estero",
      "fecha": "01/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/96606/2026/11/julio-castro-asumio-su-cuarto-mandato-como-intendente-de-anatuya",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://infodelestero.com/2026/11/01/el-gobierno-designo-al-nuevo-subsecretario-de-ciencia-tras-la-renuncia-de-lencina-por-destrato"
     },
     {
-     "titulo": "Locales El gobernador Elías Suárez remarcó la \"contundente… El gobernador Elías Suárez remarcó la \"contundente decisión de los santiagueños\" con el \"26 a 0\" de los intendentes Seguir leyendo →",
+     "titulo": "Locales El gobernador Elías Suárez remarcó la \"contundente decisión de los santiagueños\" con el \"26 a 0\" de los intendentes Hace 11 horas",
      "medio": "Info del Estero",
      "fecha": "01/11/2026",
      "url": "https://infodelestero.com/2026/11/01/el-gobernador-elias-suarez-remarco-la-contundente-decision-de-los-santiaguenos-con-el-26-a-0-de"
@@ -213,16 +340,22 @@
   "Tucumán": {
    "top3": [
     {
+     "titulo": "Catamarca busca achicar el Estado: enviarán un proyecto para incentivar el pase de estatales al sector privado",
+     "medio": "Los Primeros",
+     "fecha": "01/11/2026",
+     "url": "https://www.losprimeros.tv/politica/catamarca-busca-achicar-el-estado--enviaran-un-proyecto-para-incentivar-el-pase-de-estatales-al-sector-privado_a6ae72d8e09dee0a0b9b5c8e1"
+    },
+    {
      "titulo": "Dimes y diretes de la política tucumana",
      "medio": "La Gaceta - Tucumán",
      "fecha": "01/11/2026",
      "url": "https://www.lagaceta.com.ar/nota/1160519/politica/dimes-diretes-politica-tucumana.html"
     },
     {
-     "titulo": "La Justicia le negó la libertad al tucumano José López tras su confesión desde la cárcel",
+     "titulo": "Revelan transferencias de la AFA a empresas fantasma por más de 57 millones de dólares",
      "medio": "Los Primeros",
      "fecha": "01/11/2026",
-     "url": "https://www.losprimeros.tv/politica/la-justicia-le-nego-la-libertad-al-tucumano-jose-lopez-tras-su-confesion-desde-la-carcel_a6ae6a51109dee0a0b9b4177e"
+     "url": "https://www.losprimeros.tv/politica/revelan-transferencias-de-la-afa-a-empresas-fantasma-por-mas-de-57-millones-de-dolares_a6ae72fba09dee0a0b9b5dcee"
     }
    ],
    "imagen": []
@@ -242,6 +375,7 @@
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
+  "https://www.diariojornada.com.ar/home",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
   "https://www.elindependiente.com.ar/",
