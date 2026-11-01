@@ -1,16 +1,52 @@
 {
- "actualizado": "01/11 06:30",
+ "actualizado": "01/11 07:27",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "clima",
+   "busquedas": "50000+",
+   "nota": "Clima en Ciudad Autónoma de Buenos Aires hoy: cuál es el pronóstico del tiempo para el 1 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/ciudad-de-buenos-aires/clima-en-ciudad-autonoma-de-buenos-aires-hoy-cual-es-el-pronostico-del-tiempo-para-el-1-de-noviembre-nid31102026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "weather",
+   "busquedas": "200+",
+   "nota": "Cold Front Headed To South Louisiana, Temperatures Could Take Serious Dip",
+   "nota_url": "https://999ktdy.com/louisiana-strongest-cold-front/",
+   "medio": "99.9 KTDY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de club américa contra deportivo toluca",
+   "busquedas": "1000+",
+   "nota": "¿Por qué no juegan Paulinho y Alexis Vega en América vs. Toluca por la Liga MX?",
+   "nota_url": "https://bolavip.com/mx/ligamx/por-que-no-juegan-paulinho-y-alexis-vega-en-america-vs-toluca-por-la-liga-mx",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "fuego",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Durante una pelea con su padre incendió una habitación y quedó preso",
    "nota_url": "https://www.elchubut.com.ar/policiales/2026-10-31-22-11-0-durante-una-pelea-con-su-padre-incendio-una-habitacion-y-quedo-preso",
    "medio": "El Chubut",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "xbox cloud gaming",
+   "busquedas": "100+",
+   "nota": "From dual-screen handhelds to Xbox Cloud Gaming, DroidDeck just got a huge update",
+   "nota_url": "https://www.androidauthority.com/droiddeck-update-xbox-cloud-gaming-3729907/",
+   "medio": "Android Authority",
    "relevante": false,
    "temas": []
   },
@@ -42,56 +78,20 @@
    "temas": []
   },
   {
+   "tema": "posiciones de colorado rapids contra chicago fire fc",
+   "busquedas": "1000+",
+   "nota": "Robert Lewandowski breaks drought as Chicago Fire build playoff momentum",
+   "nota_url": "https://sports.yahoo.com/articles/robert-lewandowski-breaks-drought-chicago-040900180.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "inpres",
    "busquedas": "200+",
    "nota": "El INPRES mantuvo al sur de San Juan en la zona de mayor peligro",
    "nota_url": "https://www.diarioelzondasj.com.ar/locales/el-inpres-mantuvo-al-sur-de-san-juan-en-la-zona-de-mayor-peligro",
    "medio": "El Zonda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gilberto mora",
-   "busquedas": "200+",
-   "nota": "¿Por qué no juega Gilberto Mora en América vs. Xolos por el postergado del Apertura 2026?",
-   "nota_url": "https://vive.click/por-que-no-juega-gilberto-mora-en-america-vs-xolos-por-el-postergado-del-apertura-2026/",
-   "medio": "Vive Click",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jack nicholson",
-   "busquedas": "200+",
-   "nota": "Revisit Jack Nicholson's iconic roles amid his unofficial retirement",
-   "nota_url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/10/31/jack-nicholson-iconic-performances-photos/92536862007/",
-   "medio": "USA Today",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "américa - toluca",
-   "busquedas": "1000+",
-   "nota": "¿Por qué no juegan Paulinho y Alexis Vega en América vs. Toluca por la Liga MX?",
-   "nota_url": "https://bolavip.com/mx/ligamx/por-que-no-juegan-paulinho-y-alexis-vega-en-america-vs-toluca-por-la-liga-mx",
-   "medio": "Bolavip México",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "1 de noviembre que se celebra",
-   "busquedas": "200+",
-   "nota": "Fiesta de todos los Santos",
-   "nota_url": "https://www.religionenlibertad.com/blogs/jesucristo-es-el-primero-en-todo/261031/fiesta-todos-santos_120743.html",
-   "medio": "Religión en Libertad",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tom nolan",
-   "busquedas": "100+",
-   "nota": "UFC Halloween Bonuses! Erosa Ends UFC Run With $100K KO",
-   "nota_url": "https://sports.yahoo.com/articles/ufc-halloween-bonuses-erosa-ends-040812173.html",
-   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
