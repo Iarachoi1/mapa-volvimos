@@ -1,10 +1,64 @@
 {
- "actualizado": "31/10 22:50",
+ "actualizado": "31/10 23:36",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "lawson",
+   "busquedas": "2000+",
+   "nota": "Cambió la grilla del GP de México tras una sanción a otro piloto: qué pasó con Franco Colapinto",
+   "nota_url": "https://tn.com.ar/deportes/formula-1/2026/10/31/franco-colapinto-avanzo-un-puesto-en-la-grilla-del-gp-de-mexico-tras-la-descalificacion-de-otro-piloto/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wnba",
+   "busquedas": "100+",
+   "nota": "USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context",
+   "nota_url": "https://www.foxnews.com/outkick-sports/usa-sports-nbc-claim-record-wnba-finals-ratings-comparisons-leave-out-important-context",
+   "medio": "Fox News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alerta roja",
+   "busquedas": "200+",
+   "nota": "Brindan ayuda concreta ante la emergencia hídrica regional",
+   "nota_url": "https://www.diarioepoca.com/1394021-brindan-ayuda-concreta-ante-la-emergencia-hidrica-regional",
+   "medio": "Diario Época Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marido de la china ansa",
+   "busquedas": "500+",
+   "nota": "Pablo Migliore reveló el enojo de su familia con Nora Colosimo por el rumor con la China Ansa: \"Mi mamá y mis hermanas están odiadas\"",
+   "nota_url": "https://www.pronto.com.ar/television/2026/10/30/pablo-migliore-revelo-el-enojo-de-su-familia-con-nora-colosimo-por-el-rumor-con-la-china-ansa-mi-mam-265771.html",
+   "medio": "Pronto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "colorado - chicago fire",
+   "busquedas": "200+",
+   "nota": "Rapids, Fire renew rivalry for first time since 2019 with playoff stakes",
+   "nota_url": "https://www.sacbee.com/sports/soccer/article317859351.html",
+   "medio": "Sacramento Bee",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "monterrey - tijuana",
+   "busquedas": "500+",
+   "nota": "¡Golazo de taquito! Así fue la anotación de Hugo Cuypers en el Rayados vs. Xolos",
+   "nota_url": "https://www.record.com.mx/historia/asi-fue-golazo-hugo-cuypers-rayados-vs-xolos-2026110102131748421",
+   "medio": "Récord",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "squash",
    "busquedas": "500+",
@@ -15,29 +69,20 @@
    "temas": []
   },
   {
-   "tema": "monterrey - tijuana",
-   "busquedas": "200+",
-   "nota": "⚽ ¡Se viene! Te decimos a qué HORA y en DÓNDE VER el Rayados vs Xolos de la Liga MX 🤠🆚🐶",
-   "nota_url": "https://www.facebook.com/MilenioDiario/posts/-se-vienete-decimos-a-qu%C3%A9-hora-y-en-d%C3%B3nde-ver-el-rayados-vs-xolos-de-la-liga-mx-/1662932165864248/",
-   "medio": "Facebook",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "noelia marzol",
    "busquedas": "200+",
-   "nota": "Tierno momento: Noelia Marzol lloró tras un mal día de trabajo y sus hijos la consolaron",
-   "nota_url": "https://elintransigente.com/2026/10/29/noelia-marzol-crisis-llanto-hijo-donatello-la-consolo/",
-   "medio": "El Intransigente",
+   "nota": "Noelia Marzol vivió un emotivo momento cuando su hijo Donatello la consoló tras una crisis",
+   "nota_url": "https://www.telebajocero.com/noelia-marzol/noelia-marzol-vivio-un-emotivo-momento-cuando-su-hijo-donatello-la-consolo-una-crisis-n1360777",
+   "medio": "Telebajocero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "china ansa",
-   "busquedas": "2000+",
-   "nota": "Qué dijo Andy Kusnetzoff tras el escándalo entre Santi Maratea y la China Ansa en PH, Podemos Hablar",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1160384/espectaculos/que-dijo-andy-kusnetzoff-tras-escandalo-entre-santi-maratea-china-ansa-ph-podemos-hablar.html",
-   "medio": "La Gaceta",
+   "tema": "santi maratea",
+   "busquedas": "5000+",
+   "nota": "MSHOW - Programa del 30/10/26 ANDY KUSNETZOFF HABLÓ DEL CRUCE DE LA CHINA ANSA Y SANTI MARATEA",
+   "nota_url": "https://www.ciudad.com.ar/videos/magazine/2026/10/30/mshow-programa-del-301026-andy-kusnetzoff-hablo-del-cruce-de-la-china-ansa-y-santi-maratea/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
@@ -47,51 +92,6 @@
    "nota": "Where to watch Rockets vs Thunder Live Streams",
    "nota_url": "https://mnlr.ro/mnlr3.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2V2YXJ1aXo1Ni5naXRodWIuaW8vdG9tL3h5ei54bWwiLz48L2tycGFubz4=&id=video-where-to-watch-rockets-vs-thunder-live-dnroe",
    "medio": "Muzeul Național al Literaturii Române",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dinero en efectivo",
-   "busquedas": "100+",
-   "nota": "El sistema financiero sumó usuarios, pero hay menos ahorro y crédito",
-   "nota_url": "https://www.memo.com.ar/bancos/mas-cuentas-pagos-digitales-y-credito-que-revela-el-banco-central-sobre-la-inclusion-financiera-en-argentina/",
-   "medio": "Memo.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lourdes sánchez",
-   "busquedas": "500+",
-   "nota": "El Chato Prada y Lourdes Sánchez celebraron los 10 años de su hijo Valentín con emotivos recuerdos: el detalle que llamó la atención",
-   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/10/31/el-chato-prada-y-lourdes-sanchez-celebraron-los-10-anos-de-su-hijo-valentin-con-emotivos-recuerdos-e-265782.html",
-   "medio": "Pronto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones liga argentina",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucks - cavaliers",
-   "busquedas": "200+",
-   "nota": "Cavaliers vs. Bucks: Prediction, How to Watch for Free (10/31/26)",
-   "nota_url": "https://globelynews.com/americas/cavaliers-vs-bucks-prediction-how-to-watch-for-free-10-31-26/",
-   "medio": "Globely News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tabla de posiciones liga argentina",
-   "busquedas": "200+",
-   "nota": "Di Carlo habló de todo tras la reunión de AFA: los \"10 descensos\", el apoyo de Estudiantes y el \"problema de fondo\"",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17449895/stefano-di-carlo-reunion-afa-comite-ejecutivo-tapia",
-   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
