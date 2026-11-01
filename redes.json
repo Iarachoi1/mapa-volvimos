@@ -1,5 +1,5 @@
 {
- "actualizado": "01/11 03:35",
+ "actualizado": "01/11 04:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -8,9 +8,9 @@
   {
    "tema": "colisión película netflix",
    "busquedas": "200+",
-   "nota": "Hoy en Netflix: un nuevo thriller de suspenso sobre el robo de un banco en España",
-   "nota_url": "https://www.losandes.com.ar/espectaculos/hoy-netflix-un-nuevo-thriller-suspenso-el-robo-un-banco-espana-n6012388",
-   "medio": "Los Andes",
+   "nota": "Luis Zahera arrasa en Netflix con el estreno de \"Colisión\", su nuevo thriller español",
+   "nota_url": "https://www.a24.com/trends/luis-zahera-arrasa-netflix-el-estreno-colision-su-nuevo-thriller-espanol-n1611714",
+   "medio": "A24.com",
    "relevante": false,
    "temas": []
   },
@@ -29,15 +29,6 @@
    "nota": "Loto Plus: tres apostadores se llevaron más de $6 millones",
    "nota_url": "https://www.elcordillerano.com.ar/noticias/2026/10/25/269295-loto-plus-tres-apostadores-se-llevaron-mas-de-6-millones",
    "medio": "Diario El Cordillerano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de colorado rapids contra chicago fire fc",
-   "busquedas": "1000+",
-   "nota": "Jonathan Bamba scores 2 goals for Fire in 4-2 win over Rapids",
-   "nota_url": "https://www.foxsports.com/articles/soccer/jonathan-bamba-scores-2-goals-for-fire-in-42-win-over-rapids",
-   "medio": "FOX Sports",
    "relevante": false,
    "temas": []
   },
@@ -80,9 +71,9 @@
   {
    "tema": "1 de noviembre que se celebra",
    "busquedas": "200+",
-   "nota": "Fiesta de todos los Santos",
-   "nota_url": "https://www.religionenlibertad.com/blogs/jesucristo-es-el-primero-en-todo/261031/fiesta-todos-santos_120743.html",
-   "medio": "Religión en Libertad",
+   "nota": "1° de noviembre: Día de Todos los Santos para renovar la fe y la esperanza",
+   "nota_url": "https://www.noticiastornquist.com.ar/2026/11/01/1-de-noviembre-dia-de-todos-los-santos-para-renovar-la-fe-y-la-esperanza-1/",
+   "medio": "Noticias Tornquist",
    "relevante": false,
    "temas": []
   },
@@ -92,6 +83,15 @@
    "nota": "Renato Moicano v Tom Nolan Prediction and Tips",
    "nota_url": "https://news.bet365.com/en-gb/article/mma-renato-moicano-tom-nolan-prediction-and-tips/2026103009175170910",
    "medio": "news.bet365.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "heidi klum",
+   "busquedas": "1000+",
+   "nota": "Heidi Klum Deserves a Hand for Halloween Costume's Hidden Nod to Husband Tom Kaulitz",
+   "nota_url": "https://www.eonline.com/ca/news/1437649/heidi-klum-halloween-2026-costume-explained-her-hand-tom-kaulitz-tattoo",
+   "medio": "E! News",
    "relevante": false,
    "temas": []
   }
