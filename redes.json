@@ -1,13 +1,22 @@
 {
- "actualizado": "01/11 05:35",
+ "actualizado": "01/11 06:30",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "fuego",
+   "busquedas": "100+",
+   "nota": "Durante una pelea con su padre incendió una habitación y quedó preso",
+   "nota_url": "https://www.elchubut.com.ar/policiales/2026-10-31-22-11-0-durante-una-pelea-con-su-padre-incendio-una-habitacion-y-quedo-preso",
+   "medio": "El Chubut",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "colisión película netflix",
-   "busquedas": "200+",
+   "busquedas": "100+",
    "nota": "Luis Zahera arrasa en Netflix con el estreno de \"Colisión\", su nuevo thriller español",
    "nota_url": "https://www.a24.com/trends/luis-zahera-arrasa-netflix-el-estreno-colision-su-nuevo-thriller-espanol-n1611714",
    "medio": "A24.com",
@@ -71,9 +80,9 @@
   {
    "tema": "1 de noviembre que se celebra",
    "busquedas": "200+",
-   "nota": "1° de noviembre: Día de Todos los Santos para renovar la fe y la esperanza",
-   "nota_url": "https://www.noticiastornquist.com.ar/2026/11/01/1-de-noviembre-dia-de-todos-los-santos-para-renovar-la-fe-y-la-esperanza-1/",
-   "medio": "Noticias Tornquist",
+   "nota": "Fiesta de todos los Santos",
+   "nota_url": "https://www.religionenlibertad.com/blogs/jesucristo-es-el-primero-en-todo/261031/fiesta-todos-santos_120743.html",
+   "medio": "Religión en Libertad",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "UFC Halloween Bonuses! Erosa Ends UFC Run With $100K KO",
    "nota_url": "https://sports.yahoo.com/articles/ufc-halloween-bonuses-erosa-ends-040812173.html",
    "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "heidi klum",
-   "busquedas": "1000+",
-   "nota": "Halloween queen Heidi Klum deserves a hand for her costume in 2026",
-   "nota_url": "https://www.wagmtv.com/2026/11/01/halloween-queen-heidi-klum-deserves-hand-her-costume-2026/",
-   "medio": "WAGM",
    "relevante": false,
    "temas": []
   }
