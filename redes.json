@@ -1,10 +1,55 @@
 {
- "actualizado": "01/11 11:26",
+ "actualizado": "01/11 12:23",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "gladys, la bomba tucumana",
+   "busquedas": "200+",
+   "nota": "La Bomba cierra su negocio de empanadas en Recoleta, despide a los empleados y le echa la culpa al Gobierno de Milei",
+   "nota_url": "https://www.contextotucuman.com/nota/427149/la-bomba-cierra-su-negocio-de-empanadas-en-recoleta-despide-a-los-empleados-y-le-echa-la-culpa-al-gobierno-de-milei.html",
+   "medio": "Contexto Tucumán",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "edinson cavani",
+   "busquedas": "200+",
+   "nota": "Tras irse de Boca, Edinson Cavani habría encontrado un nuevo club",
+   "nota_url": "https://elcrackdeportivo.com.ar/boca/tras-irse-de-boca-edinson-cavani-habria-encontrado-un-nuevo-club-20261101-0002.html",
+   "medio": "El Crack Deportivo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "directv",
+   "busquedas": "200+",
+   "nota": "Alineaciones de Racing de Santander y Real Madrid para el duelo de la jornada 11 de la LaLiga",
+   "nota_url": "https://bolavip.com/ar/europa/alineaciones-de-racing-de-santander-y-real-madrid-para-el-duelo-de-la-jornada-11-de-la-laliga",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lazio vs",
+   "busquedas": "100+",
+   "nota": "Pronóstico Lazio vs Cagliari: Lazio Más de 1.5 Goles en la Serie A",
+   "nota_url": "https://gainblers.com/ar/pronosticos/futbol/italia/serie-a/pronostico-lazio-cagliari-01-11-2026/",
+   "medio": "Gainblers",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de levante badalona contra fútbol club barcelona femenino",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "frosinone - torino",
    "busquedas": "200+",
@@ -16,9 +61,9 @@
   },
   {
    "tema": "lazio - cagliari",
-   "busquedas": "500+",
-   "nota": "+[!STREAMING@TV] Lazio e Cagliari dove vederla in diretta tv e streaming gratis 01 novembre 2026",
-   "nota_url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-lazio-e-cagliari-liv-str-olzxtqr",
+   "busquedas": "2000+",
+   "nota": "[CALCIO-LIVE] Lazio e Cagliari in streaming 01 novembre 2026",
+   "nota_url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-lazio-e-cagliari-liv-str-wnmw8",
    "medio": "Pierce Manufacturing",
    "relevante": false,
    "temas": []
@@ -33,65 +78,20 @@
    "temas": []
   },
   {
+   "tema": "2 de noviembre que se celebra",
+   "busquedas": "100+",
+   "nota": "Brujas, santos y difuntos: ¿qué rituales se recomiendan para los últimos días de octubre y los primeros de noviembre?",
+   "nota_url": "https://www.conclusion.com.ar/info-general/brujas-santos-y-difuntos-que-rituales-se-recomiendan-para-los-ultimos-dias-de-octubre-y-los-primeros-de-noviembre/10/2026/",
+   "medio": "Diario Digital Conclusión",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "alcaraz",
-   "busquedas": "1000+",
-   "nota": "Alcaraz tumba a Medvedev en semifinales y luchará por su primer título en Viena",
-   "nota_url": "https://www.tycsports.com/tenis/alcaraz-tumba-a-medvedev-en-semifinales-y-luchara-por-su-primer-titulo-en-viena-id769616.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clasico",
-   "busquedas": "100+",
-   "nota": "Manuel Abentín aporta goles en el Torneo Regional Amateur",
-   "nota_url": "https://www.diarionoticiaspehuajo.com/2026-10-28/manuel-abentin-aporta-goles-en-el-torneo-regional-amateur-43450/",
-   "medio": "Noticias Pehuajó",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "automóvil",
-   "busquedas": "100+",
-   "nota": "Dos ocupantes de una moto fueron hospitalizados tras colisionar con un automóvil en Posadas",
-   "nota_url": "https://nortemisionero.com.ar/policiales/dos-ocupantes-de-una-moto-fueron-hospitalizados-tras-colisionar-con-un-automovil-en-posadas/",
-   "medio": "Norte Misionero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "super clasico",
-   "busquedas": "100+",
-   "nota": "La fuerte predicción del tarotista de River para el Superclásico: \"Un penal...\"",
-   "nota_url": "https://www.tycsports.com/river-plate/la-prediccion-del-tarotista-de-river-para-el-superclasico-boca-id769371.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "heidi klum halloween",
-   "busquedas": "200+",
-   "nota": "Darum fehlte ihr Ehemann auf Heidi Klums Halloween-Party – \"Ein bisschen Tom ist bei mir\"",
-   "nota_url": "https://www.t-online.de/unterhaltung/stars/id_101507318/heidi-klum-darum-fehlte-ehemann-tom-kaulitz-auf-ihrer-halloween-party.html",
-   "medio": "T-Online",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "terremoto sismo temblor hoy epicentro",
-   "busquedas": "200+",
-   "nota": "Fuerte sismo de 6.0 sacude Japón; descartan riesgo de tsunami",
-   "nota_url": "https://www.debate.com.mx/mundo/fuerte-sismo-de-6.0-sacude-japon-descartan-riesgo-de-tsunami-20261031-0180.html",
-   "medio": "Debate",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "como fc",
-   "busquedas": "200+",
-   "nota": "Como beats Milan, Fabregas' team is forgiven a penalty",
-   "nota_url": "https://www.cna.al/english/sport/como-kalon-milanin-skuadra-e-fabregas-i-falet-nje-penalltie-i478594",
-   "medio": "www.cna.al",
+   "busquedas": "2000+",
+   "nota": "Alcaraz - De Miñaur, en directo: final del ATP 500 de Viena hoy en vivo online",
+   "nota_url": "https://as.com/tenis/mas_tenis/carlos-alcaraz-de-minaur-en-directo-final-del-atp-500-de-viena-hoy-en-vivo-online-f202611-d/",
+   "medio": "Diario AS",
    "relevante": false,
    "temas": []
   }
