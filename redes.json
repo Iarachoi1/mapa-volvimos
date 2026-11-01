@@ -1,22 +1,58 @@
 {
- "actualizado": "01/11 08:22",
+ "actualizado": "01/11 09:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "como - venezia",
+   "tema": "guillermo barros schelotto",
+   "busquedas": "100+",
+   "nota": "El futuro de Guillermo despierta interés en La Plata",
+   "nota_url": "https://eleditorplatense.com/deportes/el-futuro-de-guillermo-despierta-interes-en-la-plata-naf933355-a37a-429b-999c-403bf3e24530",
+   "medio": "El Editor Platense",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "levante badalona - barcelona",
    "busquedas": "200+",
-   "nota": "Dónde ver el Como-Venezia: streaming, canales de televisión, fecha, hora y alineaciones",
-   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-el-como-venezia-streaming-canales-de-television-fecha-hora-y-alineaciones/blt67a1800595fae407",
-   "medio": "Goal.com",
+   "nota": "A seguir sumando en Palamós",
+   "nota_url": "https://www.fcbarcelona.es/es/futbol/femenino-a/noticias/4602351/a-seguir-sumando-en-palamos",
+   "medio": "FC Barcelona",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "joan manuel serrat",
+   "busquedas": "100+",
+   "nota": "Joan Manuel Serrat, 82 años, sobre la actualidad de España: “Lo que está ocurriendo es producto de años de desgaste, creo es un buen momento para manifestarse”",
+   "nota_url": "https://www.canal26.com/espectaculos/2026/10/30/joan-manuel-serrat-82-anos-sobre-la-actualidad-de-espana-lo-que-esta-ocurriendo-es-producto-de-anos-de-desgaste-creo-es-un-buen-momento-para-manifestarse/",
+   "medio": "Canal26",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juan manuel cerúndolo",
+   "busquedas": "1000+",
+   "nota": "Tres argentinos quedaron a un triunfo de entrar al cuadro del Masters 1000 de París",
+   "nota_url": "https://fm977.com.ar/articulo/2026/10/tres-argentinos-quedaron-a-un-triunfo-de-entrar-al-cuadro-del-masters-1000-de-paris.php",
+   "medio": "La Señal FM - 97.7",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "como - venezia",
+   "busquedas": "2000+",
+   "nota": "Como 1907 vs. Venezia, EN VIVO: dónde ver por TV y ONLINE",
+   "nota_url": "https://www.tycsports.com/serie-a/como-1907-vs-venezia-en-vivo-donde-ver-por-tv-y-online-id769584.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "thiago agustín tirante",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Thiago Agustin Tirante Zachary Svajda live score and H2H results",
    "nota_url": "https://www.sofascore.com/tennis/match/zachary-svajda-thiago-agustin-tirante/pFNbsXouc",
    "medio": "Sofascore",
@@ -25,73 +61,39 @@
   },
   {
    "tema": "clima",
-   "busquedas": "100000+",
-   "nota": "Clima hoy en La Plata, Buenos Aires: el pronóstico del tiempo para este domingo 1 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-plata-buenos-aires-pronostico-tiempo-domingo-1-noviembre-2026_0_XPORHwLXqz.html",
-   "medio": "Clarín",
+   "busquedas": "1000000+",
+   "nota": "Alerta amarillo: el SMN pronosticó tormentas para CABA y el centro del país este domingo",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/01/alerta-amarillo-el-smn-pronostico-tormentas-para-caba-y-el-centro-del-pais-este-domingo/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "weather",
+   "busquedas": "500+",
+   "nota": "Sunday 530pm Weather",
+   "nota_url": "https://www.krgv.com/videos/sunday-530pm-weather-143278/",
+   "medio": "KRGV",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "weather",
-   "busquedas": "200+",
-   "nota": "Several chances for rain as November begins",
-   "nota_url": "https://fox59.com/weather/several-chances-for-rain-as-november-begins/",
-   "medio": "Fox 59",
+   "tema": "posiciones de club américa contra deportivo toluca",
+   "busquedas": "1000+",
+   "nota": "¿Por qué no juegan Paulinho y Alexis Vega en América vs. Toluca por la Liga MX?",
+   "nota_url": "https://bolavip.com/mx/ligamx/por-que-no-juegan-paulinho-y-alexis-vega-en-america-vs-toluca-por-la-liga-mx",
+   "medio": "Bolavip México",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fuego",
-   "busquedas": "500+",
-   "nota": "Durante una pelea con su padre incendió una habitación y quedó preso",
-   "nota_url": "https://www.elchubut.com.ar/policiales/2026-10-31-22-11-0-durante-una-pelea-con-su-padre-incendio-una-habitacion-y-quedo-preso",
-   "medio": "El Chubut",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "xbox cloud gaming",
-   "busquedas": "200+",
-   "nota": "From dual-screen handhelds to Xbox Cloud Gaming, DroidDeck just got a huge update",
-   "nota_url": "https://www.androidauthority.com/droiddeck-update-xbox-cloud-gaming-3729907/",
-   "medio": "Android Authority",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "colisión película netflix",
-   "busquedas": "100+",
-   "nota": "Luis Zahera arrasa en Netflix con el estreno de \"Colisión\", su nuevo thriller español",
-   "nota_url": "https://www.a24.com/trends/luis-zahera-arrasa-netflix-el-estreno-colision-su-nuevo-thriller-espanol-n1611714",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mi argentina",
-   "busquedas": "500+",
-   "nota": "Licencia de conducir digital en Mi Argentina: cómo mostrarla sin internet",
-   "nota_url": "https://www.elonce.com/sociedad/licencia-de-conducir-digital-en-mi-argentina-como-mostrarla-sin-internet.htm",
-   "medio": "Elonce.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "loto plus hoy",
-   "busquedas": "200+",
-   "nota": "Loto Plus: tres apostadores se llevaron más de $6 millones",
-   "nota_url": "https://www.elcordillerano.com.ar/noticias/2026/10/25/269295-loto-plus-tres-apostadores-se-llevaron-mas-de-6-millones",
-   "medio": "Diario El Cordillerano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de colorado rapids contra chicago fire fc",
    "busquedas": "1000+",
-   "nota": "Robert Lewandowski breaks drought as Chicago Fire build playoff momentum",
-   "nota_url": "https://sports.yahoo.com/articles/robert-lewandowski-breaks-drought-chicago-040900180.html",
-   "medio": "Yahoo Sports",
+   "nota": "Detienen a un hombre en Trelew por un incendio luego de discutir con su padre",
+   "nota_url": "https://lu17.com/contenido/155630/detienen-a-un-hombre-en-trelew-por-un-incendio-luego-de-discutir-con-su-padre",
+   "medio": "LA17",
    "relevante": false,
    "temas": []
   }
