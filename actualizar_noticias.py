@@ -20,6 +20,7 @@ Para cambiar cosas sin tocar el código, editá:
   - las listas de PALABRAS de abajo -> qué cuenta como noticia política
 """
 
+import calendar
 import json
 import re
 import unicodedata
@@ -51,7 +52,7 @@ MAX_IMAGEN = 4            # notas de "Imagen, evaluación y candidatos"
 PUNTAJE_MINIMO = 3        # debajo de esto, la nota no se publica
 MAX_MISMO_MEDIO = 2       # máximo de notas del mismo medio en un top
 TIEMPO_ESPERA = 20        # segundos antes de dar por caído un medio
-MAX_FECHAS_A_VERIFICAR = 80  # notas que abre para leer su fecha real
+MAX_FECHAS_A_VERIFICAR = 300  # notas que abre para leer su fecha real (las que no se pueden fechar no se publican)
 
 NAVEGADOR = {
     "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -230,6 +231,18 @@ def fecha_desde_url(url):
 def fecha_desde_texto(valor):
     if not valor:
         return None
+    # Fecha con hora y zona (2026-11-01T23:30:00Z): pasarla a hora argentina,
+    # así una nota de anoche a las 22 h no aparece como de hoy.
+    m = re.search(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?(\.\d+)?(Z|[+-]\d{2}:?\d{2})", valor)
+    if m:
+        try:
+            iso = m.group(0).replace("Z", "+00:00")
+            if re.search(r"[+-]\d{4}$", iso):
+                iso = iso[:-2] + ":" + iso[-2:]
+            d = datetime.fromisoformat(iso).astimezone(ZONA).date()
+            return fecha_valida(d.year, d.month, d.day)
+        except ValueError:
+            pass
     m = re.search(r"(20\d{2})-(\d{2})-(\d{2})", valor)
     if m:
         return fecha_valida(*m.groups())
@@ -262,7 +275,9 @@ def notas_de_rss(contenido, medio_url):
         for campo in ("published_parsed", "updated_parsed"):
             t = e.get(campo)
             if t:
-                f = fecha_valida(t.tm_year, t.tm_mon, t.tm_mday)
+                # feedparser da la hora en UTC: pasarla a hora argentina
+                d = datetime.fromtimestamp(calendar.timegm(t), ZONA).date()
+                f = fecha_valida(d.year, d.month, d.day)
                 break
         notas.append({"titulo": titulo, "url": urljoin(medio_url, link),
                       "fecha": f or fecha_desde_url(link)})
@@ -345,8 +360,11 @@ def fecha_real_de_nota(url):
         r'content=["\']([^"\']+)["\'][^>]*property=["\']article:published_time',
         r'"datePublished"\s*:\s*"([^"]+)"',
         r'itemprop=["\']datePublished["\'][^>]*content=["\']([^"\']+)',
-        r'<time[^>]*datetime=["\']([^"\']+)',
+        r'<time[^>]*itemprop=["\']datePublished["\'][^>]*datetime=["\']([^"\']+)',
+        r'<time[^>]*pubdate[^>]*datetime=["\']([^"\']+)',
     ]
+    # (No se usa cualquier <time> de la página: muchos medios ponen la fecha
+    # de HOY en el encabezado, y eso hacía pasar notas viejas como nuevas.)
     for p in patrones:
         m = re.search(p, html)
         if m:
@@ -550,15 +568,21 @@ def main():
                 continue
             if por_medio[rep["medio"]] >= max_mismo_medio:
                 continue
-            # Si no sabemos la fecha real, abrir la nota para confirmarla
-            if not rep["fecha_segura"] and verificadas < MAX_FECHAS_A_VERIFICAR:
+            # Si no sabemos la fecha real, abrir la nota para confirmarla.
+            # Si no se puede confirmar, la nota NO se publica: antes pasaba con
+            # la fecha del día en que la vimos, y así se colaban notas viejas.
+            if not rep["fecha_segura"]:
+                if verificadas >= MAX_FECHAS_A_VERIFICAR:
+                    continue
                 verificadas += 1
                 f = fecha_real_de_nota(rep["url"])
-                if f:
-                    historial[rep["url"]]["fecha"] = f.isoformat()
-                    rep["fecha"] = f
-                    if (HOY - f).days > DIAS_VENTANA:
-                        continue
+                if not f:
+                    continue
+                historial[rep["url"]]["fecha"] = f.isoformat()
+                rep["fecha"] = f
+                rep["fecha_segura"] = True
+                if (HOY - f).days > DIAS_VENTANA or f > HOY:
+                    continue
             otros = [m for m in e["medios"] if m != rep["medio"]]
             nota = {"titulo": rep["titulo"], "medio": rep["medio"],
                     "fecha": rep["fecha"].strftime("%d/%m/%Y"), "url": rep["url"]}
