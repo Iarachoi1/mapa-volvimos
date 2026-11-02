@@ -122,6 +122,19 @@ PALABRAS_INSTITUCIONALES = [
 # relevancia. Cada noticia lleva su criterio como etiqueta.
 MAX_TOP_CABA = 10         # CABA: 10 noticias del día
 MAX_MISMO_MEDIO_CABA = 5  # en CABA, hasta 5 notas del mismo medio
+
+# Palabras extra para reconocer notas sobre CABA en los medios NACIONALES
+# (se suman a las de jurisdicciones.json, sin reemplazarlas).
+EXTRA_CABA = {
+    "nombres": ["Gobierno de la Ciudad", "Legislatura de la Ciudad", "Policía de la Ciudad",
+                "Banco Ciudad", "Palermo", "Recoleta", "Puerto Madero", "Barrio Mugica"],
+    "palabras": ["jefe de Gobierno", "jefa de Gobierno", "subte", "premetro", "gcba"],
+    "personas": ["Gabriel Sánchez Zinny", "Sánchez Zinny", "Gabino Tapia", "Leandro Santoro"],
+}
+# "la Ciudad" con mayúscula, sin "de"/"del" después: en los medios nacionales
+# casi siempre es Buenos Aires ("la Ciudad habilitó...", "en la Ciudad").
+# Se descarta "la Ciudad de Córdoba", "Ciudad del Este", etc.
+LA_CIUDAD = re.compile(r"(?<![A-Za-z])[Ll]a Ciudad(?![A-Za-z])(?!\s+(?:de|del)\b)")
 CRITERIOS_CABA = {
     # C. Cambios de gabinete (se prioriza prensa oficial y Boletín Oficial)
     "Gabinete": [
@@ -477,6 +490,8 @@ def jurisdicciones_mencionadas(titulo, JUR):
         hits += sum(2 for n in d.get("nombres", []) if contiene_exacto(titulo, n, True))
         hits += sum(2 for n in d.get("palabras", []) if contiene_exacto(titulo, n, False))
         hits += sum(3 for n in d.get("personas", []) if contiene_exacto(titulo, n, False))
+        if clave == "CABA" and LA_CIUDAD.search(sin_tildes(titulo)):
+            hits += 2
         if hits:
             encontradas[clave] = hits
     return encontradas
@@ -504,6 +519,10 @@ def cargar_fuentes():
 
 def main():
     JUR = json.loads(ARCHIVO_JURIS.read_text(encoding="utf-8"))
+    if "CABA" in JUR:
+        for campo, lista in EXTRA_CABA.items():
+            actuales = JUR["CABA"].setdefault(campo, [])
+            actuales += [x for x in lista if x not in actuales]
     fuentes = cargar_fuentes()
     historial = {}
     fuentes_vistas = {}
