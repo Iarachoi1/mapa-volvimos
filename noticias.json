@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 11:52",
+ "actualizado": "02/11 12:32",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -121,21 +121,15 @@
      "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-le-dio-una-entrevista-al-the-washington-post-y-cuestiono-a-la-justicia-por-su-nid02112026/"
     },
     {
-     "titulo": "Revista Noticias Encuesta: tanto Kicillof como Massa le ganarían en ballotage a Milei",
-     "medio": "Perfil",
+     "titulo": "Milei complica su plan de reelección: la encuesta que revela quién puede definir los comicios el año que viene",
+     "medio": "El Destape",
      "fecha": "02/11/2026",
-     "url": "https://noticias.perfil.com/noticias/politica/encuesta-tanto-kicillof-como-massa-le-ganarian-en-ballotage-a-milei.phtml"
+     "url": "https://www.eldestapeweb.com/politica/encuesta-2027-milei-kicillof-empate-tecnico-indice-reeleccion-mantiene-50-puntos-202611211587"
     }
    ]
   },
   "Buenos Aires": {
    "top3": [
-    {
-     "titulo": "Entre su eventual candidatura y una autocrítica, Cristina Kirchner rompió el silencio",
-     "medio": "Info Cielo",
-     "fecha": "02/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/entre-su-eventual-candidatura-y-una-autocritica-cristina-kirchner-rompio-el-silencio"
-    },
     {
      "titulo": "La alianza local relegó a los espacios nacionales en la elección de convencionales de Bariloche LA TECLA PATAGONIA",
      "medio": "La Tecla",
@@ -147,6 +141,12 @@
      "medio": "Noticia 1",
      "fecha": "02/11/2026",
      "url": "https://www.lanoticia1.com/noticia/el-nino-diputados-de-la-oposicion-buscan-crear-una-comision-especial-en-la-legislatura-bonaerense"
+    },
+    {
+     "titulo": "Se lanzaron los Passaglia. El rechazo a la “avenida del centro”, el aval de Macri y el “fracaso” de Milei y Kicillof",
+     "medio": "La Nación",
+     "fecha": "02/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/los-passaglia-el-rechazo-a-la-avenida-del-centro-la-conversacion-con-macri-y-el-fracaso-de-milei-y-nid02112026/"
     }
    ],
    "imagen": [
@@ -197,23 +197,22 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Cortés y Weretilneck ganaron en Bariloche con el 34% y se quedan con ocho de los 15 convencionales",
-     "medio": "ADN Sur",
-     "fecha": "02/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/cortes-y-weretilneck-ganaron-en-bariloche-con-el-34--y-se-quedan-con-ocho-de-los-15-convencionales_a6ae869c7778e6b1c1220990f"
-    },
-    {
-     "titulo": "Por qué es feriado el 3 de noviembre en Chubut y qué cuestionan los historiadores",
-     "medio": "ADN Sur",
-     "fecha": "02/11/2026",
-     "url": "https://www.adnsur.com.ar/sociedad/por-que-es-feriado-el-3-de-noviembre-en-chubut-y-que-cuestionan-los-historiadores_a6ae886afd2522645e686deee",
-     "tag": "También en El Chubut"
-    },
-    {
-     "titulo": "El OMRESP intercede en el conflicto entre la Cooperativa de Trelew y la Cooperativa Lanera",
+     "titulo": "Presupuesto 2027: el oficialismo negocia para cerrar un acuerdo",
      "medio": "Diario Jornada",
      "fecha": "02/11/2026",
-     "url": "https://www.diariojornada.com.ar/426250/politica/el_omresp_intercede_en_el_conflicto_entre_la_cooperativa_de_trelew_y_la_cooperativa_lanera"
+     "url": "https://www.diariojornada.com.ar/426347/politica/presupuesto_2027_el_oficialismo_negocia_para_cerrar_un_acuerdo"
+    },
+    {
+     "titulo": "Un diputado denuncia que el Gobierno malvende AySA",
+     "medio": "Diario Jornada",
+     "fecha": "02/11/2026",
+     "url": "https://www.diariojornada.com.ar/426343/politica/un_diputado_denuncia_que_el_gobierno_malvende_aysa_"
+    },
+    {
+     "titulo": "Vuelos en riesgo: ATE anunció un paro para el viernes y se verán afectados los aeropuertos de la Patagonia",
+     "medio": "ADN Sur",
+     "fecha": "02/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/vuelos-en-riesgo--ate-anuncio-un-paro-para-el-viernes-y-se-veran-afectados-los-aeropuertos-de-la-patagonia_a6ae89500d2522645e6887538"
     }
    ],
    "imagen": []
@@ -221,22 +220,22 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Cristina Kirchner al Washington Post: augura una derrota de Trump y no descarta competir en 2027",
-     "medio": "Hoy Dia",
-     "fecha": "02/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/cristina-kirchner-al-washington-post-augura-una-derrota-de-trump-y-no-descarta-competir-en-2027/"
-    },
-    {
      "titulo": "La vicegobernadora participó de un encuentro que reunió a más de 2.200 personas mayores",
      "medio": "Legislatura de Córdoba",
      "fecha": "02/11/2026",
      "url": "https://legislaturacba.gob.ar/la-vicegobernadora-participo-de-un-encuentro-que-reunio-a-mas-de-2-200-personas-mayores/"
     },
     {
-     "titulo": "Elecciones EE.UU. Trump busca torcer el clima electoral adverso y da un discurso en un lugar icónico de Washington",
+     "titulo": "Corrupción. Hotesur-Los Sauces: retoman lectura de la acusación contra Cristina Kirchner por lavado de dinero",
      "medio": "Cadena3",
      "fecha": "02/11/2026",
-     "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/trump-busca-torcer-el-clima-electoral-adverso-y-da-un-discurso-en-un-lugar-iconico-de-washington_609296"
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/hotesur-los-sauces-retoman-lectura-de-la-acusacion-contra-cristina-kirchner-por-lavado-de-dinero_609354"
+    },
+    {
+     "titulo": "Caputo, Santilli y Llaryora participarán de la Conferencia Industrial de la UIA",
+     "medio": "Hoy Dia",
+     "fecha": "02/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/caputo-santilli-llaryora-y-otros-gobernadores-participaran-de-la-conferencia-industrial-de-la-uia/"
     }
    ],
    "imagen": [
@@ -244,7 +243,7 @@
      "titulo": "Elecciones. Cristina Kirchner dejó abierta una candidatura en 2027 para enfrentar a Milei: \"¿Por qué no?\"",
      "medio": "Cadena3",
      "fecha": "02/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
+     "url": "https://www.cadena3.com/noticia/juntos/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
     },
     {
      "titulo": "Cristina Kirchner reapareció y no descartó ser candidata en 2027: “¿Por qué no?”",
@@ -262,6 +261,12 @@
   },
   "Corrientes": {
    "top3": [
+    {
+     "titulo": "El Niño: Yacyretá mantiene interrumpido el paso entre Argentina y Paraguay y se incrementa la cantidad de auto evacuados en Corrientes",
+     "medio": "Infobae",
+     "fecha": "02/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/02/el-nino-yacyreta-mantiene-interrumpido-el-paso-entre-argentina-y-paraguay-y-se-incrementa-la-cantidad-de-auto-evacuados-en-corrientes/"
+    },
     {
      "titulo": "El Gobierno invitará a los gobernadores al encuentro con el papa León XIV",
      "medio": "El Litoral",
@@ -315,20 +320,26 @@
      "url": "https://www.somosjujuy.com.ar/politica/elecciones-eeuu-trump-pone-prueba-su-poder-democratas-buscan-recuperar-congreso-n126494"
     },
     {
+     "titulo": "\"La lista Celeste y Blanca ganará tranquilamente la interna del PJ”",
+     "medio": "El Tribuno",
+     "fecha": "02/11/2026",
+     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-2-12-24-0-la-lista-celeste-y-blanca-ganara-tranquilamente-la-interna-del-pj"
+    },
+    {
      "titulo": "Política. El Gobierno prepara la visita del papa León XIV y busca evitar su politización Por Redacción de TodoJujuy",
      "medio": "Todo Jujuy",
      "fecha": "02/11/2026",
      "url": "https://www.todojujuy.com/politica/el-gobierno-prepara-la-visita-del-papa-leon-xiv-y-busca-evitar-su-politizacion-n298267"
-    },
-    {
-     "titulo": "Fieles Difuntos en Jujuy: horarios de los cementerios y misas para este lunes 2 de noviembre",
-     "medio": "Somos Jujuy",
-     "fecha": "02/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/fieles-difuntos-jujuy-horarios-cementerios-misas-lunes-2-noviembre-n126479",
-     "tag": "También en Todo Jujuy"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Cristina Fernández de Kirchner no descartó ser candidata a presidenta en 2027",
+     "medio": "Todo Jujuy",
+     "fecha": "02/11/2026",
+     "url": "https://www.todojujuy.com/pais/cristina-fernandez-kirchner-no-descarto-ser-candidata-presidenta-2027-n298283"
+    }
+   ]
   },
   "La Pampa": {
    "top3": [
@@ -346,13 +357,20 @@
      "tag": "También en El Diario de La Pampa, La Arena"
     },
     {
-     "titulo": "Cristina no descartó ser candidata, y auguró una derrota de Trump",
+     "titulo": "Salas no está de acuerdo con un frente UCR-PJ",
+     "medio": "La Arena",
+     "fecha": "02/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/salas-no-esta-de-acuerdo-con-un-frente-ucr-pj-20261120130"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Cristina no descartó ser candidata para el 2027",
      "medio": "La Arena",
      "fecha": "02/11/2026",
      "url": "https://www.laarena.com.ar/el-pais/cristina-le-brindo-una-entrevista-the-washington-post-no-descarto-ser-candidata-y-auguro-una-derrota-de-trump-20261129500"
     }
-   ],
-   "imagen": []
+   ]
   },
   "La Rioja": {
    "top3": [
@@ -380,27 +398,35 @@
      "url": "https://www.memo.com.ar/poder/presupuesto-2027-el-gobierno-negocia-apoyos-y-acumula-reclamos-de-sus-aliados/"
     },
     {
-     "titulo": "Javier Milei invitó a Alfredo Cornejo y a 13 legisladores nacionales a la visita del Papa León XIV",
-     "medio": "Diario UNO - MDZ",
+     "titulo": "Con fondos del Reforsal, el Hospital Scaravelli incorporó equipamiento de última generación",
+     "medio": "Prensa oficial de Mendoza",
      "fecha": "02/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/javier-milei-invito-alfredo-cornejo-y-13-legisladores-nacionales-la-visita-del-papa-leon-xiv-n1612374"
+     "url": "https://prensa.mendoza.gob.ar/con-fondos-del-reforsal-el-hospital-scaravelli-incorporo-equipamiento-de-ultima-generacion/",
+     "tag": "También en Mendoza Post"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Cristina Kirchner habló de una posible candidatura en 2027 y pronosticó una derrota de Donald Trump",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "02/11/2026",
+     "url": "https://www.diariouno.com.ar/cristina-kirchner-hablo-una-posible-candidatura-2027-y-pronostico-una-derrota-donald-trump-n1612400"
+    }
+   ]
   },
   "Misiones": {
    "top3": [
+    {
+     "titulo": "CFK y su posible candidatura: “Cuando recupere mis derechos políticos, ¿por qué no?”",
+     "medio": "Primera Edición",
+     "fecha": "02/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101156843/cristina-kirchner-candidatura-presidencial-2027-que-dijo/"
+    },
     {
      "titulo": "Denunciaron al coordinador de Tabaco de Nación por fondos pendientes para Misiones",
      "medio": "Primera Edición",
      "fecha": "02/11/2026",
      "url": "https://www.primeraedicion.com.ar/nota/101156817/barbaro-denuncia-demoras-fondos-tabacaleros-misiones/"
-    },
-    {
-     "titulo": "Efemérides, un proyecto de Posadas del Ayer y Primera Edición",
-     "medio": "Primera Edición",
-     "fecha": "02/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101156804/efemerides-un-proyecto-de-posadas-del-ayer-y-primera-edicion-23/"
     }
    ],
    "imagen": []
@@ -421,10 +447,10 @@
      "tag": "También en Neuquén al Instante"
     },
     {
-     "titulo": "Milei inauguró el nuevo templo evangélico de Neuquén y habló en clave electoral",
-     "medio": "Neuquén al Instante",
+     "titulo": "Legislatura Figueroa presentó la reforma del Código Fiscal 2027: cuáles son los cambios impositivos",
+     "medio": "Noticias NQN",
      "fecha": "02/11/2026",
-     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/02/146568-milei-inauguro-el-nuevo-templo-evangelico-de-neuquen-y-hablo-en-clave-electoral"
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/02/359169-figueroa-presento-la-reforma-del-codigo-fiscal-2027-cuales-son-los-cambios-impositivos"
     }
    ],
    "imagen": [
@@ -433,7 +459,7 @@
      "medio": "Prensa oficial de Neuquén",
      "fecha": "02/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/02/266487-neuquen-lanza-la-tercera-encuesta-provincial-de-inquilinos",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
+     "tag": "También en Noticias NQN"
     }
    ]
   },
@@ -464,6 +490,12 @@
   "Salta": {
    "top3": [
     {
+     "titulo": "Elecciones 2027: ya se puede consultar el padrón provisorio y reclamar errores",
+     "medio": "Que Pasa Salta",
+     "fecha": "02/11/2026",
+     "url": "https://www.quepasasalta.com.ar/politica/padron-electoral-2027-consulta/"
+    },
+    {
      "titulo": "Duro revés para Milei en Bariloche: LLA salió tercera y recibió una advertencia para 2027",
      "medio": "Que Pasa Salta",
      "fecha": "02/11/2026",
@@ -474,23 +506,9 @@
      "medio": "El Tribuno",
      "fecha": "02/11/2026",
      "url": "https://www.eltribuno.com/opiniones/2026-11-2-0-0-0-el-exito-de-milei-en-el-vinculo-con-trump-y-el-desafio-frente-a-las-elecciones-en-eeuu"
-    },
-    {
-     "titulo": "Día de los Fieles Difuntos en Salta: horarios de misas, cementerios y flores",
-     "medio": "El Tribuno",
-     "fecha": "02/11/2026",
-     "url": "https://www.eltribuno.com/salta/2026-11-2-9-54-0-dia-de-los-fieles-difuntos-en-salta-horarios-de-misas-cementerios-y-flores",
-     "tag": "También en Informate Salta, Que Pasa Salta"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "La ventaja de Milei cambia según el rival: qué muestran las encuestas para 2027",
-     "medio": "Que Pasa Salta",
-     "fecha": "02/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/milei-encuestas-2027-primera-vuelta-balotaje-kicillof-massa/"
-    }
-   ]
+   "imagen": []
   },
   "San Juan": {
    "top3": [
@@ -502,18 +520,18 @@
      "tag": "También en Diario de Cuyo, San Juan 8 y 1 más"
     },
     {
-     "titulo": "Este lunes los gremios docentes vuelven a negociar un aumento de salarios con el Gobierno de San Juan",
-     "medio": "0264 Noticias",
-     "fecha": "02/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115602-este-lunes-los-gremios-docentes-vuelven-a-negociar-un-aumento-de-salarios-con-el-gobierno-de-san-juan",
-     "tag": "También en El Zonda, Huarpe"
-    },
-    {
      "titulo": "Mirá dónde votás: la Cámara Electoral habilitó el padrón provisorio para las presidenciales 2027",
      "medio": "Tiempo de San Juan",
      "fecha": "02/11/2026",
      "url": "https://www.tiempodesanjuan.com/politica/mira-donde-votas-la-camara-electoral-habilito-el-padron-provisorio-para-las-presidenciales-2027_1793629725",
-     "tag": "También en 0264 Noticias"
+     "tag": "También en El Zonda, 0264 Noticias"
+    },
+    {
+     "titulo": "Este lunes los gremios docentes vuelven a negociar un aumento de salarios con el Gobierno de San Juan",
+     "medio": "0264 Noticias",
+     "fecha": "02/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115602-este-lunes-los-gremios-docentes-vuelven-a-negociar-un-aumento-de-salarios-con-el-gobierno-de-san-juan",
+     "tag": "También en Huarpe"
     }
    ],
    "imagen": [
@@ -524,7 +542,7 @@
      "url": "https://www.diariodecuyo.com.ar/politica/cristina-kirchner-abrio-la-puerta-ser-candidata-2027-cuando-recupere-mis-derechos-politicos-por-que-no-n6587438"
     },
     {
-     "titulo": "02 Desde su prisión domiciliaria, Cristina Kirchner habló de Trump y dejó abierta la puerta a una candidatura en 2027",
+     "titulo": "Desde su prisión domiciliaria, Cristina Kirchner habló de Trump y dejó abierta la puerta a una candidatura en 2027",
      "medio": "El Zonda",
      "fecha": "02/11/2026",
      "url": "https://www.diarioelzondasj.com.ar/politica/desde-su-prision-domiciliaria-cristina-kirchner-hablo-de-trump-y-dejo-abierta-la-puerta-a-una-candidatura-en-2027"
@@ -558,10 +576,10 @@
      "url": "https://agenciasanluis.com/2026/11/02/1227235-docentes-de-toda-la-provincia-fortalecieron-sus-practicas-de-alfabetizacion/"
     },
     {
-     "titulo": "La semana inicia con aumento de la temperatura y algo de inestabilidad",
+     "titulo": "‘Potrero Corre’ hará historia con la primera maratón de 42 kilómetros de San Luis",
      "medio": "Prensa oficial de San Luis",
      "fecha": "02/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/02/1227229-la-semana-inicia-con-aumento-de-la-temperatura-y-algo-de-inestabilidad/"
+     "url": "https://agenciasanluis.com/2026/11/02/1227263-potrero-corre-hara-historia-con-la-primera-maraton-de-42-kilometros-de-san-luis/"
     }
    ],
    "imagen": []
@@ -575,16 +593,16 @@
      "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-se-acerca-a-2027-sin-reglas-electorales-definitivas-la-disputa-por-las-paso-y-el-posible-veto-7774/"
     },
     {
-     "titulo": "Cristina Kirchner espera recuperar su derecho a ser candidata para presentarse a elecciones: “Trump perderá en su propio país”, vaticinó",
-     "medio": "La Opinión Austral",
-     "fecha": "02/11/2026",
-     "url": "https://laopinionaustral.com.ar/argentina/cristina-kirchner-espera-recuperar-su-derecho-a-ser-candidata-para-presentarse-a-elecciones-trump-perdera-en-su-propio-pais-vaticino-726760.html"
-    },
-    {
      "titulo": "Elecciones en Bariloche: el frente de Weretilneck le ganó a La Libertad Avanza y al peronismo",
      "medio": "La Opinión Austral",
      "fecha": "02/11/2026",
      "url": "https://laopinionaustral.com.ar/politica-y-economia/elecciones-en-bariloche-el-frente-de-weretilneck-le-gano-a-la-libertad-avanza-y-al-peronismo-726743.html"
+    },
+    {
+     "titulo": "Entretelones de la visita del papa León XIV: internas en el Gabinete, \"cholulismo\" y Karina en todas las actividades",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "02/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/nacionales/entretelones-de-la-visita-del-papa-leon-xiv-internas-en-el-gabinete-cholulismo-y-karina-en-todas-las-actividades-1527/"
     }
    ],
    "imagen": []

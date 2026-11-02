@@ -1,16 +1,36 @@
 {
- "actualizado": "02/11 11:52",
+ "actualizado": "02/11 12:32",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "gobierno de la ciudad de buenos aires",
+   "busquedas": "100+",
+   "nota": "Los jubilados de la Ciudad ya pueden viajar gratis en subte con solo presentar el DNI",
+   "nota_url": "https://www.zonanortehoy.com/caba/los-jubilados-de-la-ciudad-ya-pueden-viajar-gratis-en-subte-con-solo-presentar-el-dni/",
+   "medio": "Zona Norte Hoy",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "padron electoral",
+   "busquedas": "500+",
+   "nota": "Ya se puede consultar el padrón provisorio en Jujuy: cómo verificar tus datos hoy mismo",
+   "nota_url": "https://www.somosjujuy.com.ar/jujuy/ya-puede-consultar-padron-provisorio-jujuy-como-verificar-tus-datos-hoy-mismo-n126445",
+   "medio": "Somos Jujuy",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "zelda",
    "busquedas": "100+",
-   "nota": "Le prochain jeu Zelda arrive : voici où le récupérer à petit prix avant même sa sortie",
-   "nota_url": "https://www.ouest-france.fr/shopping/jeux-video/le-prochain-jeu-zelda-arrive-voici-ou-le-recuperer-a-petit-prix-avant-meme-sa-sortie-3dc372b0-d44b-11f1-84f3-5611f158a658",
-   "medio": "Ouest-France",
+   "nota": "Zelda Ocarina of Time Remake : date et heure de sortie, voici quand vous pourrez jouer à la nouvelle exclu Nintendo Switch 2",
+   "nota_url": "https://www.gameblog.fr/jeu-video/ed/news/zelda-ocarina-of-time-remake-date-heure-lancement-nintendo-switch-2-725940",
+   "medio": "Gameblog",
    "relevante": false,
    "temas": []
   },
@@ -24,17 +44,26 @@
    "temas": []
   },
   {
+   "tema": "lenny kravitz",
+   "busquedas": "200+",
+   "nota": "Mariah Carey Teases Her Secret Grunge Album Again—Will Fans Finally Hear Her Lead Vocals?",
+   "nota_url": "https://www.jubileecast.com/articles/40750/20261102/mariah-carey-teases-her-secret-grunge-album-again%E2%80%94will-fans-finally-hear-her-lead-vocals.htm",
+   "medio": "JubileeCast",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "washington post",
    "busquedas": "200+",
-   "nota": "Cristina Kirchner no descartó ser candidata a presidenta en 2027 y enfrentar a Milei: “Cuando recupere mis derechos políticos, ¿por qué no?”",
-   "nota_url": "https://www.infobae.com/politica/2026/11/02/cristina-kirchner-no-descarto-ser-candidata-a-presidenta-en-2027-y-enfrentar-a-milei-cuando-recupere-mis-derechos-politicos-por-que-no/",
-   "medio": "Infobae",
+   "nota": "Cristina Kirchner confirmó que quiere ser candidata en las elecciones 2027: “Cuando recupere mis derechos políticos, ¿por qué no?”",
+   "nota_url": "https://www.clarin.com/politica/cristina-kirchner-dijo-quiere-candidata-2027-recupere-derechos-politicos_0_7NQj1a4Rh3.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "aguinaldo",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Aguinaldo 2026: Apunte las fechas de pago para trabajadores y pensionados",
    "nota_url": "https://crhoy.com/nacionales/aguinaldo-2026-apunte-las-fechas-de-pago-para-trabajadores-y-pensionados/",
    "medio": "CR Hoy",
@@ -44,9 +73,9 @@
   {
    "tema": "mundial de padel 2026",
    "busquedas": "200+",
-   "nota": "Comienza el Mundial de pádel en Qatar: la selección argentina defiende la corona",
-   "nota_url": "https://www.lanacion.com.ar/deportes/padel/comienza-el-mundial-de-padel-en-qatar-la-seleccion-argentina-defiende-la-corona-nid02112026/",
-   "medio": "La Nación",
+   "nota": "Arranca el Mundial de pádel: los grupos, días, horarios, TV y asoman nuevas finales Argentina vs. España",
+   "nota_url": "https://www.ole.com.ar/padel/mundialdepadel-argentina-espana-fipworldcup-doha-delfinabrea-agustintapia-arturocoello-gemmatriay-federicochingotto-juanlebron_0_uo93Xxo3Mp.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
@@ -60,38 +89,11 @@
    "temas": []
   },
   {
-   "tema": "atp paris",
-   "busquedas": "200+",
-   "nota": "Déception pour Zizou Bergs, sanctionné par Ignacio Buse au 1er tour du Masters 1000 de Paris",
-   "nota_url": "https://www.rtbf.be/article/deception-pour-zizou-bergs-balaye-par-ignacio-buse-au-1er-tour-du-masters-1000-de-paris-11809293",
-   "medio": "RTBF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mariano navone",
+   "tema": "ocarina of time",
    "busquedas": "500+",
-   "nota": "̳̳̳+[#!WATCHLIVE-Tv!]™Luca Van Assche vs Mariano Navone Live Free 02 November 2026",
-   "nota_url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RhcmVxaml5YTYtc3ZnLmdpdGh1Yi5pby9zdHJlYW0yMDI2L3hkLnhtbCIvPjwva3JwYW5vPg==&id=watch-free-tennis-match-xdgfhjffff",
-   "medio": "Pierce Manufacturing",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cyber monday",
-   "busquedas": "20000+",
-   "nota": "A €149 Laptop Table Won't Fix Your Posture — Here's What Ergonomics Experts Say Actually Matters",
-   "nota_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/a-149-laptop-table-won-t-fix-your-posture-here-s-what-ergonomics-experts-say-actually-matters/70442530",
-   "medio": "ad-hoc-news.de",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "calendario noviembre 2026",
-   "busquedas": "1000+",
-   "nota": "Calendario de pagos de Anses: cuándo se cobra la PUAM de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-noviembre-de-2026-nid02112026/",
-   "medio": "La Nación",
+   "nota": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
+   "nota_url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+   "medio": "IGN",
    "relevante": false,
    "temas": []
   }
