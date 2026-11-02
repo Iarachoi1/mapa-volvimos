@@ -1,16 +1,34 @@
 {
- "actualizado": "02/11 12:32",
+ "actualizado": "02/11 12:46",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "frío",
+   "busquedas": "500+",
+   "nota": "¿Qué es un Río Atmosférico? Estos estados serán los MÁS afectados por el fenómeno meteorológico en México",
+   "nota_url": "https://amp.milenio.com/el-clima/rio-atmosferico-que-es-y-estados-afectados-por-fenomeno",
+   "medio": "Milenio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga de campeones de la afc",
+   "busquedas": "100+",
+   "nota": "¿Cristiano Ronaldo estará en la pelea de Canelo? Se queda fuera de la convocatoria de Al Nassr",
+   "nota_url": "https://www.infobae.com/mexico/deportes/2026/10/31/cristiano-ronaldo-estara-en-la-pelea-de-canelo-se-queda-fuera-de-la-convocatoria-de-al-nassr/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "gobierno de la ciudad de buenos aires",
    "busquedas": "100+",
-   "nota": "Los jubilados de la Ciudad ya pueden viajar gratis en subte con solo presentar el DNI",
-   "nota_url": "https://www.zonanortehoy.com/caba/los-jubilados-de-la-ciudad-ya-pueden-viajar-gratis-en-subte-con-solo-presentar-el-dni/",
-   "medio": "Zona Norte Hoy",
+   "nota": "Los jubilados ya pueden usar el DNI para viajar gratis en el subte de la Ciudad de Buenos Aires",
+   "nota_url": "https://www.perfil.com/ciudad-de-buenos-aires/los-jubilados-ya-pueden-usar-el-dni-para-viajar-gratis-en-el-subte-en-caba-adiw20r94tXA",
+   "medio": "Perfil",
    "relevante": true,
    "temas": [
     "Ciudad"
@@ -27,10 +45,10 @@
   },
   {
    "tema": "zelda",
-   "busquedas": "100+",
-   "nota": "Zelda Ocarina of Time Remake : date et heure de sortie, voici quand vous pourrez jouer à la nouvelle exclu Nintendo Switch 2",
-   "nota_url": "https://www.gameblog.fr/jeu-video/ed/news/zelda-ocarina-of-time-remake-date-heure-lancement-nintendo-switch-2-725940",
-   "medio": "Gameblog",
+   "busquedas": "200+",
+   "nota": "On connait la couleur de la cartouche de The Legend of Zelda: Ocarina of Time Remake - Consoles Mag - Tests et news",
+   "nota_url": "https://consolesmag.com/2026/11/01/connait-la-couleur-de-la-cartouche-de-legend-zelda-ocarina-time-remake/",
+   "medio": "Consoles Mag",
    "relevante": false,
    "temas": []
   },
@@ -46,9 +64,9 @@
   {
    "tema": "lenny kravitz",
    "busquedas": "200+",
-   "nota": "Mariah Carey Teases Her Secret Grunge Album Again—Will Fans Finally Hear Her Lead Vocals?",
-   "nota_url": "https://www.jubileecast.com/articles/40750/20261102/mariah-carey-teases-her-secret-grunge-album-again%E2%80%94will-fans-finally-hear-her-lead-vocals.htm",
-   "medio": "JubileeCast",
+   "nota": "Lenny Kravitz Clears Up Rumor That He Was on Doomed Palm Beach Plane",
+   "nota_url": "https://www.tmz.com/2026/11/02/lenny-kravtiz-denies-rumor-he-died-in-florida-plane-crash/",
+   "medio": "TMZ",
    "relevante": false,
    "temas": []
   },
@@ -64,36 +82,18 @@
   {
    "tema": "aguinaldo",
    "busquedas": "1000+",
-   "nota": "Aguinaldo 2026: Apunte las fechas de pago para trabajadores y pensionados",
-   "nota_url": "https://crhoy.com/nacionales/aguinaldo-2026-apunte-las-fechas-de-pago-para-trabajadores-y-pensionados/",
-   "medio": "CR Hoy",
+   "nota": "Aguinaldo de Navidad 2026 para pensionados: cuánto recibirán este año y cuándo se paga",
+   "nota_url": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/11/02/aguinaldo-de-navidad-2026-para-pensionados-cuanto-recibiran-este-ano-y-cuando-se-paga.shtml",
+   "medio": "BioBioChile",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mundial de padel 2026",
-   "busquedas": "200+",
-   "nota": "Arranca el Mundial de pádel: los grupos, días, horarios, TV y asoman nuevas finales Argentina vs. España",
-   "nota_url": "https://www.ole.com.ar/padel/mundialdepadel-argentina-espana-fipworldcup-doha-delfinabrea-agustintapia-arturocoello-gemmatriay-federicochingotto-juanlebron_0_uo93Xxo3Mp.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cae",
-   "busquedas": "200+",
-   "nota": "El petróleo cae por las negociaciones sobre Hormuz mientras Trump mantiene las opciones militares",
-   "nota_url": "https://es-us.finanzas.yahoo.com/noticias/petr%C3%B3leo-cae-negociaciones-hormuz-trump-102302241.html",
-   "medio": "Yahoo Finanzas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ocarina of time",
    "busquedas": "500+",
-   "nota": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
-   "nota_url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
-   "medio": "IGN",
+   "nota": "Comienza el Mundial de pádel en Qatar: la selección argentina defiende la corona",
+   "nota_url": "https://www.lanacion.com.ar/deportes/padel/comienza-el-mundial-de-padel-en-qatar-la-seleccion-argentina-defiende-la-corona-nid02112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
