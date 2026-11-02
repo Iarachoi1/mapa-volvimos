@@ -1,13 +1,67 @@
 {
- "actualizado": "02/11 00:41",
+ "actualizado": "02/11 01:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "cyber",
+   "tema": "microsoft",
    "busquedas": "100+",
+   "nota": "Microsoft confirms supported Windows 10 PCs can now directly update to Windows 11 26H2",
+   "nota_url": "https://www.neowin.net/news/microsoft-confirms-supported-windows-10-pcs-can-now-directly-update-to-windows-11-26h2/",
+   "medio": "Neowin",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santa fe - once caldas",
+   "busquedas": "200+",
+   "nota": "Weimar Asprilla evita el primer gol de Once Caldas ante Santa Fe",
+   "nota_url": "https://www.winsports.co/futbol-colombiano/noticias/andres-mosquera-marmolejo-evita-el-primer-gol-de-once-caldas-ante-santa-fe-475131",
+   "medio": "Win Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "montagne",
+   "busquedas": "100+",
+   "nota": "Les petits monstres ont fait le plein de bonbons à Hamoir: \"On tenait à marquer le coup\"",
+   "nota_url": "https://www.lavenir.net/regions/huy-waremme/hamoir/2026/11/01/les-petits-monstres-ont-fait-le-plein-de-bonbons-a-hamoir-on-tenait-a-marquer-le-coup-FILD7TC3F5FJ5ANOWCWL2T7DUI/",
+   "medio": "L'Avenir",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "avión",
+   "busquedas": "200+",
+   "nota": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+   "nota_url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "megatone",
+   "busquedas": "200+",
+   "nota": "La motosierra sigue golpeando al comercio: cerró Megatone en Posadas y siete trabajadores perdieron sus empleos",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101156385/la-motosierra-sigue-golpeando-al-comercio-cerro-megatone-en-posadas-y-siete-trabajadores-perdieron-sus-empleos/",
+   "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "latam",
+   "busquedas": "200+",
+   "nota": "El check-in automático en vuelos de LATAM",
+   "nota_url": "https://www.infoviajera.com/2026/10/el-check-in-automatico-en-vuelos-de-latam/",
+   "medio": "Info Viajera",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cyber",
+   "busquedas": "200+",
    "nota": "AI Models Used to Investigate Cyberattacks Are Falling Prey to Cybercriminals",
    "nota_url": "https://cxotoday.com/cybersecurity/ai-models-used-to-investigate-cyberattacks-are-falling-prey-to-cybercriminals/",
    "medio": "CXOToday.com",
@@ -25,10 +79,10 @@
   },
   {
    "tema": "lunes",
-   "busquedas": "1000+",
-   "nota": "Fin de semana largo en Chubut: a quiénes alcanza el feriado y qué pasará con las clases",
-   "nota_url": "https://canal12web.com/fin-de-semana-largo-en-chubut-a-quienes-alcanza-el-feriado-y-que-pasara-con-las-clases/",
-   "medio": "Canal 12 Web",
+   "busquedas": "500+",
+   "nota": "Horóscopo de hoy 2 de noviembre de 2026: signo por signo, qué dicen los astros",
+   "nota_url": "https://caras.perfil.com/noticias/astrologia/horoscopo-de-hoy-2-de-noviembre-de-2026-signo-por-signo-que-dicen-los-astros.phtml",
+   "medio": "Caras",
    "relevante": false,
    "temas": []
   },
@@ -38,60 +92,6 @@
    "nota": "Alerta meteorológica en Pergamino: anuncian tormentas durante la madrugada y la mañana del domingo",
    "nota_url": "https://diarionucleo.com/ciudad/pergamino/291447-alerta-meteorologica-pergamino-anuncian-tormentas-/",
    "medio": "Diario Núcleo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "los angeles fc",
-   "busquedas": "200+",
-   "nota": "Son Heung-min prepares for postseason return with LAFC",
-   "nota_url": "https://www.centraloregondaily.com/sports/son-heung-min-prepares-for-postseason-return-with-lafc/article_78522e89-57b1-5fce-a692-d6ed5c092843.html",
-   "medio": "Central Oregon Daily",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de new england revolution contra inter miami",
-   "busquedas": "20000+",
-   "nota": "Messi volvió al gol: cómo está la pelea con Cristiano Ronaldo y a cuánto quedó de los 1.000 goles :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/messi-gol-inter-miami-mls-mil-goles-cristiano-ronaldo_0_DkL1VNYeSZ.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sporting",
-   "busquedas": "500+",
-   "nota": "Liga Portugal: Sporting é o sétimo clube a mudar de treinador em 2026/27",
-   "nota_url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-liga-portugal-sporting-e-o-setimo-clube-a-mudar-de-treinador-em-2026-27/xYTEeBGF/",
-   "medio": "Flashscore.pt",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "california",
-   "busquedas": "200+",
-   "nota": "Californians demand progress but balk at paying for it. Voters must back Props. 3 and 40",
-   "nota_url": "https://dailybruin.com/2026/11/01/californians-demand-progress-but-balk-at-paying-for-it-voters-must-back-props-3-and-40",
-   "medio": "Daily Bruin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima buenos aires",
-   "busquedas": "2000+",
-   "nota": "Noviembre comienza primaveral en AMBA, pero podrían activarse alertas: cuándo llegarían las tormentas",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/noviembre-comienza-primaveral-en-amba-pero-podrian-activarse-alertas-cuando-llegarian-las-tormentas.html",
-   "medio": "Meteored Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rocio robles",
-   "busquedas": "500+",
-   "nota": "Las fotos de los famosos en el Superclásico: Dalma y Gianinna Maradona, Adrián Suar y Rocío Robles dijeron presente",
-   "nota_url": "https://www.noticiasdebariloche.com.ar/las-fotos-de-los-famosos-en-el-superclasico-dalma-y-gianinna-maradona-adrian-suar-y-rocio-robles-dijeron-presente/",
-   "medio": "noticiasdebariloche.com.ar",
    "relevante": false,
    "temas": []
   }
