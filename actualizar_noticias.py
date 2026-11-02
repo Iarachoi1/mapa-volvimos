@@ -457,8 +457,12 @@ def main():
     JUR = json.loads(ARCHIVO_JURIS.read_text(encoding="utf-8"))
     fuentes = cargar_fuentes()
     historial = {}
+    fuentes_vistas = {}
     if ARCHIVO_HISTORIAL.exists():
         historial = json.loads(ARCHIVO_HISTORIAL.read_text(encoding="utf-8"))
+    # Medios que ya se venían leyendo en corridas anteriores (y desde cuándo)
+    fuentes_vistas = historial.pop("__fuentes__", {})
+    motivos = defaultdict(lambda: defaultdict(int))  # por qué se descartó cada nota
 
     print(f"Leyendo {len(fuentes)} fuentes...")
     with ThreadPoolExecutor(max_workers=10) as pool:
@@ -474,20 +478,29 @@ def main():
             continue
         # Nombre del medio: para prensa oficial y legislaturas, aclarar la provincia
         medio = fuente["medio"]
+        # ¿Es la primera vez que leemos este medio? Si ya lo leíamos antes, una
+        # nota que aparece por primera vez es nueva de verdad (salió hoy).
+        medio_conocido = fuente["url"] in fuentes_vistas
+        fuentes_vistas.setdefault(fuente["url"], HOY.isoformat())
         if fuente["bloque"] in ("2", "3") and fuente["juris"] not in ("NACIONAL", "Varias"):
             medio = f"{medio} de {fuente['juris']}"
 
         for n in notas:
             # Fecha: la de la nota si se conoce; si no, el día en que la vimos por primera vez
-            h = historial.setdefault(n["url"], {"visto": HOY.isoformat(), "fecha": None})
+            if n["url"] not in historial:
+                historial[n["url"]] = {"visto": HOY.isoformat(), "fecha": None,
+                                       "nueva": medio_conocido}
+            h = historial[n["url"]]
             if n["fecha"]:
                 h["fecha"] = n["fecha"].isoformat()
             fecha = date.fromisoformat(h["fecha"] or h["visto"])
             if (HOY - fecha).days > DIAS_VENTANA:
+                motivos[fuente["juris"]]["nota vieja"] += 1
                 continue
 
             puntos = puntaje_politico(n["titulo"], n["url"])
             if puntos <= -10:
+                motivos[fuente["juris"]]["tema excluido"] += 1
                 continue  # deportes, farándula, espectáculos, policiales, etc.
             if fuente["bloque"] in ("2", "3"):
                 puntos += 2      # prensa oficial y legislaturas: hechos de gestión
@@ -512,6 +525,7 @@ def main():
                 candidatas.append({
                     "juris": destino, "titulo": n["titulo"], "url": n["url"],
                     "medio": medio, "fecha": fecha, "fecha_segura": bool(h["fecha"]),
+                    "nueva": bool(h.get("nueva")) and h["visto"] == HOY.isoformat(),
                     "puntos": puntos + extra, "bloque": fuente["bloque"], "criterio": criterio,
                     "imagen": es_de_imagen(n["titulo"]) or fuente["bloque"] == "4",
                     "local": fuente["juris"] == destino,
@@ -564,24 +578,32 @@ def main():
         for e in elegidas:
             rep = e["rep"]
             lista, maximo = (imagen, MAX_IMAGEN) if e["imagen"] else (top, max_top)
-            if len(lista) >= maximo or e["puntaje"] < (2 if e["imagen"] else PUNTAJE_MINIMO):
+            if len(lista) >= maximo:
+                continue
+            if e["puntaje"] < (2 if e["imagen"] else PUNTAJE_MINIMO):
+                motivos[clave]["puntaje bajo"] += 1
                 continue
             if por_medio[rep["medio"]] >= max_mismo_medio:
                 continue
             # Si no sabemos la fecha real, abrir la nota para confirmarla.
             # Si no se puede confirmar, la nota NO se publica: antes pasaba con
             # la fecha del día en que la vimos, y así se colaban notas viejas.
+            # Excepción: si el medio ya se venía leyendo y la nota apareció
+            # recién hoy, es nueva aunque la página no muestre su fecha.
             if not rep["fecha_segura"]:
-                if verificadas >= MAX_FECHAS_A_VERIFICAR:
-                    continue
-                verificadas += 1
-                f = fecha_real_de_nota(rep["url"])
-                if not f:
-                    continue
-                historial[rep["url"]]["fecha"] = f.isoformat()
-                rep["fecha"] = f
-                rep["fecha_segura"] = True
-                if (HOY - f).days > DIAS_VENTANA or f > HOY:
+                f = None
+                if verificadas < MAX_FECHAS_A_VERIFICAR:
+                    verificadas += 1
+                    f = fecha_real_de_nota(rep["url"])
+                if f:
+                    historial[rep["url"]]["fecha"] = f.isoformat()
+                    rep["fecha"] = f
+                    rep["fecha_segura"] = True
+                    if (HOY - f).days > DIAS_VENTANA or f > HOY:
+                        motivos[clave]["nota vieja (fecha leída en la nota)"] += 1
+                        continue
+                elif not rep["nueva"]:
+                    motivos[clave]["sin fecha confirmable"] += 1
                     continue
             otros = [m for m in e["medios"] if m != rep["medio"]]
             nota = {"titulo": rep["titulo"], "medio": rep["medio"],
@@ -618,9 +640,16 @@ def main():
     # El historial solo guarda los últimos 30 días, para que no crezca para siempre
     limite = (HOY - timedelta(days=30)).isoformat()
     historial = {u: h for u, h in historial.items() if h["visto"] >= limite}
+    historial["__fuentes__"] = fuentes_vistas
     ARCHIVO_HISTORIAL.write_text(json.dumps(historial, ensure_ascii=False), encoding="utf-8")
 
     total = sum(len(v["top3"]) + len(v["imagen"]) for v in items.values())
+    vacias = [c for c in JUR if c not in items]
+    if vacias:
+        print("\nJurisdicciones sin noticias y por qué se descartaron sus notas:")
+        for c in vacias:
+            detalle = ", ".join(f"{m}: {k}" for m, k in motivos[c].items()) or "no llegó ninguna nota"
+            print(f"  {c:<20} {detalle}")
     print(f"\nListo: {total} noticias en {len(items)} jurisdicciones. "
           f"Fuentes que no abrieron: {len(caidas)} de {len(fuentes)}.")
 
