@@ -1,25 +1,79 @@
 {
- "actualizado": "02/11 05:19",
+ "actualizado": "02/11 06:50",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "tiempo hoy",
-   "busquedas": "200000+",
-   "nota": "Alerta amarilla por tormentas en el AMBA: a qué hora llegan hoy y por qué pasaremos de tardes de 27 °C a mañanas de 7 °C",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/alerta-amarilla-por-tormentas-en-el-amba-a-que-hora-llegan-hoy-y-por-que-pasaremos-de-tardes-de-27-c-a-mananas-de-7-c.html",
-   "medio": "Meteored Argentina",
+   "tema": "feriados noviembre 2026",
+   "busquedas": "1000+",
+   "nota": "La visita del Papa a la Argentina, una oportunidad para recuperar la capacidad de encontrarnos",
+   "nota_url": "https://www.lanacion.com.ar/opinion/el-papa-y-su-viaje-a-la-argentina-nid01112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "campeonato de constructores f1",
+   "tema": "morena beltrán",
+   "busquedas": "1000+",
+   "nota": "Morena Beltrán habló de las amenazas de hinchas de Estudiantes: “Me dijeron que me iban a matar”",
+   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/01/morena-beltran-hablo-de-las-amenazas-de-hinchas-de-estudiantes-me-dijeron-que-me-iban-a-matar/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juan sebastián verón",
+   "busquedas": "100+",
+   "nota": "El enigmático mensaje de Verón tras las polémicas del domingo",
+   "nota_url": "https://www.universoturadio.com.ar/articulo/el-enigmatico-mensaje-de-veron-tras-las-polemicas-del-domingo.php",
+   "medio": "FM Universo 97.3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima la plata",
+   "busquedas": "200+",
+   "nota": "La Plata enfrenta un intenso temporal de lluvia y granizo",
+   "nota_url": "https://radiolaplata.com.ar/la-plata-enfrenta-un-intenso-temporal-de-lluvia-y-granizo/",
+   "medio": "Radio La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el clima",
+   "busquedas": "100+",
+   "nota": "Clima en Capital Federal hoy: pronóstico del tiempo en vivo de este domingo 25 de octubre",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-hoy-pronostico-del-tiempo-en-vivo-de-esta-madrugada-202610253034",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima hoy",
+   "busquedas": "2000+",
+   "nota": "Alerta por tormentas fuertes este lunes: a qué hora llegan las lluvias al AMBA y qué provincias serán afectadas",
+   "nota_url": "https://www.ambito.com/informacion-general/alerta-meteorologica-tormentas-fuertes-granizo-y-rafagas-90-kmh-13-provincias-n6340196",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "test",
+   "busquedas": "200+",
+   "nota": "Apple Shares Are Up 27% This Year. Is the Stock Still a Buy Ahead of Earnings?",
+   "nota_url": "https://www.morningstar.com/stocks/apple-shares-are-up-27-this-year-is-stock-still-buy-ahead-earnings",
+   "medio": "Morningstar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bebé",
    "busquedas": "500+",
-   "nota": "En México, Antonelli se coronó campeón mundial de F1 y Colapinto fue penalizado tras ser Top10",
-   "nota_url": "https://campeones.com.ar/en-mexico-antonelli-se-corono-campeon-mundial-de-f1-y-colapinto-fue-top10/",
-   "medio": "Campeones",
+   "nota": "El detenido por el quíntuple crimen de Quitilipi fue trasladado a Sáenz Peña",
+   "nota_url": "https://www.diarionorte.com/335892-el-detenido-por-el-quintuple-crimen-de-quitilipi-fue-trasladado-a-saenz-pena",
+   "medio": "Diario Norte",
    "relevante": false,
    "temas": []
   },
@@ -35,63 +89,9 @@
   {
    "tema": "pronostico rosario",
    "busquedas": "200+",
-   "nota": "Clima en Rosario: cómo estará el tiempo este lunes 2 de noviembre",
-   "nota_url": "https://www.cadena3.com/noticia/clima/clima-en-rosario-como-estara-el-tiempo-este-lunes-2-de-noviembre_609206",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quini",
-   "busquedas": "2000+",
-   "nota": "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 1 de noviembre",
-   "nota_url": "https://www.tycsports.com/interes-general/quini-6-de-hoy-sorteo-controlar-carton-y-los-resultados-del-domingo-1-de-noviembre-id769711.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "microsoft",
-   "busquedas": "100+",
-   "nota": "Microsoft AI chief says AI is not conscious and we should keep it that way",
-   "nota_url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
-   "medio": "Business Insider",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santa fe - once caldas",
-   "busquedas": "200+",
-   "nota": "Weimar Asprilla evita el primer gol de Once Caldas ante Santa Fe",
-   "nota_url": "https://www.winsports.co/futbol-colombiano/noticias/andres-mosquera-marmolejo-evita-el-primer-gol-de-once-caldas-ante-santa-fe-475131",
-   "medio": "Win Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "montagne",
-   "busquedas": "100+",
-   "nota": "« On ne peut pas devenir ce qu’on ne voit pas »: femmes en montagne, le festival qui met en lumière des destins hors du commun",
-   "nota_url": "https://www.ledauphine.com/culture-loisirs/2026/10/29/femmes-en-montagne-le-festival-qui-met-en-lumiere-des-destins-hors-du-commun",
-   "medio": "Le Dauphiné Libéré",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "yaxel lendeborg",
-   "busquedas": "200+",
-   "nota": "‘He Was His Own Worst Enemy,’ ‘We Penalize Guys for Being 23’ — Steve Kerr Weighs In on Warriors Rookie Yaxel Lendeborg’s Long Road to the NBA",
-   "nota_url": "https://www.aol.com/articles/own-worst-enemy-penalize-guys-040705000.html",
-   "medio": "AOL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión",
-   "busquedas": "200+",
-   "nota": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
-   "nota_url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo",
-   "medio": "BBC",
+   "nota": "El tiempo en Rosario: lunes nublado y martes con alerta amarillo por tormentas",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-nublado-y-martes-alerta-amarillo-tormentas-n10289935.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   }
