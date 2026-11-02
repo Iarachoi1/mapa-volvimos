@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 11:49",
+ "actualizado": "02/11 11:52",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -203,10 +203,11 @@
      "url": "https://www.adnsur.com.ar/politica/cortes-y-weretilneck-ganaron-en-bariloche-con-el-34--y-se-quedan-con-ocho-de-los-15-convencionales_a6ae869c7778e6b1c1220990f"
     },
     {
-     "titulo": "Javier Milei volvió a Neuquén para inaugurar el templo de la familia de Nadia Márquez: qué dejó la visita",
+     "titulo": "Por qué es feriado el 3 de noviembre en Chubut y qué cuestionan los historiadores",
      "medio": "ADN Sur",
      "fecha": "02/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/javier-milei-volvio-a-neuquen-para-inaugurar-el-templo-de-la-familia-de-nadia-marquez--que-dejo-la-visita_a6ae86027778e6b1c121f9e1e"
+     "url": "https://www.adnsur.com.ar/sociedad/por-que-es-feriado-el-3-de-noviembre-en-chubut-y-que-cuestionan-los-historiadores_a6ae886afd2522645e686deee",
+     "tag": "También en El Chubut"
     },
     {
      "titulo": "El OMRESP intercede en el conflicto entre la Cooperativa de Trelew y la Cooperativa Lanera",
@@ -246,10 +247,16 @@
      "url": "https://www.cadena3.com/noticia/politica-y-economia/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
     },
     {
-     "titulo": "Cae el consumo de nafta y las encuestas muestran el desgaste de Milei",
+     "titulo": "Cristina Kirchner reapareció y no descartó ser candidata en 2027: “¿Por qué no?”",
      "medio": "CBA24N",
      "fecha": "02/11/2026",
-     "url": "https://www.cba24n.com.ar/economia/cae-el-consumo-de-nafta-y-las-encuestas-muestran-el-desgaste-de-milei_a6ae88b3043770ad9920d522e"
+     "url": "https://www.cba24n.com.ar/argentina/cristina-kirchner-reaparecio-y-no-descarto-ser-candidata-en-2027----por-que-no--_a6ae899d143770ad9920def80"
+    },
+    {
+     "titulo": "Cae el consumo de nafta y las encuestas muestran el desgaste de Javier Milei",
+     "medio": "CBA24N",
+     "fecha": "02/11/2026",
+     "url": "https://www.cba24n.com.ar/economia/cae-el-consumo-de-nafta-y-las-encuestas-muestran-el-desgaste-de-javier-milei_a6ae88b3043770ad9920d522e"
     }
    ]
   },
@@ -339,10 +346,21 @@
      "tag": "También en El Diario de La Pampa, La Arena"
     },
     {
-     "titulo": "Cristina le brindó una entrevista a The Washington Post, no descartó ser candidata, y auguró una derrota de Trump",
+     "titulo": "Cristina no descartó ser candidata, y auguró una derrota de Trump",
      "medio": "La Arena",
      "fecha": "02/11/2026",
      "url": "https://www.laarena.com.ar/el-pais/cristina-le-brindo-una-entrevista-the-washington-post-no-descarto-ser-candidata-y-auguro-una-derrota-de-trump-20261129500"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "DÓNDE VOTO: SE PUBLICÓ EL PADRÓN PROVISORIO PARA LAS ELECCIONES 2027",
+     "medio": "Rioja Virtual",
+     "fecha": "02/11/2026",
+     "url": "https://riojavirtual.com.ar/donde-voto-se-publico-el-padron-provisorio-para-las-elecciones-2027/"
     }
    ],
    "imagen": []
@@ -356,27 +374,19 @@
      "url": "https://www.diariouno.com.ar/politica/designaron-walter-aguero-al-frente-del-centro-nacional-ciberseguridad-n1612352"
     },
     {
-     "titulo": "Ciclo lectivo 2027: continúan abiertas las inscripciones para Educación Superior",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "02/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/ciclo-lectivo-2027-continuan-abiertas-las-inscripciones-para-educacion-superior/",
-     "tag": "También en Mendoza Post"
-    },
-    {
      "titulo": "Presupuesto 2027: el Gobierno negocia apoyos y acumula reclamos de sus aliados",
      "medio": "Memo",
      "fecha": "02/11/2026",
      "url": "https://www.memo.com.ar/poder/presupuesto-2027-el-gobierno-negocia-apoyos-y-acumula-reclamos-de-sus-aliados/"
-    }
-   ],
-   "imagen": [
+    },
     {
-     "titulo": "Cristina Kirchner habló de una posible candidatura en 2027 y pronosticó una derrota de Donald Trump",
+     "titulo": "Javier Milei invitó a Alfredo Cornejo y a 13 legisladores nacionales a la visita del Papa León XIV",
      "medio": "Diario UNO - MDZ",
      "fecha": "02/11/2026",
-     "url": "https://www.diariouno.com.ar/cristina-kirchner-hablo-una-posible-candidatura-2027-y-pronostico-una-derrota-donald-trump-n1612400"
+     "url": "https://www.diariouno.com.ar/politica/javier-milei-invito-alfredo-cornejo-y-13-legisladores-nacionales-la-visita-del-papa-leon-xiv-n1612374"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Misiones": {
    "top3": [
@@ -449,14 +459,7 @@
      "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "«Cuando recupere mis derechos, ¿por qué no?»: Cristina Kirchner planteó su candidatura para 2027 y apeló a la ONU",
-     "medio": "Diario Rio Negro",
-     "fecha": "02/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/cuando-recupere-mis-derechos-por-que-no-cristina-kirchner-planteo-su-candidatura-para-2027-y-apelo-a-la-onu-4781522/"
-    }
-   ]
+   "imagen": []
   },
   "Salta": {
    "top3": [
@@ -596,16 +599,16 @@
      "tag": "También en Rosario3"
     },
     {
+     "titulo": "Cristina sobre volver a ser candidata a presidenta: “Cuando recupere mis derechos políticos, ¿por qué no?”",
+     "medio": "Rosario3",
+     "fecha": "02/11/2026",
+     "url": "https://www.rosario3.com/politica/cristina-sobre-volver-a-ser-candidata-a-presidenta-cuando-recupere-mis-derechos-politicos-por-que-no-20261102-0041.html"
+    },
+    {
      "titulo": "TEMPORADA DE ROSCA Rosario: Gavira no descarta ser la carta del evangelismo para pelear la intendencia en la interna de Unidos Por Ramiro Porchietti",
      "medio": "Letra P",
      "fecha": "02/11/2026",
      "url": "https://www.letrap.com.ar/politica/rosario-gavira-no-descarta-ser-la-carta-del-evangelismo-pelear-la-intendencia-la-interna-unidos-n5427890"
-    },
-    {
-     "titulo": "Ley Tributaria 2027: Santa Fe actualizará impuestos por la inflación sin subir alícuotas",
-     "medio": "La Capital",
-     "fecha": "02/11/2026",
-     "url": "https://www.lacapital.com.ar/economia/ley-tributaria-2027-santa-fe-actualizara-impuestos-la-inflacion-subir-alicuotas-n10289973.html"
     }
    ],
    "imagen": [
@@ -681,11 +684,10 @@
      "url": "https://www.losprimeros.tv/politica/--por-que-no----cristina-kirchner-no-descarto-ser-candidata-y-vaticino-una-derrota-de-trump_a6ae8867e09dee0a0b9c34cf9"
     },
     {
-     "titulo": "Lluvias, calor y tormentas fuertes: cómo estará el tiempo en Tucumán durante esta semana",
+     "titulo": "Del Gobierno a la oposición: la política se metió en la polémica por el arbitraje del Boca-River",
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
-     "url": "https://www.losprimeros.tv/actualidad/lluvias--calor-y-tormentas-fuertes--como-estara-el-tiempo-en-tucuman-durante-esta-semana_a6ae882c709dee0a0b9c2e9f3",
-     "tag": "También en LV12"
+     "url": "https://www.losprimeros.tv/politica/del-gobierno-a-la-oposicion--la-politica-se-metio-en-la-polemica-por-el-arbitraje-del-boca-river_a6ae88ed509dee0a0b9c43566"
     },
     {
      "titulo": "Cano criticó los subsidios al AMBA y denunció la discriminación al transporte del interior",
