@@ -1,99 +1,97 @@
 {
- "actualizado": "01/11 23:39",
+ "actualizado": "02/11 00:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "mls",
-   "busquedas": "2000+",
-   "nota": "Red Bulls miss playoffs in consecutive years for first time after disastrous loss",
-   "nota_url": "https://nypost.com/2026/11/01/sports/red-bulls-miss-playoffs-in-consecutive-years-for-first-time-after-disastrous-loss/",
-   "medio": "New York Post",
+   "tema": "cyber",
+   "busquedas": "100+",
+   "nota": "AI Models Used to Investigate Cyberattacks Are Falling Prey to Cybercriminals",
+   "nota_url": "https://cxotoday.com/cybersecurity/ai-models-used-to-investigate-cyberattacks-are-falling-prey-to-cybercriminals/",
+   "medio": "CXOToday.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "samsung",
+   "busquedas": "500+",
+   "nota": "Tesla, Samsung Push Back as Washington Weighs Tariffs on Vietnam Over IP",
+   "nota_url": "https://finance.biggo.com/news/23ae5e3c-5664-411e-bbcf-09c2e247447a",
+   "medio": "BigGo Finance",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lunes",
+   "busquedas": "1000+",
+   "nota": "Fin de semana largo en Chubut: a quiénes alcanza el feriado y qué pasará con las clases",
+   "nota_url": "https://canal12web.com/fin-de-semana-largo-en-chubut-a-quienes-alcanza-el-feriado-y-que-pasara-con-las-clases/",
+   "medio": "Canal 12 Web",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima junin",
+   "busquedas": "100+",
+   "nota": "Alerta meteorológica en Pergamino: anuncian tormentas durante la madrugada y la mañana del domingo",
+   "nota_url": "https://diarionucleo.com/ciudad/pergamino/291447-alerta-meteorologica-pergamino-anuncian-tormentas-/",
+   "medio": "Diario Núcleo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los angeles fc",
+   "busquedas": "200+",
+   "nota": "Son Heung-min prepares for postseason return with LAFC",
+   "nota_url": "https://www.centraloregondaily.com/sports/son-heung-min-prepares-for-postseason-return-with-lafc/article_78522e89-57b1-5fce-a692-d6ed5c092843.html",
+   "medio": "Central Oregon Daily",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de new england revolution contra inter miami",
+   "busquedas": "20000+",
+   "nota": "Messi volvió al gol: cómo está la pelea con Cristiano Ronaldo y a cuánto quedó de los 1.000 goles :: Olé - ole.com.ar",
+   "nota_url": "https://www.ole.com.ar/futbol-internacional/messi-gol-inter-miami-mls-mil-goles-cristiano-ronaldo_0_DkL1VNYeSZ.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sporting",
+   "busquedas": "500+",
+   "nota": "Liga Portugal: Sporting é o sétimo clube a mudar de treinador em 2026/27",
+   "nota_url": "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-liga-portugal-sporting-e-o-setimo-clube-a-mudar-de-treinador-em-2026-27/xYTEeBGF/",
+   "medio": "Flashscore.pt",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "california",
-   "busquedas": "100+",
-   "nota": "Newsom on possible Democrat ‘tsunami’ on Election Day: ‘That’s a word I haven’t used lightly’",
-   "nota_url": "https://thehill.com/homenews/campaign/6187619-gavin-newsom-predicts-democrat-tsunami-election-day/",
-   "medio": "The Hill",
+   "busquedas": "200+",
+   "nota": "Californians demand progress but balk at paying for it. Voters must back Props. 3 and 40",
+   "nota_url": "https://dailybruin.com/2026/11/01/californians-demand-progress-but-balk-at-paying-for-it-voters-must-back-props-3-and-40",
+   "medio": "Daily Bruin",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima caba",
-   "busquedas": "200000+",
-   "nota": "Alerta amarilla por tormentas en el AMBA: a qué hora llegan hoy y por qué pasaremos de tardes de 27 °C a mañanas de 7 °C",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/alerta-amarilla-por-tormentas-en-el-amba-a-que-hora-llegan-hoy-y-por-que-pasaremos-de-tardes-de-27-c-a-mananas-de-7-c.html",
+   "tema": "clima buenos aires",
+   "busquedas": "2000+",
+   "nota": "Noviembre comienza primaveral en AMBA, pero podrían activarse alertas: cuándo llegarían las tormentas",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/noviembre-comienza-primaveral-en-amba-pero-podrian-activarse-alertas-cuando-llegarian-las-tormentas.html",
    "medio": "Meteored Argentina",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
-  },
-  {
-   "tema": "campeonato mundial de constructores de fórmula 1",
-   "busquedas": "200+",
-   "nota": "Cómo quedó Alpine en el campeonato de constructores de la Fórmula 1 después del GP de México",
-   "nota_url": "https://deportv.gob.ar/motor/alpine-campeonato-constructores-formula-1-gp-mexico-nid:18547",
-   "medio": "DeporTV",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "edith hermida",
-   "busquedas": "200+",
-   "nota": "Edith Hermida y Karina Mazzocco, la dupla de \"zorras\" que pasó de la enemistad a un plato impactante",
-   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/edith-hermida-y-karina-mazzocco-la-dupla-de-zorras-que-paso-de-la-enemistad-a-un-plato-impactante-pid2570806",
-   "medio": "Telefe",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "nazareno casero",
-   "busquedas": "1000+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marta fort",
-   "busquedas": "1000+",
-   "nota": "Marta Fort sorprendió en Halloween con un look inspirado en Madonna",
-   "nota_url": "https://elecos.com.ar/marta-fort-sorprendio-en-halloween-con-un-look-inspirado-en-madonna",
-   "medio": "Ecos Diarios Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adrian suar",
-   "busquedas": "200+",
-   "nota": "Comenzó el rodaje de la nueva película de Adrián Suar y Dolores Fonzi: las fotos y los videos en las calles de Buenos Aires",
-   "nota_url": "https://www.infobae.com/teleshow/2026/10/30/comenzo-el-rodaje-de-la-nueva-pelicula-de-adrian-suar-y-dolores-fonzi-las-fotos-en-las-calles-de-buenos-aires/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "despido laboral",
-   "busquedas": "100+",
-   "nota": "Despidos 2026: cómo calcular la indemnización con la reforma laboral en curso",
-   "nota_url": "https://www.cronista.com/economia-politica/despidos-2026-como-calcular-la-indemnizacion-con-la-reforma-laboral-en-curso/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lakers - raptors",
+   "tema": "rocio robles",
    "busquedas": "500+",
-   "nota": "Raptors vs. Lakers: Prediction, How to Watch for Free (11/1/26)",
-   "nota_url": "https://globelynews.com/americas/raptors-vs-lakers-prediction-how-to-watch-for-free-11-1-26/",
-   "medio": "Globely News",
+   "nota": "Las fotos de los famosos en el Superclásico: Dalma y Gianinna Maradona, Adrián Suar y Rocío Robles dijeron presente",
+   "nota_url": "https://www.noticiasdebariloche.com.ar/las-fotos-de-los-famosos-en-el-superclasico-dalma-y-gianinna-maradona-adrian-suar-y-rocio-robles-dijeron-presente/",
+   "medio": "noticiasdebariloche.com.ar",
    "relevante": false,
    "temas": []
   }
