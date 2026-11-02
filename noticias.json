@@ -1,31 +1,112 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 11:44",
+ "actualizado": "02/11 11:49",
  "items": {
   "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "Cristina Kirchner contó que estudia chino y quiere ser candidata",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "02/11/2026",
+     "url": "https://bardeo.news/politica/cristina-kirchner-conto-que-estudia-chino-y-quiere-ser-candidata_a6ae88df309dee0a0b9c41eb6"
+    },
+    {
+     "titulo": "Juez Gorini: de condenar a Cristina a jurado en la pelea de Canelo",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "02/11/2026",
+     "url": "https://bardeo.news/politica/juez-gorini--de-condenar-a-cristina-a-jurado-en-la-pelea-de-canelo_a6ae882c909dee0a0b9c2ea19"
+    },
+    {
+     "titulo": "Noviembre viene con aumentos en el AMBA",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "02/11/2026",
+     "url": "https://cenital.com/noviembre-viene-con-aumentos-en-el-amba/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    }
+   ],
+   "imagen": []
+  },
+  "CABA": {
    "top3": [
     {
      "titulo": "Dónde voto: la Cámara Electoral habilitó el padrón electoral provisorio para las elecciones presidenciales 2027",
      "medio": "Infobae",
      "fecha": "02/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/02/donde-voto-la-camara-electoral-habilito-el-padron-electoral-provisorio-para-las-elecciones-presidenciales-2027/",
-     "tag": "También en La Nación"
-    },
-    {
-     "titulo": "Pausa en Diputados. Las elecciones en Estados Unidos postergan el avance del presupuesto 2027",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/diputados-las-elecciones-en-estados-unidos-postergan-el-avance-del-presupuesto-2027-nid02112026/"
+     "tag": "Calendario electoral · También en La Nación"
     },
     {
      "titulo": "Gobernadores de Provincias Unidas buscan suspender las PASO para sumar su candidato",
      "medio": "El Destape",
      "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/gobernadores-provincias-unidas-buscan-suspender-paso-sumar-candidato-2026112111615"
+     "url": "https://www.eldestapeweb.com/politica/gobernadores-provincias-unidas-buscan-suspender-paso-sumar-candidato-2026112111615",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Oficializaron la designación del nuevo subsecretario de Ciencia y Tecnología",
+     "medio": "Infobae",
+     "fecha": "02/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/02/oficializaron-la-designacion-del-nuevo-subsecretario-de-ciencia-y-tecnologia/",
+     "tag": "Gabinete"
+    },
+    {
+     "titulo": "Lanzan un inminente paro en 27 aeropuertos por \"fallas de seguridad\"",
+     "medio": "El Destape",
+     "fecha": "02/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/paro-japonesa-milei-ate-anuncio-nueva-medida-fuerza-27-aeropuertos-2026112112813",
+     "tag": "Ciudad"
+    },
+    {
+     "titulo": "EN VIVO. Juicio a Cristina Kirchner: la lectura de las acusaciones de las causas de Hotesur y Los Sauces, y las última noticias",
+     "medio": "La Nación",
+     "fecha": "02/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-la-lectura-de-las-acusaciones-de-las-causas-de-hotesur-y-los-nid02112026/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Pausa en Diputados. Las elecciones en Estados Unidos postergan el avance del presupuesto 2027",
+     "medio": "La Nación",
+     "fecha": "02/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/diputados-las-elecciones-en-estados-unidos-postergan-el-avance-del-presupuesto-2027-nid02112026/",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "ELECCIONES 2026 Weretilneck y Cortés celebraron en Bariloche y dieron el primer paso para buscar la reelección en Río Negro Por Juan Gorosito",
+     "medio": "Letra P",
+     "fecha": "02/11/2026",
+     "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "La visita del papa León XIV altera los tiempos legislativos y expone las distintas posturas del Gobierno sobre la reforma electoral",
+     "medio": "Infobae",
+     "fecha": "02/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/02/la-visita-del-papa-leon-xiv-altera-los-tiempos-legislativos-y-expone-las-distintas-posturas-del-gobierno-sobre-la-reforma-electoral/",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "El Congreso espera al Papa y LLA planea liquidar su temario de fin de año y desescalar su interna",
+     "medio": "El Destape",
+     "fecha": "02/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/congreso-espera-papa-lla-negocia-presupuesto-2027-reforma-electoral-medio-interna-20261120511",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Milei, Trump y el futuro económico: qué puede cambiar para la Argentina tras las elecciones en Estados Unidos",
+     "medio": "Infobae",
+     "fecha": "02/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/02/milei-trump-y-el-futuro-economico-que-puede-cambiar-para-la-argentina-tras-las-elecciones-en-estados-unidos/",
+     "tag": "Calendario electoral"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Se calienta la interna del PJ El gobierno de Kicillof ratifica que irá a las PASO si Cristina es candidata en 2027: “El pueblo peronista va a definir quién lo representa”",
+     "medio": "Perfil",
+     "fecha": "02/11/2026",
+     "url": "https://www.perfil.com/politica/el-gobierno-de-kicillof-ratifica-que-ira-a-las-paso-si-cristina-es-candidata-en-2027-aEYSe5X3Gv0C"
+    },
     {
      "titulo": "Cristina Kirchner no descartó ser candidata a presidenta en 2027 y enfrentar a Milei: “Cuando recupere mis derechos políticos, ¿por qué no?”",
      "medio": "Infobae",
@@ -40,10 +121,10 @@
      "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-le-dio-una-entrevista-al-the-washington-post-y-cuestiono-a-la-justicia-por-su-nid02112026/"
     },
     {
-     "titulo": "Ranking legislativo Tres senadores de la oposición con la mejor imagen positiva",
+     "titulo": "Revista Noticias Encuesta: tanto Kicillof como Massa le ganarían en ballotage a Milei",
      "medio": "Perfil",
      "fecha": "02/11/2026",
-     "url": "https://www.perfil.com/reperfilar/tres-senadores-de-la-oposicion-con-la-mejor-imagen-positiva-aKXt32f65Dqd"
+     "url": "https://noticias.perfil.com/noticias/politica/encuesta-tanto-kicillof-como-massa-le-ganarian-en-ballotage-a-milei.phtml"
     }
    ]
   },
@@ -70,6 +151,12 @@
    ],
    "imagen": [
     {
+     "titulo": "Se calienta la interna del PJ El gobierno de Kicillof ratifica que irá a las PASO si Cristina es candidata en 2027: “El pueblo peronista va a definir quién lo representa”",
+     "medio": "Perfil",
+     "fecha": "02/11/2026",
+     "url": "https://www.perfil.com/politica/el-gobierno-de-kicillof-ratifica-que-ira-a-las-paso-si-cristina-es-candidata-en-2027-aEYSe5X3Gv0C"
+    },
+    {
      "titulo": "Con Cristina en el radar y La Cámpora al acecho, Bianco confirmó que Kicillof jugará con candidato propio en 2027",
      "medio": "Info Cielo",
      "fecha": "02/11/2026",
@@ -86,12 +173,6 @@
      "medio": "Diagonales",
      "fecha": "02/11/2026",
      "url": "https://www.diagonales.com/nacion/cfk-confirmo-que-considera-ser-candidata-en-2027----por-que-no--_a6ae87ecd09dee0a0b9c27606"
-    },
-    {
-     "titulo": "Revista Noticias Encuesta: tanto Kicillof como Massa le ganarían en ballotage a Milei",
-     "medio": "Perfil",
-     "fecha": "02/11/2026",
-     "url": "https://noticias.perfil.com/noticias/politica/encuesta-tanto-kicillof-como-massa-le-ganarian-en-ballotage-a-milei.phtml"
     }
    ]
   },
@@ -122,11 +203,10 @@
      "url": "https://www.adnsur.com.ar/politica/cortes-y-weretilneck-ganaron-en-bariloche-con-el-34--y-se-quedan-con-ocho-de-los-15-convencionales_a6ae869c7778e6b1c1220990f"
     },
     {
-     "titulo": "Por qué es feriado el 3 de noviembre en Chubut y qué cuestionan los historiadores",
+     "titulo": "Javier Milei volvió a Neuquén para inaugurar el templo de la familia de Nadia Márquez: qué dejó la visita",
      "medio": "ADN Sur",
      "fecha": "02/11/2026",
-     "url": "https://www.adnsur.com.ar/sociedad/por-que-es-feriado-el-3-de-noviembre-en-chubut-y-que-cuestionan-los-historiadores_a6ae886afd2522645e686deee",
-     "tag": "También en El Chubut"
+     "url": "https://www.adnsur.com.ar/politica/javier-milei-volvio-a-neuquen-para-inaugurar-el-templo-de-la-familia-de-nadia-marquez--que-dejo-la-visita_a6ae86027778e6b1c121f9e1e"
     },
     {
      "titulo": "El OMRESP intercede en el conflicto entre la Cooperativa de Trelew y la Cooperativa Lanera",
@@ -166,16 +246,10 @@
      "url": "https://www.cadena3.com/noticia/politica-y-economia/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
     },
     {
-     "titulo": "Cristina Kirchner reapareció y no descartó ser candidata en 2027: “¿Por qué no?”",
+     "titulo": "Cae el consumo de nafta y las encuestas muestran el desgaste de Milei",
      "medio": "CBA24N",
      "fecha": "02/11/2026",
-     "url": "https://www.cba24n.com.ar/argentina/cristina-kirchner-reaparecio-y-no-descarto-ser-candidata-en-2027----por-que-no--_a6ae899d143770ad9920def80"
-    },
-    {
-     "titulo": "Cae el consumo de nafta y las encuestas muestran el desgaste de Javier Milei",
-     "medio": "CBA24N",
-     "fecha": "02/11/2026",
-     "url": "https://www.cba24n.com.ar/economia/cae-el-consumo-de-nafta-y-las-encuestas-muestran-el-desgaste-de-javier-milei_a6ae88b3043770ad9920d522e"
+     "url": "https://www.cba24n.com.ar/economia/cae-el-consumo-de-nafta-y-las-encuestas-muestran-el-desgaste-de-milei_a6ae88b3043770ad9920d522e"
     }
    ]
   },
@@ -200,10 +274,10 @@
      "tag": "También en Ahora, AFP Digital y 1 más"
     },
     {
-     "titulo": "Cristina Kirchner no descartó volver a ser candidata: “Cuando recupere mis derechos políticos\"",
+     "titulo": "Ya se puede consultar el padrón electoral provisorio para 2027 y reclamar por errores",
      "medio": "El Once",
      "fecha": "02/11/2026",
-     "url": "https://www.elonce.com/politica/cristina-kirchner-no-descarto-volver-a-ser-candidata-cuando-recupere-mis-derechos-politicos-por-que-no.htm"
+     "url": "https://www.elonce.com/politica/ya-se-puede-consultar-el-padron-electoral-provisorio-para-2027-y-reclamar-por-errores.htm"
     },
     {
      "titulo": "Cristina Kirchner no descartó ser candidata, vaticinó una derrota de Donald Trump y reveló el consejo que le dio Lula da Silva",
@@ -362,11 +436,11 @@
      "url": "https://www.rionegro.com.ar/politica/el-viaje-de-diputados-a-estados-unidos-por-las-elecciones-frena-el-presupuesto-2027-y-abre-un-nuevo-conflicto-con-el-pro-y-la-ucr-4781604/"
     },
     {
-     "titulo": "Weretilneck anunció la primera licitación para recuperar el Tren del Valle: invertirán $1.781 millones para ampliar las estaciones",
-     "medio": "Diario Rio Negro",
+     "titulo": "Weretilneck anunció la primera licitación para recuperar el Tren Patagónico del Valle",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "02/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/weretilneck-anuncio-la-primera-licitacion-para-recuperar-el-tren-del-valle-invertiran-1-781-millones-para-ampliar-las-estaciones-4781580/",
-     "tag": "También en AN Roca, LCR y 1 más"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62567/weretilneck-anuncio-la-primera-licitacion-para-recuperar-el-tren-patagonico-del-valle",
+     "tag": "También en Diario Rio Negro, AN Roca y 2 más"
     },
     {
      "titulo": "ELECCIONES 2026 Weretilneck y Cortés celebraron en Bariloche y dieron el primer paso para buscar la reelección en Río Negro Por Juan Gorosito",
@@ -375,16 +449,17 @@
      "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "«Cuando recupere mis derechos, ¿por qué no?»: Cristina Kirchner planteó su candidatura para 2027 y apeló a la ONU",
+     "medio": "Diario Rio Negro",
+     "fecha": "02/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/cuando-recupere-mis-derechos-por-que-no-cristina-kirchner-planteo-su-candidatura-para-2027-y-apelo-a-la-onu-4781522/"
+    }
+   ]
   },
   "Salta": {
    "top3": [
-    {
-     "titulo": "La UCR salteña va a elecciones el 8 de noviembre, pero una lista quedó afuera y denuncia irregularidades",
-     "medio": "Informate Salta",
-     "fecha": "02/11/2026",
-     "url": "https://informatesalta.com.ar/politica/la-ucr-saltena-va-a-elecciones-el-8-de-noviembre--pero-una-lista-quedo-afuera-y-denuncia-irregularidades_a6ae51a8409dee0a0b9a57f73"
-    },
     {
      "titulo": "Duro revés para Milei en Bariloche: LLA salió tercera y recibió una advertencia para 2027",
      "medio": "Que Pasa Salta",
@@ -396,6 +471,13 @@
      "medio": "El Tribuno",
      "fecha": "02/11/2026",
      "url": "https://www.eltribuno.com/opiniones/2026-11-2-0-0-0-el-exito-de-milei-en-el-vinculo-con-trump-y-el-desafio-frente-a-las-elecciones-en-eeuu"
+    },
+    {
+     "titulo": "Día de los Fieles Difuntos en Salta: horarios de misas, cementerios y flores",
+     "medio": "El Tribuno",
+     "fecha": "02/11/2026",
+     "url": "https://www.eltribuno.com/salta/2026-11-2-9-54-0-dia-de-los-fieles-difuntos-en-salta-horarios-de-misas-cementerios-y-flores",
+     "tag": "También en Informate Salta, Que Pasa Salta"
     }
    ],
    "imagen": [
@@ -551,7 +633,7 @@
      "url": "https://www.elliberal.com.ar/nota/96746/2026/11/william-chein-asumio-su-segundo-mandato-como-intendente-de-colonia-dora-y-llamo-a-la-unidad-comunitaria"
     },
     {
-     "titulo": "Locales EDESE anunció cortes de luz para este martes y miércoles en Santiago del Estero: cuáles serán las zonas afectadas",
+     "titulo": "Locales EDESE anunció cortes de luz para este martes y miércoles en Santiago del Estero: cuáles serán las zonas afectadas Hace 1 hora",
      "medio": "Info del Estero",
      "fecha": "02/11/2026",
      "url": "https://infodelestero.com/2026/11/02/edese-anuncio-cortes-de-luz-para-este-martes-y-miercoles-en-santiago-del-estero-cuales-seran-las",
@@ -599,10 +681,11 @@
      "url": "https://www.losprimeros.tv/politica/--por-que-no----cristina-kirchner-no-descarto-ser-candidata-y-vaticino-una-derrota-de-trump_a6ae8867e09dee0a0b9c34cf9"
     },
     {
-     "titulo": "Del Gobierno a la oposición: la política se metió en la polémica por el arbitraje del Boca-River",
+     "titulo": "Lluvias, calor y tormentas fuertes: cómo estará el tiempo en Tucumán durante esta semana",
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
-     "url": "https://www.losprimeros.tv/politica/del-gobierno-a-la-oposicion--la-politica-se-metio-en-la-polemica-por-el-arbitraje-del-boca-river_a6ae88ed509dee0a0b9c43566"
+     "url": "https://www.losprimeros.tv/actualidad/lluvias--calor-y-tormentas-fuertes--como-estara-el-tiempo-en-tucuman-durante-esta-semana_a6ae882c709dee0a0b9c2e9f3",
+     "tag": "También en LV12"
     },
     {
      "titulo": "Cano criticó los subsidios al AMBA y denunció la discriminación al transporte del interior",
@@ -634,7 +717,6 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
-  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
