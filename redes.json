@@ -1,13 +1,22 @@
 {
- "actualizado": "02/11 10:58",
+ "actualizado": "02/11 11:36",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "ipc",
+   "busquedas": "200+",
+   "nota": "Inflación: cómo cerró octubre y cuál es el límite duro de roer",
+   "nota_url": "https://www.cronista.com/economia-politica/inflacion-como-cerro-octubre-y-cual-es-el-limite-duro-de-roer/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "washington post",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Cristina Kirchner no descartó ser candidata a presidenta en 2027 y enfrentar a Milei: “Cuando recupere mis derechos políticos, ¿por qué no?”",
    "nota_url": "https://www.infobae.com/politica/2026/11/02/cristina-kirchner-no-descarto-ser-candidata-a-presidenta-en-2027-y-enfrentar-a-milei-cuando-recupere-mis-derechos-politicos-por-que-no/",
    "medio": "Infobae",
@@ -15,47 +24,56 @@
    "temas": []
   },
   {
-   "tema": "mundial de padel 2026",
-   "busquedas": "200+",
-   "nota": "Sorteados los grupos de la primera fase. El lunes comienza en Doha la carrera por el título mundial",
-   "nota_url": "https://www.padelfip.com/es/2026/11/sorteados-los-grupos-de-la-primera-fase-el-lunes-comienza-en-doha-la-carrera-por-el-titulo-mundial/",
-   "medio": "International Padel Federation",
+   "tema": "aguinaldo",
+   "busquedas": "500+",
+   "nota": "Aguinaldo 2026: Apunte las fechas de pago para trabajadores y pensionados",
+   "nota_url": "https://crhoy.com/nacionales/aguinaldo-2026-apunte-las-fechas-de-pago-para-trabajadores-y-pensionados/",
+   "medio": "CR Hoy",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cae",
+   "tema": "mundial de padel 2026",
    "busquedas": "200+",
-   "nota": "Vaca Muerta cuadruplicará en 2026 la producción de petróleo de hace diez años",
-   "nota_url": "https://mase.lmneuquen.com/vaca-muerta/vaca-muerta-cuadruplicara-2026-la-produccion-petroleo-hace-diez-anos-n1259330",
-   "medio": "Lmneuquen.com",
+   "nota": "Comienza el Mundial de pádel en Qatar: la selección argentina defiende la corona",
+   "nota_url": "https://www.lanacion.com.ar/deportes/padel/comienza-el-mundial-de-padel-en-qatar-la-seleccion-argentina-defiende-la-corona-nid02112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "atp paris",
-   "busquedas": "100+",
-   "nota": "Pronostic Luca Van Assche - Mariano Navone, Rolex Paris Masters - 02/11/2026",
-   "nota_url": "https://www.sportytrader.com/pronostics/luca-van-assche-mariano-navone-384358/",
-   "medio": "SportyTrader",
+   "busquedas": "200+",
+   "nota": "Ignacio Buse domine Zizou Bergs en deux sets à l’ATP Paris",
+   "nota_url": "https://www.sofascore.com/fr/news/ignacio-buse-domine-zizou-bergs-en-deux-sets-a-latp-paris",
+   "medio": "Sofascore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "conmebol",
+   "busquedas": "200+",
+   "nota": "La Conmebol sancionó a Platense con una fuerte multa económica por los incidentes en la Libertadores",
+   "nota_url": "https://www.ole.com.ar/platense/platense-sancion-copa-libertadores-conmebol-invasion-hinchas-bandera-fluminense-multa_0_V7Hc3DneCz.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mariano navone",
    "busquedas": "500+",
-   "nota": "̳̳̳+[#!WATCHLIVE-Tv!]™Luca Van Assche vs Mariano Navone Live Free 02 November 2026",
-   "nota_url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RhcmVxaml5YTYtc3ZnLmdpdGh1Yi5pby9zdHJlYW0yMDI2L3hkLnhtbCIvPjwva3JwYW5vPg==&id=watch-free-tennis-match-xdgfhjffff",
-   "medio": "Pierce Manufacturing",
+   "nota": "Licensable picture: Rolex Paris Masters - Day 1",
+   "nota_url": "https://www.reutersconnect.com/item/rolex-paris-masters-day-1/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBCSk1HRzE",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "cyber monday",
-   "busquedas": "10000+",
-   "nota": "Deal | Elegoo Black Friday deals bring up to 39% off on FDM and resin printers",
-   "nota_url": "https://www.notebookcheck.net/Elegoo-Black-Friday-deals-bring-up-to-39-off-on-FDM-and-resin-printers.1438320.0.html",
-   "medio": "Notebookcheck",
+   "busquedas": "20000+",
+   "nota": "A €149 Laptop Table Won't Fix Your Posture — Here's What Ergonomics Experts Say Actually Matters",
+   "nota_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/a-149-laptop-table-won-t-fix-your-posture-here-s-what-ergonomics-experts-say-actually-matters/70442530",
+   "medio": "ad-hoc-news.de",
    "relevante": false,
    "temas": []
   },
@@ -71,28 +89,10 @@
   {
    "tema": "corte suprema",
    "busquedas": "100+",
-   "nota": "La Corte rechazó indemnizar a un gerente por cobrar un salario menor",
-   "nota_url": "https://www.iprofesional.com/impuestos/467884-corte-rechazo-indemnizar-gerente-cobrar-salario-menor",
-   "medio": "iProfesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aterrizaje",
-   "busquedas": "200+",
-   "nota": "Mendoza: una avioneta volcó al aterrizar en Tupungato y hay tres heridos",
-   "nota_url": "https://www.cba24n.com.ar/argentina/mendoza--una-avioneta-volco-al-aterrizar-en-tupungato-y-hay-tres-heridos_a6ae8627443770ad9920b79da",
-   "medio": "Cba24n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "500+",
-   "nota": "Alerta amarilla por tormentas fuertes para Corrientes",
-   "nota_url": "https://www.diarioepoca.com/1394126-alerta-amarilla-por-tormentas-fuertes-para-corrientes",
-   "medio": "Diario Época Corrientes",
-   "relevante": false,
+   "nota": "Cambia Río Negro recurrió a la Corte Suprema para conseguir el reconocimiento de su bloque en la Legislatura",
+   "nota_url": "https://www.rionegro.com.ar/politica/cambia-rio-negro-recurrio-a-la-corte-suprema-para-conseguir-el-reconocimiento-de-su-bloque-en-la-legislatura-4781496/",
+   "medio": "Diario Río Negro",
+   "relevante": true,
    "temas": []
   }
  ],
