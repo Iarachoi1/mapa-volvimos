@@ -1,22 +1,49 @@
 {
- "actualizado": "02/11 03:56",
+ "actualizado": "02/11 05:19",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "tiempo hoy",
+   "busquedas": "200000+",
+   "nota": "Alerta amarilla por tormentas en el AMBA: a qué hora llegan hoy y por qué pasaremos de tardes de 27 °C a mañanas de 7 °C",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/alerta-amarilla-por-tormentas-en-el-amba-a-que-hora-llegan-hoy-y-por-que-pasaremos-de-tardes-de-27-c-a-mananas-de-7-c.html",
+   "medio": "Meteored Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "campeonato de constructores f1",
+   "busquedas": "500+",
+   "nota": "En México, Antonelli se coronó campeón mundial de F1 y Colapinto fue penalizado tras ser Top10",
+   "nota_url": "https://campeones.com.ar/en-mexico-antonelli-se-corono-campeon-mundial-de-f1-y-colapinto-fue-top10/",
+   "medio": "Campeones",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima rosario",
    "busquedas": "500+",
-   "nota": "Sábado caluroso en Rosario: anticipan 28 grados y posibles tormentas para el domingo",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/sabado-caluroso-en-rosario-anticipan-28-grados-y-posibles-tormentas-para-el-domingo_608895",
+   "nota": "El SMN extendió la vigencia del alerta amarillo por tormentas en Rosario",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-smn-extendio-la-vigencia-del-alerta-amarillo-tormentas-rosario-n10289781.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico rosario",
+   "busquedas": "200+",
+   "nota": "Clima en Rosario: cómo estará el tiempo este lunes 2 de noviembre",
+   "nota_url": "https://www.cadena3.com/noticia/clima/clima-en-rosario-como-estara-el-tiempo-este-lunes-2-de-noviembre_609206",
    "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "quini",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 1 de noviembre",
    "nota_url": "https://www.tycsports.com/interes-general/quini-6-de-hoy-sorteo-controlar-carton-y-los-resultados-del-domingo-1-de-noviembre-id769711.html",
    "medio": "TyC Sports",
@@ -51,47 +78,20 @@
    "temas": []
   },
   {
+   "tema": "yaxel lendeborg",
+   "busquedas": "200+",
+   "nota": "‘He Was His Own Worst Enemy,’ ‘We Penalize Guys for Being 23’ — Steve Kerr Weighs In on Warriors Rookie Yaxel Lendeborg’s Long Road to the NBA",
+   "nota_url": "https://www.aol.com/articles/own-worst-enemy-penalize-guys-040705000.html",
+   "medio": "AOL.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "avión",
    "busquedas": "200+",
    "nota": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
    "nota_url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo",
    "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "megatone",
-   "busquedas": "200+",
-   "nota": "La motosierra sigue golpeando al comercio: cerró Megatone en Posadas y siete trabajadores perdieron sus empleos",
-   "nota_url": "https://www.primeraedicion.com.ar/nota/101156385/la-motosierra-sigue-golpeando-al-comercio-cerro-megatone-en-posadas-y-siete-trabajadores-perdieron-sus-empleos/",
-   "medio": "Primera Edición",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "latam",
-   "busquedas": "200+",
-   "nota": "El check-in automático en vuelos de LATAM",
-   "nota_url": "https://www.infoviajera.com/2026/10/el-check-in-automatico-en-vuelos-de-latam/",
-   "medio": "Info Viajera",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cyber",
-   "busquedas": "200+",
-   "nota": "Russian emergencies ministry's mobile app hit by cyberattack, TASS says",
-   "nota_url": "https://www.reuters.com/technology/russian-emergencies-ministrys-mobile-app-hit-by-cyberattack-tass-says-2026-11-02/",
-   "medio": "Reuters",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "samsung",
-   "busquedas": "1000+",
-   "nota": "Smartphone Slump: Will brands rein in festive ad spends?",
-   "nota_url": "https://www.exchange4media.com/festive-season-news/smartphone-slump-will-brands-rein-in-festive-ad-spends-159611.html",
-   "medio": "Exchange4Media",
    "relevante": false,
    "temas": []
   }
