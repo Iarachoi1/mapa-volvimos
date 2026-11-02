@@ -598,7 +598,16 @@ def main():
                     menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
                     if fuente["juris"] in menciones:
                         puntos += 1
-            else:  # medios nacionales, Congreso, ministerios, agregadores
+            elif fuente["bloque"] == "5":
+                # Medios nacionales: todas sus notas van a CABA y, además,
+                # a cada provincia que nombre el título
+                menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
+                otras = sorted((j for j in menciones if j not in ("CABA", "NACIONAL")),
+                               key=menciones.get, reverse=True)
+                destinos = ["CABA"] + otras
+                if menciones:
+                    puntos += 1
+            else:  # Congreso, ministerios, agregadores
                 menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
                 if fuente["juris"] == "Menciones" and not menciones:
                     continue  # "lo último" de un diario nacional: solo lo que nombra a una provincia o CABA
