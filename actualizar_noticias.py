@@ -252,6 +252,28 @@ def fecha_desde_texto(valor):
     return None
 
 
+_MESES_RE = "|".join(["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+                       "agosto", "septiembre", "setiembre", "octubre", "noviembre", "diciembre"])
+_FECHA_LARGA = re.compile(r"\b(\d{1,2})\s+de\s+(" + _MESES_RE + r")(?:\s+de|,)?\s+(20\d{2})", re.I)
+_FECHA_CORTA = re.compile(r"\b(\d{1,2})[/.-](\d{1,2})[/.-](20\d{2})\b")
+
+
+def fechas_escritas(texto):
+    """Fechas escritas a mano en el texto: '25 de octubre de 2026', '02/11/2026'.
+    Devuelve [(posición, fecha)]."""
+    salida = []
+    for m in _FECHA_LARGA.finditer(texto):
+        mes = m.group(2).lower().replace("setiembre", "septiembre")
+        f = fecha_valida(m.group(3), MESES.index(mes) + 1, m.group(1))
+        if f:
+            salida.append((m.start(), f))
+    for m in _FECHA_CORTA.finditer(texto):
+        f = fecha_valida(m.group(3), m.group(2), m.group(1))
+        if f:
+            salida.append((m.start(), f))
+    return salida
+
+
 # ----------------------------------------------------------------------------
 # LECTURA DE CADA MEDIO
 # ----------------------------------------------------------------------------
@@ -322,6 +344,15 @@ def notas_de_portada(html, medio_url):
                 if t is not None:
                     f = fecha_desde_texto(t.get("datetime") or t.get_text())
                     break
+                # Fecha escrita junto al titular ("Fecha de publicación: 01/11/2026").
+                # Solo si hay una sola fecha distinta: si hay varias, el bloque
+                # ya abarca otras notas y no se sabe cuál es cuál.
+                distintas = {fe for _, fe in fechas_escritas(padre.get_text(" "))}
+                if len(distintas) == 1:
+                    f = distintas.pop()
+                    break
+                if len(distintas) > 1:
+                    break
         vistas.add(url)
         notas.append({"titulo": titulo, "url": url, "fecha": f})
     return notas[:120]
@@ -371,6 +402,24 @@ def fecha_real_de_nota(url):
             f = fecha_desde_texto(m.group(1))
             if f:
                 return f
+    # Último recurso: la fecha escrita pegada al título de la nota (<h1>),
+    # como hace la página del Gobierno porteño ("Domingo 25 de octubre de 2026").
+    # Se toma la más cercana al título, para no confundirla con la fecha de hoy
+    # del encabezado del sitio ni con las de "últimas noticias" al pie.
+    h1 = re.search(r"<h1[\s>]", html, re.I)
+    if h1:
+        inicio = max(0, h1.start() - 1500)
+        trozo = re.sub(r"<[^>]+>", lambda t: " " * len(t.group(0)), html[inicio:h1.start() + 800])
+        antes, despues = [], []
+        for pos, f in fechas_escritas(trozo):
+            distancia = pos + inicio - h1.start()
+            (antes if distancia < 0 else despues).append((abs(distancia), f))
+        # Primero la fecha justo arriba del título (volanta/fecha); si no hay,
+        # la que está justo debajo (línea de autor). No se lee más lejos para no
+        # tomar fechas mencionadas en el cuerpo ("a partir del 2 de noviembre").
+        for lista in (antes, despues):
+            if lista:
+                return min(lista)[1]
     return None
 
 
