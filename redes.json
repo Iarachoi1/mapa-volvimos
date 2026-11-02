@@ -1,98 +1,100 @@
 {
- "actualizado": "01/11 22:51",
+ "actualizado": "01/11 23:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "cruz azul - león",
-   "busquedas": "200+",
-   "nota": "Cruz Azul vs. León, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/mexico/liga-mx/cruz-azul-vs-leon-en-vivo-donde-ver-por-tv-y-online-id769697.html",
-   "medio": "TyC Sports",
+   "tema": "mls",
+   "busquedas": "2000+",
+   "nota": "Red Bulls miss playoffs in consecutive years for first time after disastrous loss",
+   "nota_url": "https://nypost.com/2026/11/01/sports/red-bulls-miss-playoffs-in-consecutive-years-for-first-time-after-disastrous-loss/",
+   "medio": "New York Post",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lakers - raptors",
-   "busquedas": "200+",
-   "nota": "Sandro Mamukelashvili was a fan-fave, but the Raptors need to win this",
-   "nota_url": "https://sports.yahoo.com/articles/sandro-mamukelashvili-fan-fave-raptors-130000927.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "independiente medellín",
+   "tema": "california",
    "busquedas": "100+",
-   "nota": "Independiente Medellín 2-1 Alianza Valledupar: Jackson Martínez dio la victoria al DIM",
-   "nota_url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/independiente-medellin-2-1-alianza-valledupar-jackson-martinez-dio-la-victoria-al-dim-274726",
-   "medio": "Futbolred",
+   "nota": "Newsom on possible Democrat ‘tsunami’ on Election Day: ‘That’s a word I haven’t used lightly’",
+   "nota_url": "https://thehill.com/homenews/campaign/6187619-gavin-newsom-predicts-democrat-tsunami-election-day/",
+   "medio": "The Hill",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "warriors - clippers",
-   "busquedas": "500+",
-   "nota": "Warriors' Projected Starting Lineup, Rotation with Steph, Dray Out vs. Clips",
-   "nota_url": "https://www.si.com/nba/warriors/onsi/warriors-projected-starting-lineup-rotation-with-steph-dray-out-vs-clips-01m6bsf3nj29",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "caracol",
-   "busquedas": "200+",
-   "nota": "Michael Mann, el director de Fuego contra fuego, se disparó accidentalmente en una pierna y fue hospitalizado",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/personajes/michael-mann-el-director-de-fuego-contra-fuego-se-disparo-accidentalmente-en-una-pierna-y-fue-nid01112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "popstars",
-   "busquedas": "200+",
-   "nota": "Una x una: quiénes son las 11 finalistas que entran a la casa Popstars antes de Chapeaux",
-   "nota_url": "https://www.newsdigitales.com/nota/348608/una-x-una-quienes-son-las-11-finalistas-que-entran-a-la-casa-popstars-antes-de-chapeaux/",
-   "medio": "NewsDigitales",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bunge",
-   "busquedas": "200+",
-   "nota": "Preocupación en la Legislatura bonaerense por el cierre de Bunge y 250 despidos en Campana",
-   "nota_url": "https://www.diariodemocracia.com/provinciales/347425-preocupacion-en-la-legislatura-bonaerense-por-el-c/",
-   "medio": "Diario Democracia",
+   "tema": "clima caba",
+   "busquedas": "200000+",
+   "nota": "Alerta amarilla por tormentas en el AMBA: a qué hora llegan hoy y por qué pasaremos de tardes de 27 °C a mañanas de 7 °C",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/alerta-amarilla-por-tormentas-en-el-amba-a-que-hora-llegan-hoy-y-por-que-pasaremos-de-tardes-de-27-c-a-mananas-de-7-c.html",
+   "medio": "Meteored Argentina",
    "relevante": true,
-   "temas": []
+   "temas": [
+    "Ciudad"
+   ]
   },
   {
-   "tema": "ivan de pineda",
-   "busquedas": "500+",
-   "nota": "Así está hoy Iván de Pineda, conductor de Pasapalabra: tiene 49 años, está en pareja hace 26 años y trabaja en distintos proyectos audiovisuales",
-   "nota_url": "https://www.canal26.com/espectaculos/2026/10/30/asi-esta-hoy-ivan-de-pineda-conductor-de-pasapalabra-tiene-49-anos-esta-en-pareja-hace-26-anos-y-trabaja-en-distintos-proyectos-audiovisuales/",
-   "medio": "Canal26",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inter miami vs",
-   "busquedas": "500+",
-   "nota": "Qué canal transmite a Lionel Messi en Inter Miami vs. New England Revolution, por la MLS: hora, TV y cómo ver en vivo",
-   "nota_url": "https://deportv.gob.ar/futbol/canal-transmite-lionel-messi-inter-miami-vs-new-england-revolution-mls-hora-tv-vivo-nid:18524",
+   "tema": "campeonato mundial de constructores de fórmula 1",
+   "busquedas": "200+",
+   "nota": "Cómo quedó Alpine en el campeonato de constructores de la Fórmula 1 después del GP de México",
+   "nota_url": "https://deportv.gob.ar/motor/alpine-campeonato-constructores-formula-1-gp-mexico-nid:18547",
    "medio": "DeporTV",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "hernan lacunza",
+   "tema": "edith hermida",
    "busquedas": "200+",
-   "nota": "Hernán Lacunza planteó la necesidad de corregir el rumbo del Gobierno: \\",
-   "nota_url": "https://cityenlinea.com.ar/a-nota/230521/hernan-lacunza-planteo-la-necesidad-de-corregir-el-rumbo-del-gobierno",
-   "medio": "Cityenlinea",
+   "nota": "Edith Hermida y Karina Mazzocco, la dupla de \"zorras\" que pasó de la enemistad a un plato impactante",
+   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/edith-hermida-y-karina-mazzocco-la-dupla-de-zorras-que-paso-de-la-enemistad-a-un-plato-impactante-pid2570806",
+   "medio": "Telefe",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nazareno casero",
+   "busquedas": "1000+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marta fort",
+   "busquedas": "1000+",
+   "nota": "Marta Fort sorprendió en Halloween con un look inspirado en Madonna",
+   "nota_url": "https://elecos.com.ar/marta-fort-sorprendio-en-halloween-con-un-look-inspirado-en-madonna",
+   "medio": "Ecos Diarios Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adrian suar",
+   "busquedas": "200+",
+   "nota": "Comenzó el rodaje de la nueva película de Adrián Suar y Dolores Fonzi: las fotos y los videos en las calles de Buenos Aires",
+   "nota_url": "https://www.infobae.com/teleshow/2026/10/30/comenzo-el-rodaje-de-la-nueva-pelicula-de-adrian-suar-y-dolores-fonzi-las-fotos-en-las-calles-de-buenos-aires/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "despido laboral",
+   "busquedas": "100+",
+   "nota": "Despidos 2026: cómo calcular la indemnización con la reforma laboral en curso",
+   "nota_url": "https://www.cronista.com/economia-politica/despidos-2026-como-calcular-la-indemnizacion-con-la-reforma-laboral-en-curso/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lakers - raptors",
+   "busquedas": "500+",
+   "nota": "Raptors vs. Lakers: Prediction, How to Watch for Free (11/1/26)",
+   "nota_url": "https://globelynews.com/americas/raptors-vs-lakers-prediction-how-to-watch-for-free-11-1-26/",
+   "medio": "Globely News",
+   "relevante": false,
    "temas": []
   }
  ],
