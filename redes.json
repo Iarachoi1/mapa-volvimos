@@ -1,25 +1,52 @@
 {
- "actualizado": "02/11 09:41",
+ "actualizado": "02/11 09:44",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "cae",
+   "busquedas": "100+",
+   "nota": "El petróleo vuelve a subir fuerte y llega a US$ 117 tras nuevos ataques de Irán en el Estrecho de Ormuz",
+   "nota_url": "https://www.clarin.com/mundo/petroleo-sube-fuerza-us-117-nuevos-ataques-iran-estrecho-ormuz_0_2ZuCD6Sw25.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mundial de padel 2026",
+   "busquedas": "100+",
+   "nota": "Sorteados los grupos de la primera fase. El lunes comienza en Doha la carrera por el título mundial",
+   "nota_url": "https://www.padelfip.com/es/2026/11/sorteados-los-grupos-de-la-primera-fase-el-lunes-comienza-en-doha-la-carrera-por-el-titulo-mundial/",
+   "medio": "International Padel Federation",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "atp paris",
    "busquedas": "100+",
-   "nota": "Tennis : Masters 1000 de Paris",
-   "nota_url": "https://tv.moustique.be/emission/tennis-masters-1000-de-paris-a830cge1e.html",
-   "medio": "tv.moustique.be",
+   "nota": "Ignacio Buse domine Zizou Bergs en deux sets à l’ATP Paris",
+   "nota_url": "https://www.sofascore.com/fr/news/ignacio-buse-domine-zizou-bergs-en-deux-sets-a-latp-paris",
+   "medio": "Sofascore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "conmebol",
+   "busquedas": "200+",
+   "nota": "Se confirmaron los horarios de las finales que jugarán Estudiantes y Boca",
+   "nota_url": "https://www.lacapitalmdp.com/se-confirmaron-los-horarios-de-las-finales-que-jugaran-estudiantes-y-boca/",
+   "medio": "Diario La Capital de Mar del Plata",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mariano navone",
    "busquedas": "200+",
-   "nota": "November 2, 2026: Luciano Darderi vs Rinky Hijikata: Set 2 Winner Prediction Market",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/luciano-darderi-vs-rinky-hijikata-set-2-winner-nov-02-2026/",
-   "medio": "Robinhood",
+   "nota": "Luca van Assche v Mariano Navone (02/11/2026)",
+   "nota_url": "https://www.flashscore.com/match/tennis/navone-mariano-YoPUeL3o/van-assche-luca-nP9K42Bg/",
+   "medio": "Flashscore.com",
    "relevante": false,
    "temas": []
   },
@@ -44,10 +71,10 @@
   {
    "tema": "corte suprema",
    "busquedas": "100+",
-   "nota": "El plan demócrata para reformar la Corte Suprema que podría avanzar después de las midterm 2026 en EE.UU.",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/washington/el-plan-democrata-para-reformar-la-corte-suprema-que-podria-avanzar-despues-de-las-midterm-2026-en-nid02112026/",
-   "medio": "La Nación",
-   "relevante": false,
+   "nota": "La Corte revisará la quita de subsidios al transporte que encareció el boleto de colectivo en el interior del país",
+   "nota_url": "https://diarioelnorte.com.ar/la-corte-revisara-la-quita-de-subsidios-al-transporte-que-encarecio-el-boleto-de-colectivo-en-el-interior-del-pais/",
+   "medio": "Diario El Norte - San Nicolás",
+   "relevante": true,
    "temas": []
   },
   {
@@ -65,33 +92,6 @@
    "nota": "Un presunto intento de robo de cables terminó con un hombre baleado en Posadas",
    "nota_url": "https://www.primeraedicion.com.ar/nota/101156780/un-presunto-intento-de-robo-de-cables-termino-con-un-hombre-baleado-en-posadas/",
    "medio": "Primera Edición",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "torneo federal a",
-   "busquedas": "1000+",
-   "nota": "EN VIVO I Sarmiento de La Banda visita a Atenas de Río Cuarto con la ilusión de avanzar en el Federal A",
-   "nota_url": "https://www.diariopanorama.com/noticia/571406/en-vivo-i-sarmiento-banda-visita-atenas-rio-cuarto-ilusion-avanzar-federal-a",
-   "medio": "Diario Panorama",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "500+",
-   "nota": "Chaco, Corrientes, Formosa y Santiago del Estero llegarán a los 32 grados",
-   "nota_url": "https://www.radionacional.com.ar/chaco-corrientes-formosa-y-santiago-del-estero-llegaran-a-los-32-grados/",
-   "medio": "Radionacional.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aire de santa fe",
-   "busquedas": "200+",
-   "nota": "Buscan desesperadamente a una adolescente que cayó al agua desde el Puente Colgante en Santa Fe",
-   "nota_url": "https://la100.cienradios.com/policiales/buscan-desesperadamente-a-una-adolescente-que-cayo-al-agua-desde-el-puente-colgante-en-santa-fe/",
-   "medio": "La 100",
    "relevante": false,
    "temas": []
   }
