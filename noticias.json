@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 09:55",
+ "actualizado": "02/11 09:58",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -68,7 +68,14 @@
      "url": "https://www.lanoticia1.com/noticia/el-chivilcoyano-falcone-cuestiono-la-reforma-politica-del-gobierno-alerto-que-perjudicara-a-los-partidos-mas-chicos"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "CFK confirmó que considera ser candidata en 2027: “¿Por qué no?”",
+     "medio": "Diagonales",
+     "fecha": "02/11/2026",
+     "url": "https://www.diagonales.com/nacion/cfk-confirmo-que-considera-ser-candidata-en-2027----por-que-no--_a6ae87ecd09dee0a0b9c27606"
+    }
+   ]
   },
   "Catamarca": {
    "top3": [
@@ -243,6 +250,12 @@
      "fecha": "02/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/02/266493-abrieron-las-inscripciones-al-programa-de-becas-deportivas-2027",
      "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Milei inauguró el nuevo templo evangélico de Neuquén y habló en clave electoral",
+     "medio": "Neuquén al Instante",
+     "fecha": "02/11/2026",
+     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/02/146568-milei-inauguro-el-nuevo-templo-evangelico-de-neuquen-y-hablo-en-clave-electoral"
     },
     {
      "titulo": "Neuquén concretó tres vuelos sanitarios de emergencia durante el fin de semana",
@@ -438,7 +451,7 @@
      "url": "https://www.diariopanorama.com/noticia/571595/politica-atravesada-fe"
     },
     {
-     "titulo": "Info Stream “Vamos a tener salud mental para ricos y para… “Vamos a tener salud mental para ricos y para pobres”: la advertencia de Néstor Medina por la reforma de la ley Seguir leyendo →",
+     "titulo": "Info Stream “Vamos a tener salud mental para ricos y para pobres”: la advertencia de Néstor Medina por la reforma de la ley",
      "medio": "Info del Estero",
      "fecha": "02/11/2026",
      "url": "https://infodelestero.com/2026/11/02/vamos-a-tener-salud-mental-para-ricos-y-para-pobres-la-advertencia-de-nestor-medina-por-la"
@@ -476,6 +489,12 @@
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
      "url": "https://www.losprimeros.tv/politica/kicillof-visitara-mas-provincias-ante-la-crisis-de-javier-milei-con-gobernadores-aliados_a6ae84eb509dee0a0b9bf9581"
+    },
+    {
+     "titulo": "Villarruel y gobernadores serán invitados al encuentro con el papa León XIV en el Palacio Libertad",
+     "medio": "Los Primeros",
+     "fecha": "02/11/2026",
+     "url": "https://www.losprimeros.tv/politica/villarruel-y-gobernadores-seran-invitados-al-encuentro-con-el-papa-leon-xiv-en-el-palacio-libertad_a6ae84c9909dee0a0b9bf87f5"
     }
    ],
    "imagen": [
@@ -495,7 +514,6 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
-  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
@@ -506,7 +524,6 @@
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
-  "https://www.lapampanoticias.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://nuevarioja.com.ar/",
