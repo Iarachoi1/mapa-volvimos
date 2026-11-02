@@ -1,10 +1,19 @@
 {
- "actualizado": "02/11 13:51",
+ "actualizado": "02/11 14:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "sassuolo - fiorentina",
+   "busquedas": "2000+",
+   "nota": "Serie A Enilive | Segui il live di Sassuolo-Fiorentina",
+   "nota_url": "https://www.sassuolocalcio.it/prima-squadra/serie-a-enilive-segui-il-live-di-sassuolo-fiorentina/",
+   "medio": "U.S. Sassuolo Calcio",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "al-sadd - al-ahli saudi",
    "busquedas": "100+",
@@ -16,7 +25,7 @@
   },
   {
    "tema": "murio juan atkins",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Muere en México el DJ estadounidense Juan Atkins, pionero del tecno",
    "nota_url": "https://www.clarin.com/estados-unidos/muere-en-mexico-el-dj-estadounidense-juan-atkins-pionero-del-tecno_0_ay98vRCwWw.html",
    "medio": "Clarin.com",
@@ -25,10 +34,10 @@
   },
   {
    "tema": "la toretto",
-   "busquedas": "200+",
-   "nota": "Comienza el juicio contra Felicitas Alvite “La Toretto de La Plata”",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/01/comienza-el-juicio-contra-felicitas-alvite-la-toretto-de-la-plata/",
-   "medio": "Página|12",
+   "busquedas": "500+",
+   "nota": "\"Estamos con mucha esperanza\": el hermano de Walter Armand pidió justicia por su muerte",
+   "nota_url": "https://www.0221.com.ar/la-plata/estamos-mucha-esperanza-el-hermano-walter-armand-pidio-justicia-su-muerte-n136762",
+   "medio": "0221",
    "relevante": false,
    "temas": []
   },
@@ -43,28 +52,37 @@
   },
   {
    "tema": "posiciones de pakhtakor contra al-nassr",
-   "busquedas": "2000+",
-   "nota": "Cristiano Ronaldo misses Al-Nassr match in Uzbekistan amid security concerns",
-   "nota_url": "https://www.independent.co.uk/sport/football/cristiano-ronaldo-pakhtakor-vs-al-nassr-uzbekistan-b3077739.html",
-   "medio": "The Independent",
+   "busquedas": "5000+",
+   "nota": "Why isn't Cristiano Ronaldo playing for Al Nassr vs. Pakhtakor today?",
+   "nota_url": "https://www.usatoday.com/story/sports/soccer/2026/11/02/cristiano-ronaldo-not-playing-al-nassr-pakhtakor-today/92557289007/",
+   "medio": "USA Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "chicago vs chacarita",
+   "busquedas": "5000+",
+   "nota": "La dramática definición del descenso en el Nacional: el morbo de Chacarita-Chicago y Patronato en riesgo",
+   "nota_url": "https://www.ole.com.ar/futbol-ascenso/primeranacional-chacarita-chicago-patronato-rafaela_0_vuy9nKqdOH.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dólar hoy",
    "busquedas": "500+",
-   "nota": "Chacarita y Chicago juegan una final por no descender",
-   "nota_url": "https://www.eldia.com/deportes/chacarita-y-chicago-juegan-una-final-por-no-descender-deportes_1793601696",
-   "medio": "Diario El Día de La Plata",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 2 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/02/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-2-de-noviembre/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "all boys - estudiantes",
    "busquedas": "2000+",
-   "nota": "Ver EN VIVO All Boys vs. Estudiantes (BA): dónde seguir por TV y ONLINE en streaming",
-   "nota_url": "https://www.tycsports.com/primera-nacional/all-boys-vs-estudiantes-ba-en-vivo-donde-ver-por-tv-y-online-id769726.html",
-   "medio": "TyC Sports",
+   "nota": "EN VIVO: Empate 0-0 en el segundo tiempo entre All Boys y Estudiantes (BA)",
+   "nota_url": "https://www.directvsports.com/futbol/en-vivo-empate-0-0-en-el-segundo-tiempo-entre-all-boys-y-estudiantes-ba-20261030-0018.html",
+   "medio": "DSports",
    "relevante": false,
    "temas": []
   },
@@ -75,24 +93,6 @@
    "nota_url": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-noviembre-si-mi-dni-termina-en-0-nid02112026/",
    "medio": "La Nación",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "frío",
-   "busquedas": "1000+",
-   "nota": "Advierten por efectos de frente frío en el norte",
-   "nota_url": "https://www.reforma.com/advierten-por-efectos-de-frente-frio-en-el-norte/ar3306528",
-   "medio": "Reforma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "liga de campeones de la afc",
-   "busquedas": "200+",
-   "nota": "¿Cristiano Ronaldo estará en la pelea de Canelo? Se queda fuera de la convocatoria de Al Nassr",
-   "nota_url": "https://www.infobae.com/mexico/deportes/2026/10/31/cristiano-ronaldo-estara-en-la-pelea-de-canelo-se-queda-fuera-de-la-convocatoria-de-al-nassr/",
-   "medio": "Infobae",
-   "relevante": false,
    "temas": []
   }
  ],
