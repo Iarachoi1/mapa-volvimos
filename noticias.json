@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 09:41",
+ "actualizado": "02/11 09:45",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -31,7 +31,7 @@
      "medio": "Infobae",
      "fecha": "02/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/02/cristina-kirchner-no-descarto-ser-candidata-a-presidenta-en-2027-y-enfrentar-a-milei-cuando-recupere-mis-derechos-politicos-por-que-no/",
-     "tag": "También en El Destape"
+     "tag": "También en El Destape, Perfil"
     },
     {
      "titulo": "Nombres conocidos Nuevo ranking de Senadores: cómo están los podios de arriba y de abajo, según la última encuesta Leonardo Torresi",
@@ -44,42 +44,84 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "La Legislatura porteña aprobó la Ley Compasión",
-     "medio": "Noticias Urbanas",
+     "titulo": "Marra fue desplazado como jefe del bloque libertario en la Legislatura porteña",
+     "medio": "Minuto Uno - Legislatura porteña",
      "fecha": "02/11/2026",
-     "url": "https://www.noticiasurbanas.com.ar/la-legislatura-portena-aprobo-la-ley-compasion",
-     "tag": "Gestión"
+     "url": "https://www.minutouno.com/politica/milei/ramiro-marra-fue-desplazado-como-jefe-del-bloque-libertario-la-legislatura-portena-n5961677",
+     "tag": "Política"
     },
     {
-     "titulo": "Lo que pasó mañana: el 2027 lo gana Perón",
-     "medio": "Noticias Urbanas",
+     "titulo": "Así quedó la Legislatura porteña tras las elecciones 2025",
+     "medio": "Minuto Uno - Legislatura porteña",
      "fecha": "02/11/2026",
-     "url": "https://www.noticiasurbanas.com.ar/lo-que-paso-manana-el-2027-lo-gana-peron",
+     "url": "https://www.minutouno.com/politica/elecciones-caba-asi-quedo-conformada-la-legislatura-portena-n6146660",
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Paritarias bajo techo: tres gremios avalaron la pauta salarial del Gobierno",
-     "medio": "Noticias Urbanas",
+     "titulo": "El miércoles habrá paro de 24 horas en la Línea B de subte",
+     "medio": "El Destape - Ciudad",
      "fecha": "02/11/2026",
-     "url": "https://www.noticiasurbanas.com.ar/paritarias-bajo-techo-tres-gremios-avalaron-la-pauta-salarial-del-gobierno",
+     "url": "https://www.eldestapeweb.com/nota/el-miercoles-habra-paro-de-24-horas-en-la-linea-b-de-subte-2019111820310",
      "tag": "Ciudad"
     },
     {
-     "titulo": "Conflicto entre el Pro y LLA por la relación con Brasil",
-     "medio": "Noticias Urbanas",
+     "titulo": "Ciudad: la Legislatura aprobó la Ley de Reiterancia",
+     "medio": "Minuto Uno - Legislatura porteña",
      "fecha": "02/11/2026",
-     "url": "https://www.noticiasurbanas.com.ar/conflicto-entre-el-pro-y-lla-por-la-relacion-con-brasil",
+     "url": "https://www.minutouno.com/politica/legislatura-portena/ciudad-la-legislatura-aprobo-la-ley-reiterancia-n6015286",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Santoro presentó a los candidatos del peronismo en la Ciudad",
+     "medio": "Minuto Uno - Legislatura porteña",
+     "fecha": "02/11/2026",
+     "url": "https://www.minutouno.com/politica/leandro-santoro-presento-los-candidatos-del-peronismo-la-ciudad-n6129012",
      "tag": "Política"
     },
     {
      "titulo": "La Legislatura aprobó la ley para terminar con el hostigamiento a endeudados",
      "medio": "Noticias Urbanas",
      "fecha": "02/11/2026",
-     "url": "https://www.noticiasurbanas.com.ar/la-legislatura-aprobo-la-ley-para-terminar-con-el-hostigamiento-a-endeudados",
+     "url": "https://noticiasurbanas.com.ar/la-legislatura-aprobo-la-ley-para-terminar-con-el-hostigamiento-a-endeudados",
      "tag": "Gestión"
+    },
+    {
+     "titulo": "Elecciones porteñas: cuál es la función de los legisladores de la Ciudad",
+     "medio": "Minuto Uno - Legislatura porteña",
+     "fecha": "02/11/2026",
+     "url": "https://www.minutouno.com/politica/elecciones-portenas-cual-es-la-funcion-los-legisladores-la-ciudad-n6146406",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Se aprobó el proyecto de ley sobre \"libertad comercial\"",
+     "medio": "Noticias Urbanas",
+     "fecha": "02/11/2026",
+     "url": "https://noticiasurbanas.com.ar/se-aprobo-el-proyecto-de-ley-sobre-libertad-comercial",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Lo que pasó mañana: el 2027 lo gana Perón",
+     "medio": "Noticias Urbanas",
+     "fecha": "02/11/2026",
+     "url": "https://noticiasurbanas.com.ar/lo-que-paso-manana-el-2027-lo-gana-peron",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Paritarias bajo techo: tres gremios avalaron la pauta salarial del Gobierno",
+     "medio": "Noticias Urbanas",
+     "fecha": "02/11/2026",
+     "url": "https://noticiasurbanas.com.ar/paritarias-bajo-techo-tres-gremios-avalaron-la-pauta-salarial-del-gobierno",
+     "tag": "Ciudad"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Encuestas, IA y estrategias rumbo a 2027, los temas más candentes del X Encuentro Anual de ASACOP",
+     "medio": "Noticias Urbanas",
+     "fecha": "02/11/2026",
+     "url": "https://noticiasurbanas.com.ar/encuestas-ia-y-estrategias-rumbo-a-2027-los-temas-mas-candentes-del-x-encuentro-anual-de-asacop"
+    }
+   ]
   },
   "Buenos Aires": {
    "top3": [
@@ -96,10 +138,10 @@
      "url": "https://www.lanoticia1.com/noticia/el-chivilcoyano-falcone-cuestiono-la-reforma-politica-del-gobierno-alerto-que-perjudicara-a-los-partidos-mas-chicos"
     },
     {
-     "titulo": "La Provincia activa un beneficio impositivo para los colectivos del transporte público",
+     "titulo": "Kicillof acelera su armado en Santa Fe: reunión con dirigentes y acto previsto antes de fin de año",
      "medio": "Info Cielo",
      "fecha": "02/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/la-provincia-activa-un-beneficio-impositivo-para-los-colectivos-del-transporte-publico"
+     "url": "https://www.infocielo.com/santa-fe/kicillof-acelera-su-armado-en-santa-fe-reunion-con-dirigentes-y-acto-previsto-antes-de-fin-de-ano"
     }
    ],
    "imagen": []
@@ -217,10 +259,10 @@
      "url": "https://eltribunodejujuy.com/opiniones/2026-11-2-0-0-0-cuanto-cuesta-esperar-a-2027"
     },
     {
-     "titulo": "Los dos escenarios de Dante Sica para 2027: 70% de chances de crecimiento y 30% de probabilidad de caída del PBI",
-     "medio": "Jujuy al día",
+     "titulo": "Comenzaron las obras en el Cerro de la Cruz: proyectan colocar la nueva estructura para Pascuas de 2027",
+     "medio": "Somos Jujuy",
      "fecha": "02/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/02/los-dos-escenarios-de-dante-sica-para-2027-70-de-chances-de-crecimiento-y-30-de-probabilidad-de-caida-del-pbi/"
+     "url": "https://www.somosjujuy.com.ar/jujuy/comenzaron-obras-cerro-cruz-proyectan-colocar-nueva-estructura-pascuas-2027-n126475"
     }
    ],
    "imagen": []
@@ -403,6 +445,12 @@
   "San Luis": {
    "top3": [
     {
+     "titulo": "Milei designó al sanluiseño Walter Agüero al frente del Centro de Ciberseguridad",
+     "medio": "San Luis 24",
+     "fecha": "02/11/2026",
+     "url": "https://sanluis24.com.ar/milei-designo-sanluiseno-walter-aguero-frente-centro-ciberseguridad/"
+    },
+    {
      "titulo": "Docentes de toda la provincia fortalecieron sus prácticas de alfabetización",
      "medio": "Prensa oficial de San Luis",
      "fecha": "02/11/2026",
@@ -512,9 +560,22 @@
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
      "url": "https://www.losprimeros.tv/politica/kicillof-visitara-mas-provincias-ante-la-crisis-de-javier-milei-con-gobernadores-aliados_a6ae84eb509dee0a0b9bf9581"
+    },
+    {
+     "titulo": "Villarruel y gobernadores serán invitados al encuentro con el papa León XIV en el Palacio Libertad",
+     "medio": "Los Primeros",
+     "fecha": "02/11/2026",
+     "url": "https://www.losprimeros.tv/politica/villarruel-y-gobernadores-seran-invitados-al-encuentro-con-el-papa-leon-xiv-en-el-palacio-libertad_a6ae84c9909dee0a0b9bf87f5"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Cristina Kirchner habló de Trump y dejó abierta su candidatura para 2027",
+     "medio": "LV12",
+     "fecha": "02/11/2026",
+     "url": "https://www.lv12.com.ar/cristina-kirchner/cristina-kirchner-hablo-trump-y-dejo-abierta-su-candidatura-2027-n206014"
+    }
+   ]
   }
  },
  "fuentes_no_accesibles": [
@@ -527,28 +588,23 @@
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
-  "https://eltermometroweb.com/",
   "https://grupolaprovincia.com/",
+  "https://www.perfil.com/seccion/ciudad-de-buenos-aires",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
-  "https://www.lapampanoticias.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://nuevarioja.com.ar/",
-  "https://riojavirtual.com.ar/",
   "https://www.mdzol.com/mendoza",
   "https://www.elterritorio.com.ar/",
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
-  "https://www.cuarto.com.ar/",
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
-  "https://lagacetadigital.com.ar/",
-  "https://sanluis24.com.ar/",
   "https://elmediadortv.com.ar/",
   "https://www.opisantacruz.com.ar/",
   "https://agenciafe.com/",
