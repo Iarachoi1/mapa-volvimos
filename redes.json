@@ -1,10 +1,19 @@
 {
- "actualizado": "02/11 11:36",
+ "actualizado": "02/11 11:44",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "zelda",
+   "busquedas": "100+",
+   "nota": "Le prochain jeu Zelda arrive : voici où le récupérer à petit prix avant même sa sortie",
+   "nota_url": "https://www.ouest-france.fr/shopping/jeux-video/le-prochain-jeu-zelda-arrive-voici-ou-le-recuperer-a-petit-prix-avant-meme-sa-sortie-3dc372b0-d44b-11f1-84f3-5611f158a658",
+   "medio": "Ouest-France",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "ipc",
    "busquedas": "200+",
@@ -42,29 +51,29 @@
    "temas": []
   },
   {
-   "tema": "atp paris",
+   "tema": "cae",
    "busquedas": "200+",
-   "nota": "Ignacio Buse domine Zizou Bergs en deux sets à l’ATP Paris",
-   "nota_url": "https://www.sofascore.com/fr/news/ignacio-buse-domine-zizou-bergs-en-deux-sets-a-latp-paris",
-   "medio": "Sofascore",
+   "nota": "El petróleo cae por las negociaciones sobre Hormuz mientras Trump mantiene las opciones militares",
+   "nota_url": "https://es-us.finanzas.yahoo.com/noticias/petr%C3%B3leo-cae-negociaciones-hormuz-trump-102302241.html",
+   "medio": "Yahoo Finanzas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "conmebol",
+   "tema": "atp paris",
    "busquedas": "200+",
-   "nota": "La Conmebol sancionó a Platense con una fuerte multa económica por los incidentes en la Libertadores",
-   "nota_url": "https://www.ole.com.ar/platense/platense-sancion-copa-libertadores-conmebol-invasion-hinchas-bandera-fluminense-multa_0_V7Hc3DneCz.html",
-   "medio": "Olé",
+   "nota": "Déception pour Zizou Bergs, sanctionné par Ignacio Buse au 1er tour du Masters 1000 de Paris",
+   "nota_url": "https://www.rtbf.be/article/deception-pour-zizou-bergs-balaye-par-ignacio-buse-au-1er-tour-du-masters-1000-de-paris-11809293",
+   "medio": "RTBF",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mariano navone",
    "busquedas": "500+",
-   "nota": "Licensable picture: Rolex Paris Masters - Day 1",
-   "nota_url": "https://www.reutersconnect.com/item/rolex-paris-masters-day-1/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBCSk1HRzE",
-   "medio": "Reuters Connect",
+   "nota": "̳̳̳+[#!WATCHLIVE-Tv!]™Luca Van Assche vs Mariano Navone Live Free 02 November 2026",
+   "nota_url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RhcmVxaml5YTYtc3ZnLmdpdGh1Yi5pby9zdHJlYW0yMDI2L3hkLnhtbCIvPjwva3JwYW5vPg==&id=watch-free-tennis-match-xdgfhjffff",
+   "medio": "Pierce Manufacturing",
    "relevante": false,
    "temas": []
   },
@@ -84,15 +93,6 @@
    "nota_url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-noviembre-de-2026-nid02112026/",
    "medio": "La Nación",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "corte suprema",
-   "busquedas": "100+",
-   "nota": "Cambia Río Negro recurrió a la Corte Suprema para conseguir el reconocimiento de su bloque en la Legislatura",
-   "nota_url": "https://www.rionegro.com.ar/politica/cambia-rio-negro-recurrio-a-la-corte-suprema-para-conseguir-el-reconocimiento-de-su-bloque-en-la-legislatura-4781496/",
-   "medio": "Diario Río Negro",
-   "relevante": true,
    "temas": []
   }
  ],

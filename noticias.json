@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 11:36",
+ "actualizado": "02/11 11:44",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -47,54 +47,8 @@
     }
    ]
   },
-  "CABA": {
-   "top3": [
-    {
-     "titulo": "Karina Milei y Jorge Macri, en los preparativos por la visita del Papa",
-     "medio": "Prensa oficial de CABA",
-     "fecha": "02/11/2026",
-     "url": "https://buenosaires.gob.ar/noticias/karina-milei-y-jorge-macri-en-los-preparativos-por-la-visita-del-papa",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Cruje la estrategia oficial: se empantanan el Presupuesto y las PASO",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/cruje-la-estrategia-oficial-se-empantanan-el-presupuesto-y-las-paso",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "Operativo en el perímetro de seguridad en la Nunciatura Apostólica por la visita del papa León XIV",
-     "medio": "Prensa oficial de CABA",
-     "fecha": "02/11/2026",
-     "url": "https://buenosaires.gob.ar/noticias/operativo-en-el-perimetro-de-seguridad-en-la-nunciatura-apostolica-por-la-visita-del-papa",
-     "tag": "Gestión · También en Noticias Urbanas"
-    },
-    {
-     "titulo": "Cristina y su candidatura: “Cuando recupere mis derechos políticos, ¿por qué no?”",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/cristina-y-su-candidatura-cuando-recupere-mis-derechos-politicos-por-que-no",
-     "tag": "Política"
-    },
-    {
-     "titulo": "La Ciudad habilita el Paseo del Bajo para autos de lunes a viernes durante la noche",
-     "medio": "Prensa oficial de CABA",
-     "fecha": "02/11/2026",
-     "url": "https://buenosaires.gob.ar/noticias/la-ciudad-habilita-el-paseo-del-bajo-para-autos-de-lunes-viernes-durante-la-noche",
-     "tag": "Gestión"
-    }
-   ],
-   "imagen": []
-  },
   "Buenos Aires": {
    "top3": [
-    {
-     "titulo": "Cristina Kirchner desafía a Milei y pone la mira en las elecciones de 2027 DEFINICIONES",
-     "medio": "La Tecla",
-     "fecha": "02/11/2026",
-     "url": "https://www.latecla.info/170857-cristina-kirchner-desafia-a-milei-y-pone-la-mira-en-las-elecciones-de-2027"
-    },
     {
      "titulo": "Entre su eventual candidatura y una autocrítica, Cristina Kirchner rompió el silencio",
      "medio": "Info Cielo",
@@ -106,6 +60,12 @@
      "medio": "La Tecla",
      "fecha": "02/11/2026",
      "url": "https://www.latecla.info/170846-la-alianza-local-relego-a-los-espacios-nacionales-en-la-eleccion-de-convencionales-de-bariloche"
+    },
+    {
+     "titulo": "El Niño: diputados de la oposición buscan crear una comisión especial en la Legislatura bonaerense",
+     "medio": "Noticia 1",
+     "fecha": "02/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/el-nino-diputados-de-la-oposicion-buscan-crear-una-comision-especial-en-la-legislatura-bonaerense"
     }
    ],
    "imagen": [
@@ -204,6 +164,12 @@
      "medio": "Cadena3",
      "fecha": "02/11/2026",
      "url": "https://www.cadena3.com/noticia/politica-y-economia/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
+    },
+    {
+     "titulo": "Cristina Kirchner reapareció y no descartó ser candidata en 2027: “¿Por qué no?”",
+     "medio": "CBA24N",
+     "fecha": "02/11/2026",
+     "url": "https://www.cba24n.com.ar/argentina/cristina-kirchner-reaparecio-y-no-descarto-ser-candidata-en-2027----por-que-no--_a6ae899d143770ad9920def80"
     },
     {
      "titulo": "Cae el consumo de nafta y las encuestas muestran el desgaste de Javier Milei",
@@ -396,11 +362,11 @@
      "url": "https://www.rionegro.com.ar/politica/el-viaje-de-diputados-a-estados-unidos-por-las-elecciones-frena-el-presupuesto-2027-y-abre-un-nuevo-conflicto-con-el-pro-y-la-ucr-4781604/"
     },
     {
-     "titulo": "Weretilneck anunció la primera licitación para recuperar el Tren Patagónico del Valle",
-     "medio": "Prensa oficial de Río Negro",
+     "titulo": "Weretilneck anunció la primera licitación para recuperar el Tren del Valle: invertirán $1.781 millones para ampliar las estaciones",
+     "medio": "Diario Rio Negro",
      "fecha": "02/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62567/weretilneck-anuncio-la-primera-licitacion-para-recuperar-el-tren-patagonico-del-valle",
-     "tag": "También en Diario Rio Negro, AN Roca y 2 más"
+     "url": "https://www.rionegro.com.ar/politica/weretilneck-anuncio-la-primera-licitacion-para-recuperar-el-tren-del-valle-invertiran-1-781-millones-para-ampliar-las-estaciones-4781580/",
+     "tag": "También en AN Roca, LCR y 1 más"
     },
     {
      "titulo": "ELECCIONES 2026 Weretilneck y Cortés celebraron en Bariloche y dieron el primer paso para buscar la reelección en Río Negro Por Juan Gorosito",
@@ -409,14 +375,7 @@
      "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "«Cuando recupere mis derechos, ¿por qué no?»: Cristina Kirchner planteó su candidatura para 2027 y apeló a la ONU",
-     "medio": "Diario Rio Negro",
-     "fecha": "02/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/cuando-recupere-mis-derechos-por-que-no-cristina-kirchner-planteo-su-candidatura-para-2027-y-apelo-a-la-onu-4781522/"
-    }
-   ]
+   "imagen": []
   },
   "Salta": {
    "top3": [
@@ -480,7 +439,7 @@
      "url": "https://www.diariodecuyo.com.ar/politica/cristina-kirchner-abrio-la-puerta-ser-candidata-2027-cuando-recupere-mis-derechos-politicos-por-que-no-n6587438"
     },
     {
-     "titulo": "01 Desde su prisión domiciliaria, Cristina Kirchner habló de Trump y dejó abierta la puerta a una candidatura en 2027",
+     "titulo": "02 Desde su prisión domiciliaria, Cristina Kirchner habló de Trump y dejó abierta la puerta a una candidatura en 2027",
      "medio": "El Zonda",
      "fecha": "02/11/2026",
      "url": "https://www.diarioelzondasj.com.ar/politica/desde-su-prision-domiciliaria-cristina-kirchner-hablo-de-trump-y-dejo-abierta-la-puerta-a-una-candidatura-en-2027"
@@ -605,6 +564,12 @@
      "medio": "Diario Panorama",
      "fecha": "02/11/2026",
      "url": "https://www.diariopanorama.com/noticia/571617/cristina-candidata-2027-expresidenta-no-descarto-volver-competir-presidencia"
+    },
+    {
+     "titulo": "Una encuesta enfrentó a Milei y Kicillof rumbo a 2027: quién quedó mejor posicionado",
+     "medio": "Diario Panorama",
+     "fecha": "02/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/571624/encuesta-enfrento-milei-kicillof-rumbo-2027-quien-quedo-mejor-posicionado"
     }
    ]
   },
@@ -638,9 +603,21 @@
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
      "url": "https://www.losprimeros.tv/politica/del-gobierno-a-la-oposicion--la-politica-se-metio-en-la-polemica-por-el-arbitraje-del-boca-river_a6ae88ed509dee0a0b9c43566"
+    },
+    {
+     "titulo": "Cano criticó los subsidios al AMBA y denunció la discriminación al transporte del interior",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "02/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160673/politica/cano-critico-subsidios-al-amba-denuncio-discriminacion-al-transporte-interior.html"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Cristina Kirchner calificó de \"corrupta\" a la Justicia y no descartó una candidatura en 2027",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "02/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160667/politica/cristina-kirchner-califico-corrupta-justicia-no-descarto-candidatura-2027.html"
+    },
     {
      "titulo": "Cristina Kirchner habló de Trump y dejó abierta su candidatura para 2027",
      "medio": "LV12",
@@ -657,11 +634,11 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
+  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
   "https://grupolaprovincia.com/",
-  "https://www.perfil.com/seccion/ciudad-de-buenos-aires",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
