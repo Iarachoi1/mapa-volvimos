@@ -1,16 +1,25 @@
 {
- "actualizado": "02/11 01:47",
+ "actualizado": "02/11 02:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "quini",
+   "busquedas": "1000+",
+   "nota": "Quini 6: hay diez santafesinos entre los ganadores del Siempre Sale",
+   "nota_url": "https://www.lacapital.com.ar/informacion-general/quini-6-hay-diez-santafesinos-los-ganadores-del-siempre-sale-n10289922.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "microsoft",
    "busquedas": "100+",
-   "nota": "Microsoft confirms supported Windows 10 PCs can now directly update to Windows 11 26H2",
-   "nota_url": "https://www.neowin.net/news/microsoft-confirms-supported-windows-10-pcs-can-now-directly-update-to-windows-11-26h2/",
-   "medio": "Neowin",
+   "nota": "Microsoft AI chief says AI is not conscious and we should keep it that way",
+   "nota_url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11",
+   "medio": "Business Insider",
    "relevante": false,
    "temas": []
   },
@@ -26,18 +35,27 @@
   {
    "tema": "montagne",
    "busquedas": "100+",
-   "nota": "Les petits monstres ont fait le plein de bonbons à Hamoir: \"On tenait à marquer le coup\"",
-   "nota_url": "https://www.lavenir.net/regions/huy-waremme/hamoir/2026/11/01/les-petits-monstres-ont-fait-le-plein-de-bonbons-a-hamoir-on-tenait-a-marquer-le-coup-FILD7TC3F5FJ5ANOWCWL2T7DUI/",
-   "medio": "L'Avenir",
+   "nota": "Maxime Sorel embarque plus de 1000 donateurs à bord de son Dragon des Océans",
+   "nota_url": "https://actu.orange.fr/videos/actu-locale/maxime-sorel-embarque-plus-de-1000-donateurs-a-bord-de-son-dragon-des-oceans-CNT000002tsdT2.html",
+   "medio": "Orange Actualités",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "yaxel lendeborg",
+   "busquedas": "200+",
+   "nota": "Lendeborg scores most points by Warriors rookie since Curry in 2010",
+   "nota_url": "https://www.thescore.com/nba/news/3642156/lendeborg-scores-most-points-by-warriors-rookie-since-curry-in-2010",
+   "medio": "theScore",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "avión",
    "busquedas": "200+",
-   "nota": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
-   "nota_url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo",
-   "medio": "BBC",
+   "nota": "Nueve muertos al estrellarse un avión en Florida cerca de Mar-a-Lago, la residencia privada de Donald Trump",
+   "nota_url": "https://www.clarin.com/mundo/muertos-estrellarse-avion-florida-cerca-mar-lago-residencia-privada-donald-trump_0_5CSOlfKU97.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
@@ -62,36 +80,18 @@
   {
    "tema": "cyber",
    "busquedas": "200+",
-   "nota": "AI Models Used to Investigate Cyberattacks Are Falling Prey to Cybercriminals",
-   "nota_url": "https://cxotoday.com/cybersecurity/ai-models-used-to-investigate-cyberattacks-are-falling-prey-to-cybercriminals/",
-   "medio": "CXOToday.com",
+   "nota": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+   "nota_url": "https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "samsung",
-   "busquedas": "500+",
-   "nota": "Tesla, Samsung Push Back as Washington Weighs Tariffs on Vietnam Over IP",
-   "nota_url": "https://finance.biggo.com/news/23ae5e3c-5664-411e-bbcf-09c2e247447a",
-   "medio": "BigGo Finance",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lunes",
-   "busquedas": "500+",
-   "nota": "Horóscopo de hoy 2 de noviembre de 2026: signo por signo, qué dicen los astros",
-   "nota_url": "https://caras.perfil.com/noticias/astrologia/horoscopo-de-hoy-2-de-noviembre-de-2026-signo-por-signo-que-dicen-los-astros.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima junin",
-   "busquedas": "100+",
-   "nota": "Alerta meteorológica en Pergamino: anuncian tormentas durante la madrugada y la mañana del domingo",
-   "nota_url": "https://diarionucleo.com/ciudad/pergamino/291447-alerta-meteorologica-pergamino-anuncian-tormentas-/",
-   "medio": "Diario Núcleo",
+   "busquedas": "1000+",
+   "nota": "Tesla, Samsung oppose fresh US tariffs on Vietnam as Trump's November 29 deadline nears",
+   "nota_url": "https://www.moneycontrol.com/news/business/tesla-samsung-oppose-fresh-us-tariffs-on-vietnam-as-trump-s-november-29-deadline-nears-14065646.html",
+   "medio": "Moneycontrol.com",
    "relevante": false,
    "temas": []
   }
