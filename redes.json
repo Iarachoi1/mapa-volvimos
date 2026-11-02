@@ -1,5 +1,5 @@
 {
- "actualizado": "02/11 09:58",
+ "actualizado": "02/11 10:08",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -17,9 +17,9 @@
   {
    "tema": "mundial de padel 2026",
    "busquedas": "100+",
-   "nota": "Sorteados los grupos de la primera fase. El lunes comienza en Doha la carrera por el título mundial",
-   "nota_url": "https://www.padelfip.com/es/2026/11/sorteados-los-grupos-de-la-primera-fase-el-lunes-comienza-en-doha-la-carrera-por-el-titulo-mundial/",
-   "medio": "International Padel Federation",
+   "nota": "Arranca el Mundial de pádel: los grupos, días, horarios, TV y asoman nuevas finales Argentina vs. España",
+   "nota_url": "https://www.ole.com.ar/padel/mundialdepadel-argentina-espana-fipworldcup-doha-delfinabrea-agustintapia-arturocoello-gemmatriay-federicochingotto-juanlebron_0_uo93Xxo3Mp.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
@@ -33,17 +33,8 @@
    "temas": []
   },
   {
-   "tema": "conmebol",
-   "busquedas": "200+",
-   "nota": "Se confirmaron los horarios de las finales que jugarán Estudiantes y Boca",
-   "nota_url": "https://www.lacapitalmdp.com/se-confirmaron-los-horarios-de-las-finales-que-jugaran-estudiantes-y-boca/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "mariano navone",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Luca van Assche v Mariano Navone (02/11/2026)",
    "nota_url": "https://www.flashscore.com/match/tennis/navone-mariano-YoPUeL3o/van-assche-luca-nP9K42Bg/",
    "medio": "Flashscore.com",
@@ -71,9 +62,9 @@
   {
    "tema": "corte suprema",
    "busquedas": "100+",
-   "nota": "La Corte abre el expediente por los fondos de transporte",
-   "nota_url": "https://laletrachica.com.ar/nota/26815/la-corte-abre-el-expediente-por-los-fondos-de-transporte/",
-   "medio": "La Letra Chica",
+   "nota": "La Corte rechazó indemnizar a un gerente por cobrar un salario menor",
+   "nota_url": "https://www.iprofesional.com/impuestos/467884-corte-rechazo-indemnizar-gerente-cobrar-salario-menor",
+   "medio": "iProfesional",
    "relevante": false,
    "temas": []
   },
@@ -92,6 +83,15 @@
    "nota": "Un presunto intento de robo de cables terminó con un hombre baleado en Posadas",
    "nota_url": "https://www.primeraedicion.com.ar/nota/101156780/un-presunto-intento-de-robo-de-cables-termino-con-un-hombre-baleado-en-posadas/",
    "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "torneo federal a",
+   "busquedas": "1000+",
+   "nota": "EN VIVO I Sarmiento de La Banda visita a Atenas de Río Cuarto con la ilusión de avanzar en el Federal A",
+   "nota_url": "https://www.diariopanorama.com/noticia/571406/en-vivo-i-sarmiento-banda-visita-atenas-rio-cuarto-ilusion-avanzar-federal-a",
+   "medio": "Diario Panorama",
    "relevante": false,
    "temas": []
   }
