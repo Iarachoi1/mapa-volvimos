@@ -1,7 +1,7 @@
 {
  "semana": "2 de noviembre de 2026",
  "fecha": "2026-11-02",
- "actualizado": "02/11 09:45",
+ "actualizado": "02/11 09:55",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -34,6 +34,12 @@
      "tag": "También en El Destape, Perfil"
     },
     {
+     "titulo": "Entrevista con The Washington Post. Cristina Kirchner reapareció, criticó a la Justicia y dijo que quiere ser candidata en 2027",
+     "medio": "La Nación",
+     "fecha": "02/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-le-dio-una-entrevista-al-the-washington-post-y-cuestiono-a-la-justicia-por-su-nid02112026/"
+    },
+    {
      "titulo": "Nombres conocidos Nuevo ranking de Senadores: cómo están los podios de arriba y de abajo, según la última encuesta Leonardo Torresi",
      "medio": "Perfil",
      "fecha": "02/11/2026",
@@ -41,90 +47,14 @@
     }
    ]
   },
-  "CABA": {
-   "top3": [
-    {
-     "titulo": "Marra fue desplazado como jefe del bloque libertario en la Legislatura porteña",
-     "medio": "Minuto Uno - Legislatura porteña",
-     "fecha": "02/11/2026",
-     "url": "https://www.minutouno.com/politica/milei/ramiro-marra-fue-desplazado-como-jefe-del-bloque-libertario-la-legislatura-portena-n5961677",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Así quedó la Legislatura porteña tras las elecciones 2025",
-     "medio": "Minuto Uno - Legislatura porteña",
-     "fecha": "02/11/2026",
-     "url": "https://www.minutouno.com/politica/elecciones-caba-asi-quedo-conformada-la-legislatura-portena-n6146660",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "El miércoles habrá paro de 24 horas en la Línea B de subte",
-     "medio": "El Destape - Ciudad",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/nota/el-miercoles-habra-paro-de-24-horas-en-la-linea-b-de-subte-2019111820310",
-     "tag": "Ciudad"
-    },
-    {
-     "titulo": "Ciudad: la Legislatura aprobó la Ley de Reiterancia",
-     "medio": "Minuto Uno - Legislatura porteña",
-     "fecha": "02/11/2026",
-     "url": "https://www.minutouno.com/politica/legislatura-portena/ciudad-la-legislatura-aprobo-la-ley-reiterancia-n6015286",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "Santoro presentó a los candidatos del peronismo en la Ciudad",
-     "medio": "Minuto Uno - Legislatura porteña",
-     "fecha": "02/11/2026",
-     "url": "https://www.minutouno.com/politica/leandro-santoro-presento-los-candidatos-del-peronismo-la-ciudad-n6129012",
-     "tag": "Política"
-    },
-    {
-     "titulo": "La Legislatura aprobó la ley para terminar con el hostigamiento a endeudados",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/la-legislatura-aprobo-la-ley-para-terminar-con-el-hostigamiento-a-endeudados",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "Elecciones porteñas: cuál es la función de los legisladores de la Ciudad",
-     "medio": "Minuto Uno - Legislatura porteña",
-     "fecha": "02/11/2026",
-     "url": "https://www.minutouno.com/politica/elecciones-portenas-cual-es-la-funcion-los-legisladores-la-ciudad-n6146406",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "Se aprobó el proyecto de ley sobre \"libertad comercial\"",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/se-aprobo-el-proyecto-de-ley-sobre-libertad-comercial",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "Lo que pasó mañana: el 2027 lo gana Perón",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/lo-que-paso-manana-el-2027-lo-gana-peron",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "Paritarias bajo techo: tres gremios avalaron la pauta salarial del Gobierno",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/paritarias-bajo-techo-tres-gremios-avalaron-la-pauta-salarial-del-gobierno",
-     "tag": "Ciudad"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Encuestas, IA y estrategias rumbo a 2027, los temas más candentes del X Encuentro Anual de ASACOP",
-     "medio": "Noticias Urbanas",
-     "fecha": "02/11/2026",
-     "url": "https://noticiasurbanas.com.ar/encuestas-ia-y-estrategias-rumbo-a-2027-los-temas-mas-candentes-del-x-encuentro-anual-de-asacop"
-    }
-   ]
-  },
   "Buenos Aires": {
    "top3": [
+    {
+     "titulo": "Cristina Kirchner desafía a Milei y pone la mira en las elecciones de 2027 DEFINICIONES",
+     "medio": "La Tecla",
+     "fecha": "02/11/2026",
+     "url": "https://www.latecla.info/170857-cristina-kirchner-desafia-a-milei-y-pone-la-mira-en-las-elecciones-de-2027"
+    },
     {
      "titulo": "La alianza local relegó a los espacios nacionales en la elección de convencionales de Bariloche LA TECLA PATAGONIA",
      "medio": "La Tecla",
@@ -136,12 +66,6 @@
      "medio": "Noticia 1",
      "fecha": "02/11/2026",
      "url": "https://www.lanoticia1.com/noticia/el-chivilcoyano-falcone-cuestiono-la-reforma-politica-del-gobierno-alerto-que-perjudicara-a-los-partidos-mas-chicos"
-    },
-    {
-     "titulo": "Kicillof acelera su armado en Santa Fe: reunión con dirigentes y acto previsto antes de fin de año",
-     "medio": "Info Cielo",
-     "fecha": "02/11/2026",
-     "url": "https://www.infocielo.com/santa-fe/kicillof-acelera-su-armado-en-santa-fe-reunion-con-dirigentes-y-acto-previsto-antes-de-fin-de-ano"
     }
    ],
    "imagen": []
@@ -176,12 +100,6 @@
      "medio": "ADN Sur",
      "fecha": "02/11/2026",
      "url": "https://www.adnsur.com.ar/politica/javier-milei-volvio-a-neuquen-para-inaugurar-el-templo-de-la-familia-de-nadia-marquez--que-dejo-la-visita_a6ae86027778e6b1c121f9e1e"
-    },
-    {
-     "titulo": "Kicillof supera a Milei por un punto en un escenario de balotaje",
-     "medio": "Diario Jornada",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariojornada.com.ar/426330/politica/kicillof_supera_a_milei_por_un_punto_en_un_escenario_de_balotaje"
     }
    ],
    "imagen": []
@@ -223,6 +141,12 @@
   "Entre Ríos": {
    "top3": [
     {
+     "titulo": "Cristina Kirchner no descartó ser candidata, vaticinó una derrota de Donald Trump y reveló el consejo que le dio Lula da Silva",
+     "medio": "AFP Digital",
+     "fecha": "02/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/02/477327-cristina-kirchner-no-descarto-ser-candidata-vaticino-una-derrota-de-donald-trump-y-revelo-el-consejo-que-le-dio-lula-da-silva"
+    },
+    {
      "titulo": "El Estado entrerriano intimará a cumplir la Ley de Aguas ante un terraplén que bloquea el arroyo Viraguay",
      "medio": "AFP Digital",
      "fecha": "02/11/2026",
@@ -233,12 +157,6 @@
      "medio": "Ahora",
      "fecha": "02/11/2026",
      "url": "https://ahora.com.ar/politica/milei-recibira-a-leon-xiv-al-pie-del-avion-como-seran-las-primeras-horas-del-papa-en-la-argentina"
-    },
-    {
-     "titulo": "Otra vez, Javier Milei viaja a Madrid: irá junto a su hermana Karina",
-     "medio": "Ahora",
-     "fecha": "02/11/2026",
-     "url": "https://ahora.com.ar/politica-nacional/otra-vez-javier-milei-viaja-a-madrid-ira-junto-a-su-hermana-karina"
     }
    ],
    "imagen": []
@@ -259,10 +177,11 @@
      "url": "https://eltribunodejujuy.com/opiniones/2026-11-2-0-0-0-cuanto-cuesta-esperar-a-2027"
     },
     {
-     "titulo": "Comenzaron las obras en el Cerro de la Cruz: proyectan colocar la nueva estructura para Pascuas de 2027",
-     "medio": "Somos Jujuy",
+     "titulo": "El Registro Civil inaugurará una oficina exclusiva para recién nacidos en San Pedro",
+     "medio": "Jujuy al día",
      "fecha": "02/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/comenzaron-obras-cerro-cruz-proyectan-colocar-nueva-estructura-pascuas-2027-n126475"
+     "url": "https://www.jujuyaldia.com.ar/2026/11/02/el-registro-civil-inaugurara-una-oficina-exclusiva-para-recien-nacidos-en-san-pedro/",
+     "tag": "También en Somos Jujuy"
     }
    ],
    "imagen": []
@@ -284,10 +203,10 @@
      "tag": "También en La Pampa 24"
     },
     {
-     "titulo": "Trump anticipó que será el \"señor del veto\" si los demócratas ganan el Congreso",
+     "titulo": "Cristina le brindó una entrevista The Washington Post, no descartó ser candidata, y auguró una derrota de Trump",
      "medio": "La Arena",
      "fecha": "02/11/2026",
-     "url": "https://www.laarena.com.ar/el-mundo/trump-anticipo-que-sera-el-senor-del-veto-si-los-democratas-ganan-el-congreso-202611121280"
+     "url": "https://www.laarena.com.ar/el-pais/cristina-le-brindo-una-entrevista-the-washington-post-no-descarto-ser-candidata-y-auguro-una-derrota-de-trump-20261129500"
     }
    ],
    "imagen": []
@@ -339,7 +258,7 @@
      "medio": "Prensa oficial de Neuquén",
      "fecha": "02/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/02/266487-neuquen-lanza-la-tercera-encuesta-provincial-de-inquilinos",
-     "tag": "También en Noticias NQN"
+     "tag": "También en Neuquén al Instante, Noticias NQN"
     }
    ]
   },
@@ -352,16 +271,16 @@
      "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889"
     },
     {
-     "titulo": "Elecciones en Bariloche: el oficialismo se impuso y dejó en tercer lugar a LLA",
-     "medio": "El Destape",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/triunfo-oficialismo-bariloche-aseguro-mayoria-convencion-lla-quedo-tercer-lugar-2026111224857"
-    },
-    {
      "titulo": "Derrota para los Menem en Bariloche: La Libertad Avanza terminó tercera y quedó a 25 puntos del oficialismo",
      "medio": "Infobae",
      "fecha": "02/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/02/bariloche-el-oficialismo-se-impuso-en-la-eleccion-para-reformar-la-carta-organica-y-relego-a-lla-al-tercer-lugar/"
+    },
+    {
+     "titulo": "Cumbre en Casa Rosada: Rolando Figueroa, Diego Santilli y Luis Caputo firman convenios clave para obras en Neuquén",
+     "medio": "Diario Rio Negro",
+     "fecha": "02/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/luego-de-la-doble-visita-de-javier-milei-a-neuquen-rolando-figueroa-se-reune-con-luis-caputo-y-diego-santilli-para-sellar-acuerdos/"
     }
    ],
    "imagen": []
@@ -413,11 +332,11 @@
      "tag": "También en El Zonda, Huarpe"
     },
     {
-     "titulo": "Javier Milei viajará nuevamente a Madrid, esta vez acompañado por su hermana Karina",
-     "medio": "Tiempo de San Juan",
+     "titulo": "San Juan tendrá una jornada agradable, con una máxima de 28 grados y posibles tormentas aisladas por la noche",
+     "medio": "0264 Noticias",
      "fecha": "02/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/javier-milei-viajara-nuevamente-a-madrid-esta-vez-acompanado-por-su-hermana-karina_1793582139",
-     "tag": "También en El Zonda"
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115590-san-juan-tendra-una-jornada-agradable-con-una-maxima-de-28-grados-y-posibles-tormentas-aisladas-por-la-noche",
+     "tag": "También en Diario de Cuyo, Huarpe"
     }
    ],
    "imagen": [
@@ -428,17 +347,16 @@
      "url": "https://www.diarioelzondasj.com.ar/politica/desde-su-prision-domiciliaria-cristina-kirchner-hablo-de-trump-y-dejo-abierta-la-puerta-a-una-candidatura-en-2027"
     },
     {
+     "titulo": "Cristina Fernández de Kirchner auguró una derrota de Trump y juega su candidatura 2027",
+     "medio": "Tiempo de San Juan",
+     "fecha": "02/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/cristina-fernandez-de-kirchner-auguro-una-derrota-de-trump-y-juega-su-candidatura-2027_1793623549"
+    },
+    {
      "titulo": "Una encuesta midió un balotaje entre Javier Milei y Axel Kicillof: qué candidato quedó adelante",
      "medio": "Tiempo de San Juan",
      "fecha": "02/11/2026",
      "url": "https://www.tiempodesanjuan.com/politica/una-encuesta-midio-un-balotaje-entre-javier-milei-y-axel-kicillof-que-candidato-quedo-adelante_1793621979"
-    },
-    {
-     "titulo": "Contradictoria opinión de los sanjuaninos sobre la pena de muerte: creen que Dios es el único que da y quita la vida, pero aceptan aplicar la pena máxima",
-     "medio": "0264 Noticias",
-     "fecha": "02/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115614-contradictoria-opinion-de-los-sanjuaninos-sobre-la-pena-de-muerte-creen-que-dios-es-el-unico-que-da-y-quita-la-vida-pero-aceptan-aplicar-la-pena-maxima",
-     "tag": "También en Huarpe"
     }
    ]
   },
@@ -491,6 +409,12 @@
   "Santa Fe": {
    "top3": [
     {
+     "titulo": "Cristina Kirchner habló con The Washington Post y dejó abierta la posibilidad de ser candidata",
+     "medio": "La Capital",
+     "fecha": "02/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/cristina-kirchner-hablo-the-washington-post-y-dejo-abierta-la-posibilidad-ser-candidata-n10289974.html"
+    },
+    {
      "titulo": "Ya se puede votar el Presupuesto Participativo 2027: hay 74 proyectos y este año se suma la transformación de grandes parques",
      "medio": "Rosario3",
      "fecha": "02/11/2026",
@@ -501,12 +425,6 @@
      "medio": "Rosario Plus",
      "fecha": "02/11/2026",
      "url": "https://www.rosarioplus.com/actualidad/politica/colectivo--el-gobierno-congela-tarifa-en-el-amba--y-en-rosario-cuesta-el-triple_a6ae86dd89b2d9a633cea3d01"
-    },
-    {
-     "titulo": "Javkin cargó contra la oposición: “Con tal de generar un cambio político, militan el atraso de la ciudad”",
-     "medio": "Rosario3",
-     "fecha": "02/11/2026",
-     "url": "https://www.rosario3.com/politica/javkin-cargo-contra-la-oposicion-con-tal-de-generar-un-cambio-politico-militan-el-atraso-de-la-ciudad-20261102-0016.html"
     }
    ],
    "imagen": []
@@ -514,24 +432,22 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027: el Gobierno negocia con aliados y enfrenta reclamos por fondos y obras",
-     "medio": "El Liberal",
+     "titulo": "La política, atravesada por la fe",
+     "medio": "Diario Panorama",
      "fecha": "02/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/96700/2026/11/presupuesto-2027--el-gobierno-negocia-con-aliados-y-enfrenta-reclamos-por-fondos-y-obras",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://www.diariopanorama.com/noticia/571595/politica-atravesada-fe"
     },
     {
-     "titulo": "El Gobierno invitará a Villarruel y a todos los gobernadores al encuentro con el papa León XIV",
-     "medio": "Nuevo Diario Web",
+     "titulo": "Info Stream “Vamos a tener salud mental para ricos y para… “Vamos a tener salud mental para ricos y para pobres”: la advertencia de Néstor Medina por la reforma de la ley Seguir leyendo →",
+     "medio": "Info del Estero",
      "fecha": "02/11/2026",
-     "url": "https://nuevodiarioweb.com.ar/politica/el-gobierno-invitara-a-villarruel-y-a-todos-los-gobernadores-al-encuentro-con-el-papa-leon-xiv.htm",
-     "tag": "También en El Liberal"
+     "url": "https://infodelestero.com/2026/11/02/vamos-a-tener-salud-mental-para-ricos-y-para-pobres-la-advertencia-de-nestor-medina-por-la"
     },
     {
-     "titulo": "Visita de León XIV a la Argentina: cronograma de actividades, la cumbre bilateral con Milei y el operativo del Gobierno",
-     "medio": "El Liberal",
+     "titulo": "Info Stream Primera Mañana: las novedades del caso Fürth, la reforma de Salud Mental y la agenda de Milei Hace 2 horas",
+     "medio": "Info del Estero",
      "fecha": "02/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/96731/2026/11/visita-de-leon-xiv-a-la-argentina--cronograma-de-actividades-la-cumbre-bilateral-con-milei-y-el-operativo-del-gobierno"
+     "url": "https://infodelestero.com/2026/11/02/primera-manana-las-novedades-del-caso-fuerth-la-reforma-de-salud-mental-y-la-agenda-de-milei"
     }
    ],
    "imagen": []
@@ -560,12 +476,6 @@
      "medio": "Los Primeros",
      "fecha": "02/11/2026",
      "url": "https://www.losprimeros.tv/politica/kicillof-visitara-mas-provincias-ante-la-crisis-de-javier-milei-con-gobernadores-aliados_a6ae84eb509dee0a0b9bf9581"
-    },
-    {
-     "titulo": "Villarruel y gobernadores serán invitados al encuentro con el papa León XIV en el Palacio Libertad",
-     "medio": "Los Primeros",
-     "fecha": "02/11/2026",
-     "url": "https://www.losprimeros.tv/politica/villarruel-y-gobernadores-seran-invitados-al-encuentro-con-el-papa-leon-xiv-en-el-palacio-libertad_a6ae84c9909dee0a0b9bf87f5"
     }
    ],
    "imagen": [
@@ -585,6 +495,7 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
+  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
@@ -595,6 +506,7 @@
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
+  "https://www.lapampanoticias.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://nuevarioja.com.ar/",
