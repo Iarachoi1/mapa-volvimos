@@ -1305,7 +1305,7 @@ a.news-item:hover{border-color:var(--accent);}
 <div class="wrap">
 
   <div class="cippec-logo">
-    <span class="volvimos-logo" role="img" aria-label="Volvimos">VOLVIMOS</span>
+    <span class="volvimos-logo" role="img" aria-label="Volvamos">VOLVAMOS</span>
     <button type="button" class="theme-btn" id="theme-btn" aria-label="Cambiar de tema"></button>
   </div>
 
@@ -1681,7 +1681,7 @@ a.news-item:hover{border-color:var(--accent);}
     // Solo se muestran las noticias de hoy: cuando cambia el día, las de ayer desaparecen
     var hoy = '';
     try{ hoy = new Intl.DateTimeFormat('en-CA', {timeZone:'America/Argentina/Buenos_Aires'}).format(new Date()); }catch(e){}
-    var deHoy = NW && NW.items && NW.fecha && (!hoy || NW.fecha === hoy);
+    var deHoy = NW && NW.items && (!NW.fecha || !hoy || NW.fecha === hoy);
     var list = (deHoy && NW.items[key]) ? NW.items[key][kind] : null;
     if(!list || !list.length){
       return isTop ? '<div class="news-section"><div class="news-label">Noticias del día</div><div class="news-why">Todavía no hay noticias de hoy.</div></div>' : '';
