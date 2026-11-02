@@ -314,8 +314,9 @@ def notas_de_rss(contenido, medio_url):
                 d = datetime.fromtimestamp(calendar.timegm(t), ZONA).date()
                 f = fecha_valida(d.year, d.month, d.day)
                 break
+        de_url = fecha_desde_url(link)
         notas.append({"titulo": titulo, "url": urljoin(medio_url, link),
-                      "fecha": f or fecha_desde_url(link)})
+                      "fecha": de_url or f, "origen": "url" if de_url else "rss"})
     return notas
 
 
@@ -347,6 +348,7 @@ def notas_de_portada(html, medio_url):
         if len(titulo) < 25 or len(titulo) > 230 or len(titulo.split()) < 5:
             continue
         f = fecha_desde_url(url)
+        origen = "url" if f else "portada"
         if not f:  # buscar una etiqueta <time> cerca del link
             padre = a
             for _ in range(3):
@@ -367,7 +369,7 @@ def notas_de_portada(html, medio_url):
                 if len(distintas) > 1:
                     break
         vistas.add(url)
-        notas.append({"titulo": titulo, "url": url, "fecha": f})
+        notas.append({"titulo": titulo, "url": url, "fecha": f, "origen": origen})
     return notas[:120]
 
 
@@ -393,7 +395,7 @@ def leer_medio(fuente):
         return fuente, [], f"{type(e).__name__}: {str(e)[:120]}"
 
 
-def fecha_real_de_nota(url):
+def fecha_real_de_nota(url, titulo=""):
     """Abre una nota y busca su fecha de publicación en los datos de la página."""
     try:
         html = descargar(url).text
@@ -419,7 +421,16 @@ def fecha_real_de_nota(url):
     # como hace la página del Gobierno porteño ("Domingo 25 de octubre de 2026").
     # Se toma la más cercana al título, para no confundirla con la fecha de hoy
     # del encabezado del sitio ni con las de "últimas noticias" al pie.
-    h1 = re.search(r"<h1[\s>]", html, re.I)
+    # El <h1> de la nota: si hay varios (logo, nombre del sitio), el que más se
+    # parece al título que ya conocemos.
+    h1 = None
+    clave_titulo = palabras_clave(titulo)
+    mejor = 0.0
+    for m in re.finditer(r"<h1[\s>](.*?)</h1>", html, re.I | re.S):
+        texto = re.sub(r"<[^>]+>", " ", m.group(1))
+        parecido = len(clave_titulo & palabras_clave(texto)) / max(1, len(clave_titulo))
+        if h1 is None or parecido > mejor:
+            h1, mejor = m, parecido
     if h1:
         inicio = max(0, h1.start() - 1500)
         trozo = re.sub(r"<[^>]+>", lambda t: " " * len(t.group(0)), html[inicio:h1.start() + 800])
@@ -559,8 +570,9 @@ def main():
                 historial[n["url"]] = {"visto": HOY.isoformat(), "fecha": None,
                                        "nueva": medio_conocido}
             h = historial[n["url"]]
-            if n["fecha"]:
+            if n["fecha"] and h.get("origen") != "nota":
                 h["fecha"] = n["fecha"].isoformat()
+                h["origen"] = n.get("origen")
             fecha = date.fromisoformat(h["fecha"] or h["visto"])
             if (HOY - fecha).days > DIAS_VENTANA:
                 motivos[fuente["juris"]]["nota vieja"] += 1
@@ -576,7 +588,11 @@ def main():
                 puntos += 1
 
             # ¿A qué jurisdicción va?
-            if fuente["juris"] in JUR and fuente["juris"] != "NACIONAL" and fuente["bloque"] != "1":
+            if fuente["bloque"] == "6":
+                # Columnas de opinión: se eligieron a mano y van solo a Nación
+                destinos = ["NACIONAL"]
+                puntos += 2
+            elif fuente["juris"] in JUR and fuente["juris"] != "NACIONAL" and fuente["bloque"] != "1":
                 destinos = [fuente["juris"]]
                 if fuente["bloque"] == "5":
                     menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
@@ -584,6 +600,8 @@ def main():
                         puntos += 1
             else:  # medios nacionales, Congreso, ministerios, agregadores
                 menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
+                if fuente["juris"] == "Menciones" and not menciones:
+                    continue  # "lo último" de un diario nacional: solo lo que nombra a una provincia o CABA
                 destinos = sorted(menciones, key=menciones.get, reverse=True)[:2] or ["NACIONAL"]
                 if destinos != ["NACIONAL"]:
                     puntos += 1
@@ -592,7 +610,8 @@ def main():
                 criterio, extra = criterio_caba(n["titulo"]) if destino == "CABA" else (None, 0)
                 candidatas.append({
                     "juris": destino, "titulo": n["titulo"], "url": n["url"],
-                    "medio": medio, "fecha": fecha, "fecha_segura": bool(h["fecha"]),
+                    "medio": medio, "fecha": fecha, "fecha_segura": bool(h["fecha"]) and h.get("origen") in ("url", "nota"),
+                    "fecha_listado": bool(h["fecha"]),
                     "nueva": bool(h.get("nueva")) and h["visto"] == HOY.isoformat(),
                     "puntos": puntos + extra, "bloque": fuente["bloque"], "criterio": criterio,
                     "imagen": es_de_imagen(n["titulo"]) or fuente["bloque"] == "4",
@@ -662,15 +681,18 @@ def main():
                 f = None
                 if verificadas < MAX_FECHAS_A_VERIFICAR:
                     verificadas += 1
-                    f = fecha_real_de_nota(rep["url"])
+                    f = fecha_real_de_nota(rep["url"], rep["titulo"])
                 if f:
                     historial[rep["url"]]["fecha"] = f.isoformat()
+                    historial[rep["url"]]["origen"] = "nota"
                     rep["fecha"] = f
                     rep["fecha_segura"] = True
                     if (HOY - f).days > DIAS_VENTANA or f > HOY:
                         motivos[clave]["nota vieja (fecha leída en la nota)"] += 1
                         continue
-                elif not rep["nueva"]:
+                elif not (rep["fecha_listado"] or rep["nueva"]):
+                    # (si la portada o el RSS daban una fecha de hoy y la nota no
+                    # se pudo abrir, se usa esa)
                     motivos[clave]["sin fecha confirmable"] += 1
                     continue
             otros = [m for m in e["medios"] if m != rep["medio"]]
