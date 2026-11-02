@@ -1,13 +1,40 @@
 {
- "actualizado": "02/11 07:46",
+ "actualizado": "02/11 08:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "aterrizaje",
+   "tema": "cyber monday",
+   "busquedas": "2000+",
+   "nota": "ELEGOO Launches 2026 Black Friday & Cyber Monday Deals, with Up to 54% Off 3D Printers and Accessories",
+   "nota_url": "https://www.plataformamedia.com/en/2026/11/02/elegoo-launches-2026-black-friday-cyber-monday-deals-with-up-to-54-off-3d-printers-and-accessories/",
+   "medio": "Plataforma Media",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calendario noviembre 2026",
+   "busquedas": "200+",
+   "nota": "Anses: cuándo cobro la jubilación de noviembre si mi DNI termina en 0",
+   "nota_url": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-noviembre-si-mi-dni-termina-en-0-nid02112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corte suprema",
    "busquedas": "100+",
+   "nota": "De jefe de Inteligencia en Rosario a acusado de colaborar con Los Monos: el fallo de la Corte Suprema",
+   "nota_url": "https://www.lacapital.com.ar/policiales/de-jefe-inteligencia-rosario-acusado-colaborar-los-monos-el-fallo-la-corte-suprema-n10289877.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aterrizaje",
+   "busquedas": "200+",
    "nota": "Impactante accidente aéreo en Tupungato: una avioneta se estrelló y hay cuatro personas heridas",
    "nota_url": "https://www.mdzol.com/policiales/2026/11/1/impactante-accidente-aereo-en-tupungato-una-avioneta-se-dio-vuelta-y-hay-tres-personas-heridas-1992355.html",
    "medio": "MDZ Online",
@@ -17,81 +44,54 @@
   {
    "tema": "misionesonline",
    "busquedas": "100+",
-   "nota": "Horror en Caraguatay: atacó a puñaladas a sus dos hijos y a su hermana, que está grave en el SAMIC de Eldorado",
-   "nota_url": "https://www.stopenlinea.com.ar/noticias/2026/11/02/100755-horror-en-caraguatay-ataco-a-punaladas-a-sus-dos-hijos-y-a-su-hermana-que-esta-grave-en-el-samic-de-eldorado",
-   "medio": "Stop en línea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sorteó quini 6",
-   "busquedas": "100+",
-   "nota": "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 1 de noviembre",
-   "nota_url": "https://www.tycsports.com/interes-general/quini-6-de-hoy-sorteo-controlar-carton-y-los-resultados-del-domingo-1-de-noviembre-id769711.html",
-   "medio": "TyC Sports",
+   "nota": "Misiones tendrá un lunes con tormentas y alerta amarilla en dos zonas",
+   "nota_url": "https://misionesonline.net/2026/11/02/tiempo-misiones-90/",
+   "medio": "MisionesOnline",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "torneo federal a",
-   "busquedas": "1000+",
-   "nota": "EN VIVO I Sarmiento de La Banda visita a Atenas de Río Cuarto con la ilusión de avanzar en el Federal A",
-   "nota_url": "https://www.diariopanorama.com/noticia/571406/en-vivo-i-sarmiento-banda-visita-atenas-rio-cuarto-ilusion-avanzar-federal-a",
-   "medio": "Diario Panorama",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "200+",
-   "nota": "Domingo nublado y con algunos chaparrones en Corrientes",
-   "nota_url": "https://www.corrienteshoy.com/info-general/domingo-nublado-y-con-algunos-chaparrones-en-corrientes.htm",
-   "medio": "Corrientes Hoy",
+   "busquedas": "100+",
+   "nota": "Federal A: Olimpo ya tiene rival para los cuartos de final de la Reválida",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/01/federal-a-olimpo-ya-tiene-rival-para-los-cuartos-de-final-de-la-revalida-n528458/",
+   "medio": "La Brújula 24",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "aire de santa fe",
-   "busquedas": "100+",
-   "nota": "Santa Fe: con intenso operativo buscan a una joven que cayó a la Laguna Setúbal",
-   "nota_url": "https://www.elonce.com/sociedad/santa-fe-con-intenso-operativo-buscan-a-una-joven-que-cayo-a-la-laguna-setubal.htm",
-   "medio": "Elonce.com",
+   "busquedas": "200+",
+   "nota": "Buscan a una joven que habría caído a la laguna Setúbal desde el Puente Colgante",
+   "nota_url": "https://www.sol915.com.ar/buscan-a-una-joven-que-habria-caido-a-la-laguna-setubal-desde-el-puente-colgante/",
+   "medio": "Sol Play 91.5",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima corrientes",
+   "busquedas": "500+",
+   "nota": "Chaco, Corrientes, Formosa y Santiago del Estero llegarán a los 32 grados",
+   "nota_url": "https://www.radionacional.com.ar/chaco-corrientes-formosa-y-santiago-del-estero-llegaran-a-los-32-grados/",
+   "medio": "Radionacional.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "2 de noviembre",
+   "busquedas": "5000+",
+   "nota": "Después de las lluvias: cómo sigue el tiempo en el AMBA, según el Servicio Meteorológico Nacional",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/02/despues-de-las-lluvias-como-sigue-el-tiempo-en-el-amba-segun-el-servicio-meteorologico-nacional/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "feriados noviembre 2026",
-   "busquedas": "1000+",
-   "nota": "La visita del Papa a la Argentina, una oportunidad para recuperar la capacidad de encontrarnos",
-   "nota_url": "https://www.lanacion.com.ar/opinion/el-papa-y-su-viaje-a-la-argentina-nid01112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "morena beltrán",
-   "busquedas": "1000+",
-   "nota": "Morena Beltrán habló de las amenazas de hinchas de Estudiantes: “Me dijeron que me iban a matar”",
-   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/01/morena-beltran-hablo-de-las-amenazas-de-hinchas-de-estudiantes-me-dijeron-que-me-iban-a-matar/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan sebastián verón",
-   "busquedas": "200+",
-   "nota": "El enigmático mensaje de Verón tras las polémicas del domingo",
-   "nota_url": "https://www.universoturadio.com.ar/articulo/el-enigmatico-mensaje-de-veron-tras-las-polemicas-del-domingo.php",
-   "medio": "FM Universo 97.3",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima la plata",
-   "busquedas": "200+",
-   "nota": "La Plata enfrenta un intenso temporal de lluvia y granizo",
-   "nota_url": "https://radiolaplata.com.ar/la-plata-enfrenta-un-intenso-temporal-de-lluvia-y-granizo/",
-   "medio": "Radio La Plata",
+   "busquedas": "2000+",
+   "nota": "Arrancó noviembre: estos son los feriados del mes",
+   "nota_url": "https://www.cadena3.com/noticia/sociedad/arranco-noviembre-estos-son-los-feriados-del-mes_607051",
+   "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   }
