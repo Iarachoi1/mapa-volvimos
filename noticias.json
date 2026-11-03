@@ -1,8 +1,32 @@
 {
  "semana": "3 de noviembre de 2026",
  "fecha": "2026-11-03",
- "actualizado": "03/11 06:45",
+ "actualizado": "03/11 11:52",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "La reacción de Carlos Bianco al escuchar que Cristina quiere ser candidata",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "03/11/2026",
+     "url": "https://bardeo.news/politica/la-reaccion-de-carlos-bianco-al-escuchar-que-cristina-quiere-ser-candidata_a6ae9ccd7bcf08930c40fa448"
+    },
+    {
+     "titulo": "El peronismo frente al espejo de Cristina y los secretos del creador de Mercado Libre",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "03/11/2026",
+     "url": "https://cenital.com/el-peronismo-frente-al-espejo-de-cristina-y-los-secretos-del-creador-de-mercado-libre/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Pagni se burló de Milei y rebautizó su programa \"Elisea Argentina\"",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "03/11/2026",
+     "url": "https://bardeo.news/politica/pagni-se-burlo-de-milei-y-rebautizo-su-programa--elisea-argentina-_a6ae9d868bcf08930c410a7a9"
+    }
+   ],
+   "imagen": []
+  },
   "CABA": {
    "top3": [
     {
@@ -13,39 +37,18 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Elecciones de medio termino en Estados Unidos Donald Trump: \"El Partido Demócrata ha nombrado a los candidatos más extremistas y peligrosos de la historia estadounidense\"",
+     "titulo": "TODO ROTO Guerra en el peronismo de Jujuy: Rivarola quiere convocar a internas en el PJ antes de fin de año Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "03/11/2026",
+     "url": "https://www.letrap.com.ar/politica/guerra-el-peronismo-jujuy-rivarola-quiere-convocar-internas-el-pj-antes-fin-ano-n5427917",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Un puesto fundamental El Gobierno nombró al nuevo secretario de Relaciones Exteriores: quién ocupará el cargo La medida se dio a conocer a través del a través del Decreto 1323/2026, publicado en el Boletín Oficial",
      "medio": "Perfil",
      "fecha": "03/11/2026",
-     "url": "https://www.perfil.com/politica/donald-trump-el-partido-democrata-ha-nombrado-a-los-candidatos-mas-extremistas-y-peligrosos-de-la-historia-estadounidense-aA84K6T5ccMj",
+     "url": "https://www.perfil.com/politica/el-gobierno-nombro-al-nuevo-secretario-de-relaciones-exteriores-quien-ocupara-el-cargo-an5mR5W7G4Px",
      "tag": "Gabinete"
-    },
-    {
-     "titulo": "Financiamiento Universitario El gremio Universitario no docente anunció tres paros de 24 horas en reclamo de mejoras salariales",
-     "medio": "Perfil",
-     "fecha": "03/11/2026",
-     "url": "https://www.perfil.com/politica/el-gremio-universitario-no-docente-anuncio-tres-paros-de-24-horas-en-reclamo-de-mejoras-salariales-avi5S8U2RgnG",
-     "tag": "Ciudad"
-    },
-    {
-     "titulo": "Kicillof convocó a una reunión del PJ bonaerense en medio de la creciente tensión interna",
-     "medio": "El Destape",
-     "fecha": "03/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/kicillof-convoco-reunion-pj-bonaerense-medio-creciente-tension-interna-20261130554",
-     "tag": "Política"
-    },
-    {
-     "titulo": "El impacto de las elecciones de EE.UU. en la relación de Milei con aliados y los \"matices\" de Macri",
-     "medio": "El Destape",
-     "fecha": "03/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/impacto-elecciones-ee-uu-relacion-milei-aliados-matices-macri-20261130554",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "Bloqueos sindicales: la diputada Verónica Razzini declaró durante cinco horas en el juicio por la protesta de Camioneros",
-     "medio": "Infobae",
-     "fecha": "03/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/03/bloqueos-sindicales-la-diputada-veronica-razzini-declaro-durante-cinco-horas-en-el-juicio-por-la-protesta-de-camioneros/",
-     "tag": "Política"
     },
     {
      "titulo": "El Senado debate la nueva ley de discapacidad y hay dudas por el número para el dictamen",
@@ -55,33 +58,66 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "La visita del Papa también impacta en el Congreso: apuran el tema de discapacidad y renace el proyecto sobre ludopatía",
-     "medio": "Infobae",
+     "titulo": "El impacto de las elecciones de EE.UU. en la relación de Milei con aliados y los \"matices\" de Macri",
+     "medio": "El Destape",
      "fecha": "03/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/03/la-visita-del-papa-tambien-impacta-en-el-congreso-apuran-el-tema-de-discapacidad-y-renace-el-proyecto-sobre-ludopatia/",
-     "tag": "Gestión"
+     "url": "https://www.eldestapeweb.com/politica/impacto-elecciones-ee-uu-relacion-milei-aliados-matices-macri-20261130554",
+     "tag": "Calendario electoral"
     },
     {
-     "titulo": "Un puesto fundamental El Gobierno nombró al nuevo secretario de Relaciones Exteriores: quién ocupará el cargo",
-     "medio": "Perfil",
+     "titulo": "Kicillof convocó a una reunión del PJ bonaerense en medio de la creciente tensión interna",
+     "medio": "El Destape",
      "fecha": "03/11/2026",
-     "url": "https://www.perfil.com/politica/el-gobierno-nombro-al-nuevo-secretario-de-relaciones-exteriores-quien-ocupara-el-cargo-an5mR5W7G4Px",
-     "tag": "Gabinete"
+     "url": "https://www.eldestapeweb.com/politica/kicillof-convoco-reunion-pj-bonaerense-medio-creciente-tension-interna-20261130554",
+     "tag": "Política"
     },
     {
-     "titulo": "Milei volvió a felicitar a Netanyahu y cuestionó a la izquierda internacional: “No defendemos a Israel por un capricho personal”",
+     "titulo": "Bloqueos sindicales: la diputada Verónica Razzini declaró durante cinco horas en el juicio por la protesta de Camioneros",
      "medio": "Infobae",
      "fecha": "03/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/03/milei-volvio-a-felicitar-a-netanyahu-y-cuestiono-a-la-izquierda-internacional-no-defendemos-a-israel-por-un-capricho-personal/",
+     "url": "https://www.infobae.com/politica/2026/11/03/bloqueos-sindicales-la-diputada-veronica-razzini-declaro-durante-cinco-horas-en-el-juicio-por-la-protesta-de-camioneros/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Laura Alonso aseguró que Patricia Bullrich pretende ser candidata a presidenta",
+     "medio": "Infobae",
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/laura-alonso-aseguro-que-patricia-bullrich-pretende-ser-candidata-a-presidenta/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "OUTSIDER EN PELIGRO Catamarca: el diputado filolibertario apuntado por el peronismo va a la Corte Suprema para evitar su desafuero Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "03/11/2026",
+     "url": "https://www.letrap.com.ar/politica/catamarca-el-diputado-filolibertario-apuntado-el-peronismo-va-la-corte-suprema-evitar-su-desafuero-n5427915",
+     "tag": "Política"
+    },
+    {
+     "titulo": "La tajante frase de Guillermo Francos sobre Patricia Bullrich: \"El único que la garantiza es Milei\"",
+     "medio": "El Destape",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/tajante-frase-guillermo-francos-patricia-bullrich-unico-garantiza-milei-202611391753",
      "tag": "Política"
     }
    ],
    "imagen": [
     {
-     "titulo": "OPINIÓN PÚBLICA Encuesta: si las elecciones fueran hoy, ¿a quién votarían los argentinos? Felipe Leibovich",
+     "titulo": "Encuesta: el peronismo le saca 18 puntos a la LLA y le gana a toda la oposición junta",
+     "medio": "El Destape",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-gobernador-provincia-buenos-aires-2027-peronismo-le-saca-18-puntos-lla-sumando-pro-ucr-llegan-empatar-2026113104622"
+    },
+    {
+     "titulo": "La batalla de las intendencias San Francisco: Bernarte agita una encuesta en su camino a la reelección y se agrieta la alianza opositora Por Nicolás Albera",
+     "medio": "Letra P",
+     "fecha": "03/11/2026",
+     "url": "https://www.letrap.com.ar/politica/san-francisco-bernarte-agita-una-encuesta-su-camino-la-reeleccion-y-se-agrieta-la-alianza-opositora-n5427783"
+    },
+    {
+     "titulo": "Revista Noticias Encuesta: el 29% apoya la reelección y el 12% prefiere mileísmo sin Milei",
      "medio": "Perfil",
      "fecha": "03/11/2026",
-     "url": "https://www.perfil.com/politica/encuesta-si-las-elecciones-fueran-hoy-a-quien-votarian-los-argentinos-an4Eu1T75w3T"
+     "url": "https://noticias.perfil.com/noticias/politica/encuesta-el-29-apoya-la-reeleccion-y-el-12-prefiere-mileismo-sin-milei.phtml"
     }
    ]
   },
@@ -94,16 +130,96 @@
      "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/"
     },
     {
+     "titulo": "Balbín negó negociaciones de la UCR para habilitar la reelección indefinida de intendentes bonaerenses",
+     "medio": "Noticia 1",
+     "fecha": "03/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/balbin-nego-negociaciones-de-la-ucr-para-habilitar-la-reeleccion-indefinida-de-intendentes-bonaerenses"
+    },
+    {
      "titulo": "Kicillof convocó a una reunión del PJ bonaerense en medio de la creciente tensión interna",
      "medio": "El Destape",
      "fecha": "03/11/2026",
      "url": "https://www.eldestapeweb.com/politica/kicillof-convoco-reunion-pj-bonaerense-medio-creciente-tension-interna-20261130554"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "OUTSIDER EN PELIGRO Catamarca: el diputado filolibertario apuntado por el peronismo va a la Corte Suprema para evitar su desafuero Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "03/11/2026",
+     "url": "https://www.letrap.com.ar/politica/catamarca-el-diputado-filolibertario-apuntado-el-peronismo-va-la-corte-suprema-evitar-su-desafuero-n5427915"
     },
     {
-     "titulo": "Kicillof recibió a autoridades del Colegio de Magistrados y funcionarios del Poder Judicial bonaerense",
-     "medio": "Noticia 1",
+     "titulo": "Visita de León XIV El Gobierno negó tensiones con la Iglesia y aseguró que el Papa no dará mensajes políticos",
+     "medio": "El Ancasti",
      "fecha": "03/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/kicillof-recibio-a-autoridades-del-colegio-de-magistrados-y-funcionarios-del-poder-judicial-bonaerense"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-gobierno-nego-tensiones-la-iglesia-y-aseguro-que-el-papa-no-dara-mensajes-politicos-n625284"
+    },
+    {
+     "titulo": "Cumbre Iberoamericana Milei viaja a España en medio de nuevas tensiones y cruces con Pedro Sánchez",
+     "medio": "El Ancasti",
+     "fecha": "03/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/milei-viaja-espana-medio-nuevas-tensiones-y-cruces-pedro-sanchez-n625280"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Elecciones presidenciales 2027: cómo consultar el padrón y qué hacer si no aparecés",
+     "medio": "ADN Sur",
+     "fecha": "03/11/2026",
+     "url": "https://www.adnsur.com.ar/sociedad/elecciones-presidenciales-2027--como-consultar-el-padron-y-que-hacer-si-no-apareces_a6ae9d47cd2522645e6a76e5e"
+    },
+    {
+     "titulo": "El Senado avanzará esta semana con la ley de discapacidad",
+     "medio": "Diario Jornada",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariojornada.com.ar/426402/politica/el_senado_avanzara_esta_semana_con_la_ley_de_discapacidad"
+    },
+    {
+     "titulo": "Reforma laboral: cae el empleo registrado y crece la informalidad",
+     "medio": "Diario Jornada",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariojornada.com.ar/426406/politica/reforma_laboral_cae_el_empleo_registrado_y_crece_la_informalidad"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Elecciones 2027: habilitaron el padrón provisorio para consultar datos",
+     "medio": "CBA24N",
+     "fecha": "03/11/2026",
+     "url": "https://www.cba24n.com.ar/argentina/elecciones-2027--habilitaron-el-padron-provisorio-para-consultar-datos-_a6ae9ba31a768f88a20d321ca"
+    },
+    {
+     "titulo": "Anuncios ante la UIA. Caputo anunció la suspensión de embargos a pymes hasta mayo y propuso eliminar Sellos",
+     "medio": "Cadena3",
+     "fecha": "03/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/caputo-anuncio-la-suspension-de-embargos-a-pymes-hasta-mayo-y-propuso-eliminar-sellos_609708"
+    },
+    {
+     "titulo": "Política nacional. Pullaro respaldó la suspensión de las PASO y confirmó las fechas de las elecciones en Santa Fe",
+     "medio": "Cadena3",
+     "fecha": "03/11/2026",
+     "url": "https://www.cadena3.com/noticia/juntos-rosario/pullaro-respaldo-la-suspension-de-las-paso-y-confirmo-las-fechas-de-las-elecciones-en-santa-fe_609688"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Congreso: impulsan una ley para que los abusos sexuales contra menores no prescriban",
+     "medio": "El Litoral",
+     "fecha": "03/11/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-3-7-50-0-congreso-impulsar-una-ley-para-que-los-abusos-sexuales-contra-menores-no-prescriban"
     }
    ],
    "imagen": []
@@ -111,16 +227,23 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Se retoma el pago de haberes para activos y jubilados de la administración pública entrerriana",
+     "titulo": "Aldea María Luisa: falleció el exintendente Luis Pablo Schönfeld",
      "medio": "El Once",
      "fecha": "03/11/2026",
-     "url": "https://www.elonce.com/politica/cronograma-se-retoma-el-pago-de-haberes-en-entre-rios.htm"
+     "url": "https://www.elonce.com/politica/aldea-maria-luisa-fallecio-luis-pablo-schonfeld-a-un-mes-de-su-renuncia-a-la-intendencia.htm",
+     "tag": "También en AFP Digital, Ahora y 1 más"
     },
     {
-     "titulo": "Personal universitario nodocente realiza un paro este martes",
-     "medio": "El Once",
+     "titulo": "En Comisión: Diputados retoma este martes el análisis del Presupuesto 2027 y la Reforma Laboral",
+     "medio": "AFP Digital",
      "fecha": "03/11/2026",
-     "url": "https://www.elonce.com/politica/personal-universitario-nodocente-realiza-un-paro-este-martes.htm"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/03/477504-en-comision-diputados-retoma-este-martes-el-analisis-del-presupuesto-2027-y-la-reforma-laboral"
+    },
+    {
+     "titulo": "Intendentes de Paraná Campaña salieron a respaldar la candidatura de Manuel Tennen para la Intendencia de la capital",
+     "medio": "AFP Digital",
+     "fecha": "03/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/03/477519-intendentes-de-parana-campana-salieron-a-respaldar-la-candidatura-de-manuel-tennen-para-la-intendencia-de-la-capital"
     }
    ],
    "imagen": []
@@ -128,16 +251,22 @@
   "Jujuy": {
    "top3": [
     {
+     "titulo": "TODO ROTO Guerra en el peronismo de Jujuy: Rivarola quiere convocar a internas en el PJ antes de fin de año Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "03/11/2026",
+     "url": "https://www.letrap.com.ar/politica/guerra-el-peronismo-jujuy-rivarola-quiere-convocar-internas-el-pj-antes-fin-ano-n5427917"
+    },
+    {
      "titulo": "\"La lista Celeste y Blanca ganará la interna del PJ\"",
      "medio": "El Tribuno",
      "fecha": "03/11/2026",
      "url": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-la-lista-celeste-y-blanca-ganara-la-interna-del-pj"
     },
     {
-     "titulo": "Habilitaron el padrón provisorio y hay 30 días para revisar los datos electorales",
-     "medio": "Jujuy al día",
+     "titulo": "La visita de León XIV agitó la Casa Rosada: Karina Milei, internas y disputa por los lugares",
+     "medio": "Somos Jujuy",
      "fecha": "03/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/03/habilitaron-el-padron-provisorio-y-hay-30-dias-para-revisar-los-datos-electorales/"
+     "url": "https://www.somosjujuy.com.ar/nacionales/la-visita-leon-xiv-agito-casa-rosada-karina-milei-internas-disputa-lugares-n126550"
     }
    ],
    "imagen": []
@@ -145,23 +274,111 @@
   "La Pampa": {
    "top3": [
     {
+     "titulo": "El Presupuesto 2027 equipara los salarios entre defensores, asesores y fiscales",
+     "medio": "La Arena",
+     "fecha": "03/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-2027-equipara-los-salarios-entre-defensores-asesores-y-fiscales-202611310140"
+    },
+    {
      "titulo": "El presupuesto hace eje en el desarrollo económico en 2027",
      "medio": "La Arena",
      "fecha": "03/11/2026",
      "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-hace-eje-en-el-desarrollo-economico-en-2027-2026113050"
     },
     {
-     "titulo": "Una elección que ata a Milei a la suerte de Donald Trump",
-     "medio": "La Arena",
+     "titulo": "TEMPORADA DE ROSCA Di Nápoli reperfila su estrategia en La Pampa y dice que \"es momento de charlar\" con Ziliotto Por Juan Pablo Gavazza",
+     "medio": "Letra P",
      "fecha": "03/11/2026",
-     "url": "https://www.laarena.com.ar/el-mundo/una-eleccion-que-ata-a-milei-a-la-suerte-de-donald-trump-2026113050"
+     "url": "https://www.letrap.com.ar/politica/di-napoli-reperfila-su-estrategia-la-pampa-y-dice-que-es-momento-charlar-ziliotto-n5427908"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "GREMIO DEFENDIÓ PROCESO DE DESIGNACIÓN EN LA JUSTICIA FEDERAL",
+     "medio": "Rioja Virtual",
+     "fecha": "03/11/2026",
+     "url": "https://riojavirtual.com.ar/gremio-defendio-proceso-de-designacion-en-la-justicia-federal/"
     },
     {
-     "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar tocó un nuevo máximo",
-     "medio": "El Diario de La Pampa",
+     "titulo": "EL GOBIERNO SUSPENDERÁ LOS EMBARGOS DE ARCA PARA EMPRESAS Y PYMES HASTA MAYO DE 2027",
+     "medio": "Rioja Virtual",
      "fecha": "03/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/pais/82552/el-riesgo-pais-supero-los-800-puntos-por-primera-vez-en-el-ano-y-el-dolar-toco-un-nuevo-maximo",
-     "tag": "También en La Arena"
+     "url": "https://riojavirtual.com.ar/el-gobierno-suspendera-los-embargos-de-arca-para-empresas-y-pymes-hasta-mayo-de-2027/"
+    }
+   ],
+   "imagen": []
+  },
+  "Mendoza": {
+   "top3": [
+    {
+     "titulo": "En Casa Rosada siguen de cerca las elecciones de medio término en Estados Unidos",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/en-casa-rosada-temen-que-una-derrota-donald-trump-complique-la-ayuda-financiera-n1612718"
+    },
+    {
+     "titulo": "Sergio Massa y Cristina Kirchner se reunieron con el artífice del \"Ejército de Lula\"",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/sergio-massa-y-cristina-kirchner-se-reunieron-el-artifice-del-ejercito-lula-n1612705"
+    },
+    {
+     "titulo": "Se inaugura la muestra fotográfica “El rojo no pide permiso. Donde arde la mirada”, de Juan Tinelli",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "03/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/inaugura-la-muestra-fotografica-el-rojo-no-pide-permiso-donde-arde-la-mirada-de-juan-tinelli/",
+     "tag": "También en Memo"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "Adrián Nuñez busca respaldo internacional contra la Ley de Lemas en Washington",
+     "medio": "La Voz - Misiones",
+     "fecha": "03/11/2026",
+     "url": "https://lavozdemisiones.com/politica/adrian-nunez-busca-respaldo-internacional-contra-la-ley-de-lemas-en-washington1"
+    },
+    {
+     "titulo": "Estados Unidos vota en elecciones que pueden marcar el futuro de Trump",
+     "medio": "Primera Edición",
+     "fecha": "03/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101157051/estados-unidos-vota-en-elecciones-que-pueden-marcar-el-futuro-de-trump/"
+    },
+    {
+     "titulo": "Misiones tuvo una caída del 67,5% en transferencias no automáticas durante octubre",
+     "medio": "Primera Edición",
+     "fecha": "03/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101157061/misiones-caida-en-transferencias-no-automaticas-octubre/"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Infraestructura sanitaria Ya está el terreno para construir un nuevo hospital en Las Ovejas",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "03/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/03/266637-ya-esta-el-terreno-para-construir-un-nuevo-hospital-en-las-ovejas",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Mundial de natación La zapalina Ana Cenci se coronó campeona del mundo en Portugal",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "03/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/03/266667-la-zapalina-ana-cenci-se-corono-campeona-del-mundo-en-portugal",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Concurso público 2027: cómo ser un espía e ingresar a la SIDE",
+     "medio": "Neuquén al Instante",
+     "fecha": "03/11/2026",
+     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/03/146742-concurso-publico-2027-como-ser-un-espia-e-ingresar-a-la-side"
     }
    ],
    "imagen": []
@@ -169,24 +386,24 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Doble estrategia: Javier Milei viaja a España para la Cumbre Iberoamericana mientras vigila las elecciones clave para Donald Trump",
+     "titulo": "Weretilneck puso límites a los descuentos para proteger el salario de los trabajadores estatales",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "03/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62598/weretilneck-puso-limites-a-los-descuentos-para-proteger-el-salario-de-los-trabajadores-estatales",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Elecciones en EE.UU.: una derrota de Trump en el Congreso bajo la lupa de Milei",
+     "medio": "AN Roca",
+     "fecha": "03/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/03/230739-elecciones-en-eeuu-una-derrota-de-trump-en-el-congreso-bajo-la-lupa-de-milei",
+     "tag": "También en LCR, Noticias Net"
+    },
+    {
+     "titulo": "Roca debatirá el presupuesto 2027 en una audiencia pública: ¿Cómo participar?",
      "medio": "Diario Rio Negro",
      "fecha": "03/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/doble-estrategia-javier-milei-viaja-a-espana-para-la-cumbre-iberoamericana-mientras-vigila-las-elecciones-clave-para-donald-trump/"
-    },
-    {
-     "titulo": "ECONOMÍA Retención del impuesto a los combustibles: la Justicia admitió un amparo contra el Gobierno",
-     "medio": "AN Roca",
-     "fecha": "03/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/03/230664-retencion-del-impuesto-a-los-combustibles-la-justicia-admitio-un-amparo-contra-el-gobierno",
-     "tag": "También en Noticias Net"
-    },
-    {
-     "titulo": "Milei celebró la visita del Papa: “Reforzará nuestros compromisos con los valores judeocristianos”",
-     "medio": "AN Roca",
-     "fecha": "03/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/03/230712-milei-celebro-la-visita-del-papa-reforzara-nuestros-compromisos-con-los-valores-judeocristianos",
-     "tag": "También en Noticias Net"
+     "url": "https://www.rionegro.com.ar/politica/roca-debatira-el-presupuesto-2027-en-una-audiencia-publica-como-participar-4782467/"
     }
    ],
    "imagen": []
@@ -194,22 +411,24 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "San Ramón de la Nueva Orán: Hoy se realizará el encuentro regional por el Plan Estratégico Salta 2050",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "03/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/san-ramon-de-la-nueva-oran-hoy-se-realizara-el-encuentro-regional-por-el-plan-estrategico-salta-2050-110895"
-    },
-    {
-     "titulo": "El arduo y conflictivo camino que se presenta en Salta para \"Cristina libre\"",
+     "titulo": "Reabre el Natatorio Perón en Salta: horarios y nuevas actividades tras las obras de remodelación",
      "medio": "El Tribuno",
      "fecha": "03/11/2026",
-     "url": "https://www.eltribuno.com/salta/2026-11-3-0-0-0-el-arduo-y-conflictivo-camino-que-se-presenta-en-salta-para-cristina-libre"
+     "url": "https://www.eltribuno.com/salta/2026-11-3-9-27-0-reabre-el-natatorio-peron-en-salta-horarios-y-nuevas-actividades-tras-las-obras-de-remodelacion",
+     "tag": "También en Que Pasa Salta, Informate Salta"
     },
     {
-     "titulo": "Ley Octorina: avanza la adhesión municipal en la ciudad de Salta",
-     "medio": "Nuevo Diario de Salta",
+     "titulo": "Estudiantes de Guachipas ganan la Copa Internacional en Paraguay",
+     "medio": "Prensa oficial de Salta",
      "fecha": "03/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/ley-octorina-avanza-la-adhesion-municipal-en-la-ciudad-de-salta/"
+     "url": "https://www.salta.gob.ar/prensa/noticias/estudiantes-de-guachipas-ganan-la-copa-internacional-en-paraguay-110910",
+     "tag": "También en El Tribuno"
+    },
+    {
+     "titulo": "El salteño también | Los gobernadores fueron invitados a la recepción de León XIV",
+     "medio": "Cuarto",
+     "fecha": "03/11/2026",
+     "url": "https://www.cuarto.com.ar/salteno-tambien-los-gobernadores-fueron-invitados-a-la-recepcion-de-leon-xiv/"
     }
    ],
    "imagen": []
@@ -217,33 +436,100 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "Los tres gremios se llevaron la oferta del Gobierno y anticipan un rechazo",
-     "medio": "Huarpe",
+     "titulo": "Caputo anunció que suspenderá los embargos a las pymes hasta mayo de 2027 Por Redacción Diario de Cuyo",
+     "medio": "Diario de Cuyo",
      "fecha": "03/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/tras-la-oferta-de-gobierno-en-paritaria-udap-uda-y-amet-la-rechazaran-20261136050"
+     "url": "https://www.diariodecuyo.com.ar/politica/caputo-anuncio-que-suspendera-los-embargos-las-pymes-mayo-2027-n6587540"
+    },
+    {
+     "titulo": "11:50 Orrego expuso en la Conferencia de la UIA y destacó el potencial minero y la infraestructura de San Juan",
+     "medio": "Diario de Cuyo",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/orrego-expuso-la-conferencia-la-uia-y-destaco-el-potencial-minero-y-la-infraestructura-san-juan-n6587545"
+    },
+    {
+     "titulo": "Orrego estuvo presente en la Conferencia Anual de la UIA",
+     "medio": "El Zonda",
+     "fecha": "03/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/politica/orrego-estuvo-presente-en-la-conferencia-anual-de-la-uia"
     }
    ],
    "imagen": []
   },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Natalia Carranza se hará cargo del ministerio de Turismo hasta que se produzca la nueva designación",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "03/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/03/1227731-natalia-carranza-se-hara-cargo-del-ministerio-de-turismo-hasta-que-se-produzca-la-nueva-designacion/",
+     "tag": "También en La Gaceta Digital"
+    },
+    {
+     "titulo": "Walter Agüero, otro puntano en el Gabinete Nacional",
+     "medio": "El Diario de la República",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-3-8-12-0-walter-aguero-otro-puntano-en-el-gabinete-nacional"
+    },
+    {
+     "titulo": "Beca BUS: la etapa de evaluación de los inscriptos cierra el viernes 6 de noviembre",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "03/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/03/1227691-beca-bus-la-etapa-de-evaluacion-de-los-inscriptos-cierra-el-viernes-6-de-noviembre/"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "El Senado se reactivará para avanzar con la ley de discapacidad aprobada con un amplio consenso en Diputados",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/nacionales/el-senado-se-reactivara-para-avanzar-con-la-ley-de-discapacidad-aprobada-con-un-amplio-consenso-en-diputados-684/"
+    },
+    {
+     "titulo": "Elecciones 2027: ¿cómo consultar el padrón provisorio y hasta cuándo se pueden corregir los datos?",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/elecciones-2027-como-consultar-el-padron-provisorio-y-hasta-cuando-se-pueden-corregir-los-datos-889/"
+    },
+    {
+     "titulo": "Quedó habilitada la circulación sobre la Ruta Nacional N° 3 en el sector de La Lobería",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "03/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/entes-publicos/vialidad-provincial/quedo-habilitada-la-circulacion-sobre-la-ruta-nacional-n-3-en-el-sector-de-la-loberia",
+     "tag": "También en Tiempo Sur"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Apuestas online Santa Cruz : Casi la mitad de los jóvenes encuestados ya apostó por internet",
+     "medio": "Tiempo Sur",
+     "fecha": "03/11/2026",
+     "url": "https://www.tiemposur.com.ar/info-general/santa-cruz-casi-la-mitad-de-los-jovenes-encuestados-ya-aposto-por-internet"
+    }
+   ]
+  },
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Semana clave en Santa Fe: las leyes que dan más poder a la Policía, entre el debate y la interna de Unidos",
+     "titulo": "Escenario nacional \"Pullaro presidente 2027\": Michlig lo lanzó y la Juventud Radical lo ovacionó Martín Fernández Silva",
+     "medio": "Aire",
+     "fecha": "03/11/2026",
+     "url": "https://www.airedesantafe.com.ar/politica/pullaro-presidente-2027-michlig-lo-lanzo-y-la-juventud-radical-lo-ovaciono-n675415"
+    },
+    {
+     "titulo": "Agenda parlamentaria Semana clave en Santa Fe: las leyes que dan más poder a la Policía, entre el debate y la interna de Unidos Martín Fernández Silva",
      "medio": "Aire",
      "fecha": "03/11/2026",
      "url": "https://www.airedesantafe.com.ar/politica/semana-clave-santa-fe-las-leyes-que-dan-mas-poder-la-policia-el-debate-y-la-interna-unidos-n675405"
     },
     {
-     "titulo": "Rosario presentará su presupuesto con equilibrio fiscal y $171 mil millones para obras",
-     "medio": "La Capital",
+     "titulo": "Estados Unidos vota en unas elecciones de medio mandato que definirán el rumbo del resto de la gestión Trump",
+     "medio": "Rosario3",
      "fecha": "03/11/2026",
-     "url": "https://www.lacapital.com.ar/la-ciudad/rosario-presentara-su-presupuesto-equilibrio-fiscal-y-171-mil-millones-obras-n10290070.html"
-    },
-    {
-     "titulo": "Entrevista en AIRE \"Saber perder las elecciones\": la advertencia de un especialista sobre las denuncias de fraude",
-     "medio": "Aire",
-     "fecha": "03/11/2026",
-     "url": "https://www.airedesantafe.com.ar/actualidad/saber-perder-las-elecciones-la-advertencia-un-especialista-las-denuncias-fraude-n675407"
+     "url": "https://www.rosario3.com/politica/estados-unidos-vota-en-unas-elecciones-de-medio-mandato-que-definiran-el-rumbo-del-resto-de-la-gestion-trump-20261103-0014.html"
     }
    ],
    "imagen": []
@@ -255,23 +541,48 @@
      "medio": "El Liberal",
      "fecha": "03/11/2026",
      "url": "https://www.elliberal.com.ar/nota/96806/2026/11/el-congreso-posterga-el-debate-del-presupuesto-2027-y-las-paso-por-dos-semanas"
+    },
+    {
+     "titulo": "Locales La Legislatura provincial tendrá cuatro nuevos diputados tras las renuncias de sus anteriores titulares Hace 2 horas",
+     "medio": "Info del Estero",
+     "fecha": "03/11/2026",
+     "url": "https://infodelestero.com/2026/11/03/la-legislatura-provincial-tendra-cuatro-nuevos-diputados-tras-las-renuncias-de-sus-anteriores"
+    },
+    {
+     "titulo": "Carlos Melconian confirmó que será candidato y lanzó duras críticas al Gobierno de Milei",
+     "medio": "Diario Panorama",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/571711/carlos-melconian-confirmo-sera-candidato-lanzo-duras-criticas-al-gobierno-milei"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Laura Alonso cruzó a Cristina Kirchner por una posible candidatura en 2027: “Robó y está inhabilitada”",
+     "medio": "Diario Panorama",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/571704/laura-alonso-cruzo-cristina-kirchner-posible-candidatura-2027-robo-esta-inhabilitada"
+    }
+   ]
   },
   "Tucumán": {
    "top3": [
     {
-     "titulo": "El Senado intentará obtener dictamen de la nueva ley de discapacidad",
-     "medio": "Los Primeros",
+     "titulo": "Melconian confirmó que será candidato y apuntó contra Milei: “El 80% del país está mal”",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "03/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-senado-intentara-obtener-dictamen-de-la-nueva-ley-de-discapacidad_a6ae99b76bcf08930c40d3508"
+     "url": "https://www.lagaceta.com.ar/nota/1160799/politica/melconian-confirmo-sera-candidato-apunto-contra-milei-80porciento-pais-esta-mal.html"
     },
     {
-     "titulo": "Trump pone a prueba su liderazgo: cómo impactarán los resultados en su relación con Argentina",
+     "titulo": "Caputo anunció la suspensión de embargos de ARCA a las PyMEs hasta mayo de 2027",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "03/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1160836/economia/caputo-anuncio-suspension-embargos-arca-pymhasta-mayo-2027.html"
+    },
+    {
+     "titulo": "Milei viaja a España y se verá cara a cara con Pedro Sánchez tras los insultos",
      "medio": "Los Primeros",
      "fecha": "03/11/2026",
-     "url": "https://www.losprimeros.tv/politica/trump-pone-a-prueba-su-liderazgo--como-impactaran-los-resultados-en-su-relacion-con-argentina_a6ae997a2bcf08930c40d25ed"
+     "url": "https://www.losprimeros.tv/politica/milei-viaja-a-espana-y-se-vera-cara-a-cara-con-pedro-sanchez-tras-los-insultos_a6ae9d59dbcf08930c4106054"
     }
    ],
    "imagen": []

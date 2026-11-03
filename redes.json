@@ -1,10 +1,46 @@
 {
- "actualizado": "03/11 10:59",
+ "actualizado": "03/11 11:52",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "novak djokovic",
+   "busquedas": "1000+",
+   "nota": "Novak Djokovic Fires Back at ‘Experts’ With Encouraging Health Update",
+   "nota_url": "https://athlonsports.com/tennis/novak-djokovic-fires-back-at-experts-with-encouraging-health-update",
+   "medio": "Athlon Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "josé luis gioia sufrió un acv",
+   "busquedas": "2000+",
+   "nota": "José Luis Gioia sufrió un ACV: preocupa la salud del actor",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/02/jose-luis-gioia-sufrio-un-acv-preocupa-la-salud-del-actor/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juan minujin",
+   "busquedas": "200+",
+   "nota": "Juan Minujín mandó al frente a Guillermo Coppola con sus anécdotas: “La época de Nápoles”",
+   "nota_url": "https://www.eltrecetv.com.ar/puro-show/2026/11/01/juan-minujin-mando-al-frente-a-guillermo-coppola-con-sus-anecdotas-la-epoca-de-napoles/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "osfa",
+   "busquedas": "100+",
+   "nota": "\"En diciembre, 35 familias se quedan sin trabajo ni cobertura médica\": la realidad de IOSFA en La Plata",
+   "nota_url": "https://www.eldia.com/la-ciudad/en-diciembre-35-familias-se-quedan-sin-trabajo-ni-cobertura-medica-la-realidad-de-iosfa-en-la-plata-la-ciudad_1793631504",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "paro nacional",
    "busquedas": "200+",
@@ -16,19 +52,19 @@
   },
   {
    "tema": "predicción",
-   "busquedas": "200+",
-   "nota": "Apuestas electorales de Kalshi cerca de 1.100 millones tras 65.000",
-   "nota_url": "https://financefeeds.com/es/kalshi-volumen-octubre-elecciones/",
-   "medio": "FinanceFeeds",
+   "busquedas": "500+",
+   "nota": "Los mercados de predicciones muestran a los demócratas como grandes favoritos para arrasar en el Congreso.",
+   "nota_url": "https://es.qz.com/prediccin-mercados-demcratas-arrasan-congreso-da-elecciones-110326",
+   "medio": "Quartz",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "elecciones eeuu",
-   "busquedas": "500+",
-   "nota": "Súper martes en EE UU | Ya se vota en una elección de medio término clave para Trump",
-   "nota_url": "https://www.eldia.com/el-mundo/super-martes-una-eleccion-clave-para-trump-el-mundo_1793679684",
-   "medio": "Diario El Día de La Plata",
+   "busquedas": "1000+",
+   "nota": "Abren los primeros colegios electorales en Estados Unidos, en una jornada que marcará la presidencia",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/03/abren-los-primeros-colegios-electorales-en-estados-unidos-en-una-jornada-que-marcara-la-presidencia/",
+   "medio": "Infobae",
    "relevante": true,
    "temas": []
   },
@@ -44,8 +80,8 @@
   {
    "tema": "terremoto sismo temblor hoy epicentro",
    "busquedas": "200+",
-   "nota": "Temblor en México: magnitud y epicentro de todos los sismos de hoy, lunes 2 de noviembre 2026",
-   "nota_url": "https://www.ambito.com/mexico/informacion-general/temblor-mexico-magnitud-y-epicentro-todos-los-sismos-hoy-lunes-2-noviembre-2026-n6340421",
+   "nota": "Temblor en México: magnitud y epicentro de todos los sismos de hoy, martes 3 de noviembre 2026",
+   "nota_url": "https://www.ambito.com/mexico/informacion-general/temblor-mexico-magnitud-y-epicentro-todos-los-sismos-hoy-martes-3-noviembre-2026-n6340839",
    "medio": "Ambito",
    "relevante": false,
    "temas": []
@@ -53,45 +89,9 @@
   {
    "tema": "feriado bancario noviembre 2026",
    "busquedas": "100+",
-   "nota": "Los bancos estarán seis días sin atención presencial: qué pasará con cajeros y transferencias",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/02/los-bancos-estaran-seis-dias-sin-atencion-presencial-que-pasara-con-cajeros-y-transferencias-n528606/",
-   "medio": "La Brújula 24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "master 1000 paris",
-   "busquedas": "100+",
-   "nota": "Rafael Jódar se enfrenta a Alejandro Tabilo en el Masters 1000 de París",
-   "nota_url": "https://elecos.com.ar/rafael-jodar-se-enfrenta-a-alejandro-tabilo-en-el-masters-1000-de-paris",
-   "medio": "Ecos Diarios Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atp paris",
-   "busquedas": "200+",
-   "nota": "PRONOS PARIS RMC Le pari tennis d’Eric Salliot du 2 novembre – ATP 1000 Paris",
-   "nota_url": "https://rmcsport.bfmtv.com/pari-sportif/pronos-paris-rmc-le-pari-tennis-d-eric-salliot-du-2-novembre-atp-1000-paris_AN-202611020531.html",
-   "medio": "RMC Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ueno bank",
-   "busquedas": "200+",
-   "nota": "El BCP interviene Ueno Bank y Carvallo revela que ya firmó su renuncia",
-   "nota_url": "https://www.lapoliticaonline.com/paraguay/empresas-py/el-bcp-interviene-ueno-bank-y-carvallo-revela-que-ya-firmo-su-renuncia/",
-   "medio": "La Política Online",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "lenacapavir",
-   "busquedas": "100+",
-   "nota": "Approval of a cheap version of HIV-prevention shot lenacapavir raises hopes in low-income countries",
-   "nota_url": "https://abcnews.com/Business/wireStory/approval-cheap-version-hiv-prevention-shot-lenacapavir-raises-137767308",
-   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "nota": "Día del Bancario: cómo funcionan los bancos el viernes 6 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/economia/dia-del-bancario-como-funcionan-los-bancos-el-viernes-6-de-noviembre-nid03112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
