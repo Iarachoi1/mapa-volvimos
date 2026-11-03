@@ -1,10 +1,37 @@
 {
- "actualizado": "03/11 08:39",
+ "actualizado": "03/11 09:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "atp paris",
+   "busquedas": "100+",
+   "nota": "PRONOS PARIS RMC Le pari tennis d’Eric Salliot du 2 novembre – ATP 1000 Paris",
+   "nota_url": "https://rmcsport.bfmtv.com/pari-sportif/pronos-paris-rmc-le-pari-tennis-d-eric-salliot-du-2-novembre-atp-1000-paris_AN-202611020531.html",
+   "medio": "RMC Sport",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cerundolo",
+   "busquedas": "200+",
+   "nota": "Arthur Rinderknech vs. Francisco Cerundolo prediction, odds, picks for ATP Paris Masters 2026",
+   "nota_url": "https://www.dimers.com/tennis/news/arthur-rinderknech-vs-francisco-cerundolo-tennis-prediction-atp-paris-masters-2026-ac",
+   "medio": "Dimers",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ueno bank",
+   "busquedas": "100+",
+   "nota": "Ejecutivo confirma negociaciones para resolver el caso ueno bank",
+   "nota_url": "https://www.ultimahora.com/ejecutivo-confirma-negociaciones-para-resolver-el-caso-ueno-bank",
+   "medio": "Última Hora",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "lenacapavir",
    "busquedas": "100+",
@@ -15,26 +42,44 @@
    "temas": []
   },
   {
-   "tema": "marcelo bonelli",
-   "busquedas": "500+",
-   "nota": "La gran historia de amor de Marcela Giorgi y Mario Mazzone: del piropo en el pase a la dura despedida",
-   "nota_url": "https://www.infobae.com/teleshow/2026/10/31/la-gran-historia-de-amor-de-marcela-giorgi-y-mario-mazzone-del-piropo-en-el-pase-a-la-dura-despedida/",
-   "medio": "Infobae",
+   "tema": "river vs aldosivi",
+   "busquedas": "2000+",
+   "nota": "Día y horario para la visita de River a Aldosivi por la última fecha del Torneo Clausura 2026",
+   "nota_url": "https://bolavip.com/ar/river/dia-y-horario-para-la-visita-de-river-a-aldosivi-por-la-ultima-fecha-del-torneo-clausura-2026",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "aldosivi river",
-   "busquedas": "200+",
-   "nota": "Un jugador de River terminó lesionado tras el Superclásico",
-   "nota_url": "https://www.tycsports.com/river-plate/juan-cruz-meza-desgarro-river-plate-id770008.html",
-   "medio": "TyC Sports",
+   "tema": "marcelo bonelli",
+   "busquedas": "500+",
+   "nota": "De qué murió Marcela Giorgi, la histórica locutora de Radio Mitre",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/10/31/de-que-murio-marcela-giorgi-la-historica-locutora-de-radio-mitre/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tomás martín etcheverry",
+   "busquedas": "500+",
+   "nota": "Masters 1000 de París: a qué hora juegan Cerúndolo, Etcheverry y Djokovic y dónde verlos",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "flores",
+   "busquedas": "500+",
+   "nota": "Astros Hire Randy Flores As General Manager",
+   "nota_url": "https://www.mlbtraderumors.com/2026/10/astros-hire-randy-flores-as-general-manager.html",
+   "medio": "MLB Trade Rumors",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "canal 13",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Insólito | Su expareja intentó asesinarla de cinco disparos y ella lo perdonó y besó durante el juicio",
    "nota_url": "https://nuevodiarioweb.com.ar/policiales/info-santiago-estero-insolito-su-expareja-intento-asesinarla-de-cinco-disparos-y-ella-lo-perdono-y-beso-durante-el-juicio.htm",
    "medio": "Nuevo Diario Web",
@@ -43,55 +88,10 @@
   },
   {
    "tema": "james gunn",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "James Gunn Explains the Difference Between DC Studios and Marvel Movies",
    "nota_url": "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/",
    "medio": "Polygon.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "francisco cerúndolo",
-   "busquedas": "2000+",
-   "nota": "Masters 1000 de París: a qué hora juegan Cerúndolo, Etcheverry y Djokovic y dónde verlos",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "masterchef",
-   "busquedas": "500+",
-   "nota": "La confesión de Martita Fort sobre Nazareno Casero en MasterChef: \"Nos tiroteamos\"",
-   "nota_url": "https://www.minutouno.com/espectaculos/la-confesion-martita-fort-nazareno-casero-masterchef-nos-tiroteamos-n6340489",
-   "medio": "Minutouno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lockheed martin f-16 fighting falcon",
-   "busquedas": "100+",
-   "nota": "Lockheed Martin Studies Ukraine-Specific F-16 Jet Variant",
-   "nota_url": "https://envantermedya.com/en/en-lockheed-martin-ukraine-specific-f16-aesa-radar/",
-   "medio": "Envanter Medya",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "joaquín levinton",
-   "busquedas": "200+",
-   "nota": "El Puma Rodríguez destrozó un hit de Turf sin saber que Joaquín Levinton estaba al lado y el cantante le hizo pagar la crítica",
-   "nota_url": "https://www.guauformosa.com.ar/noticias/2026/11/02/42321-el-puma-rodriguez-destrozo-un-hit-de-turf-sin-saber-que-joaquin-levinton-estaba-al-lado-y-el-cantante-le-hizo-pagar-la-critica",
-   "medio": "Guau Formosa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jennifer aniston",
-   "busquedas": "500+",
-   "nota": "Jennifer Aniston, actriz de 57 años: “Este desayuno es excelente para la digestión y el sistema inmunológico”",
-   "nota_url": "https://radiomitre.cienradios.com/celebrities/jennifer-aniston-actriz-de-57-anos-este-desayuno-es-excelente-para-la-digestion-y-el-sistema-inmunologico/",
-   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   }
