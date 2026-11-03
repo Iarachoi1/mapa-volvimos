@@ -1,16 +1,70 @@
 {
- "actualizado": "02/11 22:50",
+ "actualizado": "02/11 23:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "promedio industrial dow jones",
+   "busquedas": "100+",
+   "nota": "La IA pesa más que las elecciones de EE.UU. para los inversores de Wall Street",
+   "nota_url": "https://www.iprofesional.com/finanzas/468130-inversores-de-wall-street-estan-mas-preocupados-por-la-ia-que-por-las-elecciones-en-eeuu",
+   "medio": "iProfesional",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nuggets - trail blazers",
+   "busquedas": "200+",
+   "nota": "Nuggets host Trail Blazers on Monday",
+   "nota_url": "https://nuggets.com/news/nuggets-host-trail-blazers-monday-2",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "renault niágara",
+   "busquedas": "100+",
+   "nota": "La nueva camioneta Renault Niagara ya se vende desde $45.700.000",
+   "nota_url": "https://www.iprofesional.com/autos/468104-la-nueva-camioneta-renault-niagara-ya-se-vende-desde-45-700-000",
+   "medio": "iProfesional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rockets - celtics",
+   "busquedas": "100+",
+   "nota": "Rockets look to get one for Ime vs. Celtics",
+   "nota_url": "https://sports.yahoo.com/articles/rockets-look-one-ime-vs-000000724.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juana viale",
+   "busquedas": "200+",
+   "nota": "Julieta Prandi apuntó contra Juana Viale por haberse burlado de su separación: “No encuentro autoridad moral para que opine”",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/personajes/julieta-prandi-apunto-contra-juana-viale-por-haberse-burlado-de-su-separacion-no-encuentro-autoridad-nid02112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "falleció marcela giorgi locutora",
+   "busquedas": "200+",
+   "nota": "De qué murió Marcela Giorgi, la histórica locutora de Radio Mitre",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/10/31/de-que-murio-marcela-giorgi-la-historica-locutora-de-radio-mitre/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "dante ortega",
    "busquedas": "200+",
-   "nota": "Luego del reclamo al aire, Guillermina Valdés fue a ver a Dante Ortega en Es mi sueño: \"Es un maestro para mí\"",
-   "nota_url": "https://www.infobae.com/teleshow/2026/10/31/luego-del-reclamo-al-aire-guillermina-valdes-fue-a-ver-a-dante-ortega-en-es-mi-sueno-es-un-maestro-para-mi/",
-   "medio": "Infobae",
+   "nota": "La felicidad de Guillermina Valdés al ver cantar a su hijo Dante Ortega en Es mi sueño: “Tengo el cortisol por las nubes”",
+   "nota_url": "https://www.eltrecetv.com.ar/es-mi-sueno/2026/10/30/la-felicidad-de-guillermina-valdes-al-ver-cantar-a-su-hijo-dante-ortega-en-es-mi-sueno-tengo-el-cortisol-por-las-nubes/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
@@ -26,72 +80,18 @@
   {
    "tema": "timberwolves - bucks",
    "busquedas": "100+",
-   "nota": "LaMelo Ball Unexpectedly Added to Timberwolves-Bucks Injury Report",
-   "nota_url": "https://roundtable.io/sports/nba/timberwolves/news/minnesota-timberwolves-vs-milwaukee-bucks-injury-report-and-game-preview",
-   "medio": "roundtable.io",
+   "nota": "Game Preview #8: Wolves vs. Bucks Game Thread",
+   "nota_url": "https://sports.yahoo.com/articles/game-preview-8-wolves-vs-130000373.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "spurs - jazz",
-   "busquedas": "200+",
-   "nota": "NCAAW Highlights: Lehigh at UCLA (11/2) Stream of National Football League",
-   "nota_url": "https://www.cbssports.com/watch/nfl/video/ncaaw-highlights-lehigh-at-ucla-112",
-   "medio": "CBS Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "superliga",
    "busquedas": "500+",
-   "nota": "El vóley argentino vuelve a Monteros: el equipo local quiere volver a estar entre los cuatro mejores",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1160054/deportes/voley-argentino-vuelve-monteros-equipo-local-quiere-volver-estar-entre-cuatro-mejores.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cotización dólar blue",
-   "busquedas": "1000+",
-   "nota": "El dólar oficial llegó a un nuevo máximo mientras el riesgo país superó los 800 puntos en medio de tensiones financieras",
-   "nota_url": "https://www.perfil.com/economia/el-dolar-oficial-llego-a-un-nuevo-maximo-mientras-el-riesgo-pais-supero-los-800-puntos-en-medio-de-tensiones-financieras-aVlVu0r0w9nv",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cronicazo",
-   "busquedas": "200+",
-   "nota": "La Gitana lo hizo de nuevo: reveló el número ganador de la Quiniela y desató una ola de cobros en los apostado",
-   "nota_url": "https://www.cronica.com.ar/numerosydestino/la-gitana-lo-hizo-de-nuevo-revelo-el-numero-ganador-de-la-quiniela-y-desato-una-ola-de-cobros-en-los-apostadores/",
-   "medio": "Crónica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima cipolletti",
-   "busquedas": "100+",
-   "nota": "Clima en Cipolletti hoy: cuál es el pronóstico del tiempo para el 2 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/rio-negro/cipolletti/clima-en-cipolletti-hoy-cual-es-el-pronostico-del-tiempo-para-el-2-de-noviembre-de-2026-nid01112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paro",
-   "busquedas": "1000+",
-   "nota": "Quién es Jesús de Miguel, el futbolista español que sufrió un paro cardíaco luego de chocar con un rival en medio de un partido",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/02/quien-es-jesus-de-miguel-el-futbolista-espanol-que-sufrio-un-paro-cardiaco-luego-de-chocar-con-un-rival-en-medio-de-un-partido/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tabla anual del fútbol argentino",
-   "busquedas": "500+",
-   "nota": "Tabla anual: la AFA define la programación de Boca, Rosario Central y Argentinos",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/02/tabla-anual-la-afa-define-la-programacion-de-boca-rosario-central-y-argentinos/",
-   "medio": "Página|12",
+   "nota": "Utah Jazz at San Antonio Spurs NBA Prediction, Picks & Odds for Nov. 2, 2026",
+   "nota_url": "https://athlonsports.com/nba/utah-jazz-at-san-antonio-spurs-nba-prediction-picks-odds-nov2-2026",
+   "medio": "Athlon Sports",
    "relevante": false,
    "temas": []
   }
