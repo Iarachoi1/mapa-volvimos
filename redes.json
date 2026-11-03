@@ -1,25 +1,88 @@
 {
- "actualizado": "03/11 19:28",
+ "actualizado": "03/11 20:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "cronicazo de hoy",
+   "busquedas": "500+",
+   "nota": "El Cronicazo, la \"biblia de los apostadores\", despide la semana con todos los números de la suerte para la Qui",
+   "nota_url": "https://www.cronica.com.ar/numerosydestino/el-cronicazo-la-biblia-de-los-apostadores-despide-la-semana-con-todos-los-numeros-de-la-suerte-para-la-quiniela/",
+   "medio": "Crónica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "edificio",
+   "busquedas": "500+",
+   "nota": "Evacuaron el mismo edificio que se incendió el miércoles pasado en el centro",
+   "nota_url": "https://www.mendozapost.com/policiales/evacuaron-el-mismo-edificio-que-se-incendio-la-semana-pasada-en-el-centro/",
+   "medio": "Mendoza Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "airbnb",
+   "busquedas": "1000+",
+   "nota": "Airbnb Pours Millions Into L.A. City Elections Ahead of Olympics",
+   "nota_url": "https://capitalandmain.com/airbnb-pours-millions-into-l-a-city-elections-ahead-of-olympics",
+   "medio": "Capital & Main",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ramón díaz",
+   "busquedas": "200+",
+   "nota": "La ambigua frase de Stefano Di Carlo sobre la continuidad en River de Leonardo Ponzio",
+   "nota_url": "https://www.tycsports.com/river-plate/ambigua-frase-stefano-di-carlo-sobre-continuidad-river-leonardo-ponzio-id769352.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "play-off",
+   "busquedas": "200+",
+   "nota": "College Football Playoff rankings schedule, release dates",
+   "nota_url": "https://www.ncaa.com/news/football/article/2026-11-03/when-do-college-football-playoff-rankings-come-out",
+   "medio": "NCAA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "us elections",
+   "busquedas": "100+",
+   "nota": "How House districts might shift in the 2026 midterms",
+   "nota_url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis",
+   "medio": "CNN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de feyenoord contra inter milan",
+   "busquedas": "500+",
+   "nota": "The thrilling Champions League clash between Inter Milan and Feyenoord is streaming live today — here’s exact",
+   "nota_url": "https://www.oregonlive.com/tv/2026/11/the-thrilling-champions-league-clash-between-inter-milan-and-feyenoord-is-streaming-live-today-heres-exactly-how-to-watch.html",
+   "medio": "OregonLive.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "posiciones de atlético de madrid contra bayern",
-   "busquedas": "5000+",
-   "nota": "Atlético de Madrid vs. Bayern Munich, por la Champions League, hoy EN VIVO: los alemanes empiezan a sentenciar la historia :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/champions/champions-league-atletico-madrid-bayern-munich-partido_0_7VMzbrB0xQ.html",
-   "medio": "Olé",
+   "busquedas": "10000+",
+   "nota": "¡Le rompió el arco! Laimer fusiló a Oblak para el 2-0 de Bayern vs. Atlético de Madrid",
+   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17472149/video-atletico-madrid-vs-bayern-munich-fecha-4-fase-liga-champions",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "posiciones de fc barcelona contra aston villa",
    "busquedas": "2000+",
-   "nota": "Barcelona vs. Aston Villa: Preview, Predictions and Lineups",
-   "nota_url": "https://www.si.com/soccer/barcelona-vs-aston-villa-preview-predictions-lineups-11-3-26",
-   "medio": "Sports Illustrated",
+   "nota": "Barcelona 3-0 Aston Villa: Raphinha brace ends visitors’ perfect Champions League start",
+   "nota_url": "https://sports.yahoo.com/articles/barcelona-3-0-aston-villa-000000322.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -30,69 +93,6 @@
    "nota_url": "https://www.levernews.com/musks-half-billion-dollar-midterms-bet-to-stay-out-of-trouble/",
    "medio": "The Lever",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lennart karl",
-   "busquedas": "100+",
-   "nota": "Det blåser om Lennart Karl i FC Hollywood",
-   "nota_url": "https://www.svenskafans.com/fotboll/det-blaser-om-lennart-karl-i-fc-hollywood-702677",
-   "medio": "SvenskaFans.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chapecoense - mirassol",
-   "busquedas": "200+",
-   "nota": "Chapecoense x Mirassol",
-   "nota_url": "https://g1.globo.com/sc/santa-catarina/jornal-do-almoco-chapeco/video/chapecoense-x-mirassol-15155729.ghtml",
-   "medio": "G1",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "associazione sportiva roma",
-   "busquedas": "100+",
-   "nota": "DAI CAMPI - Novità Solet! Gud, Zaccagni, Mandragora, KDB, Alaba, Chalobah, Bernabé, Nzola, Fadera e stop Rensch",
-   "nota_url": "https://www.sosfanta.com/news-formazioni/solet-gud-zaccagni-mandragora-de-bruyne-alaba-chalobah-bernabe-nzola-esami-fadera-infortunio-tempi-di-recupero-fantacalcio/",
-   "medio": "SOS Fanta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "united vs",
-   "busquedas": "1000+",
-   "nota": "Manchester United vs. Roma, por la Champions League: hora, cómo ver y probables formaciones",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/champions/manchester-united-vs-roma-ver-champions-league-tv-online-formaciones_0_oT6t6mp5vB.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "buque de guerra",
-   "busquedas": "200+",
-   "nota": "Un buque británico disparó 120 proyectiles en un ejercicio cerca de Malvinas",
-   "nota_url": "https://www.losprimeros.tv/actualidad/un-buque-britanico-disparo-120-proyectiles-en-un-ejercicio-cerca-de-malvinas-_a6aea1c8dbcf08930c418991f",
-   "medio": "Los Primeros TV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rodrigo battaglia",
-   "busquedas": "200+",
-   "nota": "Battaglia entrena diferenciado en Boca por una molestia y es duda para el duelo ante Defensa y Justicia",
-   "nota_url": "https://www.rionegro.com.ar/deportes/battaglia-entrena-diferenciado-en-boca-por-una-molestia-y-es-duda-para-el-duelo-ante-defensa-y-justicia-4783294/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "moratoria",
-   "busquedas": "200+",
-   "nota": "“La histórica decadencia de los jubilados argentinos”",
-   "nota_url": "https://www.clarin.com/cartas-al-pais/historica-decadencia-jubilados-argentinos_0_LnRZLkvFJN.html",
-   "medio": "Clarin.com",
-   "relevante": true,
    "temas": []
   }
  ],
