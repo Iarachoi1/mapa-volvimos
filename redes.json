@@ -1,25 +1,43 @@
 {
- "actualizado": "03/11 11:52",
+ "actualizado": "03/11 12:35",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "novak djokovic",
-   "busquedas": "1000+",
-   "nota": "Novak Djokovic Fires Back at ‘Experts’ With Encouraging Health Update",
-   "nota_url": "https://athlonsports.com/tennis/novak-djokovic-fires-back-at-experts-with-encouraging-health-update",
-   "medio": "Athlon Sports",
+   "tema": "quiniela de tucumán",
+   "busquedas": "500+",
+   "nota": "Quiniela de Tucumán: resultados en VIVO de hoy, jueves 29 de octubre de 2026",
+   "nota_url": "https://radiomitre.cienradios.com/sociedad/quiniela-tucuman-los-resultados-de-hoy-jueves-29-de-octubre-de-2026/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "josé luis gioia sufrió un acv",
+   "tema": "pauny",
+   "busquedas": "200+",
+   "nota": "Trabajadores de Pauny coparon la plaza central de Las Varillas por sueldos adeudados",
+   "nota_url": "https://www.perfil.com/cordoba/trabajadores-de-pauny-coparon-la-plaza-central-de-las-varillas-por-sueldos-adeudados-aF14M6l7B8sy",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lollapalooza 2027",
+   "busquedas": "1000+",
+   "nota": "Lollapalooza Argentina 2027 anuncia su lineup por día",
+   "nota_url": "https://indiehoy.com/noticias/lollapalooza-argentina-2027-anuncia-su-lineup-por-dia/",
+   "medio": "Indie Hoy",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "novak djokovic",
    "busquedas": "2000+",
-   "nota": "José Luis Gioia sufrió un ACV: preocupa la salud del actor",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/02/jose-luis-gioia-sufrio-un-acv-preocupa-la-salud-del-actor/",
-   "medio": "Ciudad Magazine",
+   "nota": "Novak Djokovic Fires Back at ‘Experts’ With Encouraging Health Update",
+   "nota_url": "https://athlonsports.com/tennis/novak-djokovic-fires-back-at-experts-with-encouraging-health-update",
+   "medio": "Athlon Sports",
    "relevante": false,
    "temas": []
   },
@@ -53,45 +71,27 @@
   {
    "tema": "predicción",
    "busquedas": "500+",
-   "nota": "Los mercados de predicciones muestran a los demócratas como grandes favoritos para arrasar en el Congreso.",
-   "nota_url": "https://es.qz.com/prediccin-mercados-demcratas-arrasan-congreso-da-elecciones-110326",
-   "medio": "Quartz",
-   "relevante": true,
+   "nota": "Clima en Baja California: el termómetro bajará hasta los -5 grados este 2 de noviembre",
+   "nota_url": "https://www.tusbuenasnoticias.com/noticias/mexico/2026/11/02/66456-clima-en-baja-california-hoy-2-de-noviembre-de-2026-",
+   "medio": "Tus Buenas Noticias",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "elecciones eeuu",
    "busquedas": "1000+",
-   "nota": "Abren los primeros colegios electorales en Estados Unidos, en una jornada que marcará la presidencia",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/03/abren-los-primeros-colegios-electorales-en-estados-unidos-en-una-jornada-que-marcara-la-presidencia/",
-   "medio": "Infobae",
+   "nota": "Súper martes en EE UU | Ya se vota en una elección de medio término clave para Trump",
+   "nota_url": "https://www.eldia.com/el-mundo/super-martes-una-eleccion-clave-para-trump-el-mundo_1793679684",
+   "medio": "Diario El Día de La Plata",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "3 de noviembre",
-   "busquedas": "1000+",
-   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este martes 3 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/03/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-martes-3-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "terremoto sismo temblor hoy epicentro",
-   "busquedas": "200+",
-   "nota": "Temblor en México: magnitud y epicentro de todos los sismos de hoy, martes 3 de noviembre 2026",
-   "nota_url": "https://www.ambito.com/mexico/informacion-general/temblor-mexico-magnitud-y-epicentro-todos-los-sismos-hoy-martes-3-noviembre-2026-n6340839",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "feriado bancario noviembre 2026",
-   "busquedas": "100+",
-   "nota": "Día del Bancario: cómo funcionan los bancos el viernes 6 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/economia/dia-del-bancario-como-funcionan-los-bancos-el-viernes-6-de-noviembre-nid03112026/",
-   "medio": "La Nación",
+   "busquedas": "2000+",
+   "nota": "El dólar oficial llegó a un nuevo máximo mientras el riesgo país superó los 800 puntos en medio de tensiones financieras",
+   "nota_url": "https://www.perfil.com/economia/el-dolar-oficial-llego-a-un-nuevo-maximo-mientras-el-riesgo-pais-supero-los-800-puntos-en-medio-de-tensiones-financieras-aVlVu0r0w9nv",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   }
