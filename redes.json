@@ -1,34 +1,61 @@
 {
- "actualizado": "03/11 04:59",
+ "actualizado": "03/11 05:53",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "bebé",
+   "busquedas": "200+",
+   "nota": "“Estaba fuera de sí”: así encontraron al hombre acusado de asesinar a su expareja y a cuatro chicos en Chaco",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/02/estaba-fuera-de-si-asi-encontraron-al-hombre-acusado-de-asesinar-a-su-expareja-y-a-cuatro-chicos-en-chaco/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "robo",
+   "busquedas": "100+",
+   "nota": "Hackeo a Binance, su impacto en Argentina y la paradoja cripto de la descentralización",
+   "nota_url": "https://www.ambito.com/opiniones/hackeo-binance-su-impacto-argentina-y-la-paradoja-cripto-la-descentralizacion-n6340656",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "avión",
+   "busquedas": "2000+",
+   "nota": "Identificaron a la copiloto del avión privado que cayó en Palm Beach: era una hija de brasileños de 20 años",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/identificaron-a-la-copiloto-del-avion-privado-que-cayo-en-palm-beach-era-una-brasilena-de-20-anos-nid02112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "iran",
    "busquedas": "100+",
-   "nota": "Guerra entre Irán, Estados Unidos, Israel y Yemen en vivo: últimas noticias de hoy, lunes 2 de noviembre, del conflicto en Medio Oriente",
-   "nota_url": "https://www.eldestapeweb.com/internacionales/guerra-iran-estados-unidos-israel-yemen-vivo-ultimas-noticias-hoy-lunes-2-noviembre-conflicto-medio-oriente-202611284226",
-   "medio": "El Destape",
+   "nota": "US launches strikes on Iranian island ahead of election",
+   "nota_url": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
+   "medio": "BBC",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "sports",
    "busquedas": "200+",
-   "nota": "Rome Odunze leads team in receiving Monday",
-   "nota_url": "https://www.fantasypros.com/nfl/news/617422/rome-odunze-leads-team-receiving-monday.php",
-   "medio": "FantasyPros",
+   "nota": "Champions League Matchday 4 kicks off as Galatasaray, Fenerbahce host European rivals",
+   "nota_url": "https://www.turkiyetoday.com/sports/champions-league-matchday-4-kicks-off-as-galatasaray-fenerbahce-host-european-rivals-3231529",
+   "medio": "Türkiye Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "javier milei",
    "busquedas": "200+",
-   "nota": "La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina",
-   "nota_url": "https://www.cronista.com/economia-politica/la-paradoja-financiera-y-politica-acecha-a-milei-cuales-serian-las-consecuencias-de-una-derrota-de-trump-para-la-argentina/",
-   "medio": "El Cronista",
+   "nota": "El costo de vida, clave en el voto de los estadounidenses",
+   "nota_url": "https://www.laprensa.com.ar/El-costo-de-vida-clave-en-el-voto-de-los-estadounidenses-577485.note.aspx",
+   "medio": "La Prensa Digital",
    "relevante": true,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "El delicado momento que vivió José Luis Gioia mientras grababa \"Menem\": estuvo en coma",
    "nota_url": "https://viapais.com.ar/streaming/jose-luis-gioia-atraveso-delicado-momento-salud-acv-grababa-menem-llego-coma_0_B7wYX9MYL2.html",
    "medio": "Vía País",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paro nacional de transporte",
-   "busquedas": "500+",
-   "nota": "ATE lanza protestas en aeropuertos el 6 de noviembre por incumplimientos en seguridad aeroportuaria: podría haber demoras y cancelaciones",
-   "nota_url": "https://ate.org.ar/261102-protesta-aeropuertos/",
-   "medio": "ATE",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "lakers - heat",
-   "busquedas": "1000+",
-   "nota": "Luka Doncic is off to a spectacular offensive start for the Lakers with a string of 40-point games",
-   "nota_url": "https://www.seattlepi.com/sports/luka-doncic-is-off-to-a-spectacular-offensive-a22508546",
-   "medio": "Seattle Post-Intelligencer",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vix index",
-   "busquedas": "200+",
-   "nota": "State Street Corporation (STT) Stock Forecasts",
-   "nota_url": "https://finance.yahoo.com/research/reports/ARGUS_48649_MarketOutlook_1793013638000",
-   "medio": "Yahoo Finance",
    "relevante": false,
    "temas": []
   }
