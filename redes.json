@@ -1,13 +1,40 @@
 {
- "actualizado": "03/11 00:38",
+ "actualizado": "03/11 01:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "nano villarnovo",
+   "tema": "javier milei",
+   "busquedas": "200+",
+   "nota": "Estados Unidos: las elecciones de medio término ponen a prueba el gobierno de Donald Trump y su agenda futura en la Casa Blanca",
+   "nota_url": "https://www.clarin.com/mundo/estados-unidos-elecciones-medio-termino-ponen-prueba-gobeirno-donald-trump-agenda-futura-casa-blanca_0_ftTxB7592H.html",
+   "medio": "Clarin.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "grizzlies - pelicans",
    "busquedas": "100+",
+   "nota": "Pelicans spoil Ty Jerome’s late-game heroics, hand Grizzlies first loss of season",
+   "nota_url": "https://dailymemphian.com/article/68232",
+   "medio": "Daily Memphian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "karl bushby",
+   "busquedas": "100+",
+   "nota": "Karl Bushby ends 28-year journey at mother's house in Hull",
+   "nota_url": "https://www.bbc.com/news/articles/cwr7yxmep8r3o",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nano villarnovo",
+   "busquedas": "200+",
    "nota": "Murió en Australia un cordobés exjugador de La Tablada y organizan una colecta para la repatriación",
    "nota_url": "https://viapais.com.ar/cordoba/murio-australia-cordobes-exjugador-tablada-organizan-colecta-repatriacion_0_Ef74zYA8Pg.html",
    "medio": "Vía País",
@@ -16,7 +43,7 @@
   },
   {
    "tema": "josé luis gioia",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "José Luis Gioia sufrió un ACV y estuvo en coma: cómo sigue su recuperación",
    "nota_url": "https://tn.com.ar/show/famosos/2026/11/02/jose-luis-gioia-sufrio-un-acv-estuvo-en-coma-y-recibio-el-alta-medica-como-sigue-su-recuperacion/",
    "medio": "TN",
@@ -34,7 +61,7 @@
   },
   {
    "tema": "lakers - heat",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "TST Best Bets: November 2, 2026",
    "nota_url": "https://www.thesportingtribune.com/2026/11/02/tst-best-bets-november-2",
    "medio": "The Sporting Tribune",
@@ -43,55 +70,28 @@
   },
   {
    "tema": "vix index",
-   "busquedas": "100+",
-   "nota": "VIX Rises Above 20 as U.S. Stocks Sell Off and Risk Aversion Grows",
-   "nota_url": "https://www.tokenpost.com/news/investing/44957",
-   "medio": "TOKENPOST",
+   "busquedas": "200+",
+   "nota": "State Street Corporation (STT) Stock Forecasts",
+   "nota_url": "https://finance.yahoo.com/research/reports/ARGUS_48649_MarketOutlook_1793013638000",
+   "medio": "Yahoo Finance",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "warriors - suns",
    "busquedas": "500+",
-   "nota": "Stephen Curry (knee) available Monday",
-   "nota_url": "https://www.fantasypros.com/nba/news/617361/stephen-curry-knee-available-monday.php",
-   "medio": "FantasyPros",
+   "nota": "GSW injury report: Gui Santos, Al Horford and more ahead of game vs. Suns",
+   "nota_url": "https://sports.yahoo.com/articles/gsw-injury-report-gui-santos-002006557.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "promedio industrial dow jones",
-   "busquedas": "200+",
-   "nota": "El Nasdaq cayó un 1,1% y arrastró al S&P 500 tras perder el repunte inicial",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/02/el-nasdaq-cayo-un-11-y-arrastro-al-sp-500-tras-perder-el-repunte-inicial/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - trail blazers",
-   "busquedas": "200+",
-   "nota": "Nuggets host Trail Blazers on Monday",
-   "nota_url": "https://nuggets.com/news/nuggets-host-trail-blazers-on-monday-2",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "renault niágara",
-   "busquedas": "200+",
-   "nota": "La nueva camioneta Renault Niagara ya se vende desde $45.700.000",
-   "nota_url": "https://www.iprofesional.com/autos/468104-la-nueva-camioneta-renault-niagara-ya-se-vende-desde-45-700-000",
-   "medio": "iProfesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fernanda iglesias",
-   "busquedas": "100+",
-   "nota": "Juana Viale se metió en el escándalo de Andy Kustetzoff en PH: Podemos Hablar y Yanina Latorre la liquidó",
-   "nota_url": "https://www.c5n.com/ratingcero/juana-viale-se-metio-el-escandalo-andy-kustetzoff-ph-podemos-hablar-y-yanina-latorre-la-liquido-n253232",
-   "medio": "C5N",
+   "tema": "liga profesional",
+   "busquedas": "500+",
+   "nota": "La Liga Profesional definió cuándo se jugará la última fecha del Clausura: Boca, Rosario Central y Argentinos, en simultáneo por el título",
+   "nota_url": "https://www.clarin.com/deportes/liga-profesional-definio-jugara-ultima-fecha-clausura-boca-rosario-central-argentinos-simultaneo-titulo_0_RHDFbgAvMz.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
