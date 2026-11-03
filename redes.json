@@ -1,43 +1,43 @@
 {
- "actualizado": "03/11 02:41",
+ "actualizado": "03/11 03:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "sports",
+   "tema": "iran",
    "busquedas": "100+",
-   "nota": "Tracking the leader for DraftKings King of the End Zone: Monday 11/2/26",
-   "nota_url": "https://dknetwork.draftkings.com/2026/11/02/tracking-the-leader-for-draftkings-king-of-the-end-zone-monday-11-2-26/",
-   "medio": "DraftKings Network",
+   "nota": "Guerra entre Irán, Estados Unidos, Israel y Yemen en vivo: últimas noticias de hoy, lunes 2 de noviembre, del conflicto en Medio Oriente",
+   "nota_url": "https://www.eldestapeweb.com/internacionales/guerra-iran-estados-unidos-israel-yemen-vivo-ultimas-noticias-hoy-lunes-2-noviembre-conflicto-medio-oriente-202611284226",
+   "medio": "El Destape",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "javier milei",
    "busquedas": "200+",
-   "nota": "Cómo es el código de vestimenta recomendado a diputados, senadores y dirigentes para el encuentro con el Papa",
-   "nota_url": "https://www.infobae.com/politica/2026/11/02/como-es-el-codigo-de-vestimenta-recomendado-a-diputados-senadores-y-dirigentes-para-el-encuentro-con-el-papa/",
-   "medio": "Infobae",
+   "nota": "Javier Milei celebró la visita del Papa a la Argentina: “Servirá para consolidar los valores judeocristianos”",
+   "nota_url": "https://tn.com.ar/politica/2026/11/02/javier-milei-celebro-la-visita-del-papa-a-la-argentina-servira-para-consolidar-los-valores-judeocristianos/",
+   "medio": "TN",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "grizzlies - pelicans",
    "busquedas": "100+",
-   "nota": "New Orleans Pelicans at Memphis Grizzlies - NBA Game Summary - Nov 02, 2026",
-   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018726/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=12",
-   "medio": "USA Today",
+   "nota": "Pelicans Survive 4th Quarter Collapse To Become First Team To Beat Grizzlies",
+   "nota_url": "https://roundtable.io/sports/nba/news/TmVoGojOyNRAlyul72dB",
+   "medio": "roundtable.io",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "karl bushby",
    "busquedas": "100+",
-   "nota": "Karl Bushby ends 28-year journey at mother's house in Hull",
-   "nota_url": "https://www.bbc.com/news/articles/cwr7yxmep8r3o",
-   "medio": "BBC",
+   "nota": "Increíble. Caminó 50 mil kilómetros durante 28 años para volver a su casa: la historia de Karl Bushby",
+   "nota_url": "https://www.lavoz.com.ar/mundo/camino-50-mil-kilometros-28-anos-volver-casa-historia-karl-bushby_0_SirceRLmE6.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
@@ -53,9 +53,9 @@
   {
    "tema": "josé luis gioia",
    "busquedas": "500+",
-   "nota": "José Luis Gioia sufrió un ACV: preocupa la salud del actor",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/02/jose-luis-gioia-sufrio-un-acv-preocupa-la-salud-del-actor/",
-   "medio": "Ciudad Magazine",
+   "nota": "El delicado momento que vivió José Luis Gioia mientras grababa \"Menem\": estuvo en coma",
+   "nota_url": "https://viapais.com.ar/streaming/jose-luis-gioia-atraveso-delicado-momento-salud-acv-grababa-menem-llego-coma_0_B7wYX9MYL2.html",
+   "medio": "Vía País",
    "relevante": false,
    "temas": []
   },
@@ -70,10 +70,10 @@
   },
   {
    "tema": "lakers - heat",
-   "busquedas": "500+",
-   "nota": "TST Best Bets: November 2, 2026",
-   "nota_url": "https://www.thesportingtribune.com/2026/11/02/tst-best-bets-november-2",
-   "medio": "The Sporting Tribune",
+   "busquedas": "1000+",
+   "nota": "GAME THREAD: Miami Heat (2-4) seek third straight win in showdown with Luka Dončić, L.A. Lakers (5-2)",
+   "nota_url": "https://hothothoops.com/2026/11/02/game-thread-miami-heat-2-4-seek-third-straight-win-in-showdown-with-luka-doncic-l-a-lakers-5-2/",
+   "medio": "Hot Hot Hoops",
    "relevante": false,
    "temas": []
   },
@@ -87,11 +87,11 @@
    "temas": []
   },
   {
-   "tema": "warriors - suns",
-   "busquedas": "1000+",
-   "nota": "GSW injury report: Gui Santos, Al Horford and more ahead of game vs. Suns",
-   "nota_url": "https://sports.yahoo.com/articles/gsw-injury-report-gui-santos-002006557.html",
-   "medio": "Yahoo Sports",
+   "tema": "posiciones de atlético tucumán contra argentinos juniors",
+   "busquedas": "50000+",
+   "nota": "El empujón que derivó en penal para Atlético Tucumán en el duelo ante Argentinos Juniors",
+   "nota_url": "https://www.tycsports.com/video/liga-profesional-de-futbol/el-empujon-que-derivo-en-penal-para-atletico-tucuman-en-el-duelo-ante-argentinos-juniors-id1002377.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   }
