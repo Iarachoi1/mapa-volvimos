@@ -1,13 +1,76 @@
 {
- "actualizado": "03/11 09:45",
+ "actualizado": "03/11 10:59",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "atp paris",
+   "tema": "paro nacional",
+   "busquedas": "200+",
+   "nota": "Paro nacional de trabajadoras sexuales tras cuatro femicidios: denuncian la precariedad y la clandestinidad",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/paro-nacional-trabajadoras-sexuales-cuatro-femicidios-denuncian-precariedad-clandestinidad-202611310171",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "predicción",
+   "busquedas": "200+",
+   "nota": "Apuestas electorales de Kalshi cerca de 1.100 millones tras 65.000",
+   "nota_url": "https://financefeeds.com/es/kalshi-volumen-octubre-elecciones/",
+   "medio": "FinanceFeeds",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "elecciones eeuu",
+   "busquedas": "500+",
+   "nota": "Súper martes en EE UU | Ya se vota en una elección de medio término clave para Trump",
+   "nota_url": "https://www.eldia.com/el-mundo/super-martes-una-eleccion-clave-para-trump-el-mundo_1793679684",
+   "medio": "Diario El Día de La Plata",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "3 de noviembre",
+   "busquedas": "1000+",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este martes 3 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/03/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-martes-3-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "terremoto sismo temblor hoy epicentro",
+   "busquedas": "200+",
+   "nota": "Temblor en México: magnitud y epicentro de todos los sismos de hoy, lunes 2 de noviembre 2026",
+   "nota_url": "https://www.ambito.com/mexico/informacion-general/temblor-mexico-magnitud-y-epicentro-todos-los-sismos-hoy-lunes-2-noviembre-2026-n6340421",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "feriado bancario noviembre 2026",
    "busquedas": "100+",
+   "nota": "Los bancos estarán seis días sin atención presencial: qué pasará con cajeros y transferencias",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/02/los-bancos-estaran-seis-dias-sin-atencion-presencial-que-pasara-con-cajeros-y-transferencias-n528606/",
+   "medio": "La Brújula 24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "master 1000 paris",
+   "busquedas": "100+",
+   "nota": "Rafael Jódar se enfrenta a Alejandro Tabilo en el Masters 1000 de París",
+   "nota_url": "https://elecos.com.ar/rafael-jodar-se-enfrenta-a-alejandro-tabilo-en-el-masters-1000-de-paris",
+   "medio": "Ecos Diarios Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atp paris",
+   "busquedas": "200+",
    "nota": "PRONOS PARIS RMC Le pari tennis d’Eric Salliot du 2 novembre – ATP 1000 Paris",
    "nota_url": "https://rmcsport.bfmtv.com/pari-sportif/pronos-paris-rmc-le-pari-tennis-d-eric-salliot-du-2-novembre-atp-1000-paris_AN-202611020531.html",
    "medio": "RMC Sport",
@@ -15,83 +78,20 @@
    "temas": []
   },
   {
-   "tema": "cerundolo",
-   "busquedas": "200+",
-   "nota": "Arthur Rinderknech vs. Francisco Cerundolo prediction, odds, picks for ATP Paris Masters 2026",
-   "nota_url": "https://www.dimers.com/tennis/news/arthur-rinderknech-vs-francisco-cerundolo-tennis-prediction-atp-paris-masters-2026-ac",
-   "medio": "Dimers",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "ueno bank",
-   "busquedas": "100+",
-   "nota": "Ejecutivo confirma negociaciones para resolver el caso ueno bank",
-   "nota_url": "https://www.ultimahora.com/ejecutivo-confirma-negociaciones-para-resolver-el-caso-ueno-bank",
-   "medio": "Última Hora",
-   "relevante": false,
+   "busquedas": "200+",
+   "nota": "El BCP interviene Ueno Bank y Carvallo revela que ya firmó su renuncia",
+   "nota_url": "https://www.lapoliticaonline.com/paraguay/empresas-py/el-bcp-interviene-ueno-bank-y-carvallo-revela-que-ya-firmo-su-renuncia/",
+   "medio": "La Política Online",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "lenacapavir",
    "busquedas": "100+",
    "nota": "Approval of a cheap version of HIV-prevention shot lenacapavir raises hopes in low-income countries",
-   "nota_url": "https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6",
-   "medio": "AP News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "river vs aldosivi",
-   "busquedas": "2000+",
-   "nota": "Día y horario para la visita de River a Aldosivi por la última fecha del Torneo Clausura 2026",
-   "nota_url": "https://bolavip.com/ar/river/dia-y-horario-para-la-visita-de-river-a-aldosivi-por-la-ultima-fecha-del-torneo-clausura-2026",
-   "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marcelo bonelli",
-   "busquedas": "500+",
-   "nota": "De qué murió Marcela Giorgi, la histórica locutora de Radio Mitre",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/10/31/de-que-murio-marcela-giorgi-la-historica-locutora-de-radio-mitre/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tomás martín etcheverry",
-   "busquedas": "500+",
-   "nota": "Masters 1000 de París: a qué hora juegan Cerúndolo, Etcheverry y Djokovic y dónde verlos",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "flores",
-   "busquedas": "500+",
-   "nota": "Astros Hire Randy Flores As General Manager",
-   "nota_url": "https://www.mlbtraderumors.com/2026/10/astros-hire-randy-flores-as-general-manager.html",
-   "medio": "MLB Trade Rumors",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canal 13",
-   "busquedas": "500+",
-   "nota": "Insólito | Su expareja intentó asesinarla de cinco disparos y ella lo perdonó y besó durante el juicio",
-   "nota_url": "https://nuevodiarioweb.com.ar/policiales/info-santiago-estero-insolito-su-expareja-intento-asesinarla-de-cinco-disparos-y-ella-lo-perdono-y-beso-durante-el-juicio.htm",
-   "medio": "Nuevo Diario Web",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "james gunn",
-   "busquedas": "200+",
-   "nota": "James Gunn Explains the Difference Between DC Studios and Marvel Movies",
-   "nota_url": "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/",
-   "medio": "Polygon.com",
+   "nota_url": "https://abcnews.com/Business/wireStory/approval-cheap-version-hiv-prevention-shot-lenacapavir-raises-137767308",
+   "medio": "ABC News - Breaking News, Latest News and Videos",
    "relevante": false,
    "temas": []
   }
