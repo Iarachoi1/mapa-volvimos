@@ -1,5 +1,5 @@
 {
- "actualizado": "03/11 03:47",
+ "actualizado": "03/11 04:59",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -15,11 +15,20 @@
    "temas": []
   },
   {
+   "tema": "sports",
+   "busquedas": "200+",
+   "nota": "Rome Odunze leads team in receiving Monday",
+   "nota_url": "https://www.fantasypros.com/nfl/news/617422/rome-odunze-leads-team-receiving-monday.php",
+   "medio": "FantasyPros",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "javier milei",
    "busquedas": "200+",
-   "nota": "Javier Milei celebró la visita del Papa a la Argentina: “Servirá para consolidar los valores judeocristianos”",
-   "nota_url": "https://tn.com.ar/politica/2026/11/02/javier-milei-celebro-la-visita-del-papa-a-la-argentina-servira-para-consolidar-los-valores-judeocristianos/",
-   "medio": "TN",
+   "nota": "La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina",
+   "nota_url": "https://www.cronista.com/economia-politica/la-paradoja-financiera-y-politica-acecha-a-milei-cuales-serian-las-consecuencias-de-una-derrota-de-trump-para-la-argentina/",
+   "medio": "El Cronista",
    "relevante": true,
    "temas": []
   },
@@ -43,7 +52,7 @@
   },
   {
    "tema": "nano villarnovo",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Murió en Australia un cordobés exjugador de La Tablada y organizan una colecta para la repatriación",
    "nota_url": "https://viapais.com.ar/cordoba/murio-australia-cordobes-exjugador-tablada-organizan-colecta-repatriacion_0_Ef74zYA8Pg.html",
    "medio": "Vía País",
@@ -52,7 +61,7 @@
   },
   {
    "tema": "josé luis gioia",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "El delicado momento que vivió José Luis Gioia mientras grababa \"Menem\": estuvo en coma",
    "nota_url": "https://viapais.com.ar/streaming/jose-luis-gioia-atraveso-delicado-momento-salud-acv-grababa-menem-llego-coma_0_B7wYX9MYL2.html",
    "medio": "Vía País",
@@ -71,9 +80,9 @@
   {
    "tema": "lakers - heat",
    "busquedas": "1000+",
-   "nota": "GAME THREAD: Miami Heat (2-4) seek third straight win in showdown with Luka Dončić, L.A. Lakers (5-2)",
-   "nota_url": "https://hothothoops.com/2026/11/02/game-thread-miami-heat-2-4-seek-third-straight-win-in-showdown-with-luka-doncic-l-a-lakers-5-2/",
-   "medio": "Hot Hot Hoops",
+   "nota": "Luka Doncic is off to a spectacular offensive start for the Lakers with a string of 40-point games",
+   "nota_url": "https://www.seattlepi.com/sports/luka-doncic-is-off-to-a-spectacular-offensive-a22508546",
+   "medio": "Seattle Post-Intelligencer",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "State Street Corporation (STT) Stock Forecasts",
    "nota_url": "https://finance.yahoo.com/research/reports/ARGUS_48649_MarketOutlook_1793013638000",
    "medio": "Yahoo Finance",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de atlético tucumán contra argentinos juniors",
-   "busquedas": "50000+",
-   "nota": "El empujón que derivó en penal para Atlético Tucumán en el duelo ante Argentinos Juniors",
-   "nota_url": "https://www.tycsports.com/video/liga-profesional-de-futbol/el-empujon-que-derivo-en-penal-para-atletico-tucuman-en-el-duelo-ante-argentinos-juniors-id1002377.html",
-   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   }
