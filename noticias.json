@@ -1,278 +1,109 @@
 {
- "semana": "2 de noviembre de 2026",
- "fecha": "2026-11-02",
- "actualizado": "02/11 21:33",
+ "semana": "3 de noviembre de 2026",
+ "fecha": "2026-11-03",
+ "actualizado": "03/11 06:45",
  "items": {
-  "NACIONAL": {
-   "top3": [
-    {
-     "titulo": "Cristina Kirchner contó que estudia chino y quiere ser candidata",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "02/11/2026",
-     "url": "https://bardeo.news/politica/cristina-kirchner-conto-que-estudia-chino-y-quiere-ser-candidata_a6ae88df309dee0a0b9c41eb6"
-    },
-    {
-     "titulo": "Senadora libertaria vs. Sietecase: “Los periodistas son mentirosos”",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "02/11/2026",
-     "url": "https://bardeo.news/politica/senadora-libertaria-vs--sietecase---los-periodistas-son-mentirosos-_a6ae8d282bcf08930c4055dba"
-    },
-    {
-     "titulo": "Benetton vendió 900 mil hectáreas en la Patagonia",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "02/11/2026",
-     "url": "https://cenital.com/benetton-vendio-900-mil-hectareas-en-la-patagonia/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    }
-   ],
-   "imagen": []
-  },
   "CABA": {
    "top3": [
     {
-     "titulo": "Dónde voto: la Cámara Electoral habilitó el padrón electoral provisorio para las elecciones presidenciales 2027",
+     "titulo": "El peronismo oficializó su disputa electoral: del anuncio de Cristina Kirchner a la postura inquebrantable de Kicillof",
      "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/donde-voto-la-camara-electoral-habilito-el-padron-electoral-provisorio-para-las-elecciones-presidenciales-2027/",
-     "tag": "Calendario electoral · También en La Nación, El Parlamentario"
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/",
+     "tag": "Calendario electoral"
     },
     {
-     "titulo": "El Gobierno niega que la reelección indefinida de intendentes sea parte de un acuerdo bonaerense: qué dicen el PRO y la UCR",
-     "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/el-gobierno-niega-que-la-reeleccion-indefinida-de-intendentes-sea-parte-de-un-acuerdo-bonaerense-que-dicen-el-pro-y-la-ucr/",
-     "tag": "Política"
+     "titulo": "Elecciones de medio termino en Estados Unidos Donald Trump: \"El Partido Demócrata ha nombrado a los candidatos más extremistas y peligrosos de la historia estadounidense\"",
+     "medio": "Perfil",
+     "fecha": "03/11/2026",
+     "url": "https://www.perfil.com/politica/donald-trump-el-partido-democrata-ha-nombrado-a-los-candidatos-mas-extremistas-y-peligrosos-de-la-historia-estadounidense-aA84K6T5ccMj",
+     "tag": "Gabinete"
     },
     {
-     "titulo": "Oficializaron la designación del nuevo subsecretario de Ciencia y Tecnología",
-     "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/oficializaron-la-designacion-del-nuevo-subsecretario-de-ciencia-y-tecnologia/",
-     "tag": "Gabinete · También en Perfil"
-    },
-    {
-     "titulo": "Paro de subtes: metrodelegados definen medidas de fuerza por conflicto salarial",
-     "medio": "El Destape",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/paro-subtes-metrodelegados-definen-medidas-fuerza-conflicto-salarial-2026112131246",
+     "titulo": "Financiamiento Universitario El gremio Universitario no docente anunció tres paros de 24 horas en reclamo de mejoras salariales",
+     "medio": "Perfil",
+     "fecha": "03/11/2026",
+     "url": "https://www.perfil.com/politica/el-gremio-universitario-no-docente-anuncio-tres-paros-de-24-horas-en-reclamo-de-mejoras-salariales-avi5S8U2RgnG",
      "tag": "Ciudad"
     },
     {
-     "titulo": "La Justicia Federal intimó a Vialidad Nacional y a Economía por los fondos para reparar las rutas de Entre Ríos",
+     "titulo": "Kicillof convocó a una reunión del PJ bonaerense en medio de la creciente tensión interna",
      "medio": "El Destape",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/justicia-federal-intimo-vialidad-nacional-economia-fondos-reparar-rutas-rios-2026112123333",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/kicillof-convoco-reunion-pj-bonaerense-medio-creciente-tension-interna-20261130554",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El impacto de las elecciones de EE.UU. en la relación de Milei con aliados y los \"matices\" de Macri",
+     "medio": "El Destape",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/impacto-elecciones-ee-uu-relacion-milei-aliados-matices-macri-20261130554",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Bloqueos sindicales: la diputada Verónica Razzini declaró durante cinco horas en el juicio por la protesta de Camioneros",
+     "medio": "Infobae",
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/bloqueos-sindicales-la-diputada-veronica-razzini-declaro-durante-cinco-horas-en-el-juicio-por-la-protesta-de-camioneros/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El Senado debate la nueva ley de discapacidad y hay dudas por el número para el dictamen",
+     "medio": "Infobae",
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/el-senado-debate-la-nueva-ley-de-discapacidad-y-hay-dudas-por-el-numero-para-el-dictamen/",
      "tag": "Gestión"
     },
     {
-     "titulo": "Pausa en Diputados. Las elecciones en Estados Unidos postergan el avance del presupuesto 2027",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/diputados-las-elecciones-en-estados-unidos-postergan-el-avance-del-presupuesto-2027-nid02112026/",
-     "tag": "Calendario electoral"
+     "titulo": "La visita del Papa también impacta en el Congreso: apuran el tema de discapacidad y renace el proyecto sobre ludopatía",
+     "medio": "Infobae",
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/la-visita-del-papa-tambien-impacta-en-el-congreso-apuran-el-tema-de-discapacidad-y-renace-el-proyecto-sobre-ludopatia/",
+     "tag": "Gestión"
     },
     {
-     "titulo": "Gobernadores de Provincias Unidas buscan suspender las PASO para sumar su candidato",
-     "medio": "El Destape",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/gobernadores-provincias-unidas-buscan-suspender-paso-sumar-candidato-2026112111615",
+     "titulo": "Un puesto fundamental El Gobierno nombró al nuevo secretario de Relaciones Exteriores: quién ocupará el cargo",
+     "medio": "Perfil",
+     "fecha": "03/11/2026",
+     "url": "https://www.perfil.com/politica/el-gobierno-nombro-al-nuevo-secretario-de-relaciones-exteriores-quien-ocupara-el-cargo-an5mR5W7G4Px",
+     "tag": "Gabinete"
+    },
+    {
+     "titulo": "Milei volvió a felicitar a Netanyahu y cuestionó a la izquierda internacional: “No defendemos a Israel por un capricho personal”",
+     "medio": "Infobae",
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/milei-volvio-a-felicitar-a-netanyahu-y-cuestiono-a-la-izquierda-internacional-no-defendemos-a-israel-por-un-capricho-personal/",
      "tag": "Política"
-    },
-    {
-     "titulo": "ELECCIONES 2026 Weretilneck y Cortés celebraron en Bariloche y dieron el primer paso para buscar la reelección en Río Negro Por Juan Gorosito",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "La interna del PJ. El principal alfil de Kicillof reivindicó las PASO luego de conocerse que Cristina quiere postularse",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Elecciones. El Gobierno se queda sin tiempo para eliminar las PASO y no consigue destrabar la negociación con la UCR",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-se-queda-sin-tiempo-para-eliminar-las-paso-y-todavia-no-consigue-destrabar-la-nid02112026/",
-     "tag": "Calendario electoral"
     }
    ],
    "imagen": [
     {
-     "titulo": "Cristina Kirchner no descartó ser candidata a presidenta en 2027 y enfrentar a Milei: “Cuando recupere mis derechos políticos, ¿por qué no?”",
-     "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/cristina-kirchner-no-descarto-ser-candidata-a-presidenta-en-2027-y-enfrentar-a-milei-cuando-recupere-mis-derechos-politicos-por-que-no/",
-     "tag": "También en El Destape"
-    },
-    {
-     "titulo": "Entrevista con The Washington Post. Cristina Kirchner reapareció, criticó a la Justicia y dijo que quiere ser candidata en 2027",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-le-dio-una-entrevista-al-the-washington-post-y-cuestiono-a-la-justicia-por-su-nid02112026/",
-     "tag": "También en La Politica Online"
-    },
-    {
-     "titulo": "DISCUSIÓN 2027 El PRO rechaza las reelecciones de intendentes y Kicillof necesita al kirchnerismo y amigos Por Juan Rubinacci",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/conurbano/el-pro-rechaza-las-reelecciones-intendentes-y-kicillof-necesita-al-kirchnerismo-y-amigos-n5427904"
-    },
-    {
-     "titulo": "DISCUSIÓN 2027 Uñac pasó por La Rioja, se reunió con Quintela y avanza en la construcción de su candidatura Por Letra P | Periodismo Político",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/politica/sergio-unac-paso-la-rioja-se-reunio-ricardo-quintela-y-avanza-la-construccion-su-candidatura-n5427900"
+     "titulo": "OPINIÓN PÚBLICA Encuesta: si las elecciones fueran hoy, ¿a quién votarían los argentinos? Felipe Leibovich",
+     "medio": "Perfil",
+     "fecha": "03/11/2026",
+     "url": "https://www.perfil.com/politica/encuesta-si-las-elecciones-fueran-hoy-a-quien-votarian-los-argentinos-an4Eu1T75w3T"
     }
    ]
   },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "El Gobierno niega que la reelección indefinida de intendentes sea parte de un acuerdo bonaerense: qué dicen el PRO y la UCR",
+     "titulo": "El peronismo oficializó su disputa electoral: del anuncio de Cristina Kirchner a la postura inquebrantable de Kicillof",
      "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/el-gobierno-niega-que-la-reeleccion-indefinida-de-intendentes-sea-parte-de-un-acuerdo-bonaerense-que-dicen-el-pro-y-la-ucr/"
+     "fecha": "03/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/"
     },
     {
-     "titulo": "Cristina Kirchner desafía a Milei y pone la mira en las elecciones de 2027 DEFINICIONES",
-     "medio": "La Tecla",
-     "fecha": "02/11/2026",
-     "url": "https://www.latecla.info/170857-cristina-kirchner-desafia-a-milei-y-pone-la-mira-en-las-elecciones-de-2027"
+     "titulo": "Kicillof convocó a una reunión del PJ bonaerense en medio de la creciente tensión interna",
+     "medio": "El Destape",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/kicillof-convoco-reunion-pj-bonaerense-medio-creciente-tension-interna-20261130554"
     },
     {
-     "titulo": "La interna del PJ. El principal alfil de Kicillof reivindicó las PASO luego de conocerse que Cristina quiere postularse",
-     "medio": "La Nación",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Polarización, un mensaje a Kicillof y la disputa por 2027: la lectura del Gobierno ante la intención de Cristina Kirchner de postularse",
-     "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/polarizacion-un-mensaje-a-kicillof-y-la-disputa-por-2027-la-lectura-del-gobierno-ante-la-intencion-de-cristina-kirchner-de-postularse/"
-    },
-    {
-     "titulo": "DISCUSIÓN 2027 El PRO rechaza las reelecciones de intendentes y Kicillof necesita al kirchnerismo y amigos Por Juan Rubinacci",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/conurbano/el-pro-rechaza-las-reelecciones-intendentes-y-kicillof-necesita-al-kirchnerismo-y-amigos-n5427904"
-    },
-    {
-     "titulo": "Cristina agitó su candidatura para el 2027 y en la Gobernación desafían con las PASO INTERNA Andrés Sosa",
-     "medio": "La Tecla",
-     "fecha": "02/11/2026",
-     "url": "https://www.latecla.info/170861-cristina-agito-su-candidatura-para-el-2027-y-en-la-gobernacion-desafian-con-las-paso"
-    },
-    {
-     "titulo": "¿Interna con Cristina y reelección indefinida de intendentes? Bianco fijó la postura del kicillofismo para 2027",
+     "titulo": "Kicillof recibió a autoridades del Colegio de Magistrados y funcionarios del Poder Judicial bonaerense",
      "medio": "Noticia 1",
-     "fecha": "02/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/interna-con-cristina-y-reeleccion-indefinida-de-intendentes-bianco-fijo-la-postura-del-kicillofismo-para-2027"
-    }
-   ]
-  },
-  "Catamarca": {
-   "top3": [
-    {
-     "titulo": "Luego de una reunión con el Ejecutivo municipal El presupuesto 2027 de Valle Viejo empieza a tratarse en el Concejo",
-     "medio": "El Ancasti",
-     "fecha": "02/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/el-presupuesto-2027-valle-viejo-empieza-tratarse-el-concejo-n625225"
-    },
-    {
-     "titulo": "Riesgo país, guerra y petróleo Los efectos de las elecciones de EE.UU.",
-     "medio": "El Ancasti",
-     "fecha": "02/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/los-efectos-las-elecciones-eeuu-n625252"
-    },
-    {
-     "titulo": "Revista Noticias El insólito video de Karina Milei con un perro detector de narcóticos La Secretaria General de la Presidencia fue retratada jugando con un can de la PFA en Catamarca.",
-     "medio": "Perfil",
-     "fecha": "02/11/2026",
-     "url": "https://noticias.perfil.com/noticias/politica/el-insolito-video-de-karina-milei-con-un-perro-detector-de-narcoticos.phtml"
-    }
-   ],
-   "imagen": []
-  },
-  "Chubut": {
-   "top3": [
-    {
-     "titulo": "Presupuesto 2027: el oficialismo negocia para cerrar un acuerdo",
-     "medio": "Diario Jornada",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariojornada.com.ar/426347/politica/presupuesto_2027_el_oficialismo_negocia_para_cerrar_un_acuerdo"
-    },
-    {
-     "titulo": "El personal universitario no docente vuelve al paro",
-     "medio": "Diario Jornada",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariojornada.com.ar/426365/politica/el_personal_universitario_no_docente_vuelve_al_paro",
-     "tag": "También en El Chubut"
-    },
-    {
-     "titulo": "Biss no descarta competir por la gobernación y profundizó sus diferencias con el gobierno de Torres",
-     "medio": "ADN Sur",
-     "fecha": "02/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/biss-no-descarta-competir-por-la-gobernacion-y-profundizo-sus-diferencias-con-el-gobierno-de-torres_a6ae9025dd2522645e695177c"
-    }
-   ],
-   "imagen": []
-  },
-  "Córdoba": {
-   "top3": [
-    {
-     "titulo": "Publicaron el padrón provisorio para las elecciones 2027: cómo y hasta cuándo consultar",
-     "medio": "ElDoce",
-     "fecha": "02/11/2026",
-     "url": "https://eldoce.tv/politica/2026/11/02/publicaron-el-padron-provisorio-para-las-elecciones-2027-como-y-hasta-cuando-consultar/"
-    },
-    {
-     "titulo": "Milei invitó a todos los diputados y senadores al agasajo a León XIV en el Palacio Libertad",
-     "medio": "Hoy Dia",
-     "fecha": "02/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/milei-invito-a-todos-los-diputados-y-senadores-al-agasajo-a-leon-xiv-en-el-palacio-libertad/"
-    },
-    {
-     "titulo": "El entorno de Kicillof le respondió a CFK ante la posibilidad de una candidatura y reivindicó las Paso",
-     "medio": "Hoy Dia",
-     "fecha": "02/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/el-entorno-de-kicillof-le-respondio-a-cfk-ante-la-posibilidad-de-una-candidatura-y-reivindico-las-paso/"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Elecciones. Cristina Kirchner dejó abierta una candidatura en 2027 para enfrentar a Milei: \"¿Por qué no?\"",
-     "medio": "Cadena3",
-     "fecha": "02/11/2026",
-     "url": "https://www.cadena3.com/noticia/juntos/cristina-kirchner-dejo-abierta-una-candidatura-en-2027-para-enfrentar-a-milei-por-que-no_609313"
-    }
-   ]
-  },
-  "Corrientes": {
-   "top3": [
-    {
-     "titulo": "El Niño: Yacyretá mantiene interrumpido el paso entre Argentina y Paraguay y se incrementa la cantidad de autoevacuados en Corrientes",
-     "medio": "Infobae",
-     "fecha": "02/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/02/el-nino-yacyreta-mantiene-interrumpido-el-paso-entre-argentina-y-paraguay-y-se-incrementa-la-cantidad-de-auto-evacuados-en-corrientes/"
-    },
-    {
-     "titulo": "El Gobierno invitará a los gobernadores al encuentro con el papa León XIV",
-     "medio": "El Litoral",
-     "fecha": "02/11/2026",
-     "url": "https://www.ellitoral.com.ar/nacional/2026-11-2-8-15-0-el-gobierno-invitara-a-los-gobernadores-al-encuentro-con-el-papa-leon-xiv"
-    },
-    {
-     "titulo": "Padrón provisorio 2027: se habilitó la consulta hasta fin de noviembre",
-     "medio": "El Litoral",
-     "fecha": "02/11/2026",
-     "url": "https://www.ellitoral.com.ar/nacional/2026-11-2-12-45-0-padron-provisorio-2027-se-habilito-la-consulta-hasta-fin-de-noviebre"
+     "fecha": "03/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/kicillof-recibio-a-autoridades-del-colegio-de-magistrados-y-funcionarios-del-poder-judicial-bonaerense"
     }
    ],
    "imagen": []
@@ -280,55 +111,16 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "El gobierno provincial convocó a los gremios docentes a la mesa paritaria",
+     "titulo": "Se retoma el pago de haberes para activos y jubilados de la administración pública entrerriana",
      "medio": "El Once",
-     "fecha": "02/11/2026",
-     "url": "https://www.elonce.com/politica/el-gobierno-provincial-convoco-a-los-docentes-a-la-mesa-paritaria.htm",
-     "tag": "También en Ahora, AFP Digital y 1 más"
+     "fecha": "03/11/2026",
+     "url": "https://www.elonce.com/politica/cronograma-se-retoma-el-pago-de-haberes-en-entre-rios.htm"
     },
     {
-     "titulo": "Dónde voto: la Cámara Electoral habilitó el padrón electoral provisorio para las elecciones presidenciales 2027",
-     "medio": "AFP Digital",
-     "fecha": "02/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/02/477375-donde-voto-la-camara-electoral-habilito-el-padron-electoral-provisorio-para-las-elecciones-presidenciales-2027",
-     "tag": "También en Ahora"
-    },
-    {
-     "titulo": "Rutas: admiten amparo de legisladores entrerrianos por la retención indebida de fondos",
-     "medio": "Ahora",
-     "fecha": "02/11/2026",
-     "url": "https://ahora.com.ar/politica/rutas-admiten-amparo-de-legisladores-entrerrianos-por-la-retencion-indebida-de-fondos",
-     "tag": "También en AFP Digital"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Cristina Kirchner dijo que buscará ser candidata en 2027",
-     "medio": "Ahora",
-     "fecha": "02/11/2026",
-     "url": "https://ahora.com.ar/politica/cristina-kirchner-dijo-que-buscara-ser-candidata-en-2027"
-    },
-    {
-     "titulo": "Mauricio Macri y Cristian Ritondo encabezaron la cumbre del Pro para el armado 2027",
-     "medio": "AFP Digital",
-     "fecha": "02/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/02/477474-mauricio-macri-y-cristian-ritondo-encabezaron-la-cumbre-del-pro-para-el-armado-2027"
-    }
-   ]
-  },
-  "Formosa": {
-   "top3": [
-    {
-     "titulo": "Janones, “el general de Lula”, se reunió con Cristina Kirchner y Sergio Massa: la experiencia de Brasil, la unidad y el frente anti-Milei, en la agenda",
-     "medio": "La Mañana",
-     "fecha": "02/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108350/janones-el-general-de-lula-se-reuni-con-cristina-kirchner-y-sergio-massa-la-experiencia-de-brasil-la-unidad-y-el-frente-anti-milei-en-la-agenda/"
-    },
-    {
-     "titulo": "El gobernador Insfrán inaugurará nuevas obras en Estanislao del Campo",
-     "medio": "La Mañana",
-     "fecha": "02/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108355/el-gobernador-insfrn-inaugurar-nuevas-obras-en-estanislao-del-campo/"
+     "titulo": "Personal universitario nodocente realiza un paro este martes",
+     "medio": "El Once",
+     "fecha": "03/11/2026",
+     "url": "https://www.elonce.com/politica/personal-universitario-nodocente-realiza-un-paro-este-martes.htm"
     }
    ],
    "imagen": []
@@ -336,183 +128,65 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Elecciones en EEUU: Trump pone a prueba su poder y los demócratas buscan recuperar el Congreso",
-     "medio": "Somos Jujuy",
-     "fecha": "02/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/elecciones-eeuu-trump-pone-prueba-su-poder-democratas-buscan-recuperar-congreso-n126494"
+     "titulo": "\"La lista Celeste y Blanca ganará la interna del PJ\"",
+     "medio": "El Tribuno",
+     "fecha": "03/11/2026",
+     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-la-lista-celeste-y-blanca-ganara-la-interna-del-pj"
     },
     {
-     "titulo": "La delegación jujeña llegó a Mar del Plata para los Juegos Evita 2026",
-     "medio": "Prensa oficial de Jujuy",
-     "fecha": "02/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/delegacion-jujena/la-delegacion-jujena-llego-mar-del-plata-los-juegos-evita-2026-n125817",
-     "tag": "También en El Tribuno, Todo Jujuy"
-    },
-    {
-     "titulo": "Milei recibirá al papa León XIV en la Casa Rosada: gobernadores y legisladores sin distinción política fueron invitados al encuentro",
-     "medio": "Somos Jujuy",
-     "fecha": "02/11/2026",
-     "url": "https://www.somosjujuy.com.ar/nacionales/milei-recibira-papa-leon-xiv-casa-rosada-gobernadores-legisladores-distincion-politica-fueron-invitados-encuentro-n126524"
+     "titulo": "Habilitaron el padrón provisorio y hay 30 días para revisar los datos electorales",
+     "medio": "Jujuy al día",
+     "fecha": "03/11/2026",
+     "url": "https://www.jujuyaldia.com.ar/2026/11/03/habilitaron-el-padron-provisorio-y-hay-30-dias-para-revisar-los-datos-electorales/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "País. Cristina Fernández de Kirchner no descartó ser candidata a presidenta en 2027 Por Redacción de TodoJujuy",
-     "medio": "Todo Jujuy",
-     "fecha": "02/11/2026",
-     "url": "https://www.todojujuy.com/pais/cristina-fernandez-kirchner-no-descarto-ser-candidata-presidenta-2027-n298283"
-    }
-   ]
+   "imagen": []
   },
   "La Pampa": {
    "top3": [
     {
-     "titulo": "El Gobierno de La Pampa presenta el Presupuesto 2027, es por 3,28 billones de pesos, sin endeudamiento y con el 17% destinado al desarrollo de la economía",
-     "medio": "La Pampa 24",
-     "fecha": "02/11/2026",
-     "url": "https://lapampa24.com.ar/la-pampa-hoy/el-gobierno-de-la-pampa-presenta-el-presupuesto-2027-es-por-328-billones-de-pesos-sin-endeudamiento-y-con-el-17-destinado-al-desarrollo-de-la-economia/",
-     "tag": "También en El Diario de La Pampa"
+     "titulo": "El presupuesto hace eje en el desarrollo económico en 2027",
+     "medio": "La Arena",
+     "fecha": "03/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-hace-eje-en-el-desarrollo-economico-en-2027-2026113050"
     },
     {
-     "titulo": "Massa se reunió con “el general de Lula” y busca armar una coalición que enfrente a Milei en 2027",
-     "medio": "La Pampa 24",
-     "fecha": "02/11/2026",
-     "url": "https://lapampa24.com.ar/nacionales/massa-se-reunio-con-el-general-de-lula-y-busca-armar-una-coalicion-que-enfrente-a-milei-en-2027/",
+     "titulo": "Una elección que ata a Milei a la suerte de Donald Trump",
+     "medio": "La Arena",
+     "fecha": "03/11/2026",
+     "url": "https://www.laarena.com.ar/el-mundo/una-eleccion-que-ata-a-milei-a-la-suerte-de-donald-trump-2026113050"
+    },
+    {
+     "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar tocó un nuevo máximo",
+     "medio": "El Diario de La Pampa",
+     "fecha": "03/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/82552/el-riesgo-pais-supero-los-800-puntos-por-primera-vez-en-el-ano-y-el-dolar-toco-un-nuevo-maximo",
      "tag": "También en La Arena"
-    },
-    {
-     "titulo": "Presupuesto 2027: Provincia prevé gastos por $3,28 billones y equilibrio fiscal",
-     "medio": "La Arena",
-     "fecha": "02/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/presupuesto-2027-provincia-preve-gastos-por-3-28-billones-y-equilibrio-fiscal-20261122000"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Cristina no descartó ser candidata para el 2027",
-     "medio": "La Arena",
-     "fecha": "02/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/cristina-le-brindo-una-entrevista-the-washington-post-no-descarto-ser-candidata-y-auguro-una-derrota-de-trump-20261129500"
-    }
-   ]
-  },
-  "La Rioja": {
-   "top3": [
-    {
-     "titulo": "DÓNDE VOTO: SE PUBLICÓ EL PADRÓN PROVISORIO PARA LAS ELECCIONES 2027",
-     "medio": "Rioja Virtual",
-     "fecha": "02/11/2026",
-     "url": "https://riojavirtual.com.ar/donde-voto-se-publico-el-padron-provisorio-para-las-elecciones-2027/"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "DISCUSIÓN 2027 Uñac pasó por La Rioja, se reunió con Quintela y avanza en la construcción de su candidatura Por Letra P | Periodismo Político",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/politica/sergio-unac-paso-la-rioja-se-reunio-ricardo-quintela-y-avanza-la-construccion-su-candidatura-n5427900"
-    }
-   ]
-  },
-  "Mendoza": {
-   "top3": [
-    {
-     "titulo": "\"¿Qué recibieron Mendoza y Córdoba?\": Natalia De la Sota desafió a los gobernadores aliados de Milei",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/que-recibieronn-mendoza-y-cordoba-natalia-la-sota-desafio-los-gobernadores-aliados-milei-n1612516"
-    },
-    {
-     "titulo": "El gobernador de Córdoba comparó a Milei con el kirchnerismo por los subsidios al transporte",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/martin-llaryora-comparo-javier-milei-el-kirchnerismo-los-subsidios-al-transporte-n1612432"
-    },
-    {
-     "titulo": "Presupuesto 2027: el Gobierno negocia apoyos y acumula reclamos de sus aliados",
-     "medio": "Memo",
-     "fecha": "02/11/2026",
-     "url": "https://www.memo.com.ar/poder/presupuesto-2027-el-gobierno-negocia-apoyos-y-acumula-reclamos-de-sus-aliados/"
     }
    ],
    "imagen": []
-  },
-  "Misiones": {
-   "top3": [
-    {
-     "titulo": "Ya está disponible el padrón electoral provisorio para las Elecciones 2027",
-     "medio": "La Voz - Misiones",
-     "fecha": "02/11/2026",
-     "url": "https://lavozdemisiones.com/informacion-general/ya-esta-disponible-el-padron-electoral-provisorio-para-las-elecciones-2027"
-    },
-    {
-     "titulo": "Bárbaro denunció a funcionario nacional por demoras en fondos tabacaleros",
-     "medio": "La Voz - Misiones",
-     "fecha": "02/11/2026",
-     "url": "https://lavozdemisiones.com/politica/barbaro-denuncio-a-funcionario-nacional-por-demoras-en-fondos-tabacaleros"
-    },
-    {
-     "titulo": "Misiones abrió las inscripciones para las carreras docentes y técnicas del ciclo 2027",
-     "medio": "Primera Edición",
-     "fecha": "02/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101156862/misiones-abrio-las-inscripciones-para-las-carreras-docentes-y-tecnicas-del-ciclo-2027/"
-    }
-   ],
-   "imagen": []
-  },
-  "Neuquén": {
-   "top3": [
-    {
-     "titulo": "Legislatura Figueroa presentó la reforma del Código Fiscal 2027: cuáles son los cambios impositivos",
-     "medio": "Noticias NQN",
-     "fecha": "02/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/02/359169-figueroa-presento-la-reforma-del-codigo-fiscal-2027-cuales-son-los-cambios-impositivos",
-     "tag": "También en Neuquén al Instante"
-    },
-    {
-     "titulo": "Toto Caputo apoya al gobernador de Neuquén y choca con los Menem",
-     "medio": "La Politica Online",
-     "fecha": "02/11/2026",
-     "url": "https://www.lapoliticaonline.com/politica/toto-caputo-choca-con-los-menem-por-la-estrategia-del-gobierno-en-neuquen/"
-    },
-    {
-     "titulo": "Elecciones nacionales 2027 Habilitaron la consulta del padrón electoral provisorio para las elecciones de 2027",
-     "medio": "Noticias NQN",
-     "fecha": "02/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/02/359157-habilitaron-la-consulta-del-padron-electoral-provisorio-para-las-elecciones-de-2027"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Situación habitacional Neuquén lanza la tercera Encuesta Provincial de Inquilinos",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "02/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/02/266487-neuquen-lanza-la-tercera-encuesta-provincial-de-inquilinos",
-     "tag": "También en Noticias NQN"
-    }
-   ]
   },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "ELECCIONES 2026 Weretilneck y Cortés celebraron en Bariloche y dieron el primer paso para buscar la reelección en Río Negro Por Juan Gorosito",
-     "medio": "Letra P",
-     "fecha": "02/11/2026",
-     "url": "https://www.letrap.com.ar/politica/weretilneck-y-cortes-celebraron-bariloche-y-dieron-el-primer-paso-buscar-la-reeleccion-rio-negro-n5427889"
+     "titulo": "Doble estrategia: Javier Milei viaja a España para la Cumbre Iberoamericana mientras vigila las elecciones clave para Donald Trump",
+     "medio": "Diario Rio Negro",
+     "fecha": "03/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/doble-estrategia-javier-milei-viaja-a-espana-para-la-cumbre-iberoamericana-mientras-vigila-las-elecciones-clave-para-donald-trump/"
     },
     {
-     "titulo": "Weretilneck anunció la primera licitación para recuperar el Tren Patagónico del Valle",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "02/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62567/weretilneck-anuncio-la-primera-licitacion-para-recuperar-el-tren-patagonico-del-valle",
-     "tag": "También en AN Roca, LCR y 1 más"
+     "titulo": "ECONOMÍA Retención del impuesto a los combustibles: la Justicia admitió un amparo contra el Gobierno",
+     "medio": "AN Roca",
+     "fecha": "03/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/03/230664-retencion-del-impuesto-a-los-combustibles-la-justicia-admitio-un-amparo-contra-el-gobierno",
+     "tag": "También en Noticias Net"
     },
     {
-     "titulo": "Proyecto GNL: Ambiente inspeccionó el buque Gabrielle",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "02/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62586/proyecto-gnl-ambiente-inspecciono-el-buque-gabrielle",
-     "tag": "También en AN Roca, LCR y 1 más"
+     "titulo": "Milei celebró la visita del Papa: “Reforzará nuestros compromisos con los valores judeocristianos”",
+     "medio": "AN Roca",
+     "fecha": "03/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/03/230712-milei-celebro-la-visita-del-papa-reforzara-nuestros-compromisos-con-los-valores-judeocristianos",
+     "tag": "También en Noticias Net"
     }
    ],
    "imagen": []
@@ -520,227 +194,67 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Cristina Libre: el kirchnerismo defendió en Salta a la expresidenta y respaldó una posible candidatura",
-     "medio": "Informate Salta",
-     "fecha": "02/11/2026",
-     "url": "https://informatesalta.com.ar/politica/cristina-libre--el-kirchnerismo-defendio-en-salta-a-la-expresidenta-y-respaldo-una-posible-candidatura_a6ae90e76bcf08930c4096a52"
-    },
-    {
-     "titulo": "Elecciones en Salta 2027 | Kosiner: “Nosotros representamos a quienes no están de acuerdo con Milei”",
-     "medio": "Cuarto",
-     "fecha": "02/11/2026",
-     "url": "https://www.cuarto.com.ar/elecciones-en-salta-2027-kosiner-nosotros-representamos-a-quienes-no-estan-de-acuerdo-con-milei/"
-    },
-    {
-     "titulo": "Salta tendrá cuatro vuelos semanales directos a Florianópolis desde enero",
+     "titulo": "San Ramón de la Nueva Orán: Hoy se realizará el encuentro regional por el Plan Estratégico Salta 2050",
      "medio": "Prensa oficial de Salta",
-     "fecha": "02/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/salta-tendra-cuatro-vuelos-semanales-directos-a-florianopolis-desde-enero-110906",
-     "tag": "También en Cuarto, El Tribuno"
-    }
-   ],
-   "imagen": [
+     "fecha": "03/11/2026",
+     "url": "https://www.salta.gob.ar/prensa/noticias/san-ramon-de-la-nueva-oran-hoy-se-realizara-el-encuentro-regional-por-el-plan-estrategico-salta-2050-110895"
+    },
     {
-     "titulo": "Cristina Kirchner habló de una candidatura presidencial en 2027",
+     "titulo": "El arduo y conflictivo camino que se presenta en Salta para \"Cristina libre\"",
      "medio": "El Tribuno",
-     "fecha": "02/11/2026",
-     "url": "https://www.eltribuno.com/nacionales/2026-11-2-15-34-0-cristina-kirchner-hablo-de-una-candidatura-presidencial-en-2027"
-    }
-   ]
-  },
-  "San Juan": {
-   "top3": [
-    {
-     "titulo": "Este lunes los gremios docentes vuelven a negociar un aumento de salarios con el Gobierno de San Juan",
-     "medio": "0264 Noticias",
-     "fecha": "02/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115602-este-lunes-los-gremios-docentes-vuelven-a-negociar-un-aumento-de-salarios-con-el-gobierno-de-san-juan",
-     "tag": "También en El Zonda, Huarpe"
+     "fecha": "03/11/2026",
+     "url": "https://www.eltribuno.com/salta/2026-11-3-0-0-0-el-arduo-y-conflictivo-camino-que-se-presenta-en-salta-para-cristina-libre"
     },
     {
-     "titulo": "21:07 El Gobierno publicó el decreto reglamentario para el Concurso de Ascenso Docente 2026-2027",
-     "medio": "Diario de Cuyo",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/san-juan/el-gobierno-publico-el-decreto-reglamentario-el-concurso-ascenso-docente-2026-2027-n6587512",
-     "tag": "También en Tiempo de San Juan"
-    },
-    {
-     "titulo": "La reforma electoral de San Juan, entre las demoras nacionales y una posible sesión extraordinaria",
-     "medio": "Tiempo de San Juan",
-     "fecha": "02/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/la-reforma-electoral-de-san-juan-entre-las-demoras-nacionales-y-una-posible-sesion-extraordinaria_1793661864"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "\"¿Por qué no?\", la respuesta de Cristina Kirchner sobre una posible candidatura presidencial en 2027",
-     "medio": "0264 Noticias",
-     "fecha": "02/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115641-por-que-no-la-respuesta-de-cristina-kirchner-sobre-una-posible-candidatura-presidencial-en-2027",
-     "tag": "También en Diario de Cuyo"
-    },
-    {
-     "titulo": "Cristina Kirchner será candidata a presidente en 2027 si la Justicia la habilita",
-     "medio": "Huarpe",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/cristina-kirchner-sera-candidata-a-presidente-en-2027-si-la-justicia-la-habilita-20261121190"
-    },
-    {
-     "titulo": "Encuesta 2027: Kicillof quedó un punto arriba de Milei en un balotaje, pero hay empate técnico",
-     "medio": "Diario de Cuyo",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/encuesta-2027-kicillof-quedo-un-punto-arriba-milei-un-balotaje-pero-hay-empate-tecnico-n6587441"
-    },
-    {
-     "titulo": "Elecciones en EE.UU.: las últimas encuestas anticipan un duro golpe para el gobierno de Trump",
-     "medio": "Tiempo de San Juan",
-     "fecha": "02/11/2026",
-     "url": "https://www.tiempodesanjuan.com/el-mundo/elecciones-en-ee-uu-las-encuestas-anticipan-un-duro-golpe-para-el-gobierno-de-trump_1793661532"
-    }
-   ]
-  },
-  "San Luis": {
-   "top3": [
-    {
-     "titulo": "Elecciones 2027: ya está habilitada la consulta provisoria del padrón electoral",
-     "medio": "San Luis 24",
-     "fecha": "02/11/2026",
-     "url": "https://sanluis24.com.ar/elecciones-2027-ya-esta-habilitada-la-consulta-provisoria-del-padron-electoral/"
-    },
-    {
-     "titulo": "El Gobernador mantuvo una reunión con vecinos del barrio República para avanzar en su urbanización",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "02/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/02/1227302-el-gobernador-mantuvo-una-reunion-con-vecinos-del-barrio-republica-para-avanzar-en-su-urbanizacion/",
-     "tag": "También en La Gaceta Digital"
-    },
-    {
-     "titulo": "“Aprovechamos esta oportunidad que nos da el Gobernador para presentar un proyecto gastronómico”",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "02/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/02/1227565-aprovechamos-esta-oportunidad-que-nos-da-el-gobernador-para-presentar-un-proyecto-gastronomico/"
+     "titulo": "Ley Octorina: avanza la adhesión municipal en la ciudad de Salta",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "03/11/2026",
+     "url": "https://nuevodiariodesalta.com.ar/ley-octorina-avanza-la-adhesion-municipal-en-la-ciudad-de-salta/"
     }
    ],
    "imagen": []
   },
-  "Santa Cruz": {
+  "San Juan": {
    "top3": [
     {
-     "titulo": "Cristina Kirchner espera recuperar su derecho a ser candidata para presentarse a elecciones: “Trump perderá en su propio país”, vaticinó",
-     "medio": "La Opinión Austral",
-     "fecha": "02/11/2026",
-     "url": "https://laopinionaustral.com.ar/argentina/cristina-kirchner-espera-recuperar-su-derecho-a-ser-candidata-para-presentarse-a-elecciones-trump-perdera-en-su-propio-pais-vaticino-726760.html"
-    },
-    {
-     "titulo": "Elecciones en Bariloche: el frente de Weretilneck le ganó a La Libertad Avanza y al peronismo",
-     "medio": "La Opinión Austral",
-     "fecha": "02/11/2026",
-     "url": "https://laopinionaustral.com.ar/politica-y-economia/elecciones-en-bariloche-el-frente-de-weretilneck-le-gano-a-la-libertad-avanza-y-al-peronismo-726743.html"
-    },
-    {
-     "titulo": "Ley electoral en Santa Cruz: Muñoz defendió las PASO y advirtió que \"hay algunas conducciones que manejan todo ese hilo\"",
-     "medio": "El Diario Nuevo Día",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/ley-electoral-en-santa-cruz-munoz-defendio-las-paso-y-advirtio-que-hay-algunas-conducciones-que-manejan-todo-ese-hilo-9478/"
+     "titulo": "Los tres gremios se llevaron la oferta del Gobierno y anticipan un rechazo",
+     "medio": "Huarpe",
+     "fecha": "03/11/2026",
+     "url": "https://www.diariohuarpe.com/nota/tras-la-oferta-de-gobierno-en-paritaria-udap-uda-y-amet-la-rechazaran-20261136050"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Elecciones 2027. Cristina Kirchner candidata «Cuando recupere mis derechos políticos, ¿por qué no?»",
-     "medio": "Winfo",
-     "fecha": "02/11/2026",
-     "url": "https://winfo.ar/actualidad/2026/11/cristina-kirchner-cuando-recupere-mis-derechos-politicos-por-que-no"
-    },
-    {
-     "titulo": "Casi la mitad de los jóvenes encuestados en Santa Cruz apostó online alguna vez: la ciberludopatía en la mira",
-     "medio": "El Diario Nuevo Día",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/casi-la-mitad-de-los-jovenes-encuestados-en-santa-cruz-aposto-online-alguna-vez-la-ciberludopatia-en-la-mira-761/"
-    }
-   ]
+   "imagen": []
   },
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Último mes de sesiones ordinarias Presupuesto 2027: el proyecto ingresó a la Legislatura y se prepara el debate en el Senado de Santa Fe Martín Fernández Silva",
+     "titulo": "Semana clave en Santa Fe: las leyes que dan más poder a la Policía, entre el debate y la interna de Unidos",
      "medio": "Aire",
-     "fecha": "02/11/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/presupuesto-2027-el-proyecto-ingreso-la-legislatura-y-se-prepara-el-debate-el-senado-santa-fe-n675374"
+     "fecha": "03/11/2026",
+     "url": "https://www.airedesantafe.com.ar/politica/semana-clave-santa-fe-las-leyes-que-dan-mas-poder-la-policia-el-debate-y-la-interna-unidos-n675405"
     },
     {
-     "titulo": "Ya se puede votar el Presupuesto Participativo 2027: hay 74 proyectos y este año se suma la transformación de grandes parques",
-     "medio": "Rosario3",
-     "fecha": "02/11/2026",
-     "url": "https://www.rosario3.com/informaciongeneral/ya-se-puede-votar-el-presupuesto-participativo-2027--hay-74-proyectos-y-este-ano-se-suma-la-transformacion-de-grandes-parques-20261102-0020.html",
-     "tag": "También en La Capital"
+     "titulo": "Rosario presentará su presupuesto con equilibrio fiscal y $171 mil millones para obras",
+     "medio": "La Capital",
+     "fecha": "03/11/2026",
+     "url": "https://www.lacapital.com.ar/la-ciudad/rosario-presentara-su-presupuesto-equilibrio-fiscal-y-171-mil-millones-obras-n10290070.html"
     },
     {
-     "titulo": "Hasta el 30 de noviembre Dónde voto: habilitaron la consulta del padrón electoral provisorio para las elecciones",
+     "titulo": "Entrevista en AIRE \"Saber perder las elecciones\": la advertencia de un especialista sobre las denuncias de fraude",
      "medio": "Aire",
-     "fecha": "02/11/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/elecciones-nacionales-2027-la-camara-electoral-habilito-la-consulta-del-padron-provisorio-n675342"
+     "fecha": "03/11/2026",
+     "url": "https://www.airedesantafe.com.ar/actualidad/saber-perder-las-elecciones-la-advertencia-un-especialista-las-denuncias-fraude-n675407"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Cristina Kirchner habló con The Washington Post y dejó abierta la posibilidad de ser candidata en 2027",
-     "medio": "UNO - SF",
-     "fecha": "02/11/2026",
-     "url": "https://www.unosantafe.com.ar/politica/cristina-kirchner-hablo-the-washington-post-y-dejo-abierta-la-posibilidad-ser-candidata-2027-n10289981.html",
-     "tag": "También en La Capital"
-    }
-   ]
+   "imagen": []
   },
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Cristina agitó el escenario electoral de 2027 y el Gobierno apuntó a la interna peronista",
-     "medio": "Diario Panorama",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/571638/cristina-kirchner-agito-escenario-electoral-2027-gobierno-apunto-interna-peronista"
-    },
-    {
-     "titulo": "La respuesta de Cristina Kirchner que ilusiona a la militancia al ser consultada sobre su candidatura",
-     "medio": "Nuevo Diario Web",
-     "fecha": "02/11/2026",
-     "url": "https://nuevodiarioweb.com.ar/politica/la-respuesta-de-cristina-kirchner-que-ilusiona-a-la-militancia-al-ser-consultada-sobre-su-candidatura.htm"
-    },
-    {
-     "titulo": "La Banda: quiénes son los nuevos funcionarios que se sumaron al gabinete de Llamil Abdala",
-     "medio": "Diario Panorama",
-     "fecha": "02/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/571636/banda-quienes-son-nuevos-funcionarios-se-sumaron-al-gabinete-llamil-abdala",
-     "tag": "También en El Liberal, Info del Estero"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "El Gobierno se desmarca de una posible candidatura de Cristina Kirchner en 2027",
+     "titulo": "El Congreso posterga el debate del Presupuesto 2027 y las PASO por dos semanas",
      "medio": "El Liberal",
-     "fecha": "02/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/96765/2026/11/el-gobierno-se-desmarca-de-una-posible-candidatura-de-cristina-kirchner-en-2027"
-    },
-    {
-     "titulo": "Encuesta presidencial 2027: Milei encabeza la primera vuelta, pero Kicillof lo supera en un eventual balotaje",
-     "medio": "El Liberal",
-     "fecha": "02/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/96788/2026/11/encuesta-presidencial-2027--milei-encabeza-la-primera-vuelta-pero-kicillof-lo-supera-en-un-eventual-balotaje"
-    }
-   ]
-  },
-  "Tierra del Fuego": {
-   "top3": [
-    {
-     "titulo": "Gobierno convocó a los municipios para analizar coparticipación y finanzas",
-     "medio": "El Diario del Fin del Mundo",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldiariodelfindelmundo.com/noticias/2026/11/02/118479-gobierno-convoco-a-los-municipios-para-analizar-coparticipacion-y-finanzas"
-    },
-    {
-     "titulo": "Condenaron al Gobierno nacional a transparentar los fondos del puerto",
-     "medio": "El Diario del Fin del Mundo",
-     "fecha": "02/11/2026",
-     "url": "https://www.eldiariodelfindelmundo.com/noticias/2026/11/02/118480-condenaron-al-gobierno-nacional-a-transparentar-los-fondos-del-puerto"
+     "fecha": "03/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/96806/2026/11/el-congreso-posterga-el-debate-del-presupuesto-2027-y-las-paso-por-dos-semanas"
     }
    ],
    "imagen": []
@@ -748,39 +262,19 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Dirigentes tucumanos respaldaron la gestión de Jaldo y cuestionaron los recortes de Milei",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "02/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1160748/politica/dirigentes-tucumanos-respaldaron-gestion-jaldo-cuestionaron-recortes-milei.html"
+     "titulo": "El Senado intentará obtener dictamen de la nueva ley de discapacidad",
+     "medio": "Los Primeros",
+     "fecha": "03/11/2026",
+     "url": "https://www.losprimeros.tv/politica/el-senado-intentara-obtener-dictamen-de-la-nueva-ley-de-discapacidad_a6ae99b76bcf08930c40d3508"
     },
     {
-     "titulo": "Pase a planta en Concepción: piden una cautelar para que no se concreten las designaciones",
+     "titulo": "Trump pone a prueba su liderazgo: cómo impactarán los resultados en su relación con Argentina",
      "medio": "Los Primeros",
-     "fecha": "02/11/2026",
-     "url": "https://www.losprimeros.tv/actualidad/pase-a-planta-en-concepcion--piden-una-cautelar-para-que-no-se-concreten-las-designaciones-_a6ae92a1dbcf08930c40b0687"
-    },
-    {
-     "titulo": "El “Ejército de Lula” mantuvo reuniones con Cristina Kirchner y Sergio Massa",
-     "medio": "Los Primeros",
-     "fecha": "02/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el--ejercito-de-lula--mantuvo-reuniones-con-cristina-kirchner-y-sergio-massa_a6ae922debcf08930c40aaec6"
+     "fecha": "03/11/2026",
+     "url": "https://www.losprimeros.tv/politica/trump-pone-a-prueba-su-liderazgo--como-impactaran-los-resultados-en-su-relacion-con-argentina_a6ae997a2bcf08930c40d25ed"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Cristina Kirchner habló de Trump y dejó abierta su candidatura para 2027",
-     "medio": "LV12",
-     "fecha": "02/11/2026",
-     "url": "https://www.lv12.com.ar/cristina-kirchner/cristina-kirchner-hablo-trump-y-dejo-abierta-su-candidatura-2027-n206014"
-    },
-    {
-     "titulo": "Inflación de octubre: ¿qué muestran las proyecciones de las consultoras?",
-     "medio": "LV12",
-     "fecha": "02/11/2026",
-     "url": "https://www.lv12.com.ar/inflacion/inflacion-octubre-que-muestran-las-proyecciones-las-consultoras-n205996",
-     "tag": "También en La Gaceta - Tucumán"
-    }
-   ]
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [

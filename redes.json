@@ -1,97 +1,99 @@
 {
- "actualizado": "03/11 05:53",
+ "actualizado": "03/11 06:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "bebé",
-   "busquedas": "200+",
-   "nota": "“Estaba fuera de sí”: así encontraron al hombre acusado de asesinar a su expareja y a cuatro chicos en Chaco",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/02/estaba-fuera-de-si-asi-encontraron-al-hombre-acusado-de-asesinar-a-su-expareja-y-a-cuatro-chicos-en-chaco/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
+   "tema": "clima",
+   "busquedas": "50000+",
+   "nota": "Clima en CABA: cómo estará el tiempo este martes 3 de noviembre",
+   "nota_url": "https://www.cadena3.com/noticia/clima/clima-en-caba-como-estara-el-tiempo-este-martes-3-de-noviembre_609557",
+   "medio": "Cadena 3 Argentina",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
   },
   {
-   "tema": "robo",
+   "tema": "conducción",
    "busquedas": "100+",
-   "nota": "Hackeo a Binance, su impacto en Argentina y la paradoja cripto de la descentralización",
-   "nota_url": "https://www.ambito.com/opiniones/hackeo-binance-su-impacto-argentina-y-la-paradoja-cripto-la-descentralizacion-n6340656",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión",
-   "busquedas": "2000+",
-   "nota": "Identificaron a la copiloto del avión privado que cayó en Palm Beach: era una hija de brasileños de 20 años",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/identificaron-a-la-copiloto-del-avion-privado-que-cayo-en-palm-beach-era-una-brasilena-de-20-anos-nid02112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "iran",
-   "busquedas": "100+",
-   "nota": "US launches strikes on Iranian island ahead of election",
-   "nota_url": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sports",
-   "busquedas": "200+",
-   "nota": "Champions League Matchday 4 kicks off as Galatasaray, Fenerbahce host European rivals",
-   "nota_url": "https://www.turkiyetoday.com/sports/champions-league-matchday-4-kicks-off-as-galatasaray-fenerbahce-host-european-rivals-3231529",
-   "medio": "Türkiye Today",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "javier milei",
-   "busquedas": "200+",
-   "nota": "El costo de vida, clave en el voto de los estadounidenses",
-   "nota_url": "https://www.laprensa.com.ar/El-costo-de-vida-clave-en-el-voto-de-los-estadounidenses-577485.note.aspx",
-   "medio": "La Prensa Digital",
+   "nota": "Gobierno De la Espriella buscará radical cambio a la licencia de conducción en Colombia: Se perdería por",
+   "nota_url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-buscara-radical-cambio-a-la-licencia-de-conduccion-en-colombia-se-perderia-por-puntos/",
+   "medio": "Valora Analitik",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "grizzlies - pelicans",
+   "tema": "clima rosario",
+   "busquedas": "500+",
+   "nota": "El tiempo en Rosario: lunes nublado y martes con alerta amarillo por tormentas",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-nublado-y-martes-alerta-amarillo-tormentas-n10289935.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
+   "busquedas": "200+",
+   "nota": "SMN: lluvias y tormentas el domingo y cielo nublado para el lunes",
+   "nota_url": "https://www.unoentrerios.com.ar/la-provincia/smn-lluvias-y-tormentas-el-domingo-y-cielo-nublado-el-lunes-n10289830.html",
+   "medio": "Uno Entre Rios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alexis mac allister",
+   "busquedas": "500+",
+   "nota": "¡Se calentó el partido en Anfield! Mac Allister tuvo un fuerte cruce con dos jugadores del Arsenal",
+   "nota_url": "https://www.espn.com.ar/futbol/inglaterra/nota/_/id/17463240/video-se-calento-el-partido-en-anfield-mac-allister-tuvo-un-fuerte-cruce-con-dos-jugadores-del-arsenal",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico santa fe",
+   "busquedas": "200+",
+   "nota": "La tormenta de la madrugada",
+   "nota_url": "https://www.pagina12.com.ar/2026/10/31/la-tormenta-de-la-madrugada/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "morena beltrán",
    "busquedas": "100+",
-   "nota": "Pelicans Survive 4th Quarter Collapse To Become First Team To Beat Grizzlies",
-   "nota_url": "https://roundtable.io/sports/nba/news/TmVoGojOyNRAlyul72dB",
-   "medio": "roundtable.io",
+   "nota": "El descargo de Morena Beltrán tras los agravios que sufrió en plena transmisión de un partido: \"Me dijeron que...",
+   "nota_url": "https://exitoina.perfil.com/noticias/escandalo/descargo-morena-beltran-agravios-sufrio-plena-transmision-partido-me-dijeron-que-me-iban-a-matar.phtml",
+   "medio": "Exitoina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "karl bushby",
-   "busquedas": "100+",
-   "nota": "Increíble. Caminó 50 mil kilómetros durante 28 años para volver a su casa: la historia de Karl Bushby",
-   "nota_url": "https://www.lavoz.com.ar/mundo/camino-50-mil-kilometros-28-anos-volver-casa-historia-karl-bushby_0_SirceRLmE6.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nano villarnovo",
+   "tema": "club atlético river plate",
    "busquedas": "1000+",
-   "nota": "Murió en Australia un cordobés exjugador de La Tablada y organizan una colecta para la repatriación",
-   "nota_url": "https://viapais.com.ar/cordoba/murio-australia-cordobes-exjugador-tablada-organizan-colecta-repatriacion_0_Ef74zYA8Pg.html",
-   "medio": "Vía País",
+   "nota": "Qué dice el informe de Ramírez sobre las expulsiones a Martínez Quarta y Montiel en el Superclásico",
+   "nota_url": "https://www.tycsports.com/river-plate/informe-nicolas-ramirez-expulsiones-martinez-quarta-montiel-superclasico-boca-river-id770039.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "josé luis gioia",
-   "busquedas": "1000+",
-   "nota": "El delicado momento que vivió José Luis Gioia mientras grababa \"Menem\": estuvo en coma",
-   "nota_url": "https://viapais.com.ar/streaming/jose-luis-gioia-atraveso-delicado-momento-salud-acv-grababa-menem-llego-coma_0_B7wYX9MYL2.html",
-   "medio": "Vía País",
+   "tema": "clima santa fe",
+   "busquedas": "200+",
+   "nota": "Sábado de sol y 30 grados en Santa Fe, ¿cuándo volverían las lluvias?",
+   "nota_url": "https://www.lt10.com.ar/noticia/512574--sabado-de-sol-y-30-grados-en-santa-fe-cuando-volverian-las-lluvias&seccion=sociedad",
+   "medio": "LT10",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bebé",
+   "busquedas": "500+",
+   "nota": "“Estaba fuera de sí”: así encontraron al hombre acusado de asesinar a su expareja y a cuatro chicos en Chaco",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/02/estaba-fuera-de-si-asi-encontraron-al-hombre-acusado-de-asesinar-a-su-expareja-y-a-cuatro-chicos-en-chaco/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   }
