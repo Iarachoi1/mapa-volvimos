@@ -1,31 +1,58 @@
 {
- "actualizado": "03/11 07:44",
+ "actualizado": "03/11 08:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "james gunn",
+   "tema": "lenacapavir",
    "busquedas": "100+",
-   "nota": "James Gunn Officially Changes What The First Canon DC Universe Movie Is",
-   "nota_url": "https://www.imdb.com/news/ni66086765/?ref_=nmnw_art_perm",
-   "medio": "IMDb",
+   "nota": "Approval of a cheap version of HIV-prevention shot lenacapavir raises hopes in low-income countries",
+   "nota_url": "https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6",
+   "medio": "AP News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marcelo bonelli",
+   "busquedas": "500+",
+   "nota": "La gran historia de amor de Marcela Giorgi y Mario Mazzone: del piropo en el pase a la dura despedida",
+   "nota_url": "https://www.infobae.com/teleshow/2026/10/31/la-gran-historia-de-amor-de-marcela-giorgi-y-mario-mazzone-del-piropo-en-el-pase-a-la-dura-despedida/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aldosivi river",
+   "busquedas": "200+",
+   "nota": "Un jugador de River terminó lesionado tras el Superclásico",
+   "nota_url": "https://www.tycsports.com/river-plate/juan-cruz-meza-desgarro-river-plate-id770008.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "canal 13",
+   "busquedas": "200+",
+   "nota": "Insólito | Su expareja intentó asesinarla de cinco disparos y ella lo perdonó y besó durante el juicio",
+   "nota_url": "https://nuevodiarioweb.com.ar/policiales/info-santiago-estero-insolito-su-expareja-intento-asesinarla-de-cinco-disparos-y-ella-lo-perdono-y-beso-durante-el-juicio.htm",
+   "medio": "Nuevo Diario Web",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "james gunn",
    "busquedas": "100+",
-   "nota": "Murió un motociclista tras chocar contra un tractor en la Ruta 40",
-   "nota_url": "https://www.diariodecuyo.com.ar/policiales/murio-un-motociclista-chocar-contra-un-tractor-la-ruta-40-n6587415",
-   "medio": "Diario de Cuyo",
+   "nota": "James Gunn Explains the Difference Between DC Studios and Marvel Movies",
+   "nota_url": "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/",
+   "medio": "Polygon.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "francisco cerúndolo",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Masters 1000 de París: a qué hora juegan Cerúndolo, Etcheverry y Djokovic y dónde verlos",
    "nota_url": "https://www.lagaceta.com.ar/nota/1160735/deportes/masters-1000-paris-hora-juegan-cerundolo-etcheverry-djokovic-donde-verlos.html",
    "medio": "La Gaceta",
@@ -34,25 +61,25 @@
   },
   {
    "tema": "masterchef",
-   "busquedas": "200+",
-   "nota": "Edith Hermida reveló un dato íntimo de Luck Ra y Wanda Nara no ocultó su sorpresa: ¿Cómo podés saber?",
-   "nota_url": "https://www.ellitoral.com/show/edithhermida-luckra-wandanara-masterchefcelebrity-fiestas_0_dXFocFaLO3.html",
-   "medio": "El Litoral",
+   "busquedas": "500+",
+   "nota": "La confesión de Martita Fort sobre Nazareno Casero en MasterChef: \"Nos tiroteamos\"",
+   "nota_url": "https://www.minutouno.com/espectaculos/la-confesion-martita-fort-nazareno-casero-masterchef-nos-tiroteamos-n6340489",
+   "medio": "Minutouno",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lockheed martin f-16 fighting falcon",
    "busquedas": "100+",
-   "nota": "Argentina, Chile y Rumania actualizan sus F-16 al estándar M6.6, pero los contratos revelan diferencias importantes",
-   "nota_url": "https://www.zona-militar.com/2026/11/02/argentina-chile-y-rumania-actualizan-sus-f-16-al-estandar-m6-6-pero-los-contratos-revelan-diferencias-importantes/",
-   "medio": "Zona Militar",
+   "nota": "Lockheed Martin Studies Ukraine-Specific F-16 Jet Variant",
+   "nota_url": "https://envantermedya.com/en/en-lockheed-martin-ukraine-specific-f16-aesa-radar/",
+   "medio": "Envanter Medya",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "joaquín levinton",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El Puma Rodríguez destrozó un hit de Turf sin saber que Joaquín Levinton estaba al lado y el cantante le hizo pagar la crítica",
    "nota_url": "https://www.guauformosa.com.ar/noticias/2026/11/02/42321-el-puma-rodriguez-destrozo-un-hit-de-turf-sin-saber-que-joaquin-levinton-estaba-al-lado-y-el-cantante-le-hizo-pagar-la-critica",
    "medio": "Guau Formosa",
@@ -61,37 +88,10 @@
   },
   {
    "tema": "jennifer aniston",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Jennifer Aniston, actriz de 57 años: “Este desayuno es excelente para la digestión y el sistema inmunológico”",
    "nota_url": "https://radiomitre.cienradios.com/celebrities/jennifer-aniston-actriz-de-57-anos-este-desayuno-es-excelente-para-la-digestion-y-el-sistema-inmunologico/",
    "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima en rosario",
-   "busquedas": "100+",
-   "nota": "Clima en Pergamino hoy: cuál es el pronóstico del tiempo para el 3 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/pergamino/clima-en-pergamino-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-noviembre-de-2026-nid02112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "weather",
-   "busquedas": "500+",
-   "nota": "Citi sees TTF up to €154/MWh in 2027 if Middle East gas risks materialise",
-   "nota_url": "https://www.capmad.com/post/citi-sees-ttf-up-to-154mwh-in-2027-if-middle-east-gas-risks-materialise",
-   "medio": "Capmad",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "omar pérez",
-   "busquedas": "200+",
-   "nota": "Negrete recibe el llamado a la Selección",
-   "nota_url": "https://elmeridiano.co/cordoba/deportes/negrete-recibe-el-llamado-a-la-seleccion-y3v3ij",
-   "medio": "El Meridiano",
    "relevante": false,
    "temas": []
   }
