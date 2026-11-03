@@ -1,25 +1,34 @@
 {
- "actualizado": "03/11 01:40",
+ "actualizado": "03/11 02:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "sports",
+   "busquedas": "100+",
+   "nota": "Tracking the leader for DraftKings King of the End Zone: Monday 11/2/26",
+   "nota_url": "https://dknetwork.draftkings.com/2026/11/02/tracking-the-leader-for-draftkings-king-of-the-end-zone-monday-11-2-26/",
+   "medio": "DraftKings Network",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "javier milei",
    "busquedas": "200+",
-   "nota": "Estados Unidos: las elecciones de medio término ponen a prueba el gobierno de Donald Trump y su agenda futura en la Casa Blanca",
-   "nota_url": "https://www.clarin.com/mundo/estados-unidos-elecciones-medio-termino-ponen-prueba-gobeirno-donald-trump-agenda-futura-casa-blanca_0_ftTxB7592H.html",
-   "medio": "Clarin.com",
+   "nota": "Cómo es el código de vestimenta recomendado a diputados, senadores y dirigentes para el encuentro con el Papa",
+   "nota_url": "https://www.infobae.com/politica/2026/11/02/como-es-el-codigo-de-vestimenta-recomendado-a-diputados-senadores-y-dirigentes-para-el-encuentro-con-el-papa/",
+   "medio": "Infobae",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "grizzlies - pelicans",
    "busquedas": "100+",
-   "nota": "Pelicans spoil Ty Jerome’s late-game heroics, hand Grizzlies first loss of season",
-   "nota_url": "https://dailymemphian.com/article/68232",
-   "medio": "Daily Memphian",
+   "nota": "New Orleans Pelicans at Memphis Grizzlies - NBA Game Summary - Nov 02, 2026",
+   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018726/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=12",
+   "medio": "USA Today",
    "relevante": false,
    "temas": []
   },
@@ -34,7 +43,7 @@
   },
   {
    "tema": "nano villarnovo",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Murió en Australia un cordobés exjugador de La Tablada y organizan una colecta para la repatriación",
    "nota_url": "https://viapais.com.ar/cordoba/murio-australia-cordobes-exjugador-tablada-organizan-colecta-repatriacion_0_Ef74zYA8Pg.html",
    "medio": "Vía País",
@@ -44,18 +53,18 @@
   {
    "tema": "josé luis gioia",
    "busquedas": "500+",
-   "nota": "José Luis Gioia sufrió un ACV y estuvo en coma: cómo sigue su recuperación",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/02/jose-luis-gioia-sufrio-un-acv-estuvo-en-coma-y-recibio-el-alta-medica-como-sigue-su-recuperacion/",
-   "medio": "TN",
+   "nota": "José Luis Gioia sufrió un ACV: preocupa la salud del actor",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/02/jose-luis-gioia-sufrio-un-acv-preocupa-la-salud-del-actor/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "paro nacional de transporte",
-   "busquedas": "200+",
-   "nota": "Paro en 27 aeropuertos: habrá demoras y cancelaciones a días de la visita papal",
-   "nota_url": "https://www.filo.news/noticia/2026/11/02/paro-en-27-aeropuertos-habra-demoras-y-cancelaciones-a-dias-de-la-visita-papal",
-   "medio": "Filo News",
+   "busquedas": "500+",
+   "nota": "ATE lanza protestas en aeropuertos el 6 de noviembre por incumplimientos en seguridad aeroportuaria: podría haber demoras y cancelaciones",
+   "nota_url": "https://ate.org.ar/261102-protesta-aeropuertos/",
+   "medio": "ATE",
    "relevante": true,
    "temas": []
   },
@@ -79,19 +88,10 @@
   },
   {
    "tema": "warriors - suns",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "GSW injury report: Gui Santos, Al Horford and more ahead of game vs. Suns",
    "nota_url": "https://sports.yahoo.com/articles/gsw-injury-report-gui-santos-002006557.html",
    "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "liga profesional",
-   "busquedas": "500+",
-   "nota": "La Liga Profesional definió cuándo se jugará la última fecha del Clausura: Boca, Rosario Central y Argentinos, en simultáneo por el título",
-   "nota_url": "https://www.clarin.com/deportes/liga-profesional-definio-jugara-ultima-fecha-clausura-boca-rosario-central-argentinos-simultaneo-titulo_0_RHDFbgAvMz.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
