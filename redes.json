@@ -1,97 +1,97 @@
 {
- "actualizado": "03/11 20:28",
+ "actualizado": "03/11 21:32",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "nytimes",
+   "busquedas": "200+",
+   "nota": "As voters head to the polls, Democrats bet that discontent will power their victory",
+   "nota_url": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+   "medio": "The Economist",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "internacional - coritiba",
+   "busquedas": "500+",
+   "nota": "Trensurb terá operação na madrugada; Entenda",
+   "nota_url": "https://agenciagbc.com/2026/11/03/trensurb-tera-operacao-na-madrugada-entenda/",
+   "medio": "Agência GBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "trump es republicano o demócrata",
+   "busquedas": "100+",
+   "nota": "¿Qué diferencia hay entre demócratas y republicanos y a cuál pertenece Donald Trump?",
+   "nota_url": "https://www.razon.com.mx/mundo/2026/11/03/que-diferencia-hay-entre-democratas-y-republicanos-y-a-cual-pertenece-donald-trump/",
+   "medio": "La Razón de México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "us elections 2026",
+   "busquedas": "100+",
+   "nota": "LIVE UPDATES: Election Day in the Carolinas: Tracking everything in the Nov. 3 midterm",
+   "nota_url": "https://www.wcnc.com/article/news/politics/elections/live-updates-2026-midterm-north-carolina-south-carolina/275-a8816398-2bc0-4821-94b5-ecd4a4df29ee",
+   "medio": "WCNC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "donald trump",
+   "busquedas": "200+",
+   "nota": "Trump’s aid bombshell, Haley Stevens, and the battle for the soul of the Democratic Party - comment",
+   "nota_url": "https://www.jpost.com/opinion/article-913742",
+   "medio": "The Jerusalem Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "democratic party",
+   "busquedas": "100+",
+   "nota": "Ocasio-Cortez Has Evolved. She Wants the Left to Evolve, Too.",
+   "nota_url": "https://www.nytimes.com/2026/11/01/us/politics/ocasio-cortez-dsa.html",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sangre dinosaurio",
+   "busquedas": "1000+",
+   "nota": "Brasil: hallan posible sangre de dinosaurio en un fósil de 115 millones de años",
+   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-3-10-18-0-brasil-hallan-posible-sangre-de-dinosaurio-en-un-fosil-de-115-millones-de-anos",
+   "medio": "La Nueva Provincia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "callum turner",
+   "busquedas": "100+",
+   "nota": "James Bond ya tendría a su nuevo protagonista: quién es el actor que suena para reemplazar a Daniel Craig",
+   "nota_url": "https://www.rionegro.com.ar/cultura/james-bond-ya-tendria-a-su-nuevo-protagonista-quien-es-el-actor-que-suena-para-reemplazar-a-daniel-craig-4782926/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "finanzas",
+   "busquedas": "200+",
+   "nota": "Polémica en el mercado: el Gobierno dará marcha atrás con el cobro de Ganancias por la venta de acciones de empresas extranjeras",
+   "nota_url": "https://www.clarin.com/economia/gobierno-busca-cobrar-ganancias-inviertan-acciones-empresas-extranjeras-cambia-ahorristas_0_9oa7iXNEdc.html",
+   "medio": "Clarin.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "cronicazo de hoy",
    "busquedas": "500+",
    "nota": "El Cronicazo, la \"biblia de los apostadores\", despide la semana con todos los números de la suerte para la Qui",
    "nota_url": "https://www.cronica.com.ar/numerosydestino/el-cronicazo-la-biblia-de-los-apostadores-despide-la-semana-con-todos-los-numeros-de-la-suerte-para-la-quiniela/",
    "medio": "Crónica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "edificio",
-   "busquedas": "500+",
-   "nota": "Evacuaron el mismo edificio que se incendió el miércoles pasado en el centro",
-   "nota_url": "https://www.mendozapost.com/policiales/evacuaron-el-mismo-edificio-que-se-incendio-la-semana-pasada-en-el-centro/",
-   "medio": "Mendoza Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "airbnb",
-   "busquedas": "1000+",
-   "nota": "Airbnb Pours Millions Into L.A. City Elections Ahead of Olympics",
-   "nota_url": "https://capitalandmain.com/airbnb-pours-millions-into-l-a-city-elections-ahead-of-olympics",
-   "medio": "Capital & Main",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ramón díaz",
-   "busquedas": "200+",
-   "nota": "La ambigua frase de Stefano Di Carlo sobre la continuidad en River de Leonardo Ponzio",
-   "nota_url": "https://www.tycsports.com/river-plate/ambigua-frase-stefano-di-carlo-sobre-continuidad-river-leonardo-ponzio-id769352.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "play-off",
-   "busquedas": "200+",
-   "nota": "College Football Playoff rankings schedule, release dates",
-   "nota_url": "https://www.ncaa.com/news/football/article/2026-11-03/when-do-college-football-playoff-rankings-come-out",
-   "medio": "NCAA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "us elections",
-   "busquedas": "100+",
-   "nota": "How House districts might shift in the 2026 midterms",
-   "nota_url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis",
-   "medio": "CNN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de feyenoord contra inter milan",
-   "busquedas": "500+",
-   "nota": "The thrilling Champions League clash between Inter Milan and Feyenoord is streaming live today — here’s exact",
-   "nota_url": "https://www.oregonlive.com/tv/2026/11/the-thrilling-champions-league-clash-between-inter-milan-and-feyenoord-is-streaming-live-today-heres-exactly-how-to-watch.html",
-   "medio": "OregonLive.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de atlético de madrid contra bayern",
-   "busquedas": "10000+",
-   "nota": "¡Le rompió el arco! Laimer fusiló a Oblak para el 2-0 de Bayern vs. Atlético de Madrid",
-   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17472149/video-atletico-madrid-vs-bayern-munich-fecha-4-fase-liga-champions",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de fc barcelona contra aston villa",
-   "busquedas": "2000+",
-   "nota": "Barcelona 3-0 Aston Villa: Raphinha brace ends visitors’ perfect Champions League start",
-   "nota_url": "https://sports.yahoo.com/articles/barcelona-3-0-aston-villa-000000322.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "elon musk",
-   "busquedas": "500+",
-   "nota": "Musk’s Half-Billion-Dollar Midterms Bet To Stay Out Of Trouble",
-   "nota_url": "https://www.levernews.com/musks-half-billion-dollar-midterms-bet-to-stay-out-of-trouble/",
-   "medio": "The Lever",
    "relevante": false,
    "temas": []
   }
