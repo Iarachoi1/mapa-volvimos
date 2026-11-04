@@ -1,5 +1,5 @@
 {
- "actualizado": "04/11 01:42",
+ "actualizado": "04/11 02:46",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -8,18 +8,9 @@
   {
    "tema": "fin de semana",
    "busquedas": "200+",
-   "nota": "La disputa entre los obispos y el Gobierno por la palabra de León XIV",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/03/la-disputa-entre-los-obispos-y-el-gobierno-por-la-palabra-de-leon-xiv/",
-   "medio": "Página|12",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de alianza lima contra cienciano",
-   "busquedas": "2000+",
-   "nota": "Alianza Lima vs. Cienciano, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
-   "nota_url": "https://www.tycsports.com/peru/futbol-de-peru/alianza-lima-vs-cienciano-en-vivo-donde-ver-por-tv-y-online-id769867.html",
-   "medio": "TyC Sports",
+   "nota": "Visita del Papa León XIV: cuáles serán los cortes de tránsito en Córdoba",
+   "nota_url": "https://cordoba.gob.ar/visita-del-papa-leon-xiv-cuales-seran-los-cortes-de-transito-en-cordoba/",
+   "medio": "Municipalidad de Córdoba.",
    "relevante": false,
    "temas": []
   },
@@ -33,16 +24,43 @@
    "temas": []
   },
   {
-   "tema": "elecciones",
-   "busquedas": "100+",
-   "nota": "Quién es el candidato argentino que va por una alcaldía en las elecciones de Estados Unidos",
-   "nota_url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/quien-es-el-candidato-argentino-que-va-por-una-alcaldia-en-las-elecciones-de-estados-unidos_609911",
-   "medio": "Cadena 3 Argentina",
-   "relevante": true,
+   "tema": "texas",
+   "busquedas": "200+",
+   "nota": "What divided government could look like if Gina Hinojosa wins",
+   "nota_url": "https://www.texastribune.org/2026/10/30/texas-governor-power-2026-greg-abbott-gina-hinojosa-split-government/",
+   "medio": "The Texas Tribune",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "quien se fue de masterchef hoy",
+   "tema": "gina hinojosa",
+   "busquedas": "500+",
+   "nota": "La demócrata Hinojosa se convierte en la primera latina en gobernar Texas",
+   "nota_url": "https://www.clarin.com/estados-unidos/la-democrata-hinojosa-se-convierte-en-la-primera-latina-en-gobernar-texas_0_gpOrfA4Tkv.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ricardo la volpe",
+   "busquedas": "200+",
+   "nota": "¿Quién era Carlos Albert Llorente?: Exfutbolista y periodista deportivo",
+   "nota_url": "https://bolavip.com/mx/ligamx/quien-era-carlos-albert-llorente-exfutbolista-y-periodista-deportivo",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "internacional vs. coritiba",
+   "busquedas": "200+",
+   "nota": "Eduardo Baptista após vitória no fim: 'É o gol da esperança, é o gol da vida'",
+   "nota_url": "https://www.opovo.com.br/esportes/futebol/2026/11/04/eduardo-baptista-apos-vitoria-no-fim-e-o-gol-da-esperanca-e-o-gol-da-vida.html",
+   "medio": "O POVO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego ramos",
    "busquedas": "2000+",
    "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADO por el jurado este martes",
    "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/04/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
@@ -51,47 +69,29 @@
    "temas": []
   },
   {
-   "tema": "gina hinojosa",
-   "busquedas": "200+",
-   "nota": "Quién es el candidato demócrata que puede arrebatarle Texas a los republicanos y cambiar el Senado",
-   "nota_url": "https://www.cronista.com/internacionales/golpe-para-trump-el-candidato-democrata-que-puede-arrebatarle-texas-a-los-republicanos-y-cambiar-el-senado/",
-   "medio": "El Cronista",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "ricardo la volpe",
-   "busquedas": "200+",
-   "nota": "Muere a los 83 años Carlos Albert, periodista deportivo y exfutbolista",
-   "nota_url": "https://elpais.com/mexico/2026-11-04/muere-a-los-83-anos-carlos-albert-periodista-deportivo-y-exfutbolista.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "internacional vs. coritiba",
-   "busquedas": "200+",
-   "nota": "Cristian Toledo: pênalti infantil de Moledo derruba o Coritiba em Porto Alegre",
-   "nota_url": "https://www.bandab.com.br/esporte/times/coritiba/internacional-coritiba-opiniao-brasileirao-2026/",
-   "medio": "Banda B",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "byron donalds",
    "busquedas": "200+",
-   "nota": "Licensable picture: Attendees wait for election results during the Byron Donalds election night watch party in the Seminole Ballroom at the Seminole",
-   "nota_url": "https://www.reutersconnect.com/item/attendees-wait-for-election-results-during-the-byron-donalds-election-night-watch-party-in-the-seminole-ballroom-at-the-seminole/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyNjk3MjI",
-   "medio": "Reuters Connect",
+   "nota": "Florida Governor 2026: Live Election Results, Jolly vs. Donalds",
+   "nota_url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida-governor.html",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dan osborn",
    "busquedas": "500+",
-   "nota": "Indiana 2026: Live Midterm Election Results",
-   "nota_url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-indiana.html",
-   "medio": "The New York Times",
+   "nota": "LIVE BLOG: Election Day in Oklahoma",
+   "nota_url": "https://fox23.com/news/local/live-blog-election-day-in-oklahoma",
+   "medio": "KOKI FOX 23",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fox news",
+   "busquedas": "200+",
+   "nota": "Trump: Fox News ratings down because of anti-Trump coverage",
+   "nota_url": "https://breakingthenews.net/Article/Trump:-Fox-News-ratings-down-because-of-anti-Trump-coverage/67474465",
+   "medio": "Breakingthenews.net",
    "relevante": false,
    "temas": []
   }
