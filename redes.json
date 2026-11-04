@@ -1,13 +1,31 @@
 {
- "actualizado": "04/11 00:38",
+ "actualizado": "04/11 01:42",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "fin de semana",
+   "busquedas": "200+",
+   "nota": "La disputa entre los obispos y el Gobierno por la palabra de León XIV",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/03/la-disputa-entre-los-obispos-y-el-gobierno-por-la-palabra-de-leon-xiv/",
+   "medio": "Página|12",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de alianza lima contra cienciano",
+   "busquedas": "2000+",
+   "nota": "Alianza Lima vs. Cienciano, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
+   "nota_url": "https://www.tycsports.com/peru/futbol-de-peru/alianza-lima-vs-cienciano-en-vivo-donde-ver-por-tv-y-online-id769867.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "f1 franco colapinto",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Video: por esto sancionaron a Franco Colapinto en el GP de México",
    "nota_url": "https://www.ole.com.ar/autos/francocolapinto-granpremiodemexico-formula1-fia-alpine-banderaamarilla-telemetria_0_WEkcQwKcKh.html",
    "medio": "Olé",
@@ -15,83 +33,65 @@
    "temas": []
   },
   {
+   "tema": "elecciones",
+   "busquedas": "100+",
+   "nota": "Quién es el candidato argentino que va por una alcaldía en las elecciones de Estados Unidos",
+   "nota_url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/quien-es-el-candidato-argentino-que-va-por-una-alcaldia-en-las-elecciones-de-estados-unidos_609911",
+   "medio": "Cadena 3 Argentina",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "quien se fue de masterchef hoy",
-   "busquedas": "500+",
-   "nota": "MasterChef Celebrity 2026: quién fue el quinto eliminado del certamen",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/masterchef-celebrity-2026-quien-fue-quinto-eliminado-certamen-2026113234548",
-   "medio": "El Destape",
+   "busquedas": "2000+",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADO por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/04/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gina hinojosa",
    "busquedas": "200+",
-   "nota": "Texas, la apuesta de los demócratas en las ‘midterms’ para medir el desgaste republicano",
-   "nota_url": "https://elpais.com/us/2026-11-03/texas-la-apuesta-de-los-democratas-en-las-midterms-para-medir-el-desgaste-republicano.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
+   "nota": "Quién es el candidato demócrata que puede arrebatarle Texas a los republicanos y cambiar el Senado",
+   "nota_url": "https://www.cronista.com/internacionales/golpe-para-trump-el-candidato-democrata-que-puede-arrebatarle-texas-a-los-republicanos-y-cambiar-el-senado/",
+   "medio": "El Cronista",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "ricardo la volpe",
    "busquedas": "200+",
-   "nota": "Luto en el periodismo deportivo: Muere Carlos Albert Llorente a los 83 años",
-   "nota_url": "https://www.sopitas.com/deportes/muere-carlos-albert-llorente-83-anos-periodismo-deportivo/",
-   "medio": "Sopitas.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "talarico",
-   "busquedas": "100+",
-   "nota": "Texans vote in most expensive Senate race in US history",
-   "nota_url": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history",
-   "medio": "Al Jazeera",
+   "nota": "Muere a los 83 años Carlos Albert, periodista deportivo y exfutbolista",
+   "nota_url": "https://elpais.com/mexico/2026-11-04/muere-a-los-83-anos-carlos-albert-periodista-deportivo-y-exfutbolista.html",
+   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "internacional vs. coritiba",
    "busquedas": "200+",
-   "nota": "Internacional x Coritiba: veja como foi o resultado do jogo",
-   "nota_url": "https://gauchazh.clicrbs.com.br/esportes/inter/noticia/2026/11/internacional-x-coritiba-veja-como-foi-o-resultado-do-jogo-cmw1389eu00l1015oe4skddzj.html",
-   "medio": "GZH",
+   "nota": "Cristian Toledo: pênalti infantil de Moledo derruba o Coritiba em Porto Alegre",
+   "nota_url": "https://www.bandab.com.br/esporte/times/coritiba/internacional-coritiba-opiniao-brasileirao-2026/",
+   "medio": "Banda B",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diego ramos",
-   "busquedas": "500+",
-   "nota": "La cartelera teatral de 2027 se enriquece con el reestreno de \"Baraka\" protagonizada por Campi",
-   "nota_url": "https://www.cadena3.com/noticia/espectaculos/la-cartelera-teatral-de-2027-se-enriquece-con-el-reestreno-de-baraka-protagonizada-por-campi_609835",
-   "medio": "Cadena 3 Argentina",
-   "relevante": true,
    "temas": []
   },
   {
    "tema": "byron donalds",
    "busquedas": "200+",
-   "nota": "Byron Donalds celebrates Florida win, vows to ‘take Florida to a whole new level’",
-   "nota_url": "https://www.foxnews.com/video/6407880976112",
-   "medio": "Fox News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "washington post",
-   "busquedas": "200+",
-   "nota": "North Carolina U.S. Senate Election 2026 Live Results: Roy Cooper Wins",
-   "nota_url": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results",
-   "medio": "NBC News",
+   "nota": "Licensable picture: Attendees wait for election results during the Byron Donalds election night watch party in the Seminole Ballroom at the Seminole",
+   "nota_url": "https://www.reutersconnect.com/item/attendees-wait-for-election-results-during-the-byron-donalds-election-night-watch-party-in-the-seminole-ballroom-at-the-seminole/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyNjk3MjI",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dan osborn",
    "busquedas": "500+",
-   "nota": "Vermont U.S. Rep. Becca Balint wins reelection",
-   "nota_url": "https://www.ctpublic.org/2026-11-03/u-s-rep-becca-balint-wins-reelection",
-   "medio": "Connecticut Public",
+   "nota": "Indiana 2026: Live Midterm Election Results",
+   "nota_url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-indiana.html",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   }
