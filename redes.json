@@ -1,10 +1,82 @@
 {
- "actualizado": "04/11 05:08",
+ "actualizado": "04/11 06:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "amaia montero",
+   "busquedas": "100+",
+   "nota": "Amaia Montero rompe su silencio tras el acoso que está sufriendo durante su gira con La Oreja de Van Gogh: \"Estoy sufriendo mucho\"",
+   "nota_url": "https://www.marca.com/tiramillas/musica/2026/11/03/amaia-montero-rompe-silencio-acoso-sufriendo-durante-gira-oreja-gogh-sufriendo.html",
+   "medio": "MARCA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima mendoza",
+   "busquedas": "100+",
+   "nota": "A qué hora comienzan a mejorar las condiciones y cómo estará el tiempo este miércoles en Mendoza",
+   "nota_url": "https://www.mdzol.com/sociedad/2026/11/3/a-que-hora-comenzaran-a-mejorar-las-condiciones-y-como-estara-el-tiempo-este-miercoles-en-mendoza-1992903.html",
+   "medio": "MDZ Online",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima formosa",
+   "busquedas": "100+",
+   "nota": "Formosa bajo un cielo oscuro: fuertes lluvias, ráfagas de viento y caída de granizo",
+   "nota_url": "https://www.elcomercial.com.ar/58251-formosa-bajo-un-cielo-oscuro-fuertes-lluvias-rafagas-de-viento-y-caida-de-granizo",
+   "medio": "El Comercial",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lali espósito",
+   "busquedas": "200+",
+   "nota": "La Jaula de la moda del lunes 2 de noviembre de 2026",
+   "nota_url": "https://www.ciudad.com.ar/videos/magazine/2026/11/02/la-jaula-de-la-moda-programa-del-021126-los-looks-de-lali-esposito-y-pedro-rosemblat-en-su-casamiento/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico posadas",
+   "busquedas": "200+",
+   "nota": "​Advierten que el miércoles se intensificarían las lluvias y tormentas",
+   "nota_url": "https://www.stopenlinea.com.ar/noticias/2026/11/02/100833-advierten-que-el-miercoles-se-intensificarian-las-lluvias-y-tormentas",
+   "medio": "Stop en línea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "árbitro",
+   "busquedas": "100+",
+   "nota": "Autoridades de la fecha 16",
+   "nota_url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/",
+   "medio": "Liga Profesional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima corrientes",
+   "busquedas": "500+",
+   "nota": "Alerta amarilla: el SMN anunció la llegada de fuertes lluvias y tormentas eléctricas para el miércoles 4 de noviembre en cuatro provincias",
+   "nota_url": "https://www.cronista.com/informacion-gral/alerta-amarilla-el-smn-anuncio-la-llegada-de-fuertes-lluvias-y-tormentas-electricas-para-el-miercoles-4-de-noviembre-en-cuatro-provincias/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "meteorología",
+   "busquedas": "1000+",
+   "nota": "Alerta amarilla y lluvias: el pronóstico para el fin de semana en Córdoba",
+   "nota_url": "https://eldoce.tv/actualidad/2026/10/29/viernes-caluroso-y-humedo-en-cordoba-cuando-vuelven-las-lluvias-y-el-pronostico-para-el-fin-de-semana/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "67",
    "busquedas": "100+",
@@ -16,83 +88,11 @@
   },
   {
    "tema": "fin de semana",
-   "busquedas": "500+",
-   "nota": "Tras su operación de pulmón, León XIV mantiene intacta la agenda de su gira por Uruguay, la Argentina y Perú",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/tras-su-operacion-de-pulmon-leon-xiv-mantiene-intacta-la-agenda-de-su-gira-por-uruguay-la-argentina-nid03112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "f1 franco colapinto",
-   "busquedas": "200+",
-   "nota": "Video: por esto sancionaron a Franco Colapinto en el GP de México",
-   "nota_url": "https://www.ole.com.ar/autos/francocolapinto-granpremiodemexico-formula1-fia-alpine-banderaamarilla-telemetria_0_WEkcQwKcKh.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "texas",
-   "busquedas": "200+",
-   "nota": "Texas 2026: Live Midterm Election Results",
-   "nota_url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas.html",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gina hinojosa",
-   "busquedas": "500+",
-   "nota": "James Talarico, el seminarista progresista que conquistó el conservador Texas",
-   "nota_url": "https://www.clarin.com/estados-unidos/james-talarico-el-seminarista-progresista-que-conquisto-el-conservador-texas_0_juv3hUmD5V.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ricardo la volpe",
-   "busquedas": "200+",
-   "nota": "¿Quién era Carlos Albert Llorente?: Exfutbolista y periodista deportivo",
-   "nota_url": "https://bolavip.com/mx/ligamx/quien-era-carlos-albert-llorente-exfutbolista-y-periodista-deportivo",
-   "medio": "Bolavip México",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "internacional vs. coritiba",
-   "busquedas": "200+",
-   "nota": "Eduardo Baptista destaca vitória na base da ‘alma’",
-   "nota_url": "https://www.correiodopovo.com.br/esportes/inter/eduardo-baptista-destaca-vitoria-na-base-da-alma-1.1761578",
-   "medio": "Correio do Povo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diego ramos",
    "busquedas": "2000+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADO por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/04/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
+   "nota": "Trenes Argentinos dispondrá un esquema extraordinario con servicios nocturnos y refuerzos especiales por la visita del papa León XIV",
+   "nota_url": "https://www.argentina.gob.ar/noticias/trenes-argentinos-dispondra-un-esquema-extraordinario-con-servicios-nocturnos-y-refuerzos",
+   "medio": "Argentina.gob.ar",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "byron donalds",
-   "busquedas": "200+",
-   "nota": "CNN projects that Republican #ByronDonalds wins the Florida gubernatorial race. He makes history becoming the first Black governor in Florida’s history. (📸: @gettyimages) ✍🏾: #TSRStaffST",
-   "nota_url": "https://www.instagram.com/p/DfTZ3x4u4DH/",
-   "medio": "Instagram",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "washington post",
-   "busquedas": "200+",
-   "nota": "CFK habló de su posible candidatura en 2027; Milei vuelve a viajar a España; Los audios del VAR de River-Boca y más...",
-   "nota_url": "https://www.filo.news/noticia/2026/11/02/cfk-hablo-de-su-posible-candidatura-en-2027-milei-vuelve-a-viajar-a-espana-los-audios-del-var-de-river-boca-y-mas",
-   "medio": "Filo News",
-   "relevante": true,
    "temas": []
   }
  ],
