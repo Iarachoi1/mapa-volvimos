@@ -1,13 +1,40 @@
 {
- "actualizado": "04/11 06:47",
+ "actualizado": "04/11 07:57",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "amaia montero",
+   "tema": "club atlético aldosivi",
+   "busquedas": "200+",
+   "nota": "Blindan el Minella: fuerte operativo de seguridad y más de 500 agentes para Aldosivi-River",
+   "nota_url": "https://ahoramardelplata.com.ar/2/blindan-el-minella-fuerte-operativo-de-seguridad-y-mas-de-500-agentes-para-aldosivi-river",
+   "medio": "AHORA Mar del Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos albert llorente",
+   "busquedas": "500+",
+   "nota": "¿Quién era Carlos Albert Llorente?: Exfutbolista y periodista deportivo",
+   "nota_url": "https://bolavip.com/mx/ligamx/quien-era-carlos-albert-llorente-exfutbolista-y-periodista-deportivo",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético nueva chicago",
    "busquedas": "100+",
+   "nota": "Sergio Rondina tras la victoria de Chacarita: \"No es un festejo, es un desahogo\"",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17468486/sergio-rondina-tras-la-victoria-de-chacarita-no-es-un-festejo-es-un-desahogo",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "amaia montero",
+   "busquedas": "200+",
    "nota": "Amaia Montero rompe su silencio tras el acoso que está sufriendo durante su gira con La Oreja de Van Gogh: \"Estoy sufriendo mucho\"",
    "nota_url": "https://www.marca.com/tiramillas/musica/2026/11/03/amaia-montero-rompe-silencio-acoso-sufriendo-durante-gira-oreja-gogh-sufriendo.html",
    "medio": "MARCA",
@@ -16,16 +43,25 @@
   },
   {
    "tema": "clima mendoza",
-   "busquedas": "100+",
-   "nota": "A qué hora comienzan a mejorar las condiciones y cómo estará el tiempo este miércoles en Mendoza",
-   "nota_url": "https://www.mdzol.com/sociedad/2026/11/3/a-que-hora-comenzaran-a-mejorar-las-condiciones-y-como-estara-el-tiempo-este-miercoles-en-mendoza-1992903.html",
-   "medio": "MDZ Online",
+   "busquedas": "200+",
+   "nota": "Clima en Mendoza Observatorio hoy: cuál es el pronóstico del tiempo para el 4 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/mendoza/clima-en-mendoza-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-noviembre-de-2026-nid03112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dinosaurio",
+   "busquedas": "200+",
+   "nota": "El CONICET descubrió un nuevo dinosaurio carnívoro de siete metros en la Patagonia",
+   "nota_url": "https://www.adnsur.com.ar/sociedad/el-conicet-descubrio-un-nuevo-dinosaurio-carnivoro-de-siete-metros-en-la-patagonia_a6aea2a1d42b4064812735ec9",
+   "medio": "ADNSUR",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima formosa",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Formosa bajo un cielo oscuro: fuertes lluvias, ráfagas de viento y caída de granizo",
    "nota_url": "https://www.elcomercial.com.ar/58251-formosa-bajo-un-cielo-oscuro-fuertes-lluvias-rafagas-de-viento-y-caida-de-granizo",
    "medio": "El Comercial",
@@ -33,65 +69,29 @@
    "temas": []
   },
   {
+   "tema": "franco colapinto",
+   "busquedas": "1000+",
+   "nota": "La bronca de Colapinto por “un final muy amargo”",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/02/la-bronca-de-colapinto-por-un-final-muy-amargo/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "lali espósito",
-   "busquedas": "200+",
-   "nota": "La Jaula de la moda del lunes 2 de noviembre de 2026",
-   "nota_url": "https://www.ciudad.com.ar/videos/magazine/2026/11/02/la-jaula-de-la-moda-programa-del-021126-los-looks-de-lali-esposito-y-pedro-rosemblat-en-su-casamiento/",
-   "medio": "Ciudad Magazine",
+   "busquedas": "500+",
+   "nota": "El especial rol de Ale Sergi y Miranda en el casamiento de Lali Espósito y Pedro Rosemblat",
+   "nota_url": "https://caras.perfil.com/noticias/celebridades/especial-rol-ale-sergi-miranda-casamiento-lali-esposito-pedro-rosemblat.phtml",
+   "medio": "Caras",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pronostico posadas",
-   "busquedas": "200+",
-   "nota": "​Advierten que el miércoles se intensificarían las lluvias y tormentas",
-   "nota_url": "https://www.stopenlinea.com.ar/noticias/2026/11/02/100833-advierten-que-el-miercoles-se-intensificarian-las-lluvias-y-tormentas",
-   "medio": "Stop en línea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "árbitro",
-   "busquedas": "100+",
-   "nota": "Autoridades de la fecha 16",
-   "nota_url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/",
-   "medio": "Liga Profesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
    "busquedas": "500+",
-   "nota": "Alerta amarilla: el SMN anunció la llegada de fuertes lluvias y tormentas eléctricas para el miércoles 4 de noviembre en cuatro provincias",
-   "nota_url": "https://www.cronista.com/informacion-gral/alerta-amarilla-el-smn-anuncio-la-llegada-de-fuertes-lluvias-y-tormentas-electricas-para-el-miercoles-4-de-noviembre-en-cuatro-provincias/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "meteorología",
-   "busquedas": "1000+",
-   "nota": "Alerta amarilla y lluvias: el pronóstico para el fin de semana en Córdoba",
-   "nota_url": "https://eldoce.tv/actualidad/2026/10/29/viernes-caluroso-y-humedo-en-cordoba-cuando-vuelven-las-lluvias-y-el-pronostico-para-el-fin-de-semana/",
-   "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "67",
-   "busquedas": "100+",
-   "nota": "Brown vs. Eberly Rematch in Arkansas House District 67",
-   "nota_url": "https://hoodline.com/2026/11/jacksonville-sherwood-rematch-could-test-arkansas-house-gop-supermajority/",
-   "medio": "Hoodline",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fin de semana",
-   "busquedas": "2000+",
-   "nota": "Trenes Argentinos dispondrá un esquema extraordinario con servicios nocturnos y refuerzos especiales por la visita del papa León XIV",
-   "nota_url": "https://www.argentina.gob.ar/noticias/trenes-argentinos-dispondra-un-esquema-extraordinario-con-servicios-nocturnos-y-refuerzos",
-   "medio": "Argentina.gob.ar",
+   "nota": "Clima en Posadas hoy: cuál es el pronóstico del tiempo para el 3 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/misiones/posadas/clima-en-posadas-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-noviembre-de-2026-nid02112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
