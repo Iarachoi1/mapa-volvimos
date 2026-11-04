@@ -1,17 +1,26 @@
 {
- "actualizado": "04/11 02:46",
+ "actualizado": "04/11 03:52",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "fin de semana",
-   "busquedas": "200+",
-   "nota": "Visita del Papa León XIV: cuáles serán los cortes de tránsito en Córdoba",
-   "nota_url": "https://cordoba.gob.ar/visita-del-papa-leon-xiv-cuales-seran-los-cortes-de-transito-en-cordoba/",
-   "medio": "Municipalidad de Córdoba.",
+   "tema": "67",
+   "busquedas": "100+",
+   "nota": "Brown vs. Eberly Rematch in Arkansas House District 67",
+   "nota_url": "https://hoodline.com/2026/11/jacksonville-sherwood-rematch-could-test-arkansas-house-gop-supermajority/",
+   "medio": "Hoodline",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fin de semana",
+   "busquedas": "500+",
+   "nota": "La disputa entre los obispos y el Gobierno por la palabra de León XIV",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/03/la-disputa-entre-los-obispos-y-el-gobierno-por-la-palabra-de-leon-xiv/",
+   "medio": "Página|12",
+   "relevante": true,
    "temas": []
   },
   {
@@ -24,20 +33,11 @@
    "temas": []
   },
   {
-   "tema": "texas",
-   "busquedas": "200+",
-   "nota": "What divided government could look like if Gina Hinojosa wins",
-   "nota_url": "https://www.texastribune.org/2026/10/30/texas-governor-power-2026-greg-abbott-gina-hinojosa-split-government/",
-   "medio": "The Texas Tribune",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "gina hinojosa",
    "busquedas": "500+",
-   "nota": "La demócrata Hinojosa se convierte en la primera latina en gobernar Texas",
-   "nota_url": "https://www.clarin.com/estados-unidos/la-democrata-hinojosa-se-convierte-en-la-primera-latina-en-gobernar-texas_0_gpOrfA4Tkv.html",
-   "medio": "Clarin.com",
+   "nota": "\"Vamos a liderar con una política de valentía\": Gina Hinojosa celebra histórica victoria a la gobernación en Texas",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/04/eeuu/video/gina-hinojosa-texas-gobernadora-democrata",
+   "medio": "CNN en Español",
    "relevante": false,
    "temas": []
   },
@@ -53,9 +53,9 @@
   {
    "tema": "internacional vs. coritiba",
    "busquedas": "200+",
-   "nota": "Eduardo Baptista após vitória no fim: 'É o gol da esperança, é o gol da vida'",
-   "nota_url": "https://www.opovo.com.br/esportes/futebol/2026/11/04/eduardo-baptista-apos-vitoria-no-fim-e-o-gol-da-esperanca-e-o-gol-da-vida.html",
-   "medio": "O POVO",
+   "nota": "Eduardo Baptista destaca vitória na base da ‘alma’",
+   "nota_url": "https://www.correiodopovo.com.br/esportes/inter/eduardo-baptista-destaca-vitoria-na-base-da-alma-1.1761578",
+   "medio": "Correio do Povo",
    "relevante": false,
    "temas": []
   },
@@ -71,27 +71,27 @@
   {
    "tema": "byron donalds",
    "busquedas": "200+",
-   "nota": "Florida Governor 2026: Live Election Results, Jolly vs. Donalds",
-   "nota_url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida-governor.html",
-   "medio": "The New York Times",
+   "nota": "Licensable picture: Florida Gubernatorial Election Race: US Congressional Representative Byron Donalds Wins His Race To Be The Next Governor Of Florida",
+   "nota_url": "https://www.reutersconnect.com/item/florida-gubernatorial-election-race-us-congressional-representative-byron-donalds-wins-his-race-to-be-the-next-governor-of-florida/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBNMzk2Sko",
+   "medio": "Reuters Connect",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "washington post",
+   "busquedas": "200+",
+   "nota": "CFK habló de su posible candidatura en 2027; Milei vuelve a viajar a España; Los audios del VAR de River-Boca y más...",
+   "nota_url": "https://www.filo.news/noticia/2026/11/02/cfk-hablo-de-su-posible-candidatura-en-2027-milei-vuelve-a-viajar-a-espana-los-audios-del-var-de-river-boca-y-mas",
+   "medio": "Filo News",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "dan osborn",
    "busquedas": "500+",
-   "nota": "LIVE BLOG: Election Day in Oklahoma",
-   "nota_url": "https://fox23.com/news/local/live-blog-election-day-in-oklahoma",
-   "medio": "KOKI FOX 23",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fox news",
-   "busquedas": "200+",
-   "nota": "Trump: Fox News ratings down because of anti-Trump coverage",
-   "nota_url": "https://breakingthenews.net/Article/Trump:-Fox-News-ratings-down-because-of-anti-Trump-coverage/67474465",
-   "medio": "Breakingthenews.net",
+   "nota": "Election results schedule and other election information",
+   "nota_url": "https://www.klkntv.com/election-results-schedule-and-other-election-information/",
+   "medio": "KLKN-TV",
    "relevante": false,
    "temas": []
   }
