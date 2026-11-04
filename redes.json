@@ -1,16 +1,52 @@
 {
- "actualizado": "04/11 12:43",
+ "actualizado": "04/11 13:43",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "pensión",
+   "tema": "camión cisterna",
+   "busquedas": "500+",
+   "nota": "4 camiones cisterna explotaron cerca de una estación de servicio en Corrientes",
+   "nota_url": "https://www.ellitoral.com/sucesos/video-viral-corrientes-explotaron-4-camiones-cisternas-cerca-estacion-servicio_0_OS2cimmiMG.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santiago del moro",
+   "busquedas": "100+",
+   "nota": "Santi del Moro: \"haría \"Bailando con las estrellas\" pero falta mucho\"",
+   "nota_url": "https://laubfal.com/santi-del-moro-haria-bailando-con-las-estrellas-pero-falta-mucho/",
+   "medio": "laubfal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sangre de dinosaurio",
    "busquedas": "2000+",
-   "nota": "Calendario PNC de la Anses: cuándo se cobran las Pensiones no Contributivas de noviembre 2026",
-   "nota_url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cuando-se-cobran-las-pensiones-no-contributivas-de-noviembre-2026-nid04112026/",
-   "medio": "La Nación",
+   "nota": "Descubren glóbulos rojos fosilizados de un dinosaurio de hace 115 millones de años",
+   "nota_url": "https://www.clarin.com/internacional/descubren-globulos-rojos-fosilizados-dinosaurio-hace-115-millones-anos_0_un8XCxFhkf.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "superclásico del fútbol argentino",
+   "busquedas": "200+",
+   "nota": "Qué dijo Juan Sebastián Verón tras el polémico arbitraje del Superclásico",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/02/el-mensaje-de-veron-tras-el-polemico-arbitraje-del-superclasico-hacen-sus-negocios-sin-importarle-los-sacrificios-de-los-socios/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pensión",
+   "busquedas": "5000+",
+   "nota": "ANSES confirmó los aumentos y el calendario de pagos de noviembre 2026",
+   "nota_url": "https://www.red43.com.ar/nota/2026-11-3-17-10-59-anses-confirmo-los-aumentos-y-el-calendario-de-pagos-de-noviembre-2026",
+   "medio": "Red43",
    "relevante": false,
    "temas": []
   },
@@ -25,7 +61,7 @@
   },
   {
    "tema": "rennes - olympiacos",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Rennes vs. Olympiacos: horario y dónde ver en vivo y online en Argentina, por la jornada 4 de la Europa League",
    "nota_url": "https://bolavip.com/ar/europa-league/rennes-vs-olympiacos-horario-y-donde-ver-en-vivo-y-online-en-argentina-por-la-jornada-4-de-la-europa-league",
    "medio": "Bolavip Argentina",
@@ -33,17 +69,8 @@
    "temas": []
   },
   {
-   "tema": "álex de miñaur",
-   "busquedas": "100+",
-   "nota": "Hot Shot: Alcaraz breaks brilliantly, on fire early in Vienna 2026 final!",
-   "nota_url": "https://www.atptour.com/en/video/hot-shot-alcaraz-breaks-brilliantly-on-fire-early-in-vienna-2026-final",
-   "medio": "ATP Tour",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "master 1000 paris",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "A pura garra, Juan Manuel Cerúndolo ganó una batalla en París y se metió en el Masters 1000",
    "nota_url": "https://www.losandes.com.ar/deportes/a-pura-garra-juan-manuel-cerundolo-gano-una-batalla-paris-y-se-metio-el-masters-1000-n6012607",
    "medio": "Los Andes",
@@ -60,38 +87,11 @@
    "temas": []
   },
   {
-   "tema": "zverev",
-   "busquedas": "2000+",
-   "nota": "“I’m almost a bit shocked!” Alexander Zverev blows his debut as number one",
-   "nota_url": "https://www.goal.com/en/news/i-m-almost-a-bit-shocked-alexander-zverev-blows-his-debut-as-number-one/blt7354c4c48bb7b0dc",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "atp paris",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "ATP - Rolex Paris Masters > Lorenzo Musetti, après sa victoire contre le numéro 1 mondial, Alexander Zverev : \"C’est assez choquant de voir le niveau auquel j’ai été capable de jouer face à Sascha\"",
    "nota_url": "https://www.welovetennis.fr/atp/atp-rolex-paris-masters/lorenzo-musetti-apres-sa-victoire-contre-le-numero-1-mondial-alexander-zverev-cest-assez-choquant-de-voir-le-niveau-auquel-jai-ete-capable-de-jouer-face-a-sascha",
    "medio": "We Love Tennis",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nelson castro",
-   "busquedas": "2000+",
-   "nota": "Nelson Castro le salvó la vida a una mujer en pleno vuelo a Roma: “Estuvo al borde del paro”",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/04/nelson-castro-le-salvo-la-vida-a-una-mujer-en-pleno-vuelo-a-roma-estuvo-al-borde-del-paro/",
-   "medio": "Ciudad Magazine",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "riesgo pais argentina",
-   "busquedas": "500+",
-   "nota": "Alerta en Argentina por EE UU: dólar y riesgo país, en máximos",
-   "nota_url": "https://www.eldia.com/politica-y-economia/el-riesgo-pais-sube-y-se-mantiene-por-encima-de-los-800-puntos-politica-y-economia_1793721346",
-   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   }
