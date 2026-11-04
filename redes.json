@@ -1,31 +1,49 @@
 {
- "actualizado": "04/11 10:57",
+ "actualizado": "04/11 11:51",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "nelson castro",
+   "tema": "zverev",
    "busquedas": "200+",
-   "nota": "Nelson Castro atendió una emergencia cardíaca a bordo de un avión rumbo a Roma",
-   "nota_url": "https://www.ellitoral.com/show/nelsoncastro-emergenciacardiaca-vuelo-avion-roma-mediconeurologo-bloqueocardiaco-pasajera-infarto_0_NEG7hy87Ep.html",
-   "medio": "El Litoral",
+   "nota": "De Nadal a Sinner: las felicitaciones de los ex N°1 a Zverev tras convertirse en el nuevo líder del ranking ATP",
+   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17468113/de-nadal-a-sinner-las-felicitaciones-de-los-ex-numero-uno-del-mundo-a-zverev-tras-convertirse-en-el-nuevo-lider-del-ranking-atp",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atp paris",
+   "busquedas": "200+",
+   "nota": "Rolex Paris Masters: Van Assche encense Kouame : «Ce n'était pas normal à cet âge»",
+   "nota_url": "https://www.tennisactu.net/news-rolex-paris-masters-van-assche-encense-kouame-ce-n-etait-pas-normal-a-cet-age-128015.html",
+   "medio": "Tennis Actu",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nelson castro",
+   "busquedas": "1000+",
+   "nota": "Dramático episodio en pleno vuelo: Nelson Castro le salvó la vida a una pasajera que sufrió una grave emergencia cardíaca",
+   "nota_url": "https://rivadavia.com.ar/noticias/dramatico-episodio-en-pleno-vuelo-nelson-castro-le-salvo-la-vida-a-una-pasajera-que-sufrio-una-grave-emergencia-cardiaca",
+   "medio": "Radio Rivadavia AM630",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "riesgo pais argentina",
-   "busquedas": "200+",
-   "nota": "Alerta en Argentina por EE UU: dólar y riesgo país, en máximos",
-   "nota_url": "https://www.eldia.com/politica-y-economia/el-riesgo-pais-sube-y-se-mantiene-por-encima-de-los-800-puntos-politica-y-economia_1793721346",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "Riesgo país en picos, dólar en mínimos y (micro) anuncios de Caputo",
+   "nota_url": "https://www.cronista.com/columnistas/riesgo-pais-en-picos-dolar-en-minimos-y-micro-anuncios-de-caputo/",
+   "medio": "El Cronista",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "alexander zverev",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Nadal, Sinner & Sampras share messages for Zverev, newest ATP No. 1 Club member",
    "nota_url": "https://www.atptour.com/en/news/zverev-atp-no-1-club-video-messages",
    "medio": "ATP Tour",
@@ -44,9 +62,9 @@
   {
    "tema": "dia del bancario",
    "busquedas": "100+",
-   "nota": "Día del Bancario: cómo funcionan los bancos el viernes 6 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/economia/dia-del-bancario-como-funcionan-los-bancos-el-viernes-6-de-noviembre-nid03112026/",
-   "medio": "La Nación",
+   "nota": "El Centro Industrial y Comercial difundió el cronograma de feriados bancarios de noviembre y aclaró su impacto en el comercio",
+   "nota_url": "https://www.reconquistahoy.com/93038-el-centro-industrial-y-comercial-difundio-el-cronograma-de-feriados-bancarios-de-noviembre-y-aclaro-su-impacto-en-el-comercio",
+   "medio": "ReconquistaHOY",
    "relevante": false,
    "temas": []
   },
@@ -61,10 +79,10 @@
   },
   {
    "tema": "daniel bifulco",
-   "busquedas": "5000+",
-   "nota": "Murió Daniel Bifulco, el inolvidable Jaimito de Videomatch",
-   "nota_url": "https://www.eldia.com/espectaculos/murio-daniel-bifulco-el-inolvidable-jaimito-de-videomatch-espectaculos_1793796540",
-   "medio": "Diario El Día de La Plata",
+   "busquedas": "10000+",
+   "nota": "El último posteo de Daniel Bifulco horas antes de morir que dejó en shock a sus seguidores",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/04/el-ultimo-posteo-de-daniel-bifulco-horas-antes-de-morir-que-dejo-en-shock-a-sus-seguidores/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -74,24 +92,6 @@
    "nota": "Fery suffers first-round defeat in Paris Masters",
    "nota_url": "https://sports.yahoo.com/articles/fery-suffers-first-round-defeat-121945675.html",
    "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "irán",
-   "busquedas": "100+",
-   "nota": "Elecciones de mitad de mandato e Irán: el Congreso podría cambiar de manos, pero Trump seguiría controlando la guerra",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/02/mundo/video/elecciones-trump-iran",
-   "medio": "CNN en Español",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "abdul el sayed",
-   "busquedas": "500+",
-   "nota": "Midterms 2026 highlights: Democrats win control of Congress",
-   "nota_url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
-   "medio": "NBC News",
    "relevante": false,
    "temas": []
   }
