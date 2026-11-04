@@ -1,13 +1,40 @@
 {
- "actualizado": "04/11 08:47",
+ "actualizado": "04/11 09:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "michael douglas",
+   "tema": "daniel bifulco",
+   "busquedas": "200+",
+   "nota": "Murió Daniel Bifulco, uno de \"Los Jaimitos\" de Videomatch",
+   "nota_url": "https://www.infoveloz.com/post/murio-daniel-bifulco-uno-de-los-jaimitos-de-videomatch_285684",
+   "medio": "InfoVeloz.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "frances tiafoe",
    "busquedas": "100+",
+   "nota": "Mattia Bellucci vs Arthur Rinderknech: Set 1 Winner Prediction Market",
+   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/mattia-bellucci-vs-arthur-rinderknech-set-1-winner-nov-03-2026/",
+   "medio": "Robinhood",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "irán",
+   "busquedas": "100+",
+   "nota": "El brent cae por segundo día y cierra en 103,60 dólares el barril",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/03/el-brent-cae-por-segundo-dia-y-cierra-en-10360-dolares-el-barril/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "michael douglas",
+   "busquedas": "200+",
    "nota": "Michael Douglas Says Glenn Close, Not Cher, Deserved the 1988 Best Actress Oscar",
    "nota_url": "https://www.imdb.com/fr/news/ni66094561/?ref_=nm_nwr_1",
    "medio": "IMDb",
@@ -16,10 +43,10 @@
   },
   {
    "tema": "abdul el sayed",
-   "busquedas": "1000+",
-   "nota": "Democrat Abdul El-Sayed defeats Mike Rogers in Michigan to become first Muslim U.S. senator",
-   "nota_url": "https://www.washingtonpost.com/elections/results/2026/11/03/michigan-senate-el-sayed-rogers-live-updates/",
-   "medio": "The Washington Post",
+   "busquedas": "500+",
+   "nota": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+   "nota_url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
@@ -44,9 +71,9 @@
   {
    "tema": "carlos albert llorente",
    "busquedas": "500+",
-   "nota": "¿Quién era Carlos Albert Llorente?: Exfutbolista y periodista deportivo",
-   "nota_url": "https://bolavip.com/mx/ligamx/quien-era-carlos-albert-llorente-exfutbolista-y-periodista-deportivo",
-   "medio": "Bolavip México",
+   "nota": "Carlos Albert y las polémicas que marcaron su trayectoria en el periodismo deportivo",
+   "nota_url": "https://www.marca.com/mx/actualidad/sucesos/2026/11/04/carlos-albert-polemicas-marcaron-trayectoria-periodismo-deportivo.html",
+   "medio": "MARCA",
    "relevante": false,
    "temas": []
   },
@@ -60,39 +87,12 @@
    "temas": []
   },
   {
-   "tema": "amaia montero",
-   "busquedas": "200+",
-   "nota": "Amaia Montero rompe su silencio tras el acoso que está sufriendo durante su gira con La Oreja de Van Gogh: \"Estoy sufriendo mucho\"",
-   "nota_url": "https://www.marca.com/tiramillas/musica/2026/11/03/amaia-montero-rompe-silencio-acoso-sufriendo-durante-gira-oreja-gogh-sufriendo.html",
-   "medio": "MARCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima mendoza",
-   "busquedas": "200+",
-   "nota": "Clima en Mendoza Observatorio hoy: cuál es el pronóstico del tiempo para el 4 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/mendoza/clima-en-mendoza-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-4-de-noviembre-de-2026-nid03112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dinosaurio",
-   "busquedas": "2000+",
-   "nota": "Descubren glóbulos rojos fosilizados de un dinosaurio de hace 115 millones de años",
-   "nota_url": "https://www.clarin.com/internacional/descubren-globulos-rojos-fosilizados-dinosaurio-hace-115-millones-anos_0_un8XCxFhkf.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima formosa",
-   "busquedas": "200+",
-   "nota": "Formosa bajo un cielo oscuro: fuertes lluvias, ráfagas de viento y caída de granizo",
-   "nota_url": "https://www.elcomercial.com.ar/58251-formosa-bajo-un-cielo-oscuro-fuertes-lluvias-rafagas-de-viento-y-caida-de-granizo",
-   "medio": "El Comercial",
-   "relevante": false,
+   "tema": "pagina 12",
+   "busquedas": "500+",
+   "nota": "Elecciones en Estados Unidos: quiénes son los candidatos que hicieron historia con sus triunfos",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/04/elecciones-en-estados-unidos-quienes-son-los-candidatos-que-hicieron-historia-con-triunfos-ineditos/",
+   "medio": "TN",
+   "relevante": true,
    "temas": []
   }
  ],
