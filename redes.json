@@ -1,13 +1,40 @@
 {
- "actualizado": "04/11 07:57",
+ "actualizado": "04/11 08:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "club atlético aldosivi",
+   "tema": "michael douglas",
+   "busquedas": "100+",
+   "nota": "Michael Douglas Says Glenn Close, Not Cher, Deserved the 1988 Best Actress Oscar",
+   "nota_url": "https://www.imdb.com/fr/news/ni66094561/?ref_=nm_nwr_1",
+   "medio": "IMDb",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "abdul el sayed",
+   "busquedas": "1000+",
+   "nota": "Democrat Abdul El-Sayed defeats Mike Rogers in Michigan to become first Muslim U.S. senator",
+   "nota_url": "https://www.washingtonpost.com/elections/results/2026/11/03/michigan-senate-el-sayed-rogers-live-updates/",
+   "medio": "The Washington Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recibo de sueldo",
    "busquedas": "200+",
+   "nota": "Homologaron el acuerdo paritario de Comercio: aumento del 5,7% en tres tramos",
+   "nota_url": "https://www.conclusion.com.ar/gremiales/homologaron-el-acuerdo-paritario-de-comercio-aumento-del-57-en-tres-tramos/11/2026/",
+   "medio": "Diario Digital Conclusión",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético aldosivi",
+   "busquedas": "100+",
    "nota": "Blindan el Minella: fuerte operativo de seguridad y más de 500 agentes para Aldosivi-River",
    "nota_url": "https://ahoramardelplata.com.ar/2/blindan-el-minella-fuerte-operativo-de-seguridad-y-mas-de-500-agentes-para-aldosivi-river",
    "medio": "AHORA Mar del Plata",
@@ -25,7 +52,7 @@
   },
   {
    "tema": "club atlético nueva chicago",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Sergio Rondina tras la victoria de Chacarita: \"No es un festejo, es un desahogo\"",
    "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17468486/sergio-rondina-tras-la-victoria-de-chacarita-no-es-un-festejo-es-un-desahogo",
    "medio": "ESPN Argentina",
@@ -52,10 +79,10 @@
   },
   {
    "tema": "dinosaurio",
-   "busquedas": "200+",
-   "nota": "El CONICET descubrió un nuevo dinosaurio carnívoro de siete metros en la Patagonia",
-   "nota_url": "https://www.adnsur.com.ar/sociedad/el-conicet-descubrio-un-nuevo-dinosaurio-carnivoro-de-siete-metros-en-la-patagonia_a6aea2a1d42b4064812735ec9",
-   "medio": "ADNSUR",
+   "busquedas": "2000+",
+   "nota": "Descubren glóbulos rojos fosilizados de un dinosaurio de hace 115 millones de años",
+   "nota_url": "https://www.clarin.com/internacional/descubren-globulos-rojos-fosilizados-dinosaurio-hace-115-millones-anos_0_un8XCxFhkf.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "Formosa bajo un cielo oscuro: fuertes lluvias, ráfagas de viento y caída de granizo",
    "nota_url": "https://www.elcomercial.com.ar/58251-formosa-bajo-un-cielo-oscuro-fuertes-lluvias-rafagas-de-viento-y-caida-de-granizo",
    "medio": "El Comercial",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "franco colapinto",
-   "busquedas": "1000+",
-   "nota": "La bronca de Colapinto por “un final muy amargo”",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/02/la-bronca-de-colapinto-por-un-final-muy-amargo/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lali espósito",
-   "busquedas": "500+",
-   "nota": "El especial rol de Ale Sergi y Miranda en el casamiento de Lali Espósito y Pedro Rosemblat",
-   "nota_url": "https://caras.perfil.com/noticias/celebridades/especial-rol-ale-sergi-miranda-casamiento-lali-esposito-pedro-rosemblat.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico posadas",
-   "busquedas": "500+",
-   "nota": "Clima en Posadas hoy: cuál es el pronóstico del tiempo para el 3 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/misiones/posadas/clima-en-posadas-hoy-cual-es-el-pronostico-del-tiempo-para-el-3-de-noviembre-de-2026-nid02112026/",
-   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
