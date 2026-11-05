@@ -1,10 +1,16 @@
 {
  "semana": "5 de noviembre de 2026",
  "fecha": "2026-11-05",
- "actualizado": "05/11 09:19",
+ "actualizado": "05/11 11:06",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "El peronismo quiere sumar a Larreta y Lousteau para enfrentar a Milei en CABA",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "05/11/2026",
+     "url": "https://bardeo.news/politica/el-peronismo-quiere-sumar-a-larreta-y-lousteau-para-enfrentar-a-milei-en-caba_a6aec787e3904a4369c3125aa"
+    },
     {
      "titulo": "Voto castigo, ola demócrata y el futuro de Donald Trump: las claves de las elecciones de EE.UU",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
@@ -13,17 +19,11 @@
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     },
     {
-     "titulo": "El día después: cayó el dólar tras la derrota republicana",
+     "titulo": "¿Qué nos hace humanos? El papa León XIV frente a la inteligencia artificial",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "05/11/2026",
-     "url": "https://cenital.com/el-dia-despues-cayo-el-dolar-tras-la-derrota-republicana/",
+     "url": "https://cenital.com/que-nos-hace-humanos-el-papa-leon-xiv-frente-a-la-inteligencia-artificial/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    },
-    {
-     "titulo": "Pergolini reveló qué no salió al aire de la nota con Ronnie Wood",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "05/11/2026",
-     "url": "https://bardeo.news/entretenimiento/pergolini-revelo-que-no-salio-al-aire-de-la-nota-con-ronnie-wood_a6aec692c3904a4369c2f5725"
     }
    ],
    "imagen": []
@@ -31,10 +31,10 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "Bullrich se interpone en el vínculo entre el Gobierno y el PRO, crece el malestar y se demora un acuerdo electoral",
-     "medio": "Infobae",
+     "titulo": "Tensión con Bullrich. En el Gobierno ya evalúan otros nombres para ir con Milei en la boleta presidencial",
+     "medio": "La Nación",
      "fecha": "05/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/05/bullrich-se-interpone-en-el-vinculo-entre-el-gobierno-y-el-pro-crece-el-malestar-y-se-demora-un-acuerdo-electoral/",
+     "url": "https://www.lanacion.com.ar/politica/por-los-desmarques-de-bullrich-en-el-gobierno-ya-evaluan-otros-nombres-para-acompanar-a-milei-en-la-nid05112026/",
      "tag": "Política"
     },
     {
@@ -52,11 +52,25 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "Sánchez y Milei se cruzaron y tuvieron un frío saludo en la Cumbre Iberoamericana",
-     "medio": "El Destape",
+     "titulo": "Bullrich se interpone en el vínculo entre el Gobierno y el PRO, crece el malestar y se demora un acuerdo electoral",
+     "medio": "Infobae",
      "fecha": "05/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/argentina---sanchez-y-milei-mantienen-un-frio-saludo-al-inicio-de-la-cumbre-iberoamericana-en-madrid-20261155382",
-     "tag": "Política · También en La Nación, Perfil"
+     "url": "https://www.infobae.com/politica/2026/11/05/bullrich-se-interpone-en-el-vinculo-entre-el-gobierno-y-el-pro-crece-el-malestar-y-se-demora-un-acuerdo-electoral/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Cumbre Iberoamericana Javier Milei y Pedro Sánchez se cruzaron en Madrid con un saludo frío y distante Los mandatarios tuvieron su primer encuentro cara a cara tras meses de enfrentamientos e insultos.",
+     "medio": "Perfil",
+     "fecha": "05/11/2026",
+     "url": "https://www.perfil.com/politica/javier-milei-y-pedro-sanchez-se-cruzaron-en-madrid-con-un-saludo-frio-y-distante-aopfp9m3ybwL",
+     "tag": "Política · También en El Destape, La Nación"
+    },
+    {
+     "titulo": "Cumbre Iberoamericana Frente a Pedro Sánchez, Javier Milei dijo: \"La máxima fascista describe a los estados socialistas\"",
+     "medio": "Perfil",
+     "fecha": "05/11/2026",
+     "url": "https://www.perfil.com/politica/frente-a-pedro-sanchez-javier-milei-dijo-la-maxima-fascista-describe-a-los-estados-socialistas-ayxFp3C1tLjf",
+     "tag": "Política"
     },
     {
      "titulo": "Milei asimila el impacto de la derrota de Trump y persiste la tensión en los mercados",
@@ -85,18 +99,11 @@
      "fecha": "05/11/2026",
      "url": "https://www.letrap.com.ar/politica/javier-milei-espana-gelido-saludo-el-dictador-pedro-sanchez-y-ataque-al-socialismo-fascista-n5427997",
      "tag": "Política"
-    },
-    {
-     "titulo": "Javier Milei en la Cumbre Iberoamericana: \"Malvinas es una causa sagrada\"",
-     "medio": "Perfil",
-     "fecha": "05/11/2026",
-     "url": "https://www.perfil.com/politica/javier-milei-en-la-cumbre-iberoamericana-malvinas-es-una-causa-sagrada-ayxFp3C1tLjf",
-     "tag": "Política"
     }
    ],
    "imagen": [
     {
-     "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Felipe Leibovich",
+     "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Una encuesta de CB Global Data midió la imagen positiva y negativa de los tres dirigentes en el Conurbano. Felipe Leibovich",
      "medio": "Perfil",
      "fecha": "05/11/2026",
      "url": "https://www.perfil.com/politica/encuesta-kicillof-milei-y-bullrich-quien-tiene-mejor-imagen-en-24-distritos-del-gba-atPV21k8cdvT"
@@ -112,21 +119,27 @@
      "url": "https://www.infobae.com/politica/2026/11/05/kicillof-y-el-cristinismo-pausaron-la-interna-maximo-kirchner-presidira-el-congreso-del-pj-bonaerense/"
     },
     {
+     "titulo": "Kicillof envía su último Presupuesto a la Legislatura bonaerense",
+     "medio": "Diagonales",
+     "fecha": "05/11/2026",
+     "url": "https://www.diagonales.com/legislatura/kicillof-envia-su-ultimo-presupuesto-a-la-legislatura-bonaerense-_a6aec71533904a4369c30593e"
+    },
+    {
      "titulo": "Kicillof respaldó la reelección de los intendentes: “Espero que prospere”",
      "medio": "Diagonales",
      "fecha": "05/11/2026",
      "url": "https://www.diagonales.com/provincia/kicillof-respaldo-la-reeleccion-de-los-intendentes---espero-que-prospere-_a6aec6a333904a4369c2f7b75"
-    },
-    {
-     "titulo": "La maniobra de Axel Kicillof para blindar los fondos públicos de embargos judiciales",
-     "medio": "Info Cielo",
-     "fecha": "05/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/la-maniobra-de-axel-kicillof-para-blindar-los-fondos-publicos-de-embargos-judiciales"
     }
    ],
    "imagen": [
     {
-     "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Felipe Leibovich",
+     "titulo": "Kicillof y La Cámpora ensayan una tibia tregua, con 2027 y las candidaturas en disputa REUNION AGENDADA",
+     "medio": "La Tecla",
+     "fecha": "05/11/2026",
+     "url": "https://www.latecla.info/170940-kicillof-y-la-campora-ensayan-una-tibia-tregua-con-2027-y-las-candidaturas-en-disputa"
+    },
+    {
+     "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Una encuesta de CB Global Data midió la imagen positiva y negativa de los tres dirigentes en el Conurbano. Felipe Leibovich",
      "medio": "Perfil",
      "fecha": "05/11/2026",
      "url": "https://www.perfil.com/politica/encuesta-kicillof-milei-y-bullrich-quien-tiene-mejor-imagen-en-24-distritos-del-gba-atPV21k8cdvT"
@@ -136,16 +149,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "En España Milei faltó a la inauguración de la Cumbre Iberoamericana y se reunió con Santiago Abascal",
+     "titulo": "video España El frío saludo entre Milei y Pedro Sánchez luego de los insultos del mandatario libertario",
      "medio": "El Ancasti",
      "fecha": "05/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/milei-falto-la-inauguracion-la-cumbre-iberoamericana-y-se-reunio-santiago-abascal-n625439"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-frio-saludo-milei-y-pedro-sanchez-luego-los-insultos-del-mandatario-libertario-n625454"
     },
     {
-     "titulo": "Naciones Unidas La Argentina rechazó apoyar a la Corte Penal Internacional y recibió críticas por su voto en la ONU",
+     "titulo": "Económia El Gobierno repartió menos del 20% de los fondos de emergencia a las provincias",
      "medio": "El Ancasti",
      "fecha": "05/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-argentina-rechazo-apoyar-la-corte-penal-internacional-y-recibio-criticas-su-voto-la-onu-n625446"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-gobierno-repartio-menos-del-20-los-fondos-emergencia-las-provincias-n625452"
     }
    ],
    "imagen": []
@@ -153,23 +166,41 @@
   "Chubut": {
    "top3": [
     {
+     "titulo": "Crisis política: Soria pagará los sueldos en cuotas en Roca y tambalea su candidatura a gobernadora",
+     "medio": "ADN Sur",
+     "fecha": "05/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/crisis-politica--soria-pagara-los-sueldos-en-cuotas-en-roca-y-tambalea-su-candidatura-a-gobernadora_a6aec6b75d4b6e4d63e6f2136"
+    },
+    {
      "titulo": "Figueroa respaldó eliminar las PASO: “Los partidos tienen que dirimir solos sus internas”",
      "medio": "ADN Sur",
      "fecha": "05/11/2026",
      "url": "https://www.adnsur.com.ar/politica/figueroa-respaldo-eliminar-las-paso---los-partidos-tienen-que-dirimir-solos-sus-internas-_a6aec6922d4b6e4d63e6ee59f"
     },
     {
-     "titulo": "Alerta amarilla por lluvias en Comodoro: a qué hora comenzarían las precipitaciones este jueves",
-     "medio": "ADN Sur",
+     "titulo": "Elecciones en Gaiman: La candidata Marlén Rodríguez abrió su local de campaña",
+     "medio": "El Chubut",
      "fecha": "05/11/2026",
-     "url": "https://www.adnsur.com.ar/sociedad/alerta-amarilla-por-lluvias-en-comodoro--a-que-hora-comenzarian-las-precipitaciones-este-jueves_a6aec6c10d4b6e4d63e6f2f72",
-     "tag": "También en Diario Jornada"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-5-10-53-0-elecciones-en-gaiman-la-candidata-marlen-rodriguez-abrio-su-local-de-campana"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Perdió Trump y una encuesta midió el impacto en la Argentina",
+     "medio": "Diario Jornada",
+     "fecha": "05/11/2026",
+     "url": "https://www.diariojornada.com.ar/426555/politica/perdio_trump_y_una_encuesta_midio_el_impacto_en_la_argentina"
+    }
+   ]
   },
   "Córdoba": {
    "top3": [
+    {
+     "titulo": "Discapacidad reavivó las internas en el Gobierno y profundizó el enfrentamiento entre Bullrich y Caputo",
+     "medio": "Hoy Dia",
+     "fecha": "05/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/discapacidad-reavivo-las-internas-en-el-gobierno-y-profundizo-el-enfrentamiento-entre-bullrich-y-caputo/"
+    },
     {
      "titulo": "La Legislatura aprobó una ley que amplía los beneficios impositivos para las pymes",
      "medio": "Hoy Dia",
@@ -177,23 +208,24 @@
      "url": "https://hoydia.com.ar/politica/cordoba/la-legislatura-aprobo-una-ley-que-amplia-los-beneficios-impositivos-para-las-pymes/"
     },
     {
-     "titulo": "Viaje presidencial. Milei se vio cara a cara con Pedro Sánchez, tras llamarlo \"impresentable dictador\" y \"delincuente\"",
-     "medio": "Cadena3",
+     "titulo": "Amenazaron de muerte al ministro Quinteros y le mandaron una foto con un arsenal de armas",
+     "medio": "ElDoce",
      "fecha": "05/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/milei-se-vio-cara-a-cara-con-pedro-sanchez-tras-llamarlo-impresentable-dictador-y-delincuente_610358",
-     "tag": "También en ElDoce"
-    },
-    {
-     "titulo": "Elecciones EE.UU. El impacto de la derrota de Trump en Argentina: \"Se empieza a cortar la discrecionalidad\"",
-     "medio": "Cadena3",
-     "fecha": "05/11/2026",
-     "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/el-impacto-de-la-derrota-de-trump-en-argentina-se-empieza-a-cortar-la-discrecionalidad_610406"
+     "url": "https://eldoce.tv/politica/2026/11/05/amenazaron-de-muerte-al-ministro-quinteros-y-le-mandaron-una-foto-con-un-arsenal-de-armas/",
+     "tag": "También en Hoy Dia"
     }
    ],
    "imagen": []
   },
   "Entre Ríos": {
    "top3": [
+    {
+     "titulo": "Entidades rurales de Entre Ríos respaldaron la emergencia agropecuaria declarada por el gobierno",
+     "medio": "El Once",
+     "fecha": "05/11/2026",
+     "url": "https://www.elonce.com/politica/entidades-rurales-respaldaron-la-emergencia-agropecuaria.htm",
+     "tag": "También en AFP Digital, Ahora y 1 más"
+    },
     {
      "titulo": "Diputados emitió dictamen para el Presupuesto 2027 y analizó la reforma de la Ley de Obras Públicas",
      "medio": "AFP Digital",
@@ -206,12 +238,6 @@
      "fecha": "05/11/2026",
      "url": "https://www.elonce.com/politica/cierran-72-registros-automotores-seis-estan-en-entre-rios.htm",
      "tag": "También en AFP Digital, UNO ER"
-    },
-    {
-     "titulo": "Todos los gobernadores y varios empresarios participarán del encuentro institucional con el Papa",
-     "medio": "El Once",
-     "fecha": "05/11/2026",
-     "url": "https://www.elonce.com/politica/leon-xiv-reunira-a-milei-villarruel-y-gobernadores.htm"
     }
    ],
    "imagen": []
@@ -225,18 +251,17 @@
      "url": "https://www.somosjujuy.com.ar/politica/dos-diputados-van-jujuy-crece-pidieron-armar-otro-bloque-legislatura-n126671"
     },
     {
-     "titulo": "El Gobierno de Jujuy habilita el trámite para acceder al reconocimiento de extrabajadores del Banco Provincia",
-     "medio": "Jujuy al día",
-     "fecha": "05/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/05/el-gobierno-de-jujuy-habilita-el-tramite-para-acceder-al-reconocimiento-de-extrabajadores-del-banco-provincia/",
-     "tag": "También en Todo Jujuy, El Tribuno"
-    },
-    {
-     "titulo": "Jujuy celebra por primera vez el Día del Folklorista Jujeño en homenaje a Ricardo Vilca y Amaranto Chañi",
+     "titulo": "Se suspendió la sesión en la Legislatura y quedó en duda el tratamiento del proyecto de la Travesía Urbana",
      "medio": "Somos Jujuy",
      "fecha": "05/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/jujuy-celebra-primera-vez-dia-folklorista-jujeno-homenaje-ricardo-vilca-amaranto-chani-n126668",
-     "tag": "También en Todo Jujuy"
+     "url": "https://www.somosjujuy.com.ar/jujuy/se-suspendio-sesion-legislatura-quedo-duda-tratamiento-proyecto-travesia-urbana-n126681"
+    },
+    {
+     "titulo": "Sadir presentó una nueva etapa del Plan Estratégico Jujuy 2040 con participación ciudadana",
+     "medio": "Prensa oficial de Jujuy",
+     "fecha": "05/11/2026",
+     "url": "https://prensa.jujuy.gob.ar/sadir/sadir-presento-una-nueva-etapa-del-plan-estrategico-jujuy-2040-participacion-ciudadana-n125854",
+     "tag": "También en Somos Jujuy"
     }
    ],
    "imagen": []
@@ -244,22 +269,23 @@
   "La Pampa": {
    "top3": [
     {
+     "titulo": "El presupuesto 2027 toma estado parlamentario",
+     "medio": "La Arena",
+     "fecha": "05/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-2027-toma-estado-parlamentario-20261159300"
+    },
+    {
+     "titulo": "Vivo: Ziliotto presenta las oportunidades pampeanas",
+     "medio": "La Arena",
+     "fecha": "05/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/ziliotto-presenta-las-oportunidades-de-la-pampa-ante-mas-de-400-empresarios-de-todo-el-pais-202611510370",
+     "tag": "También en La Pampa 24"
+    },
+    {
      "titulo": "La recaudación del juego se estancó en La Pampa y perdió 7% frente a la inflación",
      "medio": "El Diario de La Pampa",
      "fecha": "05/11/2026",
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82656/la-recaudacion-del-juego-se-estanco-en-la-pampa-y-perdio-7-en-porciento--frente-a-la-inflacion"
-    },
-    {
-     "titulo": "Aplastante derrota de Trump en las elecciones",
-     "medio": "La Arena",
-     "fecha": "05/11/2026",
-     "url": "https://www.laarena.com.ar/el-mundo/aplastante-derrota-de-trump-en-las-elecciones-20261150300"
-    },
-    {
-     "titulo": "Santa Rosa: imputaron a un policía por agredir a tres jóvenes frente a la Catedral",
-     "medio": "La Pampa 24",
-     "fecha": "05/11/2026",
-     "url": "https://lapampa24.com.ar/la-pampa-hoy/santa-rosa-imputaron-a-un-policia-por-agredir-a-tres-jovenes-frente-a-la-catedral/"
     }
    ],
    "imagen": []
@@ -278,6 +304,12 @@
   "Mendoza": {
    "top3": [
     {
+     "titulo": "Elecciones 2027: los mendocinos ya pueden consultar el padrón provisorio",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "05/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/elecciones-2027-los-mendocinos-ya-pueden-consultar-el-padron-provisorio/"
+    },
+    {
      "titulo": "La Cámpora quedó marginada del PJ de Mendoza y el peronismo se aleja de la unidad en un distrito clave",
      "medio": "Infobae",
      "fecha": "05/11/2026",
@@ -288,13 +320,6 @@
      "medio": "Diario UNO - MDZ",
      "fecha": "05/11/2026",
      "url": "https://www.diariouno.com.ar/politica/bordon-y-las-elecciones-eeuu-convertir-una-relacion-personal-politica-exterior-es-un-error-n1613400"
-    },
-    {
-     "titulo": "Por qué un diputado cordobés presentó una ley para trasladar carga pesada por Pehuenche",
-     "medio": "Memo",
-     "fecha": "05/11/2026",
-     "url": "https://www.memo.com.ar/poder/pehuenche-paso-internacional-ley-nacional-congreso/",
-     "tag": "También en Mendoza Post"
     }
    ],
    "imagen": []
@@ -302,10 +327,10 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Misiones reforzará formación docente para trabajar sobre la ESI",
+     "titulo": "Misiones fue reconocida por su proyecto ECO2",
      "medio": "Primera Edición",
      "fecha": "05/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101157822/misiones-reforzara-formacion-docente-para-trabajar-sobre-la-esi/"
+     "url": "https://www.primeraedicion.com.ar/nota/101157829/misiones-fue-reconocida-por-su-proyecto-eco2/"
     }
    ],
    "imagen": []
@@ -313,17 +338,17 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Incentivo Figueroa anunció beneficios impositivos para pymes y familias",
+     "titulo": "Saneamiento Loncopué: la obra de la planta de tratamiento cloacal alcanzó el 99% de avance",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "05/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266778-figueroa-anuncio-beneficios-impositivos-para-pymes-y-familias",
-     "tag": "También en Neuquén al Instante"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266775-loncopue-la-obra-de-la-planta-de-tratamiento-cloacal-alcanzo-el-99por_ciento-de-avance",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
     },
     {
-     "titulo": "Política ambiental Neuquén con ciudades más verdes: los árboles acompañarán las obras en 57 localidades",
+     "titulo": "Reformas integrales Provincia renueva la planta de campamento de Junín de los Andes",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "05/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266772-neuquen-con-ciudades-mas-verdes-los-arboles-acompanaran-las-obras-en-57-localidades",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266790-provincia-renueva-la-planta-de-campamento-de-junin-de-los-andes",
      "tag": "También en Neuquén al Instante"
     },
     {
@@ -338,23 +363,23 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "«El socialismo es fascista en política»: el duro discurso de Javier Milei frente a Pedro Sánchez en la Cumbre Iberoamericana tras un frío saludo",
+     "titulo": "Río Negro recuerda el plazo de inscripción para la audiencia de Argentina LNG",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "05/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62662/rio-negro-recuerda-el-plazo-de-inscripcion-para-la-audiencia-de-argentina-lng",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Proponen eliminar las designaciones vitalicias de los jueces y funcionarios del Poder Judicial de Río Negro",
      "medio": "Diario Rio Negro",
      "fecha": "05/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/con-un-frio-saludo-javier-milei-y-pedro-sanchez-se-cruzaron-en-la-cumbre-iberoamericana-en-medio-de-la-tension-diplomatica-4785211/"
+     "url": "https://www.rionegro.com.ar/justicia/proponen-eliminar-las-designaciones-vitalicias-de-los-jueces-y-funcionarios-del-poder-judicial-de-rio-negro-4785208/"
     },
     {
      "titulo": "ASTROLOGÍA Los seis signos del zodiaco que podrían hacerse ricos en 2027",
      "medio": "AN Roca",
      "fecha": "05/11/2026",
      "url": "https://www.anroca.com.ar/noticias/2026/11/05/231057-los-seis-signos-del-zodiaco-que-podrian-hacerse-ricos-en-2027",
-     "tag": "También en Noticias Net"
-    },
-    {
-     "titulo": "Causa Techo Digno en Sierra Grande: la Justicia anuló absoluciones y habrá un nuevo juicio",
-     "medio": "Diario Rio Negro",
-     "fecha": "05/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/causa-techo-digno-en-sierra-grande-la-justicia-anulo-absoluciones-y-habra-un-nuevo-juicio-4785244/",
      "tag": "También en Noticias Net"
     }
    ],
@@ -375,10 +400,10 @@
      "url": "https://www.salta.gob.ar/prensa/noticias/saenz-puso-en-marcha-la-formacion-en-inteligencia-artificial-para-docentes-saltenios-110952"
     },
     {
-     "titulo": "El hospital Materno Infantil dictará nuevos talleres de preparación para el nacimiento",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "Un corte de luz obligó a suspender la sesión del Concejo Deliberante de Salta",
+     "medio": "Nuevo Diario de Salta",
      "fecha": "05/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/el-hospital-materno-infantil-dictara-nuevos-talleres-de-preparacion-para-el-nacimiento-110955"
+     "url": "https://nuevodiariodesalta.com.ar/un-corte-de-luz-obligo-a-suspender-la-sesion-del-concejo-deliberante-de-salta/"
     }
    ],
    "imagen": []
@@ -416,10 +441,17 @@
      "url": "https://agenciasanluis.com/2026/11/05/1228600-la-sensacion-termica-para-este-jueves-sera-calida-pero-se-espera-un-desmejoramiento-hacia-la-noche/"
     },
     {
-     "titulo": "El ISSP lleva adelante una nueva etapa del proceso de ingreso a las fuerzas de seguridad",
+     "titulo": "‘Gente de Teatro’ celebra sus 49 años con un ciclo de funciones y un homenaje a Alejo Sosa",
      "medio": "Prensa oficial de San Luis",
      "fecha": "05/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/05/1228604-el-issp-lleva-adelante-una-nueva-etapa-del-proceso-de-ingreso-a-las-fuerzas-de-seguridad/"
+     "url": "https://agenciasanluis.com/2026/11/05/1228632-gente-de-teatro-celebra-sus-49-anos-con-un-ciclo-de-funciones-y-un-homenaje-a-alejo-sosa/"
+    },
+    {
+     "titulo": "Cristiano Ronaldo anunció su retiro de la selección de Portugal",
+     "medio": "El Diario de la República",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-5-9-18-0-cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
+     "tag": "También en San Luis 24"
     }
    ],
    "imagen": []
@@ -433,16 +465,17 @@
      "url": "https://www.tiemposur.com.ar/info-general/uriel-salomon-trump-no-tiene-problema-en-gobernar-por-decreto-o-por-veto"
     },
     {
+     "titulo": "Santa Cruz impulsa la recuperación de reservas petroleras en el Golfo San Jorge",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "05/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/santa-cruz-impulsa-la-recuperacion-de-reservas-petroleras-en-el-golfo-san-jorge",
+     "tag": "También en Tiempo Sur"
+    },
+    {
      "titulo": "Tras el anuncio de Caputo, ARCA suspendió los embargos y juicios fiscales hasta junio de 2027",
      "medio": "La Opinión Austral",
      "fecha": "05/11/2026",
      "url": "https://laopinionaustral.com.ar/argentina/tras-el-anuncio-de-caputo-arca-suspendio-los-embargos-y-juicios-fiscales-hasta-junio-de-2027-727975.html"
-    },
-    {
-     "titulo": "España Milei faltó a la inauguración de la Cumbre Iberoamericana y se reunió con Santiago Abascal",
-     "medio": "Tiempo Sur",
-     "fecha": "05/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/milei-falto-a-la-inauguracion-de-la-cumbre-iberoamericana-y-se-reunio-con-santiago-abascal"
     }
    ],
    "imagen": []
@@ -456,16 +489,16 @@
      "url": "https://www.airedesantafe.com.ar/politica/dia-d-la-reforma-que-da-mas-poder-la-policia-pullaro-habilito-cambios-pero-define-la-legislatura-n675647"
     },
     {
-     "titulo": "Pullaro planteó nuevas reformas en seguridad para Santa Fe: “O manda el Estado o mandan las organizaciones criminales”",
-     "medio": "Infobae",
-     "fecha": "05/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/05/pullaro-planteo-nuevas-reformas-en-seguridad-para-santa-fe-o-manda-el-estado-o-mandan-las-organizaciones-criminales/"
-    },
-    {
-     "titulo": "Violencia de género: organizaciones feministas cuestionan el proyecto de Pullaro",
+     "titulo": "El Presupuesto 2027 borra el aumento de la AUH de 4,1 millones de chicos",
      "medio": "Rosario Plus",
      "fecha": "05/11/2026",
-     "url": "https://www.rosarioplus.com/actualidad/politica/violencia-de-genero--organizaciones-feministas-cuestionan-el-proyecto-de-pullaro_a6aec5d673904a4369c2e23de"
+     "url": "https://www.rosarioplus.com/actualidad/politica/el-presupuesto-2027-borra-el-aumento-de-la-auh-de-4-1-millones-de-chicos_a6aec6295a0f4cc06c83cd936"
+    },
+    {
+     "titulo": "El gobierno de Santa Fe levantó su panel en el Congreso de la UNR tras la polémica Sain",
+     "medio": "La Capital",
+     "fecha": "05/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/el-gobierno-santa-fe-levanto-su-panel-el-congreso-democracia-la-polemica-sain-n10290576.html"
     }
    ],
    "imagen": []
@@ -486,10 +519,10 @@
      "tag": "También en Info del Estero"
     },
     {
-     "titulo": "El canciller Pablo Quirno ratificó la alianza con Estados Unidos tras las elecciones legislativas: \"No cambia nada la relación\"",
+     "titulo": "Visita papal: la lista de gobernadores, empresarios y dirigentes confirmados para el encuentro en el Palacio Libertad",
      "medio": "El Liberal",
      "fecha": "05/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97000/2026/11/el-canciller-pablo-quirno-ratifico-la-alianza-con-estados-unidos-tras-las-elecciones-legislativas--no-cambia-nada-la-relacion"
+     "url": "https://www.elliberal.com.ar/nota/97049/2026/11/visita-papal--la-lista-de-gobernadores-empresarios-y-dirigentes-confirmados-para-el-encuentro-en-el-palacio-libertad"
     }
    ],
    "imagen": []
@@ -514,23 +547,22 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Ley de Discapacidad: qué prestaciones mantiene el proyecto que obtuvo dictamen en el Senado",
+     "titulo": "Argentina Week 2027: Milei prepara su regreso a Nueva York, donde estalló el escándalo de Adorni",
      "medio": "Los Primeros",
      "fecha": "05/11/2026",
-     "url": "https://www.losprimeros.tv/politica/ley-de-discapacidad--que-prestaciones-mantiene-el-proyecto-que-obtuvo-dictamen-en-el-senado_a6aec4b65ea97836037872b2b"
+     "url": "https://www.losprimeros.tv/politica/argentina-week-2027--milei-prepara-su-regreso-a-nueva-york--donde-estallo-el-escandalo-de-adorni_a6aec66343904a4369c2f07cc"
     },
     {
-     "titulo": "Figueroa confirmó que Neuquén votará antes de octubre y volvió a respaldar la eliminación de las PASO",
+     "titulo": "Milei reclamó al Reino Unido retomar las negociaciones por Malvinas y calificó la causa como “sagrada”",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "05/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1161144/politica/milei-reclamo-al-reino-unido-retomar-negociaciones-malvinas-califico-causa-como-sagrada.html"
+    },
+    {
+     "titulo": "Cronograma oficial: así concluye el pago del 80% del sueldo de octubre a los estatales tucumanos",
      "medio": "Los Primeros",
      "fecha": "05/11/2026",
-     "url": "https://www.losprimeros.tv/politica/figueroa-confirmo-que-neuquen-votara-antes-de-octubre-y-volvio-a-respaldar-la-eliminacion-de-las-paso_a6aec5b1e3904a4369c2de57b"
-    },
-    {
-     "titulo": "Afiliados a obras sociales y prepagas caen a su nivel más bajo desde 2016",
-     "medio": "LV12",
-     "fecha": "05/11/2026",
-     "url": "https://www.lv12.com.ar/obras-sociales/afiliados-obras-sociales-y-prepagas-caen-su-nivel-mas-2016-n206177",
-     "tag": "También en Los Primeros"
+     "url": "https://www.losprimeros.tv/actualidad/cronograma-oficial--asi-concluye-el-pago-del-80--del-sueldo-de-octubre-a-los-estatales-tucumanos_a6aec8caf3904a4369c332cb2"
     }
    ],
    "imagen": []

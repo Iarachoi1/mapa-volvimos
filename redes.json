@@ -1,13 +1,67 @@
 {
- "actualizado": "05/11 09:48",
+ "actualizado": "05/11 11:06",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "ben shelton",
+   "tema": "presidente de paraguay",
+   "busquedas": "500+",
+   "nota": "La selección de Paraguay expresó su bronca por el corralito que afectó a los ahorristas locales: “Nosotros también fuimos víctimas”",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/05/la-seleccion-de-paraguay-expreso-su-bronca-por-el-corralito-que-afecto-a-ahorristas-locales-nosotros-tambien-fuimos-victimas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "etcheverry",
    "busquedas": "200+",
+   "nota": "Batacazo del argentino Tomás Etcheverry en el Masters 1000 de París: venció al 9° del mundo y terminó con una racha negativa en su carrera",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/04/batacazo-del-argentino-tomas-etcheverry-en-el-masters-1000-de-paris-vencio-al-9-del-mundo-y-le-puso-punto-final-a-una-racha-negativa-en-su-carrera/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aterrizaje",
+   "busquedas": "100+",
+   "nota": "Un rayo afectó a un avión que viajaba a Posadas y aterrizó en Rosario",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101157790/un-rayo-afecto-a-un-avion-que-viajaba-a-posadas-y-aterrizo-en-rosario/",
+   "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuando llega el papa a la argentina",
+   "busquedas": "10000+",
+   "nota": "Trenes Argentinos dispondrá un esquema extraordinario con servicios nocturnos y refuerzos especiales por la visita del papa León XIV",
+   "nota_url": "https://www.argentina.gob.ar/noticias/trenes-argentinos-dispondra-un-esquema-extraordinario-con-servicios-nocturnos-y-refuerzos",
+   "medio": "Argentina.gob.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia del bancario 2026",
+   "busquedas": "200+",
+   "nota": "Feriado y bono por el Día del Bancario 2026: quiénes acceden al beneficio, cuánto se cobra y cuándo",
+   "nota_url": "https://www.ambito.com/informacion-general/feriado-y-bono-el-dia-del-bancario-2026-quienes-acceden-al-beneficio-cuanto-se-cobra-y-cuando-n6341091",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "osfa",
+   "busquedas": "200+",
+   "nota": "Iosfa: Lunghi pidió a Nación que revea el cierre y brinde cobertura",
+   "nota_url": "https://www.eleco.com.ar/la-ciudad/lunghi-le-pidio-a-la-nacion-que-revea-el-cierre-de-la-oficina-de-iosfa-y-restablezca-la-cobertura-a-afiliados",
+   "medio": "El Eco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ben shelton",
+   "busquedas": "500+",
    "nota": "John Isner predicts how Carlos Alcaraz may react to Ben Shelton's new coach",
    "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171177/john-isner-predicts-how-carlos-alcaraz-may-react-to-ben-shelton-s-new-coach/",
    "medio": "Tennis World USA",
@@ -25,73 +79,19 @@
   },
   {
    "tema": "cr7",
-   "busquedas": "100+",
-   "nota": "El caótico último capítulo que anticipó la despedida de Cristiano Ronaldo de la selección de Portugal",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/05/el-caotico-ultimo-capitulo-que-anticipo-la-despedida-de-cristiano-ronaldo-de-la-seleccion-de-portugal/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "feriados por la visita del papa",
-   "busquedas": "500+",
-   "nota": "Feriado nacional en San Juan: qué pasará con los comercios",
-   "nota_url": "https://www.diariohuarpe.com/nota/la-apertura-de-los-comercios-por-el-dia-no-laboral-de-la-visita-del-papa-sera-optativa-202611422240",
-   "medio": "Diario Huarpe",
+   "busquedas": "200+",
+   "nota": "Los números definitivos que dejaron Messi y Cristiano en el fútbol de selecciones",
+   "nota_url": "https://442.perfil.com/noticias/futbol/se-cerro-la-era-dorada-los-numeros-definitivos-que-dejaron-messi-y-cristiano-en-el-futbol-de-selecciones.phtml",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dia del bancario",
-   "busquedas": "500+",
-   "nota": "El Centro Industrial y Comercial difundió el cronograma de feriados bancarios de noviembre y aclaró su impacto en el comercio",
-   "nota_url": "https://www.reconquistahoy.com/93038-el-centro-industrial-y-comercial-difundio-el-cronograma-de-feriados-bancarios-de-noviembre-y-aclaro-su-impacto-en-el-comercio",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dafne keen",
-   "busquedas": "200+",
-   "nota": "Dafne Keen Says She Was Offered Coke at Wrap Parties as a Kid: “Like Tiny, Like 11, 12”",
-   "nota_url": "https://www.yahoo.com/entertainment/celebrity/articles/dafne-keen-says-she-offered-123638703.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nicolás otamendi",
-   "busquedas": "500+",
-   "nota": "VIDEO I Insólito: intentaron robarle a Nicolás Otamendi frente al hotel de River",
-   "nota_url": "https://www.diariopanorama.com/noticia/571922/video-i-insolito-intentaron-robarle-nicolas-otamendi-frente-al-hotel-river",
-   "medio": "Diario Panorama",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "autovía",
-   "busquedas": "200+",
-   "nota": "Camión chocó y desparramó “cachetes” de madera en Ruta 14, cerca del acceso sur a Concordia",
-   "nota_url": "https://www.elentrerios.com/actualidad/camion-volco-su-carga-de-cachetes-de-madera-en-ruta-14-cerca-del-acceso-sur-a-concordia.htm",
-   "medio": "Elentrerios",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tommy paul",
-   "busquedas": "100+",
-   "nota": "Tommy Paul Too Solid, Ends Quentin Halys' Run in Paris",
-   "nota_url": "https://en.tennistemple.com/actu/tommy-paul-too-solid-ends-quentin-halys-run-in/h2gB",
-   "medio": "TennisTemple",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "telescopio swift",
-   "busquedas": "200+",
-   "nota": "El observatorio Swift de la NASA caería a la Tierra esta semana",
-   "nota_url": "https://radio3cadenapatagonia.com.ar/el-observatorio-swift-de-la-nasa-caeria-a-la-tierra-esta-semana/",
-   "medio": "Radio 3 Cadena Patagonia",
+   "busquedas": "1000+",
+   "nota": "Día del Bancario: qué pasará con los bancos este viernes 6 de noviembre",
+   "nota_url": "https://www.infobae.com/economia/2026/11/05/dia-del-bancario-que-pasara-con-los-bancos-este-viernes-6-de-noviembre/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
