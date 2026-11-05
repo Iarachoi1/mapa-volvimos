@@ -1,22 +1,31 @@
 {
- "actualizado": "05/11 01:45",
+ "actualizado": "05/11 02:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "pequeño j",
+   "busquedas": "100+",
+   "nota": "Encontraron un video de las torturas a las que fueron sometidas las víctimas del triple crimen de Florencio Varela",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/encontraron-un-video-de-las-torturas-a-las-que-fueron-sometidas-las-victimas-del-triple-crimen-de-nid04112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "microsoft",
    "busquedas": "100+",
-   "nota": "Microsoft climbs 7% to hit a new 52-week high (MSFT:NASDAQ)",
-   "nota_url": "https://seekingalpha.com/news/4665563-microsoft-climbs-7-to-hit-new-52-week-high",
-   "medio": "Seeking Alpha",
+   "nota": "Microsoft rejects multibillion-dollar AI deal with UK's Nscale, FT reports",
+   "nota_url": "https://www.globalbankingandfinance.com/microsoft-rejects-multibillion-dollar-ai-deal-uks-nscale-ft/",
+   "medio": "Global Banking & Finance Review",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - lakers",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Kings vs Lakers Preview: Sacramento Win Tsunami Incoming?",
    "nota_url": "https://kingsherald.com/articles/kings-vs-lakers-preview-sacramento-win-tsunami-incoming/",
    "medio": "The Kings Herald",
@@ -33,6 +42,15 @@
    "temas": []
   },
   {
+   "tema": "longevidad",
+   "busquedas": "200+",
+   "nota": "Eunice da Silveira, mujer centenaria de 111 años: “Bebo mucha leche, me distraigo con tareas y me alimento de aquellos productos que me da la tierra”",
+   "nota_url": "https://www.canal26.com/bienestar-y-salud/2026/11/04/eunice-da-silveira-mujer-centenaria-de-111-anos-bebo-mucha-leche-me-distraigo-con-tareas-y-solo-me-alimento-de-aquellos-productos-que-me-da-la-tierra/",
+   "medio": "Canal26",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "posiciones de botafogo contra atlético mineiro",
    "busquedas": "1000+",
    "nota": "Edenilson strike lifts Botafogo three places in Brasileirão",
@@ -44,36 +62,27 @@
   {
    "tema": "posiciones de club olimpia contra recoleta fc",
    "busquedas": "10000+",
-   "nota": "Torneo Clausura: Recoleta se cruza ante Olimpia, que quiere seguir escalando",
-   "nota_url": "https://www.latribuna.com.py/deportes/2026/11/04/torneo-clausura-recoleta-se-cruza-ante-olimpia-que-quiere-seguir-escalando/",
-   "medio": "https://www.latribuna.com.py/",
+   "nota": "¡Olimpia arrasa con Recoleta y se encamina hacia el bicampeonato!",
+   "nota_url": "https://www.vssports.com.py/versus/2026/11/04/olimpia-arrasa-con-recoleta-y-se-encamina-hacia-el-bicampeonato",
+   "medio": "VS Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "spurs - mavericks",
-   "busquedas": "500+",
-   "nota": "̳̳‍‍‍‍‍‍‍【【【NBA】】】[!NBA-BASKETBALL#ESPN!!] FREE San Antonio Spurs vs Dallas Mavericks 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ DIRECTV, Full Live Coverage of NBA: Watch the NBA match live with full coverage on ESPN. Get NBA Live score updates, highlights, and matc",
-   "nota_url": "https://interaktiv.tagesanzeiger.ch/2016/plaine-morte/panos/camp/camp.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RhcmVxaml5YTYtc3ZnLmdpdGh1Yi5pby9nYW1lL2JiLnhtbCIvPjwva3JwYW5vPg==&id=phoenix-suns-vs-portland-trail-blazers-vghgjj",
-   "medio": "tagesanzeiger.ch",
+   "busquedas": "1000+",
+   "nota": "Mavericks Spurs Basketball",
+   "nota_url": "https://www.idahostatejournal.com/sports/national/mavericks-spurs-basketball/image_78e80b5b-44b8-5bf7-97cb-712a9148cc22.html",
+   "medio": "Idaho State Journal",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - raptors",
    "busquedas": "200+",
-   "nota": "Nuggets play Raptors at home on Wednesday",
-   "nota_url": "https://nuggets.com/news/nuggets-play-raptors-home-wednesday",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marta fort",
-   "busquedas": "500+",
-   "nota": "Marta Fort contó la anécdota de la noche en la que Madonna quiso seducir a su papá Ricardo y reveló por qué no pasó nada",
-   "nota_url": "https://tn.com.ar/videos/show/famosos/2026/11/05/marta-fort-revelo-una-anecdota-desconocida-de-su-papa-con-madonna-en-miami-ella-se-lo-quiso-levantar/",
-   "medio": "TN",
+   "nota": "NUGGETS POSTCAST: BACK ON TRACK! Nuggets Rally to Take Down the Raptors",
+   "nota_url": "https://www.kare11.com/video/sports/locked-on/lo-denver/postcast-locked-on-nuggets/nuggets-postcast-back-on-track-nuggets-rally-to-take-down-the-raptors/535-0effbdb1-3db5-4628-8f0a-584f74a7966a",
+   "medio": "kare11.com",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "Mckenna Grace Says She’s Terrified to Do Nudity for Roles",
    "nota_url": "https://www.hollywoodreporter.com/movies/movie-news/mckenna-grace-terrified-nudity-film-roles-1236746356/",
    "medio": "The Hollywood Reporter",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "wanda nara",
-   "busquedas": "2000+",
-   "nota": "Mauro Icardi responde a rumores de deuda alimentaria y critica a los medios",
-   "nota_url": "https://www.cadena3.com/noticia/espectaculos/mauro-icardi-responde-a-rumores-de-deuda-alimentaria-y-critica-a-los-medios_610249",
-   "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   }
