@@ -1,10 +1,46 @@
 {
- "actualizado": "05/11 17:36",
+ "actualizado": "05/11 18:33",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "wall street",
+   "busquedas": "200+",
+   "nota": "CAVA’s Growth Story Keeps Building",
+   "nota_url": "https://www.qsrmagazine.com/story/cavas-growth-story-keeps-building/",
+   "medio": "QSR Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sunderland",
+   "busquedas": "200+",
+   "nota": "Licensable picture: UK: UEFA Europa League Matchday 4 of 8 Sunderland v Dinamo Zagreb",
+   "nota_url": "https://www.reutersconnect.com/item/uk-uefa-europa-league-matchday-4-of-8-sunderland-v-dinamo-zagreb/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBOMUVGWks",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bayer leverkusen",
+   "busquedas": "200+",
+   "nota": "Läuft Europa League heute im Free-TV? Die Übertragung am 5. November",
+   "nota_url": "https://www.dazn.com/de-DE/news/fussball/laeuft-europa-league-heute-free-tv-uebertragung-5-november/4qg6eda0suo11m110sajpsou2",
+   "medio": "DAZN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "monaco fc",
+   "busquedas": "100+",
+   "nota": "Ansu Fati Suffers Another Injury Setback at Monaco as Club Makes Major Decision",
+   "nota_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/ansu-fati-faces-another-injury-nightmare-as-monaco-make-a-major-decision-2026-11-05",
+   "medio": "beIN SPORTS",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "celta de vigo",
    "busquedas": "100+",
@@ -15,17 +51,8 @@
    "temas": []
   },
   {
-   "tema": "tabla de posiciones liga argentina 2026",
-   "busquedas": "500+",
-   "nota": "Fecha 16 del Torneo Clausura 2026: todos los partidos de la definición de los cruces y la tabla anual",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/fecha-16-torneo-clausura-2026-resultados-y-partidos-liga-profesional-argentina-id770449.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "leverkusen - marsella",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Alineaciones de Leverkusen y Marseille para el duelo de la jornada 4 de la Europa League",
    "nota_url": "https://bolavip.com/ar/europa-league/alineaciones-de-leverkusen-y-marseille-para-el-duelo-de-la-jornada-4-de-la-europa-league",
    "medio": "Bolavip Argentina",
@@ -33,21 +60,21 @@
    "temas": []
   },
   {
-   "tema": "az alkmaar",
-   "busquedas": "100+",
-   "nota": "Spalletti: ‘Juventus must build on positive signs, otherwise back to square one’",
-   "nota_url": "https://sports.yahoo.com/articles/spalletti-juventus-must-build-positive-200200160.html",
-   "medio": "Yahoo Sports",
+   "tema": "tabla de posiciones liga argentina 2026",
+   "busquedas": "1000+",
+   "nota": "Boca, Argentinos y Rosario Central van por el título: tres finales en simultáneo y una definición con festejo asegurado en casa",
+   "nota_url": "https://www.clarin.com/deportes/boca-argentinos-rosario-central-van-titulo-finales-simultaneo-definicion-festejo-asegurado-casa_0_hMwMEV1iyi.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "promedios",
-   "busquedas": "1000+",
-   "nota": "Unión pierde los 60 puntos del Kily González: en qué posición arrancaría en la tabla de promedios en 2027",
-   "nota_url": "https://www.airedesantafe.com.ar/deportes/union-pierde-los-60-puntos-del-kily-gonzalez-que-posicion-arrancaria-la-tabla-promedios-2027-n675753",
-   "medio": "Aire de Santa Fe",
-   "relevante": true,
+   "tema": "az alkmaar",
+   "busquedas": "100+",
+   "nota": "Alineaciones de AZ Alkmaar y Juventus para el duelo de la jornada 4 de la Europa League",
+   "nota_url": "https://bolavip.com/ar/europa-league/alineaciones-de-az-alkmaar-y-juventus-para-el-duelo-de-la-jornada-4-de-la-europa-league",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
    "temas": []
   },
   {
@@ -60,38 +87,11 @@
    "temas": []
   },
   {
-   "tema": "aldosivi descendió",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gaitan",
-   "busquedas": "100+",
-   "nota": "Ángel Gaitán abandona indignado una audiencia del Parlamento Europeo tras quedarse sin tiempo: \"¡Vergüenza les tendría que dar!\"",
-   "nota_url": "https://www.20minutos.es/internacional/angel-gaitan-abandona-indignado-una-audiencia-parlamento-europeo-tras-quedarse-sin-tiempo-vergueenza-les-tendria-que-dar_7057421_0.html",
-   "medio": "20Minutos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "az - juventus",
+   "tema": "promedios",
    "busquedas": "1000+",
-   "nota": "Europa League: Az-Juve, coreografia per i fratelli Koopmeiners avversari",
-   "nota_url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/europa-league-az-juve-coreografia-per-i-fratelli-koopmeiners-avversari_87576b8f-b2c4-43c7-b72b-62da9b83695f.html",
-   "medio": "ANSA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "riber",
-   "busquedas": "1000+",
-   "nota": "Del Gobierno a la oposición: los políticos se metieron en la polémica por el arbitraje del Boca-River",
-   "nota_url": "https://www.diariopinion.com.ar/11801-del-gobierno-a-la-oposicion-los-politicos-se-metieron-en-la-polemica-por-el-arbitraje-del-boca-river",
-   "medio": "Opinion Ciudadana",
+   "nota": "Unión pierde los 60 puntos del Kily González: en qué posición arrancaría en la tabla de promedios en 2027",
+   "nota_url": "https://www.airedesantafe.com.ar/deportes/union-pierde-los-60-puntos-del-kily-gonzalez-que-posicion-arrancaria-la-tabla-promedios-2027-n675753",
+   "medio": "Aire de Santa Fe",
    "relevante": true,
    "temas": []
   }
