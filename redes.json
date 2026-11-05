@@ -1,21 +1,48 @@
 {
- "actualizado": "05/11 09:19",
+ "actualizado": "05/11 09:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "ben shelton",
+   "busquedas": "200+",
+   "nota": "John Isner predicts how Carlos Alcaraz may react to Ben Shelton's new coach",
+   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171177/john-isner-predicts-how-carlos-alcaraz-may-react-to-ben-shelton-s-new-coach/",
+   "medio": "Tennis World USA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ronaldo",
+   "busquedas": "500+",
+   "nota": "Messi or CR7, who will you miss more? Have your say! 🧐",
+   "nota_url": "https://sports.yahoo.com/articles/messi-cr7-miss-more-121100692.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "cr7",
    "busquedas": "100+",
-   "nota": "De Neymar a Alcaraz: los mensajes para Cristiano Ronaldo tras anunciar su retiro de la selección de Portugal",
-   "nota_url": "https://www.lanacion.com.ar/deportes/de-neymar-a-alcaraz-los-mensajes-para-cristiano-ronaldo-tras-anunciar-su-renuncia-a-la-seleccion-de-nid05112026/",
-   "medio": "La Nación",
+   "nota": "El caótico último capítulo que anticipó la despedida de Cristiano Ronaldo de la selección de Portugal",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/05/el-caotico-ultimo-capitulo-que-anticipo-la-despedida-de-cristiano-ronaldo-de-la-seleccion-de-portugal/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "feriados por la visita del papa",
+   "busquedas": "500+",
+   "nota": "Feriado nacional en San Juan: qué pasará con los comercios",
+   "nota_url": "https://www.diariohuarpe.com/nota/la-apertura-de-los-comercios-por-el-dia-no-laboral-de-la-visita-del-papa-sera-optativa-202611422240",
+   "medio": "Diario Huarpe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia del bancario",
    "busquedas": "500+",
    "nota": "El Centro Industrial y Comercial difundió el cronograma de feriados bancarios de noviembre y aclaró su impacto en el comercio",
    "nota_url": "https://www.reconquistahoy.com/93038-el-centro-industrial-y-comercial-difundio-el-cronograma-de-feriados-bancarios-de-noviembre-y-aclaro-su-impacto-en-el-comercio",
@@ -24,17 +51,8 @@
    "temas": []
   },
   {
-   "tema": "cristiano ronaldo",
-   "busquedas": "500+",
-   "nota": "Wife Georgina Rodriguez Shares Heartfelt Tribute To Cristiano Ronaldo After Retirement",
-   "nota_url": "https://www.sportscapemagazine.com/blog/wife-georgina-rodriguez-shares-heartfelt-tribute-to-cristiano-ronaldo-after-retirement",
-   "medio": "Sportscape Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "dafne keen",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Dafne Keen Says She Was Offered Coke at Wrap Parties as a Kid: “Like Tiny, Like 11, 12”",
    "nota_url": "https://www.yahoo.com/entertainment/celebrity/articles/dafne-keen-says-she-offered-123638703.html",
    "medio": "Yahoo",
@@ -62,9 +80,9 @@
   {
    "tema": "tommy paul",
    "busquedas": "100+",
-   "nota": "November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Game Spread Tennis Prediction Market",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tomas-martin-etcheverry-vs-alex-de-minaur-game-spread-nov-04-2026/",
-   "medio": "Robinhood",
+   "nota": "Tommy Paul Too Solid, Ends Quentin Halys' Run in Paris",
+   "nota_url": "https://en.tennistemple.com/actu/tommy-paul-too-solid-ends-quentin-halys-run-in/h2gB",
+   "medio": "TennisTemple",
    "relevante": false,
    "temas": []
   },
@@ -74,24 +92,6 @@
    "nota": "El observatorio Swift de la NASA caería a la Tierra esta semana",
    "nota_url": "https://radio3cadenapatagonia.com.ar/el-observatorio-swift-de-la-nasa-caeria-a-la-tierra-esta-semana/",
    "medio": "Radio 3 Cadena Patagonia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alan jones",
-   "busquedas": "1000+",
-   "nota": "Falleció Alan Jones, el primer campeón mundial con Williams",
-   "nota_url": "https://campeones.com.ar/fallecio-alan-jones-el-primer-campeon-mundial-con-williams/",
-   "medio": "Campeones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nicolás ramírez",
-   "busquedas": "200+",
-   "nota": "Contundente mensaje del presidente de River Plate tras el Superclásico: “Buscan aleccionar desde lo arbitral para disciplinar dirigentes”",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/04/contundente-mensaje-del-presidente-de-river-plate-tras-el-superclasico-buscan-aleccionar-desde-lo-arbitral-para-disciplinar-dirigentes/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
