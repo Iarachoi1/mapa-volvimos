@@ -1,13 +1,58 @@
 {
- "actualizado": "05/11 14:47",
+ "actualizado": "05/11 15:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "santiago espindola",
+   "tema": "river",
+   "busquedas": "20000+",
+   "nota": "La sorpresa de Ponzio en el 11 de River para jugar ante Aldosivi",
+   "nota_url": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-sorpresa-11-titular-santiago-espindola_0_5AHN7lvXWg.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "milan",
    "busquedas": "500+",
+   "nota": "Alineaciones de Milan y Ferencvaros para el duelo de la jornada 4 de la Europa League",
+   "nota_url": "https://bolavip.com/ar/europa-league/alineaciones-de-milan-y-ferencvaros-para-el-duelo-de-la-jornada-4-de-la-europa-league",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mayorista",
+   "busquedas": "200+",
+   "nota": "Crisis en cadena de Supermercados: embargos y 1.400 empleos en riesgo",
+   "nota_url": "https://www.diariojornada.com.ar/426562/economia/crisis_en_cadena_de_supermercados_embargos_y_1400_empleos_en_riesgo",
+   "medio": "Diario Jornada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grupo de narváez",
+   "busquedas": "500+",
+   "nota": "Se vendió Supermercados Día: la cadena española pasa a manos del grupo liderado por Francisco De Narváez, dueño de Changomás",
+   "nota_url": "https://www.infobae.com/economia/2026/11/05/se-vendio-supermercados-dia-la-cadena-espanola-pasa-a-manos-del-grupo-liderado-por-francisco-de-narvaez-dueno-de-changomas/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riesgo pais paraguay",
+   "busquedas": "200+",
+   "nota": "El dólar se disparó 10% en Paraguay y el riesgo país subió a 138 puntos tras la crisis política y bancaria",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1161204/mundo/dolar-se-disparo-10porciento-paraguay-riesgo-pais-subio-138-puntos-tras-crisis-politica-bancaria.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santiago espindola",
+   "busquedas": "2000+",
    "nota": "El tremendo elogio de Arsène Wenger a Santiago Espíndola, la joya de 18 años que River blindó en € 100 millones",
    "nota_url": "https://www.ole.com.ar/river-plate/river-santiagoespindola-wenger-ponzio-arsenal_0_nnnSclBElS.html",
    "medio": "Olé",
@@ -16,83 +61,38 @@
   },
   {
    "tema": "atalanta - kairat",
-   "busquedas": "200+",
-   "nota": "Conference League line-ups: Atalanta vs. Kairat Almaty",
-   "nota_url": "https://onefootball.com/en/news/conference-league-line-ups-atalanta-vs-kairat-almaty-43731548",
-   "medio": "OneFootball",
+   "busquedas": "500+",
+   "nota": "Atalanta v Kairat Almaty Odds",
+   "nota_url": "https://sportsbook.fanduel.com/soccer/uefa-conference-league/atalanta-v-kairat-almaty-36243078",
+   "medio": "FanDuel Sportsbook",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "crystal palace - hoffenheim",
-   "busquedas": "200+",
-   "nota": "Thursday best bets: Europa League and Conference League tips for November 4 2026",
-   "nota_url": "https://www.sportinglife.com/football/news/thursday-best-bets-europa-league-and-conference-league-tips-for-november-4-2026/235211",
-   "medio": "Sporting Life",
+   "busquedas": "1000+",
+   "nota": "Sky Bet offer: How to claim £40 from £5 bet ahead of Crystal Palace vs Hoffenheim",
+   "nota_url": "https://talksport.com/betting/4685643/sky-bet-offer-crystal-palace-vs-hoffenheim/",
+   "medio": "talkSPORT",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "página 12",
-   "busquedas": "1000+",
-   "nota": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este jueves 5 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/05/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-jueves-5-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "Las lecturas disímiles sobre las elecciones en Estados Unidos volvieron a agitar la interna en el Gobierno",
+   "nota_url": "https://www.infobae.com/politica/2026/11/05/las-lecturas-disimiles-sobre-las-elecciones-en-estados-unidos-volvieron-a-agitar-la-interna-en-el-gobierno/",
+   "medio": "Infobae",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "milan - ferencváros",
    "busquedas": "1000+",
-   "nota": "Milan vs. Ferencváros juegan hoy: todo lo que tenés que saber del partido de la Europa League",
-   "nota_url": "https://www.directvsports.com/futbol/milan-vs.-ferencvaros-juegan-hoy-todo-lo-que-tenes-que-saber-del-partido-de-la-europa-league-20261102-0012.html",
-   "medio": "DSports",
+   "nota": "Italy Europa League Soccer",
+   "nota_url": "https://www.couriernews.com/sports/italy-europa-league-soccer/image_20ddb5b0-9d30-5011-ae8f-1d6dc65de6ab.html",
+   "medio": "couriernews.com",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ueno",
-   "busquedas": "5000+",
-   "nota": "Escándalo financiero en Paraguay impacta en Argentina: suspenden a 1.000 empleados de una consultora tecnológica",
-   "nota_url": "https://www.lavoz.com.ar/politica/escandalo-financiero-paraguay-impacta-argentina-suspenden-1000-empleados-consultora-tecnologica_0_NwjAEFUtj1.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "taurian fontenette",
-   "busquedas": "200+",
-   "nota": "Legendary street baller Taurian Fontenette dead at 43: ‘Basketball genius’",
-   "nota_url": "https://sports.yahoo.com/articles/legendary-street-baller-taurian-fontenette-202635810.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cronograma",
-   "busquedas": "500+",
-   "nota": "Todo lo que tenés que saber antes de salir de casa...",
-   "nota_url": "https://www.lv12.com.ar/octubre/todo-lo-que-tenes-que-saber-antes-salir-casa-n205866",
-   "medio": "LV12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barco fantasma",
-   "busquedas": "200+",
-   "nota": "El barco fantasma del Paraná volvió a moverse: qué pasó con el Uros-Z",
-   "nota_url": "https://www.datachaco.com/654215-el-barco-fantasma-del-parana-volvio-a-moverse-que-paso-con-el-uros-z",
-   "medio": "DataChaco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "petróleo",
-   "busquedas": "200+",
-   "nota": "Las elecciones de medio término en Estados Unidos golpearon el precio del crudo",
-   "nota_url": "https://mase.lmneuquen.com/internacionales/las-elecciones-medio-termino-estados-unidos-golpearon-el-precio-del-crudo-n1259926",
-   "medio": "Lmneuquen.com",
-   "relevante": true,
    "temas": []
   }
  ],
