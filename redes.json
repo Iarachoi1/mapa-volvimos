@@ -1,15 +1,60 @@
 {
- "actualizado": "05/11 03:53",
+ "actualizado": "05/11 05:10",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "lluvia",
+   "busquedas": "500+",
+   "nota": "Temperaturas entre 18°C y 26°C este jueves en San Miguel de Tucumán",
+   "nota_url": "https://www.eltucumano.com/noticia/libre/327259/temperaturas-entre-18c-y-26c-este-jueves-en-san-miguel-de-tucuman?dnd=secciont&src=ph&pos=7&dis=desk",
+   "medio": "el tucumano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el niño",
+   "busquedas": "500+",
+   "nota": "El Niño enciende las alarmas: prevén tres meses con lluvias superiores a las normales",
+   "nota_url": "https://www.diarionorte.com/335975-el-nino-enciende-las-alarmas-preven-tres-meses-con-lluvias-superiores-a-las-normales",
+   "medio": "Diario Norte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lautaro pereyra",
+   "busquedas": "100+",
+   "nota": "Di Carlo se lo ganó a Benfica y es nuevo enganche de River: «Ya firmó»",
+   "nota_url": "https://elintransigente.com/2026/11/04/lautaro-pereyra-river-contrato/",
+   "medio": "El Intransigente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "justicia",
+   "busquedas": "100+",
+   "nota": "Marius Borg deberá continuar bajo arresto domiciliario tras detectarse signos de intoxicación alcohólica en tres pruebas",
+   "nota_url": "https://www.hola.com/realeza/casa_noruega/20261104933074/marius-borg-recibe-nuevo-reves-seguira-arresto-skaugum/",
+   "medio": "HOLA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clippers - heat",
+   "busquedas": "100+",
+   "nota": "CLIPPERS POSTCAST: Clippers blow another big lead late in a nail biter that goes to O/T",
+   "nota_url": "https://www.kagstv.com/video/sports/locked-on/lo-la/postcast-locked-on-clippers/clippers-postcast-clippers-blow-another-big-lead-late-in-a-nail-biter-that-goes-to-ot/535-4058faf5-4e78-4d27-bea0-1a7d5e3470c3",
+   "medio": "kagstv.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "pequeño j",
    "busquedas": "100+",
-   "nota": "Un video develó la violencia extrema a la que fue sometida una víctima del triple crimen de Florencio Varela",
-   "nota_url": "https://www.lanacion.com.ar/seguridad/el-video-de-la-tortura-a-la-que-fue-sometida-una-victima-del-triple-crimen-de-florencio-varela-nid04112026/",
+   "nota": "Encontraron un video de las torturas a las que fueron sometidas las víctimas del triple crimen de Florencio Varela",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/encontraron-un-video-de-las-torturas-a-las-que-fueron-sometidas-las-victimas-del-triple-crimen-de-nid04112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
@@ -17,18 +62,9 @@
   {
    "tema": "microsoft",
    "busquedas": "100+",
-   "nota": "Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report",
-   "nota_url": "https://uk.investing.com/news/stock-market-news/microsoft-declines-nscale-texas-expansion-ahead-of-35-bln-ipo--report-4959320",
-   "medio": "Investing.com UK",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - lakers",
-   "busquedas": "1000+",
-   "nota": "Darius Acuff with 22 and 12 assists in loss to Lakers",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-05/acuff-with-22-and-12-assists-in-loss-to-lakers",
-   "medio": "NBC Sports",
+   "nota": "FT: Microsoft rejects expansion of Nscale contract in Texas — Channel NewsAsia",
+   "nota_url": "https://ua.news/en/technologies/ft-microsoft-vidkhilila-rozshirennia-kontraktu-z-nscale-u-tekhasi-channel-newsasia",
+   "medio": "UA.NEWS",
    "relevante": false,
    "temas": []
   },
@@ -42,56 +78,20 @@
    "temas": []
   },
   {
+   "tema": "kings - lakers",
+   "busquedas": "1000+",
+   "nota": "Game Recap: Lakers 116, Kings 103",
+   "nota_url": "https://www.nba.com/watch/video/game-recap-lakers-116-kings-103?plsrc=nba&collection=2026-27-game-recaps",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "longevidad",
    "busquedas": "200+",
    "nota": "Eunice da Silveira, mujer centenaria de 111 años: “Bebo mucha leche, me distraigo con tareas y me alimento de aquellos productos que me da la tierra”",
    "nota_url": "https://www.canal26.com/bienestar-y-salud/2026/11/04/eunice-da-silveira-mujer-centenaria-de-111-anos-bebo-mucha-leche-me-distraigo-con-tareas-y-solo-me-alimento-de-aquellos-productos-que-me-da-la-tierra/",
    "medio": "Canal26",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de botafogo contra atlético mineiro",
-   "busquedas": "1000+",
-   "nota": "Edenilson strike lifts Botafogo three places in Brasileirão",
-   "nota_url": "https://onefootball.com/en/news/edenilson-strike-lifts-botafogo-three-places-in-brasileirao-43727866",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de club olimpia contra recoleta fc",
-   "busquedas": "10000+",
-   "nota": "¡Olimpia arrasa con Recoleta y se encamina hacia el bicampeonato!",
-   "nota_url": "https://www.vssports.com.py/versus/2026/11/04/olimpia-arrasa-con-recoleta-y-se-encamina-hacia-el-bicampeonato",
-   "medio": "VS Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "spurs - mavericks",
-   "busquedas": "1000+",
-   "nota": "3 takeaways as the Mavericks’ comeback comes up just short, 112-111, at the San Antonio Spurs",
-   "nota_url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/63636/mavericks-spurs-recap-3-takeaways-from-the-mavericks-112-111-loss-in-san-antonio-cooper-flagg-victor-wembanyama-kyrie-irving",
-   "medio": "Mavs Moneyball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - raptors",
-   "busquedas": "200+",
-   "nota": "RAPTORS POSCAST: Raps Waste Hot Start To Fall Apart Late vs. Jokic + Nuggets",
-   "nota_url": "https://www.kens5.com/video/sports/locked-on/lo-toronto/raptors-postcast/raptors-poscast-raps-waste-hot-start-to-fall-apart-late-vs-jokic-nuggets/535-a427b438-5517-493d-b8e7-ede41a2adf57",
-   "medio": "kens5.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marta fort",
-   "busquedas": "500+",
-   "nota": "Marta Fort contó la anécdota de la noche en la que Madonna quiso seducir a su papá Ricardo y reveló por qué no pasó nada",
-   "nota_url": "https://tn.com.ar/videos/show/famosos/2026/11/05/marta-fort-revelo-una-anecdota-desconocida-de-su-papa-con-madonna-en-miami-ella-se-lo-quiso-levantar/",
-   "medio": "TN",
    "relevante": false,
    "temas": []
   }
