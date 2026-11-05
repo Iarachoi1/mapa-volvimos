@@ -135,6 +135,17 @@ EXTRA_CABA = {
 # casi siempre es Buenos Aires ("la Ciudad habilitó...", "en la Ciudad").
 # Se descarta "la Ciudad de Córdoba", "Ciudad del Este", etc.
 LA_CIUDAD = re.compile(r"(?<![A-Za-z])[Ll]a Ciudad(?![A-Za-z])(?!\s+(?:de|del)\b)")
+# Notas de medios NACIONALES sobre el Gobierno nacional: también van a CABA.
+# Si cambia algún funcionario, agregalo o sacalo de esta lista.
+GOBIERNO_NACIONAL = [
+    "Milei", "Casa Rosada", "Gobierno nacional", "Ejecutivo nacional",
+    "Poder Ejecutivo", "Quinta de Olivos", "Caputo", "Adorni",
+]
+# "el Gobierno" a secas, con mayúscula: en los medios nacionales es el Gobierno
+# nacional. Se descarta "Gobierno de Mendoza", "Gobierno provincial", etc.
+# Solo se usa si el título no nombra ninguna provincia.
+GOBIERNO_GENERICO = re.compile(
+    r"(?<![A-Za-z])Gobierno(?!\s+(?:de|del|provincial|municipal|comunal|local|bonaerense|porten[oa]s?)\b)")
 CRITERIOS_CABA = {
     # C. Cambios de gabinete (se prioriza prensa oficial y Boletín Oficial)
     "Gabinete": [
@@ -508,6 +519,12 @@ def jurisdicciones_mencionadas(titulo, JUR):
     return encontradas
 
 
+def habla_del_gobierno_nacional(titulo, nombra_provincia):
+    if any(contiene_exacto(titulo, f, False) for f in GOBIERNO_NACIONAL):
+        return True
+    return not nombra_provincia and GOBIERNO_GENERICO.search(sin_tildes(titulo)) is not None
+
+
 def normalizar_jurisdiccion(nombre):
     n = (nombre or "").strip()
     return {"Nación": "NACIONAL", "Tierra del Fuego AIAS": "Tierra del Fuego"}.get(n, n)
@@ -599,14 +616,17 @@ def main():
                     if fuente["juris"] in menciones:
                         puntos += 1
             elif fuente["bloque"] == "5":
-                # Medios nacionales: cada nota va SOLO a las jurisdicciones que
-                # nombra el título (CABA incluida, si la nombra). Antes todas
-                # iban a CABA y así se colaban noticias de provincias.
+                # Medios nacionales: cada nota va a las jurisdicciones que nombra
+                # el título (CABA incluida, si la nombra) y, si habla del
+                # Gobierno nacional, también a CABA.
                 menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
                 destinos = sorted((j for j in menciones if j != "NACIONAL"),
                                   key=menciones.get, reverse=True)
+                provincias = [j for j in destinos if j != "CABA"]
+                if "CABA" not in destinos and habla_del_gobierno_nacional(n["titulo"], bool(provincias)):
+                    destinos.append("CABA")
                 if not destinos:
-                    motivos["CABA"]["nota nacional sin mención de CABA"] += 1
+                    motivos["CABA"]["nota nacional sin mención de CABA ni del Gobierno"] += 1
                     continue
                 puntos += 1
             else:  # Congreso, ministerios, agregadores
