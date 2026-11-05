@@ -1,7 +1,7 @@
 {
  "semana": "5 de noviembre de 2026",
  "fecha": "2026-11-05",
- "actualizado": "05/11 09:16",
+ "actualizado": "05/11 09:19",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -28,6 +28,81 @@
    ],
    "imagen": []
   },
+  "CABA": {
+   "top3": [
+    {
+     "titulo": "Bullrich se interpone en el vínculo entre el Gobierno y el PRO, crece el malestar y se demora un acuerdo electoral",
+     "medio": "Infobae",
+     "fecha": "05/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/05/bullrich-se-interpone-en-el-vinculo-entre-el-gobierno-y-el-pro-crece-el-malestar-y-se-demora-un-acuerdo-electoral/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Las lecturas disímiles sobre las elecciones en Estados Unidos volvieron a agitar la interna en el Gobierno",
+     "medio": "Infobae",
+     "fecha": "05/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/05/las-lecturas-disimiles-sobre-las-elecciones-en-estados-unidos-volvieron-a-agitar-la-interna-en-el-gobierno/",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Nuevos cortocircuitos en el Gobierno detrás del dictamen de discapacidad en la previa de la llegada del Papa",
+     "medio": "Infobae",
+     "fecha": "05/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Sánchez y Milei se cruzaron y tuvieron un frío saludo en la Cumbre Iberoamericana",
+     "medio": "El Destape",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/argentina---sanchez-y-milei-mantienen-un-frio-saludo-al-inicio-de-la-cumbre-iberoamericana-en-madrid-20261155382",
+     "tag": "Política · También en La Nación, Perfil"
+    },
+    {
+     "titulo": "Milei asimila el impacto de la derrota de Trump y persiste la tensión en los mercados",
+     "medio": "El Destape",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-5-noviembre-minuto-minuto-20261156516",
+     "tag": "Política"
+    },
+    {
+     "titulo": "\"Si quieren pureza, saquen el 54%\": Bullrich profundiza la distancia con Milei y polariza con CFK",
+     "medio": "El Destape",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El Gobierno está en un laberinto: las desinteligencias y peleas de cúpula traban la política y la economía",
+     "medio": "Infobae",
+     "fecha": "05/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/05/el-gobierno-esta-en-un-laberinto-las-desinteligencias-y-peleas-de-cupula-traban-la-politica-y-la-economia/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "CAMPAÑA OFFSHORE Milei en España: gélido saludo con \"el dictador\" Sánchez y ataque al socialismo por \"fascista\" Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "05/11/2026",
+     "url": "https://www.letrap.com.ar/politica/javier-milei-espana-gelido-saludo-el-dictador-pedro-sanchez-y-ataque-al-socialismo-fascista-n5427997",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Javier Milei en la Cumbre Iberoamericana: \"Malvinas es una causa sagrada\"",
+     "medio": "Perfil",
+     "fecha": "05/11/2026",
+     "url": "https://www.perfil.com/politica/javier-milei-en-la-cumbre-iberoamericana-malvinas-es-una-causa-sagrada-ayxFp3C1tLjf",
+     "tag": "Política"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Felipe Leibovich",
+     "medio": "Perfil",
+     "fecha": "05/11/2026",
+     "url": "https://www.perfil.com/politica/encuesta-kicillof-milei-y-bullrich-quien-tiene-mejor-imagen-en-24-distritos-del-gba-atPV21k8cdvT"
+    }
+   ]
+  },
   "Buenos Aires": {
    "top3": [
     {
@@ -37,16 +112,16 @@
      "url": "https://www.infobae.com/politica/2026/11/05/kicillof-y-el-cristinismo-pausaron-la-interna-maximo-kirchner-presidira-el-congreso-del-pj-bonaerense/"
     },
     {
+     "titulo": "Kicillof respaldó la reelección de los intendentes: “Espero que prospere”",
+     "medio": "Diagonales",
+     "fecha": "05/11/2026",
+     "url": "https://www.diagonales.com/provincia/kicillof-respaldo-la-reeleccion-de-los-intendentes---espero-que-prospere-_a6aec6a333904a4369c2f7b75"
+    },
+    {
      "titulo": "La maniobra de Axel Kicillof para blindar los fondos públicos de embargos judiciales",
      "medio": "Info Cielo",
      "fecha": "05/11/2026",
      "url": "https://www.infocielo.com/politica-y-economia/la-maniobra-de-axel-kicillof-para-blindar-los-fondos-publicos-de-embargos-judiciales"
-    },
-    {
-     "titulo": "Tensión en Berisso: Un vecino enfrentó a concejales en plena sesión y logró destrabar un reclamo de obras",
-     "medio": "Noticia 1",
-     "fecha": "05/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/tension-en-berisso-un-vecino-enfrento-a-concejales-en-plena-sesion-y-logro-destrabar-un-reclamo-de-obras"
     }
    ],
    "imagen": [
@@ -67,10 +142,10 @@
      "url": "https://www.elancasti.com.ar/politica-y-economia/milei-falto-la-inauguracion-la-cumbre-iberoamericana-y-se-reunio-santiago-abascal-n625439"
     },
     {
-     "titulo": "Minería MARA impulsa oportunidades para proveedores y empresas catamarqueñas",
+     "titulo": "Naciones Unidas La Argentina rechazó apoyar a la Corte Penal Internacional y recibió críticas por su voto en la ONU",
      "medio": "El Ancasti",
      "fecha": "05/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/mara-impulsa-oportunidades-proveedores-y-empresas-catamarquenas-n625445"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-argentina-rechazo-apoyar-la-corte-penal-internacional-y-recibio-criticas-su-voto-la-onu-n625446"
     }
    ],
    "imagen": []
@@ -157,10 +232,11 @@
      "tag": "También en Todo Jujuy, El Tribuno"
     },
     {
-     "titulo": "video Jujuy. Estudiar en Córdoba: una habitación cuesta $600.000 El costo de vida en Córdoba complica a los universitarios jujeños. Alquileres, alimentación y servicios presionan el presupuesto familiar. Por Maria Eugenia Burgos",
-     "medio": "Todo Jujuy",
+     "titulo": "Jujuy celebra por primera vez el Día del Folklorista Jujeño en homenaje a Ricardo Vilca y Amaranto Chañi",
+     "medio": "Somos Jujuy",
      "fecha": "05/11/2026",
-     "url": "https://www.todojujuy.com/jujuy/estudiar-cordoba-una-habitacion-cuesta-600000-n298394"
+     "url": "https://www.somosjujuy.com.ar/jujuy/jujuy-celebra-primera-vez-dia-folklorista-jujeno-homenaje-ricardo-vilca-amaranto-chani-n126668",
+     "tag": "También en Todo Jujuy"
     }
    ],
    "imagen": []
@@ -180,11 +256,10 @@
      "url": "https://www.laarena.com.ar/el-mundo/aplastante-derrota-de-trump-en-las-elecciones-20261150300"
     },
     {
-     "titulo": "\"Tejemos por el regreso del río Atuel\" mantiene vivo el reclamo",
-     "medio": "El Diario de La Pampa",
+     "titulo": "Santa Rosa: imputaron a un policía por agredir a tres jóvenes frente a la Catedral",
+     "medio": "La Pampa 24",
      "fecha": "05/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82648/tejemos-por-el-regreso-del-rio-atuel-mantiene-vivo-el-reclamo",
-     "tag": "También en La Arena"
+     "url": "https://lapampa24.com.ar/la-pampa-hoy/santa-rosa-imputaron-a-un-policia-por-agredir-a-tres-jovenes-frente-a-la-catedral/"
     }
    ],
    "imagen": []
@@ -341,10 +416,10 @@
      "url": "https://agenciasanluis.com/2026/11/05/1228600-la-sensacion-termica-para-este-jueves-sera-calida-pero-se-espera-un-desmejoramiento-hacia-la-noche/"
     },
     {
-     "titulo": "Defensa del Consumidor brindó una capacitación a estudiantes del Colegio San Luis Gonzaga",
+     "titulo": "El ISSP lleva adelante una nueva etapa del proceso de ingreso a las fuerzas de seguridad",
      "medio": "Prensa oficial de San Luis",
      "fecha": "05/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/05/1228564-defensa-del-consumidor-brindo-una-capacitacion-a-estudiantes-del-colegio-san-luis-gonzaga/"
+     "url": "https://agenciasanluis.com/2026/11/05/1228604-el-issp-lleva-adelante-una-nueva-etapa-del-proceso-de-ingreso-a-las-fuerzas-de-seguridad/"
     }
    ],
    "imagen": []
@@ -439,16 +514,23 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Argentina Week 2027: Milei prepara su regreso a Nueva York, donde estalló el escándalo de Adorni",
-     "medio": "Los Primeros",
-     "fecha": "05/11/2026",
-     "url": "https://www.losprimeros.tv/politica/argentina-week-2027--milei-prepara-su-regreso-a-nueva-york--donde-estallo-el-escandalo-de-adorni_a6aec66343904a4369c2f07cc"
-    },
-    {
      "titulo": "Ley de Discapacidad: qué prestaciones mantiene el proyecto que obtuvo dictamen en el Senado",
      "medio": "Los Primeros",
      "fecha": "05/11/2026",
      "url": "https://www.losprimeros.tv/politica/ley-de-discapacidad--que-prestaciones-mantiene-el-proyecto-que-obtuvo-dictamen-en-el-senado_a6aec4b65ea97836037872b2b"
+    },
+    {
+     "titulo": "Figueroa confirmó que Neuquén votará antes de octubre y volvió a respaldar la eliminación de las PASO",
+     "medio": "Los Primeros",
+     "fecha": "05/11/2026",
+     "url": "https://www.losprimeros.tv/politica/figueroa-confirmo-que-neuquen-votara-antes-de-octubre-y-volvio-a-respaldar-la-eliminacion-de-las-paso_a6aec5b1e3904a4369c2de57b"
+    },
+    {
+     "titulo": "Afiliados a obras sociales y prepagas caen a su nivel más bajo desde 2016",
+     "medio": "LV12",
+     "fecha": "05/11/2026",
+     "url": "https://www.lv12.com.ar/obras-sociales/afiliados-obras-sociales-y-prepagas-caen-su-nivel-mas-2016-n206177",
+     "tag": "También en Los Primeros"
     }
    ],
    "imagen": []
