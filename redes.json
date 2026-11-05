@@ -1,13 +1,40 @@
 {
- "actualizado": "05/11 06:48",
+ "actualizado": "05/11 07:50",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "obra social",
+   "tema": "telescopio swift",
    "busquedas": "100+",
+   "nota": "El observatorio Swift de la NASA caería a la Tierra esta semana",
+   "nota_url": "https://radio3cadenapatagonia.com.ar/el-observatorio-swift-de-la-nasa-caeria-a-la-tierra-esta-semana/",
+   "medio": "Radio 3 Cadena Patagonia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alan jones",
+   "busquedas": "200+",
+   "nota": "Murió Alan Jones, campeón del la Fórmula 1, recordado por su enfrentamiento con Carlos Reutemann",
+   "nota_url": "https://radiomitre.cienradios.com/deportes/murio-alan-jones-campeon-del-la-formula-1-recordado-por-su-enfrentamiento-con-carlos-reutemann/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lockheed martin kc-130 hercules",
+   "busquedas": "200+",
+   "nota": "Greece acquires up to six Embraer KC-390 Millennium Multi-Mission Aircraft",
+   "nota_url": "https://www.embraer.com/media-center/en?mediatype=NEWS&detail=33652",
+   "medio": "Embraer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "obra social",
+   "busquedas": "200+",
    "nota": "Afiliados a obras sociales y prepagas alcanzan mínimo desde 2016",
    "nota_url": "https://elconurbano.com.ar/crisis-de-cobertura-medica-los-afiliados-a-obras-sociales-y-prepagas-caen-a-su-nivel-mas-bajo-desde-2016/81843/",
    "medio": "elconurbano.com.ar",
@@ -16,7 +43,7 @@
   },
   {
    "tema": "escuela",
-   "busquedas": "100+",
+   "busquedas": "500+",
    "nota": "La Ciudad devolvió la propiedad usurpada número mil",
    "nota_url": "https://www.lapoliticaonline.com/sinseccion/la-ciudad-devolvio-la-propiedad-usurpada-numero-mil-5057/",
    "medio": "La Política Online",
@@ -25,7 +52,7 @@
   },
   {
    "tema": "finanzas",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Firma que administra US$ 20.000 millones compra fintech argentina para convertir a la Argentina en su hub regional",
    "nota_url": "https://www.forbesargentina.com/negocios/firma-administra-us-20000-millones-compra-fintech-argentina-convertir-argentina-su-hub-regional-n101751",
    "medio": "Forbes Argentina",
@@ -34,7 +61,7 @@
   },
   {
    "tema": "todo noticias",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Flor de la V y su descargo por el atque transfóbico",
    "nota_url": "https://www.eltrecetv.com.ar/videos/noticias/2026/11/04/flor-de-la-v-y-su-descargo-por-el-atque-transfobico/",
    "medio": "eltrecetv",
@@ -42,8 +69,17 @@
    "temas": []
   },
   {
+   "tema": "club atlético unión",
+   "busquedas": "100+",
+   "nota": "Unión Bahía afronta una exigente gira por Buenos Aires ante Vélez y Boca",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/05/union-bahia-afronta-una-exigente-gira-por-buenos-aires-ante-velez-y-boca-n529085/",
+   "medio": "La Brújula 24",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "club atlético river plate",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "Contundente mensaje del presidente de River Plate tras el Superclásico: “Buscan aleccionar desde lo arbitral para disciplinar dirigentes”",
    "nota_url": "https://www.infobae.com/deportes/2026/11/04/contundente-mensaje-del-presidente-de-river-plate-tras-el-superclasico-buscan-aleccionar-desde-lo-arbitral-para-disciplinar-dirigentes/",
    "medio": "Infobae",
@@ -52,47 +88,11 @@
   },
   {
    "tema": "la nación",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "",
    "nota_url": "",
    "medio": "",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pierre gasly",
-   "busquedas": "500+",
-   "nota": "Olé en Interlagos: Colapinto ya tiene su lugar en un circuito que se prepara con todo",
-   "nota_url": "https://www.ole.com.ar/autos/francocolapinto-interlagos-formula1-sanpablo-alpine_0_99Wr6iPH4W.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quini",
-   "busquedas": "1000+",
-   "nota": "¡El Quini 6 quedó vacante y el pozo del domingo asciende a $6.850 millones!",
-   "nota_url": "https://www.reconquistahoy.com/93101-el-quini-6-quedo-vacante-y-el-pozo-del-domingo-asciende-a-6850-millones",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "loto plus",
-   "busquedas": "500+",
-   "nota": "Loto Plus: resultado del sorteo 3932 del miércoles 4 de noviembre de 2026",
-   "nota_url": "https://www.c5n.com/sociedad/loto-plus-resultado-del-sorteo-3932-del-miercoles-4-noviembre-2026-n253505",
-   "medio": "C5N",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pensión no contributiva",
-   "busquedas": "200+",
-   "nota": "El Gobierno suspende más pensiones por invalidez laboral mientras negocia una ley de Discapacidad",
-   "nota_url": "https://www.ellitoral.com/politica/pensionesporinvalidez-discapacidad-adrianravier-diegomasaragian-auditorias-senado-emergencia-ley_0_SdRpYZjb3f.html",
-   "medio": "El Litoral",
-   "relevante": true,
    "temas": []
   }
  ],
