@@ -1,10 +1,16 @@
 {
  "semana": "5 de noviembre de 2026",
  "fecha": "2026-11-05",
- "actualizado": "05/11 11:06",
+ "actualizado": "05/11 16:43",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "De Loredo subió a Macri a un Delorean: ¿para volver al PRO puro?",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "05/11/2026",
+     "url": "https://bardeo.news/politica/de-loredo-subio-a-macri-a-un-delorean---para-volver-al-pro-puro-_a6aeccaa8696ebfa45094a59a"
+    },
     {
      "titulo": "El peronismo quiere sumar a Larreta y Lousteau para enfrentar a Milei en CABA",
      "medio": "Bardeo (columnas de Manu Jove)",
@@ -16,13 +22,6 @@
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "05/11/2026",
      "url": "https://cenital.com/voto-castigo-ola-democrata-y-el-futuro-de-donald-trump-las-claves-de-las-elecciones-de-ee-uu/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    },
-    {
-     "titulo": "¿Qué nos hace humanos? El papa León XIV frente a la inteligencia artificial",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "05/11/2026",
-     "url": "https://cenital.com/que-nos-hace-humanos-el-papa-leon-xiv-frente-a-la-inteligencia-artificial/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
@@ -38,6 +37,13 @@
      "tag": "Política"
     },
     {
+     "titulo": "GOBIERNO Renunció el jefe de la Unidad Médica Presidencial La secretaria general de la Presidencia, Karina Milei, aceptó la renuncia de Diego Andrés Hoffmann al cargo de coordinador de la Unidad Médica Presidencial,",
+     "medio": "Perfil",
+     "fecha": "05/11/2026",
+     "url": "https://www.perfil.com/politica/renuncio-el-jefe-de-la-unidad-medica-presidencial-aP9Rb4u7aolj",
+     "tag": "Gabinete"
+    },
+    {
      "titulo": "Las lecturas disímiles sobre las elecciones en Estados Unidos volvieron a agitar la interna en el Gobierno",
      "medio": "Infobae",
      "fecha": "05/11/2026",
@@ -45,17 +51,31 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Nuevos cortocircuitos en el Gobierno detrás del dictamen de discapacidad en la previa de la llegada del Papa",
-     "medio": "Infobae",
+     "titulo": "Fuga de Bolsonaro: investigan si el Gobierno utilizó fondos públicos para facilitar la salida del senador a Brasil",
+     "medio": "El Destape",
      "fecha": "05/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/",
+     "url": "https://www.eldestapeweb.com/politica/fuga-bolsonaro-investigan-si-gobierno-utilizo-fondos-publicos-facilitar-salida-senador-brasil-2026115123926",
      "tag": "Gestión"
+    },
+    {
+     "titulo": "¿Participó Santiago Caputo? Una fiscal de Comodoro Py pidió investigar si hubo algún delito en el escape de Bolsonaro",
+     "medio": "La Nación",
+     "fecha": "05/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/una-fiscal-de-comodoro-py-pidio-investigar-si-hubo-algun-delito-en-el-escape-de-flavio-bolsonaro-nid05112026/",
+     "tag": "Ciudad"
     },
     {
      "titulo": "Bullrich se interpone en el vínculo entre el Gobierno y el PRO, crece el malestar y se demora un acuerdo electoral",
      "medio": "Infobae",
      "fecha": "05/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/05/bullrich-se-interpone-en-el-vinculo-entre-el-gobierno-y-el-pro-crece-el-malestar-y-se-demora-un-acuerdo-electoral/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "DISCUSIÓN 2027 Tras el acercamiento de Milei a Sáenz, Orozco elige un perfil bajísimo y Cornejo pasa al frente Por Maira López",
+     "medio": "Letra P",
+     "fecha": "05/11/2026",
+     "url": "https://www.letrap.com.ar/politica/tras-los-coqueteos-milei-y-saenz-emilia-orozco-elige-un-perfil-bajisimo-y-cornejo-pasa-al-frente-salta-n5427981",
      "tag": "Política"
     },
     {
@@ -66,42 +86,27 @@
      "tag": "Política · También en El Destape, La Nación"
     },
     {
-     "titulo": "Cumbre Iberoamericana Frente a Pedro Sánchez, Javier Milei dijo: \"La máxima fascista describe a los estados socialistas\"",
-     "medio": "Perfil",
-     "fecha": "05/11/2026",
-     "url": "https://www.perfil.com/politica/frente-a-pedro-sanchez-javier-milei-dijo-la-maxima-fascista-describe-a-los-estados-socialistas-ayxFp3C1tLjf",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Milei asimila el impacto de la derrota de Trump y persiste la tensión en los mercados",
-     "medio": "El Destape",
-     "fecha": "05/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-5-noviembre-minuto-minuto-20261156516",
-     "tag": "Política"
-    },
-    {
-     "titulo": "\"Si quieren pureza, saquen el 54%\": Bullrich profundiza la distancia con Milei y polariza con CFK",
-     "medio": "El Destape",
-     "fecha": "05/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
-     "tag": "Política"
-    },
-    {
-     "titulo": "El Gobierno está en un laberinto: las desinteligencias y peleas de cúpula traban la política y la economía",
+     "titulo": "Luego de abandonar a Milei, un ex futbolista de River se sumó a un candidato presidencial y sueña con ser intendente",
      "medio": "Infobae",
      "fecha": "05/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/05/el-gobierno-esta-en-un-laberinto-las-desinteligencias-y-peleas-de-cupula-traban-la-politica-y-la-economia/",
+     "url": "https://www.infobae.com/politica/2026/11/05/luego-de-abandonar-a-milei-un-ex-futbolista-de-river-se-sumo-a-un-candidato-presidencial-y-suena-con-ser-intendente/",
      "tag": "Política"
     },
     {
-     "titulo": "CAMPAÑA OFFSHORE Milei en España: gélido saludo con \"el dictador\" Sánchez y ataque al socialismo por \"fascista\" Por Letra P | Periodismo Político",
-     "medio": "Letra P",
+     "titulo": "La oposición reaccionó a la renuncia de Santiago Peña y recordó la sintonía de Milei con él",
+     "medio": "El Parlamentario",
      "fecha": "05/11/2026",
-     "url": "https://www.letrap.com.ar/politica/javier-milei-espana-gelido-saludo-el-dictador-pedro-sanchez-y-ataque-al-socialismo-fascista-n5427997",
+     "url": "https://www.parlamentario.com/2026/11/05/la-oposicion-reacciono-a-la-renuncia-de-santiago-pena-y-recordo-la-sintonia-de-milei-con-el/",
      "tag": "Política"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Encuesta 2027: Milei y Kicillof separados por 1,3 puntos y la incógnita del balotaje",
+     "medio": "El Destape",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-2027-milei-kicillof-separados-1-3-puntos-incognita-balotaje-2026115125726"
+    },
     {
      "titulo": "OPINIÓN PÚBLICA Encuesta: Kicillof, Milei y Bullrich, quién tiene mejor imagen en 24 distritos del GBA Una encuesta de CB Global Data midió la imagen positiva y negativa de los tres dirigentes en el Conurbano. Felipe Leibovich",
      "medio": "Perfil",
@@ -113,25 +118,38 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Kicillof y el cristinismo pausaron la interna: Máximo Kirchner presidirá el Congreso del PJ bonaerense",
-     "medio": "Infobae",
+     "titulo": "El Presupuesto 2027 de Kicillof: más fondos para obras, deuda por el equivalente a USD 1.000 millones y emergencia económica",
+     "medio": "Info Cielo",
      "fecha": "05/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/05/kicillof-y-el-cristinismo-pausaron-la-interna-maximo-kirchner-presidira-el-congreso-del-pj-bonaerense/"
+     "url": "https://www.infocielo.com/politica-y-economia/el-presupuesto-2027-de-kicillof-mas-fondos-para-obras-deuda-por-usd-1-000-millones-y-emergencia-economica"
     },
     {
-     "titulo": "Kicillof envía su último Presupuesto a la Legislatura bonaerense",
+     "titulo": "El Presupuesto 2027 de Kicillof: Gastos por más de $58 billones y un endeudamiento de USD 1.000 millones",
      "medio": "Diagonales",
      "fecha": "05/11/2026",
-     "url": "https://www.diagonales.com/legislatura/kicillof-envia-su-ultimo-presupuesto-a-la-legislatura-bonaerense-_a6aec71533904a4369c30593e"
+     "url": "https://www.diagonales.com/provincia/el-presupuesto-2027-de-kicillof--gastos-por-mas-de--58-billones-y-un-endeudamiento-de-usd-1-000-millones_a6aecb672696ebfa450927639",
+     "tag": "También en El Termometro"
     },
     {
-     "titulo": "Kicillof respaldó la reelección de los intendentes: “Espero que prospere”",
-     "medio": "Diagonales",
+     "titulo": "Se debilitan las alianzas internacionales de Javier Milei: ahora renunció el presidente de Paraguay",
+     "medio": "Info Cielo",
      "fecha": "05/11/2026",
-     "url": "https://www.diagonales.com/provincia/kicillof-respaldo-la-reeleccion-de-los-intendentes---espero-que-prospere-_a6aec6a333904a4369c2f7b75"
+     "url": "https://www.infocielo.com/politica-y-economia/se-debilitan-las-alianzas-internacionales-de-javier-milei-ahora-renuncio-el-presidente-de-paraguay"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Encuesta 2027: Milei y Kicillof separados por 1,3 puntos y la incógnita del balotaje",
+     "medio": "El Destape",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-2027-milei-kicillof-separados-1-3-puntos-incognita-balotaje-2026115125726"
+    },
+    {
+     "titulo": "DESCONFIADOS Comenzó la guerra fría por la candidatura violeta a la intendencia de La Plata en 2027",
+     "medio": "La Tecla",
+     "fecha": "05/11/2026",
+     "url": "https://www.latecla.info/170954-comenzo-la-guerra-fria-por-la-candidatura-violeta-a-la-intendencia-de-la-plata-en-2027"
+    },
     {
      "titulo": "Kicillof y La Cámpora ensayan una tibia tregua, con 2027 y las candidaturas en disputa REUNION AGENDADA",
      "medio": "La Tecla",
@@ -149,16 +167,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "video España El frío saludo entre Milei y Pedro Sánchez luego de los insultos del mandatario libertario",
+     "titulo": "Crisis política en Paraguay Milei se mantiene en silencio tras la renuncia de su aliado Santiago Peña",
      "medio": "El Ancasti",
      "fecha": "05/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/el-frio-saludo-milei-y-pedro-sanchez-luego-los-insultos-del-mandatario-libertario-n625454"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/milei-se-mantiene-silencio-la-renuncia-su-aliado-santiago-pena-n625480"
     },
     {
-     "titulo": "Económia El Gobierno repartió menos del 20% de los fondos de emergencia a las provincias",
+     "titulo": "25° sesión ordinaria El Senado le dio media sanción a la creación de un servicio de choferes de auxilio",
      "medio": "El Ancasti",
      "fecha": "05/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/el-gobierno-repartio-menos-del-20-los-fondos-emergencia-las-provincias-n625452"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-senado-le-dio-media-sancion-la-creacion-un-servicio-choferes-auxilio-n625479"
     }
    ],
    "imagen": []
@@ -166,53 +184,57 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Crisis política: Soria pagará los sueldos en cuotas en Roca y tambalea su candidatura a gobernadora",
+     "titulo": "Santiago Peña renunció a la presidencia de Paraguay en medio de la crisis por Ueno Bank",
      "medio": "ADN Sur",
      "fecha": "05/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/crisis-politica--soria-pagara-los-sueldos-en-cuotas-en-roca-y-tambalea-su-candidatura-a-gobernadora_a6aec6b75d4b6e4d63e6f2136"
+     "url": "https://www.adnsur.com.ar/politica/santiago-pena-renuncio-a-la-presidencia-de-paraguay-en-medio-de-la-crisis-por-ueno-bank_a6aecac1c2ef0898cb859cefd"
     },
     {
-     "titulo": "Figueroa respaldó eliminar las PASO: “Los partidos tienen que dirimir solos sus internas”",
-     "medio": "ADN Sur",
-     "fecha": "05/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/figueroa-respaldo-eliminar-las-paso---los-partidos-tienen-que-dirimir-solos-sus-internas-_a6aec6922d4b6e4d63e6ee59f"
-    },
-    {
-     "titulo": "Elecciones en Gaiman: La candidata Marlén Rodríguez abrió su local de campaña",
-     "medio": "El Chubut",
-     "fecha": "05/11/2026",
-     "url": "https://www.elchubut.com.ar/regionales/2026-11-5-10-53-0-elecciones-en-gaiman-la-candidata-marlen-rodriguez-abrio-su-local-de-campana"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Perdió Trump y una encuesta midió el impacto en la Argentina",
+     "titulo": "Piden investigar si Milei usó dinero público en la fuga de Bolsonaro",
      "medio": "Diario Jornada",
      "fecha": "05/11/2026",
-     "url": "https://www.diariojornada.com.ar/426555/politica/perdio_trump_y_una_encuesta_midio_el_impacto_en_la_argentina"
+     "url": "https://www.diariojornada.com.ar/426565/politica/piden_investigar_si_milei_uso_dinero_publico_en_la_fuga_de_bolsonaro"
+    },
+    {
+     "titulo": "Falleció la ex diputada Patricia Walsh",
+     "medio": "Diario Jornada",
+     "fecha": "05/11/2026",
+     "url": "https://www.diariojornada.com.ar/426567/politica/fallecio_la_ex_diputada_patricia_walsh"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Discapacidad reavivó las internas en el Gobierno y profundizó el enfrentamiento entre Bullrich y Caputo",
-     "medio": "Hoy Dia",
+     "titulo": "En comisión: aval para la designación de funcionarios fiscales en distintas localidades cordobesas",
+     "medio": "Legislatura de Córdoba",
      "fecha": "05/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/discapacidad-reavivo-las-internas-en-el-gobierno-y-profundizo-el-enfrentamiento-entre-bullrich-y-caputo/"
+     "url": "https://legislaturacba.gob.ar/en-comision-aval-para-la-designacion-de-funcionarios-fiscales-en-distintas-localidades-cordobesas-2/"
     },
     {
-     "titulo": "La Legislatura aprobó una ley que amplía los beneficios impositivos para las pymes",
-     "medio": "Hoy Dia",
+     "titulo": "Bajo la lupa judicial. Piden investigar si el Gobierno de Milei financió con fondos públicos la fuga de Bolsonaro",
+     "medio": "Cadena3",
      "fecha": "05/11/2026",
-     "url": "https://hoydia.com.ar/politica/cordoba/la-legislatura-aprobo-una-ley-que-amplia-los-beneficios-impositivos-para-las-pymes/"
-    },
-    {
-     "titulo": "Amenazaron de muerte al ministro Quinteros y le mandaron una foto con un arsenal de armas",
-     "medio": "ElDoce",
-     "fecha": "05/11/2026",
-     "url": "https://eldoce.tv/politica/2026/11/05/amenazaron-de-muerte-al-ministro-quinteros-y-le-mandaron-una-foto-con-un-arsenal-de-armas/",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/piden-investigar-si-el-gobierno-de-milei-financio-con-fondos-publicos-la-fuga-de-bolsonaro_610494",
      "tag": "También en Hoy Dia"
+    },
+    {
+     "titulo": "Legislatura provincial. Santa Fe: Diputados debaten con modificaciones la ley de seguridad y se vota esta tarde",
+     "medio": "Cadena3",
+     "fecha": "05/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/santa-fe-diputados-debaten-con-modificaciones-la-ley-de-seguridad-y-se-vota-esta-tarde_610597"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Presupuesto Provincial 2027: el ministro de Hacienda presentó el proyecto a los senadores",
+     "medio": "El Litoral",
+     "fecha": "05/11/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-5-11-46-0-presupuesto-provincial-2027-el-ministro-de-hacienda-presento-el-proyecto-a-los-senadores"
     }
    ],
    "imagen": []
@@ -220,24 +242,24 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Entidades rurales de Entre Ríos respaldaron la emergencia agropecuaria declarada por el gobierno",
-     "medio": "El Once",
-     "fecha": "05/11/2026",
-     "url": "https://www.elonce.com/politica/entidades-rurales-respaldaron-la-emergencia-agropecuaria.htm",
-     "tag": "También en AFP Digital, Ahora y 1 más"
-    },
-    {
      "titulo": "Diputados emitió dictamen para el Presupuesto 2027 y analizó la reforma de la Ley de Obras Públicas",
      "medio": "AFP Digital",
      "fecha": "05/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/05/477909-diputados-emitio-dictamen-para-el-presupuesto-2027-y-analizo-la-reforma-de-la-ley-de-obras-publicas"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/05/477909-diputados-emitio-dictamen-para-el-presupuesto-2027-y-analizo-la-reforma-de-la-ley-de-obras-publicas",
+     "tag": "También en El Once, UNO ER"
     },
     {
-     "titulo": "Cierran 72 registros automotores en el país: seis están en Entre Ríos",
-     "medio": "El Once",
+     "titulo": "UNA VUELTA MÁS El presupuesto de Rosario Romero: inversión en asfalto y agua potable con la mira en la reelección en Paraná Por Exequiel Flesler",
+     "medio": "Letra P",
      "fecha": "05/11/2026",
-     "url": "https://www.elonce.com/politica/cierran-72-registros-automotores-seis-estan-en-entre-rios.htm",
-     "tag": "También en AFP Digital, UNO ER"
+     "url": "https://www.letrap.com.ar/politica/el-presupuesto-rosario-romero-inversion-asfalto-y-agua-potable-la-mira-la-reeleccion-parana-n5427995"
+    },
+    {
+     "titulo": "Renunció el presidente de Paraguay en medio de la crisis bancaria y las protestas contra su gobierno",
+     "medio": "AFP Digital",
+     "fecha": "05/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/05/478020-renuncio-el-presidente-de-paraguay-en-medio-de-la-crisis-bancaria-y-las-protestas-contra-su-gobierno",
+     "tag": "También en UNO ER"
     }
    ],
    "imagen": []
@@ -251,17 +273,18 @@
      "url": "https://www.somosjujuy.com.ar/politica/dos-diputados-van-jujuy-crece-pidieron-armar-otro-bloque-legislatura-n126671"
     },
     {
-     "titulo": "Se suspendió la sesión en la Legislatura y quedó en duda el tratamiento del proyecto de la Travesía Urbana",
-     "medio": "Somos Jujuy",
+     "titulo": "Jujuy. Suspendieron la sesión en la Legislatura de Jujuy Por Maria Eugenia Burgos",
+     "medio": "Todo Jujuy",
      "fecha": "05/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/se-suspendio-sesion-legislatura-quedo-duda-tratamiento-proyecto-travesia-urbana-n126681"
+     "url": "https://www.todojujuy.com/jujuy/suspendieron-la-sesion-la-legislatura-jujuy-n298443",
+     "tag": "También en El Tribuno"
     },
     {
      "titulo": "Sadir presentó una nueva etapa del Plan Estratégico Jujuy 2040 con participación ciudadana",
      "medio": "Prensa oficial de Jujuy",
      "fecha": "05/11/2026",
      "url": "https://prensa.jujuy.gob.ar/sadir/sadir-presento-una-nueva-etapa-del-plan-estrategico-jujuy-2040-participacion-ciudadana-n125854",
-     "tag": "También en Somos Jujuy"
+     "tag": "También en Somos Jujuy, Todo Jujuy"
     }
    ],
    "imagen": []
@@ -269,29 +292,43 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "El presupuesto 2027 toma estado parlamentario",
-     "medio": "La Arena",
-     "fecha": "05/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-2027-toma-estado-parlamentario-20261159300"
-    },
-    {
-     "titulo": "Vivo: Ziliotto presenta las oportunidades pampeanas",
-     "medio": "La Arena",
-     "fecha": "05/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/ziliotto-presenta-las-oportunidades-de-la-pampa-ante-mas-de-400-empresarios-de-todo-el-pais-202611510370",
-     "tag": "También en La Pampa 24"
-    },
-    {
-     "titulo": "La recaudación del juego se estancó en La Pampa y perdió 7% frente a la inflación",
+     "titulo": "Matzkin proyecta a Bullrich después de Milei y apunta a la gobernación en La Pampa",
      "medio": "El Diario de La Pampa",
      "fecha": "05/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82656/la-recaudacion-del-juego-se-estanco-en-la-pampa-y-perdio-7-en-porciento--frente-a-la-inflacion"
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82671/matzkin-proyecta-a-bullrich-despues-de-milei-y-apunta-a-la-gobernacion-en-la-pampa",
+     "tag": "También en La Arena"
+    },
+    {
+     "titulo": "Ziliotto llamó a invertir en La Pampa: \"Somos una provincia previsible, solvente y amigable\"",
+     "medio": "El Diario de La Pampa",
+     "fecha": "05/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82669/ziliotto-presento-la-macro-de-la-pampa-ante-mas-de-400-empresarios-e-inversores-",
+     "tag": "También en La Pampa 24, La Arena"
+    },
+    {
+     "titulo": "Ziliotto: “El sector privado necesita reglas de juego claras y un Estado que ayude a minimizar los riesgos de inversión”",
+     "medio": "La Pampa 24",
+     "fecha": "05/11/2026",
+     "url": "https://lapampa24.com.ar/la-pampa-hoy/ziliotto-el-sector-privado-necesita-reglas-de-juego-claras-y-un-estado-que-ayude-a-minimizar-los-riesgos-de-inversion/",
+     "tag": "También en El Diario de La Pampa"
     }
    ],
    "imagen": []
   },
   "La Rioja": {
    "top3": [
+    {
+     "titulo": "Renunció el presidente de Paraguay en medio de la crisis bancaria y las protestas contra su gobierno",
+     "medio": "Nueva Rioja",
+     "fecha": "05/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/renuncio-el-presidente-de-paraguay-en-medio-de-la-crisis-bancaria-y-las-protestas-contra-su-gobierno.htm"
+    },
+    {
+     "titulo": "Quintela asistiría al encuentro de Milei con el papa León XIV",
+     "medio": "Nueva Rioja",
+     "fecha": "05/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/quintela-asistiria-al-encuentro-de-milei-con-el-papa-leon-xiv.htm"
+    },
     {
      "titulo": "PJ. UNA LEGISLADORA NACIONAL TAMBIÉN PIDIÓ POR UNA CANDIDATA ‘MUJER’",
      "medio": "Rioja Virtual",
@@ -304,22 +341,22 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Elecciones 2027: los mendocinos ya pueden consultar el padrón provisorio",
-     "medio": "Prensa oficial de Mendoza",
+     "titulo": "DISCUSIÓN 2027 Tras el acercamiento de Milei a Sáenz, Orozco elige un perfil bajísimo y Cornejo pasa al frente Por Maira López",
+     "medio": "Letra P",
      "fecha": "05/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/elecciones-2027-los-mendocinos-ya-pueden-consultar-el-padron-provisorio/"
+     "url": "https://www.letrap.com.ar/politica/tras-los-coqueteos-milei-y-saenz-emilia-orozco-elige-un-perfil-bajisimo-y-cornejo-pasa-al-frente-salta-n5427981"
+    },
+    {
+     "titulo": "Renuncia de Peña: la oposición chicaneó a Milei por su cercanía política",
+     "medio": "Mendoza Post",
+     "fecha": "05/11/2026",
+     "url": "https://www.mendozapost.com/politica/javier-milei-presidente-paraguay-santiago-pena-la-oposicion-critico/"
     },
     {
      "titulo": "La Cámpora quedó marginada del PJ de Mendoza y el peronismo se aleja de la unidad en un distrito clave",
      "medio": "Infobae",
      "fecha": "05/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/05/la-campora-quedo-marginada-del-pj-de-mendoza-y-el-peronismo-se-aleja-de-la-unidad-en-un-distrito-clave/"
-    },
-    {
-     "titulo": "Bordón y las elecciones en EE.UU.: \"Convertir una relación personal en política exterior es un error\"",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "05/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/bordon-y-las-elecciones-eeuu-convertir-una-relacion-personal-politica-exterior-es-un-error-n1613400"
     }
    ],
    "imagen": []
@@ -327,10 +364,23 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Misiones fue reconocida por su proyecto ECO2",
+     "titulo": "Renunció el presidente paraguayo y Diputados aprobó juicio político",
+     "medio": "La Voz - Misiones",
+     "fecha": "05/11/2026",
+     "url": "https://lavozdemisiones.com/frontera/renuncio-el-presidente-paraguayo-y-diputados-aprobo-juicio-politico"
+    },
+    {
+     "titulo": "Paraguay: Diputados aprobó por unanimidad el juicio político contra Santiago Peña tras su renuncia",
      "medio": "Primera Edición",
      "fecha": "05/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101157829/misiones-fue-reconocida-por-su-proyecto-eco2/"
+     "url": "https://www.primeraedicion.com.ar/nota/101158015/paraguay-diputados-aprobo-por-unanimidad-el-juicio-politico-contra-santiago-pena-tras-su-renuncia/"
+    },
+    {
+     "titulo": "Santiago Peña renunció a la presidencia de Paraguay, jaqueado por la crisis del caso Ueno Bank y sin respaldo político",
+     "medio": "Plan B",
+     "fecha": "05/11/2026",
+     "url": "https://planbmisiones.com/2026/11/05/nota/santiago-pena-renuncio-a-la-presidencia-de-paraguay-jaqueado-por-la-crisis-del-caso-ueno-bank-y-sin-respaldo-politico/",
+     "tag": "También en Primera Edición"
     }
    ],
    "imagen": []
@@ -338,24 +388,24 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Saneamiento Loncopué: la obra de la planta de tratamiento cloacal alcanzó el 99% de avance",
+     "titulo": "Ganadería Se aprobó la reforma de la Ley de Marcas y Señales para modernizar el registro ganadero neuquino",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "05/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266775-loncopue-la-obra-de-la-planta-de-tratamiento-cloacal-alcanzo-el-99por_ciento-de-avance",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
-    },
-    {
-     "titulo": "Reformas integrales Provincia renueva la planta de campamento de Junín de los Andes",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "05/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266790-provincia-renueva-la-planta-de-campamento-de-junin-de-los-andes",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266820-se-aprobo-la-reforma-de-la-ley-de-marcas-y-senales-para-modernizar-el-registro-ganadero-neuquino",
      "tag": "También en Neuquén al Instante"
     },
     {
-     "titulo": "Milei arremetió contra el socialismo frente a Pedro Sánchez y renovó el reclamo por Malvinas",
-     "medio": "Neuquén al Instante",
+     "titulo": "Capacitación y proyectos Más de 1.200 docentes participaron del II Congreso Provincial de Educación Física",
+     "medio": "Prensa oficial de Neuquén",
      "fecha": "05/11/2026",
-     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/05/147012-milei-arremetio-contra-el-socialismo-frente-a-pedro-sanchez-y-renovo-el-reclamo-por-malvinas"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/05/266826-mas-de-1200-docentes-participaron-del-ii-congreso-provincial-de-educacion-fisica",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "¿Menos concejales en Neuquén? Los vecinos tendrán la última palabra en 2027",
+     "medio": "Noticias NQN",
+     "fecha": "05/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/05/359697-menos-concejales-en-neuquen-los-vecinos-tendran-la-ultima-palabra-en-2027"
     }
    ],
    "imagen": []
@@ -363,24 +413,25 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Río Negro recuerda el plazo de inscripción para la audiencia de Argentina LNG",
+     "titulo": "Weretilneck encabezó apertura de ofertas para obras en rutas 22 y 151: “Esta decisión nos hace más autónomos”",
      "medio": "Prensa oficial de Río Negro",
      "fecha": "05/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62662/rio-negro-recuerda-el-plazo-de-inscripcion-para-la-audiencia-de-argentina-lng",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62668/weretilneck-encabezo-apertura-de-ofertas-para-obras-en-rutas-22-y-151-esta-decision-nos-hace-mas-autonomos",
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Proponen eliminar las designaciones vitalicias de los jueces y funcionarios del Poder Judicial de Río Negro",
-     "medio": "Diario Rio Negro",
+     "titulo": "Rio Negro prepara nuevas herramientas para la justicia penal adolescente",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "05/11/2026",
-     "url": "https://www.rionegro.com.ar/justicia/proponen-eliminar-las-designaciones-vitalicias-de-los-jueces-y-funcionarios-del-poder-judicial-de-rio-negro-4785208/"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62674/rio-negro-prepara-nuevas-herramientas-para-la-justicia-penal-adolescente",
+     "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "ASTROLOGÍA Los seis signos del zodiaco que podrían hacerse ricos en 2027",
+     "titulo": "Weretilneck cuestionó a Milei: “Es uno de los gobiernos nacionales con mayor desinterés por el interior\"",
      "medio": "AN Roca",
      "fecha": "05/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/05/231057-los-seis-signos-del-zodiaco-que-podrian-hacerse-ricos-en-2027",
-     "tag": "También en Noticias Net"
+     "url": "https://www.anroca.com.ar/noticias/2026/11/05/231159-weretilneck-cuestiono-a-milei-es-uno-de-los-gobiernos-nacionales-con-mayor-desinteres-por-el-interior",
+     "tag": "También en LCR, Noticias Net"
     }
    ],
    "imagen": []
@@ -388,22 +439,22 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "La pobreza creció con Milei: tres de cada diez salteños no cubre la canasta básica",
-     "medio": "Que Pasa Salta",
+     "titulo": "DISCUSIÓN 2027 Tras el acercamiento de Milei a Sáenz, Orozco elige un perfil bajísimo y Cornejo pasa al frente Por Maira López",
+     "medio": "Letra P",
      "fecha": "05/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/pobreza-salta-milei-canasta-basica/"
+     "url": "https://www.letrap.com.ar/politica/tras-los-coqueteos-milei-y-saenz-emilia-orozco-elige-un-perfil-bajisimo-y-cornejo-pasa-al-frente-salta-n5427981"
     },
     {
-     "titulo": "Sáenz puso en marcha la formación en Inteligencia Artificial para docentes salteños",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "05/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/saenz-puso-en-marcha-la-formacion-en-inteligencia-artificial-para-docentes-saltenios-110952"
-    },
-    {
-     "titulo": "Un corte de luz obligó a suspender la sesión del Concejo Deliberante de Salta",
+     "titulo": "Cerrillos: el Concejo Deliberante definirá el 12 de noviembre la designación del juez de Faltas",
      "medio": "Nuevo Diario de Salta",
      "fecha": "05/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/un-corte-de-luz-obligo-a-suspender-la-sesion-del-concejo-deliberante-de-salta/"
+     "url": "https://nuevodiariodesalta.com.ar/cerrillos-el-concejo-deliberante-definira-el-12-de-noviembre-la-designacion-del-juez-de-faltas/"
+    },
+    {
+     "titulo": "Diputada pidió que el próximo vicegobernador sea una mujer: \"Hay varias en la provincia\"",
+     "medio": "Que Pasa Salta",
+     "fecha": "05/11/2026",
+     "url": "https://www.quepasasalta.com.ar/politica/diputada-pidio-que-el-proximo-vicegobernador-sea-una-mujer/"
     }
    ],
    "imagen": []
@@ -411,47 +462,60 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "Paritaria docente en San Juan: el Gobierno presentó una nueva propuesta salarial y los gremios responderán la próxima semana",
-     "medio": "Tiempo de San Juan",
+     "titulo": "Orrego anunció una segunda etapa de la Ruta 150 y habrá 60 kilómetros renovados entre Iglesia y Jáchal",
+     "medio": "0264 Noticias",
      "fecha": "05/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/paritaria-docente-en-san-juan-el-gobierno-presento-una-nueva-propuesta-salarial-y-los-gremios-responderan-la-proxima-semana_1793873296",
-     "tag": "También en El Zonda, Huarpe y 1 más"
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/05/116118-orrego-anuncio-una-segunda-etapa-de-la-ruta-150-y-habra-60-kilometros-renovados-entre-iglesia-y-jachal",
+     "tag": "También en Diario de Cuyo, Huarpe y 2 más"
     },
     {
-     "titulo": "Paritaria docente en San Juan: el Gobierno ofreció dos ajustes por IPC y un 1,5% para enero, y se retoma el 13 de noviembre Por Redacción Diario de Cuyo",
+     "titulo": "Paritaria docente en San Juan: el Gobierno ofreció dos ajustes por IPC y un 1,5% para enero, y se retoma el 13 de noviembre",
      "medio": "Diario de Cuyo",
      "fecha": "05/11/2026",
      "url": "https://www.diariodecuyo.com.ar/politica/paritaria-docente-san-juan-el-gobierno-ofrecio-dos-ajustes-ipc-y-un-15-enero-y-se-retoma-el-13-noviembre-n6587713"
     },
     {
-     "titulo": "Consejo de la Magistratura: el peronismo busca ordenar la tropa para la alianza y Abogacía Activa sale a captar jóvenes abogados Por Fernando Ortiz",
+     "titulo": "Santiago Peña presentó su renuncia en medio de la crisis que sacude a Paraguay Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "05/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/consejo-la-magistratura-el-peronismo-busca-ordenar-la-tropa-la-alianza-y-abogacia-activa-sale-captar-jovenes-abogados-n6587707"
+     "url": "https://www.diariodecuyo.com.ar/politica/santiago-pena-presento-su-renuncia-la-presidencia-paraguay-plena-crisis-ueno-bank-n6587763",
+     "tag": "También en San Juan 8"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Del acoso escolar a las imágenes falsas con IA: qué prepara San Juan para las escuelas",
+     "medio": "El Zonda",
+     "fecha": "05/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/locales/del-acoso-escolar-a-las-imagenes-falsas-con-ia-que-prepara-san-juan-para-las-escuelas"
+    },
+    {
+     "titulo": "Una extraña luz azul verdosa cruzó el cielo de San Juan y desconcertó a vecinos: las imágenes",
+     "medio": "Tiempo de San Juan",
+     "fecha": "05/11/2026",
+     "url": "https://www.tiempodesanjuan.com/san-juan/una-extrana-luz-azul-verdosa-cruzo-el-cielo-de-san-juan-y-desconcerto-a-vecinos-las-imagenes_1793893653"
+    }
+   ]
   },
   "San Luis": {
    "top3": [
     {
-     "titulo": "La sensación térmica para este jueves será cálida, pero se espera un desmejoramiento hacia la noche",
-     "medio": "Prensa oficial de San Luis",
+     "titulo": "VIDEO | “Gato” Fernández anticipó que el PJ definirá su candidato a gobernador antes de fin de año",
+     "medio": "San Luis 24",
      "fecha": "05/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/05/1228600-la-sensacion-termica-para-este-jueves-sera-calida-pero-se-espera-un-desmejoramiento-hacia-la-noche/"
+     "url": "https://sanluis24.com.ar/gato-fernandez-anticipo-pj-definira-candidato-a-gobernador-antes-fin-ano/"
     },
     {
-     "titulo": "‘Gente de Teatro’ celebra sus 49 años con un ciclo de funciones y un homenaje a Alejo Sosa",
+     "titulo": "“Los sueños se cumplen”: Yanina Roda abrió la puerta de su casa junto al Gobernador",
      "medio": "Prensa oficial de San Luis",
      "fecha": "05/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/05/1228632-gente-de-teatro-celebra-sus-49-anos-con-un-ciclo-de-funciones-y-un-homenaje-a-alejo-sosa/"
+     "url": "https://agenciasanluis.com/2026/11/05/1228867-los-suenos-se-cumplen-yanina-roda-abrio-la-puerta-de-su-casa-junto-al-gobernador/"
     },
     {
-     "titulo": "Cristiano Ronaldo anunció su retiro de la selección de Portugal",
-     "medio": "El Diario de la República",
+     "titulo": "El Gobernador puso en funcionamiento 12 alarmas ciudadanas en el barrio Colón",
+     "medio": "Prensa oficial de San Luis",
      "fecha": "05/11/2026",
-     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-5-9-18-0-cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal",
-     "tag": "También en San Luis 24"
+     "url": "https://agenciasanluis.com/2026/11/05/1228731-el-gobernador-puso-en-funcionamiento-12-alarmas-ciudadanas-en-el-barrio-colon/"
     }
    ],
    "imagen": []
@@ -459,23 +523,24 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Estados Unidos Uriel Salomón: “Trump no tiene problema en gobernar por decreto o por veto”",
-     "medio": "Tiempo Sur",
-     "fecha": "05/11/2026",
-     "url": "https://www.tiemposur.com.ar/info-general/uriel-salomon-trump-no-tiene-problema-en-gobernar-por-decreto-o-por-veto"
-    },
-    {
-     "titulo": "Santa Cruz impulsa la recuperación de reservas petroleras en el Golfo San Jorge",
+     "titulo": "Vidal sobre Represas: “Este es el camino, luchar por una Santa Cruz que abrace el desarrollo, la producción y el trabajo”",
      "medio": "Prensa oficial de Santa Cruz",
      "fecha": "05/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/santa-cruz-impulsa-la-recuperacion-de-reservas-petroleras-en-el-golfo-san-jorge",
-     "tag": "También en Tiempo Sur"
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/vidal-sobre-represas-este-es-el-camino-luchar-por-una-santa-cruz-que-abrace-el-desarrollo-la-produccion-y-el-trabajo",
+     "tag": "También en La Opinión Austral, El Diario Nuevo Día y 1 más"
     },
     {
-     "titulo": "Tras el anuncio de Caputo, ARCA suspendió los embargos y juicios fiscales hasta junio de 2027",
+     "titulo": "Represas: Bórquez resaltó el impacto económico y laboral para Puerto Santa Cruz",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "05/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/represas-borquez-destaco-el-impacto-economico-y-laboral-para-puerto-santa-cruz",
+     "tag": "También en La Opinión Austral, Tiempo Sur"
+    },
+    {
+     "titulo": "Jairo Guzmán y el gobierno nacional confirmaron el inicio de las represas en Santa Cruz",
      "medio": "La Opinión Austral",
      "fecha": "05/11/2026",
-     "url": "https://laopinionaustral.com.ar/argentina/tras-el-anuncio-de-caputo-arca-suspendio-los-embargos-y-juicios-fiscales-hasta-junio-de-2027-727975.html"
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/jairo-guzman-y-el-gobierno-nacional-confirmaron-el-inicio-de-las-represas-en-santa-cruz-728137.html"
     }
    ],
    "imagen": []
@@ -483,22 +548,22 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "En Santa Fe Día D para la reforma que da más poder a la Policía: Pullaro habilitó cambios, pero define la Legislatura Martín Fernández Silva",
-     "medio": "Aire",
+     "titulo": "UNA VUELTA MÁS El presupuesto de Rosario Romero: inversión en asfalto y agua potable con la mira en la reelección en Paraná Por Exequiel Flesler",
+     "medio": "Letra P",
      "fecha": "05/11/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/dia-d-la-reforma-que-da-mas-poder-la-policia-pullaro-habilito-cambios-pero-define-la-legislatura-n675647"
+     "url": "https://www.letrap.com.ar/politica/el-presupuesto-rosario-romero-inversion-asfalto-y-agua-potable-la-mira-la-reeleccion-parana-n5427995"
+    },
+    {
+     "titulo": "Reforma de seguridad en Santa Fe: el oficialismo destrabó el conflicto interno y busca aprobar las leyes de Pullaro",
+     "medio": "La Capital",
+     "fecha": "05/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/reforma-seguridad-santa-fe-el-oficialismo-destrabo-el-conflicto-interno-y-busca-aprobar-las-leyes-pullaro-n10290613.html"
     },
     {
      "titulo": "El Presupuesto 2027 borra el aumento de la AUH de 4,1 millones de chicos",
      "medio": "Rosario Plus",
      "fecha": "05/11/2026",
      "url": "https://www.rosarioplus.com/actualidad/politica/el-presupuesto-2027-borra-el-aumento-de-la-auh-de-4-1-millones-de-chicos_a6aec6295a0f4cc06c83cd936"
-    },
-    {
-     "titulo": "El gobierno de Santa Fe levantó su panel en el Congreso de la UNR tras la polémica Sain",
-     "medio": "La Capital",
-     "fecha": "05/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/el-gobierno-santa-fe-levanto-su-panel-el-congreso-democracia-la-polemica-sain-n10290576.html"
     }
    ],
    "imagen": []
@@ -506,23 +571,24 @@
   "Santiago del Estero": {
    "top3": [
     {
+     "titulo": "El Poder Legislativo adhiere al asueto administrativo dispuesto por el Ejecutivo para el 10 de noviembre  por la visita del Papa",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "05/11/2026",
+     "url": "https://sde.gob.ar/2026/11/05/el-poder-legislativo-adhiere-al-asueto-administrativo-dispuesto-por-el-ejecutivo-para-el-10-de-noviembre-por-la-visita-del-papa/",
+     "tag": "También en El Liberal, Diario Panorama y 1 más"
+    },
+    {
+     "titulo": "Alumnos de los departamentos Robles, Ojo de Agua y Belgrano visitaron Casa de Gobierno",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "05/11/2026",
+     "url": "https://sde.gob.ar/2026/11/05/alumnos-de-los-departamentos-robles-ojo-de-agua-y-belgrano-visitaron-casa-de-gobierno/",
+     "tag": "También en El Liberal, Info del Estero"
+    },
+    {
      "titulo": "El Frente Renovador ratificó su rechazo a las reelecciones indefinidas en PBA",
      "medio": "Nuevo Diario Web",
      "fecha": "05/11/2026",
      "url": "https://nuevodiarioweb.com.ar/politica/el-frente-renovador-ratifico-su-rechazo-a-las-reelecciones-indefinidas-en-pba.htm"
-    },
-    {
-     "titulo": "Gerardo Zamora participó de un encuentro diplomático en la antesala del Congreso Internacional Ana Frank",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "05/11/2026",
-     "url": "https://sde.gob.ar/2026/11/05/gerardo-zamora-participo-de-un-encuentro-diplomatico-en-la-antesala-del-congreso-internacional-ana-frank/",
-     "tag": "También en Info del Estero"
-    },
-    {
-     "titulo": "Visita papal: la lista de gobernadores, empresarios y dirigentes confirmados para el encuentro en el Palacio Libertad",
-     "medio": "El Liberal",
-     "fecha": "05/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97049/2026/11/visita-papal--la-lista-de-gobernadores-empresarios-y-dirigentes-confirmados-para-el-encuentro-en-el-palacio-libertad"
     }
    ],
    "imagen": []
@@ -547,22 +613,23 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Argentina Week 2027: Milei prepara su regreso a Nueva York, donde estalló el escándalo de Adorni",
-     "medio": "Los Primeros",
-     "fecha": "05/11/2026",
-     "url": "https://www.losprimeros.tv/politica/argentina-week-2027--milei-prepara-su-regreso-a-nueva-york--donde-estallo-el-escandalo-de-adorni_a6aec66343904a4369c2f07cc"
-    },
-    {
-     "titulo": "Milei reclamó al Reino Unido retomar las negociaciones por Malvinas y calificó la causa como “sagrada”",
+     "titulo": "Jaldo, sobre su candidatura: “No estoy aferrado a ningún sillón y me voy a allanar al fallo de la Corte”",
      "medio": "La Gaceta - Tucumán",
      "fecha": "05/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1161144/politica/milei-reclamo-al-reino-unido-retomar-negociaciones-malvinas-califico-causa-como-sagrada.html"
+     "url": "https://www.lagaceta.com.ar/nota/1161186/politica/jaldo-sobre-candidatura-no-estoy-aferrado-ningun-sillon-me-voy-allanar-al-fallo-corte.html",
+     "tag": "También en LV12"
     },
     {
-     "titulo": "Cronograma oficial: así concluye el pago del 80% del sueldo de octubre a los estatales tucumanos",
-     "medio": "Los Primeros",
+     "titulo": "Renunció el jefe de la Unidad Médica Presidencial: Karina Milei aceptó su salida",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "05/11/2026",
-     "url": "https://www.losprimeros.tv/actualidad/cronograma-oficial--asi-concluye-el-pago-del-80--del-sueldo-de-octubre-a-los-estatales-tucumanos_a6aec8caf3904a4369c332cb2"
+     "url": "https://www.lagaceta.com.ar/nota/1161175/politica/renuncio-jefe-unidad-medica-presidencial-karina-milei-acepto-salida.html"
+    },
+    {
+     "titulo": "Renunció el presidente de Paraguay en medio de la crisis bancaria",
+     "medio": "LV12",
+     "fecha": "05/11/2026",
+     "url": "https://www.lv12.com.ar/paraguay/renuncio-el-presidente-paraguay-medio-la-crisis-bancaria-n206220"
     }
    ],
    "imagen": []
@@ -586,7 +653,6 @@
   "https://www.elcomercial.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
-  "https://nuevarioja.com.ar/",
   "https://www.mdzol.com/mendoza",
   "https://www.elterritorio.com.ar/",
   "https://misionescuatro.com/",
