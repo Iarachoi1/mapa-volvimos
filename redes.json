@@ -1,13 +1,67 @@
 {
- "actualizado": "05/11 13:55",
+ "actualizado": "05/11 14:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "santiago espindola",
+   "busquedas": "500+",
+   "nota": "El tremendo elogio de Arsène Wenger a Santiago Espíndola, la joya de 18 años que River blindó en € 100 millones",
+   "nota_url": "https://www.ole.com.ar/river-plate/river-santiagoespindola-wenger-ponzio-arsenal_0_nnnSclBElS.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atalanta - kairat",
+   "busquedas": "200+",
+   "nota": "Conference League line-ups: Atalanta vs. Kairat Almaty",
+   "nota_url": "https://onefootball.com/en/news/conference-league-line-ups-atalanta-vs-kairat-almaty-43731548",
+   "medio": "OneFootball",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "crystal palace - hoffenheim",
+   "busquedas": "200+",
+   "nota": "Thursday best bets: Europa League and Conference League tips for November 4 2026",
+   "nota_url": "https://www.sportinglife.com/football/news/thursday-best-bets-europa-league-and-conference-league-tips-for-november-4-2026/235211",
+   "medio": "Sporting Life",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "página 12",
+   "busquedas": "1000+",
+   "nota": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este jueves 5 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/05/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-jueves-5-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "milan - ferencváros",
+   "busquedas": "1000+",
+   "nota": "Milan vs. Ferencváros juegan hoy: todo lo que tenés que saber del partido de la Europa League",
+   "nota_url": "https://www.directvsports.com/futbol/milan-vs.-ferencvaros-juegan-hoy-todo-lo-que-tenes-que-saber-del-partido-de-la-europa-league-20261102-0012.html",
+   "medio": "DSports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ueno",
+   "busquedas": "5000+",
+   "nota": "Escándalo financiero en Paraguay impacta en Argentina: suspenden a 1.000 empleados de una consultora tecnológica",
+   "nota_url": "https://www.lavoz.com.ar/politica/escandalo-financiero-paraguay-impacta-argentina-suspenden-1000-empleados-consultora-tecnologica_0_NwjAEFUtj1.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "taurian fontenette",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Legendary street baller Taurian Fontenette dead at 43: ‘Basketball genius’",
    "nota_url": "https://sports.yahoo.com/articles/legendary-street-baller-taurian-fontenette-202635810.html",
    "medio": "Yahoo Sports",
@@ -16,16 +70,16 @@
   },
   {
    "tema": "cronograma",
-   "busquedas": "200+",
-   "nota": "Operativo de Garrafa Social en Capital",
-   "nota_url": "https://www.cadenaderadios.com.ar/noticia/88196_operativo-de-garrafa-social-en-capital.htm",
-   "medio": "Cadena de Radios",
+   "busquedas": "500+",
+   "nota": "Todo lo que tenés que saber antes de salir de casa...",
+   "nota_url": "https://www.lv12.com.ar/octubre/todo-lo-que-tenes-que-saber-antes-salir-casa-n205866",
+   "medio": "LV12",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "barco fantasma",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El barco fantasma del Paraná volvió a moverse: qué pasó con el Uros-Z",
    "nota_url": "https://www.datachaco.com/654215-el-barco-fantasma-del-parana-volvio-a-moverse-que-paso-con-el-uros-z",
    "medio": "DataChaco",
@@ -33,66 +87,12 @@
    "temas": []
   },
   {
-   "tema": "atp paris",
-   "busquedas": "200+",
-   "nota": "Quatre Français sur le Court Central dont Arthur Fils pour les huitièmes de finale : le programme de jeudi au Rolex Paris Masters",
-   "nota_url": "https://www.lequipe.fr/Tennis/Actualites/Quatre-francais-sur-le-court-central-dont-arthur-fils-pour-les-huitiemes-de-finale-le-programme-de-jeudi-au-rolex-paris-masters/1741280",
-   "medio": "L'Équipe",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "petróleo",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Las elecciones de medio término en Estados Unidos golpearon el precio del crudo",
    "nota_url": "https://mase.lmneuquen.com/internacionales/las-elecciones-medio-termino-estados-unidos-golpearon-el-precio-del-crudo-n1259926",
    "medio": "Lmneuquen.com",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "l-gante",
-   "busquedas": "200+",
-   "nota": "“Me voy a poner a fraccionar”: los audios de la causa que involucra al DJ de L-Gante por venta de drogas",
-   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/04/me-voy-a-poner-a-fraccionar-los-audios-de-la-causa-que-involucra-al-dj-de-l-gante-por-venta-de-drogas/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "one piece 1198",
-   "busquedas": "100+",
-   "nota": "One Piece Chapter 1198 spoilers: Luffy's feral new form debuts, as Imu crushes Loki",
-   "nota_url": "https://gulfnews.com/entertainment/one-piece-chapter-1198-spoilers-luffys-feral-new-form-debuts-as-imu-crushes-loki-1.500735157",
-   "medio": "Gulf News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ignacio buse",
-   "busquedas": "100+",
-   "nota": "Encuentro de tenis entre Buse y Daniil Medvedev en el Rolex Paris Masters",
-   "nota_url": "https://www.infobae.com/video/peru/encuentro-de-tenis-entre-buse-y-daniil-medvedev-en-el-rolex-paris-masters/bu8K92WG/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "master 1000 paris",
-   "busquedas": "2000+",
-   "nota": "Alcaraz se mantiene firme en un Masters 1.000 de París donde caen los favoritos",
-   "nota_url": "https://www.tycsports.com/tenis/alcaraz-se-mantiene-firme-en-un-masters-1000-de-paris-donde-caen-los-favoritos-id770416.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "motorola signature 27",
-   "busquedas": "100+",
-   "nota": "Todos os celulares que serão lançados em novembro",
-   "nota_url": "https://www.oficinadanet.com.br/smartphones/73911-celulares-que-serao-lancados-novembro-2026",
-   "medio": "Oficina da Net",
-   "relevante": false,
    "temas": []
   }
  ],
