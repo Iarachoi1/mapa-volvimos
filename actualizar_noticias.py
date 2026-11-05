@@ -599,14 +599,16 @@ def main():
                     if fuente["juris"] in menciones:
                         puntos += 1
             elif fuente["bloque"] == "5":
-                # Medios nacionales: todas sus notas van a CABA y, además,
-                # a cada provincia que nombre el título
+                # Medios nacionales: cada nota va SOLO a las jurisdicciones que
+                # nombra el título (CABA incluida, si la nombra). Antes todas
+                # iban a CABA y así se colaban noticias de provincias.
                 menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
-                otras = sorted((j for j in menciones if j not in ("CABA", "NACIONAL")),
-                               key=menciones.get, reverse=True)
-                destinos = ["CABA"] + otras
-                if menciones:
-                    puntos += 1
+                destinos = sorted((j for j in menciones if j != "NACIONAL"),
+                                  key=menciones.get, reverse=True)
+                if not destinos:
+                    motivos["CABA"]["nota nacional sin mención de CABA"] += 1
+                    continue
+                puntos += 1
             else:  # Congreso, ministerios, agregadores
                 menciones = jurisdicciones_mencionadas(n["titulo"], JUR)
                 if fuente["juris"] == "Menciones" and not menciones:
