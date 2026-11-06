@@ -1,13 +1,31 @@
 {
- "actualizado": "06/11 11:51",
+ "actualizado": "06/11 12:36",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "mundial de padel 2026",
+   "busquedas": "200+",
+   "nota": "Pádel: Argentina en semifinales de la mano de Stupaczuk y Riera",
+   "nota_url": "https://www.diarionorte.com/336124-padel-argentina-en-semifinales-de-la-mano-de-stupaczuk-y-riera",
+   "medio": "Diario Norte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adorni",
+   "busquedas": "200+",
+   "nota": "Para el fiscal Gerardo Pollicita, no hay elementos suficientes para sostener que Manuel Adorni se enriqueció ilícitamente",
+   "nota_url": "https://www.infobae.com/judiciales/2026/11/06/para-el-fiscal-gerardo-pollicita-no-hay-elementos-suficientes-para-sostener-que-manuel-adorni-se-enriquecio-ilicitamente/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "meteored",
-   "busquedas": "500+",
+   "busquedas": "2000+",
    "nota": "Avanzan las tormentas y el viento intenso en Argentina, antes de un marcado aumento del calor la próxima semana",
    "nota_url": "https://www.meteored.com.ar/noticias/prediccion/avanzan-las-tormentas-y-el-viento-intenso-en-argentina-antes-de-un-marcado-aumento-del-calor-la-proxima-semana.html",
    "medio": "Meteored Argentina",
@@ -16,34 +34,43 @@
   },
   {
    "tema": "marcha del orgullo",
-   "busquedas": "100+",
-   "nota": "Orgullo: ¿una fiesta a la medida de Macri o una marcha política contra los ataques de odio?",
-   "nota_url": "https://www.laizquierdadiario.com/Orgullo-una-fiesta-a-la-medida-de-Macri-o-una-marcha-politica-contra-los-ataques-de-odio",
-   "medio": "La Izquierda Diario",
+   "busquedas": "200+",
+   "nota": "María Becerra y La Joaqui, en la Marcha del Orgullo",
+   "nota_url": "https://www.eldia.com/espectaculos/maria-becerra-y-la-joaqui-en-la-marcha-del-orgullo-espectaculos_1793938867",
+   "medio": "Diario El Día de La Plata",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "la gaceta",
-   "busquedas": "200+",
-   "nota": "El motivo del \"faltazo\" del padre de Lali a su boda",
-   "nota_url": "https://www.gentedesalta.com/espectaculos/el-motivo-faltazo-padre-lali-su-boda-n13602",
-   "medio": "Gente de Salta",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "La mayoría de los diputados y senadores confirmaron su presencia al evento con el Papa León XIV",
+   "nota_url": "https://www.infobae.com/politica/2026/11/05/la-mayoria-de-los-diputados-y-senadores-confirmaron-su-presencia-al-evento-con-el-papa-leon-xiv/",
+   "medio": "Infobae",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "ben shelton",
-   "busquedas": "200+",
-   "nota": "Alcaraz advances to Paris Masters quarterfinals after Berrettini pulls out injured",
-   "nota_url": "https://www.kare11.com/article/syndication/associatedpress/alcaraz-advances-to-paris-masters-quarterfinals-after-berrettini-pulls-out-injured/616-d99c2af7-c1fc-4ed5-8368-566319fe4adf",
-   "medio": "kare11.com",
+   "busquedas": "500+",
+   "nota": "Licensable picture: Tennis, Ben SHELTON (USA) 3/6 6/4 7/6 Arthur RINDERKNECH (FRA)",
+   "nota_url": "https://www.reutersconnect.com/item/tennis-ben-shelton-usa-36-64-76-arthur-rinderknech-fra/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBDNkVRVjc",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "video de pequeño j",
+   "busquedas": "1000+",
+   "nota": "Quién es Roger, el cerebro del triple crimen de Florencio Varela: la increíble red de pistas que lo delataron",
+   "nota_url": "https://www.clarin.com/policiales/roger-cerebro-triple-crimen-florencio-varela-increible-red-pistas-delataron_0_sJJWWLgYW2.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "horarios f1 brasil 2026",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "F1: Las actualizaciones que se realizaron en la pista de Interlagos",
    "nota_url": "https://campeones.com.ar/f1-las-actualizaciones-que-se-realizaron-en-la-pista-de-interlagos/",
    "medio": "Campeones",
@@ -65,33 +92,6 @@
    "nota": "“Se me partió el corazón”: el angustiante mensaje de la esposa de Tim Payne por la crisis bancaria en Paraguay",
    "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/05/se-me-partio-el-corazon-el-angustiante-mensaje-de-la-esposa-de-tim-payne-por-la-crisis-bancaria-en-paraguay/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "eleventickets libertadores",
-   "busquedas": "500+",
-   "nota": "Comienza la venta de entradas para los hinchas de Estudiantes de La Plata",
-   "nota_url": "https://www.afa.com.ar/es/posts/comienza-la-venta-de-entradas-para-los-hinchas-de-estudiantes-de-la-plata",
-   "medio": "AFA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "viento",
-   "busquedas": "100+",
-   "nota": "Viernes con posible lluvia, pero un finde largo primaveral en Neuquén: ¿Cuál será la temperatura máxima?",
-   "nota_url": "https://www.lmneuquen.com/neuquen/viernes-posible-lluvia-pero-un-finde-largo-primaveral-neuquen-cual-sera-la-temperatura-maxima-n1260182",
-   "medio": "Lmneuquen.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fadea",
-   "busquedas": "100+",
-   "nota": "Grecia confirma su pedido de hasta seis KC-390 de Embraer para relevar a sus C-130",
-   "nota_url": "https://aviaciondigital.com/grecia-confirma-pedido-hasta-seis-kc-390-embraer/",
-   "medio": "Aviación Digital",
    "relevante": false,
    "temas": []
   }
