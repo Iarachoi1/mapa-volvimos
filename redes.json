@@ -1,10 +1,37 @@
 {
- "actualizado": "06/11 10:59",
+ "actualizado": "06/11 11:51",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "meteored",
+   "busquedas": "500+",
+   "nota": "Avanzan las tormentas y el viento intenso en Argentina, antes de un marcado aumento del calor la próxima semana",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/avanzan-las-tormentas-y-el-viento-intenso-en-argentina-antes-de-un-marcado-aumento-del-calor-la-proxima-semana.html",
+   "medio": "Meteored Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marcha del orgullo",
+   "busquedas": "100+",
+   "nota": "Orgullo: ¿una fiesta a la medida de Macri o una marcha política contra los ataques de odio?",
+   "nota_url": "https://www.laizquierdadiario.com/Orgullo-una-fiesta-a-la-medida-de-Macri-o-una-marcha-politica-contra-los-ataques-de-odio",
+   "medio": "La Izquierda Diario",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "la gaceta",
+   "busquedas": "200+",
+   "nota": "El motivo del \"faltazo\" del padre de Lali a su boda",
+   "nota_url": "https://www.gentedesalta.com/espectaculos/el-motivo-faltazo-padre-lali-su-boda-n13602",
+   "medio": "Gente de Salta",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "ben shelton",
    "busquedas": "200+",
@@ -15,26 +42,17 @@
    "temas": []
   },
   {
-   "tema": "video pequeño j",
-   "busquedas": "1000+",
-   "nota": "Triple femicidio de Florencio Varela: la familia de una de las víctimas denunciará a la jueza Arroyo Salgado por la filtración del video",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/05/triple-femicidio-de-florencio-varela-la-familia-de-una-de-las-victimas-denunciara-a-la-jueza-arroyo-salgado-por-la-filtracion-del-video/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "horarios f1 brasil 2026",
    "busquedas": "200+",
-   "nota": "F1 GP de Brasil: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1",
-   "nota_url": "https://www.clarin.com/deportes/f1-gp-brasil-horarios-entrenamiento-clasificacion-ver-formula-1_0_ZTMR6uGsXi.html",
-   "medio": "Clarin.com",
+   "nota": "F1: Las actualizaciones que se realizaron en la pista de Interlagos",
+   "nota_url": "https://campeones.com.ar/f1-las-actualizaciones-que-se-realizaron-en-la-pista-de-interlagos/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bom",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "You're not imagining it, the NT's build-up is worse than normal",
    "nota_url": "https://www.abc.net.au/news/2026-11-06/nt-top-end-swelters-through-hot-build-up-before-delayed-monsoon/107351308",
    "medio": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -44,15 +62,15 @@
   {
    "tema": "conmebol",
    "busquedas": "200+",
-   "nota": "Estallido en Paraguay: \"Nuestro partido más importante\" :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/rogeliodelgado-fap-uenobank-paraguay-olimpia-cerroporteno_0_DWpbf8oLyN.html",
-   "medio": "Olé",
+   "nota": "“Se me partió el corazón”: el angustiante mensaje de la esposa de Tim Payne por la crisis bancaria en Paraguay",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/05/se-me-partio-el-corazon-el-angustiante-mensaje-de-la-esposa-de-tim-payne-por-la-crisis-bancaria-en-paraguay/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "eleventickets libertadores",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Comienza la venta de entradas para los hinchas de Estudiantes de La Plata",
    "nota_url": "https://www.afa.com.ar/es/posts/comienza-la-venta-de-entradas-para-los-hinchas-de-estudiantes-de-la-plata",
    "medio": "AFA",
@@ -62,37 +80,19 @@
   {
    "tema": "viento",
    "busquedas": "100+",
-   "nota": "Clima hoy en Córdoba: el pronóstico del tiempo para este viernes 6 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-cordoba-pronostico-tiempo-viernes-6-noviembre-2026_0_E7pD77ytur.html",
-   "medio": "Clarin.com",
+   "nota": "Viernes con posible lluvia, pero un finde largo primaveral en Neuquén: ¿Cuál será la temperatura máxima?",
+   "nota_url": "https://www.lmneuquen.com/neuquen/viernes-posible-lluvia-pero-un-finde-largo-primaveral-neuquen-cual-sera-la-temperatura-maxima-n1260182",
+   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fadea",
    "busquedas": "100+",
-   "nota": "Refuerzo de infraestructura en Córdoba: Personal desplegó un plan especial de conectividad por la llegada del Papa",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/05/refuerzo-de-infraestructura-en-cordoba-personal-desplego-un-plan-especial-de-conectividad-por-la-llegada-del-papa/",
-   "medio": "eldoce",
+   "nota": "Grecia confirma su pedido de hasta seis KC-390 de Embraer para relevar a sus C-130",
+   "nota_url": "https://aviaciondigital.com/grecia-confirma-pedido-hasta-seis-kc-390-embraer/",
+   "medio": "Aviación Digital",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dia del bancario en argentina",
-   "busquedas": "1000+",
-   "nota": "El Nuevo Banco del Chaco funcionará a pleno a través de sus servicios digitales durante el fin de semana largo",
-   "nota_url": "https://www.diarionorte.com/336082-el-nuevo-banco-del-chaco-funcionara-a-pleno-a-traves-de-sus-servicios-digitales-durante-el-fin-de-semana-largo",
-   "medio": "Diario Norte",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "papelera del sur",
-   "busquedas": "200+",
-   "nota": "\"Bordoni, gracias a Milei 160 familias se quedan en la calle en Tornquist\"",
-   "nota_url": "https://www.lanuevaradiosuarez.com.ar/region/bordoni-gracias-a-milei-160-familias-se-quedan-en-la-calle-en-tornquist-82403.html",
-   "medio": "La Nueva Radio Suárez",
-   "relevante": true,
    "temas": []
   }
  ],
