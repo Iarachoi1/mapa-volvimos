@@ -1,13 +1,85 @@
 {
- "actualizado": "05/11 20:33",
+ "actualizado": "05/11 21:37",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "josé luis gioia",
+   "tema": "empleado público",
+   "busquedas": "100+",
+   "nota": "Es ley el nuevo régimen disciplinario del Estado: de qué se trata y cómo fue la votación en el Senado",
+   "nota_url": "https://www.losandes.com.ar/politica/es-ley-el-nuevo-regimen-disciplinario-del-estado-que-se-trata-y-como-fue-la-votacion-el-senado-n6012845",
+   "medio": "Los Andes",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "andy kusnetzoff",
+   "busquedas": "100+",
+   "nota": "Nora Colosimo fulminó a la China Ansa tras el escándalo con Santi Maratea: “Busca protagonismo”",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/04/nora-colosimo-fulmino-a-la-china-ansa-tras-el-escandalo-con-santi-maratea-busca-protagonismo/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cruzeiro - bahía",
+   "busquedas": "1000+",
+   "nota": "Relacionados: Bahia divulga lista sem Marco Moreno e com retorno de Kanu para enfrentar o Cruzeiro",
+   "nota_url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/11/05/relacionados-bahia-divulga-lista-sem-marco-moreno-e-com-retorno-de-kanu-para-enfrentar-o-cruzeiro.ghtml",
+   "medio": "ge",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "keanu reeves",
+   "busquedas": "100+",
+   "nota": "Lionsgate Greenlights Animated John Wick Film With Keanu Reeves Returning",
+   "nota_url": "https://mezha.net/eng/news/mezha-0304f0035042586911113dab_lionsgate_greenlights_animated/",
+   "medio": "Mezha.net",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo mañana",
+   "busquedas": "20000+",
+   "nota": "Sol en Buenos Aires, tormentas en Paysandú y Córdoba: el clima en cada etapa de la visita de León XIV",
+   "nota_url": "https://www.clarin.com/sociedad/sol-buenos-aires-tormentas-paysandu-cordoba-clima-etapa-visita-leon-xiv_0_5qhVEvPSqe.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "independiente del valle - delfín",
+   "busquedas": "500+",
+   "nota": "Esta es la otra semifinal de la Copa Ecuador",
+   "nota_url": "https://www.eluniverso.com/deportes/futbol/esta-es-la-otra-semifinal-de-la-copa-ecuador-nota/",
+   "medio": "El Universo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fraude",
    "busquedas": "200+",
+   "nota": "Alaska y Misisipi continúan el conteo de votos en medio de históricas victorias demócratas",
+   "nota_url": "https://www.clarin.com/estados-unidos/alaska-y-misisipi-continuan-el-conteo-de-votos-en-medio-de-historicas-victorias-democratas_0_GPAIKJWRVg.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "weather tomorrow",
+   "busquedas": "500+",
+   "nota": "Frosty nights, sunshine, gradual warming on the way",
+   "nota_url": "https://www.keyc.com/2026/11/05/frosty-nights-sunshine-gradual-warming-way/",
+   "medio": "KEYC News Now",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "josé luis gioia",
+   "busquedas": "1000+",
    "nota": "La hija de José Luis Gioia contó cómo evoluciona su padre tras sufrir un ACV: “De a poco iremos viendo”",
    "nota_url": "https://www.infobae.com/teleshow/2026/11/04/la-hija-de-jose-luis-gioia-conto-como-evoluciona-su-padre-tras-sufrir-un-acv-de-a-poco-iremos-viendo/",
    "medio": "Infobae",
@@ -20,78 +92,6 @@
    "nota": "El observatorio Swift de la NASA caería a la Tierra esta semana",
    "nota_url": "https://radio3cadenapatagonia.com.ar/el-observatorio-swift-de-la-nasa-caeria-a-la-tierra-esta-semana/",
    "medio": "Radio 3 Cadena Patagonia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "u. de chile - antofagasta",
-   "busquedas": "100+",
-   "nota": "“La gente habla más de que la U jugó mal que de nuestros aciertos... Ya no es casualidad”",
-   "nota_url": "https://chile.as.com/futbol/la-gente-habla-mas-de-que-la-u-jugo-mal-que-de-nuestros-aciertos-ya-no-es-casualidad-f202611-n/",
-   "medio": "AS Chile",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barassi",
-   "busquedas": "100+",
-   "nota": "El particular posteo de Darío Barassi en la previa de su cumpleaños: “Sale un poco el sol y yo topless”",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/el-particular-posteo-de-dario-barassi-en-la-previa-de-su-cumpleanos-sale-un-poco-el-sol-y-yo-topless/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "profesor",
-   "busquedas": "200+",
-   "nota": "Profesores de la pública tiñen de verde las calles de Madrid",
-   "nota_url": "https://www.elcorreo.com/sociedad/profesores-pblica-tien-verde-calles-madrid-20261105194030-vi.html",
-   "medio": "El Correo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gimnasia",
-   "busquedas": "10000+",
-   "nota": "Qué canal transmite Gimnasia y Esgrima La Plata vs. Belgrano de Córdoba por el Torneo Clausura: hora, TV y cómo en vivo",
-   "nota_url": "https://deportv.gob.ar/futbol/canal-transmite-gimnasia-esgrima-plata-vs-belgrano-cordoba-torneo-clausura-hora-tv-vivo-nid:18657",
-   "medio": "DeporTV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión",
-   "busquedas": "500+",
-   "nota": "Ampliación de cobertura EFE Audiovisual Internacional 05 nov (16.00 GMT)",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/05/ampliacion-de-cobertura-efe-audiovisual-internacional-05-nov-1600-gmt/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gelp",
-   "busquedas": "200+",
-   "nota": "Desde Gimnasia confirmaron qué se hará con el dinero recaudado por el \"Día del Club\" y explicaron los motivos",
-   "nota_url": "https://www.0221.com.ar/gimnasia/desde-gimnasia-confirmaron-que-se-hara-el-dinero-recaudado-el-dia-del-club-y-explicaron-los-motivos-n136925",
-   "medio": "0221",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "corte suprema",
-   "busquedas": "5000+",
-   "nota": "El jefe de los fiscales apoyó el pedido para que el caso de la mansión de Pilar no sea investigado por el juez cercano a la AFA",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/05/el-jefe-de-los-fiscales-apoyo-el-pedido-para-que-el-caso-de-la-mansion-de-pilar-no-sea-investigado-por-el-juez-cercano-a-la-afa/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juventus vs",
-   "busquedas": "100+",
-   "nota": "Licensable picture: AZ Alkmaar v Juventus - UEFA Europa League 2026/27 League Phase MD4",
-   "nota_url": "https://www.reutersconnect.com/item/az-alkmaar-v-juventus-uefa-europa-league-202627-league-phase-md4/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEVCT0xVTg",
-   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   }
