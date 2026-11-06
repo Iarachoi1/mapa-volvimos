@@ -1,13 +1,49 @@
 {
- "actualizado": "06/11 06:51",
+ "actualizado": "06/11 07:50",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "diario de cuyo",
+   "tema": "clima necochea",
+   "busquedas": "100+",
+   "nota": "Cómo estará el clima en Necochea y Quequén este jueves 5-11",
+   "nota_url": "https://www.diario4v.com/nota/53947/como-estara-el-clima-en-necochea-y-quequen-este-jueves-5-11/",
+   "medio": "Diario Cuatro Vientos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "playstation plus",
    "busquedas": "200+",
+   "nota": "PlayStation Plus Officially Announces Price Cut",
+   "nota_url": "https://screenrant.com/playstation-plus-black-friday-price-cut-confirmed/",
+   "medio": "ScreenRant",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "unicenter shopping",
+   "busquedas": "100+",
+   "nota": "Tesla abrirá su primera concesionaria en la Argentina: dónde estará y para cuándo está planificada la apertura",
+   "nota_url": "https://www.infobae.com/economia/2026/11/04/tesla-abrira-su-primera-concesionaria-en-la-argentina-donde-estara-y-para-cuando-esta-planificada-la-apertura/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rosario",
+   "busquedas": "200+",
+   "nota": "Cómo operaba la banda dedicada a robar carteras y celulares en el centro de Rosario que fue desbaratada la ...",
+   "nota_url": "https://www.rosario3.com/policiales/como-operaba-la-banda-dedicada-a-robar-carteras-y-celulares-en-el-centro-de-rosario-que-fue-desbaratada-la-semana-pasada-20261105-0026.html",
+   "medio": "Rosario3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diario de cuyo",
+   "busquedas": "500+",
    "nota": "¡Atención! Por el alerta meteorológico, suspendieron las clases en un departamento",
    "nota_url": "https://www.diariohuarpe.com/nota/suspenden-las-clases-en-calingasta-este-viernes-por-alerta-meteorologica-202611521260",
    "medio": "Diario Huarpe",
@@ -16,7 +52,7 @@
   },
   {
    "tema": "evento de el niño de 2026 2027",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Super El Nino and the Capital Area: An In-Depth Storm Station Study",
    "nota_url": "https://www.wbrz.com/news/super-el-nino-and-the-capital-area-an-in-depth-storm-station-study/",
    "medio": "WBRZ",
@@ -24,74 +60,38 @@
    "temas": []
   },
   {
-   "tema": "papa",
+   "tema": "clima san juan",
    "busquedas": "100+",
-   "nota": "Entre Ríos: cómo será el operativo en la frontera con Uruguay por la visita del papa León XIV",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/05/entre-rios-como-sera-el-operativo-en-la-frontera-con-uruguay-por-la-visita-del-papa-leon-xiv/",
-   "medio": "Infobae",
+   "nota": "¿Afloja el calor? Mirá cómo estará el clima en San Juan este viernes, con alerta incluida",
+   "nota_url": "https://www.tiempodesanjuan.com/san-juan/afloja-el-calor-mira-como-estara-el-clima-en-san-juan-este-viernes-con-alerta-incluida_1793930208",
+   "medio": "Tiempo de San Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "papa",
+   "busquedas": "500+",
+   "nota": "León XIV en Córdoba: cómo es el histórico megaoperativo sanitario desplegado para la misa y sus recorridos",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/05/leon-xiv-en-cordoba-como-es-el-historico-megaoperativo-sanitario-desplegado-para-la-misa-y-sus-recorridos/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tormenta",
    "busquedas": "2000+",
-   "nota": "Tormenta, viento y Zonda, las alertas en la previa del fin de semana largo por la llegada del papa León XIV: las provincias afectadas",
-   "nota_url": "https://www.rionegro.com.ar/servicios/tormenta-viento-y-zonda-las-alertas-en-la-previa-del-fin-de-semana-largo-por-la-llegada-del-papa-leon-xiv-las-provincias-afectadas-4785257/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "abc",
-   "busquedas": "500+",
-   "nota": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
-   "medio": "Bloomberg.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de fútbol de argentina",
-   "busquedas": "200+",
-   "nota": "Colo Barco eligió a su candidato para heredar la camiseta número 10 de Messi en la Selección argentina: \"De su juego me gusta todo\"",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/04/colo-barco-eligio-al-futbolista-que-quiere-ver-con-la-camiseta-numero-10-de-la-seleccion-argentina-tras-el-retiro-de-messi/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "recesión",
-   "busquedas": "1000+",
-   "nota": "El viceministro de Economía descartó un “plan platita” para 2027 y relativizó la preocupación por la volatilidad de los mercados",
-   "nota_url": "https://tn.com.ar/economia/2026/11/05/el-viceministro-de-economia-descarto-un-plan-platita-para-2027-y-relativizo-la-preocupacion-por-la-volatilidad-de-los-mercados/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cotización",
-   "busquedas": "1000+",
-   "nota": "Así cerró el dólar en bancos, blue y MEP este jueves 5 de noviembre",
-   "nota_url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-jueves-5-noviembre-2026-blue-mep_0_0QTozOIafw.html",
+   "nota": "Rigen alertas por tormentas fuertes y granizo en Santa Fe y otras siete provincias",
+   "nota_url": "https://www.ellitoral.com/nacionales/serviciometeorologiconacional-alertanaranja-alertaamarilla-santafe-lluvia-tormentas-granizo-temporal_0_7x5ZDSmFWj.html",
    "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pronostico mar del plata",
-   "busquedas": "100+",
-   "nota": "Jornada agradable y marcada amplitud térmica para este jueves en Mar del Plata",
-   "nota_url": "https://ahoramardelplata.com.ar/2/jornada-agradable-y-marcada-amplitud-termica-para-este-jueves-en-mar-del-plata",
-   "medio": "AHORA Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima mar del plata",
-   "busquedas": "500+",
-   "nota": "Cómo estará el pronóstico del tiempo en todos los lugares que visitará el Papa León XIV en Argentina",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/06/como-estara-el-pronostico-del-tiempo-en-todos-los-lugares-que-visitara-el-papa-leon-xiv-en-argentina/",
-   "medio": "Infobae",
+   "tema": "abc",
+   "busquedas": "1000+",
+   "nota": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
+   "medio": "Bloomberg.com",
    "relevante": false,
    "temas": []
   }
