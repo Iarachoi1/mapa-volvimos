@@ -1,16 +1,88 @@
 {
- "actualizado": "06/11 13:39",
+ "actualizado": "06/11 14:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "poder judicial mendoza",
+   "tema": "bali",
+   "busquedas": "100+",
+   "nota": "3 women face deportation from Bali after allegedly offering sex services: officials",
+   "nota_url": "https://nypost.com/2026/11/05/world-news/women-face-bali-deportation-after-allegedly-offering-sex-services-officials/",
+   "medio": "New York Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "morgan fairchild",
    "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "Friends star, 76, becomes latest celebrity to join OnlyFans: 'It’s just me being goofy'",
+   "nota_url": "https://www.independent.co.uk/life-style/morgan-fairchild-onlyfans-content-friends-b3080460.html",
+   "medio": "The Independent",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "registro del automotor",
+   "busquedas": "200+",
+   "nota": "El Gobierno cerrará 72 registros automotores en todo el país",
+   "nota_url": "https://www.lanacion.com.ar/autos/el-gobierno-cerro-73-registros-automotores-en-todo-el-pais-nid06112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "barracas central - racing",
+   "busquedas": "1000+",
+   "nota": "Racing vs Barracas Central, el partido minuto a minuto",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/06/racing-vs-barracas-central-el-partido-minuto-a-minuto/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "página 12",
+   "busquedas": "200+",
+   "nota": "Se pierden 23 puestos de ciencia y tecnología por día",
+   "nota_url": "https://diariohoy.net/politica/se-pierden-23-puestos-de-ciencia-y-tecnologia-por-dia-289842",
+   "medio": "Diario Hoy En la noticia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rj mitte",
+   "busquedas": "200+",
+   "nota": "Der Vater der Tigerente ist tot: Autor und Illustrator Janosch ist im Alter von 95 Jahren verstorben",
+   "nota_url": "https://www.brigitte.de/aktuell/gesellschaft/verstorbene-promis-2026--janosch-ist-tot_14111806-14055106.html",
+   "medio": "BRIGITTE.de",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "poder judicial",
+   "busquedas": "200+",
+   "nota": "Diez años de mandato y validación: una enmienda que pondría plazo a los cargos judiciales",
+   "nota_url": "https://quorum.legisrn.gov.ar/diez-anos-de-mandato-y-validacion-una-enmienda-que-pondria-plazo-a-los-cargos-judiciales/",
+   "medio": "Quorum – Noticias Legislativas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "stranger things",
+   "busquedas": "100+",
+   "nota": "'Other Worlds: A Stranger Things Adventure' Trailer Reveals Setting",
+   "nota_url": "https://gizmodo.com/other-worlds-stranger-things-prequel-spin-off-trailer-vecna-henry-2000836208",
+   "medio": "Gizmodo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "poder judicial mendoza",
+   "busquedas": "1000+",
+   "nota": "Ingreso a Tribunales: tiene fecha el segundo examen virtual",
+   "nota_url": "https://www.diarioinfoya.com.ar/san-rafael/ingreso-a-tribunales-tiene-fecha-el-segun/",
+   "medio": "InfoYa",
    "relevante": false,
    "temas": []
   },
@@ -21,78 +93,6 @@
    "nota_url": "https://elchorrillero.com/nota/2026/11/05/675405-toyota-alianz-ofrece-financiacion-en-pesos-a-tasa-fija-desde-el-25-con-autos-con-bna/amp/",
    "medio": "El Chorrillero",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ross lynch",
-   "busquedas": "100+",
-   "nota": "Former Disney heartthrob Ross Lynch reveals he secretly got married",
-   "nota_url": "https://pagesix.com/2026/11/06/celebrity-news/former-disney-heartthrob-ross-lynch-reveals-he-secretly-got-married/",
-   "medio": "Page Six",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rinky hijikata",
-   "busquedas": "100+",
-   "nota": "Tomás Etcheverry quedó eliminado en octavos de final del M1000 de París",
-   "nota_url": "https://www.eldia.com/deportes/tomas-etcheverry-quedo-eliminado-en-octavos-de-final-del-m1000-de-paris-deportes_1793943617",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kimmarie johnson",
-   "busquedas": "200+",
-   "nota": "Model Kimmarie Johnson, Who Appeared in ‘Beverly Hills, 90210’ and More, Dies at 50",
-   "nota_url": "https://people.com/model-actress-kimmarie-johnson-dead-50-12238094",
-   "medio": "People.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luca van assche",
-   "busquedas": "100+",
-   "nota": "Licensable picture: Paris ATP Masters 1000, Day 1",
-   "nota_url": "https://www.reutersconnect.com/item/paris-atp-masters-1000-day-1/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwOTA4R1g4",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mundial de padel 2026",
-   "busquedas": "200+",
-   "nota": "Pádel: Argentina en semifinales de la mano de Stupaczuk y Riera",
-   "nota_url": "https://www.diarionorte.com/336124-padel-argentina-en-semifinales-de-la-mano-de-stupaczuk-y-riera",
-   "medio": "Diario Norte",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adorni",
-   "busquedas": "200+",
-   "nota": "El fiscal asegura que no hay elementos para acusar a Manuel Adorni de enriquecimiento ilícito",
-   "nota_url": "https://www.eldia.com/politica-y-economia/el-fiscal-asegura-que-no-hay-elementos-para-acusar-a-manuel-adorni-de-enriquecimiento-ilicito-politica-y-economia_1793977857",
-   "medio": "Diario El Día de La Plata",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "meteored",
-   "busquedas": "2000+",
-   "nota": "Avanzan las tormentas y el viento intenso en Argentina, antes de un marcado aumento del calor la próxima semana",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/avanzan-las-tormentas-y-el-viento-intenso-en-argentina-antes-de-un-marcado-aumento-del-calor-la-proxima-semana.html",
-   "medio": "Meteored Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marcha del orgullo",
-   "busquedas": "500+",
-   "nota": "Orgullo: ¿una fiesta a la medida de Macri o una marcha política contra los ataques de odio?",
-   "nota_url": "https://www.laizquierdadiario.com/Orgullo-una-fiesta-a-la-medida-de-Macri-o-una-marcha-politica-contra-los-ataques-de-odio",
-   "medio": "La Izquierda Diario",
-   "relevante": true,
    "temas": []
   }
  ],
