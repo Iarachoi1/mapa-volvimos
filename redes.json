@@ -1,10 +1,37 @@
 {
- "actualizado": "06/11 17:35",
+ "actualizado": "06/11 18:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "quiebra",
+   "busquedas": "500+",
+   "nota": "Una mañana de vorágine en el Congreso para preparar el juicio político a Peña y destituirlo en pocas horas",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/una-manana-de-voragine-en-el-congreso-para-preparar-el-juicio-politico-a-pena-y-destituirlo-en-pocas-nid06112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "federico coria",
+   "busquedas": "200+",
+   "nota": "El Challenger de Villa María pone primera este miércoles con cambios en la programación",
+   "nota_url": "https://villamariaya.com/deportes/el-challenger-de-villa-maria-pone-primera-este-miercoles-con-cambios-en-la-programacion_1793806486",
+   "medio": "Villa Maria Ya",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sebastián lelio",
+   "busquedas": "1000+",
+   "nota": "Cineasta chileno Sebastián Lelio, ganador de un Oscar por \"Una mujer fantástica\", muere a los 52 años",
+   "nota_url": "https://www.emol.com/noticias/Espectaculos/2026/11/06/1216351/muere-director-sebastian-lelio.html",
+   "medio": "Emol",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "día del bancario",
    "busquedas": "2000+",
@@ -15,35 +42,44 @@
    "temas": []
   },
   {
-   "tema": "fp2",
-   "busquedas": "100+",
-   "nota": "Lando Norris marca el ritmo en Interlagos - Reporte Pruebas Libres 1 - GP de Brasil",
-   "nota_url": "https://www.f1latam.com/noticias/lando-norris-mclaren-pruebas-libres-1-gp-brasil-sao-paulo-interlagos-f1-2026-reporte-tiempos-19901",
-   "medio": "F1LATAM.COM",
+   "tema": "posiciones de barracas central contra racing club",
+   "busquedas": "100000+",
+   "nota": "El triunfo de Barracas complicó a Estudiantes",
+   "nota_url": "https://www.eldia.com/deportes/el-triunfo-de-barracas-complico-a-estudiantes-deportes_1793995860",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fórmula 1",
+   "busquedas": "5000+",
+   "nota": "Colapinto cerró el viernes de F1 siendo 11.° en las prácticas brasileñas",
+   "nota_url": "https://campeones.com.ar/colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "córdoba",
-   "busquedas": "1000+",
-   "nota": "Así es la cápsula de seguridad que trasladará al Papa desde el Aeropuerto a FAdeA",
-   "nota_url": "https://eldoce.tv/videos/actualidad/2026/11/06/asi-es-la-capsula-de-seguridad-que-trasladara-al-papa-desde-el-aeropuerto-a-fadea/",
-   "medio": "eldoce",
+   "busquedas": "2000+",
+   "nota": "Córdoba, una ciudad desbordada de fe para abrazar el paso de León XIV en el papamóvil",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/06/cordoba-una-ciudad-desbordada-de-fe-para-abrazar-el-paso-de-leon-xiv-en-el-papamovil/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "taylor fritz",
-   "busquedas": "100+",
-   "nota": "Taylor Fritz admits what he has done poorly in 2026 ahead of facing Carlos Alcaraz in Paris",
-   "nota_url": "https://sports.yahoo.com/articles/taylor-fritz-admits-done-poorly-160000281.html",
-   "medio": "Yahoo Sports",
+   "busquedas": "200+",
+   "nota": "Where to watch Carlos Alcaraz vs Taylor Fritz tennis for free today",
+   "nota_url": "https://www.syracuse.com/tv/2026/11/where-to-watch-carlos-alcaraz-vs-taylor-fritz-tennis-for-free-today.html",
+   "medio": "Syracuse.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "administración nacional de medicamentos, alimentos y tecnología médica",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "VENDÍAN INSUMOS ODONTOLÓGICOS NO PERMITIDOS EN PLENO CENTRO DE MENDOZA",
    "nota_url": "https://www.mendozapost.com/sociedad/prohiben-venta-productos-odontologicos-ilegales-empresa-centro-mendoza/",
    "medio": "Mendoza Post",
@@ -56,42 +92,6 @@
    "nota": "Berrettini sufrió una lesión y Alcaraz avanzó a los cuartos de final del Masters 1000 de París sin jugar",
    "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17478683/berrettini-sufrio-una-lesion-en-el-codo-alcaraz-avanzo-a-los-cuartos-de-final-del-masters-1000-de-paris-sin-jugar",
    "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "venezia - udinese",
-   "busquedas": "500+",
-   "nota": "Le partite di oggi: Venezia-Udinese. In campo anche Everton, Siviglia e Tolosa",
-   "nota_url": "https://www.gazzetta.it/Calcio/Serie-A/06-11-2026/le-partite-di-oggi-in-campo-serie-a-serie-b-liga-premier-league-bundesliga-e-ligue-1.shtml",
-   "medio": "La Gazzetta dello Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sevilla - alavés",
-   "busquedas": "2000+",
-   "nota": "Alineaciones de Sevilla y Alavés para el duelo de la jornada 12 de la LaLiga",
-   "nota_url": "https://bolavip.com/ar/europa/alineaciones-de-sevilla-y-alaves-para-el-duelo-de-la-jornada-12-de-la-laliga",
-   "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "everton - coventry city",
-   "busquedas": "2000+",
-   "nota": "(1) Everton v Coventry City: Premier League – live",
-   "nota_url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barracas",
-   "busquedas": "500+",
-   "nota": "Barracas Central vs Racing Club Prediction, Betting Tips, Lineups & Odds | 06 Nov 2026",
-   "nota_url": "https://www.sportsgambler.com/betting-tips/football/barracas-central-vs-racing-club-prediction-lineups-odds-2026-11-06/",
-   "medio": "Sportsgambler",
    "relevante": false,
    "temas": []
   }
