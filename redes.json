@@ -1,10 +1,28 @@
 {
- "actualizado": "06/11 03:53",
+ "actualizado": "06/11 05:05",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "recesión",
+   "busquedas": "200+",
+   "nota": "El viceministro de Economía descartó un “plan platita” para 2027 y relativizó la preocupación por la volatilidad de los mercados",
+   "nota_url": "https://tn.com.ar/economia/2026/11/05/el-viceministro-de-economia-descarto-un-plan-platita-para-2027-y-relativizo-la-preocupacion-por-la-volatilidad-de-los-mercados/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "cotización",
+   "busquedas": "500+",
+   "nota": "Así cerró el dólar en bancos, blue y MEP este jueves 5 de noviembre",
+   "nota_url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-jueves-5-noviembre-2026-blue-mep_0_0QTozOIafw.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "pronostico mar del plata",
    "busquedas": "100+",
@@ -42,20 +60,11 @@
    "temas": []
   },
   {
-   "tema": "yanina latorre",
-   "busquedas": "100+",
-   "nota": "La llamativa reacción de Pampita, en medio de rumores de separación de Martín Pepa: “Esto ensucia todo”",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/06/la-llamativa-reaccion-de-pampita-en-medio-de-rumores-de-separacion-de-martin-pepa-esto-ensucia-todo/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "gonzalo moratorio",
-   "busquedas": "100+",
-   "nota": "Esposa de Moratorio pidió que la ayuden a que su hija Abril \"conozca\" a su padre y sepa \"cuánto la amó\"",
-   "nota_url": "https://www.elpais.com.uy/informacion/sociedad/esposa-de-moratorio-pidio-que-la-ayuden-a-que-su-hija-abril-conozca-a-su-padre-y-sepa-cuanto-la-amo",
-   "medio": "EL PAÍS Uruguay",
+   "busquedas": "200+",
+   "nota": "La ciencia de luto: falleció Gonzalo Moratorio",
+   "nota_url": "https://ladiaria.com.uy/ciencia/articulo/2026/11/la-ciencia-de-luto-fallecio-gonzalo-moratorio/",
+   "medio": "la diaria",
    "relevante": false,
    "temas": []
   },
@@ -80,18 +89,9 @@
   {
    "tema": "warriors - heat",
    "busquedas": "2000+",
-   "nota": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
-   "nota_url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/",
-   "medio": "Hot Hot Hoops",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "edith hermida",
-   "busquedas": "200+",
-   "nota": "Ni Jorge Rial ni Moria Casán: revelan quién será el nuevo conductor de Intrusos",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/jorge-rial-moria-casan-revelan-quien-sera-nuevo-conductor-intrusos-20261031142644",
-   "medio": "El Destape",
+   "nota": "NBA Highlights: Warriors 120, Heat 100",
+   "nota_url": "https://www.nbcsandiego.com/video/nba/nba-highlights-warriors-heat-nov-5/4098000/",
+   "medio": "NBC 7 San Diego",
    "relevante": false,
    "temas": []
   }
