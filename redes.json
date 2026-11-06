@@ -1,25 +1,52 @@
 {
- "actualizado": "05/11 23:45",
+ "actualizado": "06/11 00:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "yanina latorre",
+   "busquedas": "100+",
+   "nota": "Otro día perdido: el picante comentario de Mario Pergolini sobre la separación de Pampita",
+   "nota_url": "https://www.eltrecetv.com.ar/otro-dia-perdido/2026/11/05/otro-dia-perdido-la-reaccion-de-mario-pergolini-al-enterarse-de-la-separacion-de-pampita/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gonzalo moratorio",
+   "busquedas": "100+",
+   "nota": "La ciencia de luto: falleció Gonzalo Moratorio",
+   "nota_url": "https://ladiaria.com.uy/ciencia/articulo/2026/11/la-ciencia-de-luto-fallecio-gonzalo-moratorio/",
+   "medio": "la diaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marcelo tinelli",
+   "busquedas": "100+",
+   "nota": "Laura Ubfal reveló detalles inéditos de la versión argentina de \"Dancing with the Stars\" con Santiago del Moro",
+   "nota_url": "https://exitoina.perfil.com/noticias/television/laura-ubfal-sobre-version-argentina-dancing-with-the-stars-santiago-del-moro.phtml",
+   "medio": "Exitoina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "inundación",
    "busquedas": "200+",
-   "nota": "Transmisión en vivo capta el momento en el que un tanque de propano explota durante las inundaciones en Georgia",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/05/eeuu/video/tanque-de-propano-explota-transmision-vivo-georgia-trax",
-   "medio": "CNN en Español",
+   "nota": "Fuertes lluvias causan graves inundaciones en la frontera entre Georgia y Tennessee",
+   "nota_url": "https://www.clarin.com/estados-unidos/fuertes-lluvias-causan-graves-inundaciones-en-la-frontera-entre-georgia-y-tennessee_0_ECs0pOvoGy.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "warriors - heat",
-   "busquedas": "200+",
-   "nota": "Get up to $420 in NBA prediction market promos with Kalshi promo code CBSSPORTS55, others for November 5",
-   "nota_url": "https://www.cbssports.com/prediction/news/get-up-to-420-in-nba-prediction-market-promos-with-kalshi-promo-code-cbssports55-others-for-november-5/",
-   "medio": "CBS Sports",
+   "busquedas": "1000+",
+   "nota": "Game Preview: Warriors vs. Miami Heat - 11/5/26",
+   "nota_url": "https://warriors.com/news/gameday-preview-20261105",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
@@ -34,10 +61,10 @@
   },
   {
    "tema": "sanción",
-   "busquedas": "5000+",
-   "nota": "La dura sanción que recibió Montiel por su expulsión en el Boca - River",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17479504/montiel-sancion-river-boca-expulsion-fechas-suspension",
-   "medio": "ESPN Argentina",
+   "busquedas": "2000+",
+   "nota": "La diferencia entre los informes de las rojas a Montiel y Salle que explica las tres fechas al de River",
+   "nota_url": "https://www.elgrafico.com.ar/articulo/primera-division/103770/la-diferencia-entre-los-informes-de-las-rojas-a-montiel-y-salle-que-explica-las-tres-fechas-al-de-river",
+   "medio": "El Gráfico",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "¿Moria reemplazará a Mirtha?: qué dijo La One sobre los rumores",
    "nota_url": "https://www.eldia.com/espectaculos/moria-reemplazara-a-mirtha-que-dijo-la-one-sobre-los-rumores-espectaculos_1793773526",
    "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rusher",
-   "busquedas": "500+",
-   "nota": "One Matchup Will Decide Texas vs. Missouri",
-   "nota_url": "https://www.si.com/college/texas/football/one-matchup-will-decide-texas-vs-missouri",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mariana nannis",
-   "busquedas": "100+",
-   "nota": "Hay abuelas y después está Nannis: “No tengo la culpa que mi nieta haya nacido en San Martín” | El Dia",
-   "nota_url": "https://www.eldia.com/espectaculos/mariana-nannis-reaparecio-en-streaming-y-apunto-contra-su-nieta-venezia-no-tengo-la-culpa-si-nacio-en-san-martin-espectaculos_1793915460",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "video de lara",
-   "busquedas": "200+",
-   "nota": "Triple femicidio de Florencio Varela: la familia de una de las víctimas denunciará a la jueza Arroyo Salgado por la filtración del video",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/05/triple-femicidio-de-florencio-varela-la-familia-de-una-de-las-victimas-denunciara-a-la-jueza-arroyo-salgado-por-la-filtracion-del-video/",
-   "medio": "Página|12",
    "relevante": false,
    "temas": []
   }
