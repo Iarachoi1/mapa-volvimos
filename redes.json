@@ -1,10 +1,91 @@
 {
- "actualizado": "06/11 18:28",
+ "actualizado": "06/11 19:28",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "elecciones unlp",
+   "busquedas": "200+",
+   "nota": "Concluyen las elecciones estudiantiles en las 17 Facultades",
+   "nota_url": "https://diariohoy.net/interes-general/concluyen-las-elecciones-estudiantiles-en-las-17-facultades-289919",
+   "medio": "Diario Hoy En la noticia",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "vitória - fluminense",
+   "busquedas": "200+",
+   "nota": "Inter e Grêmio vestem a camisa do Fluminense nesta sexta-feira",
+   "nota_url": "https://www.correiodopovo.com.br/blogs/hiltormombach/inter-e-gremio-vestem-a-camisa-do-fluminense-nesta-sexta-feira-1.1762553",
+   "medio": "Correio do Povo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "charles f porter",
+   "busquedas": "200+",
+   "nota": "Fans Crushed After Beloved NASCAR Movie Star Dies at 47",
+   "nota_url": "https://thespun.com/nascar/fans-crushed-after-beloved-nascar-movie-star-dies-at-47",
+   "medio": "The Spun",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "casper ruud",
+   "busquedas": "100+",
+   "nota": "Thiago Augustin Tirante vs Jan-Lennard Struff » Best Odds and Stats",
+   "nota_url": "https://oddsscanner.com/tennis/thiago-augustin-tirante-vs-jan-lennard-struff",
+   "medio": "Odds Scanner",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "seguro",
+   "busquedas": "200+",
+   "nota": "Seguros de autos: cuánto cubrirán las aseguradoras por accidentes desde 2027",
+   "nota_url": "https://www.losandes.com.ar/economia/seguros-autos-cuanto-cubriran-las-aseguradoras-accidentes-2027-n6013267",
+   "medio": "Los Andes",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "indonesia",
+   "busquedas": "200+",
+   "nota": "Una pareja de Bariloche viajó a competir a Bali y tuvieron un grave accidente: él está en coma y no quieren operarlo",
+   "nota_url": "https://www.lmneuquen.com/pais/una-pareja-bariloche-viajo-competir-bali-y-tuvieron-un-grave-accidente-el-esta-coma-y-no-quieren-operarlo-n1260216",
+   "medio": "Lmneuquen.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "independiente - deportivo riestra",
+   "busquedas": "10000+",
+   "nota": "El Rojo y el Ciclón se juegan el pase a los Playoffs",
+   "nota_url": "https://www.eldia.com/deportes/el-rojo-y-el-ciclon-se-juegan-el-pase-a-los-playoffs-deportes_1793944217",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "san lorenzo - platense",
+   "busquedas": "10000+",
+   "nota": "¡TODOS JUNTOS, POR LOS PLAYOFFS!",
+   "nota_url": "https://sanlorenzo.com.ar/club/noticias/1793894523_todos-juntos-por-los-playoffs",
+   "medio": "San Lorenzo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "unión - vélez",
+   "busquedas": "5000+",
+   "nota": "Vélez visita a Unión",
+   "nota_url": "https://www.afa.com.ar/es/posts/velez-visita-a-union",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "quiebra",
    "busquedas": "500+",
@@ -12,87 +93,6 @@
    "nota_url": "https://www.lanacion.com.ar/el-mundo/una-manana-de-voragine-en-el-congreso-para-preparar-el-juicio-politico-a-pena-y-destituirlo-en-pocas-nid06112026/",
    "medio": "La Nación",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "federico coria",
-   "busquedas": "200+",
-   "nota": "El Challenger de Villa María pone primera este miércoles con cambios en la programación",
-   "nota_url": "https://villamariaya.com/deportes/el-challenger-de-villa-maria-pone-primera-este-miercoles-con-cambios-en-la-programacion_1793806486",
-   "medio": "Villa Maria Ya",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sebastián lelio",
-   "busquedas": "1000+",
-   "nota": "Cineasta chileno Sebastián Lelio, ganador de un Oscar por \"Una mujer fantástica\", muere a los 52 años",
-   "nota_url": "https://www.emol.com/noticias/Espectaculos/2026/11/06/1216351/muere-director-sebastian-lelio.html",
-   "medio": "Emol",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "día del bancario",
-   "busquedas": "2000+",
-   "nota": "El Nuevo Banco del Chaco funcionará a pleno a través de sus servicios digitales durante el fin de semana largo",
-   "nota_url": "https://www.diarionorte.com/336082-el-nuevo-banco-del-chaco-funcionara-a-pleno-a-traves-de-sus-servicios-digitales-durante-el-fin-de-semana-largo",
-   "medio": "Diario Norte",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de barracas central contra racing club",
-   "busquedas": "100000+",
-   "nota": "El triunfo de Barracas complicó a Estudiantes",
-   "nota_url": "https://www.eldia.com/deportes/el-triunfo-de-barracas-complico-a-estudiantes-deportes_1793995860",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fórmula 1",
-   "busquedas": "5000+",
-   "nota": "Colapinto cerró el viernes de F1 siendo 11.° en las prácticas brasileñas",
-   "nota_url": "https://campeones.com.ar/colapinto-cerro-el-viernes-de-f1-siendo-11-en-las-practicas-brasilenas/",
-   "medio": "Campeones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "córdoba",
-   "busquedas": "2000+",
-   "nota": "Córdoba, una ciudad desbordada de fe para abrazar el paso de León XIV en el papamóvil",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/06/cordoba-una-ciudad-desbordada-de-fe-para-abrazar-el-paso-de-leon-xiv-en-el-papamovil/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "taylor fritz",
-   "busquedas": "200+",
-   "nota": "Where to watch Carlos Alcaraz vs Taylor Fritz tennis for free today",
-   "nota_url": "https://www.syracuse.com/tv/2026/11/where-to-watch-carlos-alcaraz-vs-taylor-fritz-tennis-for-free-today.html",
-   "medio": "Syracuse.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "administración nacional de medicamentos, alimentos y tecnología médica",
-   "busquedas": "200+",
-   "nota": "VENDÍAN INSUMOS ODONTOLÓGICOS NO PERMITIDOS EN PLENO CENTRO DE MENDOZA",
-   "nota_url": "https://www.mendozapost.com/sociedad/prohiben-venta-productos-odontologicos-ilegales-empresa-centro-mendoza/",
-   "medio": "Mendoza Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos alcaraz",
-   "busquedas": "2000+",
-   "nota": "Berrettini sufrió una lesión y Alcaraz avanzó a los cuartos de final del Masters 1000 de París sin jugar",
-   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17478683/berrettini-sufrio-una-lesion-en-el-codo-alcaraz-avanzo-a-los-cuartos-de-final-del-masters-1000-de-paris-sin-jugar",
-   "medio": "ESPN Argentina",
-   "relevante": false,
    "temas": []
   }
  ],
