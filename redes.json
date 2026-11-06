@@ -1,22 +1,40 @@
 {
- "actualizado": "06/11 01:45",
+ "actualizado": "06/11 02:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "miami heat",
+   "tema": "pronostico mar del plata",
    "busquedas": "100+",
-   "nota": "Crushing Clippers defeat in OT extends losing streak to seven",
-   "nota_url": "https://www.thesportingtribune.com/2026/11/05/crushing-clippers-defeat-in-ot-extends-losing-streak-to-seven",
-   "medio": "The Sporting Tribune",
+   "nota": "Jornada agradable y marcada amplitud térmica para este jueves en Mar del Plata",
+   "nota_url": "https://ahoramardelplata.com.ar/2/jornada-agradable-y-marcada-amplitud-termica-para-este-jueves-en-mar-del-plata",
+   "medio": "AHORA Mar del Plata",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "golden state warriors",
+   "tema": "clima mar del plata",
+   "busquedas": "500+",
+   "nota": "Cómo estará el pronóstico del tiempo en todos los lugares que visitará el Papa León XIV en Argentina",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/06/como-estara-el-pronostico-del-tiempo-en-todos-los-lugares-que-visitara-el-papa-leon-xiv-en-argentina/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miami heat",
    "busquedas": "100+",
+   "nota": "“He (Dray) has a huge challenge with Giannis coming …",
+   "nota_url": "https://sports.yahoo.com/articles/dray-huge-challenge-giannis-coming-164052130.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "warriors",
+   "busquedas": "200+",
    "nota": "Shai Gilgeous-Alexander News: Erupts for 42 points in victory",
    "nota_url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-erupts-for-42-points-in-victory-537623",
    "medio": "RotoWire",
@@ -33,20 +51,11 @@
    "temas": []
   },
   {
-   "tema": "yanina latorre",
-   "busquedas": "100+",
-   "nota": "Qué dijo Pampita sobre los rumores de ser una mujer “tóxica” e “intensa” en el amor",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/05/pampita-enfrento-los-rumores-de-ser-una-mujer-toxica-e-intensa-en-el-amor-los-unicos-que-pueden-hablar/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "gonzalo moratorio",
    "busquedas": "100+",
-   "nota": "Uruguay despide al científico Gonzalo Moratorio y decreta duelo nacional",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/06/uruguay-despide-al-cientifico-gonzalo-moratorio-y-decreta-duelo-nacional/",
-   "medio": "Infobae",
+   "nota": "“Gracias, Gonzalo”: las palabras de despedida de la madre de Moratorio en su velorio",
+   "nota_url": "https://www.montevideo.com.uy/Noticias/-Gracias-Gonzalo--las-palabras-de-despedida-de-la-madre-de-Moratorio-en-su-velorio-uc981221",
+   "medio": "Montevideo Portal",
    "relevante": false,
    "temas": []
   },
@@ -71,9 +80,9 @@
   {
    "tema": "warriors - heat",
    "busquedas": "2000+",
-   "nota": "Game Preview: Warriors vs. Miami Heat - 11/5/26",
-   "nota_url": "https://warriors.com/news/gameday-preview-20261105",
-   "medio": "NBA.com",
+   "nota": "Final Injury Report for Heat-Warriors: Will Giannis Antetokounmpo, Al Horford Play?",
+   "nota_url": "https://www.aol.com/articles/final-injury-report-heat-warriors-230000000.html",
+   "medio": "AOL.com",
    "relevante": false,
    "temas": []
   },
@@ -83,15 +92,6 @@
    "nota": "Ni Jorge Rial ni Moria Casán: revelan quién será el nuevo conductor de Intrusos",
    "nota_url": "https://www.eldestapeweb.com/espectaculos/jorge-rial-moria-casan-revelan-quien-sera-nuevo-conductor-intrusos-20261031142644",
    "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sanción",
-   "busquedas": "2000+",
-   "nota": "La diferencia entre los informes de las rojas a Montiel y Salle que explica las tres fechas al de River",
-   "nota_url": "https://www.elgrafico.com.ar/articulo/primera-division/103770/la-diferencia-entre-los-informes-de-las-rojas-a-montiel-y-salle-que-explica-las-tres-fechas-al-de-river",
-   "medio": "El Gráfico",
    "relevante": false,
    "temas": []
   }
