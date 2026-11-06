@@ -1,5 +1,5 @@
 {
- "actualizado": "06/11 08:41",
+ "actualizado": "06/11 09:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -7,25 +7,16 @@
  "google": [
   {
    "tema": "fadea",
-   "busquedas": "500+",
-   "nota": "La Argentina que recibe al Papa: nuevas tensiones entre Milei y Bullrich, el faltazo de Macri y la pausa obligada del Congreso",
-   "nota_url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "la popu",
-   "busquedas": "200+",
-   "nota": "Universo Producciones anuncia el Bum Bum más grande de la historia (6 de enero en PdE y el 16 de enero en el Kempes)",
-   "nota_url": "https://infonegocios.info/plus/universo-producciones-anuncia-el-bum-bum-mas-grande-de-la-historia-6-de-enero-en-pde-y-el-16-de-enero-en-el-kempes",
-   "medio": "InfoNegocios",
+   "busquedas": "100+",
+   "nota": "Refuerzo de infraestructura en Córdoba: Personal desplegó un plan especial de conectividad por la llegada del Papa",
+   "nota_url": "https://eldoce.tv/actualidad/2026/11/05/refuerzo-de-infraestructura-en-cordoba-personal-desplego-un-plan-especial-de-conectividad-por-la-llegada-del-papa/",
+   "medio": "eldoce",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "papelera del sur",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Cierra Papelera del Sur en Tornquist y unos 160 trabajadores quedarían sin empleo",
    "nota_url": "https://www.clarin.com/economia/cierra-papelera-sur-tornquist-160-trabajadores-quedarian-empleo_0_pcl2A03NLq.html",
    "medio": "Clarin.com",
@@ -33,11 +24,20 @@
    "temas": []
   },
   {
-   "tema": "santos futebol clube",
-   "busquedas": "100+",
-   "nota": "Prefeitura de São Paulo nega terreno para centro de treinamento do Santos na Zona Leste",
-   "nota_url": "https://costanorte.com.br/esportes/futebolnacional/santos/prefeitura-de-sao-paulo-nega-terreno-para-centro-de-treinamento-do-santos-na-zona-leste.html",
-   "medio": "Costa Norte",
+   "tema": "la popu",
+   "busquedas": "200+",
+   "nota": "El Bum Bum tendrá tres escenarios y más de 20 artistas en su octava edición | 5 de noviembre de 2026",
+   "nota_url": "https://hoydia.com.ar/espectaculos/el-bum-bum-tendra-tres-escenarios/",
+   "medio": "Hoy Día Córdoba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cadena 3",
+   "busquedas": "2000+",
+   "nota": "La Conmebol tenía millones de dólares en Ueno Bank y es uno de los más afectados por el cierre",
+   "nota_url": "https://www.diarionorte.com/336128-la-conmebol-tenia-millones-de-dolares-en-ueno-bank-y-es-uno-de-los-mas-afectados-por-el-cierre",
+   "medio": "Diario Norte",
    "relevante": false,
    "temas": []
   },
@@ -51,17 +51,26 @@
    "temas": []
   },
   {
+   "tema": "santos futebol clube",
+   "busquedas": "100+",
+   "nota": "Santos terá Neymar de volta, mas perde titular para próximo duelo pelo Brasileiro",
+   "nota_url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-paulista/santos/santos-tera-neymar-de-volta-mas-perde-titular-para-proximo-duelo-pelo-brasileiro/",
+   "medio": "Rádio Itatiaia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima necochea",
    "busquedas": "100+",
-   "nota": "Jueves con máxima de 23°C, ráfagas de hasta 50 km/h y posibles tormentas por la noche",
-   "nota_url": "https://nden.com.ar/nota/38623/jueves-con-maxima-de-23-deg-c-rafagas-de-hasta-50-km-h-y-posibles-tormentas-por-la-noche/",
-   "medio": "Noticias de Necochea",
+   "nota": "Clima en Necochea hoy: cuál es el pronóstico del tiempo para el 6 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/necochea/clima-en-necochea-hoy-cual-es-el-pronostico-del-tiempo-para-el-6-de-noviembre-de-2026-nid05112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "unicenter shopping",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Tesla llega a la Argentina: abrirá su primer concesionario, dónde estará y qué autos venderá",
    "nota_url": "https://parabrisas.perfil.com/noticias/autos/tesla-llega-argentina-abrira-primera-concesionaria-donde-estara-que-autos-vendera-unicenter-pruebas.phtml",
    "medio": "Parabrisas / Perfil",
@@ -70,28 +79,19 @@
   },
   {
    "tema": "playstation plus",
-   "busquedas": "200+",
-   "nota": "PlayStation Plus Officially Announces Price Cut",
-   "nota_url": "https://screenrant.com/playstation-plus-black-friday-price-cut-confirmed/",
-   "medio": "ScreenRant",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rosario",
    "busquedas": "500+",
-   "nota": "Viernes parcialmente nublado con pronóstico de chaparrones y tormentas aisladas en Rosario",
-   "nota_url": "https://www.rosarionuestro.com/viernes-parcialmente-nublado-con-pronostico-de-chaparrones-y-tormentas-aisladas-en-rosario",
-   "medio": "Rosario Nuestro",
+   "nota": "Here's How Much A PlayStation Plus Subscription Cost In 2016 Vs. 2026",
+   "nota_url": "https://www.bgr.com/2302655/playstation-plus-subscription-cost-2016-vs-2026/",
+   "medio": "BGR",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "diario de cuyo",
    "busquedas": "500+",
-   "nota": "¡Atención! Por el alerta meteorológico, suspendieron las clases en un departamento",
-   "nota_url": "https://www.diariohuarpe.com/nota/suspenden-las-clases-en-calingasta-este-viernes-por-alerta-meteorologica-202611521260",
-   "medio": "Diario Huarpe",
+   "nota": "El alerta del SMN dejó a un departamento sanjuanino sin clases este viernes",
+   "nota_url": "https://www.sanjuan8.com/san-juan/el-alerta-del-smn-dejo-un-departamento-sanjuanino-clases-este-viernes-n1613876",
+   "medio": "San Juan 8",
    "relevante": false,
    "temas": []
   }
