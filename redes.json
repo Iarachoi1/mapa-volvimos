@@ -1,40 +1,67 @@
 {
- "actualizado": "06/11 00:40",
+ "actualizado": "06/11 01:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "miami heat",
+   "busquedas": "100+",
+   "nota": "Crushing Clippers defeat in OT extends losing streak to seven",
+   "nota_url": "https://www.thesportingtribune.com/2026/11/05/crushing-clippers-defeat-in-ot-extends-losing-streak-to-seven",
+   "medio": "The Sporting Tribune",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "golden state warriors",
+   "busquedas": "100+",
+   "nota": "Shai Gilgeous-Alexander News: Erupts for 42 points in victory",
+   "nota_url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-erupts-for-42-points-in-victory-537623",
+   "medio": "RotoWire",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima bahia blanca",
+   "busquedas": "200+",
+   "nota": "El pronóstico: Bahía tendrá un viernes fresco y con fuertes ráfagas de viento",
+   "nota_url": "https://www.bhinfo.com.ar/noticia/29562-El_pronostico_Bahia_tendra_un_viernes_fresco_y_con_fuertes_rafagas_de_viento-04102026",
+   "medio": "BHInfo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "yanina latorre",
    "busquedas": "100+",
-   "nota": "Otro día perdido: el picante comentario de Mario Pergolini sobre la separación de Pampita",
-   "nota_url": "https://www.eltrecetv.com.ar/otro-dia-perdido/2026/11/05/otro-dia-perdido-la-reaccion-de-mario-pergolini-al-enterarse-de-la-separacion-de-pampita/",
-   "medio": "eltrecetv",
+   "nota": "Qué dijo Pampita sobre los rumores de ser una mujer “tóxica” e “intensa” en el amor",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/05/pampita-enfrento-los-rumores-de-ser-una-mujer-toxica-e-intensa-en-el-amor-los-unicos-que-pueden-hablar/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gonzalo moratorio",
    "busquedas": "100+",
-   "nota": "La ciencia de luto: falleció Gonzalo Moratorio",
-   "nota_url": "https://ladiaria.com.uy/ciencia/articulo/2026/11/la-ciencia-de-luto-fallecio-gonzalo-moratorio/",
-   "medio": "la diaria",
+   "nota": "Uruguay despide al científico Gonzalo Moratorio y decreta duelo nacional",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/06/uruguay-despide-al-cientifico-gonzalo-moratorio-y-decreta-duelo-nacional/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "marcelo tinelli",
-   "busquedas": "100+",
-   "nota": "Laura Ubfal reveló detalles inéditos de la versión argentina de \"Dancing with the Stars\" con Santiago del Moro",
-   "nota_url": "https://exitoina.perfil.com/noticias/television/laura-ubfal-sobre-version-argentina-dancing-with-the-stars-santiago-del-moro.phtml",
-   "medio": "Exitoina",
+   "busquedas": "200+",
+   "nota": "Del Moro estará al frente de “bailará” con las estrellas",
+   "nota_url": "https://www.eldia.com/espectaculos/del-moro-estara-al-frente-de-bailara-con-las-estrellas-espectaculos_1793856368",
+   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "inundación",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Fuertes lluvias causan graves inundaciones en la frontera entre Georgia y Tennessee",
    "nota_url": "https://www.clarin.com/estados-unidos/fuertes-lluvias-causan-graves-inundaciones-en-la-frontera-entre-georgia-y-tennessee_0_ECs0pOvoGy.html",
    "medio": "Clarin.com",
@@ -43,7 +70,7 @@
   },
   {
    "tema": "warriors - heat",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Game Preview: Warriors vs. Miami Heat - 11/5/26",
    "nota_url": "https://warriors.com/news/gameday-preview-20261105",
    "medio": "NBA.com",
@@ -53,9 +80,9 @@
   {
    "tema": "edith hermida",
    "busquedas": "200+",
-   "nota": "«Doloroso»: sorpresa en el espectáculo por la nueva confirmación de Mariana Brey",
-   "nota_url": "https://elintransigente.com/2026/11/01/doloroso-sorpresa-en-el-espectaculo-por-la-nueva-confirmacion-de-mariana-brey/",
-   "medio": "El Intransigente",
+   "nota": "Ni Jorge Rial ni Moria Casán: revelan quién será el nuevo conductor de Intrusos",
+   "nota_url": "https://www.eldestapeweb.com/espectaculos/jorge-rial-moria-casan-revelan-quien-sera-nuevo-conductor-intrusos-20261031142644",
+   "medio": "El Destape",
    "relevante": false,
    "temas": []
   },
@@ -65,33 +92,6 @@
    "nota": "La diferencia entre los informes de las rojas a Montiel y Salle que explica las tres fechas al de River",
    "nota_url": "https://www.elgrafico.com.ar/articulo/primera-division/103770/la-diferencia-entre-los-informes-de-las-rojas-a-montiel-y-salle-que-explica-las-tres-fechas-al-de-river",
    "medio": "El Gráfico",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "suns - magic",
-   "busquedas": "200+",
-   "nota": "Devin Booker and the Suns face a fatigued test against injury-hit Magic in Phoenix on Wednesday",
-   "nota_url": "https://www.foxnews.com/outkick-betting/devin-booker-suns-face-fatigued-test-against-injury-hit-magic-phoenix-wednesday",
-   "medio": "Fox News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maru botana",
-   "busquedas": "200+",
-   "nota": "Cómo es la cocina de Maru Botana: estilo campestre, muebles salvia y una isla central",
-   "nota_url": "https://elintransigente.com/2026/10/30/maru-botana-muestra-cocina-campestre-muebles-salvia-utensilios-colgados/",
-   "medio": "El Intransigente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adrian suar",
-   "busquedas": "200+",
-   "nota": "¿Moria reemplazará a Mirtha?: qué dijo La One sobre los rumores",
-   "nota_url": "https://www.eldia.com/espectaculos/moria-reemplazara-a-mirtha-que-dijo-la-one-sobre-los-rumores-espectaculos_1793773526",
-   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   }
