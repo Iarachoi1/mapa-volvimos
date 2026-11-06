@@ -1,16 +1,70 @@
 {
- "actualizado": "06/11 07:50",
+ "actualizado": "06/11 08:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "fadea",
+   "busquedas": "500+",
+   "nota": "La Argentina que recibe al Papa: nuevas tensiones entre Milei y Bullrich, el faltazo de Macri y la pausa obligada del Congreso",
+   "nota_url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "la popu",
+   "busquedas": "200+",
+   "nota": "Universo Producciones anuncia el Bum Bum más grande de la historia (6 de enero en PdE y el 16 de enero en el Kempes)",
+   "nota_url": "https://infonegocios.info/plus/universo-producciones-anuncia-el-bum-bum-mas-grande-de-la-historia-6-de-enero-en-pde-y-el-16-de-enero-en-el-kempes",
+   "medio": "InfoNegocios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "papelera del sur",
+   "busquedas": "100+",
+   "nota": "Cierra Papelera del Sur en Tornquist y unos 160 trabajadores quedarían sin empleo",
+   "nota_url": "https://www.clarin.com/economia/cierra-papelera-sur-tornquist-160-trabajadores-quedarian-empleo_0_pcl2A03NLq.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santos futebol clube",
+   "busquedas": "100+",
+   "nota": "Prefeitura de São Paulo nega terreno para centro de treinamento do Santos na Zona Leste",
+   "nota_url": "https://costanorte.com.br/esportes/futebolnacional/santos/prefeitura-de-sao-paulo-nega-terreno-para-centro-de-treinamento-do-santos-na-zona-leste.html",
+   "medio": "Costa Norte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los pumas",
+   "busquedas": "100+",
+   "nota": "Los Pumas tuvieron su Captain's Run en Dublín y están listos para hacer historia ante Irlanda",
+   "nota_url": "https://www.espn.com.ar/rugby/nota/_/id/17481264/rugby-argentina-captains-run-los-pumas-vs-irlanda-dublin-nations-championship",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima necochea",
    "busquedas": "100+",
-   "nota": "Cómo estará el clima en Necochea y Quequén este jueves 5-11",
-   "nota_url": "https://www.diario4v.com/nota/53947/como-estara-el-clima-en-necochea-y-quequen-este-jueves-5-11/",
-   "medio": "Diario Cuatro Vientos",
+   "nota": "Jueves con máxima de 23°C, ráfagas de hasta 50 km/h y posibles tormentas por la noche",
+   "nota_url": "https://nden.com.ar/nota/38623/jueves-con-maxima-de-23-deg-c-rafagas-de-hasta-50-km-h-y-posibles-tormentas-por-la-noche/",
+   "medio": "Noticias de Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "unicenter shopping",
+   "busquedas": "200+",
+   "nota": "Tesla llega a la Argentina: abrirá su primer concesionario, dónde estará y qué autos venderá",
+   "nota_url": "https://parabrisas.perfil.com/noticias/autos/tesla-llega-argentina-abrira-primera-concesionaria-donde-estara-que-autos-vendera-unicenter-pruebas.phtml",
+   "medio": "Parabrisas / Perfil",
    "relevante": false,
    "temas": []
   },
@@ -24,20 +78,11 @@
    "temas": []
   },
   {
-   "tema": "unicenter shopping",
-   "busquedas": "100+",
-   "nota": "Tesla abrirá su primera concesionaria en la Argentina: dónde estará y para cuándo está planificada la apertura",
-   "nota_url": "https://www.infobae.com/economia/2026/11/04/tesla-abrira-su-primera-concesionaria-en-la-argentina-donde-estara-y-para-cuando-esta-planificada-la-apertura/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "rosario",
-   "busquedas": "200+",
-   "nota": "Cómo operaba la banda dedicada a robar carteras y celulares en el centro de Rosario que fue desbaratada la ...",
-   "nota_url": "https://www.rosario3.com/policiales/como-operaba-la-banda-dedicada-a-robar-carteras-y-celulares-en-el-centro-de-rosario-que-fue-desbaratada-la-semana-pasada-20261105-0026.html",
-   "medio": "Rosario3",
+   "busquedas": "500+",
+   "nota": "Viernes parcialmente nublado con pronóstico de chaparrones y tormentas aisladas en Rosario",
+   "nota_url": "https://www.rosarionuestro.com/viernes-parcialmente-nublado-con-pronostico-de-chaparrones-y-tormentas-aisladas-en-rosario",
+   "medio": "Rosario Nuestro",
    "relevante": false,
    "temas": []
   },
@@ -47,51 +92,6 @@
    "nota": "¡Atención! Por el alerta meteorológico, suspendieron las clases en un departamento",
    "nota_url": "https://www.diariohuarpe.com/nota/suspenden-las-clases-en-calingasta-este-viernes-por-alerta-meteorologica-202611521260",
    "medio": "Diario Huarpe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "evento de el niño de 2026 2027",
-   "busquedas": "500+",
-   "nota": "Super El Nino and the Capital Area: An In-Depth Storm Station Study",
-   "nota_url": "https://www.wbrz.com/news/super-el-nino-and-the-capital-area-an-in-depth-storm-station-study/",
-   "medio": "WBRZ",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima san juan",
-   "busquedas": "100+",
-   "nota": "¿Afloja el calor? Mirá cómo estará el clima en San Juan este viernes, con alerta incluida",
-   "nota_url": "https://www.tiempodesanjuan.com/san-juan/afloja-el-calor-mira-como-estara-el-clima-en-san-juan-este-viernes-con-alerta-incluida_1793930208",
-   "medio": "Tiempo de San Juan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "papa",
-   "busquedas": "500+",
-   "nota": "León XIV en Córdoba: cómo es el histórico megaoperativo sanitario desplegado para la misa y sus recorridos",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/05/leon-xiv-en-cordoba-como-es-el-historico-megaoperativo-sanitario-desplegado-para-la-misa-y-sus-recorridos/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tormenta",
-   "busquedas": "2000+",
-   "nota": "Rigen alertas por tormentas fuertes y granizo en Santa Fe y otras siete provincias",
-   "nota_url": "https://www.ellitoral.com/nacionales/serviciometeorologiconacional-alertanaranja-alertaamarilla-santafe-lluvia-tormentas-granizo-temporal_0_7x5ZDSmFWj.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "abc",
-   "busquedas": "1000+",
-   "nota": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
-   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
-   "medio": "Bloomberg.com",
    "relevante": false,
    "temas": []
   }
