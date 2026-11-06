@@ -1,13 +1,49 @@
 {
- "actualizado": "06/11 14:38",
+ "actualizado": "06/11 15:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "bali",
+   "tema": "sebastian lelio",
+   "busquedas": "200+",
+   "nota": "Muere el director chileno Sebastián Lelio ganador del Oscar por Una mujer fantástica, a los 52 años",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/06/muere-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantastica-a-los-52-anos/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pelota libre en argentina",
+   "busquedas": "50000+",
+   "nota": "Lucas Beltrán y la vuelta al gol en River: de \"hay que sumar confianza\" a \"esperemos darle una alegría a la gente\"",
+   "nota_url": "https://www.ole.com.ar/river-plate/lucas-beltran-river-aldosivi-torneo-clausura-gol-video-declaraciones-vikingo_0_3IvNaQMV26.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "meghan markle",
    "busquedas": "100+",
+   "nota": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+   "nota_url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mario pergolini",
+   "busquedas": "200+",
+   "nota": "Las revelaciones de Ronnie Wood de las fiestas con Maradona: \"Tuvimos varias noches juntos...\"",
+   "nota_url": "https://www.tycsports.com/curiosidades/las-revelaciones-de-ronnie-wood-de-las-fiestas-con-maradona-tuvimos-varias-noches-juntos-y-despues-nos-olvidamos-de-todo-id770518.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bali",
+   "busquedas": "200+",
    "nota": "3 women face deportation from Bali after allegedly offering sex services: officials",
    "nota_url": "https://nypost.com/2026/11/05/world-news/women-face-bali-deportation-after-allegedly-offering-sex-services-officials/",
    "medio": "New York Post",
@@ -26,15 +62,15 @@
   {
    "tema": "registro del automotor",
    "busquedas": "200+",
-   "nota": "El Gobierno cerrará 72 registros automotores en todo el país",
-   "nota_url": "https://www.lanacion.com.ar/autos/el-gobierno-cerro-73-registros-automotores-en-todo-el-pais-nid06112026/",
-   "medio": "La Nación",
-   "relevante": true,
+   "nota": "Nuevos cierres en los Registros del Automotor: cuáles son las oficinas afectadas y cómo se reasignarán los legajos",
+   "nota_url": "https://tn.com.ar/autos/novedades/2026/11/06/cierran-72-registros-del-automotor-la-lista-completa-y-que-pasara-con-los-tramites-y-legajos/",
+   "medio": "TN",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "barracas central - racing",
-   "busquedas": "1000+",
+   "busquedas": "20000+",
    "nota": "Racing vs Barracas Central, el partido minuto a minuto",
    "nota_url": "https://www.pagina12.com.ar/2026/11/06/racing-vs-barracas-central-el-partido-minuto-a-minuto/",
    "medio": "Página|12",
@@ -43,7 +79,7 @@
   },
   {
    "tema": "página 12",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Se pierden 23 puestos de ciencia y tecnología por día",
    "nota_url": "https://diariohoy.net/politica/se-pierden-23-puestos-de-ciencia-y-tecnologia-por-dia-289842",
    "medio": "Diario Hoy En la noticia",
@@ -52,46 +88,10 @@
   },
   {
    "tema": "rj mitte",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Der Vater der Tigerente ist tot: Autor und Illustrator Janosch ist im Alter von 95 Jahren verstorben",
    "nota_url": "https://www.brigitte.de/aktuell/gesellschaft/verstorbene-promis-2026--janosch-ist-tot_14111806-14055106.html",
    "medio": "BRIGITTE.de",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "poder judicial",
-   "busquedas": "200+",
-   "nota": "Diez años de mandato y validación: una enmienda que pondría plazo a los cargos judiciales",
-   "nota_url": "https://quorum.legisrn.gov.ar/diez-anos-de-mandato-y-validacion-una-enmienda-que-pondria-plazo-a-los-cargos-judiciales/",
-   "medio": "Quorum – Noticias Legislativas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "stranger things",
-   "busquedas": "100+",
-   "nota": "'Other Worlds: A Stranger Things Adventure' Trailer Reveals Setting",
-   "nota_url": "https://gizmodo.com/other-worlds-stranger-things-prequel-spin-off-trailer-vecna-henry-2000836208",
-   "medio": "Gizmodo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "poder judicial mendoza",
-   "busquedas": "1000+",
-   "nota": "Ingreso a Tribunales: tiene fecha el segundo examen virtual",
-   "nota_url": "https://www.diarioinfoya.com.ar/san-rafael/ingreso-a-tribunales-tiene-fecha-el-segun/",
-   "medio": "InfoYa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tasa",
-   "busquedas": "1000+",
-   "nota": "Toyota Alianz ofrece financiación en pesos a tasa fija desde el 25% con +Autos con BNA",
-   "nota_url": "https://elchorrillero.com/nota/2026/11/05/675405-toyota-alianz-ofrece-financiacion-en-pesos-a-tasa-fija-desde-el-25-con-autos-con-bna/amp/",
-   "medio": "El Chorrillero",
    "relevante": false,
    "temas": []
   }
