@@ -1,5 +1,5 @@
 {
- "actualizado": "06/11 02:47",
+ "actualizado": "06/11 03:53",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -8,9 +8,9 @@
   {
    "tema": "pronostico mar del plata",
    "busquedas": "100+",
-   "nota": "Jornada agradable y marcada amplitud térmica para este jueves en Mar del Plata",
-   "nota_url": "https://ahoramardelplata.com.ar/2/jornada-agradable-y-marcada-amplitud-termica-para-este-jueves-en-mar-del-plata",
-   "medio": "AHORA Mar del Plata",
+   "nota": "Cómo estará el tiempo este jueves en Mar del Plata",
+   "nota_url": "https://www.infobrisas.com/noticias/2026/11/05/113790-como-estara-el-tiempo-este-jueves-en-mar-del-plata",
+   "medio": "Infobrisas",
    "relevante": false,
    "temas": []
   },
@@ -24,20 +24,11 @@
    "temas": []
   },
   {
-   "tema": "miami heat",
-   "busquedas": "100+",
-   "nota": "“He (Dray) has a huge challenge with Giannis coming …",
-   "nota_url": "https://sports.yahoo.com/articles/dray-huge-challenge-giannis-coming-164052130.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors",
-   "busquedas": "200+",
-   "nota": "Shai Gilgeous-Alexander News: Erupts for 42 points in victory",
-   "nota_url": "https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-news-erupts-for-42-points-in-victory-537623",
-   "medio": "RotoWire",
+   "tema": "periodista silvia mercado",
+   "busquedas": "5000+",
+   "nota": "Preocupa la salud de Silvia Mercado: se descompensó en vivo, pidieron donantes y revelaron su diagnóstico",
+   "nota_url": "https://www.pronto.com.ar/actualidad/2026/11/5/preocupa-la-salud-de-silvia-mercado-se-descompenso-en-vivo-pidieron-donantes-y-revelaron-su-diagnostico-266011.html",
+   "medio": "Pronto",
    "relevante": false,
    "temas": []
   },
@@ -51,17 +42,26 @@
    "temas": []
   },
   {
+   "tema": "yanina latorre",
+   "busquedas": "100+",
+   "nota": "La llamativa reacción de Pampita, en medio de rumores de separación de Martín Pepa: “Esto ensucia todo”",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/06/la-llamativa-reaccion-de-pampita-en-medio-de-rumores-de-separacion-de-martin-pepa-esto-ensucia-todo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "gonzalo moratorio",
    "busquedas": "100+",
-   "nota": "“Gracias, Gonzalo”: las palabras de despedida de la madre de Moratorio en su velorio",
-   "nota_url": "https://www.montevideo.com.uy/Noticias/-Gracias-Gonzalo--las-palabras-de-despedida-de-la-madre-de-Moratorio-en-su-velorio-uc981221",
-   "medio": "Montevideo Portal",
+   "nota": "Esposa de Moratorio pidió que la ayuden a que su hija Abril \"conozca\" a su padre y sepa \"cuánto la amó\"",
+   "nota_url": "https://www.elpais.com.uy/informacion/sociedad/esposa-de-moratorio-pidio-que-la-ayuden-a-que-su-hija-abril-conozca-a-su-padre-y-sepa-cuanto-la-amo",
+   "medio": "EL PAÍS Uruguay",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "marcelo tinelli",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Del Moro estará al frente de “bailará” con las estrellas",
    "nota_url": "https://www.eldia.com/espectaculos/del-moro-estara-al-frente-de-bailara-con-las-estrellas-espectaculos_1793856368",
    "medio": "Diario El Día de La Plata",
@@ -80,9 +80,9 @@
   {
    "tema": "warriors - heat",
    "busquedas": "2000+",
-   "nota": "Final Injury Report for Heat-Warriors: Will Giannis Antetokounmpo, Al Horford Play?",
-   "nota_url": "https://www.aol.com/articles/final-injury-report-heat-warriors-230000000.html",
-   "medio": "AOL.com",
+   "nota": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
+   "nota_url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/",
+   "medio": "Hot Hot Hoops",
    "relevante": false,
    "temas": []
   },
