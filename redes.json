@@ -1,5 +1,5 @@
 {
- "actualizado": "07/11 02:36",
+ "actualizado": "07/11 03:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -15,11 +15,20 @@
    "temas": []
   },
   {
+   "tema": "lakers",
+   "busquedas": "200+",
+   "nota": "BLAZERS POSTCAST: Lakers-Blazers Reaction",
+   "nota_url": "https://www.centraloregondaily.com/sports/portland_trail_blazers/blazers-postcast-lakers-blazers-reaction/video_556c68cd-7745-5aa6-85bc-49da70c7dbdb.html",
+   "medio": "Central Oregon Daily",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "xbox",
    "busquedas": "100+",
-   "nota": "How To Play GTA 6 Early And Before Release Day",
-   "nota_url": "https://rockstarintel.com/how-to-play-gta-6-early-and-before-release-day/",
-   "medio": "RockstarINTEL",
+   "nota": "🐊 Game over, alligator",
+   "nota_url": "https://www.komando.com/news/devices/game-over-alligator/",
+   "medio": "Komando.com",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +42,47 @@
    "temas": []
   },
   {
+   "tema": "campus drivers serie",
+   "busquedas": "100+",
+   "nota": "Prime Video suma romance universitario con el estreno de Campus Drivers",
+   "nota_url": "https://television.com.ar/noticias/editorial/prime-video-suma-romance-universitario-con-el-estreno-de-icampus-drivers-i/",
+   "medio": "Inicio - Television",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "papa león xiv uruguay",
+   "busquedas": "10000+",
+   "nota": "Las revelaciones de León XIV a 10.000 metros de altura: Francisco, su salud y el voto que hizo historia",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/las-revelaciones-de-leon-xiv-a-10000-metros-de-altura-francisco-su-salud-y-el-voto-que-hizo-historia-nid06112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "lakers - trail blazers",
    "busquedas": "1000+",
-   "nota": "Lakers vs. Trail Blazers: NBA Prediction, Picks and Prop Bets (Nov. 6)",
-   "nota_url": "https://www.fanduel.com/research/lakers-vs-trail-blazers-nba-prediction-picks-and-prop-bets-nov-6",
-   "medio": "FanDuel",
+   "nota": "Luka Doncic scores 53 as Lakers avenge loss to Trail Blazers",
+   "nota_url": "https://www.latimes.com/sports/lakers/story/2026-11-06/luke-doncic-scores-53-as-lakers-avenge-loss-trail-blazers",
+   "medio": "Los Angeles Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de club atlético tigre contra sarmiento de junin",
+   "busquedas": "20000+",
+   "nota": "Sarmiento va por el pase a los playoffs",
+   "nota_url": "https://laverdadonline.com/sarmiento-va-por-el-pase-a-los-playoffs/",
+   "medio": "La Verdad Junín",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - spurs",
    "busquedas": "1000+",
-   "nota": "Kings brace for red-hot Victor Wembanyama, Spurs",
-   "nota_url": "https://www.reuters.com/sports/basketball/kings-brace-red-hot-victor-wembanyama-spurs--flm-2026-11-06/",
-   "medio": "Reuters",
+   "nota": "Kings - Spurs LIVE. NBA latest updates",
+   "nota_url": "https://www.marca.com/en/basket/nba/kings-spurs/2026/11/07/02_0202_20261107_7429_7430-live.html",
+   "medio": "MARCA",
    "relevante": false,
    "temas": []
   },
@@ -56,42 +92,6 @@
    "nota": "Cruce entre capitanes de Boca: Merentiel elogió a Paredes y lo hizo emocionar hasta las lágrimas",
    "nota_url": "https://bolavip.com/ar/boca/cruce-entre-capitanes-de-boca-merentiel-elogio-a-paredes-y-lo-hizo-emocionar-hasta-las-lagrimas",
    "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pollo vignolo",
-   "busquedas": "500+",
-   "nota": "“¿Le estás tiroteando a mi hermana?”: Pergolini incomodó al Pollo Vignolo y todo terminó en un abrazo",
-   "nota_url": "https://eldoce.tv/show/2026/11/07/le-estas-tiroteando-a-mi-hermana-pergolini-incomodo-al-pollo-vignolo-y-todo-termino-en-un-abrazo/",
-   "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "grizzlies - thunder",
-   "busquedas": "200+",
-   "nota": "Cold shooting Grizzlies fall to Oklahoma City",
-   "nota_url": "https://dailymemphian.com/article/68363",
-   "medio": "Daily Memphian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "colton herta",
-   "busquedas": "100+",
-   "nota": "Question of the week: Should Cadillac put Colton Herta into an F1 seat next year?",
-   "nota_url": "https://racer.com/2026/11/06/question-of-the-week-should-cadillac-put-colton-herta-into-an-f1-seat-next-year-",
-   "medio": "RACER - Racing News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "necaxa - tijuana",
-   "busquedas": "100+",
-   "nota": "Xolos se complicó la vida con un ya eliminado, teniendo a Jackson Porozo y Adonis Preciado de titulares",
-   "nota_url": "https://es-us.noticias.yahoo.com/deportes/xolos-complic%C3%B3-vida-eliminado-teniendo-031300183.html",
-   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   }
