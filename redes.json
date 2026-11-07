@@ -1,98 +1,98 @@
 {
- "actualizado": "07/11 07:29",
+ "actualizado": "07/11 08:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "club atlético talleres",
+   "tema": "greenacres",
    "busquedas": "100+",
-   "nota": "Fecha 16. De Felippe mete mano: el cambio que prepara Talleres para despedirse del Clausura",
-   "nota_url": "https://www.lavoz.com.ar/deportes/felippe-mete-mano-cambio-prepara-talleres-despedirse-clausura_0_ZocsVFQYpI.html",
-   "medio": "La Voz del Interior",
+   "nota": "'She was extraordinary': Father remembers Nathalia Filgueiras after deadly jet crash",
+   "nota_url": "https://cbs12.com/news/local/attorneys-representing-family-nathalia-filgueiras-family-hold-news-conference-nine-killed-learjet-60-crash-plane-plunged-35000-feet-before-crashing-south-military-trail-cresthaven-boulevard-10th-avenue-florida-news",
+   "medio": "WPEC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marley",
+   "busquedas": "100+",
+   "nota": "Aseguran que Laurita Fernández fue rebotada en el nuevo programa de Marley en Telefe: “La bajó el conductor o el canal”",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/aseguran-que-laurita-fernandez-fue-rebotada-en-el-nuevo-programa-de-marley-en-telefe-la-bajo-el-conductor-o-el-canal/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rugby",
+   "busquedas": "100+",
+   "nota": "Nations Championship: Ireland 42-12 Argentina recap",
+   "nota_url": "https://www.rte.ie/sport/rugby/2026/1106/1598217-nations-championship-ireland-v-argentina-updates/",
+   "medio": "RTE.ie",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guillermo barros schelotto",
+   "busquedas": "100+",
+   "nota": "Con (otra) sorpresa, Vélez ya tiene las cuatro listas confirmadas para las elecciones",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/con-otra-sorpresa-velez-ya-tiene-cuatro-listas-confirmadas-para-elecciones-id770268.html",
+   "medio": "TyC Sports",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "el dia",
+   "busquedas": "100+",
+   "nota": "La Justicia pidió el desafuero del diputado Javier Galán por denuncias de abuso sexual, peculado y exacciones ilegales",
+   "nota_url": "https://www.catamarcaya.com.ar/la-justicia-pidio-el-desafuero-del-diputado-javier-galan-por-denuncias-de-abuso/",
+   "medio": "CatamarcaYa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "luis caputo",
+   "busquedas": "200+",
+   "nota": "El Gobierno volvió a encender la motosierra: recortó el gasto en 7 de 10 meses",
+   "nota_url": "https://www.cronista.com/economia-politica/el-gobierno-volvio-a-encender-la-motosierra-recorto-el-gasto-en-7-de-10-meses/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "club atlético talleres",
+   "busquedas": "200+",
+   "nota": "Talleres vs Estudiantes, en vivo, por la Liga Profesional: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/07/talleres-vs-estudiantes-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "avión",
    "busquedas": "5000+",
-   "nota": "El papa León XIV pide atención ante los suicidios y defiende una salud para todos en Uruguay",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/07/el-papa-leon-xiv-pide-atencion-ante-los-suicidios-y-defiende-una-salud-para-todos-en-uruguay/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jubilación",
-   "busquedas": "2000+",
-   "nota": "La Anses cambió el calendario de pago de jubilaciones y prestaciones por la visita del papa León XIV",
-   "nota_url": "https://www.lanacion.com.ar/economia/la-anses-cambio-el-calendario-de-pago-de-jubilaciones-y-prestaciones-por-la-visita-del-papa-leon-xiv-nid06112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estancia",
-   "busquedas": "200+",
-   "nota": "Una estancia de Tierra del Fuego tenía un galpón de 7800 m² para 40 esquiladores y 7000 ovejas: hoy es patrimonio histórico",
-   "nota_url": "https://tn.com.ar/campo/2026/11/05/una-estancia-de-tierra-del-fuego-tenia-un-galpon-de-7800-m-para-40-esquiladores-y-7000-ovejas-hoy-es-patrimonio-historico/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aguinaldo",
-   "busquedas": "500+",
-   "nota": "Confirmado por Milei, los jubilados con moratoria ya tienen fechas de cobro del aguinaldo",
-   "nota_url": "https://www.cronica.com.ar/sociedad/confirmado-por-milei-los-jubilados-con-moratoria-ya-tienen-fechas-de-cobro-del-aguinaldo/",
-   "medio": "Crónica",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima posadas",
-   "busquedas": "100+",
-   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este viernes 6 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-viernes-6-noviembre-2026_0_YSiTULNkv8.html",
+   "nota": "Poco clima papal a pocas horas de la visita de León XIV a Paysandú: apuestan al fervor argentino",
+   "nota_url": "https://www.clarin.com/sociedad/clima-papal-pocas-horas-visita-leon-xiv-paysandu-apuestan-fervor-argentino_0_nyceXNzM4a.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "xbox",
+   "tema": "guido kaczka",
    "busquedas": "100+",
-   "nota": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
-   "nota_url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
-   "medio": "Kotaku",
+   "nota": "¡Bomba! Beto Casella se reunió con el socio de Guido Kaczka: la oferta que recibió el conductor",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/06/bomba-beto-casella-se-reunio-con-el-socio-de-guido-kaczka-la-oferta-que-recibio-el-conductor/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima tucuman",
-   "busquedas": "500+",
-   "nota": "Se aproximan tormentas y vientos para este viernes 6 de noviembre: se esperan lluvias intensas y ráfagas de viento que pueden superar los 110 km/h en San Luis",
-   "nota_url": "https://www.cronista.com/informacion-gral/se-aproximan-tormentas-y-vientos-para-este-viernes-6-de-noviembre-se-esperan-lluvias-intensas-y-rafagas-de-viento-que-pueden-superar-los-110-kmh-en-san-luis/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "campus drivers serie",
-   "busquedas": "100+",
-   "nota": "Prime Video suma romance universitario con el estreno de Campus Drivers",
-   "nota_url": "https://television.com.ar/noticias/editorial/prime-video-suma-romance-universitario-con-el-estreno-de-icampus-drivers-i/",
-   "medio": "Inicio - Television",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lakers - trail blazers",
-   "busquedas": "2000+",
-   "nota": "\"I thought it was an important shot to make so that's …",
-   "nota_url": "https://sports.yahoo.com/articles/thought-important-shot-thats-090350064.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
+   "tema": "jubilación",
+   "busquedas": "5000+",
+   "nota": "Jubilación anticipada: Sandra Pettovello respalda el Decreto 1852/1975 y ANSES permite retirarse a los 50 años",
+   "nota_url": "https://www.minutouno.com/sociedad/jubilacion-anticipada-sandra-pettovello-respalda-el-decreto-18521975-y-anses-permite-retirarse-los-50-anos-n6341678",
+   "medio": "MinutoUno",
+   "relevante": true,
    "temas": []
   }
  ],
