@@ -1,97 +1,97 @@
 {
- "actualizado": "07/11 18:24",
+ "actualizado": "07/11 19:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "primera división",
-   "busquedas": "5000+",
-   "nota": "No hay un culpable único",
-   "nota_url": "https://www.diariosur.es/malagacf/no-hay-culpable-unico-20261107171515-nt.html",
-   "medio": "Diario Sur",
+   "tema": "posiciones de psg contra estac troyes",
+   "busquedas": "1000+",
+   "nota": "PSG lose another attacker to injury after double calf blow takes out improving summer signing",
+   "nota_url": "https://sports.yahoo.com/articles/psg-lose-another-attacker-injury-192600826.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "promedios",
-   "busquedas": "1000+",
-   "nota": "Unión pierde los 60 puntos del Kily González: en qué posición arrancaría en la tabla de promedios en 2027",
-   "nota_url": "https://www.airedesantafe.com.ar/deportes/union-pierde-los-60-puntos-del-kily-gonzalez-que-posicion-arrancaria-la-tabla-promedios-2027-n675753",
-   "medio": "Aire de Santa Fe",
+   "tema": "leandro paredes",
+   "busquedas": "500+",
+   "nota": "Decisiones de la Cámara de Apelaciones de la FIFA",
+   "nota_url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "asociación atlética estudiantes",
+   "busquedas": "200+",
+   "nota": "Colón recupera a Nicolás Talpone: el ascenso puede ser clave para definir su continuidad",
+   "nota_url": "https://www.unosantafe.com.ar/colon-recupera-nicolas-talpone-el-ascenso-puede-ser-clave-definir-su-continuidad-n10290996.html",
+   "medio": "Diario Uno Santa Fe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pacers - nuggets",
+   "busquedas": "200+",
+   "nota": "Basketball-Jokic embraces Mexico City spotlight in NBA international showcase",
+   "nota_url": "https://www.galvnews.com/news_reuters/sports/basketball-jokic-embraces-mexico-city-spotlight-in-nba-international-showcase/article_4c70bdf2-9e60-522a-adfa-7a9beb35cebf.html",
+   "medio": "The Daily News | Texas' Oldest Newspaper",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "manu ginóbili",
+   "busquedas": "200+",
+   "nota": "Ginóbili recurre al TSJ para revertir el fallo que anuló la restitución de un lote en La Angostura",
+   "nota_url": "https://www.rionegro.com.ar/justicia/ginobili-impugno-ante-el-tsj-el-fallo-que-paralizo-la-restitucion-de-un-predio-en-villa-la-angostura-4780779/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aranda",
+   "busquedas": "200+",
+   "nota": "Sonríe el Vasco Arruabarrena: la pieza clave que recuperó Boca Juniors para la recta final de la temporada",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/06/sonrie-el-vasco-arruabarrena-la-pieza-clave-que-recupero-boca-juniors-para-la-recta-final-de-la-temporada/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "central cordoba",
+   "busquedas": "200+",
+   "nota": "Estos son los ganadores de las entradas para Central Córdoba vs. Lanús",
+   "nota_url": "https://www.elliberal.com.ar/nota/97285/2026/11/estos-son-los-ganadores-de-las-entradas-para-central-cordoba-vs-lanus",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rosario hoy",
+   "busquedas": "200+",
+   "nota": "La vicepresidenta de la Nación Victoria Villarruel visitaría Rosario para ver a Central este sábado",
+   "nota_url": "https://11noticias.com/politica/la-vicepresidenta-de-la-nacion-victoria-villarruel-visitaria-rosario-para-ver-a-central-este-sabado_53362",
+   "medio": "11 Noticias",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "resultado de boca",
-   "busquedas": "500+",
-   "nota": "¿River y Boca pueden cruzarse? Las cuatro combinaciones posibles en los Playoffs del Clausura 2026 para que...",
-   "nota_url": "https://lapaginamillonaria.com/torneo-clausura/river-y-boca-pueden-cruzarse-las-cuatro-combinaciones-posibles-en-los-playoffs-del-clausura-2026-para-que-haya-superclasico",
-   "medio": "La Página Millonaria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "argentino vs",
-   "busquedas": "200+",
-   "nota": "Portugal pledge to honour Ronaldo as Jesus names first squad after captain's retirement",
-   "nota_url": "https://www.reuters.com/sports/soccer/portugal-pledge-honour-ronaldo-jesus-names-first-squad-after-captains-retirement-2026-11-06/",
-   "medio": "Reuters",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cómo va boca juniors",
-   "busquedas": "200+",
-   "nota": "Por qué el avión que llevó al papa León XIV a Uruguay se llama Daniele De Rossi",
-   "nota_url": "https://radiomitre.cienradios.com/mundo/por-que-el-avion-que-llevo-al-papa-leon-xiv-a-uruguay-se-llama-daniele-de-rossi/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "di maria",
+   "tema": "bo",
    "busquedas": "100+",
-   "nota": "Almirón confirmó que Di María no va a jugar la última fecha",
-   "nota_url": "https://www.ole.com.ar/rosario-central/almiron-confirmo-di-maria-va-jugar-ultima-fecha_3_DjLMO5H1Px.html",
-   "medio": "Olé",
+   "nota": "Bo Nix doesn’t chase blowouts — he chases clutch moments",
+   "nota_url": "https://www.cleveland.com/steelers/2026/11/bo-nix-doesnt-chase-blowouts-he-chases-clutch-moments.html",
+   "medio": "Cleveland.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "boc",
-   "busquedas": "500+",
-   "nota": "‘Pang-sweldo lang’: Nepomuceno Appeals for BOC Budget Hike, Passes Up Confidential Funds",
-   "nota_url": "https://politiko.com.ph/pang-sweldo-lang-nepomuceno-appeals-for-boc-budget-hike-passes-up-confidential-funds/",
-   "medio": "Politiko.com.ph",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "david martinez",
-   "busquedas": "200+",
-   "nota": "El borrado en River que busca vender Di Carlo",
-   "nota_url": "https://elcrackdeportivo.com.ar/river/el-borrado-en-river-que-busca-vender-di-carlo-20261106-0062.html",
-   "medio": "El Crack Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "partidos",
-   "busquedas": "1000+",
-   "nota": "Torneo Clausura 2026: estos son hoy los cruces de octavos de final",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17482362/torneo-clausura-2026-cruces-de-octavos-playoffs-asi-se-juega",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "elena rybakina",
-   "busquedas": "200+",
-   "nota": "Rybakina pulls out of WTA Finals due to fitness concerns",
-   "nota_url": "https://www.arabnews.com/tennis/rybakina-pulls-out-of-wta-finals-due-to-fitness-concerns-3010383",
-   "medio": "Arab News",
+   "tema": "primera division",
+   "busquedas": "100+",
+   "nota": "El 'Submarino' se pone a mil en Primera: su historia, sus números y sus mejores registros",
+   "nota_url": "https://www.estadiodeportivo.com/futbol/villarreal/villarreal-1000-partidos-primera-division-historia-numeros-20261107-550216.html",
+   "medio": "Estadio Deportivo",
    "relevante": false,
    "temas": []
   }
