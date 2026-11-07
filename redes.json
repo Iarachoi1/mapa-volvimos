@@ -1,22 +1,49 @@
 {
- "actualizado": "07/11 06:35",
+ "actualizado": "07/11 07:29",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "club atlético talleres",
+   "busquedas": "100+",
+   "nota": "Fecha 16. De Felippe mete mano: el cambio que prepara Talleres para despedirse del Clausura",
+   "nota_url": "https://www.lavoz.com.ar/deportes/felippe-mete-mano-cambio-prepara-talleres-despedirse-clausura_0_ZocsVFQYpI.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "avión",
+   "busquedas": "5000+",
+   "nota": "El papa León XIV pide atención ante los suicidios y defiende una salud para todos en Uruguay",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/07/el-papa-leon-xiv-pide-atencion-ante-los-suicidios-y-defiende-una-salud-para-todos-en-uruguay/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "jubilación",
-   "busquedas": "1000+",
-   "nota": "Jubilación anticipada: Sandra Pettovello respalda el Decreto 1852/1975 y ANSES permite retirarse a los 50 años",
-   "nota_url": "https://www.minutouno.com/sociedad/jubilacion-anticipada-sandra-pettovello-respalda-el-decreto-18521975-y-anses-permite-retirarse-los-50-anos-n6341678",
-   "medio": "MinutoUno",
-   "relevante": true,
+   "busquedas": "2000+",
+   "nota": "La Anses cambió el calendario de pago de jubilaciones y prestaciones por la visita del papa León XIV",
+   "nota_url": "https://www.lanacion.com.ar/economia/la-anses-cambio-el-calendario-de-pago-de-jubilaciones-y-prestaciones-por-la-visita-del-papa-leon-xiv-nid06112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estancia",
+   "busquedas": "200+",
+   "nota": "Una estancia de Tierra del Fuego tenía un galpón de 7800 m² para 40 esquiladores y 7000 ovejas: hoy es patrimonio histórico",
+   "nota_url": "https://tn.com.ar/campo/2026/11/05/una-estancia-de-tierra-del-fuego-tenia-un-galpon-de-7800-m-para-40-esquiladores-y-7000-ovejas-hoy-es-patrimonio-historico/",
+   "medio": "TN",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "aguinaldo",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Confirmado por Milei, los jubilados con moratoria ya tienen fechas de cobro del aguinaldo",
    "nota_url": "https://www.cronica.com.ar/sociedad/confirmado-por-milei-los-jubilados-con-moratoria-ya-tienen-fechas-de-cobro-del-aguinaldo/",
    "medio": "Crónica",
@@ -62,36 +89,9 @@
   {
    "tema": "lakers - trail blazers",
    "busquedas": "2000+",
-   "nota": "NBA: Doncic's 53 points lift Lakers as Cavs top Sixers in James' return",
-   "nota_url": "https://www.abs-cbn.com/sports/basketball/2026/11/7/nba-doncic-s-53-points-lift-lakers-as-cavs-top-sixers-in-james-return-1543",
-   "medio": "ABS-CBN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de club atlético tigre contra sarmiento de junin",
-   "busquedas": "20000+",
-   "nota": "Sarmiento va por el pase a los playoffs",
-   "nota_url": "https://laverdadonline.com/sarmiento-va-por-el-pase-a-los-playoffs/",
-   "medio": "La Verdad Junín",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - spurs",
-   "busquedas": "1000+",
-   "nota": "Game Recap: Spurs 124, Kings 109 (Nov. 6)",
-   "nota_url": "https://www.nba.com/watch/video/game-recap-spurs-124-kings-109-nov-6",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miguel merentiel",
-   "busquedas": "200+",
-   "nota": "Cruce entre capitanes de Boca: Merentiel elogió a Paredes y lo hizo emocionar hasta las lágrimas",
-   "nota_url": "https://bolavip.com/ar/boca/cruce-entre-capitanes-de-boca-merentiel-elogio-a-paredes-y-lo-hizo-emocionar-hasta-las-lagrimas",
-   "medio": "Bolavip Argentina",
+   "nota": "\"I thought it was an important shot to make so that's …",
+   "nota_url": "https://sports.yahoo.com/articles/thought-important-shot-thats-090350064.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
