@@ -1,10 +1,16 @@
 {
  "semana": "6 de noviembre de 2026",
  "fecha": "2026-11-06",
- "actualizado": "06/11 16:43",
+ "actualizado": "06/11 21:33",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "Trump sacudió la Casa Blanca tras la derrota electoral: echó a su Jefa de Gabinete",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "06/11/2026",
+     "url": "https://bardeo.news/entretenimiento/trump-sacudio-la-casa-blanca-tras-la-derrota-electoral--echo-a-su-jefa-de-gabinete_a6aee4376696ebfa450ac8c2f"
+    },
     {
      "titulo": "Juicio político a Peña: el Senado rechazó a la defensa y aprobó las pruebas",
      "medio": "Bardeo (columnas de Manu Jove)",
@@ -12,16 +18,10 @@
      "url": "https://bardeo.news/politica/juicio-politico-a-pena--el-senado-rechazo-a-la-defensa-y-aprobo-las-pruebas_a6aee2565696ebfa450a9f59f"
     },
     {
-     "titulo": "Milei llamó “héroes” a los empresarios y prometió eliminar las retenciones",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "06/11/2026",
-     "url": "https://bardeo.news/politica/milei-llamo--heroes--a-los-empresarios-y-prometio-eliminar-las-retenciones_a6aee0991696ebfa450a79dc1"
-    },
-    {
-     "titulo": "El tablero internacional en jaque: El derrumbe de Trump, crisis en Paraguay, llega el papa León XIV",
+     "titulo": "En septiembre, se sumaron casi 48 mil morosos",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "06/11/2026",
-     "url": "https://cenital.com/el-tablero-internacional-en-jaque-derrumbe-republicano-crisis-en-asuncion-y-la-previa-papal/",
+     "url": "https://cenital.com/en-septiembre-se-sumaron-casi-48-mil-morosos/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
@@ -51,10 +51,10 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Milei disertará en la Rural tras el impacto por la renuncia de Peña en Paraguay",
-     "medio": "El Destape",
+     "titulo": "Designaciones, fallos y un deseo. Mahiques despeja los problemas judiciales del Gobierno y allana el camino para ser Procurador",
+     "medio": "La Nación",
      "fecha": "06/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-6-noviembre-minuto-minuto-20261167932",
+     "url": "https://www.lanacion.com.ar/politica/mahiques-despeja-los-problemas-judiciales-del-gobierno-y-presiona-para-ser-el-jefe-de-los-fiscales-nid06112026/",
      "tag": "Gabinete"
     },
     {
@@ -63,6 +63,13 @@
      "fecha": "06/11/2026",
      "url": "https://www.lanacion.com.ar/politica/la-camara-federal-dejo-al-borde-del-cierre-otra-causa-que-investigaba-al-gobierno-nid06112026/",
      "tag": "Ciudad"
+    },
+    {
+     "titulo": "LA INTERNA LIBERTARIA Bullrich presiona a Milei: pide la ley de ludopatía y prepara una cumbre con su tropa del Senado Por Mauricio Cantando",
+     "medio": "Letra P",
+     "fecha": "06/11/2026",
+     "url": "https://www.letrap.com.ar/congreso/patricia-bullrich-presiona-milei-pide-la-ley-ludopatia-y-prepara-una-cumbre-su-tropa-del-senado-n5428054",
+     "tag": "Política"
     },
     {
      "titulo": "Tensión con Milei. Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto contra la ludopatía",
@@ -91,16 +98,16 @@
      "fecha": "06/11/2026",
      "url": "https://www.perfil.com/economia/senadora-critica-del-rescate-financiero-de-trump-a-milei-asumiria-un-cargo-clave-en-el-congreso-de-ee.uu.-asuv47Y85Duy",
      "tag": "Política"
-    },
-    {
-     "titulo": "“A Milei hay que hacerle un monumento”. Pagni destacó un gran logro del Presidente, pero advirtió qué podría complicar su reelección",
-     "medio": "La Nación",
-     "fecha": "06/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/carlos-pagni-a-milei-hay-que-hacerle-un-monumento-por-recuperar-la-idea-de-equilibrio-fiscal-nid06112026/",
-     "tag": "Calendario electoral"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Sorpresa por la última encuesta en el Conurbano: resultado histórico al medir a Kicillof, Bullrich y Milei",
+     "medio": "El Destape",
+     "fecha": "06/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/sorpresa-ultima-encuesta-conurbano-resultado-historico-medir-kicillof-bullrich-milei-2026116164517"
+    }
+   ]
   },
   "Buenos Aires": {
    "top3": [
@@ -123,21 +130,28 @@
      "url": "https://www.diagonales.com/nacion/caputo-intento-minimizar-la-disparada-del-riesgo-pais-y-la-vinculo-a-las-elecciones-de-2027_a6aeddf8c696ebfa450a32789"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Sorpresa por la última encuesta en el Conurbano: resultado histórico al medir a Kicillof, Bullrich y Milei",
+     "medio": "El Destape",
+     "fecha": "06/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/sorpresa-ultima-encuesta-conurbano-resultado-historico-medir-kicillof-bullrich-milei-2026116164517"
+    }
+   ]
   },
   "Catamarca": {
    "top3": [
+    {
+     "titulo": "Tras las medidas del ministro de economía en la UIA Jalil anticipó que la Provincia eliminará el impuesto de Sellos",
+     "medio": "El Ancasti",
+     "fecha": "06/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/jalil-anticipo-que-la-provincia-eliminara-el-impuesto-sellos-n625565"
+    },
     {
      "titulo": "Vence en diciembre la emergencia en discapacidad Guillermo Andrada defendió aprobar la ley de discapacidad sin cambios",
      "medio": "El Ancasti",
      "fecha": "06/11/2026",
      "url": "https://www.elancasti.com.ar/politica-y-economia/guillermo-andrada-defendio-aprobar-la-ley-discapacidad-cambios-n625551"
-    },
-    {
-     "titulo": "Sigue la tensión en Paraguay El \"Milei paraguayo\" fue retirado a la fuerza del Congreso",
-     "medio": "El Ancasti",
-     "fecha": "06/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/el-milei-paraguayo-fue-retirado-la-fuerza-del-congreso-n625537"
     }
    ],
    "imagen": []
@@ -151,23 +165,28 @@
      "url": "https://www.adnsur.com.ar/politica/la-oposicion-de-rada-tilly-busca-impulsar-una-carta-organica-de-cara-a-las-elecciones-de-2027_a6aee0cdb2ef0898cb87be896"
     },
     {
-     "titulo": "Glinski acompañará el proyecto para declarar a Comodoro como Ciudad Histórica Nacional de Malvinas",
-     "medio": "ADN Sur",
-     "fecha": "06/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/glinski-acompanara-el-proyecto-para-declarar-a-comodoro-como-ciudad-historica-nacional-de-malvinas_a6aedf25b2ef0898cb8783f15",
-     "tag": "También en El Chubut"
-    },
-    {
      "titulo": "Diez días antes del jury, renunció el camarista Claudio Petris",
      "medio": "Diario Jornada",
      "fecha": "06/11/2026",
      "url": "https://www.diariojornada.com.ar/426649/politica/diez_dias_antes_del_jury_renuncio_el_camarista_claudio_petris"
+    },
+    {
+     "titulo": "Merino envió al Concejo el Presupuesto 2027 por $138 mil millones",
+     "medio": "El Chubut",
+     "fecha": "06/11/2026",
+     "url": "https://www.elchubut.com.ar/trelew/2026-11-6-8-40-0-merino-envio-al-concejo-el-presupuesto-2027-por-138-mil-millones"
     }
    ],
    "imagen": []
   },
   "Córdoba": {
    "top3": [
+    {
+     "titulo": "Córdoba: el Presupuesto 2027 enviado al Concejo Deliberante prevé déficit cero",
+     "medio": "CBA24N",
+     "fecha": "06/11/2026",
+     "url": "https://www.cba24n.com.ar/cordoba/cordoba--el-presupuesto-2027-enviado-al-concejo-deliberante-preve-deficit-cero_a6aee550a566f8a6f7fcc124b"
+    },
     {
      "titulo": "Mercados y política. Caputo atribuyó la suba del riesgo país al temor de que Milei no siga después de 2027",
      "medio": "Cadena3",
@@ -179,12 +198,6 @@
      "medio": "La Nación",
      "fecha": "06/11/2026",
      "url": "https://www.lanacion.com.ar/politica/luis-caputo-y-martin-llaryora-acordaron-compensar-deudas-por-143000-millones-nid06112026/"
-    },
-    {
-     "titulo": "La Legislatura reconoció a  deportistas cordobeses destacados en los Juegos Suramericanos",
-     "medio": "Legislatura de Córdoba",
-     "fecha": "06/11/2026",
-     "url": "https://legislaturacba.gob.ar/la-legislatura-reconocio-a-los-deportistas-cordobeses/"
     }
    ],
    "imagen": []
@@ -209,6 +222,13 @@
   "Entre Ríos": {
    "top3": [
     {
+     "titulo": "El Senado de Paraguay destituyó por unanimidad a Santiago Peña: asumirá el vicepresidente Pedro Alliana",
+     "medio": "El Once",
+     "fecha": "06/11/2026",
+     "url": "https://www.elonce.com/politica/el-senado-de-paraguay-destituyo-por-unanimidad-a-santiago-pena-asumira-pedro-alliana.htm",
+     "tag": "También en AFP Digital"
+    },
+    {
      "titulo": "Crisis en Paraguay: Santiago Peña solicitó 72 horas para designar un abogado para su juicio político",
      "medio": "AFP Digital",
      "fecha": "06/11/2026",
@@ -216,41 +236,11 @@
      "tag": "También en UNO ER"
     },
     {
-     "titulo": "Visita del Papa León XIV: estatales entrerrianos podrán solicitar un día de licencia",
+     "titulo": "Frigerio y el intendente de Crespo inauguraron la Fiesta Nacional de la Avicultura",
      "medio": "El Once",
      "fecha": "06/11/2026",
-     "url": "https://www.elonce.com/politica/visita-del-papa-entre-rios-habilito-licencias-para-estatales.htm",
-     "tag": "También en AFP Digital"
-    },
-    {
-     "titulo": "Se abrió la inscripción para capacitación sobre Boleta Única de Papel destinados a docentes entrerrianos",
-     "medio": "AFP Digital",
-     "fecha": "06/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/06/478218-se-abrio-la-inscripcion-para-capacitacion-sobre-boleta-nica-de-papel-destinados-a-docentes-entrerrianos"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "A cinco centímetros del nivel de alerta: las imágenes de la creciente del río Paraná",
-     "medio": "El Once",
-     "fecha": "06/11/2026",
-     "url": "https://www.elonce.com/parana/el-rio-parana-alcanzo-los-4-65-metros-y-quedo-a-solo-cinco-centimetros-del-nivel-de-alerta.htm"
-    }
-   ]
-  },
-  "Formosa": {
-   "top3": [
-    {
-     "titulo": "\"Toca pedirle al gobernador que interceda”: judiciales marcharon a Casa de Gobierno por aumento salarial",
-     "medio": "La Mañana",
-     "fecha": "06/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108465/toca-pedirle-al-gobernador-que-interceda-judiciales-marcharon-a-casa-de-gobierno-por-aumento-salarial/"
-    },
-    {
-     "titulo": "REFSA informó que ya se puede solicitar la emisión de boletas tras el ciberataque",
-     "medio": "La Mañana",
-     "fecha": "06/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108453/refsa-inform-que-ya-se-puede-solicitar-la-emisin-de-boletas-tras-el-ciberataque/"
+     "url": "https://www.elonce.com/politica/frigerio-y-el-intendente-de-crespo-inauguraron-la-fiesta-nacional-de-la-avicultura.htm",
+     "tag": "También en Ahora"
     }
    ],
    "imagen": []
@@ -258,24 +248,24 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Jujuy. Ingreso a primer año 2027: ya está el listado oficial de asignación de vacantes",
-     "medio": "Todo Jujuy",
-     "fecha": "06/11/2026",
-     "url": "https://www.todojujuy.com/jujuy/ingreso-primer-ano-2027-ya-esta-el-listado-oficial-asignacion-vacantes-n298481",
-     "tag": "También en El Tribuno"
-    },
-    {
      "titulo": "LA INTERNA ETERNA Jujuy Crece se reacomoda tras la partida de dos legisladores que se fueron, pero ratificaron su apoyo a Sadir Por Enrique Gebauer",
      "medio": "Letra P",
      "fecha": "06/11/2026",
      "url": "https://www.letrap.com.ar/politica/jujuy-crece-se-reacomoda-la-partida-dos-legisladores-que-se-fueron-pero-ratificaron-su-apoyo-sadir-n5428021"
     },
     {
-     "titulo": "Dos medallas de oro para Jujuy en los Juegos Argentinos Urbanos 2026",
+     "titulo": "Jujuy. Calle Patricias Argentinas: por obras del Ascensor Urbano, habrá cortes de tránsito y cambios en los recorridos de colectivos Por Claudio Serra",
+     "medio": "Todo Jujuy",
+     "fecha": "06/11/2026",
+     "url": "https://www.todojujuy.com/jujuy/calle-patricias-argentinas-obras-del-ascensor-urbano-habra-cortes-transito-y-cambios-los-recorridos-colectivos-n298507",
+     "tag": "También en El Tribuno, Somos Jujuy"
+    },
+    {
+     "titulo": "El IVUJ y el Consejo de Profesionales de Ciencias Económicas proyectan 15 departamentos en Alto Padilla",
      "medio": "Prensa oficial de Jujuy",
      "fecha": "06/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/medallas/dos-medallas-oro-jujuy-los-juegos-argentinos-urbanos-2026-n125882",
-     "tag": "También en Somos Jujuy"
+     "url": "https://prensa.jujuy.gob.ar/ivuj/el-ivuj-y-el-consejo-profesionales-ciencias-economicas-proyectan-15-departamentos-alto-padilla-n125881",
+     "tag": "También en El Tribuno"
     }
    ],
    "imagen": []
@@ -295,10 +285,11 @@
      "url": "https://www.letrap.com.ar/politica/la-rebeldia-bullrich-derrama-la-pampa-y-matzkin-asoma-la-cabeza-el-armado-opositor-n5428033"
     },
     {
-     "titulo": "El Presupuesto 2027 tomó estado parlamentario",
-     "medio": "La Arena",
+     "titulo": "Santa Rosa convertirá sus CDI al sistema eléctrico: ocho estarán listos para marzo de 2027",
+     "medio": "El Diario de La Pampa",
      "fecha": "06/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/el-presupuesto-2027-tomo-estado-parlamentario-2026116030"
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82748/santa-rosa-convertira-sus-cdi-al-sistema-electrico--ocho-estaran-listos-para-marzo-de-2027",
+     "tag": "También en La Arena"
     }
    ],
    "imagen": []
@@ -353,10 +344,22 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Arjol archiva su vínculo con La Libertad Avanza y se abre al juego de las alianzas en Misiones Por Lucio Di Giuseppe",
+     "titulo": "JUGADOR LIBRE Arjol archiva su vínculo con La Libertad Avanza y se abre al juego de las alianzas en Misiones Por Lucio Di Giuseppe",
      "medio": "Letra P",
      "fecha": "06/11/2026",
      "url": "https://www.letrap.com.ar/politica/martin-arjol-archiva-su-vinculo-la-libertad-avanza-y-se-abre-al-juego-las-alianzas-misiones-n5428015"
+    },
+    {
+     "titulo": "Otra sacudida en el partido de Carlos Rovira: renunciaron sus dos apoderados",
+     "medio": "Primera Edición",
+     "fecha": "06/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101158407/otra-sacudida-en-el-partido-de-carlos-rovira-renunciaron-sus-dos-apoderados/"
+    },
+    {
+     "titulo": "“Deuda histórica”: Misiones avanza con licitación para ampliar y repavimentar ruta 14",
+     "medio": "La Voz - Misiones",
+     "fecha": "06/11/2026",
+     "url": "https://lavozdemisiones.com/provinciales/deuda-historica-misiones-avanza-con-licitacion-para-ampliar-y-repavimentar-ruta-14"
     }
    ],
    "imagen": []
@@ -364,23 +367,23 @@
   "Neuquén": {
    "top3": [
     {
+     "titulo": "Distinción Emplea Neuquén ganó el Premio Eikon de Oro por su impulso al desarrollo emprendedor",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "06/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/06/266979-emplea-neuquen-gano-el-premio-eikon-de-oro-por-su-impulso-al-desarrollo-emprendedor",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
+    },
+    {
      "titulo": "Educación y legislatura Domínguez presentó un proyecto para ampliar el acceso gratuito a carreras universitarias y terciarias en Neuquén",
      "medio": "Noticias NQN",
      "fecha": "06/11/2026",
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/06/359781-dominguez-presento-un-proyecto-para-ampliar-el-acceso-gratuito-a-carreras-universitarias-y-terciarias-en-neuquen"
     },
     {
-     "titulo": "Regionalización Villa La Angostura: Figueroa comprometió 100 cuadras de asfalto y obras claves",
+     "titulo": "Planificación integral Plan Calor: “Vamos a llegar a todos los rincones de la provincia con las soluciones energéticas que cada lugar necesite”",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "06/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/06/266853-villa-la-angostura-figueroa-comprometio-100-cuadras-de-asfalto-y-obras-claves",
-     "tag": "También en Neuquén al Instante"
-    },
-    {
-     "titulo": "Fiestas Populares Fiesta Nacional del Chivito: Chos Malal se prepara para recibir a miles de visitantes",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "06/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/06/266958-fiesta-nacional-del-chivito-chos-malal-se-prepara-para-recibir-a-miles-de-visitantes",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/06/266973-plan-calor-vamos-a-llegar-a-todos-los-rincones-de-la-provincia-con-las-soluciones-energeticas-que-cada-lugar-necesite",
      "tag": "También en Neuquén al Instante"
     }
    ],
@@ -396,17 +399,17 @@
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
+     "titulo": "Weretilneck recorrió con SESA el frente de soldadura del gasoducto San Matías Pipeline",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "06/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62718/weretilneck-recorrio-con-sesa-el-frente-de-soldadura-del-gasoducto-san-matias-pipeline",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
      "titulo": "JURA POSTERGADA Sigue la pelea en Bariloche: LLA reclama una banca que podría dejar al oficialismo sin mayoría automática Por Letra P | Periodismo Político",
      "medio": "Letra P",
      "fecha": "06/11/2026",
      "url": "https://www.letrap.com.ar/politica/sigue-la-pelea-bariloche-lla-reclama-una-banca-que-podria-dejar-al-oficialismo-mayoria-automatica-n5428036"
-    },
-    {
-     "titulo": "Con recursos propios, Río Negro realiza reparaciones urgentes en los tramos más críticos de la Ruta 151",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "06/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62689/con-recursos-propios-rio-negro-repara-uno-de-los-tramos-mas-complicados-de-la-ruta-151",
-     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": []
@@ -417,8 +420,7 @@
      "titulo": "“No hay federalismo si no lo ejercemos”: Gobierno, intendentes y legisladores del norte se reunieron por el presupuesto 2027",
      "medio": "Prensa oficial de Salta",
      "fecha": "06/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/no-hay-federalismo-si-no-lo-ejercemos-gobierno-intendentes-y-legisladores-del-norte-se-reunieron-por-el-presupuesto-2027-110991",
-     "tag": "También en Que Pasa Salta, Informate Salta"
+     "url": "https://www.salta.gob.ar/prensa/noticias/no-hay-federalismo-si-no-lo-ejercemos-gobierno-intendentes-y-legisladores-del-norte-se-reunieron-por-el-presupuesto-2027-110991"
     },
     {
      "titulo": "Camino a 2027 | Crece la interna entre Karina y Bullrich",
@@ -427,10 +429,10 @@
      "url": "https://www.cuarto.com.ar/camino-a-2027-crece-la-interna-entre-karina-y-bullrich/"
     },
     {
-     "titulo": "Salta busca una ley sobre el Alzheimer: qué cambiaría y por qué preocupa a tantas familias",
-     "medio": "Que Pasa Salta",
+     "titulo": "Crisis en Paraguay: Santiago Peña solicitó 72 horas para designar un abogado",
+     "medio": "Nuevo Diario de Salta",
      "fecha": "06/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/alzheimer-salta-ley-familias-alerta/"
+     "url": "https://nuevodiariodesalta.com.ar/crisis-en-paraguay-santiago-pena-solicito-72-horas-para-designar-un-abogado/"
     }
    ],
    "imagen": []
@@ -438,31 +440,31 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "Islas Malvinas: el Gobierno confirmó que enfrentará al Reino Unido ante un tribunal internacional por la explotación de hidrocarburos",
+     "titulo": "Sin acuerdo entre el peronismo y Arancibia, habrá dos listas al Consejo de la Magistratura: todos los candidatos",
      "medio": "Tiempo de San Juan",
      "fecha": "06/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/islas-malvinas-el-gobierno-confirmo-que-enfrentara-al-reino-unido-ante-un-tribunal-internacional-por-la-explotacion-de-hidrocarburos_1793979708",
-     "tag": "También en 0264 Noticias, Diario de Cuyo"
+     "url": "https://www.tiempodesanjuan.com/politica/sin-acuerdo-entre-el-peronismo-y-arancibia-habra-dos-listas-al-consejo-de-la-magistratura-los-candidatos-de-la-oposicion_1794006230",
+     "tag": "También en Diario de Cuyo"
+    },
+    {
+     "titulo": "Como anticipó este medio, un extitular del Foro y una exvice lideran las listas en la elección del Consejo de la Magistratura: todos los candidatos",
+     "medio": "0264 Noticias",
+     "fecha": "06/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/06/116340-como-anticipo-este-medio-un-extitular-del-foro-y-una-exvice-lideran-las-listas-en-la-eleccion-del-consejo-de-la-magistratura-todos-los-candidatos"
     },
     {
      "titulo": "Un docente jubilado apela a las internas para ser el candidato del PJ en Jáchal",
      "medio": "0264 Noticias",
      "fecha": "06/11/2026",
      "url": "https://www.0264noticias.com.ar/noticias/2026/11/06/116259-un-docente-jubilado-apela-a-las-internas-para-ser-el-candidato-del-pj-en-jachal"
-    },
-    {
-     "titulo": "Cornejo del PRO y las chances de reelección que tienen Milei y Orrego",
-     "medio": "Huarpe",
-     "fecha": "06/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/cornejo-del-pro-ve-a-orrego-mejor-perfilado-que-milei-para-reelegir-20261166021"
     }
    ],
    "imagen": [
     {
-     "titulo": "Imágenes: no respetó el \"pare\" y chocó al vicegobernador Fabián Martín",
-     "medio": "El Zonda",
+     "titulo": "Con la mira en 2027, LLA activó a su tropa joven en San Juan y ya hablan de la reelección de Milei",
+     "medio": "Tiempo de San Juan",
      "fecha": "06/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/locales/imagenes-no-respeto-el-pare-y-choco-al-vicegobernador-fabian-martin"
+     "url": "https://www.tiempodesanjuan.com/politica/con-la-mira-en-2027-lla-activo-a-su-tropa-joven-en-san-juan-y-ya-hablan-de-la-reeleccion-de-milei_1794010872"
     }
    ]
   },
@@ -494,24 +496,24 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Bórquez: “Soy un empleado más del municipio y lo más importante son los derechos de los trabajadores”",
-     "medio": "Prensa oficial de Santa Cruz",
+     "titulo": "Elecciones 2027 en Santa Cruz: el oficialismo anunció otro proyecto y reabrió la pelea por las PASO",
+     "medio": "El Diario Nuevo Día",
      "fecha": "06/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/borquez-soy-un-empleado-mas-del-municipio-y-lo-mas-importante-son-los-derechos-de-los-trabajadores",
-     "tag": "También en La Opinión Austral, Tiempo Sur"
-    },
-    {
-     "titulo": "Este viernes Milei disertará en la Sociedad Rural en Palermo tras el impacto por la renuncia de Peña",
-     "medio": "Tiempo Sur",
-     "fecha": "06/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/milei-disertara-en-la-sociedad-rural-en-palermo-tras-el-impacto-por-la-renuncia-de-pena",
-     "tag": "También en El Diario Nuevo Día"
+     "url": "https://www.eldiarionuevodia.com.ar/locales/elecciones-2027-en-santa-cruz-el-oficialismo-anuncio-otro-proyecto-y-reabrio-la-pelea-por-las-paso-2162/"
     },
     {
      "titulo": "Jornadas de Salud Bucal en Río Gallegos: cómo obtener el certificado escolar para el ciclo 2027",
      "medio": "Prensa oficial de Santa Cruz",
      "fecha": "06/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/salud/politicas-sanitarias/jornadas-de-salud-bucal-en-rio-gallegos-como-obtener-el-certificado-escolar-para-el-ciclo-2027"
+     "url": "https://noticias.santacruz.gob.ar/organismos/salud/politicas-sanitarias/jornadas-de-salud-bucal-en-rio-gallegos-como-obtener-el-certificado-escolar-para-el-ciclo-2027",
+     "tag": "También en El Diario Nuevo Día"
+    },
+    {
+     "titulo": "Garzón: “Estos acuerdos beneficiarán a 3.582 trabajadores municipales\"",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "06/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/garzon-estos-acuerdos-beneficiaran-a-3-582-trabajadores-municipales",
+     "tag": "También en Winfo, La Opinión Austral y 1 más"
     }
    ],
    "imagen": []
@@ -543,32 +545,40 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "La Provincia destaca el avance de la autovía de la Ruta Nacional 9, cuya finalización está prevista para 2027",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "06/11/2026",
-     "url": "https://sde.gob.ar/2026/11/06/la-provincia-destaca-el-avance-de-la-autovia-de-la-ruta-nacional-9-cuya-finalizacion-esta-prevista-para-2027/",
-     "tag": "También en Diario Panorama"
-    },
-    {
-     "titulo": "Luis Caputo atribuyó la suba al miedo de los inversores a un cambio de gobierno en 2027",
-     "medio": "El Liberal",
-     "fecha": "06/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97178/2026/11/luis-caputo-atribuyo-la-suba-al-miedo-de-los-inversores-a-un-cambio-de-gobierno-en-2027"
-    },
-    {
-     "titulo": "Principal Locales Vicegobernadores del Norte Grande regalarán al Papa una artesanía hecha por teleras de Majada Sud",
+     "titulo": "Mundo Paraguay: el Senado destituyó por unanimidad al presidente Santiago Peña En medio de una crisis política y financiera, el Congreso avanzó con la salida del mandatario. Pedro Alliana asumirá la Presidencia.",
      "medio": "Info del Estero",
      "fecha": "06/11/2026",
-     "url": "https://infodelestero.com/2026/11/06/vicegobernadores-del-norte-grande-regalaran-al-papa-una-artesania-hecha-por-teleras-de-majada",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://infodelestero.com/2026/11/06/paraguay-el-senado-destituyo-por-unanimidad-al-presidente-santiago-pena",
+     "tag": "También en Diario Panorama, El Liberal y 1 más"
+    },
+    {
+     "titulo": "León XIV habló sobre su visita a la Argentina: \"Es un homenaje al papa Francisco\"",
+     "medio": "Diario Panorama",
+     "fecha": "06/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572103/leon-xiv-hablo-sobre-visita-argentina-homenaje-al-papa-francisco",
+     "tag": "También en El Liberal, Info del Estero y 1 más"
+    },
+    {
+     "titulo": "El papa León XIV llegó a Uruguay y comienza una histórica gira por Sudamérica",
+     "medio": "Diario Panorama",
+     "fecha": "06/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572100/papa-leon-xiv-llego-uruguay-comienza-historica-gira-sudamerica",
+     "tag": "También en El Liberal, Info del Estero y 1 más"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Cristina Kirchner encabezó el ranking de imagen positiva y quedó por encima de Milei",
+     "medio": "Nuevo Diario Web",
+     "fecha": "06/11/2026",
+     "url": "https://nuevodiarioweb.com.ar/politica/cristina-kirchner-encabezo-el-ranking-de-imagen-positiva-y-quedo-por-encima-de-milei.htm"
+    }
+   ]
   },
   "Tierra del Fuego": {
    "top3": [
     {
-     "titulo": "NO HAY PLATA Martín Pérez gambetea el ajuste y lanza en Río Grande un loteo para construir viviendas con aportes privados Por Juan Pablo Gavazza",
+     "titulo": "Martín Pérez gambetea el ajuste y lanza en Río Grande un loteo para construir viviendas con aportes privados Por Juan Pablo Gavazza",
      "medio": "Letra P",
      "fecha": "06/11/2026",
      "url": "https://www.letrap.com.ar/politica/martin-perez-gambetea-el-ajuste-y-lanza-rio-grande-un-plan-viviendas-aportes-privados-n5428005"
@@ -591,23 +601,22 @@
   "Tucumán": {
    "top3": [
     {
+     "titulo": "Desde gobernador hasta concejal: ¿cuáles son los requisitos para ser candidato en Tucumán?",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "06/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1161342/politica/desde-gobernador-hasta-concejal-cuales-son-requisitos-para-ser-candidato-tucuman.html"
+    },
+    {
+     "titulo": "El PJ de Tucumán aplaza su interna hasta después de las elecciones",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "06/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1161383/politica/pj-tucuman-aplaza-interna-hasta-despues-elecciones.html"
+    },
+    {
      "titulo": "Obra pública: Tucumán reacondicionará 7,5 kilómetros de una ruta estratégica para la producción y el turismo",
      "medio": "El Destape",
      "fecha": "06/11/2026",
      "url": "https://www.eldestapeweb.com/politica/obra-publica-tucuman-reacondicionara-7-5-kilometros-ruta-estrategica-produccion-turismo-2026116132842"
-    },
-    {
-     "titulo": "La Capital se adhiere al asueto del martes por la visita del Papa y así funcionarán los servicios municipales",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "06/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1161341/politica/capital-se-adhiere-al-asueto-martes-visita-papa-asi-funcionaran-servicios-municipales.html",
-     "tag": "También en Los Primeros"
-    },
-    {
-     "titulo": "Tucumán tendrá asueto administrativo y escolar el martes por la visita del papa León XIV",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "06/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1161314/politica/tucuman-tendra-asueto-administrativo-escolar-martes-visita-papa-leon-xiv.html"
     }
    ],
    "imagen": []
@@ -639,7 +648,6 @@
   "https://todosalta.com/",
   "https://elchorrillero.com/",
   "https://elmediadortv.com.ar/",
-  "https://www.mediaticadigital.com.ar/",
   "https://www.opisantacruz.com.ar/",
   "https://agenciafe.com/",
   "https://www.ellitoral.com/",
