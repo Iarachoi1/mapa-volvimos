@@ -1,97 +1,97 @@
 {
- "actualizado": "07/11 15:26",
+ "actualizado": "07/11 16:31",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "ruta nacional 3",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "tema": "valencia c. f. - real madrid",
+   "busquedas": "2000+",
+   "nota": "El Real Madrid se despide de Mestalla, un estadio marcado por sus noches coperas",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/06/el-real-madrid-se-despide-de-mestalla-un-estadio-marcado-por-sus-noches-coperas/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "city",
+   "tema": "psg - troyes",
    "busquedas": "1000+",
-   "nota": "We are growing by the week – Norwich’s Philippe Clement after Bristol City rout",
-   "nota_url": "https://www.malverngazette.co.uk/sport/national/26708822.growing-week---norwichs-philippe-clement-bristol-city-rout/",
-   "medio": "malverngazette.co.uk",
+   "nota": "Onze de départ au Parc",
+   "nota_url": "https://www.psg.fr/content/composition-paris-saint-germain-estac-troyes-ligue-1-2026-2027/",
+   "medio": "Paris Saint-Germain",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "alcaraz",
-   "busquedas": "1000+",
-   "nota": "Casper Ruud - Carlos Alcaraz en directo | Alcaraz se adjudica el primer set de la semifinal",
-   "nota_url": "https://elpais.com/deportes/tenis/2026-11-07/casper-ruud-carlos-alcaraz-en-directo-las-semifinales-del-masters-de-paris-en-vivo.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafael camara",
-   "busquedas": "100+",
-   "nota": "Camara y la decisión de seguir en la F2 donde puede ser campeón: ¿Se puede compaginar con F1?",
-   "nota_url": "https://www.marca.com/motor/formula1/gp-brasil/2026/11/05/camara-decision-seguir-f2-campeon-compaginar-f1.html",
-   "medio": "MARCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cracovia",
+   "tema": "roma - sassuolo",
    "busquedas": "200+",
-   "nota": "Ataque en Polonia: un hombre mató a cinco personas y dejó una decena de heridos en un tiroteo en el centro turístico de Cracovia",
-   "nota_url": "https://tn.com.ar/internacional/2026/11/07/ataque-en-polonia-un-hombre-mato-a-cinco-personas-y-dejo-una-decena-de-heridos-en-un-tiroteo-en-el-centro-turistico-de-cracovia/",
+   "nota": "The giallorossi squad for Roma v Sassuolo",
+   "nota_url": "https://www.asroma.com/en/news/76189/the-giallorossi-squad-for-roma-v-sassuolo",
+   "medio": "AS Roma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "economía",
+   "busquedas": "200+",
+   "nota": "Algo de alivio en el mercado",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/06/algo-de-alivio-en-el-mercado/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adt - sporting cristal",
+   "busquedas": "100+",
+   "nota": "Tabla de posiciones del Torneo Clausura y Acumulado 2026 en la previa de ADT vs. Sporting Cristal",
+   "nota_url": "https://bolavip.com/pe/liga-1/tabla-de-posiciones-del-torneo-clausura-y-acumulado-2026-tras-adt-vs-sporting-cristal",
+   "medio": "Bolavip Perú",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "boca final",
+   "busquedas": "100+",
+   "nota": "Qué pasa si Boca gana, empata o pierde ante Defensa y Justicia en la definición del título de la tabla anual",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/07/que-pasa-si-boca-gana-empata-o-pierde-ante-defensa-y-justicia-en-la-definicion-del-titulo-de-la-tabla-anual/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "stuttgart - werder bremen",
+   "tema": "ayrton senna",
    "busquedas": "100+",
-   "nota": "VfB Stuttgart vs Werder Bremen - Prediction, where to watch, kick-off time and line-ups 07-11-2026",
-   "nota_url": "https://onefootball.com/en/betting/predictions/vfb-stuttgart-vs-werder-bremen-07-11-2026",
-   "medio": "OneFootball",
-   "relevante": false,
+   "nota": "Antonelli ya piensa en lo que viene: “Mi preparación para 2027 empieza ahora”",
+   "nota_url": "https://www.ellitoral.com/deportes/kimiantonelli-mercedes-interlagos-formula1-ayrtonsenna-sanpablo-sebastianvettel-lewishamilton-maxverstappen-bolonia_0_2IfVBH6p0R.html",
+   "medio": "El Litoral",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "red bull",
+   "tema": "meteorito",
    "busquedas": "100+",
-   "nota": "Verstappen explains why he keeps flagging gearshift issues to Red Bull",
-   "nota_url": "https://grandepremio.com/en/f1/verstappen-explains-his-gearshift-feedback-to-red-bull-im-never-satisfied/",
-   "medio": "Grande Prêmio",
+   "nota": "El meteorito hallado en el Sahara que revela cómo era Marte hace 4.100 millones de años",
+   "nota_url": "https://reconquistaradios.com.ar/a-nota/230820/el-meteorito-hallado-en-el-sahara-que-revela-como-era-marte-hace-4100-millones-de-anos",
+   "medio": "Reconquista Radios",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "gimnasia y esgrima - independiente rivadavia",
-   "busquedas": "10000+",
-   "nota": "Clausura. Se juega el clásico mendocino que tiene mucho interés para Belgrano",
-   "nota_url": "https://www.lavoz.com.ar/deportes/juega-clasico-mendocino-interes-belgrano_0_AZMsu1K1x9.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "desastre",
+   "tema": "luna llena",
    "busquedas": "100+",
-   "nota": "Entre Ríos busca homologar la emergencia agropecuaria para aliviar a los ganaderos afectados",
-   "nota_url": "https://www.cadena3.com/noticia/actualidad/entre-rios-busca-homologar-la-emergencia-agropecuaria-para-aliviar-a-los-ganaderos-afectados_610737",
-   "medio": "Cadena 3 Argentina",
+   "nota": "La Superluna de noviembre trae intensos cambios para estos tres signos",
+   "nota_url": "https://www.lmneuquen.com/espectaculos/la-superluna-noviembre-trae-intensos-cambios-estos-tres-signos-n1260293",
+   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "a que hora juega boca",
-   "busquedas": "10000+",
-   "nota": "Boca vs. Defensa y Justicia: hora, formaciones y dónde ver en vivo",
-   "nota_url": "https://www.elgrafico.com.ar/articulo/primera-division/103788/boca-vs-defensa-y-justicia-hora-formaciones-y-donde-ver-en-vivo",
-   "medio": "El Gráfico",
+   "tema": "learjet",
+   "busquedas": "200+",
+   "nota": "Audio: 911 calls reveal confusion, chaos after private jet from Austin crashed in Florida",
+   "nota_url": "https://www.yahoo.com/news/weather-news/articles/audio-911-calls-reveal-confusion-172738549.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   }

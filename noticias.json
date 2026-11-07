@@ -1,7 +1,7 @@
 {
  "semana": "7 de noviembre de 2026",
  "fecha": "2026-11-07",
- "actualizado": "07/11 11:32",
+ "actualizado": "07/11 16:31",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -13,16 +13,16 @@
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     },
     {
+     "titulo": "Guillermo Moreno asegura que el hombre “puede vivir a cerveza”",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "07/11/2026",
+     "url": "https://bardeo.news/sociedad/guillermo-moreno-asegura-que-el-hombre--puede-vivir-a-cerveza-_a6aef3cf3696ebfa450b52740"
+    },
+    {
      "titulo": "Repudian los dichos de Martín Cirio sobre los niños con discapacidad",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "07/11/2026",
      "url": "https://bardeo.news/sociedad/repudian-los-dichos-de-martin-cirio-sobre-los-ninos-con-discapacidad_a6aef2909696ebfa450b3f8b6"
-    },
-    {
-     "titulo": "Caso Lucio Dupuy: la Justicia le negó a Abigail Páez la libertad condicional",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "07/11/2026",
-     "url": "https://bardeo.news/sociedad/caso-lucio-dupuy--la-justicia-le-nego-a-abigail-paez-la-libertad-condicional_a6aef2fa5696ebfa450b46a1c"
     }
    ],
    "imagen": []
@@ -79,6 +79,13 @@
      "tag": "Política"
     },
     {
+     "titulo": "Pedro Sánchez cruzó a Milei: “No vamos a permitir que defina el socialismo”",
+     "medio": "El Destape",
+     "fecha": "07/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/pedro-sanchez-lanzo-dura-respuesta-javier-milei-no-vamos-permitir-defina-socialismo-2026117135214",
+     "tag": "Política"
+    },
+    {
      "titulo": "La Argentina que espera al Papa: el mapa de la pobreza que verá León XIV y un país bajo Milei que \"está roto y sangra\"",
      "medio": "El Destape",
      "fecha": "07/11/2026",
@@ -91,13 +98,6 @@
      "fecha": "07/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/07/en-un-clima-convulsionado-milei-se-prepara-para-recibir-al-papa-expectativas-y-temores-de-la-visita/",
      "tag": "Política"
-    },
-    {
-     "titulo": "Las lecciones de una semana que inquietan al Gobierno y un clima interno que se torna cada vez más espeso",
-     "medio": "Infobae",
-     "fecha": "07/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/07/las-lecciones-de-una-semana-que-inquietan-al-gobierno-y-un-clima-interno-que-se-torna-cada-vez-mas-espeso/",
-     "tag": "Gestión"
     }
    ],
    "imagen": []
@@ -134,10 +134,10 @@
      "url": "https://www.elancasti.com.ar/politica-y-economia/sospechan-que-caputo-revive-la-maniobra-la-era-macri-facilitar-la-fuga-los-grandes-fondos-n625588"
     },
     {
-     "titulo": "Endeudamiento en hogares Cuatro millones de argentinos llevan más de un año sin pagar sus deudas",
+     "titulo": "Reparos al verticalismo libertario Manzi, sobre LLA: \"Internamente parece que está vetado pensar\"",
      "medio": "El Ancasti",
      "fecha": "07/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/cuatro-millones-argentinos-llevan-mas-un-ano-pagar-sus-deudas-n625590"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/manzi-lla-internamente-parece-que-esta-vetado-pensar-n625611"
     }
    ],
    "imagen": []
@@ -145,10 +145,10 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "El Gobierno envió a la Legislatura el proyecto para ampliar el presupuesto: qué ministerios se llevan la mayor partida y qué cinco cargos busca sumar",
-     "medio": "ADN Sur",
+     "titulo": "El Gobierno pide autorización para emitir Letras por hasta $ 350.000 millones en 2027",
+     "medio": "Diario Jornada",
      "fecha": "07/11/2026",
-     "url": "https://www.adnsur.com.ar/economia/el-gobierno-envio-a-la-legislatura-el-proyecto-para-ampliar-el-presupuesto--que-ministerios-se-llevan-la-mayor-partida-y-que-cinco-cargos-busca-sumar_a6aee1ebb2ef0898cb87deec8"
+     "url": "https://www.diariojornada.com.ar/426681/politica/el_gobierno_pide_autorizacion_para_emitir_letras_por_hasta__350000_millones_en_2027"
     },
     {
      "titulo": "Torres supervisó el inicio de obra en las rutas 40 y 259, con una inversión de $102 mil millones",
@@ -158,23 +158,22 @@
      "tag": "También en El Chubut"
     },
     {
-     "titulo": "Los reclamos de los aliados que frenan un acuerdo con el oficialismo",
-     "medio": "Diario Jornada",
-     "fecha": "07/11/2026",
-     "url": "https://www.diariojornada.com.ar/426674/politica/los_reclamos_de_los_aliados_que_frenan_un_acuerdo_con_el_oficialismo"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Elecciones 2027 en Neuquén: mientras Figueroa define la fecha, se aceleran los armados y asoman las candidaturas",
+     "titulo": "“Chubut no puede seguir siendo una provincia que solamente extrae y exporta”: el planteo de Bowen junto a Kicillof",
      "medio": "ADN Sur",
      "fecha": "07/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/elecciones-2027-en-neuquen--mientras-figueroa-define-la-fecha--se-aceleran-los-armados-y-asoman-las-candidaturas_a6aedee252ef0898cb877c402"
+     "url": "https://www.adnsur.com.ar/politica/-chubut-no-puede-seguir-siendo-una-provincia-que-solamente-extrae-y-exporta---el-planteo-de-bowen-junto-a-kicillof_a6aef78db2ef0898cb89cc33c"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Córdoba": {
    "top3": [
+    {
+     "titulo": "Armado opositor. Juez y Bornoroni presentaron una alianza en Córdoba y lanzaron críticas al peronismo",
+     "medio": "Cadena3",
+     "fecha": "07/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/juez-y-bornoroni-presentaron-una-alianza-en-cordoba-y-lanzaron-criticas-al-peronismo_611184"
+    },
     {
      "titulo": "El Gobierno cierra otros 72 registros del automotor y hay 10 en Córdoba: cuáles son",
      "medio": "ElDoce",
@@ -186,12 +185,6 @@
      "medio": "Letra P",
      "fecha": "07/11/2026",
      "url": "https://www.letrap.com.ar/politica/la-oposicion-cordoba-esboza-una-tregua-llaryora-recibir-leon-xiv-n5428057"
-    },
-    {
-     "titulo": "Perspectiva Córdoba. El Gobierno convocó a la UEPC para discutir salarios antes de la asamblea provincial de delegados",
-     "medio": "Cadena3",
-     "fecha": "07/11/2026",
-     "url": "https://www.cadena3.com/noticia/panorama-federal/el-gobierno-convoco-a-la-uepc-para-discutir-salarios-antes-de-la-asamblea-provincial-de-delegados_611153"
     }
    ],
    "imagen": []
@@ -199,17 +192,23 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Santiago Peña fue trasladado a una sede militar tras protestas frente a su casa y citado a declarar",
+     "titulo": "Frigerio destacó el impacto económico y turístico de la Fiesta Nacional del Gurí Entrerriano: \"Tenemos que promoverla\"",
      "medio": "El Once",
      "fecha": "07/11/2026",
-     "url": "https://www.elonce.com/politica/santiago-pena-fue-trasladado-a-una-sede-militar-tras-protestas-frente-a-su-casa-y-citado-a-declarar.htm"
+     "url": "https://www.elonce.com/politica/frigerio-destaco-el-impacto-economico-y-turistico-de-la-fiesta-nacional-del-guri-entrerriano-tenemos-que-promoverla.htm",
+     "tag": "También en UNO ER"
     },
     {
-     "titulo": "Santiago Peña fue citado a indagatoria tras ser detenido y trasladado de su residencia al Regimiento Escolta Presidencial",
+     "titulo": "La visita del Papa y feriados paralizarán el Congreso durante una semana: qué proyectos están pendientes",
+     "medio": "El Once",
+     "fecha": "07/11/2026",
+     "url": "https://www.elonce.com/politica/la-visita-del-papa-y-feriados-paralizaran-el-congreso-durante-una-semana-que-proyectos-estan-pendientes.htm"
+    },
+    {
+     "titulo": "Comienza la inscripción al Registro de Mediadores Comunitarios 2027 de la Defensoría del Pueblo en Paraná",
      "medio": "AFP Digital",
      "fecha": "07/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/07/478275-santiago-pena-fue-citado-a-indagatoria-tras-ser-detenido-y-trasladado-de-su-residencia-al-regimiento-escolta-presidencial",
-     "tag": "También en Ahora"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/07/478284-comienza-la-inscripcion-al-registro-de-mediadores-comunitarios-2027-de-la-defensoria-del-pueblo-en-parana"
     }
    ],
    "imagen": []
@@ -230,10 +229,10 @@
      "tag": "También en Somos Jujuy"
     },
     {
-     "titulo": "Triunfo del peronismo en el Instituto de Seguros de Jujuy",
-     "medio": "El Tribuno",
+     "titulo": "La delegación jujeña regresa tras una semana de competencia en los Juegos Evita",
+     "medio": "Prensa oficial de Jujuy",
      "fecha": "07/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-triunfo-del-peronismo-en-el-instituto-de-seguros-de-jujuy"
+     "url": "https://prensa.jujuy.gob.ar/juegos-evita/la-delegacion-jujena-regresa-una-semana-competencia-los-juegos-evita-n125896"
     }
    ],
    "imagen": []
@@ -241,24 +240,23 @@
   "La Pampa": {
    "top3": [
     {
+     "titulo": "Caputo propuso eliminar Sellos y abrió una disputa con los gobernadores por los impuestos",
+     "medio": "El Diario de La Pampa",
+     "fecha": "07/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/82782/caputo-propuso-eliminar-sellos-y-abrio-una-disputa-con-los-gobernadores-por-los-impuestos"
+    },
+    {
      "titulo": "Un detenido por abuso sexual a una menor en Santa Rosa",
      "medio": "El Diario de La Pampa",
      "fecha": "07/11/2026",
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82765/un-detenido-por-abuso-sexual-a-una-menor-en-santa-rosa",
-     "tag": "También en La Arena, La Pampa 24"
-    },
-    {
-     "titulo": "El Gobierno admite desorden interno y posterga definiciones",
-     "medio": "La Arena",
-     "fecha": "07/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/el-gobierno-admite-desorden-interno-y-posterga-definiciones-20261178220",
      "tag": "También en La Pampa 24"
     },
     {
-     "titulo": "Todo listo para la llegada del Papa León XIV a la Argentina",
+     "titulo": "“Esperamos que esta vez Mendoza cumpla con el fallo de la Corte”",
      "medio": "La Arena",
      "fecha": "07/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/todo-listo-para-la-llegada-del-papa-leon-xiv-a-la-argentina-2026117030",
+     "url": "https://www.laarena.com.ar/la-pampa/es-insolito-que-no-se-cumpla-el-fallo-de-la-corte-suprema-202611711260",
      "tag": "También en La Pampa 24"
     }
    ],
@@ -266,6 +264,12 @@
   },
   "La Rioja": {
    "top3": [
+    {
+     "titulo": "La Rioja firmó un convenio para acceder a una biblioteca digital con más de mil leyes y proyectos provinciales",
+     "medio": "Nueva Rioja",
+     "fecha": "07/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/la-rioja-firmo-un-convenio-para-acceder-a-una-biblioteca-digital-con-mas-de-mil-leyes-y-proyectos-provinciales.htm"
+    },
     {
      "titulo": "En un clima convulsionado, Milei se prepara para recibir al Papa: expectativas y temores de la visita",
      "medio": "Nueva Rioja",
@@ -302,10 +306,16 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "La misionera Cristina Weber fue distinguida en el Senado con la Mención de Honor al Valor Científico 2026",
+     "titulo": "Presupuesto 2027: universidades, discapacidad y transporte traban el acuerdo con los aliados",
      "medio": "Primera Edición",
      "fecha": "07/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101158498/cristina-weber-cientifica-misionera-distincion-senado-parkinson/"
+     "url": "https://www.primeraedicion.com.ar/nota/101158515/presupuesto-2027-reclamos-aliados-universidades-discapacidad-transporte/"
+    },
+    {
+     "titulo": "Ante los temporales en Misiones, Passalacqua destacó el trabajo conjunto con los intendentes",
+     "medio": "Primera Edición",
+     "fecha": "07/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101158532/ante-los-temporales-en-misiones-passalacqua-destaco-el-trabajo-conjunto-con-los-intendentes/"
     }
    ],
    "imagen": []
@@ -319,16 +329,16 @@
      "url": "https://www.letrap.com.ar/politica/el-presupuesto-rolando-figueroa-emprende-un-camino-sobresaltos-la-legislatura-neuquen-n5428069"
     },
     {
-     "titulo": "Turismo y conectividad Esteves: “Hay cosas que no tenemos que naturalizar, porque son logros históricos para Neuquén”",
+     "titulo": "Fortalecimiento del salario policial La Policía del Neuquén tendrá nuevos aumentos salariales en noviembre y enero, por encima de las actualizaciones por inflación",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "07/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/07/266943-esteves-hay-cosas-que-no-tenemos-que-naturalizar-porque-son-logros-historicos-para-neuquen"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/07/266994-la-policia-del-neuquen-tendra-nuevos-aumentos-salariales-en-noviembre-y-enero-por-encima-de-las-actualizaciones-por-inflacion"
     },
     {
-     "titulo": "Soluciones habitacionales El Sauce suma nuevas viviendas a la política habitacional de la Provincia",
+     "titulo": "Neuquén Habita Figueroa y Gaido entregaron la adjudicación de más de 2.200 lotes a familias neuquinas",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "07/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/07/266919-el-sauce-suma-nuevas-viviendas-a-la-politica-habitacional-de-la-provincia"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/07/266985-figueroa-y-gaido-entregaron-la-adjudicacion-de-mas-de-2200-lotes-a-familias-neuquinas"
     }
    ],
    "imagen": []
@@ -343,16 +353,17 @@
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Weretilneck, María Emilia Soria y LLA recalculan la estrategia tras las elecciones en Bariloche Por Juan Gorosito",
+     "titulo": "\"Río Negro me dio la oportunidad de desarrollarme”: Luciana, la médica que se sumó al Hospital de Choele Choel",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "07/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62457/rio-negro-me-dio-la-oportunidad-de-desarrollarme-luciana-la-medica-que-se-sumo-al-hospital-de-choele-choel",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "TEMPORADA DE ROSCA Weretilneck, María Emilia Soria y LLA recalculan la estrategia tras las elecciones en Bariloche Por Juan Gorosito",
      "medio": "Letra P",
      "fecha": "07/11/2026",
      "url": "https://www.letrap.com.ar/politica/alberto-weretilneck-maria-emilia-soria-y-lla-recalculan-la-estrategia-las-elecciones-bariloche-n5428061"
-    },
-    {
-     "titulo": "Presupuesto 2027 de Roca: fuertes críticas, reclamos por «falta de transparencia» y un ejemplar roto en la audiencia pública",
-     "medio": "Diario Rio Negro",
-     "fecha": "07/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/presupuesto-2027-de-roca-fuertes-criticas-reclamos-por-falta-de-transparencia-y-un-ejemplar-roto-en-la-audiencia-publica-4788211/"
     }
    ],
    "imagen": []
@@ -372,11 +383,11 @@
      "url": "https://www.letrap.com.ar/politica/salta-el-saencismo-avanza-el-desguace-la-carta-organica-que-lla-quiso-imponer-la-capital-provincial-n5428030"
     },
     {
-     "titulo": "Continúa la alerta amarilla por fuertes vientos en distintas zonas de Salta",
+     "titulo": "6ª Feria Regional de Productores, Artesanos y Emprendedores en San Lorenzo",
      "medio": "Prensa oficial de Salta",
      "fecha": "07/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/continua-la-alerta-amarilla-por-fuertes-vientos-en-distintas-zonas-de-salta-111003",
-     "tag": "También en Que Pasa Salta"
+     "url": "https://www.salta.gob.ar/prensa/noticias/6-feria-regional-de-productores-artesanos-y-emprendedores-en-san-lorenzo-110923",
+     "tag": "También en El Tribuno"
     }
    ],
    "imagen": [
@@ -397,17 +408,41 @@
      "url": "https://www.tiempodesanjuan.com/politica/que-paso-detras-de-la-reunion-de-intendentes-peronistas-con-vicepresidente-de-la-caf_1793923877"
     },
     {
-     "titulo": "Frío y lloviznas, así estará el tiempo en San Juan este sábado 7 de noviembre Según el Servicio Meteorológico Nacional, la jornada alcanzará los 23°C. Por Redacción Diario de Cuyo",
+     "titulo": "Para emergencias por El Niño, San Juan firmó con un proveedor minero el aporte de carpas gigantes y grupos electrógenos",
      "medio": "Diario de Cuyo",
      "fecha": "07/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/san-juan/frio-y-lloviznas-asi-estara-el-tiempo-san-juan-este-sabado-7-noviembre-n6587910",
-     "tag": "También en Tiempo de San Juan"
+     "url": "https://www.diariodecuyo.com.ar/politica/para-emergencias-el-nino-san-juan-firmo-un-proveedor-minero-el-aporte-carpas-gigantes-y-grupos-electrogenos-n6587921",
+     "tag": "También en Huarpe"
     },
     {
-     "titulo": "San Juan abre la consulta ambiental por el proyecto Sayanca en Iglesia",
+     "titulo": "Frente a más de 5.300 causas anuales, San Juan debate dos propuestas normativas para prevenir estafas virtuales",
+     "medio": "Tiempo de San Juan",
+     "fecha": "07/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/frente-a-mas-de-5-300-causas-anuales-san-juan-debate-dos-propuestas-normativas-para-prevenir-estafas-virtuales_1794018120"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "La Libertad Avanza reestructura su juventud en San Juan por la reeleccion 2027",
      "medio": "Huarpe",
      "fecha": "07/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/mineria-abre-la-consulta-publica-por-el-proyecto-sayanca-de-fortescue-en-iglesia-20261178160"
+     "url": "https://www.diariohuarpe.com/nota/la-libertad-avanza-reestructura-su-juventud-en-san-juan-por-la-reeleccion-2027-20261171340"
+    }
+   ]
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Esta semana, el Gobierno entregó 63 casas y puso en marcha la construcción de otras 270 viviendas",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "07/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/07/1229768-esta-semana-el-gobierno-entrego-63-casas-y-puso-en-marcha-la-construccion-de-otras-270-viviendas/"
+    },
+    {
+     "titulo": "“Esto es muy importante porque el gobierno está trabajando en conjunto con nosotros”",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "07/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/07/1230017-esto-es-muy-importante-porque-el-gobierno-esta-trabajando-en-conjunto-con-nosotros/"
     }
    ],
    "imagen": []
@@ -428,10 +463,11 @@
      "url": "https://www.eldiarionuevodia.com.ar/nacionales/presupuesto-2027-los-reclamos-de-los-aliados-que-frenan-un-acuerdo-con-el-oficialismo-2891/"
     },
     {
-     "titulo": "Luis Caputo atribuyó la suba del riesgo país al temor a una posible derrota de Javier Milei en 2027",
-     "medio": "El Diario Nuevo Día",
+     "titulo": "Georgion sobre la Ley Penal Juvenil: “El Estado debe prevenir, acompañar y articular\"",
+     "medio": "Prensa oficial de Santa Cruz",
      "fecha": "07/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/nacionales/luis-caputo-atribuyo-la-suba-del-riesgo-pais-al-temor-a-una-posible-derrota-de-javier-milei-en-2027-2680/"
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/georgion-sobre-la-ley-penal-juvenil-el-estado-debe-prevenir-acompanar-y-articular",
+     "tag": "También en Tiempo Sur"
     }
    ],
    "imagen": []
@@ -452,10 +488,11 @@
      "tag": "También en UNO - SF"
     },
     {
-     "titulo": "Entrevista en AIRE Elecciones en Estados Unidos: ¿un reacomodamiento duradero o voto castigo a Donald Trump?",
-     "medio": "Aire",
+     "titulo": "El Niño: Santa Fe aplicó más de 97 mil dosis de vacunas a equipos que podrían trabajar en una emergencia hídrica",
+     "medio": "Rosario3",
      "fecha": "07/11/2026",
-     "url": "https://www.airedesantafe.com.ar/actualidad/elecciones-estados-unidos-un-reacomodamiento-duradero-o-voto-castigo-donald-trump-n675660"
+     "url": "https://www.rosario3.com/informaciongeneral/el-nino-santa-fe-aplico-mas-de-97-mil-dosis-de-vacunas-a-equipos-que-podrian-trabajar-en-una-emergencia-hidrica-20261107-0013.html",
+     "tag": "También en UNO - SF"
     }
    ],
    "imagen": []
@@ -463,24 +500,23 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Fernández: La intendente Yanina Iturre presenció el 3° Remate Anual \"Los Brangus Santiagueños\"",
+     "titulo": "Santiago del Estero le regalará al Papa León XIV un rosario artesanal que honra a Mama Antula",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "07/11/2026",
+     "url": "https://sde.gob.ar/2026/11/07/santiago-del-estero-le-regalara-al-papa-leon-xiv-un-rosario-artesanal-que-honra-a-mama-antula/",
+     "tag": "También en Diario Panorama, El Liberal y 2 más"
+    },
+    {
+     "titulo": "Presupuesto 2027: universidades, transporte y discapacidad traban el acuerdo entre La Libertad Avanza y los dialoguistas",
      "medio": "El Liberal",
      "fecha": "07/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97252/2026/11/fernandez--la-intendente-yanina-iturre-presencio-el-3�-remate-anual-los-brangus-santiaguenos",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://www.elliberal.com.ar/nota/97298/2026/11/presupuesto-2027--universidades-transporte-y-discapacidad-traban-el-acuerdo-entre-la-libertad-avanza-y-los-dialoguistas"
     },
     {
      "titulo": "Histórica visita papal: Milei recibe a León XIV en medio de la tensión con el PRO y la interna oficialista",
      "medio": "El Liberal",
      "fecha": "07/11/2026",
      "url": "https://www.elliberal.com.ar/nota/97283/2026/11/historica-visita-papal--milei-recibe-a-leon-xiv-en-medio-de-la-tension-con-el-pro-y-la-interna-oficialista"
-    },
-    {
-     "titulo": "Boca, Argentinos y Rosario Central definen al campeón de la tabla anual: qué necesita cada uno",
-     "medio": "Diario Panorama",
-     "fecha": "07/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572167/boca-argentinos-rosario-central-definen-al-campeon-tabla-anual-necesita-cada-uno",
-     "tag": "También en El Liberal, Info del Estero"
     }
    ],
    "imagen": []
@@ -488,22 +524,22 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Milei recibe este domingo al papa León XIV cruzado por la tensión interna en La Libertad Avanza y el PRO",
-     "medio": "Los Primeros",
-     "fecha": "07/11/2026",
-     "url": "https://www.losprimeros.tv/politica/milei-recibe-este-domingo-al-papa-leon-xiv-cruzado-por-la-tension-interna-en-la-libertad-avanza-y-el-pro_a6aef1d1c696ebfa450b378e8"
-    },
-    {
-     "titulo": "El gobernador de Catamarca anticipó que eliminará el impuesto de Sellos",
-     "medio": "Los Primeros",
-     "fecha": "07/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-gobernador-de-catamarca-anticipo-que-eliminara-el-impuesto-de-sellos_a6aeef525696ebfa450b27690"
-    },
-    {
      "titulo": "Bussi quiere aprovechar la dispersión opositora en Tucumán y competir una vez más por la gobernación Por Lucio Di Giuseppe",
      "medio": "Letra P",
      "fecha": "07/11/2026",
      "url": "https://www.letrap.com.ar/politica/ricardo-bussi-quiere-aprovechar-la-dispersion-opositora-tucuman-y-competir-una-vez-mas-la-gobernacion-n5428052"
+    },
+    {
+     "titulo": "Sesión en la Legislatura: el tema principal será el tratamiento de pliegos judiciales",
+     "medio": "LV12",
+     "fecha": "07/11/2026",
+     "url": "https://www.lv12.com.ar/legislatura/sesion-la-legislatura-el-tema-principal-sera-el-tratamiento-pliegos-judiciales-n206303"
+    },
+    {
+     "titulo": "Otro escándalo en el Gobierno: Sebastián Pareja, el \"otro Adorni\" bajo la lupa patrimonial",
+     "medio": "Los Primeros",
+     "fecha": "07/11/2026",
+     "url": "https://www.losprimeros.tv/politica/otro-escandalo-en-el-gobierno--sebastian-pareja--el--otro-adorni--bajo-la-lupa-patrimonial_a6aef3a73696ebfa450b50889"
     }
    ],
    "imagen": []
