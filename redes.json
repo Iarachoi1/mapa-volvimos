@@ -1,13 +1,22 @@
 {
- "actualizado": "07/11 05:38",
+ "actualizado": "07/11 06:35",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "jubilación",
+   "busquedas": "1000+",
+   "nota": "Jubilación anticipada: Sandra Pettovello respalda el Decreto 1852/1975 y ANSES permite retirarse a los 50 años",
+   "nota_url": "https://www.minutouno.com/sociedad/jubilacion-anticipada-sandra-pettovello-respalda-el-decreto-18521975-y-anses-permite-retirarse-los-50-anos-n6341678",
+   "medio": "MinutoUno",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "aguinaldo",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Confirmado por Milei, los jubilados con moratoria ya tienen fechas de cobro del aguinaldo",
    "nota_url": "https://www.cronica.com.ar/sociedad/confirmado-por-milei-los-jubilados-con-moratoria-ya-tienen-fechas-de-cobro-del-aguinaldo/",
    "medio": "Crónica",
@@ -26,9 +35,9 @@
   {
    "tema": "xbox",
    "busquedas": "100+",
-   "nota": "An Alligator Swallowed an XBOX Series X – You Can Win It",
-   "nota_url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/",
-   "medio": "XBOX Wire",
+   "nota": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
+   "nota_url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
+   "medio": "Kotaku",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +60,11 @@
    "temas": []
   },
   {
-   "tema": "papa león xiv uruguay",
-   "busquedas": "5000+",
-   "nota": "Las revelaciones de León XIV a 10.000 metros de altura: Francisco, su salud y el voto que hizo historia",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/las-revelaciones-de-leon-xiv-a-10000-metros-de-altura-francisco-su-salud-y-el-voto-que-hizo-historia-nid06112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "lakers - trail blazers",
    "busquedas": "2000+",
-   "nota": "Luka Dončić dazzles with season-high 53 points vs. Blazers",
-   "nota_url": "https://www.nba.com/watch/video/luka-doncic-dazzles-with-53-points-vs-blazers",
-   "medio": "NBA.com",
+   "nota": "NBA: Doncic's 53 points lift Lakers as Cavs top Sixers in James' return",
+   "nota_url": "https://www.abs-cbn.com/sports/basketball/2026/11/7/nba-doncic-s-53-points-lift-lakers-as-cavs-top-sixers-in-james-return-1543",
+   "medio": "ABS-CBN",
    "relevante": false,
    "temas": []
   },
