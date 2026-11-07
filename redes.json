@@ -1,43 +1,43 @@
 {
- "actualizado": "07/11 04:48",
+ "actualizado": "07/11 05:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "clima posadas",
+   "tema": "aguinaldo",
    "busquedas": "100+",
-   "nota": "Emiten alerta naranja por tormentas para este sábado en Misiones",
-   "nota_url": "https://www.elterritorio.com.ar/noticias/2026/11/06/925581-emiten-alerta-naranja-por-tormentas-para-este-sabado-en-misiones",
-   "medio": "El Territorio",
-   "relevante": false,
+   "nota": "Confirmado por Milei, los jubilados con moratoria ya tienen fechas de cobro del aguinaldo",
+   "nota_url": "https://www.cronica.com.ar/sociedad/confirmado-por-milei-los-jubilados-con-moratoria-ya-tienen-fechas-de-cobro-del-aguinaldo/",
+   "medio": "Crónica",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "lakers",
-   "busquedas": "500+",
-   "nota": "Luka Doncic pours in 53 as Lakers rally past Blazers",
-   "nota_url": "https://www.reuters.com/sports/basketball/luka-doncic-pours-53-lakers-rally-past-blazers--flm-2026-11-07/",
-   "medio": "Reuters",
+   "tema": "clima posadas",
+   "busquedas": "100+",
+   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este viernes 6 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-viernes-6-noviembre-2026_0_YSiTULNkv8.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "xbox",
    "busquedas": "100+",
-   "nota": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
-   "nota_url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
-   "medio": "Kotaku",
+   "nota": "An Alligator Swallowed an XBOX Series X – You Can Win It",
+   "nota_url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/",
+   "medio": "XBOX Wire",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima tucuman",
    "busquedas": "500+",
-   "nota": "Clima en Tucumán: cielo claro y calor moderado para este viernes 6 de noviembre",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/06/clima-en-tucuman-hoy-viernes-6-de-noviembre-calor-intenso-y-algo-de-nubes/",
-   "medio": "TN",
+   "nota": "Se aproximan tormentas y vientos para este viernes 6 de noviembre: se esperan lluvias intensas y ráfagas de viento que pueden superar los 110 km/h en San Luis",
+   "nota_url": "https://www.cronista.com/informacion-gral/se-aproximan-tormentas-y-vientos-para-este-viernes-6-de-noviembre-se-esperan-lluvias-intensas-y-rafagas-de-viento-que-pueden-superar-los-110-kmh-en-san-luis/",
+   "medio": "El Cronista",
    "relevante": false,
    "temas": []
   },
@@ -52,7 +52,7 @@
   },
   {
    "tema": "papa león xiv uruguay",
-   "busquedas": "10000+",
+   "busquedas": "5000+",
    "nota": "Las revelaciones de León XIV a 10.000 metros de altura: Francisco, su salud y el voto que hizo historia",
    "nota_url": "https://www.lanacion.com.ar/el-mundo/las-revelaciones-de-leon-xiv-a-10000-metros-de-altura-francisco-su-salud-y-el-voto-que-hizo-historia-nid06112026/",
    "medio": "La Nación",
@@ -61,19 +61,10 @@
   },
   {
    "tema": "lakers - trail blazers",
-   "busquedas": "1000+",
-   "nota": "Luka Doncic and the Lakers look to avenge home loss against the surging Portland Trail Blazers",
-   "nota_url": "https://www.foxnews.com/outkick-betting/luka-doncic-lakers-avenge-home-loss-surging-portland-trail-blazers",
-   "medio": "Fox News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de banfield contra atlético tucumán",
-   "busquedas": "50000+",
-   "nota": "Sanción de APREVIDE para el partido ante Atl. Tucumán",
-   "nota_url": "https://clubabanfield.org/sancion-de-aprevide-para-el-partido-ante-atl-tucuman/",
-   "medio": "Club Atlético Banfield - Sitio Oficial",
+   "busquedas": "2000+",
+   "nota": "Luka Dončić dazzles with season-high 53 points vs. Blazers",
+   "nota_url": "https://www.nba.com/watch/video/luka-doncic-dazzles-with-53-points-vs-blazers",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
@@ -89,9 +80,18 @@
   {
    "tema": "kings - spurs",
    "busquedas": "1000+",
-   "nota": "Victor Wembanyama has 30/14 in 26 minutes vs Kings",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-07/victor-wembanyama-has-30-14-in-26-minutes-vs-kings",
-   "medio": "NBC Sports",
+   "nota": "Game Recap: Spurs 124, Kings 109 (Nov. 6)",
+   "nota_url": "https://www.nba.com/watch/video/game-recap-spurs-124-kings-109-nov-6",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miguel merentiel",
+   "busquedas": "200+",
+   "nota": "Cruce entre capitanes de Boca: Merentiel elogió a Paredes y lo hizo emocionar hasta las lágrimas",
+   "nota_url": "https://bolavip.com/ar/boca/cruce-entre-capitanes-de-boca-merentiel-elogio-a-paredes-y-lo-hizo-emocionar-hasta-las-lagrimas",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   }
