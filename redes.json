@@ -1,5 +1,5 @@
 {
- "actualizado": "07/11 03:39",
+ "actualizado": "07/11 04:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -8,27 +8,27 @@
   {
    "tema": "clima posadas",
    "busquedas": "100+",
-   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este viernes 6 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-viernes-6-noviembre-2026_0_YSiTULNkv8.html",
-   "medio": "Clarin.com",
+   "nota": "Emiten alerta naranja por tormentas para este sábado en Misiones",
+   "nota_url": "https://www.elterritorio.com.ar/noticias/2026/11/06/925581-emiten-alerta-naranja-por-tormentas-para-este-sabado-en-misiones",
+   "medio": "El Territorio",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lakers",
-   "busquedas": "200+",
-   "nota": "BLAZERS POSTCAST: Lakers-Blazers Reaction",
-   "nota_url": "https://www.centraloregondaily.com/sports/portland_trail_blazers/blazers-postcast-lakers-blazers-reaction/video_556c68cd-7745-5aa6-85bc-49da70c7dbdb.html",
-   "medio": "Central Oregon Daily",
+   "busquedas": "500+",
+   "nota": "Luka Doncic pours in 53 as Lakers rally past Blazers",
+   "nota_url": "https://www.reuters.com/sports/basketball/luka-doncic-pours-53-lakers-rally-past-blazers--flm-2026-11-07/",
+   "medio": "Reuters",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "xbox",
    "busquedas": "100+",
-   "nota": "🐊 Game over, alligator",
-   "nota_url": "https://www.komando.com/news/devices/game-over-alligator/",
-   "medio": "Komando.com",
+   "nota": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
+   "nota_url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847",
+   "medio": "Kotaku",
    "relevante": false,
    "temas": []
   },
@@ -62,9 +62,18 @@
   {
    "tema": "lakers - trail blazers",
    "busquedas": "1000+",
-   "nota": "Luka Doncic scores 53 as Lakers avenge loss to Trail Blazers",
-   "nota_url": "https://www.latimes.com/sports/lakers/story/2026-11-06/luke-doncic-scores-53-as-lakers-avenge-loss-trail-blazers",
-   "medio": "Los Angeles Times",
+   "nota": "Luka Doncic and the Lakers look to avenge home loss against the surging Portland Trail Blazers",
+   "nota_url": "https://www.foxnews.com/outkick-betting/luka-doncic-lakers-avenge-home-loss-surging-portland-trail-blazers",
+   "medio": "Fox News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de banfield contra atlético tucumán",
+   "busquedas": "50000+",
+   "nota": "Sanción de APREVIDE para el partido ante Atl. Tucumán",
+   "nota_url": "https://clubabanfield.org/sancion-de-aprevide-para-el-partido-ante-atl-tucuman/",
+   "medio": "Club Atlético Banfield - Sitio Oficial",
    "relevante": false,
    "temas": []
   },
@@ -80,18 +89,9 @@
   {
    "tema": "kings - spurs",
    "busquedas": "1000+",
-   "nota": "Kings - Spurs LIVE. NBA latest updates",
-   "nota_url": "https://www.marca.com/en/basket/nba/kings-spurs/2026/11/07/02_0202_20261107_7429_7430-live.html",
-   "medio": "MARCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miguel merentiel",
-   "busquedas": "200+",
-   "nota": "Cruce entre capitanes de Boca: Merentiel elogió a Paredes y lo hizo emocionar hasta las lágrimas",
-   "nota_url": "https://bolavip.com/ar/boca/cruce-entre-capitanes-de-boca-merentiel-elogio-a-paredes-y-lo-hizo-emocionar-hasta-las-lagrimas",
-   "medio": "Bolavip Argentina",
+   "nota": "Victor Wembanyama has 30/14 in 26 minutes vs Kings",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-07/victor-wembanyama-has-30-14-in-26-minutes-vs-kings",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   }
