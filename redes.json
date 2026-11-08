@@ -1,16 +1,25 @@
 {
- "actualizado": "08/11 02:37",
+ "actualizado": "08/11 03:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "richard lloyd",
+   "busquedas": "100+",
+   "nota": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+   "nota_url": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "microsoft",
    "busquedas": "100+",
-   "nota": "AI Backlash Spreads Across Europe With Data Center Protests",
-   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
-   "medio": "Bloomberg.com",
+   "nota": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away",
+   "nota_url": "https://247wallst.com/investing/2026/11/06/a-retiree-who-bought-1000-oracle-shares-at-39-just-watched-microsoft-walk-away/",
+   "medio": "24/7 Wall St.",
    "relevante": false,
    "temas": []
   },
@@ -20,15 +29,6 @@
    "nota": "Waldo Cortés-Acosta y Johnny Walker colisionan en un salvaje evento estelar en el UFC Vegas 124",
    "nota_url": "https://www.mundodeportivo.com/ufc/20261107/1004248123/waldo-cortes-acosta-johnny-walker-colisionan-salvaje-evento-estelar-ufc-vegas-124.html",
    "medio": "Mundo Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sorteo loto plus",
-   "busquedas": "2000+",
-   "nota": "Loto Plus hoy: los números ganadores del sorteo 3.933 del sábado 7 de noviembre de 2026",
-   "nota_url": "https://www.lavoz.com.ar/servicios/loto-plus-hoy-numeros-ganadores-sorteo-3933-sabado-7-noviembre-2026_0_8zQUs53FC1.html",
-   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
@@ -62,9 +62,9 @@
   {
    "tema": "trail blazers - spurs",
    "busquedas": "1000+",
-   "nota": "Trail Blazers focus on next heavyweights: Victor Wembanyama and Spurs",
-   "nota_url": "https://www.fresnobee.com/sports/nba/article317974011.html",
-   "medio": "Fresno Bee",
+   "nota": "Joe Freeman’s 3 takeaways from Trail Blazers’ lopsided loss to Spurs",
+   "nota_url": "https://www.oregonlive.com/blazers/2026/11/joe-freemans-3-takeaways-from-trail-blazers-lopsided-loss-to-spurs.html",
+   "medio": "OregonLive.com",
    "relevante": false,
    "temas": []
   },
