@@ -1,31 +1,76 @@
 {
- "actualizado": "08/11 07:29",
+ "actualizado": "08/11 08:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "gobierno",
+   "tema": "napoli - lazio",
+   "busquedas": "200+",
+   "nota": "Il triste arrivo del pullman del Napoli al Maradona tra indifferenza e qualche fischio",
+   "nota_url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/08-152463387/il_triste_arrivo_del_pullman_del_napoli_al_maradona_tra_indifferenza_e_qualche_fischio",
+   "medio": "Corriere dello Sport",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos sainz jr.",
    "busquedas": "100+",
-   "nota": "Un voto árabe que muestra los límites de la democracia israelí",
-   "nota_url": "https://nuso.org/articulo/un-voto-arabe-que-muestra-los-limites-de-la-democracia-israeli/",
-   "medio": "Nueva Sociedad",
+   "nota": "Colapinto sufrió bajo la lluvia en Interlagos, largará 15° y apuesta a una remontada: “Vamos a mejorar el auto”",
+   "nota_url": "https://www.clarin.com/deportes/colapinto-sufrio-lluvia-interlagos-largara-15-apuesta-remontada-vamos-mejorar-auto_0_9rjv2RFNOe.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético independiente",
+   "busquedas": "100+",
+   "nota": "El Rojo se metió en los playoff y ya tiene rival",
+   "nota_url": "https://www.eldia.com/deportes/el-rojo-se-metio-en-los-playoff-y-ya-tiene-rival-deportes_1794119510",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cristian jaime",
+   "busquedas": "100+",
+   "nota": "River perdió la posibilidad de recuperar a una joya en diciembre: vuelve en 2027",
+   "nota_url": "https://elintransigente.com/2026/11/06/river-cristian-jaime-repesca-360-minutos-penarol-mediados-2027/",
+   "medio": "El Intransigente",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "f1 clasificación brasil",
-   "busquedas": "20000+",
-   "nota": "F1: hora y dónde ver en vivo la carrera de Colapinto en el GP de Brasil",
-   "nota_url": "https://www.tycsports.com/automovilismo/f1-hora-y-donde-ver-en-vivo-la-carrera-de-colapinto-en-el-gp-de-brasil-id770651.html",
+   "tema": "papa león xiv",
+   "busquedas": "10000+",
+   "nota": "La fuerte denuncia del Papa sobre los contrastes de Uruguay, “un país rico en recursos”",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/la-fuerte-denuncia-del-papa-sobre-los-contrastes-de-uruguay-un-pais-rico-en-recursos-nid07112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gastón ávila",
+   "busquedas": "100+",
+   "nota": "Tarjeta roja en Rosario Central: Gastón Ávila es expulsado",
+   "nota_url": "https://www.tycsports.com/video/liga-profesional-de-futbol/tarjeta-roja-en-rosario-central-gaston-avila-es-expulsado-id1003634.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "bill gates",
+   "busquedas": "100+",
+   "nota": "Bill Gates believes a billionaire's tax is the only option in the age of AI—and 'whatever's left over' can be used as a philanthropic safety net",
+   "nota_url": "https://fortune.com/2026/11/06/bill-gates-tax-wealthy-billionaires-ai-inequality/",
+   "medio": "Fortune",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "la nación",
-   "busquedas": "200+",
+   "busquedas": "2000+",
    "nota": "",
    "nota_url": "",
    "medio": "",
@@ -33,65 +78,20 @@
    "temas": []
   },
   {
-   "tema": "justicia",
-   "busquedas": "500+",
-   "nota": "Se conoció qué les dijo Mauro Icardi a los policías durante el escándalo con Wanda Nara en su casa",
-   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/07/se-conocio-que-les-dijo-mauro-icardi-a-los-policias-durante-el-escandalo-con-wanda-nara-en-su-casa/",
-   "medio": "eltrecetv",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "asignación universal por hijo",
-   "busquedas": "1000+",
-   "nota": "AUH de ANSES: cuál es el nuevo tope de ingresos para cobrar en noviembre de 2026",
-   "nota_url": "https://elnueve.com/servicios/anses/auh-de-anses-cual-es-el-nuevo-tope-de-ingresos-para-cobrar-en-noviembre-de-2026_20261105/",
-   "medio": "Canal 9 Televida",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "herencia",
-   "busquedas": "200+",
-   "nota": "Carlos III, profundamente disgustado con el Príncipe Guillermo por una decisión que rompe con su legado",
-   "nota_url": "https://www.abc.es/gente/carlos-iii-profundamente-disgustado-principe-guillermo-decision-20261103122432-nt.html",
-   "medio": "ABC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el niño",
+   "tema": "hernán drago",
    "busquedas": "2000+",
-   "nota": "El Niño podría tener un segundo pico en junio de 2027, algo nunca visto: qué significa para el campo",
-   "nota_url": "https://news.agrofy.com.ar/noticia/216961/nino-podria-tener-segundo-pico-junio-2027-algo-nunca-visto-significa-campo",
-   "medio": "Agrofy News",
-   "relevante": true,
+   "nota": "La profunda reflexión de Hernán Drago en PH, Podemos hablar sobre el amor: “Voy a estar solo el resto de mi vida”",
+   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/7/la-profunda-reflexion-de-hernan-drago-en-ph-podemos-hablar-sobre-el-amor-voy-a-estar-solo-el-resto-de-mi-vida-266080.html",
+   "medio": "Pronto",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "richard lloyd",
+   "tema": "justicia",
    "busquedas": "1000+",
-   "nota": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
-   "nota_url": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "microsoft",
-   "busquedas": "100+",
-   "nota": "Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday",
-   "nota_url": "https://www.theguardian.com/news/gallery/2026/nov/06/datacentre-protest-giant-statue-pope-leo-photos-of-the-day-friday",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "waldo cortés-acosta",
-   "busquedas": "100+",
-   "nota": "Johnny Walker noquea a Waldo Cortés-Acosta y se reinventa en el peso pesado de la UFC",
-   "nota_url": "https://www.marca.com/combates-ufc/2026/11/08/johnny-walker-noquea-waldo-cortes-acosta-reinventa-peso-pesado-ufc.html",
-   "medio": "MARCA",
+   "nota": "Mauro Icardi recibió una perimetral por 45 días: Wanda Nara pidió Cámara Gesell y evalúan detenerlo",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/07/mauro-icardi-recibio-una-perimetral-por-45-dias-wanda-nara-pidio-camara-gesell-y-evaluan-detenerlo/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   }
