@@ -1,5 +1,5 @@
 {
- "actualizado": "08/11 03:40",
+ "actualizado": "08/11 04:49",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -7,7 +7,7 @@
  "google": [
   {
    "tema": "richard lloyd",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
    "nota_url": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
    "medio": "The Guardian",
@@ -17,27 +17,36 @@
   {
    "tema": "microsoft",
    "busquedas": "100+",
-   "nota": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away",
-   "nota_url": "https://247wallst.com/investing/2026/11/06/a-retiree-who-bought-1000-oracle-shares-at-39-just-watched-microsoft-walk-away/",
-   "medio": "24/7 Wall St.",
+   "nota": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+   "nota_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+   "medio": "Reuters",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "waldo cortés-acosta",
    "busquedas": "100+",
-   "nota": "Waldo Cortés-Acosta y Johnny Walker colisionan en un salvaje evento estelar en el UFC Vegas 124",
-   "nota_url": "https://www.mundodeportivo.com/ufc/20261107/1004248123/waldo-cortes-acosta-johnny-walker-colisionan-salvaje-evento-estelar-ufc-vegas-124.html",
-   "medio": "Mundo Deportivo",
+   "nota": "Cortes Acosta vs Walker: horario, cartelera completa y dónde ver EN VIVO UFC Vegas 124",
+   "nota_url": "https://www.gq.com.mx/articulo/cortes-acosta-vs-walker-horario-donde-ver-en-vivo-ufc-07-11-2026",
+   "medio": "GQ México y Latinoamérica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga mx",
+   "busquedas": "100+",
+   "nota": "¿Por qué se anuló el gol de Pumas ante América?",
+   "nota_url": "https://www.espn.com.ar/futbol/mexico/nota/_/id/17492788/pumas-vs-america-por-que-anularon-gol-robert-morales",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "johnny walker",
    "busquedas": "200+",
-   "nota": "Johnny Walker's second act: How the eccentric knockout artist is resetting himself as a heavyweight",
-   "nota_url": "https://www.cbssports.com/ufc/news/johnny-walker-heavyweight-ufc-fight-night-knockouts/",
-   "medio": "CBS Sports",
+   "nota": "UFC Vegas 124 post-fight show: Reaction to Johnny Walker’s knockout in wild main event",
+   "nota_url": "https://sports.yahoo.com/articles/ufc-vegas-124-post-fight-055726183.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -53,18 +62,18 @@
   {
    "tema": "tatiana suarez",
    "busquedas": "200+",
-   "nota": "UFC Fight Night 293: Tatiana Suarez post-fight interview",
-   "nota_url": "https://www.usatoday.com/videos/sports/ufc/2026/11/07/ufc-fight-night-293-tatiana-suarez-post-fight-interview/92673989007/",
-   "medio": "USA Today",
+   "nota": "UFC Vegas 124 live blog: Tatiana Suarez vs. Virna Jandiroba",
+   "nota_url": "https://www.mmafighting.com/ufc/519894/ufc-vegas-124-live-blog-tatiana-suarez-vs-virna-jandiroba",
+   "medio": "MMA Fighting",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "trail blazers - spurs",
    "busquedas": "1000+",
-   "nota": "Joe Freeman’s 3 takeaways from Trail Blazers’ lopsided loss to Spurs",
-   "nota_url": "https://www.oregonlive.com/blazers/2026/11/joe-freemans-3-takeaways-from-trail-blazers-lopsided-loss-to-spurs.html",
-   "medio": "OregonLive.com",
+   "nota": "NBA Highlights: Spurs 125, Trail Blazers 103",
+   "nota_url": "https://www.sportsnet.ca/nba/video/nba-highlights-spurs-125-trail-blazers-103/",
+   "medio": "Sportsnet.ca",
    "relevante": false,
    "temas": []
   },
@@ -72,7 +81,7 @@
    "tema": "suns - rockets",
    "busquedas": "200+",
    "nota": "11/07/2026 Suns vs Rockets Game Preview",
-   "nota_url": "https://www.nba.com/suns/news/11-07-2026-suns-vs-rockets-game-preview",
+   "nota_url": "https://suns.com/news/11-07-2026-suns-vs-rockets-game-preview",
    "medio": "NBA.com",
    "relevante": false,
    "temas": []
@@ -83,15 +92,6 @@
    "nota": "Muere el cineasta chileno Sebastián Lelio, ganador del Óscar por \"Una mujer fantástica\"",
    "nota_url": "https://www.dw.com/es/muere-el-cineasta-chileno-sebasti%C3%A1n-lelio-ganador-del-%C3%B3scar-por-una-mujer-fant%C3%A1stica/a-79882768",
    "medio": "DW.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "julieta ortega",
-   "busquedas": "100+",
-   "nota": "Luciana Salazar festejó su cumpleaños rodeada de amigos: quiénes fueron y el sorpresivo regalo que recibió",
-   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/7/luciana-salazar-festejo-su-cumpleanos-rodeada-de-amigos-quienes-fueron-y-el-sorpresivo-regalo-que-recibio-266076.html",
-   "medio": "Pronto",
    "relevante": false,
    "temas": []
   }
