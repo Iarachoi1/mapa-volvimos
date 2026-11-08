@@ -1,97 +1,99 @@
 {
- "actualizado": "08/11 17:24",
+ "actualizado": "08/11 18:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "bulls - 76ers",
-   "busquedas": "200+",
-   "nota": "Sixers visit Bulls for second meeting in Sunday matinee",
-   "nota_url": "https://sports.yahoo.com/articles/sixers-visit-bulls-second-meeting-131432484.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "robert prevost",
-   "busquedas": "100+",
-   "nota": "Un prestigioso biógrafo del Papa Francisco hablará de su legado ante la visita de León XIV",
-   "nota_url": "https://www.eldia.com/informacion-general/un-prestigioso-biografo-del-papa-francisco-hablara-de-su-legado-ante-la-visita-de-leon-xiv-informacion-general_1793709900",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atletico",
+   "tema": "nunciatura",
    "busquedas": "1000+",
-   "nota": "La Liga 2026: Follow Atletico Madrid vs Barcelona live on Foot Africa!",
-   "nota_url": "https://foot-africa.com/en/news/la-liga-2026-follow-atletico-madrid-vs-barcelona-live-on-foot-africa-1413776/",
-   "medio": "Foot-Africa.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estrela amadora - benfica",
-   "busquedas": "200+",
-   "nota": "Conheça as escolhas de Marco Silva para o jogo contra o E. Amadora",
-   "nota_url": "https://www.cmjornal.pt/desporto/futebol/detalhe/conheca-as-escolhas-de-marco-silva-para-o-jogo-contra-o-e-amadora",
-   "medio": "Correio da Manhã",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juventud antoniana",
-   "busquedas": "100+",
-   "nota": "Cipolletti visita a Juventud Antoniana y empieza el camino de la revancha, rumbo al ascenso",
-   "nota_url": "https://www.rionegro.com.ar/deportes/cipolletti-visita-a-juventud-antoniana-y-empieza-el-camino-de-la-revancha-rumbo-al-ascenso-4789197/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de villarreal club de fútbol contra getafe cf",
-   "busquedas": "200+",
-   "nota": "Villarreal - Getafe LIVE. LALIGA EA Sports latest updates",
-   "nota_url": "https://www.marca.com/en/soccer/laliga-ea-sports/villarreal-getafe/2026/11/08/01_0101_20261108_449_1450-live.html",
-   "medio": "MARCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "donde nacio el papa leon xiv",
-   "busquedas": "500+",
-   "nota": "El camino que condujo a “Bobby Prevo” a ser León XIV: de jugar a dar misa con golosinas a fascinarse con el Concilio Vaticano II",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/08/el-camino-que-condujo-a-bobby-prevo-a-ser-leon-xiv-de-jugar-a-dar-misa-con-golosinas-a-fascinarse-con-el-concilio-vaticano-ii/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dólar blue hoy",
-   "busquedas": "100+",
-   "nota": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 7 de noviembre de 2026",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/06/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-7-de-noviembre-de-2026/",
+   "nota": "El Papa afirmó en Uruguay que ningún niño debería irse a dormir sin comer",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/08/el-papa-afirmo-en-uruguay-que-ningun-nino-de-este-pais-deberia-irse-a-dormir-sin-comer/",
    "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tn",
-   "busquedas": "500+",
-   "nota": "Volcó una camioneta con monjas en General Pinto que iban a ver al Papa León XIV",
-   "nota_url": "https://lu17.com/contenido/156852/volco-una-camioneta-con-monjas-en-general-pinto-que-iban-a-ver-al-papa-leon-xiv",
-   "medio": "LA17",
+   "tema": "bono",
+   "busquedas": "2000+",
+   "nota": "Jubilados con moratoria reciben un triple pago en diciembre",
+   "nota_url": "https://www.cronica.com.ar/sociedad/jubilados-con-moratoria-reciben-un-triple-pago-en-diciembre/",
+   "medio": "Crónica",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de aucas contra independiente del valle",
+   "busquedas": "1000+",
+   "nota": "Macará y Universidad Católica igualaron 2-2 en un partidazo por el hexagonal final de la LigaPro 2026",
+   "nota_url": "https://www.primicias.ec/deportes/ligapro/macara/envivo-universidad-catolica-fecha6-primer-hexagonal-resultado-ver-partido-tv-136542/",
+   "medio": "Primicias",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "jorge macri",
+   "busquedas": "200+",
+   "nota": "Fórmula 1: Jorge Macri presentó en San Pablo la propuesta de la Ciudad para que vuelva a correr en el Autódromo",
+   "nota_url": "https://buenosaires.gob.ar/noticias/formula-1-jorge-macri-presento-en-san-pablo-la-propuesta-de-la-ciudad-para-que-vuelva",
+   "medio": "Buenos Aires Ciudad",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
+  },
+  {
+   "tema": "benfica",
+   "busquedas": "200+",
+   "nota": "Vídeo - LIGA PORTUGAL MEU SUPER 2026/27 - II Liga (10ªJ): Resumo Farense 2-3 Benfica B",
+   "nota_url": "https://www.sporttv.pt/videos/1/mais-recentes/video/1_gs57blan/ii-liga-10aj-resumo-farense-2-3-benfica-b",
+   "medio": "Sport TV",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "c5n en vivo",
-   "busquedas": "5000+",
-   "nota": "Yanina Latorre anticipó una fuerte novedad en el escándalo entre Wanda Nara y Mauro Icardi: \"Están evaluando\"",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/08/yanina-latorre-anticipo-una-fuerte-novedad-en-el-escandalo-entre-wanda-nara-y-mauro-icardi-estan-evaluando/",
-   "medio": "Infobae",
+   "tema": "barcelona sc - ldu quito",
+   "busquedas": "200+",
+   "nota": "Un llamado a la afición Torera: Barcelona pone precios populares para su duelo con Liga",
+   "nota_url": "https://www.futbolecuador.com/2021/site/noticia/un-llamado-a-la-aficion-torera-barcelona-pone-precios-populares-para-su-duelo-con-liga/172016",
+   "medio": "futbolecuador.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de atlético de madrid contra fc barcelona",
+   "busquedas": "200+",
+   "nota": "Diego Simeone backs Julián Álvarez for Barcelona clash after Atlético transfer saga",
+   "nota_url": "https://www.espn.com/soccer/story/_/id/50407601/diego-simeone-julian-alvarez-barcelona-atletico-madrid",
+   "medio": "ESPN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de chankas cyc contra alianza lima",
+   "busquedas": "1000+",
+   "nota": "Chankas vs. Alianza Lima, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
+   "nota_url": "https://www.tycsports.com/peru/futbol-de-peru/chankas-vs-alianza-lima-en-vivo-donde-ver-por-tv-y-online-id770124.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "andrea kimi antonelli",
+   "busquedas": "200+",
+   "nota": "El cruce en boxes que llevó a Colapinto y Antonelli ante los comisarios",
+   "nota_url": "https://www.ellitoral.com/deportes/colapinto-antonelli-alpine-mercedes-boxes-comisarios_0_R4kQqMGjsh.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juez",
+   "busquedas": "100+",
+   "nota": "Un ex juez de la Corte Suprema bonaerense chocó contra un local y atropelló a cinco mujeres en City Bell",
+   "nota_url": "https://www.rionegro.com.ar/sociedad/un-ex-juez-de-la-corte-suprema-bonaerense-choco-contra-un-local-y-atropello-a-cinco-mujeres-en-city-bell-4788153/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   }
