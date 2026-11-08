@@ -1,7 +1,7 @@
 {
  "semana": "8 de noviembre de 2026",
  "fecha": "2026-11-08",
- "actualizado": "08/11 11:29",
+ "actualizado": "08/11 16:30",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -19,10 +19,10 @@
      "url": "https://bardeo.news/politica/temporada-alta-de-consultores-importados-para-2027_a6af03315696ebfa450bab79c"
     },
     {
-     "titulo": "El banquero y el espejo paraguayo",
+     "titulo": "La Corte Suprema le dio otra mala noticia a Alberto Fernández",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "08/11/2026",
-     "url": "https://bardeo.news/politica/el-banquero-y-el-espejo-paraguayo_a6af083f9696ebfa450bc8bef"
+     "url": "https://bardeo.news/politica/la-corte-suprema-le-dio-otra-mala-noticia-a-alberto-fernandez_a6af0bd83696ebfa450be3b27"
     }
    ],
    "imagen": []
@@ -37,13 +37,6 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "Luego de una semana cargada de tensiones internas El peronismo, entre ampliar un frente contra Milei y resolver sus propias diferencias Rosario Ayerdi",
-     "medio": "Perfil",
-     "fecha": "08/11/2026",
-     "url": "https://www.perfil.com/politica/el-peronismo-entre-ampliar-un-frente-contra-milei-y-resolver-sus-propias-diferencias-a2FU70K5IUbv",
-     "tag": "Política"
-    },
-    {
      "titulo": "El día después de la visita papal: los próximos movimientos de Milei, las señales del mercado y la “manta corta” que preocupa al Gabinete",
      "medio": "Infobae",
      "fecha": "08/11/2026",
@@ -55,6 +48,13 @@
      "medio": "Infobae",
      "fecha": "08/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/08/la-interna-entre-bullrich-y-el-gobierno-preocupa-a-los-aliados-del-senado-de-cara-al-fin-del-periodo-ordinario/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "En la reunión privada. Los regalos que Milei preparó para darle al Papa cuando visite la Casa Rosada",
+     "medio": "La Nación",
+     "fecha": "08/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/los-regalos-que-milei-preparo-para-darle-al-papa-leon-xiv-cuando-visite-la-casa-rosada-nid08112026/",
      "tag": "Política"
     },
     {
@@ -72,10 +72,24 @@
      "tag": "Política"
     },
     {
-     "titulo": "Desde el cottolengo a la transmisión. Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei",
+     "titulo": "Desde el Cottolengo a la transmisión. Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei",
      "medio": "La Nación",
      "fecha": "08/11/2026",
      "url": "https://www.lanacion.com.ar/politica/uno-a-uno-los-puntos-sensibles-de-la-visita-del-papa-para-el-gobierno-de-javier-milei-nid08112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Bullrich desafía a Milei a que la eche: \"Si lo hace el riesgo país se va a 1500\"",
+     "medio": "La Politica Online",
+     "fecha": "08/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/bulrich-desafia-a-milei-a-que-la-eche-si-lo-hace-el-riesgo-pais-se-va-a-1500/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "EL PAPA EN ARGENTINA Perros, rastrillaje antiexplosivos y vallado: el operativo de seguridad en Casa Rosada para recibir a León XIV Por Pablo Lapuente",
+     "medio": "Letra P",
+     "fecha": "08/11/2026",
+     "url": "https://www.letrap.com.ar/politica/domingo-llega-leon-xiv-un-papa-visita-el-pais-despues-casi-40-anos-n5428056",
      "tag": "Política"
     },
     {
@@ -83,20 +97,6 @@
      "medio": "Letra P",
      "fecha": "08/11/2026",
      "url": "https://www.letrap.com.ar/politica/el-gobierno-balcanizado-javier-milei-como-testigo-n5428077",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Una asamblea legislativa en el palacio libertad Villarruel, de vuelta junto a Milei: el Congreso se prepara para la gala con León XIV Julián D'Imperio",
-     "medio": "Perfil",
-     "fecha": "08/11/2026",
-     "url": "https://www.perfil.com/politica/villarruel-de-vuelta-junto-a-milei-el-congreso-se-prepara-para-la-gala-con-leon-xiv-aBaXf4t9XccS",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Karina Milei: \"¡Todo listo para recibir al papa León XIV!\"",
-     "medio": "El Destape",
-     "fecha": "08/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-8-noviembre-minuto-minuto-202611894634",
      "tag": "Política"
     }
    ],
@@ -111,16 +111,16 @@
      "url": "https://www.infobae.com/politica/2026/11/08/kicillof-quiere-aprobar-su-ultimo-presupuesto-como-gobernador-y-le-exige-a-milei-una-deuda-de-20-billones/"
     },
     {
-     "titulo": "La interna que frena al peronismo y el plan electoral que empuja Kicillof ELECCIONES 2027",
+     "titulo": "Sin tregua en la interna: los mensajes de guerra de La Cámpora y el Massismo desde la Legislatura a Calle 6",
+     "medio": "Info Cielo",
+     "fecha": "08/11/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/sin-tregua-en-la-interna-los-mensajes-de-guerra-de-la-campora-y-el-massismo-desde-la-legislatura-a-calle-6"
+    },
+    {
+     "titulo": "La interna que frena al peronismo y el plan electoral que empuja Kicillof",
      "medio": "La Tecla",
      "fecha": "08/11/2026",
      "url": "https://www.latecla.info/171017-la-interna-que-frena-al-peronismo-y-el-plan-electoral-que-empuja-kicillof"
-    },
-    {
-     "titulo": "El trágico número del invierno que enciende las alarmas en la Provincia: 165 muertes y La Plata al frente de los siniestros",
-     "medio": "Info Cielo",
-     "fecha": "08/11/2026",
-     "url": "https://www.infocielo.com/sociedad/el-tragico-numero-del-invierno-que-enciende-las-alarmas-en-la-provincia-165-muertes-y-la-plata-al-frente-de-los-siniestros"
     }
    ],
    "imagen": [
@@ -159,22 +159,23 @@
   "Chubut": {
    "top3": [
     {
+     "titulo": "Salud visual en Chubut: ya se realizaron 544 controles oftalmológicos y se entregaron 449 anteojos gratuitos",
+     "medio": "ADN Sur",
+     "fecha": "08/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/salud-visual-en-chubut--ya-se-realizaron-544-controles-oftalmologicos-y-se-entregaron-449-anteojos-gratuitos_a6af09b112ef0898cb8b46c96",
+     "tag": "También en El Chubut"
+    },
+    {
      "titulo": "El traspié de los aliados de Milei y el impacto interno de las derrotas",
      "medio": "Diario Jornada",
      "fecha": "08/11/2026",
      "url": "https://www.diariojornada.com.ar/426712/politica/el_traspie_de_los_aliados_de_milei_y_el_impacto_interno_de_las_derrotas"
     },
     {
-     "titulo": "Un polémico decreto de Santa Cruz busca avalar el traspaso de tierras protegidas de la Patagonia a un magnate de Dubái",
-     "medio": "ADN Sur",
-     "fecha": "08/11/2026",
-     "url": "https://www.adnsur.com.ar/especiales/un-polemico-decreto-de-santa-cruz-busca-avalar-el-traspaso-de-tierras-protegidas-de-la-patagonia-a-un-magnate-de-dubai_a6aef308f2ef0898cb8957ed3"
-    },
-    {
-     "titulo": "Luego de 39 años, un Papa vuelve a pisar suelo argentino",
+     "titulo": "El Gobierno admite desorden interno y posterga definiciones",
      "medio": "Diario Jornada",
      "fecha": "08/11/2026",
-     "url": "https://www.diariojornada.com.ar/426704/politica/luego_de_39_anos_un_papa_vuelve_a_pisar_suelo_argentino"
+     "url": "https://www.diariojornada.com.ar/426723/politica/el_gobierno_admite_desorden_interno_y_posterga_definiciones"
     }
    ],
    "imagen": []
@@ -186,6 +187,31 @@
      "medio": "Hoy Dia",
      "fecha": "08/11/2026",
      "url": "https://hoydia.com.ar/politica/nacional/la-agenda-de-milei-para-noviembre-entre-tensiones-politicas-y-economicas/"
+    },
+    {
+     "titulo": "¿Cómo estará el tiempo para recibir al Papa en Córdoba?",
+     "medio": "CBA24N",
+     "fecha": "08/11/2026",
+     "url": "https://www.cba24n.com.ar/cordoba/-como-estara-el-tiempo-para-recibir-al-papa-en-cordoba-_a6af04f792aec752ba0c51017",
+     "tag": "También en ElDoce"
+    },
+    {
+     "titulo": "El camino del papa. Visita del papa León XIV a Córdoba: cómo será el operativo para personas con discapacidad en FAdeA",
+     "medio": "Cadena3",
+     "fecha": "08/11/2026",
+     "url": "https://www.cadena3.com/noticia/el-camino-de-leon-en-argentina-uruguay-y-peru/visita-del-papa-leon-xiv-a-cordoba-como-sera-el-operativo-para-personas-con-discapacidad-en-fadea_611331",
+     "tag": "También en Hoy Dia"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Con la llegada del Papa León XIV, el Congreso vivirá una semana sin sesionar",
+     "medio": "El Litoral",
+     "fecha": "08/11/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-8-11-50-0-con-la-llegada-del-papa-leon-xiv-el-congreso-vivira-una-semana-sin-sesionar"
     }
    ],
    "imagen": []
@@ -193,17 +219,24 @@
   "Entre Ríos": {
    "top3": [
     {
+     "titulo": "Frigerio: “Nuestros productores cuentan con un gobierno provincial que los entiende y está a la altura de su potencia de trabajo”",
+     "medio": "Ahora",
+     "fecha": "08/11/2026",
+     "url": "https://ahora.com.ar/politica/frigerio-nuestros-productores-cuentan-con-un-gobierno-provincial-que-los-entiende-y-esta-a-la-altura-de-su-potencia-de-trabajo",
+     "tag": "También en El Once, AFP Digital"
+    },
+    {
      "titulo": "El Senado tratará distintos proyectos en comisión y llevará adelante una nueva sesión ordinaria",
      "medio": "Ahora",
      "fecha": "08/11/2026",
      "url": "https://ahora.com.ar/politica/el-senado-tratara-distintos-proyectos-en-comision-y-llevara-adelante-una-nueva-sesion-ordinaria"
     },
     {
-     "titulo": "El Papa León XIV llega a la Argentina: agenda, misas y encuentro con Milei",
-     "medio": "El Once",
+     "titulo": "La 35ª Feria de las Colectividades reúne culturas, sabores y tradiciones en Sala Mayo de Paraná",
+     "medio": "AFP Digital",
      "fecha": "08/11/2026",
-     "url": "https://www.elonce.com/sociedad/papa-leon-xiv-en-argentina-agenda-misas-y-visita-a-milei.htm",
-     "tag": "También en Ahora"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/08/478362-la-35-feria-de-las-colectividades-reune-culturas-sabores-y-tradiciones-en-sala-mayo-de-parana",
+     "tag": "También en UNO ER, Ahora"
     }
    ],
    "imagen": []
@@ -211,18 +244,11 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "El Gobierno de Jujuy destinó créditos para acompañar la cosecha tabacalera 2026",
-     "medio": "Jujuy al día",
+     "titulo": "Sadir encabezó las gestiones para garantizar el alivio tarifario de luz en las zonas cálidas de Jujuy",
+     "medio": "Prensa oficial de Jujuy",
      "fecha": "08/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/08/el-gobierno-de-jujuy-destino-creditos-para-acompanar-la-cosecha-tabacalera-2026/",
-     "tag": "También en El Tribuno"
-    },
-    {
-     "titulo": "El 2° Congreso de la Mujer Gaucha cierra en Maimará",
-     "medio": "El Tribuno",
-     "fecha": "08/11/2026",
-     "url": "https://eltribunodejujuy.com/municipios/2026-11-8-1-25-0-el-2-congreso-de-la-mujer-gaucha-cierra-en-maimara",
-     "tag": "También en Jujuy al día"
+     "url": "https://prensa.jujuy.gob.ar/gestiones/sadir-encabezo-las-gestiones-garantizar-el-alivio-tarifario-luz-las-zonas-calidas-jujuy-n125894",
+     "tag": "También en Somos Jujuy"
     },
     {
      "titulo": "Una tejedora jujeña participará de un encuentro con el papa León XIV",
@@ -230,6 +256,13 @@
      "fecha": "08/11/2026",
      "url": "https://www.somosjujuy.com.ar/jujuy/una-tejedora-jujena-participara-encuentro-papa-leon-xiv-n126829",
      "tag": "También en Todo Jujuy"
+    },
+    {
+     "titulo": "Una artesana jujeña creó el poncho que recibirá el Papa León XIV en Argentina",
+     "medio": "Todo Jujuy",
+     "fecha": "08/11/2026",
+     "url": "https://www.todojujuy.com/pais/una-artesana-jujena-creo-el-poncho-que-recibira-el-papa-leon-xiv-argentina-n298555",
+     "tag": "También en El Tribuno"
     }
    ],
    "imagen": []
@@ -264,6 +297,18 @@
      "medio": "Nueva Rioja",
      "fecha": "08/11/2026",
      "url": "https://nuevarioja.com.ar/politica/presupuesto-2027-de-la-rioja-salarios-deuda-y-obras-entre-los-principales-numeros.htm"
+    },
+    {
+     "titulo": "Quintela ratificó su postura de estatizar recursos: \"Nacionalizaremos lo que sea necesario\"",
+     "medio": "Nueva Rioja",
+     "fecha": "08/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/quintela-volvio-a-insistir-en-que-va-a-nacionalizar-lo-que-sea-necesario-en-beneficio-de-nuestra-gente.htm"
+    },
+    {
+     "titulo": "LLA LE RESTÓ IMPORTANCIA A LA SALIDA DE CELESTE MAIDANA EN LA LEGISLATURA",
+     "medio": "Rioja Virtual",
+     "fecha": "08/11/2026",
+     "url": "https://riojavirtual.com.ar/lla-le-resto-importancia-a-la-salida-de-celeste-maidana-en-la-legislatura/"
     }
    ],
    "imagen": []
@@ -305,16 +350,17 @@
   "Neuquén": {
    "top3": [
     {
+     "titulo": "Decreto N° 1858 Villa Lago Meliquina es ahora comisión de fomento",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "08/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/08/267003-villa-lago-meliquina-es-ahora-comision-de-fomento",
+     "tag": "También en Noticias NQN"
+    },
+    {
      "titulo": "Neuquinos en el mundo Fiona Cúneo volvió a las competencias internacionales y ya piensa en el 2027",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "08/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/08/266904-fiona-cuneo-volvio-a-las-competencias-internacionales-y-ya-piensa-en-el-2027"
-    },
-    {
-     "titulo": "Turismo Paleontológico Así será el nuevo museo de El Chocón: un proyecto gigante para viajar al mundo de los dinosaurios",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "08/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/08/266901-asi-sera-el-nuevo-museo-de-el-chocon-un-proyecto-gigante-para-viajar-al-mundo-de-los-dinosaurios"
     }
    ],
    "imagen": []
@@ -329,16 +375,17 @@
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Javier Milei y Patricia Bullrich cruzan tensiones por los cupos para el 2027 en la antesala de la cita con el papa León XIV",
-     "medio": "Diario Rio Negro",
-     "fecha": "08/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/javier-milei-y-patricia-bullrich-cruzan-tensiones-por-los-cupos-para-el-2027-en-la-antesala-de-la-cita-con-el-papa-leon-xiv-4789655/"
-    },
-    {
-     "titulo": "Lo buscaban en Neuquén por una deuda con un banco y apareció en San Antonio Oeste",
+     "titulo": "Una semana de logros y emociones para Río Negro en los Juegos Evita",
      "medio": "Prensa oficial de Río Negro",
      "fecha": "08/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62730/lo-buscaban-en-neuquen-por-una-deuda-con-un-banco-y-aparecio-en-san-antonio-oeste"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62731/una-semana-de-logros-y-emociones-para-rio-negro-en-los-juegos-evita",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Revocatoria en Allen: el Concejo rechazó el veto de Román y cómo sigue el proceso",
+     "medio": "Diario Rio Negro",
+     "fecha": "08/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/revocatoria-en-allen-el-concejo-rechazo-el-veto-de-roman-y-como-sigue-el-proceso-4789891/"
     }
    ],
    "imagen": []
@@ -346,31 +393,31 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Karina Milei mostró los preparativos para recibir al Papa: \"Que nos encontremos unidos\"",
-     "medio": "Que Pasa Salta",
+     "titulo": "Larreta apuntó contra Macri y afirmó que deben definir candidaturas en las PASO",
+     "medio": "Nuevo Diario de Salta",
      "fecha": "08/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/karina-milei-mensaje-llegada-papa-leon-xiv/"
+     "url": "https://nuevodiariodesalta.com.ar/larreta-apunto-contra-macri-y-afirmo-que-deben-definir-candidaturas-en-las-paso/"
     },
     {
      "titulo": "Salta cerró los Juegos Nacionales Juveniles Evita con 68 medallas y se posicionó como la mejor delegación del NOA",
      "medio": "Prensa oficial de Salta",
      "fecha": "08/11/2026",
      "url": "https://www.salta.gob.ar/prensa/noticias/salta-cerro-los-juegos-nacionales-juveniles-evita-con-68-medallas-y-se-posiciono-como-la-mejor-delegacion-del-noa-111006"
+    },
+    {
+     "titulo": "El papa León XIV llega a la Argentina, EN VIVO: minuto a minuto, recibimiento, agenda y últimas noticias",
+     "medio": "El Tribuno",
+     "fecha": "08/11/2026",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-8-15-53-0-el-papa-leon-xiv-llega-a-la-argentina-en-vivo-minuto-a-minuto-recibimiento-agenda-y-ultimas-noticias",
+     "tag": "También en Informate Salta"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Una encuesta reveló que el 76% de los salteños optarían por la eutanasia si fuera legal",
-     "medio": "Informate Salta",
-     "fecha": "08/11/2026",
-     "url": "https://informatesalta.com.ar/salud/una-encuesta-revelo-que-el-76--de-los-saltenos-optarian-por-la-eutanasia-si-fuera-legal_a6aee5ae4696ebfa450ae9979"
-    }
-   ]
+   "imagen": []
   },
   "San Juan": {
    "top3": [
     {
-     "titulo": "La interna entre Bullrich y Milei repercute en los dirigentes libertarios de San Juan",
+     "titulo": "01 La interna entre Bullrich y Milei repercute en los dirigentes libertarios de San Juan",
      "medio": "El Zonda",
      "fecha": "08/11/2026",
      "url": "https://www.diarioelzondasj.com.ar/politica/la-interna-entre-bullrich-y-milei-repercute-en-los-dirigentes-libertarios-de-san-juan"
@@ -393,6 +440,18 @@
   "San Luis": {
    "top3": [
     {
+     "titulo": "Un docente de Unión aplicó la inteligencia artificial para innovar en sus clases de economía",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "08/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/08/1229346-un-docente-de-union-aplico-la-inteligencia-artificial-para-innovar-en-sus-clases-de-economia/"
+    },
+    {
+     "titulo": "Poggi participa del encuentro con el Papa León XIV",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "08/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/08/1230270-poggi-participa-del-encuentro-con-el-papa-leon-xiv/"
+    },
+    {
      "titulo": "Guillermo Moreno volvió a San Luis para hablar de la economía peronista",
      "medio": "El Diario de la República",
      "fecha": "08/11/2026",
@@ -404,23 +463,25 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Santa Cruz dejó su huella en los Juegos Evita: una experiencia que trasciende las medallas",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "08/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/desarrollo-social/santa-cruz-dejo-su-huella-en-los-juegos-evita-una-experiencia-que-trasciende-las-medallas",
-     "tag": "También en El Diario Nuevo Día"
-    },
-    {
      "titulo": "Fredonia Mining confirmó a Vidal la inversión de US$345,7 millones en el proyecto aurífero El Dorado–Monserrat",
      "medio": "Prensa oficial de Santa Cruz",
      "fecha": "08/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/fredonia-mining-confirmo-a-vidal-inversion-de-us-345-7-millones-en-el-proyecto-aurifero-el-dorado-monserrat"
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/fredonia-mining-confirmo-a-vidal-inversion-de-us-345-7-millones-en-el-proyecto-aurifero-el-dorado-monserrat",
+     "tag": "También en Tiempo Sur, El Diario Nuevo Día"
     },
     {
-     "titulo": "Gobernador Vidal: La mineria crece en Santa Cruz y ahora el trabajo queda acá",
-     "medio": "El Diario Nuevo Día",
+     "titulo": "Aristizábal: “Debemos tener todos los recaudos para cuidar Península de Magallanes”",
+     "medio": "Prensa oficial de Santa Cruz",
      "fecha": "08/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/gobernador-vidal-la-mineria-crece-en-santa-cruz-y-ahora-el-trabajo-queda-aca/"
+     "url": "https://noticias.santacruz.gob.ar/organismos/entes-publicos/consejo-agrario-provincial/aristizabal-debemos-tener-todos-los-recaudos-para-cuidar-peninsula-de-magallanes",
+     "tag": "También en Tiempo Sur"
+    },
+    {
+     "titulo": "“Todo listo para recibir al papa León”: Karina Milei mostró cómo se prepara Casa Rosada para la visita histórica",
+     "medio": "La Opinión Austral",
+     "fecha": "08/11/2026",
+     "url": "https://laopinionaustral.com.ar/argentina/todo-listo-para-recibir-al-papa-leon-karina-milei-mostro-como-se-prepara-casa-rosada-para-la-visita-historica-729278.html",
+     "tag": "También en Tiempo Sur"
     }
    ],
    "imagen": []
@@ -428,23 +489,24 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Luego de una semana cargada de tensiones internas El peronismo, entre ampliar un frente contra Milei y resolver sus propias diferencias Rosario Ayerdi",
-     "medio": "Perfil",
-     "fecha": "08/11/2026",
-     "url": "https://www.perfil.com/politica/el-peronismo-entre-ampliar-un-frente-contra-milei-y-resolver-sus-propias-diferencias-a2FU70K5IUbv"
-    },
-    {
      "titulo": "Pusineri pidió una convocatoria urgente del Partido Justicialista de Santa Fe",
      "medio": "Rosario Plus",
      "fecha": "08/11/2026",
      "url": "https://www.rosarioplus.com/actualidad/politica/pusineri-pidio-una-convocatoria-urgente-del-partido-justicialista-de-santa-fe_a6af07c2c696ebfa450bc4ef9"
     },
     {
-     "titulo": "Un domingo soleado dará paso a una semana con temperaturas en ascenso en Rosario",
-     "medio": "Rosario3",
+     "titulo": "León XIV en Argentina: la política, a la expectativa por su mensaje",
+     "medio": "Aire",
      "fecha": "08/11/2026",
-     "url": "https://www.rosario3.com/informaciongeneral/un-domingo-soleado-dara-paso-a-una-semana-con-temperaturas-en-ascenso-en-rosario-20261108-0002.html",
-     "tag": "También en Rosario Plus"
+     "url": "https://www.airedesantafe.com.ar/politica/leon-xiv-argentina-la-politica-la-expectativa-su-mensaje-n675916",
+     "tag": "También en UNO - SF, La Capital"
+    },
+    {
+     "titulo": "La Capital | Karina Milei: Está todo listo para recibir al Papa León XIV",
+     "medio": "La Capital",
+     "fecha": "08/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/karina-milei-esta-todo-listo-recibir-al-papa-leon-xiv-n10291100.html",
+     "tag": "También en UNO - SF"
     }
    ],
    "imagen": []
@@ -452,34 +514,31 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Locales Papa León XIV en Argentina: el gobernador Elías Suárez encabezará la delegación santiagueña en la recepción en el Palacio Libertad",
-     "medio": "Info del Estero",
+     "titulo": "Silva Neder: ” Frente a la indiferencia reivindicamos un estado presente al servicio del bien común”",
+     "medio": "Prensa oficial de Santiago del Estero",
      "fecha": "08/11/2026",
-     "url": "https://infodelestero.com/2026/11/08/papa-leon-xiv-en-argentina-el-gobernador-elias-suarez-encabezara-la-delegacion-santiaguena-en-la"
+     "url": "https://sde.gob.ar/2026/11/08/silva-neder-frente-a-la-indiferencia-reivindicamos-un-estado-presente-al-servicio-del-bien-comun/",
+     "tag": "También en El Liberal"
     },
     {
-     "titulo": "Marcelo Longobardi reveló que sufrió “aprietes” de Sergio Berni en el Gobierno de Cristina",
-     "medio": "Diario Panorama",
-     "fecha": "08/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572273/marcelo-longobardi-revelo-sufrio-aprietes-sergio-berni-gobierno-cristina"
-    },
-    {
-     "titulo": "Siaba Serrate: \"El riesgo país refleja el temor del mercado a una elección complicada\"",
+     "titulo": "El presidente Javier Milei llegó a Aeroparque para recibir al papa León XIV en su histórica visita",
      "medio": "El Liberal",
      "fecha": "08/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97341/2026/11/siaba-serrate--el-riesgo-pais-refleja-el-temor-del-mercado-a-una-eleccion-complicada"
+     "url": "https://www.elliberal.com.ar/nota/97412/2026/11/el-presidente-javier-milei-llego-a-aeroparque-para-recibir-al-papa-leon-xiv-en-su-historica-visita",
+     "tag": "También en Info del Estero"
+    },
+    {
+     "titulo": "\"Que nos encontremos unidos\": el deseo de Karina Milei por la llegada del papa León XIV a la Argentina",
+     "medio": "El Liberal",
+     "fecha": "08/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/97401/2026/11/que-nos-encontremos-unidos--el-deseo-de-karina-milei-por-la-llegada-del-papa-leon-xiv-a-la-argentina",
+     "tag": "También en Nuevo Diario Web"
     }
    ],
    "imagen": []
   },
   "Tucumán": {
    "top3": [
-    {
-     "titulo": "El Papa en la Argentina: Milei busca levantar el perfil y la oposición espera que deje un mensaje sobre la pobreza y la desocupación",
-     "medio": "Los Primeros",
-     "fecha": "08/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-papa-en-la-argentina--milei-busca-levantar-el-perfil-y-la-oposicion-espera-que-deje-un-mensaje-sobre-la-pobreza-y-la-desocupacion_a6af04e37696ebfa450bb226b"
-    },
     {
      "titulo": "Karina Milei: “Todo listo para recibir al papa León XIV”",
      "medio": "Los Primeros",
@@ -491,6 +550,12 @@
      "medio": "LV12",
      "fecha": "08/11/2026",
      "url": "https://www.lv12.com.ar/tucuman/ia-aplicada-la-justicia-un-congreso-pone-tucuman-el-centro-del-debate-n206322"
+    },
+    {
+     "titulo": "La Casa de Gobierno de Tucumán se ilumina con los colores del Vaticano por la visita del Papa",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "08/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1161579/sociedad/casa-gobierno-tucuman-se-ilumina-colores-vaticano-visita-papa.html"
     }
    ],
    "imagen": []
@@ -519,7 +584,6 @@
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
   "https://elexpresodesalta.com.ar/",
-  "https://nuevodiariodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
   "https://elmediadortv.com.ar/",
