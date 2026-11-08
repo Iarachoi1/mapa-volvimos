@@ -1,13 +1,31 @@
 {
- "actualizado": "08/11 05:38",
+ "actualizado": "08/11 06:35",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "el niño",
+   "tema": "asignación universal por hijo",
    "busquedas": "500+",
+   "nota": "AUH de ANSES: cuál es el nuevo tope de ingresos para cobrar en noviembre de 2026",
+   "nota_url": "https://elnueve.com/servicios/anses/auh-de-anses-cual-es-el-nuevo-tope-de-ingresos-para-cobrar-en-noviembre-de-2026_20261105/",
+   "medio": "Canal 9 Televida",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "herencia",
+   "busquedas": "100+",
+   "nota": "Carlos III, profundamente disgustado con el Príncipe Guillermo por una decisión que rompe con su legado",
+   "nota_url": "https://www.abc.es/gente/carlos-iii-profundamente-disgustado-principe-guillermo-decision-20261103122432-nt.html",
+   "medio": "ABC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el niño",
+   "busquedas": "2000+",
    "nota": "Todo lo que tenés que saber sobre la vacuna contra el dengue: cuánto cuesta en Argentina, qué eficacia tiene y quiénes pueden recibirla",
    "nota_url": "https://radiomitre.cienradios.com/ciencia/todo-lo-que-tenes-que-saber-sobre-la-vacuna-contra-el-dengue-cuanto-cuesta-en-argentina-que-eficacia-tiene-y-quienes-pueden-recibirla/",
    "medio": "Radio Mitre",
@@ -16,7 +34,7 @@
   },
   {
    "tema": "richard lloyd",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Richard Lloyd, Torrential Guitarist of Television, Has Died",
    "nota_url": "https://www.nytimes.com/2026/11/07/arts/music/richard-lloyd-dead.html",
    "medio": "The New York Times",
@@ -42,20 +60,11 @@
    "temas": []
   },
   {
-   "tema": "liga mx",
-   "busquedas": "100+",
-   "nota": "Clásico Capitalino en tablas: así quedó la tabla de posiciones del Apertura 2026 tras Pumas vs. América",
-   "nota_url": "https://bolavip.com/mx/ligamx/clasico-capitalino-en-tablas-asi-quedo-la-tabla-de-posiciones-del-apertura-2026-tras-pumas-vs-america",
-   "medio": "Bolavip México",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "johnny walker",
    "busquedas": "200+",
-   "nota": "Johnny Walker's second act: How the eccentric knockout artist is resetting himself as a heavyweight",
-   "nota_url": "https://www.cbssports.com/ufc/news/johnny-walker-heavyweight-ufc-fight-night-knockouts/",
-   "medio": "CBS Sports",
+   "nota": "UFC Vegas 124 ‘Cortes-Acosta vs. Walker’ play-by-play, results & round scoring",
+   "nota_url": "https://www.sherdog.com/news/news/UFC-Vegas-124-CortesAcosta-vs-Walker-playbyplay-results-round-scoring-203525",
+   "medio": "Sherdog",
    "relevante": false,
    "temas": []
   },
@@ -80,18 +89,9 @@
   {
    "tema": "trail blazers - spurs",
    "busquedas": "1000+",
-   "nota": "Spurs chase eighth straight win against 6-2 Trail Blazers — Trail Blazers Vs Spurs preview",
-   "nota_url": "https://twaslnews1.twaslnews.com/7291590/",
-   "medio": "شبكة تواصل الإخبارية",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "suns - rockets",
-   "busquedas": "200+",
-   "nota": "11/07/2026 Suns vs Rockets Game Preview",
-   "nota_url": "https://suns.com/news/11-07-2026-suns-vs-rockets-game-preview",
-   "medio": "NBA.com",
+   "nota": "NBA roundup: Spurs sit starters for fourth quarter, still rout Blazers",
+   "nota_url": "https://www.reuters.com/sports/nba-roundup-spurs-sit-starters-fourth-quarter-still-rout-blazers--flm-2026-11-08/",
+   "medio": "Reuters",
    "relevante": false,
    "temas": []
   }
