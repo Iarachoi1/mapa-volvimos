@@ -1,10 +1,19 @@
 {
- "actualizado": "08/11 01:40",
+ "actualizado": "08/11 02:37",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "microsoft",
+   "busquedas": "100+",
+   "nota": "AI Backlash Spreads Across Europe With Data Center Protests",
+   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+   "medio": "Bloomberg.com",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "waldo cortés-acosta",
    "busquedas": "100+",
@@ -15,16 +24,7 @@
    "temas": []
   },
   {
-   "tema": "microsoft",
-   "busquedas": "100+",
-   "nota": "Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday",
-   "nota_url": "https://www.theguardian.com/news/gallery/2026/nov/06/datacentre-protest-giant-statue-pope-leo-photos-of-the-day-friday",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "loto plus resultados",
+   "tema": "sorteo loto plus",
    "busquedas": "2000+",
    "nota": "Loto Plus hoy: los números ganadores del sorteo 3.933 del sábado 7 de noviembre de 2026",
    "nota_url": "https://www.lavoz.com.ar/servicios/loto-plus-hoy-numeros-ganadores-sorteo-3933-sabado-7-noviembre-2026_0_8zQUs53FC1.html",
@@ -35,15 +35,15 @@
   {
    "tema": "johnny walker",
    "busquedas": "200+",
-   "nota": "UFC Vegas 124 preview: Heavyweight main event should be violent, quick",
-   "nota_url": "https://www.sportsnet.ca/ufc/article/ufc-vegas-124-preview-heavyweight-main-event-should-be-violent-quick/",
-   "medio": "Sportsnet.ca",
+   "nota": "Johnny Walker's second act: How the eccentric knockout artist is resetting himself as a heavyweight",
+   "nota_url": "https://www.cbssports.com/ufc/news/johnny-walker-heavyweight-ufc-fight-night-knockouts/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pumas - américa",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Las 2 dudas del Club América para el Clásico Capitalino ante Pumas",
    "nota_url": "https://bolavip.com/mx/america/las-2-dudas-del-club-america-para-el-clasico-capitalino-ante-pumas",
    "medio": "Bolavip México",
@@ -53,27 +53,27 @@
   {
    "tema": "tatiana suarez",
    "busquedas": "200+",
-   "nota": "UFC Fight Night best bets",
-   "nota_url": "https://www.sportsbookreview.com/picks/ufc/best-bets-predictions-ufc-fight-night-cortes-acosta-walker-november-7-2026/",
-   "medio": "Sportsbook Review",
+   "nota": "UFC Fight Night 293: Tatiana Suarez post-fight interview",
+   "nota_url": "https://www.usatoday.com/videos/sports/ufc/2026/11/07/ufc-fight-night-293-tatiana-suarez-post-fight-interview/92673989007/",
+   "medio": "USA Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "trail blazers - spurs",
-   "busquedas": "500+",
-   "nota": "It’s time for Basketball: San Antonio Spurs at Portland Trail Blazers",
-   "nota_url": "https://www.poundingtherock.com/spurs-discussion-threads/109659/its-time-for-basketball-san-antonio-spurs-at-portland-trail-blazers",
-   "medio": "Pounding The Rock",
+   "busquedas": "1000+",
+   "nota": "Trail Blazers focus on next heavyweights: Victor Wembanyama and Spurs",
+   "nota_url": "https://www.fresnobee.com/sports/nba/article317974011.html",
+   "medio": "Fresno Bee",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "suns - rockets",
    "busquedas": "200+",
-   "nota": "NBA Prop Bets: Rockets at Suns Best Bets for Saturday 11/7/26",
-   "nota_url": "https://dknetwork.draftkings.com/2026/11/07/nba-prop-bets-rockets-at-suns-best-bets-for-saturday-11-7-26/",
-   "medio": "DraftKings Network",
+   "nota": "11/07/2026 Suns vs Rockets Game Preview",
+   "nota_url": "https://www.nba.com/suns/news/11-07-2026-suns-vs-rockets-game-preview",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
