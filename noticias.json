@@ -1,10 +1,17 @@
 {
  "semana": "8 de noviembre de 2026",
  "fecha": "2026-11-08",
- "actualizado": "08/11 06:35",
+ "actualizado": "08/11 11:29",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "La mala hora de Milei: 13 días radioactivos para el plan reelección",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "08/11/2026",
+     "url": "https://cenital.com/la-mala-hora-de-milei-13-dias-radioactivos-para-el-plan-reeleccion/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
     {
      "titulo": "Temporada alta de consultores importados para 2027",
      "medio": "Bardeo (columnas de Manu Jove)",
@@ -12,10 +19,10 @@
      "url": "https://bardeo.news/politica/temporada-alta-de-consultores-importados-para-2027_a6af03315696ebfa450bab79c"
     },
     {
-     "titulo": "Cuando los tuiteros cambian el resultado",
+     "titulo": "El banquero y el espejo paraguayo",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "08/11/2026",
-     "url": "https://bardeo.news/sociedad/cuando-los-tuiteros-cambian-el-resultado_a6aefdb35696ebfa450b99d3d"
+     "url": "https://bardeo.news/politica/el-banquero-y-el-espejo-paraguayo_a6af083f9696ebfa450bc8bef"
     }
    ],
    "imagen": []
@@ -65,6 +72,13 @@
      "tag": "Política"
     },
     {
+     "titulo": "Desde el cottolengo a la transmisión. Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei",
+     "medio": "La Nación",
+     "fecha": "08/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/uno-a-uno-los-puntos-sensibles-de-la-visita-del-papa-para-el-gobierno-de-javier-milei-nid08112026/",
+     "tag": "Política"
+    },
+    {
      "titulo": "El Gobierno balcanizado, con Milei como testigo Por Mauricio Cantando",
      "medio": "Letra P",
      "fecha": "08/11/2026",
@@ -79,17 +93,10 @@
      "tag": "Política"
     },
     {
-     "titulo": "El abrupto derrumbe del mundo donde Milei era feliz",
-     "medio": "Infobae",
+     "titulo": "Karina Milei: \"¡Todo listo para recibir al papa León XIV!\"",
+     "medio": "El Destape",
      "fecha": "08/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/08/el-abrupto-derrumbe-del-mundo-donde-milei-era-feliz/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "PARTIDA PROTOCOLAR Karina Milei movió con negras: cómo armó el tablero de León XIV Por Guillermo Villarreal",
-     "medio": "Letra P",
-     "fecha": "08/11/2026",
-     "url": "https://www.letrap.com.ar/politica/karina-milei-movio-negras-asi-armo-el-tablero-leon-xiv-n5428081",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-8-noviembre-minuto-minuto-202611894634",
      "tag": "Política"
     }
    ],
@@ -102,9 +109,28 @@
      "medio": "Infobae",
      "fecha": "08/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/08/kicillof-quiere-aprobar-su-ultimo-presupuesto-como-gobernador-y-le-exige-a-milei-una-deuda-de-20-billones/"
+    },
+    {
+     "titulo": "La interna que frena al peronismo y el plan electoral que empuja Kicillof ELECCIONES 2027",
+     "medio": "La Tecla",
+     "fecha": "08/11/2026",
+     "url": "https://www.latecla.info/171017-la-interna-que-frena-al-peronismo-y-el-plan-electoral-que-empuja-kicillof"
+    },
+    {
+     "titulo": "El trágico número del invierno que enciende las alarmas en la Provincia: 165 muertes y La Plata al frente de los siniestros",
+     "medio": "Info Cielo",
+     "fecha": "08/11/2026",
+     "url": "https://www.infocielo.com/sociedad/el-tragico-numero-del-invierno-que-enciende-las-alarmas-en-la-provincia-165-muertes-y-la-plata-al-frente-de-los-siniestros"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "El radicalismo calentó la previa de 2027: cuestionó a Milei y reclamó un candidato propio EN BARADERO",
+     "medio": "La Tecla",
+     "fecha": "08/11/2026",
+     "url": "https://www.latecla.info/171020-el-radicalismo-calento-la-previa-de-2027-cuestiono-a-milei-y-reclamo-un-candidato-propio"
+    }
+   ]
   },
   "Catamarca": {
    "top3": [
@@ -113,6 +139,131 @@
      "medio": "Letra P",
      "fecha": "08/11/2026",
      "url": "https://www.letrap.com.ar/politica/catamarca-el-pj-busca-una-companera-formula-saadi-que-asegure-paz-politica-y-llegada-al-empresariado-n5428075"
+    },
+    {
+     "titulo": "Obras sociales y prepagas Más de 1,2 millones de personas perdieron su cobertura de salud durante el gobierno de Milei",
+     "medio": "El Ancasti",
+     "fecha": "08/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/mas-12-millones-personas-perdieron-su-cobertura-salud-el-gobierno-milei-n625656"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Encuesta nacional Qué imagen tienen Milei, Cristina Kirchner, Kicillof y los principales dirigentes políticos",
+     "medio": "El Ancasti",
+     "fecha": "08/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/que-imagen-tienen-milei-cristina-kirchner-kicillof-y-los-principales-dirigentes-politicos-n625657"
+    }
+   ]
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "El traspié de los aliados de Milei y el impacto interno de las derrotas",
+     "medio": "Diario Jornada",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariojornada.com.ar/426712/politica/el_traspie_de_los_aliados_de_milei_y_el_impacto_interno_de_las_derrotas"
+    },
+    {
+     "titulo": "Un polémico decreto de Santa Cruz busca avalar el traspaso de tierras protegidas de la Patagonia a un magnate de Dubái",
+     "medio": "ADN Sur",
+     "fecha": "08/11/2026",
+     "url": "https://www.adnsur.com.ar/especiales/un-polemico-decreto-de-santa-cruz-busca-avalar-el-traspaso-de-tierras-protegidas-de-la-patagonia-a-un-magnate-de-dubai_a6aef308f2ef0898cb8957ed3"
+    },
+    {
+     "titulo": "Luego de 39 años, un Papa vuelve a pisar suelo argentino",
+     "medio": "Diario Jornada",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariojornada.com.ar/426704/politica/luego_de_39_anos_un_papa_vuelve_a_pisar_suelo_argentino"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "La agenda de Milei para noviembre entre tensiones políticas y económicas",
+     "medio": "Hoy Dia",
+     "fecha": "08/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/la-agenda-de-milei-para-noviembre-entre-tensiones-politicas-y-economicas/"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "El Senado tratará distintos proyectos en comisión y llevará adelante una nueva sesión ordinaria",
+     "medio": "Ahora",
+     "fecha": "08/11/2026",
+     "url": "https://ahora.com.ar/politica/el-senado-tratara-distintos-proyectos-en-comision-y-llevara-adelante-una-nueva-sesion-ordinaria"
+    },
+    {
+     "titulo": "El Papa León XIV llega a la Argentina: agenda, misas y encuentro con Milei",
+     "medio": "El Once",
+     "fecha": "08/11/2026",
+     "url": "https://www.elonce.com/sociedad/papa-leon-xiv-en-argentina-agenda-misas-y-visita-a-milei.htm",
+     "tag": "También en Ahora"
+    }
+   ],
+   "imagen": []
+  },
+  "Jujuy": {
+   "top3": [
+    {
+     "titulo": "El Gobierno de Jujuy destinó créditos para acompañar la cosecha tabacalera 2026",
+     "medio": "Jujuy al día",
+     "fecha": "08/11/2026",
+     "url": "https://www.jujuyaldia.com.ar/2026/11/08/el-gobierno-de-jujuy-destino-creditos-para-acompanar-la-cosecha-tabacalera-2026/",
+     "tag": "También en El Tribuno"
+    },
+    {
+     "titulo": "El 2° Congreso de la Mujer Gaucha cierra en Maimará",
+     "medio": "El Tribuno",
+     "fecha": "08/11/2026",
+     "url": "https://eltribunodejujuy.com/municipios/2026-11-8-1-25-0-el-2-congreso-de-la-mujer-gaucha-cierra-en-maimara",
+     "tag": "También en Jujuy al día"
+    },
+    {
+     "titulo": "Una tejedora jujeña participará de un encuentro con el papa León XIV",
+     "medio": "Somos Jujuy",
+     "fecha": "08/11/2026",
+     "url": "https://www.somosjujuy.com.ar/jujuy/una-tejedora-jujena-participara-encuentro-papa-leon-xiv-n126829",
+     "tag": "También en Todo Jujuy"
+    }
+   ],
+   "imagen": []
+  },
+  "La Pampa": {
+   "top3": [
+    {
+     "titulo": "Marita Mac Allister sigue caminando su candidatura a gobernadora",
+     "medio": "El Diario de La Pampa",
+     "fecha": "08/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82822/marita-mac-allister-sigue-caminando-su-candidatura-a-gobernadora-"
+    },
+    {
+     "titulo": "\"Nuestra candidata a gobernadora es Marita Mac Allister\", dice Huala",
+     "medio": "El Diario de La Pampa",
+     "fecha": "08/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82815/nuestra-candidata-a-gobernadora-es-marita-mac-allister-dice-huala"
+    },
+    {
+     "titulo": "Presupuesto 2027: los reclamos de aliados frenan un acuerdo",
+     "medio": "La Arena",
+     "fecha": "08/11/2026",
+     "url": "https://www.laarena.com.ar/el-pais/presupuesto-2027-los-reclamos-de-aliados-frenan-un-acuerdo-20261180120"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "Presupuesto 2027 de La Rioja, salarios, deuda y obras entre los principales números",
+     "medio": "Nueva Rioja",
+     "fecha": "08/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/presupuesto-2027-de-la-rioja-salarios-deuda-y-obras-entre-los-principales-numeros.htm"
     }
    ],
    "imagen": []
@@ -124,6 +275,46 @@
      "medio": "Mendoza Post",
      "fecha": "08/11/2026",
      "url": "https://www.mendozapost.com/politica/quincho-un-candidato-moroso-un-senador-en-apuros-y-un-sobreviviente-designado/"
+    },
+    {
+     "titulo": "Badaloni y los empresarios se hartaron de esperar respuestas y ahora aspiran a desembarcar en la Legislatura",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/badaloni-y-los-empresarios-se-hartaron-esperar-respuestas-y-ahora-aspiran-desembarcar-la-legislatura-n1614171"
+    },
+    {
+     "titulo": "A Milei y los gobernadores asociados (Cornejo entre ellos) los pusieron a parir tras el crash de Trump",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariouno.com.ar/opinion/a-milei-y-los-gobernadores-asociados-cornejo-ellos-los-pusieron-parir-el-crash-trump-n1614423"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "Trump apuesta por Stephen Miller para endurecer su agenda tras la derrota electoral",
+     "medio": "Primera Edición",
+     "fecha": "08/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101158690/trump-stephen-miller-agenda-derrota-electoral-estados-unidos/"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Neuquinos en el mundo Fiona Cúneo volvió a las competencias internacionales y ya piensa en el 2027",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "08/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/08/266904-fiona-cuneo-volvio-a-las-competencias-internacionales-y-ya-piensa-en-el-2027"
+    },
+    {
+     "titulo": "Turismo Paleontológico Así será el nuevo museo de El Chocón: un proyecto gigante para viajar al mundo de los dinosaurios",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "08/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/08/266901-asi-sera-el-nuevo-museo-de-el-chocon-un-proyecto-gigante-para-viajar-al-mundo-de-los-dinosaurios"
     }
    ],
    "imagen": []
@@ -131,10 +322,23 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Si quitan el impuesto a los Sellos, Río Negro resignaría 21,5 millones de dólares anuales",
+     "titulo": "PROFARSE por dentro: el trabajo y el compromiso detrás de cada medicamento",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "08/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62714/profarse-por-dentro-el-trabajo-y-el-compromiso-detras-de-cada-medicamento",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Javier Milei y Patricia Bullrich cruzan tensiones por los cupos para el 2027 en la antesala de la cita con el papa León XIV",
      "medio": "Diario Rio Negro",
      "fecha": "08/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/si-quitan-el-impuesto-a-los-sellos-rio-negro-resignaria-215-millones-de-dolares-anuales/"
+     "url": "https://www.rionegro.com.ar/politica/javier-milei-y-patricia-bullrich-cruzan-tensiones-por-los-cupos-para-el-2027-en-la-antesala-de-la-cita-con-el-papa-leon-xiv-4789655/"
+    },
+    {
+     "titulo": "Lo buscaban en Neuquén por una deuda con un banco y apareció en San Antonio Oeste",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "08/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62730/lo-buscaban-en-neuquen-por-una-deuda-con-un-banco-y-aparecio-en-san-antonio-oeste"
     }
    ],
    "imagen": []
@@ -142,16 +346,81 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "El Gobierno busca destrabar el Presupuesto 2027",
-     "medio": "El Tribuno",
+     "titulo": "Karina Milei mostró los preparativos para recibir al Papa: \"Que nos encontremos unidos\"",
+     "medio": "Que Pasa Salta",
      "fecha": "08/11/2026",
-     "url": "https://www.eltribuno.com/nacionales/2026-11-8-0-0-0-el-gobierno-busca-destrabar-el-presupuesto-2027"
+     "url": "https://www.quepasasalta.com.ar/politica/karina-milei-mensaje-llegada-papa-leon-xiv/"
     },
     {
      "titulo": "Salta cerró los Juegos Nacionales Juveniles Evita con 68 medallas y se posicionó como la mejor delegación del NOA",
      "medio": "Prensa oficial de Salta",
      "fecha": "08/11/2026",
      "url": "https://www.salta.gob.ar/prensa/noticias/salta-cerro-los-juegos-nacionales-juveniles-evita-con-68-medallas-y-se-posiciono-como-la-mejor-delegacion-del-noa-111006"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Una encuesta reveló que el 76% de los salteños optarían por la eutanasia si fuera legal",
+     "medio": "Informate Salta",
+     "fecha": "08/11/2026",
+     "url": "https://informatesalta.com.ar/salud/una-encuesta-revelo-que-el-76--de-los-saltenos-optarian-por-la-eutanasia-si-fuera-legal_a6aee5ae4696ebfa450ae9979"
+    }
+   ]
+  },
+  "San Juan": {
+   "top3": [
+    {
+     "titulo": "La interna entre Bullrich y Milei repercute en los dirigentes libertarios de San Juan",
+     "medio": "El Zonda",
+     "fecha": "08/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/politica/la-interna-entre-bullrich-y-milei-repercute-en-los-dirigentes-libertarios-de-san-juan"
+    },
+    {
+     "titulo": "El Niño exige a los proyectos mineros contratar más servicios y rearmar sus cronogramas y presupuestos Por Carolina Putelli",
+     "medio": "Diario de Cuyo",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/cuyo-minero/el-nino-exige-los-proyectos-mineros-contratar-mas-servicios-y-rearmar-sus-cronogramas-y-presupuestos-n6587944"
+    },
+    {
+     "titulo": "Las perlitas de la rosca en San Juan: el católico que no quiere \"otro Alberto\"; la referente de Bullrich que responde a Peluc; y el pedido de la jueza Barú Budú Budía Por Fernando Ortiz",
+     "medio": "Diario de Cuyo",
+     "fecha": "08/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/las-perlitas-la-rosca-san-juan-el-catolico-que-no-quiere-otro-alberto-la-referente-bullrich-que-responde-peluc-y-el-pedido-la-jueza-baru-budu-budia-n6587894"
+    }
+   ],
+   "imagen": []
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Guillermo Moreno volvió a San Luis para hablar de la economía peronista",
+     "medio": "El Diario de la República",
+     "fecha": "08/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-8-10-37-0-guillermo-moreno-volvio-a-san-luis-para-hablar-de-la-economia-peronista"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Santa Cruz dejó su huella en los Juegos Evita: una experiencia que trasciende las medallas",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "08/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/desarrollo-social/santa-cruz-dejo-su-huella-en-los-juegos-evita-una-experiencia-que-trasciende-las-medallas",
+     "tag": "También en El Diario Nuevo Día"
+    },
+    {
+     "titulo": "Fredonia Mining confirmó a Vidal la inversión de US$345,7 millones en el proyecto aurífero El Dorado–Monserrat",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "08/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/fredonia-mining-confirmo-a-vidal-inversion-de-us-345-7-millones-en-el-proyecto-aurifero-el-dorado-monserrat"
+    },
+    {
+     "titulo": "Gobernador Vidal: La mineria crece en Santa Cruz y ahora el trabajo queda acá",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "08/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/gobernador-vidal-la-mineria-crece-en-santa-cruz-y-ahora-el-trabajo-queda-aca/"
     }
    ],
    "imagen": []
@@ -163,6 +432,19 @@
      "medio": "Perfil",
      "fecha": "08/11/2026",
      "url": "https://www.perfil.com/politica/el-peronismo-entre-ampliar-un-frente-contra-milei-y-resolver-sus-propias-diferencias-a2FU70K5IUbv"
+    },
+    {
+     "titulo": "Pusineri pidió una convocatoria urgente del Partido Justicialista de Santa Fe",
+     "medio": "Rosario Plus",
+     "fecha": "08/11/2026",
+     "url": "https://www.rosarioplus.com/actualidad/politica/pusineri-pidio-una-convocatoria-urgente-del-partido-justicialista-de-santa-fe_a6af07c2c696ebfa450bc4ef9"
+    },
+    {
+     "titulo": "Un domingo soleado dará paso a una semana con temperaturas en ascenso en Rosario",
+     "medio": "Rosario3",
+     "fecha": "08/11/2026",
+     "url": "https://www.rosario3.com/informaciongeneral/un-domingo-soleado-dara-paso-a-una-semana-con-temperaturas-en-ascenso-en-rosario-20261108-0002.html",
+     "tag": "También en Rosario Plus"
     }
    ],
    "imagen": []
@@ -170,17 +452,45 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "El papa León XIV llega este domingo a la Argentina: horarios, lugares y todo el cronograma de su primera jornada",
+     "titulo": "Locales Papa León XIV en Argentina: el gobernador Elías Suárez encabezará la delegación santiagueña en la recepción en el Palacio Libertad",
+     "medio": "Info del Estero",
+     "fecha": "08/11/2026",
+     "url": "https://infodelestero.com/2026/11/08/papa-leon-xiv-en-argentina-el-gobernador-elias-suarez-encabezara-la-delegacion-santiaguena-en-la"
+    },
+    {
+     "titulo": "Marcelo Longobardi reveló que sufrió “aprietes” de Sergio Berni en el Gobierno de Cristina",
      "medio": "Diario Panorama",
      "fecha": "08/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572256/papa-leon-xiv-llega-este-domingo-argentina-horarios-lugares-todo-cronograma-primera-jornada",
-     "tag": "También en El Liberal"
+     "url": "https://www.diariopanorama.com/noticia/572273/marcelo-longobardi-revelo-sufrio-aprietes-sergio-berni-gobierno-cristina"
     },
     {
      "titulo": "Siaba Serrate: \"El riesgo país refleja el temor del mercado a una elección complicada\"",
      "medio": "El Liberal",
      "fecha": "08/11/2026",
      "url": "https://www.elliberal.com.ar/nota/97341/2026/11/siaba-serrate--el-riesgo-pais-refleja-el-temor-del-mercado-a-una-eleccion-complicada"
+    }
+   ],
+   "imagen": []
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "El Papa en la Argentina: Milei busca levantar el perfil y la oposición espera que deje un mensaje sobre la pobreza y la desocupación",
+     "medio": "Los Primeros",
+     "fecha": "08/11/2026",
+     "url": "https://www.losprimeros.tv/politica/el-papa-en-la-argentina--milei-busca-levantar-el-perfil-y-la-oposicion-espera-que-deje-un-mensaje-sobre-la-pobreza-y-la-desocupacion_a6af04e37696ebfa450bb226b"
+    },
+    {
+     "titulo": "Karina Milei: “Todo listo para recibir al papa León XIV”",
+     "medio": "Los Primeros",
+     "fecha": "08/11/2026",
+     "url": "https://www.losprimeros.tv/politica/karina-milei---todo-listo-para-recibir-al-papa-leon-xiv-_a6af07b92696ebfa450bc4aa4"
+    },
+    {
+     "titulo": "IA aplicada a la Justicia: un congreso pone a Tucumán en el centro del debate",
+     "medio": "LV12",
+     "fecha": "08/11/2026",
+     "url": "https://www.lv12.com.ar/tucuman/ia-aplicada-la-justicia-un-congreso-pone-tucuman-el-centro-del-debate-n206322"
     }
    ],
    "imagen": []
@@ -209,6 +519,7 @@
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
   "https://elexpresodesalta.com.ar/",
+  "https://nuevodiariodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
   "https://elmediadortv.com.ar/",
