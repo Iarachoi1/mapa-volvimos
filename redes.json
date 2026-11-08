@@ -1,10 +1,64 @@
 {
- "actualizado": "07/11 23:39",
+ "actualizado": "08/11 00:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "johnny walker",
+   "busquedas": "100+",
+   "nota": "LIVE! UFC Vegas 124 Results: Cortes-Acosta vs. Walker",
+   "nota_url": "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker",
+   "medio": "MMA Fighting",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pumas - américa",
+   "busquedas": "500+",
+   "nota": "Las 2 dudas del Club América para el Clásico Capitalino ante Pumas",
+   "nota_url": "https://bolavip.com/mx/america/las-2-dudas-del-club-america-para-el-clasico-capitalino-ante-pumas",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tatiana suarez",
+   "busquedas": "100+",
+   "nota": "UFC Fight Night best bets",
+   "nota_url": "https://www.sportsbookreview.com/picks/ufc/best-bets-predictions-ufc-fight-night-cortes-acosta-walker-november-7-2026/",
+   "medio": "Sportsbook Review",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "trail blazers - spurs",
+   "busquedas": "500+",
+   "nota": "It’s time for Basketball: San Antonio Spurs at Portland Trail Blazers",
+   "nota_url": "https://www.poundingtherock.com/spurs-discussion-threads/109659/its-time-for-basketball-san-antonio-spurs-at-portland-trail-blazers",
+   "medio": "Pounding The Rock",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "suns - rockets",
+   "busquedas": "100+",
+   "nota": "11/07/2026 Suns vs Rockets Game Preview",
+   "nota_url": "https://www.nba.com/suns/news/11-07-2026-suns-vs-rockets-game-preview",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "película",
+   "busquedas": "200+",
+   "nota": "Director de ‘Godzilla Minus Zero’ explica cómo sus dos gatos inspiraron uno de los enfrentamientos más importantes",
+   "nota_url": "https://es-us.vida-estilo.yahoo.com/director-godzilla-minus-zero-explica-010826289.html",
+   "medio": "Yahoo en Español Vida y Estilo",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "julieta ortega",
    "busquedas": "100+",
@@ -17,81 +71,27 @@
   {
    "tema": "marcha orgullo",
    "busquedas": "2000+",
-   "nota": "“Ojalá a la gente le diera tanto miedo tener un hijo golpeador como tener un hijo gay”: La Joaqui brilló en la Marcha del Orgullo",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/07/ojala-a-la-gente-le-diera-tanto-miedo-tener-un-hijo-golpeador-como-tener-un-hijo-gay-la-joaqui-brillo-en-la-marcha-del-orgullo/",
-   "medio": "TN",
+   "nota": "Las mejores fotos de la 35º Marcha del Orgullo",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/07/las-mejores-fotos-de-la-35-marcha-del-orgullo/",
+   "medio": "Página|12",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "loto plus",
-   "busquedas": "1000+",
-   "nota": "Loto Plus hoy: los números ganadores del sorteo 3.933 del sábado 7 de noviembre de 2026",
-   "nota_url": "https://www.lavoz.com.ar/servicios/loto-plus-hoy-numeros-ganadores-sorteo-3933-sabado-7-noviembre-2026_0_8zQUs53FC1.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
    "temas": []
   },
   {
    "tema": "cienciano - sport huancayo",
    "busquedas": "200+",
-   "nota": "¡DUELO CALIENTE EN LAS ALTURAS!",
-   "nota_url": "https://www.apnoticias.pe/duelo-caliente-en-las-alturas-1522826",
-   "medio": "AP Noticias",
+   "nota": "¡Hazaña en Cusco! Sport Huancayo venció 2-1 a Cienciano y es líder absoluto del Clausura",
+   "nota_url": "https://libero.pe/futbol-peruano/liga-1/2026/11/06/cienciano-vs-sport-huancayo-en-vivo-gratis-partido-del-torneo-clausura-via-liga-1-max-internet-121734",
+   "medio": "Diario Libero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "américa - deportivo cali",
-   "busquedas": "200+",
-   "nota": "¿Protesta en América antes del clásico? Jugadores reclamarían pagos pendientes",
-   "nota_url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17485515/protesta-america-antes-del-clasico-jugadores-reclamarian-pagos-pendientes",
-   "medio": "ESPN Deportes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lucas sugo",
-   "busquedas": "100+",
-   "nota": "Papa León XIV (Estadio Centenario): en la previa Lucas Sugo canta “Solo le pido a Dios”.",
-   "nota_url": "https://cadenadelmar.uy/local/papa-leon-xiv-estadio-centenario-en-la-previa-lucas-sugo-canta-solo-le-pido-a-dios-26150",
-   "medio": "Cadena del Mar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "thunder - wizards",
-   "busquedas": "100+",
-   "nota": "Wizards Thunder Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/wizards-thunder-basketball/image_47f6f535-df87-5d83-bf9f-305766de799b.html",
-   "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "grego rossello",
-   "busquedas": "500+",
-   "nota": "Grego Rossello dio el batacazo en MasterChef Celebrity con una hamburguesa que lo llevó directo al balcón",
-   "nota_url": "https://www.infobae.com/video/teleshow/grego-rossello-dio-el-batacazo-en-masterchef-celebrity-con-una-hamburguesa-que-lo-llevo-directo-al-balcon/AsSRedan/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de atlético nacional contra deportivo pereira",
-   "busquedas": "1000+",
-   "nota": "¿Juega James Rodríguez? Las alineaciones de Atlético Nacional vs. Deportivo Pereira por la Liga BetPlay Dim...",
-   "nota_url": "https://bolavip.com/mx/futbol-internacional/juega-james-rodriguez-las-alineaciones-de-atletico-nacional-vs-deportivo-pereira-por-la-liga-betplay-dimayor",
-   "medio": "Bolavip México",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tigres - cruz azul",
-   "busquedas": "200+",
-   "nota": "Tigres vs Cruz Azul: Alineaciones, horario y dónde ver EN VIVO el partido",
-   "nota_url": "https://www.gq.com.mx/articulo/tigres-vs-cruz-azul-alineaciones-horario-donde-ver-en-vivo-07-11-2026",
-   "medio": "GQ México y Latinoamérica",
+   "tema": "loto",
+   "busquedas": "2000+",
+   "nota": "Loto Plus hoy: los números ganadores del sorteo 3.933 del sábado 7 de noviembre de 2026",
+   "nota_url": "https://www.lavoz.com.ar/servicios/loto-plus-hoy-numeros-ganadores-sorteo-3933-sabado-7-noviembre-2026_0_8zQUs53FC1.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
