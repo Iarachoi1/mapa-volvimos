@@ -1,99 +1,97 @@
 {
- "actualizado": "08/11 18:24",
+ "actualizado": "08/11 19:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "nunciatura",
+   "tema": "posiciones de fiorentina contra juventus fc",
    "busquedas": "1000+",
-   "nota": "El Papa afirmó en Uruguay que ningún niño debería irse a dormir sin comer",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/08/el-papa-afirmo-en-uruguay-que-ningun-nino-de-este-pais-deberia-irse-a-dormir-sin-comer/",
-   "medio": "Página|12",
+   "nota": "Fiorentina fans’ tifo with two-word message for Juventus clash explained",
+   "nota_url": "https://sports.yahoo.com/articles/fiorentina-fans-tifo-two-word-200700797.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bono",
-   "busquedas": "2000+",
-   "nota": "Jubilados con moratoria reciben un triple pago en diciembre",
-   "nota_url": "https://www.cronica.com.ar/sociedad/jubilados-con-moratoria-reciben-un-triple-pago-en-diciembre/",
-   "medio": "Crónica",
-   "relevante": true,
+   "tema": "julián alvarez",
+   "busquedas": "200+",
+   "nota": "Joan Laporta: \"Las relaciones con el Atlético pasaron por un momento difícil, pero tenemos aprecio mutuo\"",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/08/joan-laporta-las-relaciones-con-el-atletico-pasaron-por-un-momento-dificil-pero-tenemos-aprecio-mutuo/",
+   "medio": "Infobae",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de aucas contra independiente del valle",
+   "tema": "luca regiardo",
+   "busquedas": "5000+",
+   "nota": "\"Es inaceptable\", Luca Regiardo pidió disculpas por el festejo de Newell's tras el título de Boca",
+   "nota_url": "https://www.lacapital.com.ar/ovacion/es-inaceptable-luca-regiardo-pidio-disculpas-el-festejo-newells-el-titulo-boca-n10291129.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tucumán",
+   "busquedas": "100+",
+   "nota": "Tucumán tuvo una jornada de calor intenso y nubosidad durante este viernes 6 de noviembre",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/06/clima-en-tucuman-hoy-viernes-6-de-noviembre-calor-intenso-y-algo-de-nubes/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "flavio briatore",
    "busquedas": "1000+",
-   "nota": "Macará y Universidad Católica igualaron 2-2 en un partidazo por el hexagonal final de la LigaPro 2026",
-   "nota_url": "https://www.primicias.ec/deportes/ligapro/macara/envivo-universidad-catolica-fecha6-primer-hexagonal-resultado-ver-partido-tv-136542/",
-   "medio": "Primicias",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "jorge macri",
-   "busquedas": "200+",
-   "nota": "Fórmula 1: Jorge Macri presentó en San Pablo la propuesta de la Ciudad para que vuelva a correr en el Autódromo",
-   "nota_url": "https://buenosaires.gob.ar/noticias/formula-1-jorge-macri-presento-en-san-pablo-la-propuesta-de-la-ciudad-para-que-vuelva",
-   "medio": "Buenos Aires Ciudad",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "benfica",
-   "busquedas": "200+",
-   "nota": "Vídeo - LIGA PORTUGAL MEU SUPER 2026/27 - II Liga (10ªJ): Resumo Farense 2-3 Benfica B",
-   "nota_url": "https://www.sporttv.pt/videos/1/mais-recentes/video/1_gs57blan/ii-liga-10aj-resumo-farense-2-3-benfica-b",
-   "medio": "Sport TV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barcelona sc - ldu quito",
-   "busquedas": "200+",
-   "nota": "Un llamado a la afición Torera: Barcelona pone precios populares para su duelo con Liga",
-   "nota_url": "https://www.futbolecuador.com/2021/site/noticia/un-llamado-a-la-aficion-torera-barcelona-pone-precios-populares-para-su-duelo-con-liga/172016",
-   "medio": "futbolecuador.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de atlético de madrid contra fc barcelona",
-   "busquedas": "200+",
-   "nota": "Diego Simeone backs Julián Álvarez for Barcelona clash after Atlético transfer saga",
-   "nota_url": "https://www.espn.com/soccer/story/_/id/50407601/diego-simeone-julian-alvarez-barcelona-atletico-madrid",
-   "medio": "ESPN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de chankas cyc contra alianza lima",
-   "busquedas": "1000+",
-   "nota": "Chankas vs. Alianza Lima, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
-   "nota_url": "https://www.tycsports.com/peru/futbol-de-peru/chankas-vs-alianza-lima-en-vivo-donde-ver-por-tv-y-online-id770124.html",
+   "nota": "Briatore, disconforme con el rendimiento de Alpine en el GP de Brasil: “Estuvimos muy por debajo de nuestro nivel”",
+   "nota_url": "https://www.tycsports.com/automovilismo/briatore-autocritico-alpine-gp-brasil-id770867.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "andrea kimi antonelli",
-   "busquedas": "200+",
-   "nota": "El cruce en boxes que llevó a Colapinto y Antonelli ante los comisarios",
-   "nota_url": "https://www.ellitoral.com/deportes/colapinto-antonelli-alpine-mercedes-boxes-comisarios_0_R4kQqMGjsh.html",
-   "medio": "El Litoral",
+   "tema": "central córdoba - lanús",
+   "busquedas": "2000+",
+   "nota": "Lanús busca terminar lo más arriba posible",
+   "nota_url": "https://www.eldia.com/deportes/lanus-busca-terminar-lo-mas-arriba-posible-deportes_1794119450",
+   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "juez",
+   "tema": "benfica vs",
+   "busquedas": "200+",
+   "nota": "Alineaciones de Benfica y Lech Poznan para el duelo de la jornada 4 de la Europa League",
+   "nota_url": "https://bolavip.com/ar/europa-league/alineaciones-de-benfica-y-lech-poznan-para-el-duelo-de-la-jornada-4-de-la-europa-league",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wta finals",
    "busquedas": "100+",
-   "nota": "Un ex juez de la Corte Suprema bonaerense chocó contra un local y atropelló a cinco mujeres en City Bell",
-   "nota_url": "https://www.rionegro.com.ar/sociedad/un-ex-juez-de-la-corte-suprema-bonaerense-choco-contra-un-local-y-atropello-a-cinco-mujeres-en-city-bell-4788153/",
-   "medio": "Diario Río Negro",
+   "nota": "WTA Finals Best Bets Including Marta Kostyuk vs Linda Noskova",
+   "nota_url": "https://lastwordonsports.com/tennis/2026/11/08/wta-finals-kostyuk-noskova/",
+   "medio": "Last Word On Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de independiente santa fe contra deportivo pasto",
+   "busquedas": "2000+",
+   "nota": "Santa Fe no tuvo piedad con la Sub-20 del Deportivo Pasto y aseguró, con goleada, la clasificación a los cuadrangulares semifinales",
+   "nota_url": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-no-tuvo-piedad-con-la-sub-20-del-deportivo-pasto-y-aseguro-con-goleada-la-clasificacion-a-los-cuadrangulares-semifinales-3599420",
+   "medio": "El Tiempo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nunciatura",
+   "busquedas": "500+",
+   "nota": "Lo que deja la visita del papa León XIV a Uruguay y qué se espera de su mensaje en la Argentina",
+   "nota_url": "https://www.clarin.com/sociedad/deja-visita-papa-leon-xiv-uruguay-espera-mensaje-argentina_0_iNIIklHAtv.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
