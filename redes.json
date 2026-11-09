@@ -1,13 +1,85 @@
 {
- "actualizado": "09/11 13:53",
+ "actualizado": "09/11 14:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "diego santilli",
+   "tema": "oscar piastri",
    "busquedas": "200+",
+   "nota": "Oscar Piastri splits from Mark Webber management",
+   "nota_url": "https://www.motorsport.com/f1/news/oscar-piastri-wont-have-mark-webber-as-his-manager-anymore/10873253/",
+   "medio": "Motorsport.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "entradas boca vs banfield",
+   "busquedas": "100+",
+   "nota": "Próximo partido de Boca: cuándo juega vs. Banfield, por la Copa Argentina 2026",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/proximo-partido-de-boca-cuando-juega-vs-banfield-por-la-copa-argentina-2026-nid09112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tomás martín etcheverry",
+   "busquedas": "500+",
+   "nota": "Etcheverry pone primera en el ATP 250 de Estocolmo",
+   "nota_url": "https://noticiasargentinas.com/deportes/etcheverry-pone-primera-en-el-atp-250-de-estocolmo_a6af1ce6fbb351de480725529",
+   "medio": "Agencia Noticias Argentinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuando sale gta 6",
+   "busquedas": "100+",
+   "nota": "El videojuego “GTA VI” ya recaudó 750 millones de dólares en la previa del lanzamiento",
+   "nota_url": "https://tn.com.ar/tecno/juegos/2026/11/09/el-videojuego-de-accion-gta-vi-ya-recaudo-750-millones-de-dolares-en-la-previa-del-lanzamiento/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reese witherspoon",
+   "busquedas": "100+",
+   "nota": "In 2007, Reese Witherspoon developed and produced a movie from the ground up. Three weeks before shooting, she quit",
+   "nota_url": "https://faroutmagazine.co.uk/2007-reese-witherspoon-developed-produced-movie-quit/",
+   "medio": "Far Out Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dakar",
+   "busquedas": "200+",
+   "nota": "Basket 3×3 : les Lioncelles éliminent le Chili et filent en demi-finales aux JOJ",
+   "nota_url": "https://www.seneplus.com/article/joj-dakar-2026-basket-33-les-lioncelles-eliminent-le-chili-et-filent-en-demi-finales",
+   "medio": "SenePlus",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "martes 10 de noviembre es feriado",
+   "busquedas": "1000+",
+   "nota": "Feriado del lunes 9 de noviembre por el Papa: ¿hay clases y qué pasa con bancos y transporte?",
+   "nota_url": "https://www.clarin.com/informacion-general/feriado-lunes-9-noviembre-papa-clases-pasa-bancos-transporte_0_NmVfyTVJD5.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lujan",
+   "busquedas": "2000+",
+   "nota": "Cinco monjas sobrevivieron a un vuelco en la Ruta 188 cuando se dirigían a ver al papa León XIV en Luján",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/08/cinco-monjas-sobrevivieron-a-un-vuelco-en-la-ruta-188-cuando-se-dirigian-a-ver-al-papa-leon-xiv-en-lujan/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego santilli",
+   "busquedas": "500+",
    "nota": "Santilli respondió al discurso de León XIV y defendió el rumbo del Gobierno",
    "nota_url": "https://www.elliberal.com.ar/nota/97429/2026/11/santilli-respondio-al-discurso-de-leon-xiv-y-defendio-el-rumbo-del-gobierno",
    "medio": "El Liberal",
@@ -20,78 +92,6 @@
    "nota": "Sismo débil mag. 2.7 - Departamento de Belen, 216 km al noroeste de San Fernando del Valle de Catamarca, Departamento de Capital, Catamarca, Argentina, Monday 9 Nov 2026 a las 06:09 (GMT -3)",
    "nota_url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23620377/mag2quake-Nov-9-2026-Catamarca-Argentina.html",
    "medio": "Volcano Discovery",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "russell brand",
-   "busquedas": "1000+",
-   "nota": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
-   "nota_url": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "evangelio de hoy",
-   "busquedas": "100+",
-   "nota": "Lecturas de hoy. Lunes 9 de noviembre de 2026",
-   "nota_url": "https://www.elconfidencialdigital.com/articulo/evangelio-de-hoy/lecturas-hoy-lunes-9-noviembre-2026/202611090326291500639.html",
-   "medio": "Confidencial Digital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fernando bravo",
-   "busquedas": "2000+",
-   "nota": "El histórico locutor Fernando Bravo abrió la misa del papa León XIV leyendo la profecía de Ezequiel",
-   "nota_url": "https://www.radiodos.com.ar/216810-el-historico-locutor-fernando-bravo-abrio-la-misa-del-papa-leon-xiv-leyendo-la-profecia-de-ezequiel",
-   "medio": "Radio Dos Corrientes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "garcia cuerva",
-   "busquedas": "1000+",
-   "nota": "García Cuerva sobre el arribo del Papa León XIV en Argentina: \"Hay una gran esperanza\"",
-   "nota_url": "https://www.elliberal.com.ar/nota/97348/2026/11/garcia-cuerva-sobre-el-arribo-del-papa-leon-xiv-en-argentina--hay-una-gran-esperanza",
-   "medio": "El Liberal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela de hoy",
-   "busquedas": "500+",
-   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este lunes, 9 de noviembre",
-   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-lunes-9-de-noviembre-20261195013",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "soledad pastorutti",
-   "busquedas": "200+",
-   "nota": "Video La emoción de la gente mientras escucha a La Sole en Palermo",
-   "nota_url": "https://www.clarin.com/videos/emocion-gente-escucha-sole-palermo_3_DY7vmkvCCI.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miguel merentiel",
-   "busquedas": "200+",
-   "nota": "El emotivo posteo de Miguel Merentiel tras la consagración de Boca: \"Quién le iba a decir a ese pibe\"",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17496162/el-emotivo-posteo-de-miguel-merentiel-tras-la-consagracion-de-boca-quien-le-iba-a-decir-a-ese-pibe",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "entrenador",
-   "busquedas": "1000+",
-   "nota": "El Real Oviedo destituye al entrenador Julián Calero",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/09/el-real-oviedo-destituye-al-entrenador-julian-calero/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
