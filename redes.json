@@ -1,10 +1,64 @@
 {
- "actualizado": "08/11 20:24",
+ "actualizado": "08/11 21:35",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "timberwolves - jazz",
+   "busquedas": "200+",
+   "nota": "Preview: Utah Jazz End Road Trip With Matchup Against Timberwolves",
+   "nota_url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jessica pegula",
+   "busquedas": "100+",
+   "nota": "How a hot mic at the WTA Finals caught Jessica Pegula calling Mirra Andreeva a ‘diva’ - The Athletic",
+   "nota_url": "https://www.nytimes.com/athletic/7756165/2026/11/05/wta-finals-pegula-andreeva-gauff-hot-mic-practice/",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de barcelona sc contra liga de quito",
+   "busquedas": "2000+",
+   "nota": "Barcelona SC y Liga de Quito empatan por Liga Ecuabet en el Monumental en un duelo con dos expulsados",
+   "nota_url": "https://www.eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-barcelona-sc-vs-liga-de-quito-por-la-fecha-6-del-primer-hexagonal-de-liga-pro-nota/",
+   "medio": "El Universo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juan cortese",
+   "busquedas": "200+",
+   "nota": "La respuesta de Di Carlo cuando le preguntaron por su relación con Ramón Díaz: “Cuando llegamos a River…”",
+   "nota_url": "https://lapaginamillonaria.com/river-plate/la-respuesta-de-di-carlo-cuando-le-preguntaron-por-su-relacion-ramon-diaz-cuando-llegamos-a-river",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "michael landon",
+   "busquedas": "500+",
+   "nota": "Melissa Gilbert Honors LITTLE HOUSE Star on His 90th Birthday",
+   "nota_url": "https://www.movieguide.org/news-articles/melissa-gilbert-honors-michael-landon-on-his-90th-birthday.html",
+   "medio": "Movieguide",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "stuart barlow",
+   "busquedas": "1000+",
+   "nota": "La bronca de Colapinto con Alpine por la inentendible estrategia en Brasil: \"¡Nada de doble!\"",
+   "nota_url": "https://www.mdzol.com/deportes/2026/11/8/la-bronca-de-colapinto-con-alpine-por-la-inentendible-estrategia-en-brasil-nada-de-doble-1993958.html",
+   "medio": "MDZ Online",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "tolima - millonarios",
    "busquedas": "200+",
@@ -17,15 +71,15 @@
   {
    "tema": "godzilla minus zero",
    "busquedas": "100+",
-   "nota": "Film Critic Review: ‘Godzilla Minus Zero’",
-   "nota_url": "https://www.forbes.com/sites/markhughes/2026/11/06/film-critic-review-godzilla-minus-zero-is-the-best-film-of-the-year/",
-   "medio": "Forbes",
+   "nota": "Column | A 14-movie guide to the best of modern Godzilla",
+   "nota_url": "https://www.washingtonpost.com/entertainment/movies/2026/11/07/14-movie-guide-best-modern-godzilla/",
+   "medio": "The Washington Post",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bombero",
-   "busquedas": "2000+",
+   "busquedas": "5000+",
    "nota": "Detuvieron cerca del escenario del Papa en Palermo a un falso bombero con un permiso de circulación apócrifo",
    "nota_url": "https://www.lanacion.com.ar/seguridad/detuvieron-cerca-del-escenario-del-papa-en-palermo-a-un-falso-bombero-con-un-permiso-de-circulacion-nid08112026/",
    "medio": "La Nación",
@@ -34,64 +88,10 @@
   },
   {
    "tema": "carmen barbieri",
-   "busquedas": "500+",
-   "nota": "Carmen Barbieri fue diagnosticada con COVID-19: la palabra de Fede Bal",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/08/carmen-barbieri-fue-diagnosticada-con-covid-19-la-palabra-de-fede-bal/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "coco gauff",
-   "busquedas": "200+",
-   "nota": "Martina Navratilova tells Coco Gauff what she wants her to do more at the WTA Finals this year",
-   "nota_url": "https://sports.yahoo.com/articles/martina-navratilova-tells-coco-gauff-200000766.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nvidia",
-   "busquedas": "100+",
-   "nota": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
-   "nota_url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
-   "medio": "Axios",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "monja",
-   "busquedas": "200+",
-   "nota": "Lleva 40 años en clausura y saldrá del convento para conocer al Papa León XIV",
-   "nota_url": "https://www.eldestapeweb.com/sociedad/lleva-40-anos-clausura-saldra-convento-conocer-papa-leon-xiv-2026117155513",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pistons - lakers",
-   "busquedas": "500+",
-   "nota": "Luka Doncic Injury: Ruled out Sunday",
-   "nota_url": "https://www.rotowire.com/basketball/headlines/luka-doncic-injury-ruled-out-sunday-538155",
-   "medio": "RotoWire",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ejército de chile",
-   "busquedas": "500+",
-   "nota": "Aselsan presenta al Ejército de Chile sus sistemas de guerra electrónica terrestre y defensa antidrón",
-   "nota_url": "https://www.infodefensa.com/texto-diario/mostrar/6078746/aselsan-presenta-ejercito-chile-sistemas-tacticos-terrestres-guerra-electronica-antidron",
-   "medio": "Infodefensa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vasco da gama vs. palmeiras",
-   "busquedas": "200+",
-   "nota": "Palmeiras eliminó a Vasco en los penales",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/palmeiras-elimino-vasco-penales_3_kD489ZRNkx.html",
-   "medio": "Olé",
+   "busquedas": "1000+",
+   "nota": "Volvieron a internar a Carmen Barbieri y hay preocupación por su salud",
+   "nota_url": "https://www.eldia.com/espectaculos/volvieron-a-internar-a-carmen-barbieri-y-hay-preocupacion-por-su-salud-espectaculos_1794141540",
+   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   }
