@@ -1,98 +1,98 @@
 {
- "actualizado": "09/11 06:49",
+ "actualizado": "09/11 07:44",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "cristiano ronaldo",
+   "tema": "colectivos de buenos aires",
+   "busquedas": "100+",
+   "nota": "Protesta de colectiveros en Avellaneda y Ciudadela: reclaman un sueldo básico de $3,5 millones y hay demoras en varias líneas",
+   "nota_url": "https://www.perfil.com/politica/protesta-de-colectiveros-en-avellaneda-y-ciudadela-por-un-basico-de-35-millones-an4xQ7J0BNAM",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "periodista",
+   "busquedas": "100+",
+   "nota": "Murió Felipe Acevedo, histórico periodista de Canal 9 Televida",
+   "nota_url": "https://elnueve.com/mendoza/murio-felipe-acevedo-historico-periodista-de-canal-9-televida_20261107/",
+   "medio": "Canal 9 Televida",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "san juan",
+   "busquedas": "100+",
+   "nota": "Feriado con más 30 °C en San Juan y chances de chaparrones por la tarde",
+   "nota_url": "https://www.tiempodesanjuan.com/san-juan/feriado-con-mas-30-c-en-san-juan-y-chances-de-chaparrones-por-la-tarde_1794187834",
+   "medio": "Tiempo de San Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riesgo país",
+   "busquedas": "100+",
+   "nota": "Dólar: las claves que explican por qué no sube pese al salto del riesgo país a máximos del año",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-las-claves-que-explican-que-no-sube-pese-al-salto-del-riesgo-pais-maximos-del-ano-n6342962",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cotización dólar blue",
    "busquedas": "200+",
-   "nota": "El final de una era: así fueron los tiempos de Messi y Cristiano en el fútbol internacional",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17479328/el-final-de-una-era-asi-fueron-los-tiempos-de-messi-y-cristiano-en-el-futbol-internacional",
-   "medio": "ESPN Argentina",
+   "nota": "Dólar blue hoy: a cuánto opera este domingo 8 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-8-noviembre-n6342877",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lunes 9 de noviembre es feriado",
+   "busquedas": "100+",
+   "nota": "Feriado del lunes 9 de noviembre por el Papa: ¿hay clases y qué pasa con bancos y transporte?",
+   "nota_url": "https://www.clarin.com/informacion-general/feriado-lunes-9-noviembre-papa-clases-pasa-bancos-transporte_0_NmVfyTVJD5.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "river vs lanús",
+   "busquedas": "200+",
+   "nota": "River espera rival para octavos: qué pasa si Lanús gana, empata o pierde contra Central Córdoba",
+   "nota_url": "https://lapaginamillonaria.com/torneo-clausura/river-espera-rival-para-octavos-que-pasa-si-lanus-gana-empata-o-pierde-contra-central-cordoba",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la gaceta",
+   "busquedas": "100+",
+   "nota": "Córdoba al 1300: Defensa Civil destacó que el sistema contra incendios permitió controlar las llamas",
+   "nota_url": "https://www.lv12.com.ar/incendio/cordoba-al-1300-defensa-civil-destaco-que-el-sistema-contra-incendios-permitio-controlar-las-llamas-n206359",
+   "medio": "LV12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "actor",
+   "busquedas": "200+",
+   "nota": "Breaking Bad stars gather for celebration of RJ Mitte’s life",
+   "nota_url": "https://www.news.com.au/entertainment/breaking-bad-stars-gather-for-celebration-of-rj-mittes-life/video/9e0febb42abd803f572fae4f22080689",
+   "medio": "News.com.au",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "todo noticias",
-   "busquedas": "100+",
-   "nota": "El descargo de Emanuel Noir, el cantante de Ke Personajes, tras golpear a un policía: “Hoy quiero pedir perdón”",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/08/el-descargo-de-emanuel-noir-el-cantante-de-ke-personajes-tras-golpear-a-un-policia-hoy-quiero-pedir-perdon/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canillita",
-   "busquedas": "100+",
-   "nota": "Día del Periodista Deportivo: un reconocimiento a quienes cuentan la pasión del fútbol",
-   "nota_url": "https://www.afa.com.ar/es/posts/dia-del-periodista-deportivo-un-reconocimiento-a-quienes-cuentan-la-pasion-del-futbol",
-   "medio": "AFA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "epic games",
-   "busquedas": "100+",
-   "nota": "Epic Games Launcher officially coming to Steam Deck, SteamOS support is confirmed",
-   "nota_url": "https://videocardz.com/newz/epic-games-launcher-officially-coming-to-steam-deck-steamos-support-is-confirmed",
-   "medio": "VideoCardz.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clippers - pelicans",
-   "busquedas": "100+",
-   "nota": "Keegan Murray returns for Sacramento",
-   "nota_url": "https://www.nytimes.com/athletic/live-blogs/nba-news-games-scores-stats-schedule-analysis-live-updates/HBD7r0ZK2u47/zrQsDXbztCkL/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gta 6",
    "busquedas": "200+",
-   "nota": "5 Things You Need To Do Before You Install Grand Theft Auto 6",
-   "nota_url": "https://www.bgr.com/2308570/things-to-do-before-installing-gta-6-ps5-xbox/",
-   "medio": "BGR",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lotería de santa fe",
-   "busquedas": "2000+",
-   "nota": "Con seis aciertos, un apostador de San Nicolás ganó más de $1.852 millones en el Quini 6, y en el Siempre Sale hubo 266 ganadores en todo el país",
-   "nota_url": "https://www.reconquistahoy.com/93252-con-seis-aciertos-un-apostador-de-san-nicolas-gano-mas-de-1852-millones-en-el-quini-6-y-en-el-siempre-sale-hubo-266-ganadores-en-todo-el-pais",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marta fort",
-   "busquedas": "500+",
-   "nota": "Así fue la fiesta de 15 de Marta Fort: vestido negro con diamantes, frases de su padre como decoración y más d...",
-   "nota_url": "https://caras.perfil.com/noticias/celebridades/fiesta-15-marta-fort.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - heat",
-   "busquedas": "500+",
-   "nota": "Heat Kings Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/heat-kings-basketball/image_6b4f7775-a250-5e78-9a10-f0f2e08adf04.html",
-   "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "shakira",
-   "busquedas": "500+",
-   "nota": "Shakira prepara su llegada a Colombia en medio de rumores sobre la salud de su padre",
-   "nota_url": "https://es-us.vida-estilo.yahoo.com/shakira-prepara-llegada-colombia-medio-213218679.html",
-   "medio": "Yahoo en Español Vida y Estilo",
-   "relevante": false,
+   "nota": "Emanuel Noir habló por primera vez tras ser detenido por agredir a un policía en Entre Ríos: “Me equivoqué”",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/08/emanuel-noir-hablo-por-primera-vez-tras-ser-detenido-por-agredir-a-un-policia-en-entre-rios-me-equivoque/",
+   "medio": "TN",
+   "relevante": true,
    "temas": []
   }
  ],
