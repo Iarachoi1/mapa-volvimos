@@ -1,13 +1,22 @@
 {
- "actualizado": "09/11 01:51",
+ "actualizado": "09/11 02:52",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "gta 6",
+   "tema": "clippers - pelicans",
    "busquedas": "100+",
+   "nota": "New Orleans Pelicans at Los Angeles Clippers - NBA Game Summary - Nov 08, 2026",
+   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018633/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=1",
+   "medio": "USA Today",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gta 6",
+   "busquedas": "200+",
    "nota": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
    "nota_url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
    "medio": "Charter Communications",
@@ -15,29 +24,20 @@
    "temas": []
   },
   {
-   "tema": "miami heat",
-   "busquedas": "100+",
-   "nota": "How To Watch Miami Heat At Sacramento Kings; Lineups, Injury Report, Betting Lines",
-   "nota_url": "https://sports.yahoo.com/articles/watch-miami-heat-sacramento-kings-170039570.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "lotería de santa fe",
    "busquedas": "1000+",
-   "nota": "De dónde es el afortunado apostador que se llevó más de $1.852 millones en el Quini 6",
-   "nota_url": "https://www.ellitoral.com/informacion-general/quini-6-loteria-santa-fe-sorteo-domingo-8-noviembre-ganador-tradicional-millones-buenos-aires_0_CD5n3k2ly6.html",
-   "medio": "El Litoral",
+   "nota": "Con seis aciertos, un apostador de San Nicolás ganó más de $1.852 millones en el Quini 6, y en el Siempre Sale hubo 266 ganadores en todo el país",
+   "nota_url": "https://www.reconquistahoy.com/93252-con-seis-aciertos-un-apostador-de-san-nicolas-gano-mas-de-1852-millones-en-el-quini-6-y-en-el-siempre-sale-hubo-266-ganadores-en-todo-el-pais",
+   "medio": "ReconquistaHOY",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - heat",
-   "busquedas": "200+",
-   "nota": "Gilgeous-Alexander's 42 points help Thunder to a 124-116 win over the Cavaliers",
-   "nota_url": "https://abcnews.com/Sports/wireStory/gilgeous-alexanders-42-points-thunder-124-116-win-137866357",
-   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "busquedas": "500+",
+   "nota": "Heat Survives Clutch Game with Kings with Barrage from Davion, Klay and Giannis",
+   "nota_url": "https://www.si.com/nba/heat/onsi/how-davion-mitchell-and-klay-thompson-helped-giannis-beat-the-kings-01m6zbm4sx8m",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
@@ -61,7 +61,7 @@
   },
   {
    "tema": "simeone",
-   "busquedas": "1000+",
+   "busquedas": "5000+",
    "nota": "Simeone se queda sin Cuti Romero y alaba a Julián Alvarez antes del reencuentro del Atlético de Madrid contra Barcelona, tras el culebrón pos Mundial 2026",
    "nota_url": "https://www.clarin.com/deportes/simeone-queda-cuti-romero-alaba-julian-alvarez-reencuentro-atletico-madrid-barcelona-culebron-pos-mundial-2026_0_B3cJvQiDYz.html",
    "medio": "Clarin.com",
@@ -71,9 +71,9 @@
   {
    "tema": "león - guadalajara",
    "busquedas": "500+",
-   "nota": "Leon vs Chivas LIVE, Latest Score, Goals and Liga MX Updates",
-   "nota_url": "https://www.vavel.com/en-us/soccer/2026/11/08/1278522-leon-vs-chivas-live-score-liga-mx.html",
-   "medio": "VAVEL.com",
+   "nota": "How to watch Leon vs Chivas match in the USA: Live stream and TV for 2026 Liga MX Apertura",
+   "nota_url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-leon-vs-chivas-match-in-the-usa-live-stream-and-tv-for-2026-liga-mx-apertura/",
+   "medio": "World Soccer Talk",
    "relevante": false,
    "temas": []
   },
