@@ -1,16 +1,61 @@
 {
- "actualizado": "09/11 11:07",
+ "actualizado": "09/11 12:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "russell brand",
+   "busquedas": "500+",
+   "nota": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
+   "nota_url": "https://apnews.com/article/russell-brand-trial-bbc-media-5b7bfac41a9dd82778bed6272d43e91e",
+   "medio": "AP News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "de dónde es el papa",
+   "busquedas": "500+",
+   "nota": "Así es la nueva Hilux convertida en papamóvil que ya utiliza León XIV en la Argentina",
+   "nota_url": "https://www.lanacion.com.ar/autos/asi-es-la-nueva-hilux-convertida-en-papamovil-que-ya-utiliza-leon-xiv-en-la-argentina-nid09112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "evangelio de hoy",
+   "busquedas": "100+",
+   "nota": "Elecciones, visitas pontificias y misceláneos en la cumbre episcopal",
+   "nota_url": "https://oaxaca.quadratin.com.mx/elecciones-visitas-pontificias-y-miscelaneos-en-la-cumbre-episcopal/",
+   "medio": "Quadratin Oaxaca",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "fernando bravo",
+   "busquedas": "2000+",
+   "nota": "El histórico locutor Fernando Bravo abrió la misa del papa León XIV leyendo la profecía de Ezequiel",
+   "nota_url": "https://www.radiodos.com.ar/216810-el-historico-locutor-fernando-bravo-abrio-la-misa-del-papa-leon-xiv-leyendo-la-profecia-de-ezequiel",
+   "medio": "Radio Dos Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "abel pintos le canta al papa",
+   "busquedas": "100+",
+   "nota": "De Abel Pintos a Pampita, la movida de los famosos",
+   "nota_url": "https://www.eldia.com/informacion-general/de-abel-pintos-a-pampita-la-movida-de-los-famosos-informacion-general_1794205554",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "soledad pastorutti",
    "busquedas": "200+",
-   "nota": "Soledad Pastorutti hizo vibrar a más de 15.000 personas en el cierre de la Fiesta Nacional de la Avicultura en Crespo",
-   "nota_url": "https://viapais.com.ar/parana/soledad-pastorutti-hizo-vibrar-15000-personas-cierre-fiesta-nacional-avicultura-crespo_0_1Y2HjyLZYm.html",
-   "medio": "Vía País",
+   "nota": "Video La emoción de la gente mientras escucha a La Sole en Palermo",
+   "nota_url": "https://www.clarin.com/videos/emocion-gente-escucha-sole-palermo_3_DY7vmkvCCI.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
@@ -24,74 +69,29 @@
    "temas": []
   },
   {
-   "tema": "atp estocolmo",
-   "busquedas": "1000+",
-   "nota": "El tenis argentino consiguió dos buenos triunfos en el último torneo ATP de la temporada",
-   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17495497/el-tenis-argentino-consiguio-dos-buenos-triunfos-en-el-ultimo-torneo-atp-de-la-temporada-juan-manuel-cerundolo-tirante-ymer-munar-estocolmo-resultados",
-   "medio": "ESPN Argentina",
+   "tema": "san miguel de tucumán",
+   "busquedas": "200+",
+   "nota": "Tras el incendio en calle Córdoba, vecinos esperan que Catastro defina si pueden volver a sus departamentos",
+   "nota_url": "https://www.losprimeros.tv/actualidad/tras-el-incendio-en-calle-cordoba--vecinos-esperan-que-catastro-defina-si-pueden-volver-a-sus-departamentos-_a6af1e0e9696ebfa450c8beff",
+   "medio": "Los Primeros TV",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "entrenador",
-   "busquedas": "200+",
-   "nota": "Comunicado oficial: Julián Calero",
-   "nota_url": "https://www.realoviedo.es/noticias/comunicado-oficial-julian-calero",
-   "medio": "Real Oviedo | Web Oficial",
+   "busquedas": "500+",
+   "nota": "Raúl González Blanco, nuevo entrenador del Oviedo",
+   "nota_url": "https://www.marca.com/futbol/oviedo/2026/11/09/raul-gonzalez-blanco-nuevo-entrenador-oviedo.html",
+   "medio": "MARCA",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ascensor",
    "busquedas": "200+",
-   "nota": "Se cayó el ascensor de un edificio frente al Parque Federal",
-   "nota_url": "https://sinmordaza.com/noticia/524627-se-cayo-el-ascensor-de-un-edificio-frente-al-parque-federal.html",
-   "medio": "Sin Mordaza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "13 de noviembre",
-   "busquedas": "200+",
-   "nota": "Horóscopo de hoy por Jimena La Torre: lunes 9 de noviembre de 2026",
-   "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/09/horoscopo-de-hoy-por-jimena-la-torre-lunes-9-de-noviembre-de-2026/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hoy es feriado?",
-   "busquedas": "1000+",
-   "nota": "Feriado del lunes 9 de noviembre por el Papa: ¿hay clases y qué pasa con bancos y transporte?",
-   "nota_url": "https://www.clarin.com/informacion-general/feriado-lunes-9-noviembre-papa-clases-pasa-bancos-transporte_0_NmVfyTVJD5.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "papa movil",
-   "busquedas": "500+",
-   "nota": "Papamóvil en Argentina: cuáles serán los recorridos de León XIV y cómo será el operativo de seguridad",
-   "nota_url": "https://www.filo.news/noticia/2026/11/08/papamovil-en-argentina-cuales-seran-los-recorridos-de-leon-xiv-y-como-sera-el-operativo-de-seguridad",
-   "medio": "Filo News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la nacion en vivo",
-   "busquedas": "200+",
-   "nota": "Qué se espera para el dólar y el riesgo después de la visita del Papa",
-   "nota_url": "https://www.iprofesional.com/economia/468623-que-se-espera-para-el-dolar-y-el-riesgo-despues-de-la-visita-del-papa",
-   "medio": "iProfesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "9 de noviembre",
-   "busquedas": "200+",
-   "nota": "Horóscopo del 9 de noviembre: el impacto de la Luna Nueva y Marte-Júpiter en las decisiones económicas de los 12 signos",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1161686/sociedad/horoscopo-9-noviembre-impacto-luna-nueva-martejupiter-decisiones-economicas-12-signos.html",
-   "medio": "La Gaceta",
+   "nota": "Cayó el ascensor de un edificio y hay varios heridos",
+   "nota_url": "https://www.lt10.com.ar/noticia/513347--cayo-el-ascensor-de-un-edificio-y-hay-varios-heridos",
+   "medio": "LT10",
    "relevante": false,
    "temas": []
   }
