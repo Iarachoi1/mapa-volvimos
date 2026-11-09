@@ -1,13 +1,22 @@
 {
- "actualizado": "09/11 04:01",
+ "actualizado": "09/11 05:55",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "canillita",
+   "busquedas": "100+",
+   "nota": "Día del Periodista Deportivo: un reconocimiento a quienes cuentan la pasión del fútbol",
+   "nota_url": "https://www.afa.com.ar/es/posts/dia-del-periodista-deportivo-un-reconocimiento-a-quienes-cuentan-la-pasion-del-futbol",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "epic games",
-   "busquedas": "200+",
+   "busquedas": "100+",
    "nota": "Epic Games Launcher officially coming to Steam Deck, SteamOS support is confirmed",
    "nota_url": "https://videocardz.com/newz/epic-games-launcher-officially-coming-to-steam-deck-steamos-support-is-confirmed",
    "medio": "VideoCardz.com",
@@ -17,9 +26,9 @@
   {
    "tema": "clippers - pelicans",
    "busquedas": "100+",
-   "nota": "Game Recap: Clipper 139, Pelicans 123 (Nov. 8)",
-   "nota_url": "https://www.nba.com/watch/video/game-recap-clipper-139-pelicans-123-nov-8",
-   "medio": "NBA.com",
+   "nota": "Keegan Murray returns for Sacramento",
+   "nota_url": "https://www.nytimes.com/athletic/live-blogs/nba-news-games-scores-stats-schedule-analysis-live-updates/HBD7r0ZK2u47/zrQsDXbztCkL/",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   },
@@ -42,6 +51,15 @@
    "temas": []
   },
   {
+   "tema": "marta fort",
+   "busquedas": "500+",
+   "nota": "Así fue la fiesta de 15 de Marta Fort: vestido negro con diamantes, frases de su padre como decoración y más d...",
+   "nota_url": "https://caras.perfil.com/noticias/celebridades/fiesta-15-marta-fort.phtml",
+   "medio": "Caras",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "kings - heat",
    "busquedas": "500+",
    "nota": "Game Recap: Heat 114, Kings 108 (Nov. 8)",
@@ -51,47 +69,29 @@
    "temas": []
   },
   {
-   "tema": "marta fort",
-   "busquedas": "500+",
-   "nota": "Nicole Neumann y Marta Fort se inspiran en la corsetería: cuero, arandelas y lazos",
-   "nota_url": "https://tn.com.ar/estilo/celebridades/2026/11/08/nicole-neumann-y-marta-fort-se-inspiran-en-la-corseteria-cuero-arandelas-y-lazos/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "shakira",
    "busquedas": "500+",
-   "nota": "Salud del Padre de Shakira: la Cantante Agradece el Cariño Recibido en Redes",
-   "nota_url": "https://www.nmas.com.mx/entretenimiento/salud-del-padre-de-shakira-la-cantante-agradece-el-carino-recibido-en-redes/",
-   "medio": "N+",
+   "nota": "Shakira prepara su llegada a Colombia en medio de rumores sobre la salud de su padre",
+   "nota_url": "https://es-us.vida-estilo.yahoo.com/shakira-prepara-llegada-colombia-medio-213218679.html",
+   "medio": "Yahoo en Español Vida y Estilo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "simeone",
    "busquedas": "1000+",
-   "nota": "Asistencia y dos mano a mano fallados: el discreto partido de Julián Álvarez ante Barcelona",
-   "nota_url": "https://www.elgrafico.com.ar/articulo/futbol-europeo/103821/asistencia-y-dos-mano-a-mano-fallados-el-discreto-partido-de-julian-alvarez-ante-barcelona",
-   "medio": "El Gráfico",
+   "nota": "El intento de Julián",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/08/el-intento-de-julian/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "león - guadalajara",
    "busquedas": "500+",
-   "nota": "NBA League Pass Tree Trial: How to Get a Free Trial of NBA League Pass",
-   "nota_url": "https://www.rotowire.com/news/nba-league-pass-free-trial-3-months-of-nba-league-pass-free-nov-8-145798",
+   "nota": "DraftKings Pick 6 Promo: Get $50 in Bonus Picks for NFL, MLB & More",
+   "nota_url": "https://www.rotowire.com/news/draftkings-pick-6-promo-get-50-in-bonus-picks-for-november-2026-145785",
    "medio": "RotoWire",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "universitario",
-   "busquedas": "200+",
-   "nota": "Así fue el gol de cabeza de Williams Riveros para el 1-0 de Universitario ante CD Moquegua",
-   "nota_url": "https://bolavip.com/pe/liga-1/asi-fue-el-gol-de-cabeza-de-williams-riveros-para-el-1-0-de-universitario-ante-cd-moquegua",
-   "medio": "Bolavip Perú",
    "relevante": false,
    "temas": []
   }
