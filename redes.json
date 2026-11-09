@@ -1,10 +1,28 @@
 {
- "actualizado": "09/11 05:55",
+ "actualizado": "09/11 06:49",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "cristiano ronaldo",
+   "busquedas": "200+",
+   "nota": "El final de una era: así fueron los tiempos de Messi y Cristiano en el fútbol internacional",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17479328/el-final-de-una-era-asi-fueron-los-tiempos-de-messi-y-cristiano-en-el-futbol-internacional",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "todo noticias",
+   "busquedas": "100+",
+   "nota": "El descargo de Emanuel Noir, el cantante de Ke Personajes, tras golpear a un policía: “Hoy quiero pedir perdón”",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/08/el-descargo-de-emanuel-noir-el-cantante-de-ke-personajes-tras-golpear-a-un-policia-hoy-quiero-pedir-perdon/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "canillita",
    "busquedas": "100+",
@@ -35,15 +53,15 @@
   {
    "tema": "gta 6",
    "busquedas": "200+",
-   "nota": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
-   "nota_url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
-   "medio": "Charter Communications",
+   "nota": "5 Things You Need To Do Before You Install Grand Theft Auto 6",
+   "nota_url": "https://www.bgr.com/2308570/things-to-do-before-installing-gta-6-ps5-xbox/",
+   "medio": "BGR",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lotería de santa fe",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Con seis aciertos, un apostador de San Nicolás ganó más de $1.852 millones en el Quini 6, y en el Siempre Sale hubo 266 ganadores en todo el país",
    "nota_url": "https://www.reconquistahoy.com/93252-con-seis-aciertos-un-apostador-de-san-nicolas-gano-mas-de-1852-millones-en-el-quini-6-y-en-el-siempre-sale-hubo-266-ganadores-en-todo-el-pais",
    "medio": "ReconquistaHOY",
@@ -62,9 +80,9 @@
   {
    "tema": "kings - heat",
    "busquedas": "500+",
-   "nota": "Game Recap: Heat 114, Kings 108 (Nov. 8)",
-   "nota_url": "https://www.nba.com/watch/video/game-recap-heat-114-kings-108-nov-8",
-   "medio": "NBA.com",
+   "nota": "Heat Kings Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/heat-kings-basketball/image_6b4f7775-a250-5e78-9a10-f0f2e08adf04.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
@@ -74,24 +92,6 @@
    "nota": "Shakira prepara su llegada a Colombia en medio de rumores sobre la salud de su padre",
    "nota_url": "https://es-us.vida-estilo.yahoo.com/shakira-prepara-llegada-colombia-medio-213218679.html",
    "medio": "Yahoo en Español Vida y Estilo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "simeone",
-   "busquedas": "1000+",
-   "nota": "El intento de Julián",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/08/el-intento-de-julian/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "león - guadalajara",
-   "busquedas": "500+",
-   "nota": "DraftKings Pick 6 Promo: Get $50 in Bonus Picks for NFL, MLB & More",
-   "nota_url": "https://www.rotowire.com/news/draftkings-pick-6-promo-get-50-in-bonus-picks-for-november-2026-145785",
-   "medio": "RotoWire",
    "relevante": false,
    "temas": []
   }
