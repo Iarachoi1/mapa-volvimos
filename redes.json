@@ -1,22 +1,49 @@
 {
- "actualizado": "09/11 18:38",
+ "actualizado": "09/11 19:34",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "diego milito",
+   "tema": "s&p 500",
+   "busquedas": "200+",
+   "nota": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates",
+   "nota_url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+   "medio": "CNBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estadio monumental",
+   "busquedas": "500+",
+   "nota": "\"Que salga campeón y se vaya Martínez Quarta\": el insólito pedido de un hincha de River al Papa León XIV",
+   "nota_url": "https://442.perfil.com/noticias/futbol/que-salga-campeon-y-se-vaya-martinez-quarta-el-insolito-pedido-de-un-hincha-de-river-al-papa-leon-xiv.phtml",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "veterano",
    "busquedas": "100+",
-   "nota": "Valentín Carboni no volverá contra Barracas",
-   "nota_url": "https://www.racingdealma.com.ar/valentin-carboni-racing-barracas/",
-   "medio": "Racing de Alma",
+   "nota": "¿Tiene cita en la Embajada de Estados Unidos? Tome en cuenta este cierre durante la semana",
+   "nota_url": "https://www.nacion.com/el-pais/tiene-cita-en-la-embajada-de-estados-unidos-tome/THZ5WHYIJVCNJPLQMPVK4NRB4I/story/",
+   "medio": "La Nación Costa Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego milito",
+   "busquedas": "200+",
+   "nota": "Milito aceleró y Racing tiene un jugador muy esperado: «Refuerzo»",
+   "nota_url": "https://elintransigente.com/2026/11/09/milito-acelero-y-racing-tiene-un-jugador-muy-esperado-refuerzo/",
+   "medio": "El Intransigente",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fifpro",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Con Lionel Messi como único argentino y un gran ausente: el equipo ideal votado por los jugadores",
    "nota_url": "https://www.tycsports.com/futbol-internacional/con-messi-y-sin-kane-fifpro-world-11-2026-id770930.html",
    "medio": "TyC Sports",
@@ -25,19 +52,10 @@
   },
   {
    "tema": "adam bareiro",
-   "busquedas": "100+",
-   "nota": "El regreso de Tomás Aranda a La Bombonera",
-   "nota_url": "https://www.ole.com.ar/futbol-primera/regreso-tomas-aranda-bombonera_3_hS11fLQfc0.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "palacio san martin buenos aires",
-   "busquedas": "500+",
-   "nota": "[Video] Expectativa y emoción ante la llegada del Papa",
-   "nota_url": "https://www.ellitoral.com/informacion-general/expectativa-emocion-llegada-papa_3_rsxV28pCEJ.html",
-   "medio": "El Litoral",
+   "busquedas": "200+",
+   "nota": "Tomás Aranda volvió a jugar en Boca luego de 73 días",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17490239/aranda-vuelta-73-dias-lesion-boca-vs-defensa-y-justicia-torneo-clausura",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
@@ -51,47 +69,29 @@
    "temas": []
   },
   {
-   "tema": "sabalenka",
-   "busquedas": "500+",
-   "nota": "Coco Gauff reveals what happened to her shoes during Jessica Pegula battle",
-   "nota_url": "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/171332/coco-gauff-reveals-what-happened-to-her-shoes-during-jessica-pegula-battle/",
-   "medio": "Tennis World USA",
+   "tema": "palacio san martin buenos aires",
+   "busquedas": "200+",
+   "nota": "La Nunciatura Apostólica, el refugio donde duerme el Papa y maneja su agenda",
+   "nota_url": "https://www.eldia.com/el-mundo/la-nunciatura-apostolica-el-refugio-donde-duerme-el-papa-y-maneja-su-agenda-el-mundo_1794180545",
+   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "aryna sabalenka",
-   "busquedas": "1000+",
-   "nota": "Everything you always wanted to know about Marta Kostyuk",
-   "nota_url": "https://www.tennismajors.com/wta-tour-news/madrid-wta-finals-ukraine-everything-you-always-wanted-to-know-about-marta-kostyuk-but-never-had-time-to-find-out-866384.html",
-   "medio": "Tennis Majors",
+   "busquedas": "2000+",
+   "nota": "Iga Swiatek may feel some regret after Elena Rybakina’s withdrawal from the WTA Finals",
+   "nota_url": "https://www.thetennisgazette.com/opinion/iga-swiatek-may-feel-some-regret-after-elena-rybakinas-withdrawal-from-the-wta-finals/",
+   "medio": "The Tennis Gazette",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "enrique shaw",
-   "busquedas": "500+",
-   "nota": "Enrique Shaw, el argentino que será beatificado por León XIV",
-   "nota_url": "https://defonline.com.ar/defensa/estuvo-en-la-armada-fue-padre-empresario-y-director-de-rigolleau-enrique-shaw-el-argentino-que-sera-beatificado-por-leon-xiv/",
-   "medio": "DefOnline",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "papa leon xiv don orione",
-   "busquedas": "500+",
-   "nota": "Abel Pintos cantó en el Cottolengo Don Orione y conmovió al papa León XIV: \"Gracias por la música\"",
-   "nota_url": "https://tn.com.ar/musica/noticias/2026/11/09/abel-pintos-canto-en-el-cottolengo-don-orione-y-conmovio-al-papa-leon-xiv-gracias-por-la-musica/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "glucemia",
-   "busquedas": "200+",
-   "nota": "Glucosa en sangre: cuáles son los valores normales y cuándo hay que preocuparse",
-   "nota_url": "https://www.somosohlala.com/lifestyle/salud/glucosa-en-sangre-cuales-son-los-valores-normales-y-cuando-hay-que-preocuparse-nid09112026",
-   "medio": "Revista OHLALÁ!",
+   "busquedas": "5000+",
+   "nota": "\"Privar a una persona de su trabajo es herir gravemente su dignidad\": las definiciones de León XIV durante su encuentro con trabajadores y empresarios",
+   "nota_url": "https://www.clarin.com/politica/privar-persona-trabajo-herir-gravemente-dignidad-definiciones-leon-xiv-encuentro-trabajadores-empresarios_0_Tfyfb8DstV.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
