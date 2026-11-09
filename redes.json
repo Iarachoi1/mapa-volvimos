@@ -1,22 +1,76 @@
 {
- "actualizado": "09/11 08:44",
+ "actualizado": "09/11 09:49",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "feriado",
+   "tema": "entrenador",
    "busquedas": "200+",
-   "nota": "Una semana atípica: Córdoba tendrá un “superpuente” de tres días sin actividad administrativa",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/07/una-semana-atipica-cordoba-tendra-un-superpuente-de-tres-dias-sin-actividad-administrativa/",
-   "medio": "Página|12",
+   "nota": "Julián Calero, octavo relevo en los banquillos de Segunda",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/09/julian-calero-octavo-relevo-en-los-banquillos-de-segunda/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ascensor",
+   "busquedas": "100+",
+   "nota": "Cayó un ascensor en un edificio frente al Parque Federal: tres mujeres lesionadas",
+   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/cayo-un-ascensor-un-edificio-frente-al-parque-federal-dos-mujeres-lesionadas-fracturas-n676123",
+   "medio": "Aire de Santa Fe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hoy es feriado?",
+   "busquedas": "500+",
+   "nota": "Feriado del 9 de noviembre: cómo trabajará el comercio en Santiago del Estero",
+   "nota_url": "https://www.elliberal.com.ar/nota/97455/2026/11/feriado-del-9-de-noviembre--como-trabajara-el-comercio-en-santiago-del-estero",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "papa movil",
+   "busquedas": "200+",
+   "nota": "Video Así es el Papamóvil que utiliza León XIV durante su visita a Uruguay",
+   "nota_url": "https://www.clarin.com/videos/papamovil-utiliza-leon-xiv-visita-uruguay_3_6Nelw7wnrU.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la nacion en vivo",
+   "busquedas": "100+",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 9 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/09/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-9-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tectónica",
+   "busquedas": "100+",
+   "nota": "El inquietante hallazgo bajo Irán: una placa tectónica se está partiendo en dos zonas diferentes",
+   "nota_url": "https://fmcordilleranajunin.com.ar/a-nota/231530/el-inquietante-hallazgo-bajo-iran-una-placa-tectonica-se-esta-partiendo-en-dos-zonas-diferentes",
+   "medio": "Fm Cordillerana Junin",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "música",
+   "busquedas": "100+",
+   "nota": "De Liverpool al Teatro Coliseo: los clásicos de The Beatles vuelven a sonar con una experiencia sinfónica y audiovisual",
+   "nota_url": "https://www.mdzol.com/sociedad/2026/11/7/de-liverpool-al-teatro-coliseo-los-clasicos-de-the-beatles-vuelven-a-sonar-con-una-experiencia-sinfonica-y-audiovisual-1993789.html",
+   "medio": "MDZ Online",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "guillermo barros schelotto",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Guillermo Barros Schelotto explicó la derrota de Vélez ante Unión: \"Empatar o perder para nosotros era lo mismo\"",
    "nota_url": "https://www.minutouno.com/deportes/guillermo-barros-schelotto-explico-la-derrota-velez-union-empatar-o-perder-nosotros-era-lo-mismo-n6342741",
    "medio": "MinutoUno",
@@ -33,65 +87,11 @@
    "temas": []
   },
   {
-   "tema": "periodista",
-   "busquedas": "200+",
-   "nota": "Murió Felipe Acevedo, histórico periodista de Canal 9 Televida",
-   "nota_url": "https://elnueve.com/mendoza/murio-felipe-acevedo-historico-periodista-de-canal-9-televida_20261107/",
-   "medio": "Canal 9 Televida",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "san juan",
-   "busquedas": "100+",
-   "nota": "Feriado con más 30 °C en San Juan y chances de chaparrones por la tarde",
-   "nota_url": "https://www.tiempodesanjuan.com/san-juan/feriado-con-mas-30-c-en-san-juan-y-chances-de-chaparrones-por-la-tarde_1794187834",
-   "medio": "Tiempo de San Juan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "asteroide",
-   "busquedas": "100+",
-   "nota": "Estos son los asteroides que podrían representar un peligro para la Tierra",
-   "nota_url": "https://potosinoticias.com/2026/11/08/estos-son-los-asteroides-que-podrian-representar-un-peligro-para-la-tierra/",
-   "medio": "Potosinoticias.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "riesgo país",
-   "busquedas": "100+",
-   "nota": "El revés de Trump y el derrumbe de la IA castigan a los bonos argentinos y llevan el riesgo país a 900 puntos",
-   "nota_url": "https://www.perfil.com/economia/el-reves-de-trump-y-el-derrumbe-de-la-ia-castigan-a-los-bonos-argentinos-y-llevan-el-riesgo-pais-a-900-puntos-aOLN47T71c7I",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cotización dólar blue",
-   "busquedas": "200+",
-   "nota": "Dólar blue hoy: a cuánto opera este domingo 8 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-8-noviembre-n6342877",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "river vs lanús",
-   "busquedas": "2000+",
-   "nota": "River espera rival para octavos: qué pasa si Lanús gana, empata o pierde contra Central Córdoba",
-   "nota_url": "https://lapaginamillonaria.com/torneo-clausura/river-espera-rival-para-octavos-que-pasa-si-lanus-gana-empata-o-pierde-contra-central-cordoba",
-   "medio": "La Página Millonaria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la gaceta",
-   "busquedas": "100+",
-   "nota": "Córdoba al 1300: Defensa Civil destacó que el sistema contra incendios permitió controlar las llamas",
-   "nota_url": "https://www.lv12.com.ar/incendio/cordoba-al-1300-defensa-civil-destaco-que-el-sistema-contra-incendios-permitio-controlar-las-llamas-n206359",
-   "medio": "LV12",
+   "tema": "a que hora es la misa del papa",
+   "busquedas": "500+",
+   "nota": "Homenaje al papa: el Obelisco se iluminó con la imagen de León XIV durante su primera noche en la Argentina",
+   "nota_url": "https://www.lanueva.com/nota/2026-11-8-23-28-0-homenaje-al-papa-el-obelisco-se-ilumino-con-la-imagen-de-leon-xiv-durante-su-primera-noche-en-la-argentina",
+   "medio": "La Nueva Provincia",
    "relevante": false,
    "temas": []
   }
