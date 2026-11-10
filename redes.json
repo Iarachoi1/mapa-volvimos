@@ -1,97 +1,97 @@
 {
- "actualizado": "10/11 15:33",
+ "actualizado": "10/11 16:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "karina mazzocco",
+   "tema": "chelsea femenino",
+   "busquedas": "100+",
+   "nota": "El Chelsea pierde el liderato ante la muralla del Everton",
+   "nota_url": "https://reinasdelbalon.com/el-chelsea-pierde-el-liderato-ante-la-muralla-del-everton/",
+   "medio": "Reinas del balón",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "real madrid femenino",
    "busquedas": "200+",
-   "nota": "Karina Mazzocco mostró cómo creció su hijo Malek y emocionó a todos con un mensaje por sus 20 años",
-   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/9/karina-mazzocco-mostro-como-crecio-su-hijo-malek-y-emociono-a-todos-con-un-mensaje-por-sus-20-anos-266098.html",
-   "medio": "Pronto",
+   "nota": "Sandrine Soubeyrand, sobre el Madrid: \"Querrán ganar, sus resultados no han sido buenos\"",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/09/sandrine-soubeyrand-sobre-el-madrid-querran-ganar-sus-resultados-no-han-sido-buenos/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islas malvinas",
+   "busquedas": "200+",
+   "nota": "El Gobierno pidió ante el Tribunal del Mar que se frene la explotación petrolera en las islas Malvinas",
+   "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-pidio-ante-el-tribunal-del-mar-que-se-frene-la-explotacion-petrolera-en-las-islas-nid10112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "avión cisterna",
+   "busquedas": "100+",
+   "nota": "EEUU adopta medidas para la seguridad de sus tropas en Europa y evita pronunciarse sobre rotaciones en Reino Unido",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/10/eeuu-adopta-medidas-para-la-seguridad-de-sus-tropas-en-europa-y-evita-pronunciarse-sobre-rotaciones-en-reino-unido/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aumento jubilados",
+   "busquedas": "100+",
+   "nota": "Jubilados, AUH y más: cuánto pagaría ANSES en diciembre con el aumento, aguinaldo y bono",
+   "nota_url": "https://www.a24.com/previsional/jubilados-auh-y-mas-cuanto-pagaria-anses-diciembre-el-aumento-aguinaldo-y-bono-n1614830",
+   "medio": "A24.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "karina mazzocco",
+   "busquedas": "500+",
+   "nota": "La China Ansa acusó a Karina Mazzocco de robarle en MasterChef Celebrity: “¡Me afanaste!”",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/10/la-china-ansa-acuso-a-karina-mazzocco-de-robarle-en-masterchef-celebrity-y-tuvieron-un-fuerte-cruce-me-afanaste/",
+   "medio": "TN",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "natalia pastorutti",
    "busquedas": "100+",
-   "nota": "La historia detrás del poncho que usó Soledad Pastorutti para cantarle al papa León XIV en su primera misa en Argentina",
-   "nota_url": "https://www.clarin.com/fama/historia-detras-poncho-uso-soledad-pastorutti-cantarle-papa-leon-xiv-primera-misa-argentina_0_NDqFJnAUDK.html",
-   "medio": "Clarin.com",
+   "nota": "Se conoció el regalo que Soledad Pastorutti le dio al papa León XIV después de cantar en la misa",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/10/el-regalo-que-soledad-pastorutti-le-entrego-al-papa-leon-xiv-despues-de-cantar-en-la-misa/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "monseñor aguer",
    "busquedas": "1000+",
-   "nota": "Confirman que el exarzobispo Héctor Aguer será velado en la Catedral de La Plata",
-   "nota_url": "https://www.0221.com.ar/la-plata/confirman-que-el-exarzobispo-hector-aguer-sera-velado-la-catedral-la-plata-n137244",
-   "medio": "0221",
+   "nota": "Murió Héctor Aguer, el polémico exarzobispo de La Plata",
+   "nota_url": "https://www.clarin.com/sociedad/murio-hector-aguer-polemico-exarzobispo-plata_0_7wJjOQAcwT.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "stranger things",
-   "busquedas": "200+",
-   "nota": "5 Stranger Things Characters Who Could Return In The Spin-Off Series Other Worlds",
-   "nota_url": "https://www.tvline.com/2311869/stranger-things-characters-return-spin-off-series-other-worlds/",
-   "medio": "TVLine",
+   "busquedas": "500+",
+   "nota": "Junto a nuevos misterios y enemigos: “Stranger Things” volverá con una serie precuela",
+   "nota_url": "https://infocronos.com.ar/nota/58779/junto-a-nuevos-misterios-y-enemigos-stranger-things-volvera-con-una-serie-precuela/",
+   "medio": "Cronos noticias",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lujan",
    "busquedas": "100+",
-   "nota": "Transporte bonaerense y 11 de Junio suman servicios especiales para la misa",
-   "nota_url": "https://www.gba.gob.ar/transporte/noticias/transporte_bonaerense_y_11_de_junio_suman_servicios_especiales_para_la_misa",
-   "medio": "Provincia de Buenos Aires |",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vigilia de los jovenes con el papa",
-   "busquedas": "200+",
-   "nota": "León XIV se reúne esta noche con los jóvenes en Palermo: cómo será la vigilia y quiénes participarán",
-   "nota_url": "https://www.ellitoral.com/informacion-general/papa-leon-xiv-visita-papa-argentina-vigilia-jovenes-palermo-monumento-espanoles-nahuel-pennisi-valentino-merlo_0_5iw1jWZdpB.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sindicato",
-   "busquedas": "200+",
-   "nota": "Viedma acordó un bono de $450 mil y aumentos por inflación",
-   "nota_url": "https://www.diariolapalabra.com.ar/noticia/153810/viedma-acordo-un-bono-de-450-mil-y-aumentos-por-inflacion",
-   "medio": "Diario La Palabra",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "dólar blue",
-   "busquedas": "1000+",
-   "nota": "Dólar hoy y dólar blue: a cuánto cotiza el oficial y cuál es el precio del paralelo, este martes 10 de noviembre",
-   "nota_url": "https://www.lmneuquen.com/pais/dolar-hoy-y-dolar-blue-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-martes-10-noviembre-n1260600",
-   "medio": "Lmneuquen.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sofia gonet",
-   "busquedas": "500+",
-   "nota": "Una famosa subió fotos desnudas y encendió las redes sociales",
-   "nota_url": "https://www.diariohuarpe.com/nota/una-famosa-subio-fotos-desnudas-y-encendio-las-redes-sociales-202611912140",
-   "medio": "Diario Huarpe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ángel correa",
-   "busquedas": "1000+",
-   "nota": "Di Carlo y Longoria decidiron ficharlo como estrella y acertaron: \"Nivel europeo\"",
-   "nota_url": "https://soydelmillo.com/mercado-de-pases/2026/11/07/river-correa-aporte-ofensivo/",
-   "medio": "Soy del Millo",
+   "nota": "Luján se vuelve peatonal para recibir a León XIV: esperan 3 millones de fieles y habrá un amplio operativo de seguridad",
+   "nota_url": "https://www.lavoz.com.ar/ciudadanos/lujan-vuelve-peatonal-recibir-leon-xiv-esperan-3-millones-fieles-amplio-operativo-seguridad_0_b8ruy4Apv5.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
