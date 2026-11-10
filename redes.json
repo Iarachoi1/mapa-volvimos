@@ -1,16 +1,79 @@
 {
- "actualizado": "10/11 17:33",
+ "actualizado": "10/11 18:29",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "clima rosario",
-   "busquedas": "1000+",
-   "nota": "Rosario tendrá una jornada mayormente soleada y una máxima de 28 grados",
-   "nota_url": "https://www.cadena3.com/noticia/noticias-rosario/rosario-tendra-una-jornada-mayormente-soleada-y-una-maxima-de-28-grados_611684",
-   "medio": "Cadena 3 Argentina",
+   "tema": "corriente del niño",
+   "busquedas": "200+",
+   "nota": "El Niño sumará hasta 0,2°C a las temperaturas globales y prolongará el calor extremo hasta 2027",
+   "nota_url": "https://www.bloomberglinea.com/2026/11/09/el-nino-sumara-hasta-02c-a-las-temperaturas-globales-y-prolongara-el-calor-extremo-hasta-2027/",
+   "medio": "Bloomberg Línea",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "vigilia de jovenes",
+   "busquedas": "500+",
+   "nota": "Video Un picadito a la espera de León XIV en el Encuentro con los jóvenes",
+   "nota_url": "https://www.clarin.com/videos/picadito-espera-leon-xiv-encuentro-jovenes_3_jVQpaFwcdC.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el litoral",
+   "busquedas": "200+",
+   "nota": "El Niño: la crecida del Paraná provocó evacuaciones en dos capitales del Litoral",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/09/el-nino-la-crecida-del-parana-provoco-evacuaciones-en-dos-capitales-del-litoral/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "justicia",
+   "busquedas": "5000+",
+   "nota": "Una fuerte crítica al anarcocapitalismo",
+   "nota_url": "https://www.perfil.com/opinion/una-fuerte-critica-al-anarcocapitalismo-aEqqt3d3dSHH",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "monseñor hector aguer",
+   "busquedas": "2000+",
+   "nota": "Murió Héctor Aguer, el polémico exarzobispo de La Plata",
+   "nota_url": "https://www.clarin.com/sociedad/murio-hector-aguer-polemico-exarzobispo-plata_0_7wJjOQAcwT.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marcos camino",
+   "busquedas": "10000+",
+   "nota": "Murió el histórico líder de Los Palmeras y referente de la cumbia santafesina, Marcos Camino",
+   "nota_url": "https://www.lavoz.com.ar/espectaculos/murio-historico-lider-palmeras-referente-cumbia-santafesina-marcos-camino_0_tCyCRSEdsH.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aire de santa fe",
+   "busquedas": "500+",
+   "nota": "Arroyo Leyes monitorea la crecida del río: 16 familias se vieron afectadas y tres fueron evacuadas",
+   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/arroyo-leyes-monitorea-la-crecida-del-rio-16-familias-se-vieron-afectadas-y-tres-fueron-evacuadas-n676264",
+   "medio": "Aire de Santa Fe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jubilación anticipada",
+   "busquedas": "100+",
+   "nota": "Jubilación anticipada: ¿quiénes pueden retirarse a los 50 y 52 años?",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1161458/sociedad/jubilacion-anticipada-quienes-pueden-retirarse-50-52-anos.html",
+   "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   },
@@ -24,75 +87,12 @@
    "temas": []
   },
   {
-   "tema": "clima santa fe",
-   "busquedas": "500+",
-   "nota": "Clima en Santa Fe hoy martes 10 de noviembre: lluvia ligera y cielo mayormente nublado",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/10/clima-en-santa-fe-hoy-martes-10-de-noviembre-lluvia-ligera-y-cielo-mayormente-nublado/",
-   "medio": "TN",
+   "tema": "clima rosario",
+   "busquedas": "1000+",
+   "nota": "Vuelven las lluvias a Funes este martes: cuándo llega la tormenta y qué se espera para la semana",
+   "nota_url": "https://infofunes.com.ar/ciudad/vuelven-las-lluvias-a-funes-este-martes--cuando-llega-la-tormenta-y-que-se-espera-para-la-semana_a6af31d90696ebfa450d668ef",
+   "medio": "InfoFunes",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gustavo alfaro",
-   "busquedas": "100+",
-   "nota": "Comunicado de la Selección paraguaya: “Nosotros también somos víctimas”",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/06/comunicado-de-la-seleccion-paraguaya-nosotros-tambien-somos-victimas/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inter de miami",
-   "busquedas": "500+",
-   "nota": "Skip to main content",
-   "nota_url": "https://www.charlottefootballclub.com/video/we-re-going-to-have-confidence-going-away-to-chicago-tyger-smalls-post-match-press-conference-charlotte-fc-at-inter-miami-cf",
-   "medio": "Charlotte FC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chelsea femenino",
-   "busquedas": "200+",
-   "nota": "El Chelsea pierde el liderato ante la muralla del Everton",
-   "nota_url": "https://reinasdelbalon.com/el-chelsea-pierde-el-liderato-ante-la-muralla-del-everton/",
-   "medio": "Reinas del balón",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "islas malvinas",
-   "busquedas": "500+",
-   "nota": "El Gobierno pidió ante el Tribunal del Mar que se frene la explotación petrolera en las islas Malvinas",
-   "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-pidio-ante-el-tribunal-del-mar-que-se-frene-la-explotacion-petrolera-en-las-islas-nid10112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "champions femenina",
-   "busquedas": "500+",
-   "nota": "Dónde ver hoy en directo el Real Madrid Femenino contra el Paris FC: ¿quién retransmite el partido por televisión y en streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-el-real-madrid-femenino-contra-el-paris-fc-quien-retransmite-el-partido-por-television-y-en-streaming/bltd66286041e3e92a9",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión cisterna",
-   "busquedas": "100+",
-   "nota": "EEUU adopta medidas para la seguridad de sus tropas en Europa y evita pronunciarse sobre rotaciones en Reino Unido",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/10/eeuu-adopta-medidas-para-la-seguridad-de-sus-tropas-en-europa-y-evita-pronunciarse-sobre-rotaciones-en-reino-unido/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aumento jubilados",
-   "busquedas": "100+",
-   "nota": "Jubilados con moratoria: el Decreto 274/2024 firmado por Milei obliga a aplicar un nuevo aumento en diciembre",
-   "nota_url": "https://www.baenegocios.com/economia/jubilados-con-moratoria-el-decreto-274-2024-firmado-por-milei-obliga-a-aplicar-un-nuevo-aumento-en-diciembre/",
-   "medio": "BAE Negocios",
-   "relevante": true,
    "temas": []
   }
  ],
