@@ -1,10 +1,28 @@
 {
- "actualizado": "10/11 03:47",
+ "actualizado": "10/11 05:00",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "empresario",
+   "busquedas": "1000+",
+   "nota": "V. A. a Argentina: Encuentro con el mundo laboral en la UCA",
+   "nota_url": "https://episcopado.org/ver/5013",
+   "medio": "Conferencia Episcopal Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aguinaldo",
+   "busquedas": "200+",
+   "nota": "El Gobierno tiene preparado un triple pago para jubilados con DNI entre 0 y 9",
+   "nota_url": "https://www.baenegocios.com/economia/el-gobierno-tiene-preparado-un-triple-pago-para-jubilados-con-dni-entre-0-y-9/",
+   "medio": "BAE Negocios",
+   "relevante": true,
+   "temas": []
+  },
   {
    "tema": "juanita tinelli",
    "busquedas": "200+",
@@ -44,18 +62,18 @@
   {
    "tema": "warriors - pelicans",
    "busquedas": "2000+",
-   "nota": "Pelicans Warriors Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/pelicans-warriors-basketball/image_64f77914-f2bf-5357-b0fd-6f7365522525.html",
-   "medio": "Corsicana Daily Sun",
+   "nota": "New Orleans Pelicans Hit ROCK BOTTOM After Worst Loss in Franchise History--What's Next for Pels?",
+   "nota_url": "https://www.wbir.com/video/sports/locked-on/lo-new-orleans/pelicans-show/new-orleans-pelicans-hit-rock-bottom-after-worst-loss-in-franchise-history-whats-next-for-pels/535-9d3f8b58-4407-4bd4-808d-a252215ca014",
+   "medio": "WBIR",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "verano",
    "busquedas": "200+",
-   "nota": "Vacaciones en Argentina con El Niño: qué destinos podrían complicarse este verano por las lluvias",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/vacaciones-en-argentina-con-el-nino-que-destinos-podrian-complicarse-este-verano-por-las-lluvias.html",
-   "medio": "Meteored Argentina",
+   "nota": "El Niño: temperaturas de 40° y vientos de 100 km en Neuquén en los próximos días",
+   "nota_url": "https://www.bhinfo.com.ar/noticia/29623-El_Nino_temperaturas_de_40_y_vientos_de_100_km_en_Neuquen_en_los_proximos_dias-06102026",
+   "medio": "BHInfo",
    "relevante": false,
    "temas": []
   },
@@ -71,27 +89,9 @@
   {
    "tema": "rocio robles",
    "busquedas": "2000+",
-   "nota": "Edith Hermida fue al hueso con Rocío Robles y le preguntó por su intimidad con Adrián Suar en MasterChef: \"No mucho\"",
-   "nota_url": "https://www.a24.com/primiciasya/edith-hermida-fue-al-hueso-rocio-robles-y-le-pregunto-su-intimidad-adrian-suar-masterchef-no-mucho-n1614917",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gaston gaudio",
-   "busquedas": "200+",
-   "nota": "El mensaje de Gastón Gaudio antes de las elecciones en Independiente: “Les queda poco”",
-   "nota_url": "https://www.lanueva.com/nota/2026-11-9-20-42-0-el-mensaje-de-gaston-gaudio-antes-de-las-elecciones-en-independiente-les-queda-poco",
-   "medio": "La Nueva Provincia",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "suns - spurs",
-   "busquedas": "1000+",
-   "nota": "Photos: Spurs vs. Phoenix Suns | 11/09/26",
-   "nota_url": "https://www.nba.com/spurs/photos/photos-spurs-vs-phoenix-suns-11-09-26",
-   "medio": "NBA.com",
+   "nota": "Rocío Robles juró venganza contra Edith Hermida y empezó con un carpetazo sobre Wanda Nara",
+   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/rocio-robles-juro-venganza-contra-edith-hermida-y-empezo-con-un-carpetazo-sobre-wanda-nara-pid2571509",
+   "medio": "Telefe",
    "relevante": false,
    "temas": []
   }
