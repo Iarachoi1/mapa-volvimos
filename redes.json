@@ -1,5 +1,5 @@
 {
- "actualizado": "10/11 01:40",
+ "actualizado": "10/11 02:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -7,7 +7,7 @@
  "google": [
   {
    "tema": "juanita tinelli",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El fuerte mensaje de Juana Tinelli a Cande Tinelli tras pelearse a muerte en medio de la interna familiar",
    "nota_url": "https://www.paparazzi.com.ar/teve/el-fuerte-mensaje-de-juana-tinelli-a-cande-tinelli-tras-pelearse-a-muerte-en-medio-de-la-interna-familiar/",
    "medio": "Revista Paparazzi",
@@ -15,8 +15,17 @@
    "temas": []
   },
   {
+   "tema": "vórtice polar",
+   "busquedas": "200+",
+   "nota": "Capa de ozono: el agujero alcanzó su mayor tamaño en una década",
+   "nota_url": "https://www.eldia.com/informacion-general/capa-de-ozono-el-agujero-alcanzo-su-mayor-tamano-en-una-decada-informacion-general_1793939292",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "gta vi",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Take-Two lifts annual revenue, profit forecasts as 'GTA VI' launch nears",
    "nota_url": "https://www.reuters.com/business/take-two-projects-third-quarter-bookings-below-estimates-2026-11-09/",
    "medio": "Reuters",
@@ -35,9 +44,9 @@
   {
    "tema": "warriors - pelicans",
    "busquedas": "1000+",
-   "nota": "Pelicans vs. Warriors: Injury Report, Game Preview 11/9/2026",
-   "nota_url": "https://www.nba.com/pelicans/news/pelicans-vs-warriors-injury-report-game-preview-11-9-2026",
-   "medio": "NBA.com",
+   "nota": "What Went Wrong For New Orleans Pelicans Against Clippers, How Can They Respond Against Warriors?",
+   "nota_url": "https://www.fox61.com/video/sports/locked-on/lo-new-orleans/locked-on-pelicans-hit/what-went-wrong-for-new-orleans-pelicans-against-clippers-how-can-they-respond-against-warriors/535-bb86eb72-8358-4bba-889e-b3ad64d03e0a",
+   "medio": "fox61.com",
    "relevante": false,
    "temas": []
   },
@@ -53,9 +62,9 @@
   {
    "tema": "karina mazzocco",
    "busquedas": "200+",
-   "nota": "Entre lágrimas y contratiempos: la difícil noche de la China Ansa en Masterchef Celebrity",
-   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/entre-lagrimas-y-contratiempos-la-dificil-noche-de-la-china-ansa-en-masterchef-celebrity-pid2571788",
-   "medio": "Telefe",
+   "nota": "Karina Mazzocco festejó los 20 años de su hijo Malek y sorprendió a todos al mostrar cómo creció: “Que te sobren motivos para ser feliz”",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/karina-mazzocco-festejo-los-20-anos-de-su-hijo-malek-y-sorprendio-a-todos-al-mostrar-como-crecio-que-te-sobren-motivos-para-ser-feliz/",
+   "medio": "Radio Mitre",
    "relevante": true,
    "temas": []
   },
@@ -80,18 +89,9 @@
   {
    "tema": "suns - spurs",
    "busquedas": "1000+",
-   "nota": "11/09/2026 Suns vs Spurs Game Preview",
-   "nota_url": "https://suns.com/news/11-09-2026-suns-vs-spurs-game-preview",
+   "nota": "Victor Wembanyama puts up 40 points, 11 rebounds, nine blocks",
+   "nota_url": "https://www.nba.com/watch/video/victor-wembanyama-puts-up-40-points-11-rebounds-nine-blocks",
    "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mavericks - pacers",
-   "busquedas": "200+",
-   "nota": "Pascal Siakam drops 29 points in loss to Mavs",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/pascal-siakam-drops-29-points-in-loss-to-mavs",
-   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   }
