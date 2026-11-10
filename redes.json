@@ -1,13 +1,67 @@
 {
- "actualizado": "10/11 19:29",
+ "actualizado": "10/11 20:24",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "coco gauff",
+   "tema": "enner valencia boca juniors",
+   "busquedas": "5000+",
+   "nota": "La fiesta íntima de Boca con cantitos para River y un Chucky suelto en el escenario",
+   "nota_url": "https://www.ole.com.ar/boca-juniors/fiesta-intima-boca-cantitos-river-chucky-suelto-escenario_3_G2r6kqUYde.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wall street",
+   "busquedas": "200+",
+   "nota": "'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
+   "nota_url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html",
+   "medio": "Yahoo Finance",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "selección de fútbol sub-20 de argentina",
    "busquedas": "100+",
+   "nota": "Quién es el nuevo “europibe” convocado a la Sub 20 de Argentina que se formó en Real Madrid y fue comprado por la Lazio",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/10/quien-es-el-nuevo-europibe-convocado-a-la-sub-20-de-argentina-que-se-formo-en-real-madrid-y-fue-comprado-por-la-lazio/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga de naciones",
+   "busquedas": "100+",
+   "nota": "Horario y dónde ver por TV el República Checa - España de la fase de grupos de la Nations League",
+   "nota_url": "https://www.eldebate.com/deportes/futbol/20261110/horario-donde-ver-tv-republica-checa-espana-fase-grupos-nations-league_479078.html",
+   "medio": "El Debate",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "día de la soberanía nacional",
+   "busquedas": "2000+",
+   "nota": "El Gobierno firmó el decreto 614/2025 y trasladó el feriado por el Día de la Soberanía Nacional",
+   "nota_url": "https://www.cronica.com.ar/sociedad/el-gobierno-firmo-el-decreto-614-2025-y-traslado-el-feriado-por-el-dia-de-la-soberania-nacional/",
+   "medio": "Crónica",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "portugal",
+   "busquedas": "100+",
+   "nota": "Ainda nem chegou e já se faz sentir: os primeiros efeitos da tempestade",
+   "nota_url": "https://tvi.iol.pt/noticias/video/ainda-nem-chegou-e-ja-se-faz-sentir-os-primeiros-efeitos-da-tempestade/6af345d20cf2aafa0453e064",
+   "medio": "TVI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "coco gauff",
+   "busquedas": "500+",
    "nota": "The desert mirage: Gauff, Pegula, and the fierce reality of American women’s tennis",
    "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171377/the-desert-mirage-gauff-pegula-and-the-fierce-reality-of-american-womens-tennis/",
    "medio": "Tennis World USA",
@@ -15,17 +69,8 @@
    "temas": []
   },
   {
-   "tema": "murio hector aguer",
-   "busquedas": "2000+",
-   "nota": "El último adiós a Héctor Aguer será en la Catedral de La Plata",
-   "nota_url": "https://www.eldia.com/la-ciudad/anunciaron-que-la-catedral-sera-la-sede-del-ultimo-adios-a-hector-aguer-la-ciudad_1794334393",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "murio apolo kidd",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Murió a los 28 años un cantante y productor amigo de L-Gante",
    "nota_url": "https://www.diariopanorama.com/noticia/572527/murio-28-anos-cantante-productor-amigo-lgante",
    "medio": "Diario Panorama",
@@ -35,64 +80,19 @@
   {
    "tema": "valencia cf",
    "busquedas": "100+",
-   "nota": "La ilusión de un pueblo",
-   "nota_url": "https://as.com/futbol/primera/la-ilusion-de-un-pueblo-f202611-n/",
-   "medio": "Diario AS",
+   "nota": "Aimar Blázquez: “Meter un gol ya era alucinante, dos ni te cuento”",
+   "nota_url": "https://plazadeportiva.valenciaplaza.com/plazadeportiva/valenciacf/aimar-blazquez-meter-un-gol-ya-era-alucinante-dos-ni-te-cuento",
+   "medio": "Plaza Deportiva",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "la capital",
    "busquedas": "500+",
-   "nota": "Se viene el 2° Torneo de Backgammon en la Casa Armenia",
-   "nota_url": "https://www.lacapitalmdp.com/se-viene-el-2-torneo-de-backgammon-en-la-casa-armenia/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la brujula 24",
-   "busquedas": "200+",
-   "nota": "Incendio en la primera cuadra de calle Chiclana",
-   "nota_url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/",
-   "medio": "BVC Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nunciatura apostólica",
-   "busquedas": "200+",
-   "nota": "León XIV pidió silencio a los fieles antes de retirarse a descansar",
-   "nota_url": "https://www.diarioepoca.com/1394802-leon-xiv-pidio-silencio-a-los-fieles-antes-de-retirarse-a-descansar",
-   "medio": "Diario Época Corrientes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "corriente del niño",
-   "busquedas": "1000+",
-   "nota": "El Niño sumará hasta 0,2°C a las temperaturas globales y prolongará el calor extremo hasta 2027",
-   "nota_url": "https://www.bloomberglinea.com/2026/11/09/el-nino-sumara-hasta-02c-a-las-temperaturas-globales-y-prolongara-el-calor-extremo-hasta-2027/",
-   "medio": "Bloomberg Línea",
+   "nota": "HBO Max y Paramount+ se fusionan para comienzos del 2027",
+   "nota_url": "https://www.diariopopular.com.ar/espectaculos/hbo-max-y-paramount-se-fusionan-comienzos-del-2027-n928593",
+   "medio": "Diario Popular",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "vigilia de jovenes",
-   "busquedas": "1000+",
-   "nota": "Video Maggie Cullen animó la previa del encuentro de León XIV con los jóvenes en Palermo",
-   "nota_url": "https://www.clarin.com/sociedad/maggie-cullen-animo-previa-encuentro-leon-xiv-jovenes-palermo_3_oCvmBntkMY.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el litoral",
-   "busquedas": "500+",
-   "nota": "El Niño: la crecida del Paraná provocó evacuaciones en dos capitales del Litoral",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/09/el-nino-la-crecida-del-parana-provoco-evacuaciones-en-dos-capitales-del-litoral/",
-   "medio": "Infobae",
-   "relevante": false,
    "temas": []
   }
  ],
