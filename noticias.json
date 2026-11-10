@@ -1,7 +1,7 @@
 {
  "semana": "9 de noviembre de 2026",
  "fecha": "2026-11-09",
- "actualizado": "09/11 16:45",
+ "actualizado": "09/11 21:32",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -12,17 +12,17 @@
      "url": "https://bardeo.news/politica/el-saludo-del-papa-a-villarruel-que-no-se-vio-en-la-cadena-nacional_a6af1af4c696ebfa450c4a7e7"
     },
     {
+     "titulo": "Una investigación encontró 1.183 videos de abuso sexual infantil explícito en TikTok",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "09/11/2026",
+     "url": "https://cenital.com/una-investigacion-encontro-1-183-videos-de-abuso-sexual-infantil-explicito-en-tiktok/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
      "titulo": "Estados Unidos: la ampliación del campo de batalla",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "09/11/2026",
      "url": "https://cenital.com/estados-unidos-la-ampliacion-del-campo-de-batalla/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    },
-    {
-     "titulo": "El papa va al Cottolengo Don Oriene y se prepara para la misa pública",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "09/11/2026",
-     "url": "https://cenital.com/el-papa-va-al-cottolengo-don-oriene-y-se-prepara-para-la-misa-publica/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
@@ -31,10 +31,10 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "ESCALA EN LA PATRIA PERONISTA Conurbano bendito: Kicillof, el papa y el país que el gobernador quiere disputarle a Milei Por Kevin Cavo",
-     "medio": "Letra P",
+     "titulo": "\"La ruptura con Bullrich pone en riesgo la reelección de Milei\"",
+     "medio": "La Politica Online",
      "fecha": "09/11/2026",
-     "url": "https://www.letrap.com.ar/politica/conurbano-bendito-axel-kicillof-el-papa-y-el-pais-que-el-gobernador-quiere-disputarle-javier-milei-n5428093",
+     "url": "https://www.lapoliticaonline.com/politica/la-ruptura-con-bullrich-pone-en-riesgo-la-reeleccion-de-milei/",
      "tag": "Política"
     },
     {
@@ -52,10 +52,24 @@
      "tag": "Gestión"
     },
     {
+     "titulo": "ESCALA EN LA PATRIA PERONISTA Conurbano bendito: Kicillof, el papa y el país que el gobernador quiere disputarle a Milei Por Kevin Cavo",
+     "medio": "Letra P",
+     "fecha": "09/11/2026",
+     "url": "https://www.letrap.com.ar/politica/conurbano-bendito-axel-kicillof-el-papa-y-el-pais-que-el-gobernador-quiere-disputarle-javier-milei-n5428093",
+     "tag": "Política"
+    },
+    {
      "titulo": "Milei pierde margen en el Congreso. Los gobernadores aliados toman distancia y endurecen sus exigencias",
      "medio": "La Nación",
      "fecha": "09/11/2026",
      "url": "https://www.lanacion.com.ar/politica/milei-pierde-margen-en-el-congreso-los-gobernadores-aliados-toman-distancia-y-endurecen-sus-nid09112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "EL PAPA EN ARGENTINA El Gobierno, en su cápsula: la Casa Rosada dice que León XIV no apunta contra Milei Por Pablo Lapuente",
+     "medio": "Letra P",
+     "fecha": "09/11/2026",
+     "url": "https://www.letrap.com.ar/politica/el-gobierno-su-capsula-la-casa-rosada-dice-que-leon-xiv-no-apunta-contra-javier-milei-n5428097",
      "tag": "Política"
     },
     {
@@ -73,31 +87,17 @@
      "tag": "Política"
     },
     {
-     "titulo": "Los regalos que se intercambiaron Javier Milei y el papa León XIV",
+     "titulo": "León XIV, testigo de un nuevo capítulo en la pelea entre Milei y Villarruel",
      "medio": "El Destape",
      "fecha": "09/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/leon-xiv-argentina-le-regalo-milei-le-dio-papa-202611910312",
-     "tag": "Política · También en Perfil"
+     "url": "https://www.eldestapeweb.com/politica/leon-xiv-testigo-nuevo-capitulo-pelea-milei-villarruel-2026119192358",
+     "tag": "Política"
     },
     {
      "titulo": "Quién es Jorge García Cuerva, el arzobispo que enfrentó a Milei y habló en la misa del papa León",
      "medio": "El Destape",
      "fecha": "09/11/2026",
      "url": "https://www.eldestapeweb.com/politica/quien-jorge-garcia-cuerva-arzobispo-enfrento-milei-hablo-misa-papa-leon-2026119161758",
-     "tag": "Política"
-    },
-    {
-     "titulo": "La foto de unidad, la multiplicidad de lecturas del mensaje y un desplante de Milei: lo que dejó el acto de León XIV en el Palacio Libertad",
-     "medio": "Infobae",
-     "fecha": "09/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/09/la-foto-de-unidad-la-multiplicidad-de-lecturas-del-mensaje-y-un-desplante-de-milei-lo-que-dejo-el-acto-de-leon-xiv-en-el-palacio-libertad/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "OPINIÓN Escenarios incómodos para Milei Las profecías del cura Luigi Orione marcan la visita (inoportuna) del Papa León XIV. Jorge Asís",
-     "medio": "Perfil",
-     "fecha": "09/11/2026",
-     "url": "https://www.perfil.com/politica/escenarios-incomodos-para-milei-aMg6E3d7KOU5",
      "tag": "Política"
     }
    ],
@@ -129,16 +129,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Frente a dos millones de personas La homilía completa del papa León XIV en su multitudinaria misa en Palermo",
+     "titulo": "Nuevo capítulo en la interna Villarruel aseguró que la excluyeron de la misa del papa León XIV, pero el Gobierno la desmintió",
      "medio": "El Ancasti",
      "fecha": "09/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-homilia-completa-del-papa-leon-xiv-su-multitudinaria-misa-palermo-n625732"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/villarruel-aseguro-que-la-excluyeron-la-misa-del-papa-leon-xiv-pero-el-gobierno-la-desmintio-n625745"
     },
     {
-     "titulo": "Tras una filmación en la Casa Rosada La polémica por el controvertido manto de la Virgen del Valle resurge en medio de la visita del papa León XIV",
+     "titulo": "Durante su paso por la Catedral Metropolitana León XIV destacó la figura del beato Mamerto Esquiú como ejemplo de unidad y paz",
      "medio": "El Ancasti",
      "fecha": "09/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-polemica-el-controvertido-manto-la-virgen-del-valle-resurge-medio-la-visita-del-papa-leon-xiv-n625717"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/leon-xiv-destaco-la-figura-del-beato-mamerto-esquiu-como-ejemplo-unidad-y-paz-n625748"
     }
    ],
    "imagen": []
@@ -159,10 +159,11 @@
      "url": "https://www.adnsur.com.ar/politica/rolando-figueroa-firmo-el-decreto-y-neuquen-elegira-autoridades-provinciales-el-14-de-febrero-de-2027_a6af1f1382ef0898cb8d0ab54"
     },
     {
-     "titulo": "Neuquén adelanta las elecciones para febrero",
+     "titulo": "Chubut participó del Encuentro Nacional del Mundo del Trabajo junto al Papa León XIV",
      "medio": "Diario Jornada",
      "fecha": "09/11/2026",
-     "url": "https://www.diariojornada.com.ar/426778/politica/neuquen_adelanta_las_elecciones_para_febrero"
+     "url": "https://www.diariojornada.com.ar/426785/politica/chubut_participo_del_encuentro_nacional_del_mundo_del_trabajo_junto_al_papa_leon_xiv",
+     "tag": "También en El Chubut"
     }
    ],
    "imagen": []
@@ -176,16 +177,16 @@
      "url": "https://legislaturacba.gob.ar/el-yoga-terapeutico-motivo-de-la-presentacion-de-un-libro-en-la-legislatura-historica/"
     },
     {
-     "titulo": "La moral, la fe y regalos oficiales: la trastienda del encuentro a solas de Milei con León XIV",
-     "medio": "Hoy Dia",
+     "titulo": "Llaryora en Fadea: la expectativa por la mega misa, la frase del Papa que marcará su visita y cómo vio a Milei",
+     "medio": "ElDoce",
      "fecha": "09/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/la-moral-la-fe-y-regalos-oficiales-la-trastienda-del-encuentro-a-solas-de-milei-con-leon-xiv/"
+     "url": "https://eldoce.tv/politica/2026/11/09/llaryora-en-fadea-la-expectativa-por-la-mega-misa-la-frase-del-papa-que-marcara-su-visita-y-como-vio-a-milei/"
     },
     {
-     "titulo": "Gran expectativa en Córdoba. Cuando faltaban 20 horas para la misa del Papa en Fadea, ya había cinco kilómetros de fila",
-     "medio": "La Nación",
+     "titulo": "Los medios internacionales destacaron las «críticas» del Papa al Gobierno de Milei",
+     "medio": "Hoy Dia",
      "fecha": "09/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/gran-expectativa-en-cordoba-por-la-visita-del-papa-cuando-faltaban-20-horas-para-la-misa-ya-habia-nid09112026/"
+     "url": "https://hoydia.com.ar/politica/nacional/los-medios-internacionales-destacaron-las-criticas-del-papa-al-gobierno-de-milei/"
     }
    ],
    "imagen": []
@@ -193,35 +194,43 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Milei, sobre el pedido de diálogo del Papa:",
-     "medio": "UNO ER",
+     "titulo": "TEMPORADA DE ROSCA La juventud peronista de Entre Ríos le pide al PJ cupo joven, organización y unidad para 2027 Por Laura Terenzano",
+     "medio": "Letra P",
      "fecha": "09/11/2026",
-     "url": "https://www.unoentrerios.com.ar/politica/milei-el-pedido-dialogo-del-papa-en-argentina-los-debates-no-son-honestos-intelectualmente-n10291216.html"
+     "url": "https://www.letrap.com.ar/politica/la-juventud-peronista-rios-le-pide-al-pj-cupo-joven-organizacion-y-unidad-2027-n5428092"
     },
     {
-     "titulo": "La Municipalidad instaló un punto de encuentro y asistencia para familias afectadas por la crecida del río Paraná",
-     "medio": "AFP Digital",
-     "fecha": "09/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/09/478397-la-municipalidad-instalo-un-punto-de-encuentro-y-asistencia-para-familias-afectadas-por-la-crecida-del-rio-parana",
-     "tag": "También en El Once"
-    },
-    {
-     "titulo": "El Río Paraná superó el nivel de evacuación y se espera más agua",
+     "titulo": "Neuquén será la primera provincia en ir a las urnas en 2027: la fecha de elecciones",
      "medio": "Ahora",
      "fecha": "09/11/2026",
-     "url": "https://ahora.com.ar/sociedad/el-rio-parana-supero-el-nivel-de-evacuacion-y-se-espera-mas-agua",
-     "tag": "También en El Once"
+     "url": "https://ahora.com.ar/politica/neuquen-sera-la-primera-provincia-en-ir-a-las-urnas-en-2027-la-fecha-de-elecciones"
+    },
+    {
+     "titulo": "Crecida del Paraná: Salud de la provincia desplegó acciones de asistencia y prevención para acompañar a las familias afectadas",
+     "medio": "AFP Digital",
+     "fecha": "09/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/09/478427-crecida-del-parana-salud-de-la-provincia-desplego-acciones-de-asistencia-y-prevencion-para-acompanar-a-las-familias-afectadas",
+     "tag": "También en Ahora, El Once y 1 más"
     }
    ],
-   "imagen": [
+   "imagen": []
+  },
+  "Formosa": {
+   "top3": [
     {
-     "titulo": "El Papa en Argentina: imágenes del segundo día de la visita de León XIV",
-     "medio": "El Once",
+     "titulo": "El gobernador Insfrán estuvo con el Papa León XIV en el Palacio Libertad",
+     "medio": "La Mañana",
      "fecha": "09/11/2026",
-     "url": "https://www.elonce.com/sociedad/el-papa-en-argentina-imagenes-del-segundo-dia-de-la-visita-de-leon-xiv.htm",
-     "tag": "También en UNO ER"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108536/el-gobernador-insfrn-estuvo-con-el-papa-len-xiv-en-el-palacio-libertad/"
+    },
+    {
+     "titulo": "El ministro Rodríguez participó del “Encuentro del Papa León XIV con el Mundo del Trabajo”",
+     "medio": "La Mañana",
+     "fecha": "09/11/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108543/el-ministro-rodrguez-particip-del-encuentro-del-papa-len-xiv-con-el-mundo-del-trabajo/"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Jujuy": {
    "top3": [
@@ -232,17 +241,17 @@
      "url": "https://www.letrap.com.ar/politica/jujuy-carlos-sadir-enfrenta-tres-obstaculos-conseguir-el-endeudamiento-la-legislatura-n5428089"
     },
     {
-     "titulo": "El gobernador Sadir le obsequió al Papa una pintura de la Virgen de Punta Corral",
-     "medio": "El Tribuno",
+     "titulo": "Jujuy. Una jujeña fue elegida Paisana Nacional de la Tradición 2026-2027 Por Claudio Serra",
+     "medio": "Todo Jujuy",
      "fecha": "09/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-9-9-4-0-el-gobernador-sadir-le-obsequio-al-papa-una-pintura-de-la-virgen-de-punta-corral",
-     "tag": "También en Todo Jujuy, Somos Jujuy"
+     "url": "https://www.todojujuy.com/jujuy/una-jujena-fue-elegida-paisana-nacional-la-tradicion-2026-2027-n298601",
+     "tag": "También en Somos Jujuy"
     },
     {
-     "titulo": "Jujuy regresó de los Juegos Evita con una experiencia de aprendizaje y competencia",
-     "medio": "Prensa oficial de Jujuy",
+     "titulo": "Visita. El Gobernador de Jujuy le entregó al Papa León XIV una pintura de la Virgen de Punta Corral Por Maria Eugenia Burgos",
+     "medio": "Todo Jujuy",
      "fecha": "09/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/juegos-evita/jujuy-regreso-los-juegos-evita-una-experiencia-aprendizaje-y-competencia-n125901",
+     "url": "https://www.todojujuy.com/el-gobernador-jujuy-le-entrego-al-papa-leon-xiv-una-pintura-la-virgen-punta-corral-n298568",
      "tag": "También en Somos Jujuy"
     }
    ],
@@ -251,17 +260,22 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Multitudinaria misa en Palermo: \"La familia es la fuente de los valores fundamentales de la Argentina\"",
-     "medio": "El Diario de La Pampa",
+     "titulo": "Cristina Fernández de Kirchner no figura en el padrón electoral provisorio",
+     "medio": "La Arena",
      "fecha": "09/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/pais/82864/el-papa-leon-xiv-encabeza-una-misa-en-el-monumento-de-los-espanoles",
-     "tag": "También en La Arena, La Pampa 24"
+     "url": "https://www.laarena.com.ar/el-pais/cristina-fernandez-de-kirchner-no-figura-en-el-padron-electoral-provisorio-202611921130"
     },
     {
-     "titulo": "Tierno se mostró con los radicales luego de los cruces con Ravier y el PRO",
-     "medio": "El Diario de La Pampa",
+     "titulo": "Neuquén se anticipa: tendrá las elecciones de gobernador en febrero",
+     "medio": "La Arena",
      "fecha": "09/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/82857/tierno-se-mostro-con-los-radicales-luego-de-los-cruces-con-ravier-y-el-pro"
+     "url": "https://www.laarena.com.ar/el-pais/neuquen-se-anticipa-tendra-las-elecciones-de-gobernador-en-febrero-20261191880"
+    },
+    {
+     "titulo": "La misa de León XIV reunió a Milei y al Gabinete, pero no logró repetir la foto de unidad política",
+     "medio": "La Pampa 24",
+     "fecha": "09/11/2026",
+     "url": "https://lapampa24.com.ar/nacionales/la-misa-de-leon-xiv-reunio-a-milei-y-al-gabinete-pero-no-logro-repetir-la-foto-de-unidad-politica/"
     }
    ],
    "imagen": []
@@ -292,16 +306,17 @@
      "url": "https://www.diariouno.com.ar/politica/el-gabinete-acompano-milei-la-misa-palermo-pero-la-visita-papal-no-logro-repetir-la-foto-unidad-politica-n1614842"
     },
     {
-     "titulo": "Últimas sesiones del año en el Senado: qué proyectos buscan tratar",
-     "medio": "Mendoza Post",
-     "fecha": "09/11/2026",
-     "url": "https://www.mendozapost.com/politica/senado-nacional-termina-el-periodo-ordinario-proyectos-a-tratar/"
-    },
-    {
      "titulo": "El discurso del Papa generó interpretaciones cruzadas y chispazos en el oficialismo y la oposición",
      "medio": "Diario UNO - MDZ",
      "fecha": "09/11/2026",
      "url": "https://www.diariouno.com.ar/politica/el-discurso-del-papa-leon-xiv-genero-interpretaciones-cruzadas-y-chispazos-el-oficialismo-y-la-oposicion-n1614645"
+    },
+    {
+     "titulo": "Cientos de mendocinos se reúnen en el Predio de la Virgen para compartir en pantalla gigante las actividades del Papa León XIV",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "09/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/cientos-de-mendocinos-se-reunen-en-el-predio-de-la-virgen-para-compartir-en-pantalla-gigante-las-actividades-del-papa-leon-xiv/",
+     "tag": "También en Diario UNO - MDZ"
     }
    ],
    "imagen": []
@@ -309,16 +324,35 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Comunidad mbya reclamó consulta previa frente al Rigi y la Justicia intimó al Congreso",
+     "titulo": "“Mística y Perón”, corriente interna promueve la “unidad” en el PJ Misiones",
      "medio": "La Voz - Misiones",
      "fecha": "09/11/2026",
-     "url": "https://lavozdemisiones.com/provinciales/comunidad-mbya-reclamo-consulta-previa-frente-al-rigi-y-la-justicia-intimo-al-congreso"
+     "url": "https://lavozdemisiones.com/politica/mistica-y-peron-corriente-interna-promueve-la-unidad-en-el-pj-misiones"
+    },
+    {
+     "titulo": "EL PAPA EN ARGENTINA Yerbateros de Misiones le enviaron una carta a León XIV contra el \"modelo económico que concentra la riqueza\" Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "09/11/2026",
+     "url": "https://www.letrap.com.ar/politica/yerbateros-misiones-le-enviaron-una-carta-leon-xiv-contra-el-modelo-economico-que-concentra-la-riqueza-n5428100"
+    },
+    {
+     "titulo": "Misiones compensará a municipios que protegen la Reserva Yabotí",
+     "medio": "La Voz - Misiones",
+     "fecha": "09/11/2026",
+     "url": "https://lavozdemisiones.com/provinciales/misiones-compensara-a-municipios-que-protegen-la-reserva-yaboti",
+     "tag": "También en Primera Edición"
     }
    ],
    "imagen": []
   },
   "Neuquén": {
    "top3": [
+    {
+     "titulo": "Figueroa se desmarcó de sus pares patagónicos y fijó las elecciones en Neuquén para el 14 de febrero de 2027",
+     "medio": "Infobae",
+     "fecha": "10/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/10/figueroa-se-desmarco-de-sus-pares-patagonicos-y-fijo-las-elecciones-en-neuquen-para-el-14-de-febrero-de-2027/"
+    },
     {
      "titulo": "ELECCIONES 2027 Enamorado de la democracia: Figueroa puso el gancho y Neuquén elige gobernador el 14 de febrero Por Laura Loncopan Berti",
      "medio": "Letra P",
@@ -330,13 +364,6 @@
      "medio": "Noticias NQN",
      "fecha": "09/11/2026",
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/09/360086-elecciones-en-neuquen-se-votara-para-gobernador-e-intendente-el-14-de-febrero"
-    },
-    {
-     "titulo": "Plazas turísticas ISSN: nuevo sistema integral de gestión de reservas para el verano 2026/2027",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "09/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/09/267009-issn-nuevo-sistema-integral-de-gestion-de-reservas-para-el-verano-20262027",
-     "tag": "También en Neuquén al Instante"
     }
    ],
    "imagen": []
@@ -348,21 +375,20 @@
      "medio": "Prensa oficial de Río Negro",
      "fecha": "09/11/2026",
      "url": "https://prensa.rionegro.gov.ar/articulo/62737/weretilneck-firmo-el-contrato-para-iniciar-el-plan-director-de-agua-de-roca-la-mayor-obra-de-rio-negro",
-     "tag": "También en Diario Rio Negro, AN Roca y 1 más"
+     "tag": "También en Diario Rio Negro, AN Roca y 2 más"
     },
     {
-     "titulo": "¿Sabías que podés salvar hasta 4 vidas? Río Negro celebra el Día del Donante de Sangre",
-     "medio": "Prensa oficial de Río Negro",
+     "titulo": "El ministro de Economía de Neuquén, Guillermo Koenig, abre los números del presupuesto en la Legislatura",
+     "medio": "Diario Rio Negro",
      "fecha": "09/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62712/sabias-que-podes-salvar-hasta-4-vidas-rio-negro-celebra-el-dia-del-donante-de-sangre",
-     "tag": "También en AN Roca, Noticias Net"
+     "url": "https://www.rionegro.com.ar/politica/el-ministro-de-economia-de-neuquen-guillermo-koenig-abre-los-numeros-del-presupuesto-en-la-legislatura-4791464/"
     },
     {
-     "titulo": "TENSIÓN Tras el pedido de diálogo del Papa, Milei volvió a atacar a la oposición",
+     "titulo": "ELECCIONES La provincia de Neuquén confirmó desdoblamiento y elegirá gobernador en febrero",
      "medio": "AN Roca",
      "fecha": "09/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/09/231749-tras-el-pedido-de-dialogo-del-papa-milei-volvio-a-atacar-a-la-oposicion",
-     "tag": "También en LCR, Noticias Net"
+     "url": "https://www.anroca.com.ar/noticias/2026/11/09/231764-la-provincia-de-neuquen-confirmo-desdoblamiento-y-elegira-gobernador-en-febrero",
+     "tag": "También en Noticias Net"
     }
    ],
    "imagen": [
@@ -372,22 +398,28 @@
      "fecha": "09/11/2026",
      "url": "https://www.anroca.com.ar/noticias/2026/11/09/231707-una-imagen-de-leon-xiv-sorprendio-a-quienes-disfrutaban-de-la-playa-en-las-grutas",
      "tag": "También en Noticias Net"
+    },
+    {
+     "titulo": "En fotos | Las conmovedoras imágenes de la histórica misa del papa León XIV en Palermo frente a una multitud",
+     "medio": "Diario Rio Negro",
+     "fecha": "09/11/2026",
+     "url": "https://www.rionegro.com.ar/sociedad/en-fotos-las-conmovedoras-imagenes-de-la-historica-misa-del-papa-leon-xiv-en-palermo-frente-a-una-multitud-4791326/"
     }
    ]
   },
   "Salta": {
    "top3": [
     {
+     "titulo": "Milei rechaza nuevo proyecto del presupuesto universitario pero mantiene diálogo con la UCR",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "09/11/2026",
+     "url": "https://nuevodiariodesalta.com.ar/milei-rechaza-nuevo-proyecto-del-presupuesto-universitario-pero-mantiene-dialogo-con-la-ucr/"
+    },
+    {
      "titulo": "Villarruel no figuraba en la lista inicial para recibir al Papa: la interna libertaria",
      "medio": "Que Pasa Salta",
      "fecha": "09/11/2026",
      "url": "https://www.quepasasalta.com.ar/politica/victoria-villaruel-visita-papa-leon-xiv/"
-    },
-    {
-     "titulo": "Piden la revisión de designaciones y que la Auditoría se conforme con trabajadores de planta",
-     "medio": "Nuevo Diario de Salta",
-     "fecha": "09/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/piden-la-revision-de-designaciones-y-que-la-auditoria-se-conforme-con-trabajadores-de-planta/"
     },
     {
      "titulo": "“Quizás me salve de otras muertes” | Vuelven a presentar el libro que aborda la vida del ex gobernador salteño Miguel Ragone",
@@ -426,14 +458,7 @@
      "url": "https://www.diariodecuyo.com.ar/politica/el-senado-fijo-fecha-la-audiencia-del-mendocino-gassull-el-elegido-milei-el-juzgado-federal-n-1-san-juan-n6588041"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Una nueva encuesta expone cifras negativas para Milei, pero tiene un dato que preocupa a la oposición",
-     "medio": "Tiempo de San Juan",
-     "fecha": "09/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/una-nueva-encuesta-expone-cifras-negativas-para-milei-pero-tiene-un-dato-que-preocupa-a-la-oposicion_1794236155"
-    }
-   ]
+   "imagen": []
   },
   "San Luis": {
    "top3": [
@@ -448,6 +473,13 @@
      "medio": "Prensa oficial de San Luis",
      "fecha": "09/11/2026",
      "url": "https://agenciasanluis.com/2026/11/09/1228595-alejandra-bustos-aposto-a-mi-proximo-paso-para-ampliar-su-perfumeria/"
+    },
+    {
+     "titulo": "El mármol ónix de La Toma se lució en las vestiduras del papa León XIV",
+     "medio": "El Diario de la República",
+     "fecha": "09/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-9-16-40-0-el-marmol-onix-de-la-toma-se-lucio-en-las-vestiduras-del-papa-leon-xiv",
+     "tag": "También en San Luis 24"
     }
    ],
    "imagen": []
@@ -455,11 +487,10 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Compartir Reunión con el Sumo Pontífice. Vidal destacó el mensaje del Papa León XIV, “muy ajustado a nuestra realidad”",
-     "medio": "Winfo",
+     "titulo": "Otro proyecto de Ley Electoral en Santa Cruz: qué propone Adriana Nieto y en qué se diferencia del borrador de los diputados",
+     "medio": "La Opinión Austral",
      "fecha": "09/11/2026",
-     "url": "https://winfo.ar/politica/2026/11/143517",
-     "tag": "También en El Diario Nuevo Día, Tiempo Sur y 1 más"
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/otro-proyecto-de-ley-electoral-en-santa-cruz-que-propone-adriana-nieto-y-en-que-se-diferencia-del-borrador-de-los-diputados-730226.html"
     },
     {
      "titulo": "Santa Cruz define cómo votará en 2027: mañana se juega el futuro de las PASO y la Boleta Única",
@@ -468,10 +499,10 @@
      "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-define-como-votara-en-2027-manana-se-juega-el-futuro-de-las-paso-y-la-boleta-unica-7659/"
     },
     {
-     "titulo": "Trabajadores reincorporados agradecieron \"al gobernador y a las empresas que invierten”",
-     "medio": "Prensa oficial de Santa Cruz",
+     "titulo": "Mirando hacia el 2027 Grasso reunió a diputados para analizar la situación de Santa Cruz",
+     "medio": "Tiempo Sur",
      "fecha": "09/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/trabajadores-reincorporados-agradecieron-al-gobernador-y-a-las-empresas-que-invierten"
+     "url": "https://www.tiemposur.com.ar/politica/grasso-reunio-a-diputados-para-analizar-la-situacion-de-santa-cruz"
     }
    ],
    "imagen": []
@@ -491,11 +522,10 @@
      "url": "https://www.rosario3.com/politica/neuquen-sera-la-primera-provincia-en-ir-a-las-urnas-en-2027-elegira-gobernador-en-febrero-20261109-0036.html"
     },
     {
-     "titulo": "Milei, sobre el pedido de diálogo del Papa:",
-     "medio": "La Capital",
+     "titulo": "Santa Fe: la Cámara de Diputados demora el tratamiento de los proyectos contra la violencia de género",
+     "medio": "Aire",
      "fecha": "09/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/milei-el-pedido-dialogo-del-papa-en-argentina-los-debates-no-son-honestos-intelectualmente-n10291201.html",
-     "tag": "También en Rosario3, UNO - SF"
+     "url": "https://www.airedesantafe.com.ar/politica/santa-fe-la-camara-diputados-demora-el-tratamiento-los-proyectos-contra-la-violencia-genero-n675912"
     }
    ],
    "imagen": [
@@ -510,36 +540,29 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "EL LIBERAL en Córdoba | Una religiosa santiagueña presente para recibir al papa León XIV: \"Es una alegría que une a todo el país\"",
-     "medio": "El Liberal",
+     "titulo": "Pedro Alliana pidió la renuncia de todos sus ministros y avanzó con cambios en el gabinete",
+     "medio": "Diario Panorama",
      "fecha": "09/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97481/2026/11/el-liberal-en-cordoba--la-emocion-de-religiosas-santiaguenas-ante-la-visita-del-papa-leon-xiv",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://www.diariopanorama.com/noticia/572468/pedro-alliana-pidio-renuncia-todos-sus-ministros-avanzo-cambios-gabinete"
     },
     {
-     "titulo": "Javier Milei presenció la histórica misa del papa León XIV en Palermo",
+     "titulo": "Elías Suárez llevó el saludo de Santiago del Estero al papa León XIV",
      "medio": "El Liberal",
      "fecha": "09/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97489/2026/11/javier-milei-presencio-la-historica-misa-del-papa-leon-xiv-en-palermo",
-     "tag": "También en Diario Panorama"
+     "url": "https://www.elliberal.com.ar/nota/97431/2026/11/elias-suarez-llevo-el-saludo-de-santiago-del-estero-al-papa-leon-xiv",
+     "tag": "También en El Destape"
     },
     {
-     "titulo": "Santiagueños en la visita histórica del papa León XIV a la Argentina",
-     "medio": "Info del Estero",
+     "titulo": "Fuerte presencia de Santiago del Estero en la comitiva",
+     "medio": "El Liberal",
      "fecha": "09/11/2026",
-     "url": "https://infodelestero.com/galerias/santiaguenos-en-la-visita-historica-del-papa-leon-xiv-a-la-argentina",
-     "tag": "También en Diario Panorama"
+     "url": "https://www.elliberal.com.ar/nota/97450/2026/11/fuerte-presencia-de-santiago-del-estero-en-la-comitiva",
+     "tag": "También en Info del Estero"
     }
    ],
    "imagen": [
     {
-     "titulo": "En imágenes: así se vive en Santiago del Estero el feriado nacional por la visita del Papa",
-     "medio": "Diario Panorama",
-     "fecha": "09/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572422/imagenes-asi-se-vive-santiago-estero-feriado-nacional-visita-papa"
-    },
-    {
-     "titulo": "Principal País \"Un león recibe a otro león\": la curiosa imagen que compartió Javier Milei por la llegada del Papa",
+     "titulo": "País \"Un león recibe a otro león\": la curiosa imagen que compartió Javier Milei por la llegada del Papa Hace 5 horas",
      "medio": "Info del Estero",
      "fecha": "09/11/2026",
      "url": "https://infodelestero.com/2026/11/09/un-leon-recibe-a-otro-leon-la-curiosa-imagen-que-compartio-javier-milei-por-la-llegada-del-papa"
@@ -549,22 +572,24 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Fernando Bravo leyó la Biblia frente a Milei en la misa de León XIV, semanas después de que el Presidente lo llamara “corrupto” y “mentiroso”",
+     "titulo": "Neuquén será la primera provincia en votar en 2027: qué día elegirá gobernador",
      "medio": "La Gaceta - Tucumán",
      "fecha": "09/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1161760/politica/fernando-bravo-leyo-biblia-frente-milei-misa-leon-xiv-semanas-despues-presidente-lo-llamara-corrupto-mentiroso.html"
+     "url": "https://www.lagaceta.com.ar/nota/1161806/politica/neuquen-sera-primera-provincia-votar-2027-dia-elegira-gobernador.html",
+     "tag": "También en Los Primeros"
     },
     {
-     "titulo": "El mensaje de León XIV: \"Ninguno de los que estábamos ahí podemos mirar para otro lado\", señaló Jaldo a LA GACETA",
+     "titulo": "Jaldo y Manzur, cerca del Papa, pero cada vez más lejos de un acuerdo en el PJ",
      "medio": "La Gaceta - Tucumán",
      "fecha": "09/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1161723/politica/mensaje-leon-xiv-ninguno-estabamos-ahi-podemos-mirar-para-otro-lado-senalo-jaldo-la-gaceta.html"
+     "url": "https://www.lagaceta.com.ar/nota/1161743/politica/jaldo-manzur-cerca-papa-pero-cada-vez-mas-lejos-acuerdo-pj.html"
     },
     {
-     "titulo": "Victoria Villarruel contó por qué no fue a la misa del papa León XIV: “Nunca recibimos el QR”",
-     "medio": "Los Primeros",
+     "titulo": "León XIV: \"Tierra, techo y trabajo son exigencias de la justicia social\"",
+     "medio": "LV12",
      "fecha": "09/11/2026",
-     "url": "https://www.losprimeros.tv/politica/victoria-villarruel-conto-por-que-no-fue-a-la-misa-del-papa-leon-xiv---nunca-recibimos-el-qr-_a6af21bc9696ebfa450cc203e"
+     "url": "https://www.lv12.com.ar/papa-leon-xiv/papa-leon-xiv-la-uca-tierra-techo-y-trabajo-son-exigencias-la-justicia-social-n206382",
+     "tag": "También en La Gaceta - Tucumán"
     }
    ],
    "imagen": []
