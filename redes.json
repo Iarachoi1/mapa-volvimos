@@ -1,13 +1,76 @@
 {
- "actualizado": "10/11 18:29",
+ "actualizado": "10/11 19:29",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "corriente del niño",
+   "tema": "coco gauff",
+   "busquedas": "100+",
+   "nota": "The desert mirage: Gauff, Pegula, and the fierce reality of American women’s tennis",
+   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171377/the-desert-mirage-gauff-pegula-and-the-fierce-reality-of-american-womens-tennis/",
+   "medio": "Tennis World USA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "murio hector aguer",
+   "busquedas": "2000+",
+   "nota": "El último adiós a Héctor Aguer será en la Catedral de La Plata",
+   "nota_url": "https://www.eldia.com/la-ciudad/anunciaron-que-la-catedral-sera-la-sede-del-ultimo-adios-a-hector-aguer-la-ciudad_1794334393",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "murio apolo kidd",
+   "busquedas": "500+",
+   "nota": "Murió a los 28 años un cantante y productor amigo de L-Gante",
+   "nota_url": "https://www.diariopanorama.com/noticia/572527/murio-28-anos-cantante-productor-amigo-lgante",
+   "medio": "Diario Panorama",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "valencia cf",
+   "busquedas": "100+",
+   "nota": "La ilusión de un pueblo",
+   "nota_url": "https://as.com/futbol/primera/la-ilusion-de-un-pueblo-f202611-n/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la capital",
+   "busquedas": "500+",
+   "nota": "Se viene el 2° Torneo de Backgammon en la Casa Armenia",
+   "nota_url": "https://www.lacapitalmdp.com/se-viene-el-2-torneo-de-backgammon-en-la-casa-armenia/",
+   "medio": "Diario La Capital de Mar del Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la brujula 24",
    "busquedas": "200+",
+   "nota": "Incendio en la primera cuadra de calle Chiclana",
+   "nota_url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/",
+   "medio": "BVC Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nunciatura apostólica",
+   "busquedas": "200+",
+   "nota": "León XIV pidió silencio a los fieles antes de retirarse a descansar",
+   "nota_url": "https://www.diarioepoca.com/1394802-leon-xiv-pidio-silencio-a-los-fieles-antes-de-retirarse-a-descansar",
+   "medio": "Diario Época Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corriente del niño",
+   "busquedas": "1000+",
    "nota": "El Niño sumará hasta 0,2°C a las temperaturas globales y prolongará el calor extremo hasta 2027",
    "nota_url": "https://www.bloomberglinea.com/2026/11/09/el-nino-sumara-hasta-02c-a-las-temperaturas-globales-y-prolongara-el-calor-extremo-hasta-2027/",
    "medio": "Bloomberg Línea",
@@ -16,82 +79,19 @@
   },
   {
    "tema": "vigilia de jovenes",
-   "busquedas": "500+",
-   "nota": "Video Un picadito a la espera de León XIV en el Encuentro con los jóvenes",
-   "nota_url": "https://www.clarin.com/videos/picadito-espera-leon-xiv-encuentro-jovenes_3_jVQpaFwcdC.html",
+   "busquedas": "1000+",
+   "nota": "Video Maggie Cullen animó la previa del encuentro de León XIV con los jóvenes en Palermo",
+   "nota_url": "https://www.clarin.com/sociedad/maggie-cullen-animo-previa-encuentro-leon-xiv-jovenes-palermo_3_oCvmBntkMY.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "el litoral",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El Niño: la crecida del Paraná provocó evacuaciones en dos capitales del Litoral",
    "nota_url": "https://www.infobae.com/sociedad/2026/11/09/el-nino-la-crecida-del-parana-provoco-evacuaciones-en-dos-capitales-del-litoral/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "justicia",
-   "busquedas": "5000+",
-   "nota": "Una fuerte crítica al anarcocapitalismo",
-   "nota_url": "https://www.perfil.com/opinion/una-fuerte-critica-al-anarcocapitalismo-aEqqt3d3dSHH",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "monseñor hector aguer",
-   "busquedas": "2000+",
-   "nota": "Murió Héctor Aguer, el polémico exarzobispo de La Plata",
-   "nota_url": "https://www.clarin.com/sociedad/murio-hector-aguer-polemico-exarzobispo-plata_0_7wJjOQAcwT.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marcos camino",
-   "busquedas": "10000+",
-   "nota": "Murió el histórico líder de Los Palmeras y referente de la cumbia santafesina, Marcos Camino",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/murio-historico-lider-palmeras-referente-cumbia-santafesina-marcos-camino_0_tCyCRSEdsH.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aire de santa fe",
-   "busquedas": "500+",
-   "nota": "Arroyo Leyes monitorea la crecida del río: 16 familias se vieron afectadas y tres fueron evacuadas",
-   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/arroyo-leyes-monitorea-la-crecida-del-rio-16-familias-se-vieron-afectadas-y-tres-fueron-evacuadas-n676264",
-   "medio": "Aire de Santa Fe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jubilación anticipada",
-   "busquedas": "100+",
-   "nota": "Jubilación anticipada: ¿quiénes pueden retirarse a los 50 y 52 años?",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1161458/sociedad/jubilacion-anticipada-quienes-pueden-retirarse-50-52-anos.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima parana",
-   "busquedas": "200+",
-   "nota": "Anuncian tormentas y anticipan un fuerte aumento de las temperaturas",
-   "nota_url": "https://www.elheraldo.com.ar/noticias/interes-general/anuncian-tormentas-y-anticipan-un-fuerte-aumento-de-las-temperaturas",
-   "medio": "elheraldo.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima rosario",
-   "busquedas": "1000+",
-   "nota": "Vuelven las lluvias a Funes este martes: cuándo llega la tormenta y qué se espera para la semana",
-   "nota_url": "https://infofunes.com.ar/ciudad/vuelven-las-lluvias-a-funes-este-martes--cuando-llega-la-tormenta-y-que-se-espera-para-la-semana_a6af31d90696ebfa450d668ef",
-   "medio": "InfoFunes",
    "relevante": false,
    "temas": []
   }
