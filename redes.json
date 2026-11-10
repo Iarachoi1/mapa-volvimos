@@ -1,22 +1,58 @@
 {
- "actualizado": "10/11 13:38",
+ "actualizado": "10/11 14:37",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "sindicato",
+   "tema": "monseñor aguer",
+   "busquedas": "1000+",
+   "nota": "Falleció el ex arzobispo de La Plata Hector Aguer, peleado con Francisco y Tucho Fernandez su sucesor",
+   "nota_url": "https://laplataya.com.ar/2026/11/10/fallecio-el-ex-arzobispo-de-la-plata-hector-aguer-peleado-con-francisco-y-tucho-fernandez-su-sucesor/",
+   "medio": "La Plata YA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "stranger things",
    "busquedas": "200+",
-   "nota": "Una fuerte crítica al anarcocapitalismo",
-   "nota_url": "https://www.perfil.com/opinion/una-fuerte-critica-al-anarcocapitalismo-aEqqt3d3dSHH",
+   "nota": "5 Stranger Things Characters Who Could Return In The Spin-Off Series Other Worlds",
+   "nota_url": "https://www.tvline.com/2311869/stranger-things-characters-return-spin-off-series-other-worlds/",
+   "medio": "TVLine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lujan",
+   "busquedas": "100+",
+   "nota": "Los rostros de la caridad: la imagen que acompañará este miércoles al Papa",
+   "nota_url": "https://www.perfil.com/sociedad/los-rostros-de-la-caridad-la-imagen-que-acompanara-este-miercoles-al-papa-aBabH3O55n1L",
    "medio": "Perfil",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "dólar blue",
+   "tema": "vigilia de los jovenes con el papa",
+   "busquedas": "200+",
+   "nota": "Encuentro de los jóvenes: los artistas que acompañarán a Nahuel Pennisi y cantarán para el papa León XIV",
+   "nota_url": "https://www.losandes.com.ar/espectaculos/encuentro-los-jovenes-los-artistas-que-acompanaran-nahuel-pennisi-y-cantaran-el-papa-leon-xiv-n6013642",
+   "medio": "Los Andes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sindicato",
    "busquedas": "500+",
+   "nota": "“Nos sentimos representados”: fuerte impacto en el sindicalismo por el discurso del Papa ante el mundo del trabajo",
+   "nota_url": "https://www.infobae.com/politica/2026/11/09/nos-sentimos-representados-fuerte-impacto-en-el-sindicalismo-por-el-discurso-del-papa-ante-el-mundo-del-trabajo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dólar blue",
+   "busquedas": "1000+",
    "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este martes 10 de noviembre, minuto a minuto",
    "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-martes-10-de-noviembre-nid10112026/",
    "medio": "La Nación",
@@ -25,7 +61,7 @@
   },
   {
    "tema": "sofia gonet",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Una famosa subió fotos desnudas y encendió las redes sociales",
    "nota_url": "https://www.diariohuarpe.com/nota/una-famosa-subio-fotos-desnudas-y-encendio-las-redes-sociales-202611912140",
    "medio": "Diario Huarpe",
@@ -34,7 +70,7 @@
   },
   {
    "tema": "ángel correa",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Di Carlo y Longoria decidiron ficharlo como estrella y acertaron: \"Nivel europeo\"",
    "nota_url": "https://soydelmillo.com/mercado-de-pases/2026/11/07/river-correa-aporte-ofensivo/",
    "medio": "Soy del Millo",
@@ -44,9 +80,9 @@
   {
    "tema": "si san juan",
    "busquedas": "200+",
-   "nota": "El río Calingasta duplicó su caudal en 15 días y hay preocupación por aluviones",
-   "nota_url": "https://www.sanjuan8.com/san-juan/el-rio-calingasta-duplico-su-caudal-15-dias-y-hay-preocupacion-aluviones-n1614974",
-   "medio": "San Juan 8",
+   "nota": "Titularización y ascenso docente: las claves de Educación para verificar la validez de los avales ministeriales",
+   "nota_url": "https://www.diariodecuyo.com.ar/san-juan/titularizacion-y-ascenso-docente-las-claves-educacion-verificar-la-validez-los-avales-ministeriales-n6588072",
+   "medio": "Diario de Cuyo",
    "relevante": false,
    "temas": []
   },
@@ -56,42 +92,6 @@
    "nota": "La misión de anticiparse al infarto",
    "nota_url": "https://www.diariodesevilla.es/salud/actualidad/mision-anticiparse-infarto_0_2008456660.html",
    "medio": "Diario de Sevilla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "misa del papa",
-   "busquedas": "200+",
-   "nota": "Zulemita Menem se cansó de las críticas y explicó por qué no fue vestida de negro a la misa del papa León XIV en Palermo",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/10/zulemita-menem-se-canso-de-las-criticas-y-explico-por-que-no-fue-vestida-de-negro-a-la-misa-del-papa-leon-xiv-en-palermo/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "precio",
-   "busquedas": "500+",
-   "nota": "La inflación, en torno al 2%",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/09/la-inflacion-en-torno-al-2/",
-   "medio": "Página|12",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "tradingview",
-   "busquedas": "500+",
-   "nota": "Stocks cut gains, dollar and yields up as US CPI cements December rate hike bets",
-   "nota_url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/",
-   "medio": "Reuters",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atp estocolmo",
-   "busquedas": "200+",
-   "nota": "Etcheverry no se presentó por lesión y Tirante pasó en el ATP de Estocolmo",
-   "nota_url": "https://www.eldia.com/deportes/etcheverry-no-se-presento-por-lesion-y-tirante-paso-en-el-atp-de-estocolmo-deportes_1794321221",
-   "medio": "Diario El Día de La Plata",
    "relevante": false,
    "temas": []
   }
