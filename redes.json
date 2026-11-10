@@ -1,10 +1,28 @@
 {
- "actualizado": "10/11 00:38",
+ "actualizado": "10/11 01:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "juanita tinelli",
+   "busquedas": "100+",
+   "nota": "El fuerte mensaje de Juana Tinelli a Cande Tinelli tras pelearse a muerte en medio de la interna familiar",
+   "nota_url": "https://www.paparazzi.com.ar/teve/el-fuerte-mensaje-de-juana-tinelli-a-cande-tinelli-tras-pelearse-a-muerte-en-medio-de-la-interna-familiar/",
+   "medio": "Revista Paparazzi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gta vi",
+   "busquedas": "100+",
+   "nota": "Take-Two lifts annual revenue, profit forecasts as 'GTA VI' launch nears",
+   "nota_url": "https://www.reuters.com/business/take-two-projects-third-quarter-bookings-below-estimates-2026-11-09/",
+   "medio": "Reuters",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "getafe club de fútbol",
    "busquedas": "100+",
@@ -16,19 +34,28 @@
   },
   {
    "tema": "warriors - pelicans",
-   "busquedas": "500+",
-   "nota": "Pelicans vs. Warriors Picks, Predictions, Props & Odds for Monday Night NBA Action",
-   "nota_url": "https://www.hardrock.bet/news/pelicans-vs-warriors-picks-predictions-props-odds/",
-   "medio": "Hard Rock Bet",
+   "busquedas": "1000+",
+   "nota": "Pelicans vs. Warriors: Injury Report, Game Preview 11/9/2026",
+   "nota_url": "https://www.nba.com/pelicans/news/pelicans-vs-warriors-injury-report-game-preview-11-9-2026",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "verano",
+   "busquedas": "200+",
+   "nota": "Súper Niño: pronostican más de 40 grados y tormentas intensas en una región",
+   "nota_url": "https://www.lanacion.com.ar/economia/campo/super-nino-pronostican-mas-de-40-grados-y-tormentas-intensas-en-una-region-nid07112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "karina mazzocco",
    "busquedas": "200+",
-   "nota": "Karina Mazzocco festejó los 20 años de su hijo Malek y sorprendió a todos al mostrar cómo creció: “Que te sobren motivos para ser feliz”",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/karina-mazzocco-festejo-los-20-anos-de-su-hijo-malek-y-sorprendio-a-todos-al-mostrar-como-crecio-que-te-sobren-motivos-para-ser-feliz/",
-   "medio": "Radio Mitre",
+   "nota": "Entre lágrimas y contratiempos: la difícil noche de la China Ansa en Masterchef Celebrity",
+   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/entre-lagrimas-y-contratiempos-la-dificil-noche-de-la-china-ansa-en-masterchef-celebrity-pid2571788",
+   "medio": "Telefe",
    "relevante": true,
    "temas": []
   },
@@ -61,37 +88,10 @@
   },
   {
    "tema": "mavericks - pacers",
-   "busquedas": "100+",
-   "nota": "Pacers Mavericks Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/pacers-mavericks-basketball/image_cd4b4028-98ab-5c21-a2bc-a1fb220b9839.html",
-   "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "florencia torrente",
-   "busquedas": "1000+",
-   "nota": "Flor Torrente habló de su salud tras un diagnóstico inesperado: “Pensé que me iba a morir”",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/09/flor-torrente-hablo-de-su-salud-tras-un-diagnostico-inesperado-escuchen-a-su-cuerpo/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rockets - nuggets",
-   "busquedas": "500+",
-   "nota": "Nikola Jokic (elbow) now probable Monday",
-   "nota_url": "https://www.fantasypros.com/nba/news/618898/nikola-jokic-elbow-now-probable-monday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ciudad",
    "busquedas": "200+",
-   "nota": "La Municipalidad de Ushuaia avanza con trabajos en distintos sectores",
-   "nota_url": "https://www.surenio.com.ar/la-municipalidad-de-ushuaia-avanza-con-trabajos-en-distintos-sectores/",
-   "medio": "Diario El Sureño",
+   "nota": "Pascal Siakam drops 29 points in loss to Mavs",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/pascal-siakam-drops-29-points-in-loss-to-mavs",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   }
