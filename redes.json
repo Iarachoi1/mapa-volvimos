@@ -1,97 +1,97 @@
 {
- "actualizado": "10/11 08:41",
+ "actualizado": "10/11 09:46",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "clima mendoza",
+   "tema": "juan manuel cerúndolo",
+   "busquedas": "500+",
+   "nota": "Tenis: Etcheverry ganó y enfrentará a Tirante en Estocolmo",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/09/tenis-etcheverry-gano-y-enfrentara-a-tirante-en-estocolmo/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "álex baena",
+   "busquedas": "100+",
+   "nota": "Atlético: Alex Baena opina del caso Julián Álvarez y abre las puertas a Zubimendi",
+   "nota_url": "https://www.espn.com.ar/futbol/espana/nota/_/id/17500578/atletico-baena-opina-julian-alvarez-abre-puertas-zubimendi",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "phil collins",
+   "busquedas": "100+",
+   "nota": "Phil Collins Contemplating Possible Comeback Tour: ‘I Never Say Exactly Never’",
+   "nota_url": "https://www.rollingstone.com/music/music-news/phil-collins-contemplating-comeback-tour-1235654574/",
+   "medio": "Rolling Stone",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "toukie smith",
+   "busquedas": "200+",
+   "nota": "Toukie Smith Dead: '227' Actor & Former Partner Of Robert De Niro Was 74",
+   "nota_url": "https://deadline.com/2026/11/toukie-smith-dead-227-robert-de-niro-partner-1237217666/",
+   "medio": "Deadline",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "canal 12",
+   "busquedas": "200+",
+   "nota": "Vuelve el exsecretario de Pesca de Arcioni al Consejo Federal Pesquero",
+   "nota_url": "https://pescare.com.ar/vuelve-el-exsecretario-de-pesca-de-arcioni-al-consejo-federal-pesquero/",
+   "medio": "Pescare",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cadena 3 en vivo",
    "busquedas": "1000+",
-   "nota": "El tiempo en Mendoza: se mantienen el calor y las tormentas aisladas",
-   "nota_url": "https://www.elsol.com.ar/mendoza/el-tiempo-en-mendoza-se-mantienen-el-calor-y-las-tormentas-aisladas/",
-   "medio": "Diario El Sol Mendoza",
+   "nota": "García Cuerva destacó el mensaje del Papa frente a las dificultades económicas, la violencia y las adicciones que afectan a los argentinos",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1161759/sociedad/garcia-cuerva-destaco-mensaje-papa-frente-dificultades-economicas-violencia-adicciones-afectan-argentinos.html",
+   "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima san rafael",
-   "busquedas": "100+",
-   "nota": "Pronóstico del tiempo en San Rafael para este martes 10 de noviembre",
-   "nota_url": "https://laventanasanrafael.com.ar/pronostico-del-tiempo-en-san-rafael-para-este-martes-10-de-noviembre/",
-   "medio": "La Ventana San Rafael",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético san lorenzo de almagro",
-   "busquedas": "100+",
-   "nota": "Culotta anticipó limpieza y fue categórico con el futuro de Insua: \"Será el encargado de todo el 2027\"",
-   "nota_url": "https://www.tycsports.com/san-lorenzo/culotta-hablo-del-futuro-de-insua-en-san-lorenzo-y-fue-categorico-sera-el-encargado-de-todo-el-2027-id770742.html",
-   "medio": "TyC Sports",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "que pasa salta",
-   "busquedas": "100+",
-   "nota": "Clima en Salta: cómo seguirá el tiempo este lunes 9 de noviembre",
-   "nota_url": "https://www.cadena3.com/noticia/clima/clima-en-salta-como-seguira-el-tiempo-este-lunes-9-de-noviembre_611543",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "puerto madero",
+   "tema": "mdz",
    "busquedas": "200+",
-   "nota": "Detuvieron a cinco \"pungas\" en Plaza de Mayo y Puerto Madero durante las actividades de León XIV",
-   "nota_url": "https://www.elesquiu.com/policiales/2026/11/9/detuvieron-a-cinco-pungas-en-plaza-de-mayo-y-puerto-madero-durante-las-actividades-de-leon-xiv-602833.html",
-   "medio": "El Esquiu",
+   "nota": "La potente visita de León XIV, la incomodidad de los destinatarios de su mensaje y la agenda política que viene",
+   "nota_url": "https://www.infobae.com/politica/2026/11/10/la-potente-visita-de-leon-xiv-la-incomodidad-de-los-destinatarios-de-su-mensaje-y-la-agenda-politica-que-viene/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tiempo de san juan",
+   "tema": "noticiasnet",
    "busquedas": "100+",
-   "nota": "El clima en San Juan: Calor, viento sur, ráfagas, y ¿lluvia?; preparate para un martes complicado",
-   "nota_url": "https://www.tiempodesanjuan.com/san-juan/el-clima-en-san-juan-calor-viento-sur-rafagas-y-lluvia-preparate-para-un-martes-complicado_1794271651",
-   "medio": "Tiempo de San Juan",
+   "nota": "Clima hoy en Viedma, Río Negro: el pronóstico del tiempo para este martes 10 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-viedma-rio-negro-pronostico-tiempo-martes-10-noviembre-2026_0_AIrD3DAHnR.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tn noticias",
-   "busquedas": "100+",
-   "nota": "Dos jóvenes fueron detenidos por robar camionetas tras allanamientos con drones municipales",
-   "nota_url": "https://www.perspectivasur.com/1048365184-dos-jvenes-fueron-detenidos-por-robar-camionetas-tras-allanamientos-con-drones-municipales",
-   "medio": "Perspectiva Sur",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "punilla",
+   "tema": "feriado bancario",
    "busquedas": "200+",
-   "nota": "Un sismo sacudió Punilla durante las primeras horas de la mañana",
-   "nota_url": "https://www.eldiariodecarlospaz.com.ar/sociedad/2026/11/9/un-sismo-sacudio-punilla-durante-las-primeras-horas-de-la-manana-263998.html",
-   "medio": "El Diario de Carlos Paz",
+   "nota": "El Banco Provincia ofrece siete alternativas para operar sin ir a sus sucursales durante los próximos feriados",
+   "nota_url": "https://www.0221.com.ar/provincia/el-banco-provincia-ofrece-siete-alternativas-operar-ir-sus-sucursales-los-proximos-feriados-n137061",
+   "medio": "0221",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "premios martín fierro",
-   "busquedas": "100+",
-   "nota": "Luto en la TV por la muerte de Sergio Ramírez, uno de los ganadores del primer Martín Fierro de Oro",
-   "nota_url": "https://www.minutouno.com/espectaculos/luto-la-tv-la-muerte-sergio-ramirez-uno-los-ganadores-del-primer-martin-fierro-oro-n6342691",
-   "medio": "Minutouno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el once digital",
-   "busquedas": "100+",
-   "nota": "La mitad de los empresarios pyme cree que el desempeño de su empresa no crecerá el año que viene",
-   "nota_url": "https://www.ambito.com/la-mitad-los-empresarios-pyme-cree-que-el-desempeno-su-empresa-no-crecera-el-ano-que-viene-n6343304",
-   "medio": "Ambito",
+   "tema": "clima mendoza",
+   "busquedas": "2000+",
+   "nota": "Clima hoy en Mendoza: el pronóstico del tiempo para este martes 10 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-mendoza-pronostico-tiempo-martes-10-noviembre-2026_0_z701Qg7dNM.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
