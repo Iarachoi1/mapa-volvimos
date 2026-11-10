@@ -1,98 +1,98 @@
 {
- "actualizado": "10/11 05:00",
+ "actualizado": "10/11 06:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "quini6",
+   "busquedas": "500+",
+   "nota": "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 8 de noviembre",
+   "nota_url": "https://www.tycsports.com/interes-general/quini-6-de-hoy-sorteo-controlar-carton-y-los-resultados-del-domingo-8-de-noviembre-id770839.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima san luis",
+   "busquedas": "100+",
+   "nota": "Se aproximan tormentas con varias horas de lluvias este martes 10 de noviembre: prevén precipitaciones y actividad eléctrica en San Luís",
+   "nota_url": "https://www.cronista.com/informacion-gral/se-aproximan-tormentas-con-varias-horas-de-lluvias-este-martes-10-de-noviembre-preven-precipitaciones-y-actividad-electrica-en-san-luis/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima bahia blanca",
+   "busquedas": "100+",
+   "nota": "Se espera un martes caluroso y con nubosidad variable",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/09/se-espera-un-martes-caluroso-y-con-nubosidad-variable-n529976/",
+   "medio": "La Brújula 24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "perro",
+   "busquedas": "200+",
+   "nota": "En agosto, un hombre de 86 años desapareció en el océano Pacífico junto a su perro: 69 días después, los encon",
+   "nota_url": "https://as.com/actualidad/sociedad/en-agosto-un-hombre-de-86-anos-desaparecio-en-el-oceano-pacifico-junto-a-su-perro-69-dias-despues-los-encontraron-con-vida-a-740-kilometros-de-la-costa-f202611-n/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético boca juniors",
+   "busquedas": "500+",
+   "nota": "Copa Argentina. Leandro Paredes llevó tranquilidad en Boca: está bien y será titular ante Banfield",
+   "nota_url": "https://www.lavoz.com.ar/deportes/leandro-paredes-llevo-tranquilidad-boca-bien-titular-banfield_0_uHQuv3sSUX.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "misa",
+   "busquedas": "20000+",
+   "nota": "León XIV: las razones del fervor",
+   "nota_url": "https://www.lanacion.com.ar/politica/leon-xiv-las-razones-del-fervor-nid10112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sandra pettovello",
+   "busquedas": "500+",
+   "nota": "Jubilación anticipada: ¿quiénes pueden retirarse a los 50 y 52 años?",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1161458/sociedad/jubilacion-anticipada-quienes-pueden-retirarse-50-52-anos.html",
+   "medio": "La Gaceta",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "ramón díaz",
+   "busquedas": "200+",
+   "nota": "¿Vuelve Ramón Díaz o sorprende Bielsa? El panorama de la dirigencia de River para el futuro técnico del plantel",
+   "nota_url": "https://www.catamarcaya.com.ar/vuelve-ramon-diaz-o-sorprende-bielsa-el-panorama-de-la-dirigencia-de-river-para/",
+   "medio": "CatamarcaYa",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "empresario",
    "busquedas": "1000+",
-   "nota": "V. A. a Argentina: Encuentro con el mundo laboral en la UCA",
-   "nota_url": "https://episcopado.org/ver/5013",
-   "medio": "Conferencia Episcopal Argentina",
+   "nota": "León XIV habló en la UCA de Enrique Shaw, empresario argentino y futuro beato",
+   "nota_url": "https://www.ambito.com/politica/leon-xiv-hablo-la-uca-enrique-shaw-empresario-argentino-y-futuro-beato-n6343330",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "aguinaldo",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "El Gobierno tiene preparado un triple pago para jubilados con DNI entre 0 y 9",
    "nota_url": "https://www.baenegocios.com/economia/el-gobierno-tiene-preparado-un-triple-pago-para-jubilados-con-dni-entre-0-y-9/",
    "medio": "BAE Negocios",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "juanita tinelli",
-   "busquedas": "200+",
-   "nota": "El fuerte mensaje de Juana Tinelli a Cande Tinelli tras pelearse a muerte en medio de la interna familiar",
-   "nota_url": "https://www.paparazzi.com.ar/teve/el-fuerte-mensaje-de-juana-tinelli-a-cande-tinelli-tras-pelearse-a-muerte-en-medio-de-la-interna-familiar/",
-   "medio": "Revista Paparazzi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vórtice polar",
-   "busquedas": "200+",
-   "nota": "Capa de ozono: el agujero alcanzó su mayor tamaño en una década",
-   "nota_url": "https://www.eldia.com/informacion-general/capa-de-ozono-el-agujero-alcanzo-su-mayor-tamano-en-una-decada-informacion-general_1793939292",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gta vi",
-   "busquedas": "200+",
-   "nota": "Take-Two lifts annual revenue, profit forecasts as 'GTA VI' launch nears",
-   "nota_url": "https://www.reuters.com/business/take-two-projects-third-quarter-bookings-below-estimates-2026-11-09/",
-   "medio": "Reuters",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "getafe club de fútbol",
-   "busquedas": "100+",
-   "nota": "Alineaciones de Villarreal y Getafe para el duelo de la jornada 12 de la LaLiga",
-   "nota_url": "https://bolavip.com/ar/europa/alineaciones-de-villarreal-y-getafe-para-el-duelo-de-la-jornada-12-de-la-laliga",
-   "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors - pelicans",
-   "busquedas": "2000+",
-   "nota": "New Orleans Pelicans Hit ROCK BOTTOM After Worst Loss in Franchise History--What's Next for Pels?",
-   "nota_url": "https://www.wbir.com/video/sports/locked-on/lo-new-orleans/pelicans-show/new-orleans-pelicans-hit-rock-bottom-after-worst-loss-in-franchise-history-whats-next-for-pels/535-9d3f8b58-4407-4bd4-808d-a252215ca014",
-   "medio": "WBIR",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "verano",
-   "busquedas": "200+",
-   "nota": "El Niño: temperaturas de 40° y vientos de 100 km en Neuquén en los próximos días",
-   "nota_url": "https://www.bhinfo.com.ar/noticia/29623-El_Nino_temperaturas_de_40_y_vientos_de_100_km_en_Neuquen_en_los_proximos_dias-06102026",
-   "medio": "BHInfo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "karina mazzocco",
-   "busquedas": "200+",
-   "nota": "Karina Mazzocco festejó los 20 años de su hijo Malek y sorprendió a todos al mostrar cómo creció: “Que te sobren motivos para ser feliz”",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/karina-mazzocco-festejo-los-20-anos-de-su-hijo-malek-y-sorprendio-a-todos-al-mostrar-como-crecio-que-te-sobren-motivos-para-ser-feliz/",
-   "medio": "Radio Mitre",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "rocio robles",
-   "busquedas": "2000+",
-   "nota": "Rocío Robles juró venganza contra Edith Hermida y empezó con un carpetazo sobre Wanda Nara",
-   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/rocio-robles-juro-venganza-contra-edith-hermida-y-empezo-con-un-carpetazo-sobre-wanda-nara-pid2571509",
-   "medio": "Telefe",
-   "relevante": false,
    "temas": []
   }
  ],
