@@ -1,13 +1,58 @@
 {
- "actualizado": "10/11 16:41",
+ "actualizado": "10/11 17:33",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "chelsea femenino",
+   "tema": "clima rosario",
+   "busquedas": "1000+",
+   "nota": "Rosario tendrá una jornada mayormente soleada y una máxima de 28 grados",
+   "nota_url": "https://www.cadena3.com/noticia/noticias-rosario/rosario-tendra-una-jornada-mayormente-soleada-y-una-maxima-de-28-grados_611684",
+   "medio": "Cadena 3 Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
+   "busquedas": "200+",
+   "nota": "Anuncian tormentas y anticipan un fuerte aumento de las temperaturas",
+   "nota_url": "https://www.elheraldo.com.ar/noticias/interes-general/anuncian-tormentas-y-anticipan-un-fuerte-aumento-de-las-temperaturas",
+   "medio": "elheraldo.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima santa fe",
+   "busquedas": "500+",
+   "nota": "Clima en Santa Fe hoy martes 10 de noviembre: lluvia ligera y cielo mayormente nublado",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/10/clima-en-santa-fe-hoy-martes-10-de-noviembre-lluvia-ligera-y-cielo-mayormente-nublado/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gustavo alfaro",
    "busquedas": "100+",
+   "nota": "Comunicado de la Selección paraguaya: “Nosotros también somos víctimas”",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/06/comunicado-de-la-seleccion-paraguaya-nosotros-tambien-somos-victimas/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inter de miami",
+   "busquedas": "500+",
+   "nota": "Skip to main content",
+   "nota_url": "https://www.charlottefootballclub.com/video/we-re-going-to-have-confidence-going-away-to-chicago-tyger-smalls-post-match-press-conference-charlotte-fc-at-inter-miami-cf",
+   "medio": "Charlotte FC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chelsea femenino",
+   "busquedas": "200+",
    "nota": "El Chelsea pierde el liderato ante la muralla del Everton",
    "nota_url": "https://reinasdelbalon.com/el-chelsea-pierde-el-liderato-ante-la-muralla-del-everton/",
    "medio": "Reinas del balón",
@@ -15,21 +60,21 @@
    "temas": []
   },
   {
-   "tema": "real madrid femenino",
-   "busquedas": "200+",
-   "nota": "Sandrine Soubeyrand, sobre el Madrid: \"Querrán ganar, sus resultados no han sido buenos\"",
-   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/09/sandrine-soubeyrand-sobre-el-madrid-querran-ganar-sus-resultados-no-han-sido-buenos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "islas malvinas",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El Gobierno pidió ante el Tribunal del Mar que se frene la explotación petrolera en las islas Malvinas",
    "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-pidio-ante-el-tribunal-del-mar-que-se-frene-la-explotacion-petrolera-en-las-islas-nid10112026/",
    "medio": "La Nación",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "champions femenina",
+   "busquedas": "500+",
+   "nota": "Dónde ver hoy en directo el Real Madrid Femenino contra el Paris FC: ¿quién retransmite el partido por televisión y en streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-el-real-madrid-femenino-contra-el-paris-fc-quien-retransmite-el-partido-por-television-y-en-streaming/bltd66286041e3e92a9",
+   "medio": "Goal.com",
+   "relevante": false,
    "temas": []
   },
   {
@@ -44,55 +89,10 @@
   {
    "tema": "aumento jubilados",
    "busquedas": "100+",
-   "nota": "Jubilados, AUH y más: cuánto pagaría ANSES en diciembre con el aumento, aguinaldo y bono",
-   "nota_url": "https://www.a24.com/previsional/jubilados-auh-y-mas-cuanto-pagaria-anses-diciembre-el-aumento-aguinaldo-y-bono-n1614830",
-   "medio": "A24.com",
+   "nota": "Jubilados con moratoria: el Decreto 274/2024 firmado por Milei obliga a aplicar un nuevo aumento en diciembre",
+   "nota_url": "https://www.baenegocios.com/economia/jubilados-con-moratoria-el-decreto-274-2024-firmado-por-milei-obliga-a-aplicar-un-nuevo-aumento-en-diciembre/",
+   "medio": "BAE Negocios",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "karina mazzocco",
-   "busquedas": "500+",
-   "nota": "La China Ansa acusó a Karina Mazzocco de robarle en MasterChef Celebrity: “¡Me afanaste!”",
-   "nota_url": "https://tn.com.ar/show/television/2026/11/10/la-china-ansa-acuso-a-karina-mazzocco-de-robarle-en-masterchef-celebrity-y-tuvieron-un-fuerte-cruce-me-afanaste/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "natalia pastorutti",
-   "busquedas": "100+",
-   "nota": "Se conoció el regalo que Soledad Pastorutti le dio al papa León XIV después de cantar en la misa",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/10/el-regalo-que-soledad-pastorutti-le-entrego-al-papa-leon-xiv-despues-de-cantar-en-la-misa/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "monseñor aguer",
-   "busquedas": "1000+",
-   "nota": "Murió Héctor Aguer, el polémico exarzobispo de La Plata",
-   "nota_url": "https://www.clarin.com/sociedad/murio-hector-aguer-polemico-exarzobispo-plata_0_7wJjOQAcwT.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "stranger things",
-   "busquedas": "500+",
-   "nota": "Junto a nuevos misterios y enemigos: “Stranger Things” volverá con una serie precuela",
-   "nota_url": "https://infocronos.com.ar/nota/58779/junto-a-nuevos-misterios-y-enemigos-stranger-things-volvera-con-una-serie-precuela/",
-   "medio": "Cronos noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lujan",
-   "busquedas": "100+",
-   "nota": "Luján se vuelve peatonal para recibir a León XIV: esperan 3 millones de fieles y habrá un amplio operativo de seguridad",
-   "nota_url": "https://www.lavoz.com.ar/ciudadanos/lujan-vuelve-peatonal-recibir-leon-xiv-esperan-3-millones-fieles-amplio-operativo-seguridad_0_b8ruy4Apv5.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
    "temas": []
   }
  ],
