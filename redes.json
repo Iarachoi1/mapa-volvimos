@@ -1,31 +1,58 @@
 {
- "actualizado": "09/11 22:51",
+ "actualizado": "09/11 23:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "karina mazzocco",
+   "busquedas": "200+",
+   "nota": "Karina Mazzocco festejó los 20 años de su hijo Malek y sorprendió a todos al mostrar cómo creció: “Que te sobren motivos para ser feliz”",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/karina-mazzocco-festejo-los-20-anos-de-su-hijo-malek-y-sorprendio-a-todos-al-mostrar-como-crecio-que-te-sobren-motivos-para-ser-feliz/",
+   "medio": "Radio Mitre",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "gaston gaudio",
+   "busquedas": "200+",
+   "nota": "Gastón Gaudio habló de su candidatura en Independiente, recordó los sacrificios de su carrera y reveló cómo cambió su vida con la paternidad",
+   "nota_url": "https://tn.com.ar/deportes/tenis/2026/11/08/gaston-gaudio-mano-a-mano-con-leo-montero-hablo-de-su-candidatura-en-independiente-y-recordo-los-sacrificios-de-su-carrera/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "suns - spurs",
+   "busquedas": "500+",
+   "nota": "11/09/2026 Suns vs Spurs Game Preview",
+   "nota_url": "https://suns.com/news/11-09-2026-suns-vs-spurs-game-preview",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "mavericks - pacers",
    "busquedas": "100+",
-   "nota": "McConnell, Irving & Johnson's status for Pacers-Mavs: Injuries, Odds & How to Watch",
-   "nota_url": "https://www.si.com/nba/pacers/onsi/mcconnell-irving-johnson-s-status-for-pacers-mavs-injuries-odds-how-to-watch-01m718rajcn5",
-   "medio": "Sports Illustrated",
+   "nota": "Pacers Mavericks Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/pacers-mavericks-basketball/image_1b7287aa-773c-5c26-9fdc-39c379b4c256.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "florencia torrente",
-   "busquedas": "200+",
-   "nota": "Flor Torrente contó que le detectaron una enfermedad y reveló cómo cambió su vida: “Háganse chequeos”",
-   "nota_url": "https://www.clarin.com/fama/flor-torrente-conto-padece-enfermedad-sorprendio-revelacion-haganse-chequeos_0_PzeYUvMJFN.html",
-   "medio": "Clarin.com",
+   "busquedas": "500+",
+   "nota": "La preocupación de una famosa tras el problema de salud que sufre",
+   "nota_url": "https://www.diariohuarpe.com/nota/la-preocupacion-de-una-famosa-tras-el-problema-de-salud-que-sufre-20261198270",
+   "medio": "Diario Huarpe",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "rockets - nuggets",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Nikola Jokic (elbow) now probable Monday",
    "nota_url": "https://www.fantasypros.com/nba/news/618898/nikola-jokic-elbow-now-probable-monday.php",
    "medio": "FantasyPros",
@@ -61,37 +88,10 @@
   },
   {
    "tema": "rodrigo de paul",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Riquelme aceleró por un refuerzo y se lo quiere robar a Racing: «Solamente»",
    "nota_url": "https://elintransigente.com/2026/11/09/riquelme-acelero-refuerzo-quiere-robar-racing-solamente/",
    "medio": "El Intransigente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "junior",
-   "busquedas": "200+",
-   "nota": "Junior notches goal and assist as No. 9 St. Augustine marches past Christian Brothers",
-   "nota_url": "https://www.nj.com/highschoolsports/2026/11/junior-notches-goal-and-assist-as-no-9-st-augustine-marches-past-christian-brothers.html",
-   "medio": "NJ.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "guillermo simone camiones",
-   "busquedas": "1000+",
-   "nota": "Murió Guillermo Simone, el empresario que convirtió un pequeño negocio en un referente automotor en La Plata",
-   "nota_url": "https://www.0221.com.ar/la-plata/murio-guillermo-simone-el-empresario-que-convirtio-un-pequeno-negocio-un-referente-automotor-la-plata-n137158",
-   "medio": "0221",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marcelo gallardo",
-   "busquedas": "500+",
-   "nota": "La decisión de Marcelo Gallardo que puede favorecer a Boca en la final de la Sudamericana",
-   "nota_url": "https://lanumero12.com.ar/marcelo-gallardo-favorecer-boca-sudamericana/",
-   "medio": "La Número 12",
    "relevante": false,
    "temas": []
   }
