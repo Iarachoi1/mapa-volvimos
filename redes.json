@@ -1,25 +1,70 @@
 {
- "actualizado": "10/11 06:45",
+ "actualizado": "10/11 07:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "familia",
+   "busquedas": "20000+",
+   "nota": "León XIV: las razones del fervor",
+   "nota_url": "https://www.lanacion.com.ar/politica/leon-xiv-las-razones-del-fervor-nid10112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el once",
+   "busquedas": "100+",
+   "nota": "El Niño: la crecida del Paraná provocó evacuaciones en dos capitales del Litoral",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/09/el-nino-la-crecida-del-parana-provoco-evacuaciones-en-dos-capitales-del-litoral/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "radio sudamericana",
+   "busquedas": "100+",
+   "nota": "Cómo funcionarán los servicios municipales el lunes 9 y miércoles 11 de noviembre",
+   "nota_url": "https://www.sanisidro.gob.ar/novedades/c%C3%B3mo-funcionar%C3%A1n-los-servicios-municipales-el-lunes-9-y-mi%C3%A9rcoles-11-de-noviembre",
+   "medio": "| San Isidro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el dia",
+   "busquedas": "100+",
+   "nota": "Golpe comando en La Plata: tres delincuentes armados ataron a una familia de Tolosa y escaparon con una fortuna",
+   "nota_url": "https://www.laplata1.com/2026-11-04/golpe-comando-en-la-plata-tres-delincuentes-armados-ataron-a-una-familia-de-tolosa-y-escaparon-con-una-fortuna-126984/",
+   "medio": "La Plata 1",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "joaquín correa",
+   "busquedas": "100+",
+   "nota": "¿Quién será el reemplazante de Joaquín Correa en la Supercopa Argentina?",
+   "nota_url": "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201",
+   "medio": "0221",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "quini6",
    "busquedas": "500+",
-   "nota": "QUINI 6 de HOY: sorteo, controlar cartón y los resultados del domingo 8 de noviembre",
-   "nota_url": "https://www.tycsports.com/interes-general/quini-6-de-hoy-sorteo-controlar-carton-y-los-resultados-del-domingo-8-de-noviembre-id770839.html",
-   "medio": "TyC Sports",
+   "nota": "Con seis aciertos, un apostador de San Nicolás ganó más de $1.852 millones en el Quini 6, y en el Siempre Sale hubo 266 ganadores en todo el país",
+   "nota_url": "https://www.reconquistahoy.com/93252-con-seis-aciertos-un-apostador-de-san-nicolas-gano-mas-de-1852-millones-en-el-quini-6-y-en-el-siempre-sale-hubo-266-ganadores-en-todo-el-pais",
+   "medio": "ReconquistaHOY",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima san luis",
-   "busquedas": "100+",
-   "nota": "Se aproximan tormentas con varias horas de lluvias este martes 10 de noviembre: prevén precipitaciones y actividad eléctrica en San Luís",
-   "nota_url": "https://www.cronista.com/informacion-gral/se-aproximan-tormentas-con-varias-horas-de-lluvias-este-martes-10-de-noviembre-preven-precipitaciones-y-actividad-electrica-en-san-luis/",
-   "medio": "El Cronista",
+   "busquedas": "200+",
+   "nota": "Tiempo en San Luis: mañana fresca y paulatino ascenso de la temperatura para este sábado",
+   "nota_url": "https://www.radiopopularsanluis.com.ar/provincia/tiempo-en-san-luis-maniana-fresca-y-paulatino-ascenso-de-la-temperatura-para-este-sabado.htm",
+   "medio": "Radio Popular San Luis",
    "relevante": false,
    "temas": []
   },
@@ -35,64 +80,19 @@
   {
    "tema": "perro",
    "busquedas": "200+",
-   "nota": "En agosto, un hombre de 86 años desapareció en el océano Pacífico junto a su perro: 69 días después, los encon",
-   "nota_url": "https://as.com/actualidad/sociedad/en-agosto-un-hombre-de-86-anos-desaparecio-en-el-oceano-pacifico-junto-a-su-perro-69-dias-despues-los-encontraron-con-vida-a-740-kilometros-de-la-costa-f202611-n/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético boca juniors",
-   "busquedas": "500+",
-   "nota": "Copa Argentina. Leandro Paredes llevó tranquilidad en Boca: está bien y será titular ante Banfield",
-   "nota_url": "https://www.lavoz.com.ar/deportes/leandro-paredes-llevo-tranquilidad-boca-bien-titular-banfield_0_uHQuv3sSUX.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "misa",
-   "busquedas": "20000+",
-   "nota": "León XIV: las razones del fervor",
-   "nota_url": "https://www.lanacion.com.ar/politica/leon-xiv-las-razones-del-fervor-nid10112026/",
+   "nota": "Rescataron cachorros abandonados y descubrieron que un perro macho ocupó el lugar de la madre: “Rara vez vemos ese tipo de comportamiento protector”",
+   "nota_url": "https://www.lanacion.com.ar/lifestyle/mascotas/rescataron-cachorros-abandonados-y-descubrieron-que-un-perro-macho-ocupo-el-lugar-de-la-madre-rara-nid09112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sandra pettovello",
-   "busquedas": "500+",
-   "nota": "Jubilación anticipada: ¿quiénes pueden retirarse a los 50 y 52 años?",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1161458/sociedad/jubilacion-anticipada-quienes-pueden-retirarse-50-52-anos.html",
-   "medio": "La Gaceta",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "ramón díaz",
-   "busquedas": "200+",
-   "nota": "¿Vuelve Ramón Díaz o sorprende Bielsa? El panorama de la dirigencia de River para el futuro técnico del plantel",
-   "nota_url": "https://www.catamarcaya.com.ar/vuelve-ramon-diaz-o-sorprende-bielsa-el-panorama-de-la-dirigencia-de-river-para/",
-   "medio": "CatamarcaYa",
+   "tema": "cronicazo",
+   "busquedas": "100+",
+   "nota": "Martes de la Gitana, para tentar a la \"Diosa de la Suerte\" en la Quiniela",
+   "nota_url": "https://www.cronica.com.ar/numerosydestino/martes-de-la-gitana-para-tentar-a-la-diosa-de-la-suerte-en-la-quiniela/",
+   "medio": "Crónica",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "empresario",
-   "busquedas": "1000+",
-   "nota": "León XIV habló en la UCA de Enrique Shaw, empresario argentino y futuro beato",
-   "nota_url": "https://www.ambito.com/politica/leon-xiv-hablo-la-uca-enrique-shaw-empresario-argentino-y-futuro-beato-n6343330",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aguinaldo",
-   "busquedas": "1000+",
-   "nota": "El Gobierno tiene preparado un triple pago para jubilados con DNI entre 0 y 9",
-   "nota_url": "https://www.baenegocios.com/economia/el-gobierno-tiene-preparado-un-triple-pago-para-jubilados-con-dni-entre-0-y-9/",
-   "medio": "BAE Negocios",
-   "relevante": true,
    "temas": []
   }
  ],
