@@ -1,22 +1,58 @@
 {
- "actualizado": "10/11 23:37",
+ "actualizado": "11/11 00:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "vision quest",
+   "busquedas": "100+",
+   "nota": "Marvel's VisionQuest Series Finale Review: 'Forever'",
+   "nota_url": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
+   "medio": "IGN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "frente frío",
+   "busquedas": "1000+",
+   "nota": "Cambio de clima en Buenos Aires: llegan tormentas y la temperatura será de 13 grados",
+   "nota_url": "https://elargentinodiario.com.ar/zona-destacada/10/11/2026/cambio-de-clima-en-buenos-aires-llegan-tormentas-y-la-temperatura-sera-de-13-grados/",
+   "medio": "El Argentino Diario",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "suns - clippers",
+   "busquedas": "100+",
+   "nota": "Miami Heat vs Utah Jazz Live updates",
+   "nota_url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2168615",
+   "medio": "Powell River Peak",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "julieta nair calvo",
+   "busquedas": "1000+",
+   "nota": "El accidente culinario de Julieta Nair Calvo en MasterChef Celebrity",
+   "nota_url": "https://www.infobae.com/video/teleshow/el-accidente-culinario-de-julieta-nair-calvo-en-masterchef-celebrity/5YO3H9d4/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "humedad",
    "busquedas": "200+",
-   "nota": "Se aproximan tormentas este miércoles 11 de noviembre: habrá lluvias con actividad eléctrica en la provincia de Corrientes",
-   "nota_url": "https://www.cronista.com/informacion-gral/se-aproximan-tormentas-este-miercoles-11-de-noviembre-habra-lluvias-con-actividad-electrica-en-la-provincia-de-corrientes/",
-   "medio": "El Cronista",
+   "nota": "Hay alerta amarilla por tormentas para este miércoles 11 de noviembre en Corrientes: las zonas afectadas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/11/hay-alerta-amarilla-por-tormentas-para-este-miercoles-11-de-noviembre-en-corrientes-las-zonas-afectadas/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gol",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Alaska Airlines Adds Another Global Partner: GOL Airlines",
    "nota_url": "https://loyaltylobby.com/2026/11/10/alaska-airlines-adds-another-global-partner-gol-airlines/",
    "medio": "LoyaltyLobby",
@@ -24,17 +60,8 @@
    "temas": []
   },
   {
-   "tema": "jazz - heat",
-   "busquedas": "200+",
-   "nota": "Giannis Antetokounmpo (wrist) now questionable Tuesday",
-   "nota_url": "https://www.fantasypros.com/nba/news/619111/giannis-antetokounmpo-wrist-now-questionable-tuesday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "once caldas",
-   "busquedas": "200+",
+   "tema": "atlético nacional",
+   "busquedas": "500+",
    "nota": "¿Juega James Rodríguez? Once Caldas vs Atlético Nacional HOY: alineaciones del partido de la Copa Colombia",
    "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-once-caldas-vs-atletico-nacional-hoy-alineaciones-del-partido-de-la-copa-colombia",
    "medio": "Bolavip",
@@ -42,11 +69,20 @@
    "temas": []
   },
   {
+   "tema": "jazz - heat",
+   "busquedas": "200+",
+   "nota": "Jazz vs Heat LIVE, Score Updates and Play-by-Play in NBA (54-64)",
+   "nota_url": "https://www.vavel.com/en-us/nba/2026/11/10/1278779-jazz-vs-heat-live-score-updates-play-by-play-nba.html",
+   "medio": "VAVEL.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "santiago abascal",
    "busquedas": "200+",
-   "nota": "‘La Revuelta’ arrasa con Santiago Abascal: 4,8 millones de espectadores y supera el récord de Pedro Sánchez",
-   "nota_url": "https://www.infobae.com/espana/2026/11/10/la-revuelta-arrasa-con-santiago-abascal-48-millones-de-espectadores-y-supera-el-record-de-pedro-sanchez/",
-   "medio": "Infobae",
+   "nota": "Abascal en ‘La revuelta’ con Broncano: probablemente, la peor entrevista en la historia de nuestra televisión",
+   "nota_url": "https://elpais.com/television/2026-11-10/abascal-en-la-revuelta-con-broncano-probablemente-la-peor-entrevista-en-la-historia-de-nuestra-television.html",
+   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   },
@@ -56,42 +92,6 @@
    "nota": "Venta de entradas para la Supercopa Argentina",
    "nota_url": "https://www.copaargentina.org/es/supercopa/331_Venta-de-entradas-para-la-Supercopa-Argentina.html",
    "medio": "Copa Argentina / Web oficial de la Copa Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rocio robles",
-   "busquedas": "1000+",
-   "nota": "MasterChef Celebrity: Edith Hermida le preguntó a Rocío Robles por su primera noche con Adrián Suar",
-   "nota_url": "https://www.rionegro.com.ar/redes/masterchef-celebrity-edith-hermida-le-pregunto-a-rocio-robles-por-su-primera-noche-con-adrian-suar-4791832/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "betular",
-   "busquedas": "200+",
-   "nota": "La divertida reacción de Damián Betular tras un pequeño accidente de Mala Fama en MasterChef Celebrity",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/la-divertida-reaccion-de-damian-betular-tras-un-pequeno-accidente-de-mala-fama-en-masterchef-celebrity/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa colombia",
-   "busquedas": "200+",
-   "nota": "América dio el primer golpe a Inter Bogotá en la Copa BetPlay",
-   "nota_url": "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-inter-bogota-vs-america-minuto-a-minuto-y-goles-copa-betplay-477720",
-   "medio": "Win Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "felipe fort",
-   "busquedas": "100+",
-   "nota": "El noble gesto de Felipe Fort con los fieles que esperaban al papa León XIV en Palermo",
-   "nota_url": "https://la100.cienradios.com/espectaculos/el-noble-gesto-de-felipe-fort-con-los-fieles-que-esperaban-al-papa-leon-xiv-en-palermo/",
-   "medio": "La 100",
    "relevante": false,
    "temas": []
   }
