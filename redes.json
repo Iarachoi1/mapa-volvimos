@@ -1,13 +1,40 @@
 {
- "actualizado": "11/11 09:48",
+ "actualizado": "11/11 11:03",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "epstein",
+   "busquedas": "100+",
+   "nota": "Congress Exposes Jeffrey Epstein Prison Mystery With Eight Hours Without Checks, Missing CCTV and Mystery Figure",
+   "nota_url": "https://www.ibtimes.co.uk/epstein-death-inquiry-finds-prison-security-failures-1831554",
+   "medio": "International Business Times UK",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "canal 13 en vivo",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "leonardo bertulazzi",
+   "busquedas": "500+",
+   "nota": "Se fugó Leonardo Bertulazzi, exmiembro de las Brigadas Rojas italianas, mientras esperaba su extradición",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/se-fugo-leonardo-bertulazzi-exmiembro-de-las-brigadas-rojas-italianas-mientras-esperaba-su-nid10112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "c5n",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Amigo del papa León XIV y misionero en Apurímac: muere monseñor Domenico Berni tras 47 años de labor pastoral en Perú",
    "nota_url": "https://www.infobae.com/peru/2026/11/09/amigo-del-papa-leon-xiv-y-misionero-en-apurimac-muere-monsenor-domenico-berni-tras-47-anos-de-labor-pastoral-en-peru/",
    "medio": "Infobae",
@@ -16,82 +43,55 @@
   },
   {
    "tema": "a24",
-   "busquedas": "100+",
-   "nota": "¡Se pudrió todo! El video del tenso momento que vivió el Papa León XIV con un móvil televisivo",
-   "nota_url": "https://www.paparazzi.com.ar/teve/se-pudrio-todo-el-video-del-tenso-momento-que-vivio-el-papa-leon-xiv-con-un-movil-televisivo/",
-   "medio": "Revista Paparazzi",
+   "busquedas": "200+",
+   "nota": "DSports dice presente: \"El Juego\" y Marcelo Benedetto, nominados a los Martín Fierro de Cable 2026",
+   "nota_url": "https://www.directvsports.com/noticia/dsports-dice-presente-el-juego-y-marcelo-benedetto-nominados-a-los-martin-fierro-de-cable-2026-20261107-0035.html",
+   "medio": "DSports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "irán",
-   "busquedas": "200+",
-   "nota": "Irán amenaza a la Argentina: la escalada que despierta viejos miedos",
-   "nota_url": "https://noticias.perfil.com/noticias/internacionales/iran-amenaza-a-la-argentina-la-escalada-que-despierta-viejos-miedos.phtml",
-   "medio": "Revista Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el papa en vivo",
    "busquedas": "1000+",
-   "nota": "León XIV visitó la cárcel de Devoto y llamó a los presos a refugiarse en Dios: “Es momento de reiniciar sus vidas”",
-   "nota_url": "https://www.infobae.com/politica/2026/11/11/leon-xiv-visito-la-carcel-de-devoto-y-llamo-a-los-presos-a-refugiarse-en-dios-es-momento-de-reiniciar-sus-vidas/",
-   "medio": "Infobae",
-   "relevante": false,
+   "nota": "Amenaza de Irán: \"El Gobierno argentino asumirá la responsabilidad\" | El Dia",
+   "nota_url": "https://www.eldia.com/politica-y-economia/amenaza-de-iran-el-gobierno-argentino-asumira-la-responsabilidad-de-todas-las-consecuencias-derivadas-de-esta-accion-politica-y-economia_1794400230",
+   "medio": "Diario El Día de La Plata",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "la nacion mas en vivo",
    "busquedas": "2000+",
-   "nota": "León XIV llamó a no arrodillarse ante ídolos como el dinero o la popularidad y habló de una Iglesia abierta",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/leon-xiv-llamo-a-los-jovenes-a-no-arrodillarse-ante-idolos-como-el-dinero-o-la-popularidad-y-hablo-nid10112026/",
-   "medio": "La Nación",
+   "nota": "Selfies, partidos de truco, mate y caras pintadas: la alegría de los jóvenes que esperaron horas en Palermo para ver al papa",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/11/selfies-partidos-de-truco-mate-y-caras-pintadas-la-alegria-de-los-jovenes-que-esperaron-horas-en-palermo-para-ver-al-papa/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "stacy keach",
+   "busquedas": "1000+",
+   "nota": "Stacy Keach’s Film & TV Career In Photos",
+   "nota_url": "https://deadline.com/gallery/stacy-keach-photos-films-tv-shows/",
+   "medio": "Deadline",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "documento nacional de identidad",
    "busquedas": "500+",
-   "nota": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
-   "nota_url": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
-   "medio": "The New York Times",
+   "nota": "Aumentan el pasaporte y el DNI: con un nuevo cálculo, cuánto costarán desde ahora",
+   "nota_url": "https://www.cronista.com/economia-politica/aumentan-el-pasaporte-y-el-dni-con-un-nuevo-calculo-cuanto-costara-desde-ahora/",
+   "medio": "El Cronista",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "noticiasnet",
-   "busquedas": "100+",
-   "nota": "El clima antes del salto térmico: ¿qué se espera para este viernes?",
-   "nota_url": "https://www.noticiasnet.com.ar/noticias/2026/11/05/233103-el-clima-antes-del-salto-termico-que-se-espera-para-este-viernes",
-   "medio": "NoticiasNet",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "c5n en vivo",
-   "busquedas": "10000+",
-   "nota": "Visita papal. El predio de Fadea quedó grande: estaba preparado para una concurrencia mucho mayor",
-   "nota_url": "https://www.lavoz.com.ar/ciudadanos/predio-fadea-quedo-grande-preparado-concurrencia-mayor_0_cN2Ex8bnYP.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cadena 3",
-   "busquedas": "500+",
-   "nota": "“Alto anillito”: la historia detrás del niño que hizo reír al papa León XIV en Córdoba",
-   "nota_url": "https://www.cadena3.com/noticia/el-camino-de-leon-en-argentina-uruguay-y-peru/alto-anillito-la-historia-detras-del-nino-que-hizo-reir-al-papa-leon-xiv-en-cordoba_611794",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "contexto",
-   "busquedas": "200+",
-   "nota": "Pareceres II: el riesgo país tiene más elementos internos que externos",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1161561/opinion/pareceres-ii-riesgo-pais-tiene-mas-elementos-internos-externos.html",
-   "medio": "La Gaceta",
+   "tema": "11 de noviembre",
+   "busquedas": "1000+",
+   "nota": "Cuándo es el próximo finde largo después de los feriados por la visita del Papa",
+   "nota_url": "https://eldoce.tv/actualidad/2026/11/10/cuando-es-el-proximo-finde-largo-despues-de-los-feriados-por-la-visita-del-papa/",
+   "medio": "eldoce",
    "relevante": false,
    "temas": []
   }

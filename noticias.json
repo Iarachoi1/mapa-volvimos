@@ -1,8 +1,33 @@
 {
  "semana": "11 de noviembre de 2026",
  "fecha": "2026-11-11",
- "actualizado": "11/11 06:47",
+ "actualizado": "11/11 11:03",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "La Izquierda contra el papa León XIV: “Coincide con Milei\"",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "11/11/2026",
+     "url": "https://bardeo.news/politica/la-izquierda-contra-el-papa-leon-xiv---coincide-con-milei-_a6af4557f696ebfa450e7a66e"
+    },
+    {
+     "titulo": "El papa León XIV celebra una histórica misa en Luján",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "11/11/2026",
+     "url": "https://bardeo.news/sociedad/el-papa-leon-xiv-celebra-una-historica-misa-en-lujan_a6af44d14696ebfa450e704e8",
+     "tag": "También en Cenital - Off the record (Iván Schargrodsky), Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "¿Corralito guaraní?: qué pasó con Ueno Bank y en qué se parece al 2001",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "11/11/2026",
+     "url": "https://cenital.com/corralito-guarani-que-paso-con-ueno-bank-y-en-que-se-parece-al-2001/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    }
+   ],
+   "imagen": []
+  },
   "CABA": {
    "top3": [
     {
@@ -34,17 +59,24 @@
      "tag": "Política"
     },
     {
-     "titulo": "Nuevas y viejas internas: el Gobierno evitó politizar la visita del Papa, pero no pudo evitar las tensiones",
-     "medio": "Infobae",
+     "titulo": "VOLVER A 2027 Se va el papa, ¿queda la misma Argentina del mismo Milei? Por Marcelo Falak",
+     "medio": "Letra P",
      "fecha": "11/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/11/nuevas-y-viejas-internas-el-gobierno-evito-politizar-la-visita-del-papa-pero-no-pudo-evitar-las-tensiones/",
+     "url": "https://www.letrap.com.ar/politica/se-va-leon-xiv-queda-la-misma-argentina-del-mismo-javier-milei-n5428127",
      "tag": "Política"
     },
     {
-     "titulo": "El motivo por el que Milei no irá a la misa del papa León XIV en Luján",
+     "titulo": "Tensión y operaciones internas: batallas en el Gobierno mientras hospedan a León XIV",
+     "medio": "Infobae",
+     "fecha": "11/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/11/tension-y-operaciones-internas-batallas-en-el-gobierno-mientras-hospedan-a-leon-xiv/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Milei no va a Luján y se despide del papa León XIV en Ezeiza",
      "medio": "El Destape",
      "fecha": "11/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/motivo-milei-no-ira-misa-papa-leon-xiv-lujan-20261111602",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-11-noviembre-minuto-minuto-202611117856",
      "tag": "Política"
     },
     {
@@ -53,6 +85,91 @@
      "fecha": "11/11/2026",
      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
      "tag": "Política"
+    },
+    {
+     "titulo": "EL PAPA EN ARGENTINA León XIV en Devoto: una cárcel casi vacía, el legado de Bergoglio y un mensaje político a Milei Por Guillermo Villarreal",
+     "medio": "Letra P",
+     "fecha": "11/11/2026",
+     "url": "https://www.letrap.com.ar/politica/leon-xiv-devoto-una-carcel-casi-vacia-el-legado-jorge-bergoglio-y-un-mensaje-politico-javier-milei-n5428126",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Última misa del Pontífice Kicillof recibió al Papa en Luján y le mandó un mensaje a Milei: “Que haga lo que quiera, pero que escuche”",
+     "medio": "Perfil",
+     "fecha": "11/11/2026",
+     "url": "https://www.perfil.com/politica/kicillof-recibio-al-papa-en-lujan-y-le-mando-un-mensaje-a-milei-que-haga-lo-que-quiera-pero-que-escuche-aQuYs0t7pSqj",
+     "tag": "Política"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Salió la primera encuesta en medio de la visita del Papa León XIV a Argentina con un duro dato para Milei",
+     "medio": "El Destape",
+     "fecha": "11/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/salio-primera-encuesta-medio-visita-papa-leon-xiv-argentina-duro-dato-milei-202611119170"
+    }
+   ]
+  },
+  "Buenos Aires": {
+   "top3": [
+    {
+     "titulo": "Reelecciones: las presiones internas a Kicillof y el mensaje del MDF a la Legislatura NOTA DE TAPA",
+     "medio": "La Tecla",
+     "fecha": "11/11/2026",
+     "url": "https://www.latecla.info/171064-reelecciones-las-presiones-internas-a-kicillof-y-el-mensaje-del-mdf-a-la-legislatura"
+    },
+    {
+     "titulo": "León XIV en Luján: Kicillof, gobernadores, intendentes y dirigentes peronistas presentes en la histórica misa del Papa",
+     "medio": "Noticia 1",
+     "fecha": "11/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/leon-xiv-en-lujan-kicillof-gobernadores-intendentes-y-dirigentes-peronistas-presentes-en-la-historica-misa-del-papa"
+    },
+    {
+     "titulo": "Última misa del Pontífice Kicillof recibió al Papa en Luján y le mandó un mensaje a Milei: “Que haga lo que quiera, pero que escuche”",
+     "medio": "Perfil",
+     "fecha": "11/11/2026",
+     "url": "https://www.perfil.com/politica/kicillof-recibio-al-papa-en-lujan-y-le-mando-un-mensaje-a-milei-que-haga-lo-que-quiera-pero-que-escuche-aQuYs0t7pSqj"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Tras el pedido de desafuero María Argerich: \"La igualdad ante la ley empieza por quienes tenemos la responsabilidad de representarla\"",
+     "medio": "El Ancasti",
+     "fecha": "11/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/maria-argerich-la-igualdad-la-ley-empieza-quienes-tenemos-la-responsabilidad-representarla-n625857"
+    },
+    {
+     "titulo": "Economía La industria textil está en su peor nivel histórico: perdió 28.800 empleos y 1.090 empresas en la era Milei",
+     "medio": "El Ancasti",
+     "fecha": "11/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-industria-textil-esta-su-peor-nivel-historico-perdio-28800-empleos-y-1090-empresas-la-era-milei-n625861"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Koenig expuso el presupuesto 2027 en la Legislatura: $1,8 billones para 745 obras y regalías por la mitad de los recursos",
+     "medio": "ADN Sur",
+     "fecha": "11/11/2026",
+     "url": "https://www.adnsur.com.ar/economia/koenig-expuso-el-presupuesto-2027-en-la-legislatura---1-8-billones-para-745-obras-y-regalias-por-la-mitad-de-los-recursos_a6af447dd2ef0898cb807ea41"
+    },
+    {
+     "titulo": "Milei prorrogó hasta abril de 2027 la operación de Hidroeléctrica Futaleufú",
+     "medio": "Diario Jornada",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariojornada.com.ar/426878/politica/milei_prorrogo_hasta_abril_de_2027_la_operacion_de_hidroelectrica_futaleufu"
+    },
+    {
+     "titulo": "“Aún en el mal más profundo, es un momento para reiniciar sus vidas”",
+     "medio": "Diario Jornada",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariojornada.com.ar/426861/politica/aun_en_el_mal_mas_profundo_es_un_momento_para_reiniciar_sus_vidas",
+     "tag": "También en El Chubut"
     }
    ],
    "imagen": []
@@ -60,16 +177,34 @@
   "Córdoba": {
    "top3": [
     {
+     "titulo": "Milei designó a un nuevo funcionario en la Embajada argentina en la India",
+     "medio": "Hoy Dia",
+     "fecha": "11/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/milei-designo-a-un-nuevo-funcionario-en-la-embajada-argentina-en-la-india/"
+    },
+    {
      "titulo": "Una referente social de Córdoba le entregó una carta a León XIV por el desfinanciamiento de los barrios populares",
      "medio": "Infobae",
      "fecha": "11/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/11/una-referente-social-de-cordoba-le-entrego-una-carta-a-leon-xiv-por-el-desfinanciamiento-de-los-barrios-populares/"
     },
     {
-     "titulo": "Visita a la Argentina El Papa recibió a una hija de desaparecidos en Córdoba y se verá con Estela de Carlotto en Luján Barbara Komarovsky",
-     "medio": "Perfil",
+     "titulo": "León XIV se despide de la Argentina con una visita a la cárcel de Devoto y una misa en Luján",
+     "medio": "CBA24N",
      "fecha": "11/11/2026",
-     "url": "https://www.perfil.com/politica/el-papa-recibio-a-una-hija-de-desaparecidos-en-cordoba-y-se-vera-con-estela-de-carlotto-en-lujan-anAIV5K4qXbD"
+     "url": "https://www.cba24n.com.ar/argentina/leon-xiv-se-despide-de-la-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-lujan_a6af442b1d0b2d140a577e581",
+     "tag": "También en Cadena3, Hoy Dia"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Referentes del justicialismo llegan a Corrientes para una charla sobre Cristina Kirchner",
+     "medio": "El Litoral",
+     "fecha": "11/11/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-11-7-51-0-referentes-del-justicialismo-llegan-a-corrientes-para-una-charla-sobre-cristina-kirchner"
     }
    ],
    "imagen": []
@@ -83,6 +218,12 @@
      "url": "https://www.elonce.com/politica/paritaria-el-gobierno-se-reune-este-miercoles-con-upcn-y-ate.htm"
     },
     {
+     "titulo": "Proponen limitar las reelecciones consecutivas de diputados y senadores nacionales",
+     "medio": "AFP Digital",
+     "fecha": "11/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/11/478607-proponen-limitar-las-reelecciones-consecutivas-de-diputados-y-senadores-nacionales"
+    },
+    {
      "titulo": "El Gobierno creó una comisión para reformar el Código Civil sobre los animales",
      "medio": "El Once",
      "fecha": "11/11/2026",
@@ -91,19 +232,38 @@
    ],
    "imagen": []
   },
+  "Formosa": {
+   "top3": [
+    {
+     "titulo": "ATE y CTA Autónoma impulsan un juicio político contra el presidente Milei y la Corte Suprema",
+     "medio": "La Mañana",
+     "fecha": "11/11/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108586/ate-y-cta-autnoma-impulsan-un-juicio-poltico-contra-el-presidente-milei-y-la-corte-suprema/"
+    }
+   ],
+   "imagen": []
+  },
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Armella pide una inmediata normalización del PJ Jujuy",
+     "titulo": "El Papa en la cárcel de Devoto: cómo la Iglesia eligió a los presos que participan del encuentro",
      "medio": "El Tribuno",
      "fecha": "11/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-armella-pide-una-inmediata-normalizacion-del-pj-jujuy"
+     "url": "https://eltribunodejujuy.com/nacionales/2026-11-11-8-15-0-el-papa-en-la-carcel-de-devoto-como-la-iglesia-eligio-a-los-presos-que-participan-del-encuentro",
+     "tag": "También en Somos Jujuy, Todo Jujuy"
     },
     {
-     "titulo": "El Ivuj proyecta construir más de mil viviendas en 2027",
-     "medio": "El Tribuno",
+     "titulo": "Más servicios cerca de los jujeños: el Registro Civil despliega cuatro operativos en San Salvador",
+     "medio": "Jujuy al día",
      "fecha": "11/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-el-ivuj-proyecta-construir-mas-de-mil-viviendas-en-2027"
+     "url": "https://www.jujuyaldia.com.ar/2026/11/11/mas-servicios-cerca-de-los-jujenos-el-registro-civil-despliega-cuatro-operativos-en-san-salvador/",
+     "tag": "También en Somos Jujuy"
+    },
+    {
+     "titulo": "Justicia Penal Juvenil: el Consejo Provincial de Mujeres acompañó el encuentro en el Colegio de Abogados",
+     "medio": "Prensa oficial de Jujuy",
+     "fecha": "11/11/2026",
+     "url": "https://prensa.jujuy.gob.ar/justicia-penal-juvenil/justicia-penal-juvenil-el-consejo-provincial-mujeres-acompano-el-encuentro-el-colegio-abogados-n125923"
     }
    ],
    "imagen": []
@@ -115,6 +275,19 @@
      "medio": "La Arena",
      "fecha": "11/11/2026",
      "url": "https://www.laarena.com.ar/la-pampa/presupuesto-2027-mantiene-el-25-para-educacion-20261111060"
+    },
+    {
+     "titulo": "“Construir una nueva cárcel sería la solución”, dijo el ministro Di Nápoli en Diputados",
+     "medio": "La Pampa 24",
+     "fecha": "11/11/2026",
+     "url": "https://lapampa24.com.ar/la-pampa-hoy/construir-una-nueva-carcel-seria-la-solucion-dijo-el-ministro-di-napoli-en-diputados/"
+    },
+    {
+     "titulo": "León XIV en el Penal de Devoto: \"Aún en el mal más profundo, es un momento para reiniciar sus vidas\"",
+     "medio": "El Diario de La Pampa",
+     "fecha": "11/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/82927/el-papa-leon-xiv-cierra-su-gira-en-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-la-basilica-de-lujan",
+     "tag": "También en La Arena, La Pampa 24"
     }
    ],
    "imagen": [
@@ -126,27 +299,128 @@
     }
    ]
   },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "2027 ELECTORAL. SECTORES DEL MEDIO QUE BUSCARÁN ROMPER LA POLARIZACIÓN",
+     "medio": "Rioja Virtual",
+     "fecha": "11/11/2026",
+     "url": "https://riojavirtual.com.ar/2027-los-sectores-del-medio-que-buscaran-romper-la-polarizacion/"
+    },
+    {
+     "titulo": "Quintela cuestionó la carpa VIP durante la misa del Papa: “Para los amigos hay catering”",
+     "medio": "Nueva Rioja",
+     "fecha": "11/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/quintela-cuestiono-la-carpa-vip-durante-la-misa-del-papa-para-los-amigos-hay-catering.htm"
+    },
+    {
+     "titulo": "COSQUÍN 2027. SERGIO GALLEGUILLO DISPARÓ DURO CONTRA LA ORGANIZACIÓN",
+     "medio": "Rioja Virtual",
+     "fecha": "11/11/2026",
+     "url": "https://riojavirtual.com.ar/cosquin-2027-sergio-galleguillo-disparo-duro-contra-la-organizacion/"
+    }
+   ],
+   "imagen": []
+  },
+  "Mendoza": {
+   "top3": [
+    {
+     "titulo": "Dos millones de personas asisten a la última misa del papa León XIV en el país",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/dos-millones-personas-asisten-la-ultima-misa-del-papa-leon-xiv-el-pais-n1613956",
+     "tag": "También en Mendoza Post"
+    },
+    {
+     "titulo": "Copa Argentina: Entradas para personas con discapacidad para el partido entre Boca y Banfield",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "11/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/copa-argentina-entradas-para-personas-con-discapacidad-para-el-partido-entre-boca-y-banfield/"
+    },
+    {
+     "titulo": "Irán declaró terroristas a la Armada y Fuerza Aérea argentinas en respuesta a Milei",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/iran-declaro-terroristas-la-armada-y-fuerza-aerea-argentinas-respuesta-milei-n1615342"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "La Fiesta Nacional de la Vendimia 2027 busca su imagen",
+     "medio": "Mendoza Post",
+     "fecha": "11/11/2026",
+     "url": "https://www.mendozapost.com/sociedad/fiesta-vendimia-2027-busca-su-imagen-cuanto-pagaran-ganador/"
+    }
+   ]
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "El Gobierno de Misiones financió más del 55% de su presupuesto con recursos propios durante 2025: todos los detalles",
+     "medio": "El Destape",
+     "fecha": "11/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/gobierno-misiones-financio-55-presupuesto-recursos-propios-2025-todos-detalles-20261111902"
+    },
+    {
+     "titulo": "Proyecto busca fortalecer la producción local con una red de restaurantes",
+     "medio": "La Voz - Misiones",
+     "fecha": "11/11/2026",
+     "url": "https://lavozdemisiones.com/politica/proyecto-busca-fortalecer-la-produccion-local-con-una-red-de-restaurantes"
+    },
+    {
+     "titulo": "Elecciones: se cumplen 75 años de la primera vez para las argentinas",
+     "medio": "Primera Edición",
+     "fecha": "11/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101159296/aniversario-voto-femenino-argentina/"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Presupuesto 2027 Infraestructura presentó 555 nuevas obras y 190 intervenciones de continuidad en toda la provincia",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "11/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/11/267089-infraestructura-presento-555-nuevas-obras-y-190-intervenciones-de-continuidad-en-toda-la-provincia",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Política nacional La ONU postergó hasta 2027 el tratamiento del reclamo de Cristina Kirchner por su inhabilitación electoral",
+     "medio": "Noticias NQN",
+     "fecha": "11/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/11/360272-la-onu-postergo-hasta-2027-el-tratamiento-del-reclamo-de-cristina-kirchner-por-su-inhabilitacion-electoral"
+    },
+    {
+     "titulo": "Financiamiento del sistema sanitario Figueroa impulsa una política de salud con eje en la prevención y la atención territorial",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "11/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/11/267095-figueroa-impulsa-una-politica-de-salud-con-eje-en-la-prevencion-y-la-atencion-territorial",
+     "tag": "También en Neuquén al Instante"
+    }
+   ],
+   "imagen": []
+  },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "La Legislatura de Río Negro ya tiene fecha para tratar el presupuesto del 2027, articulado con una inflación del 18%",
+     "titulo": "La ONU pospuso el pedido de revisión de la condena de Cristina Kirchner: se tratará en el 2027",
      "medio": "Diario Rio Negro",
      "fecha": "11/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/el-26-la-legislatura-tratara-el-presupuesto-de-rio-negro-del-2027-y-marcado-con-una-inflacion-del-18/"
+     "url": "https://www.rionegro.com.ar/politica/la-onu-pospuso-el-pedido-de-revision-de-la-condena-de-cristina-kirchner-se-tratara-en-el-2027-4793729/"
     },
     {
-     "titulo": "Jubilaciones y asignaciones de Anses: quiénes cobran el miércoles 11",
-     "medio": "AN Roca",
+     "titulo": "Javier Milei designó a Miguel Donatelli en la Embajada argentina en India: quién es y a quién reemplazará",
+     "medio": "Diario Rio Negro",
      "fecha": "11/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/11/231968-jubilaciones-y-asignaciones-de-anses-quienes-cobran-el-miercoles-11",
-     "tag": "También en Noticias Net"
+     "url": "https://www.rionegro.com.ar/politica/javier-milei-designo-a-miguel-donatelli-en-la-embajada-argentina-en-india-quien-es-y-a-quien-reemplazara-4793699/"
     },
     {
-     "titulo": "Cuáles fueron los éxitos más populares de Los Palmeras con el acordeón de Marcos Camino",
-     "medio": "AN Roca",
+     "titulo": "La construcción del nuevo Hospital para Cordero y Barda del Medio alcanza el 30% de obras",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "11/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/11/231977-cuales-fueron-los-exitos-mas-populares-de-los-palmeras-con-el-acordeon-de-marcos-camino",
-     "tag": "También en Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62777/la-construccion-del-nuevo-hospital-para-cordero-y-barda-del-medio-alcanza-el-30-de-obras",
+     "tag": "También en AN Roca, Noticias Net"
     }
    ],
    "imagen": []
@@ -154,16 +428,124 @@
   "Salta": {
    "top3": [
     {
+     "titulo": "Cocorita en Salta, muda en el Congreso | Orozco, la senadora nacional que casi no habla",
+     "medio": "Cuarto",
+     "fecha": "11/11/2026",
+     "url": "https://www.cuarto.com.ar/cocorita-en-salta-muda-en-el-congreso-orozco-la-senadora-nacional-que-casi-no-habla/"
+    },
+    {
      "titulo": "El Comité de la ONU postergó para 2027 el reclamo de Cristina",
      "medio": "El Tribuno",
      "fecha": "11/11/2026",
      "url": "https://www.eltribuno.com/nacionales/2026-11-11-1-16-0-el-comite-de-la-onu-postergo-para-2027-el-reclamo-de-cristina"
     },
     {
-     "titulo": "Centros de Familia: inscripciones para acceder a actividades recreativas, educativas y deportivas",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "La fe de los salteños | El Señor del Milagro estuvo junto al Papa",
+     "medio": "Cuarto",
      "fecha": "11/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/centros-de-familia-inscripciones-para-acceder-a-actividades-recreativas-educativas-y-deportivas-111038"
+     "url": "https://www.cuarto.com.ar/fe-de-los-saltenos-el-senor-del-milagro-estuvo-junto-al-papa/",
+     "tag": "También en Que Pasa Salta"
+    }
+   ],
+   "imagen": []
+  },
+  "San Juan": {
+   "top3": [
+    {
+     "titulo": "Reforma electoral en San Juan: el oficialismo no tiene apuro y puede esperar hasta 2027 para definir los cambios Por Redacción Diario de Cuyo",
+     "medio": "Diario de Cuyo",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/reforma-electoral-san-juan-el-oficialismo-no-tiene-apuro-y-puede-esperar-2027-definir-los-cambios-n6588192"
+    },
+    {
+     "titulo": "Milei vuelve a hacer gestos de acercamiento con Macri y buscan retomar un entendimiento electoral",
+     "medio": "Tiempo de San Juan",
+     "fecha": "11/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/milei-vuelve-a-hacer-gestos-de-acercamiento-con-macri-y-buscan-retomar-un-entendimiento-electoral_1794392428"
+    },
+    {
+     "titulo": "UTA vuelve a encender la alarma en San Juan por una deuda salarial de los empresarios y no descarta nuevas medidas de fuerza",
+     "medio": "0264 Noticias",
+     "fecha": "11/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/11/116846-uta-vuelve-a-encender-la-alarma-en-san-juan-por-una-deuda-salarial-de-los-empresarios-y-no-descarta-nuevas-medidas-de-fuerza"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "09:14 La ONU postergó el análisis del reclamo de Cristina Kirchner para ser candidata en 2027",
+     "medio": "Diario de Cuyo",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/la-onu-postergo-el-analisis-del-reclamo-cristina-kirchner-ser-candidata-2027-n6588213",
+     "tag": "También en Tiempo de San Juan"
+    },
+    {
+     "titulo": "Lanzan concurso con premio de $7 millones para diseñar la imagen oficial de la Vendimia 2027",
+     "medio": "Tiempo de San Juan",
+     "fecha": "11/11/2026",
+     "url": "https://www.tiempodesanjuan.com/mendoza/lanzan-concurso-con-premio-de-7-millones-para-disenar-la-imagen-oficial-de-la-vendimia-2027_1794398130"
+    }
+   ]
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "El Gobierno realizó tareas sanitarias en establecimientos rurales de tres departamentos",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "11/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/11/1230576-el-gobierno-realizo-tareas-sanitarias-en-establecimientos-rurales-de-tres-departamentos/"
+    },
+    {
+     "titulo": "Entre este miércoles y el jueves, San Luis iniciará la construcción de 750 viviendas",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "11/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/11/1230585-entre-este-miercoles-y-el-jueves-san-luis-iniciara-la-construccion-de-750-viviendas/"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Santa Cruz define cómo votará en 2027: las cinco reglas que pueden cambiar mañana",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "11/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-define-como-votara-en-2027-las-cinco-reglas-que-pueden-cambiar-manana-8385/"
+    },
+    {
+     "titulo": "Inscripciones escolares 2027 en Santa Cruz: qué pasa si no conseguís lugar en la escuela que elegiste",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "11/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/inscripciones-escolares-2027-en-santa-cruz-que-pasa-si-no-conseguis-lugar-en-la-escuela-que-elegiste/"
+    },
+    {
+     "titulo": "ATE Sandra Sutherland: “El ministro Verbes tendría que sentarse y dar la cara”",
+     "medio": "Tiempo Sur",
+     "fecha": "11/11/2026",
+     "url": "https://www.tiemposur.com.ar/info-general/sandra-sutherland-el-ministro-verbes-tendria-que-sentarse-y-dar-la-cara"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Fe": {
+   "top3": [
+    {
+     "titulo": "El gobierno de Santa Fe le contesta al perottismo por el déficit:",
+     "medio": "La Capital",
+     "fecha": "11/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/el-gobierno-santa-fe-le-contesta-al-perottismo-el-deficit-es-porque-hacemos-obras-n10291579.html"
+    },
+    {
+     "titulo": "Uno Santa Fe | El Papa León XIV durante su visita a la cárcel de Devoto: El ser humano florece a través del límite",
+     "medio": "UNO - SF",
+     "fecha": "11/11/2026",
+     "url": "https://www.unosantafe.com.ar/el-pais/el-papa-leon-xiv-su-visita-la-carcel-devoto-el-ser-humano-florece-traves-del-limite-n10291571.html",
+     "tag": "También en La Capital, Rosario3"
+    },
+    {
+     "titulo": "La ministra Susana Rueda recordó a Marcos Camino: “Fue el motor que impulsó la cumbia santafesina”",
+     "medio": "Rosario3",
+     "fecha": "11/11/2026",
+     "url": "https://www.rosario3.com/ocio/la-ministra-susana-rueda-recordo-a-marcos-camino-fue-el-motor-que-impulso-la-cumbia-santafesina-20261111-0019.html"
     }
    ],
    "imagen": []
@@ -171,49 +553,66 @@
   "Santiago del Estero": {
    "top3": [
     {
+     "titulo": "Irán declaró “terroristas” a la Armada y la Fuerza Aérea de Argentina",
+     "medio": "Diario Panorama",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572623/iran-declaro-terroristas-armada-fuerza-aerea-argentina",
+     "tag": "También en El Liberal, Info del Estero y 1 más"
+    },
+    {
+     "titulo": "El calor no da tregua en Santiago del Estero: así estará el tiempo este miércoles",
+     "medio": "Diario Panorama",
+     "fecha": "11/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572602/tiempo-santiago-estero-para-este-miercoles-11-noviembre-cielo-parcialmente-nublado-maxima-37-c",
+     "tag": "También en Info del Estero"
+    },
+    {
      "titulo": "El Gobierno provincial abonará hoy la segunda cuota del bono",
      "medio": "El Liberal",
      "fecha": "11/11/2026",
      "url": "https://www.elliberal.com.ar/nota/97647/2026/11/el-gobierno-provincial-abonara-hoy-la-segunda-cuota-del-bono-",
      "tag": "También en Nuevo Diario Web"
-    },
-    {
-     "titulo": "Boqueteros robaron más de $65 millones de una estación de servicio en Loreto",
-     "medio": "Diario Panorama",
-     "fecha": "11/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572608/boqueteros-robaron-mas-65-millones-estacion-servicio-loreto",
-     "tag": "También en El Liberal"
-    },
-    {
-     "titulo": "El papa León XIV recibió a líderes religiosos en Argentina y participó el élder Soares",
-     "medio": "El Liberal",
-     "fecha": "11/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97633/2026/11/el-papa-leon-xiv-recibio-a-lideres-religiosos-en-argentina-y-participo-el-elder-soares",
-     "tag": "También en Info del Estero"
     }
    ],
    "imagen": [
     {
-     "titulo": "País Efecto Milei: la Consultora Agropecuaria Surco… Efecto Milei: la Consultora Agropecuaria Surco Nuevo arrastra una deuda millonaria y más de 50 cheques rechazados Seguir leyendo →",
+     "titulo": "País Efecto Milei: la Consultora Agropecuaria Surco Nuevo arrastra una deuda millonaria y más de 50 cheques rechazados Hace 10 horas",
      "medio": "Info del Estero",
      "fecha": "11/11/2026",
      "url": "https://infodelestero.com/2026/11/11/efecto-milei-la-consultora-agropecuaria-surco-nuevo-arrastra-una-deuda-millonaria-y-mas-de-50"
     }
    ]
   },
+  "Tierra del Fuego": {
+   "top3": [
+    {
+     "titulo": "CUENTA REGRESIVA Melella suma obstáculos en Tierra del Fuego: el portazo de Sciurano a FORJA altera el tablero rumbo a 2027 Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "11/11/2026",
+     "url": "https://www.letrap.com.ar/politica/melella-suma-obstaculos-tierra-del-fuego-el-portazo-sciurano-forja-altera-el-tablero-rumbo-2027-n5428113"
+    }
+   ],
+   "imagen": []
+  },
   "Tucumán": {
    "top3": [
     {
-     "titulo": "La oposición toma el mensaje del papa León XIV para reclamar más fondos para discapacidad y universidades",
-     "medio": "Los Primeros",
+     "titulo": "El Consejo Superior acordó la designación de Pagani como director de YMAD",
+     "medio": "LV12",
      "fecha": "11/11/2026",
-     "url": "https://www.losprimeros.tv/politica/la-oposicion-toma-el-mensaje-del-papa-leon-xiv-para-reclamar-mas-fondos-para-discapacidad-y-universidades_a6af427b2696ebfa450e5d8d6"
+     "url": "https://www.lv12.com.ar/sergio-pagani/el-consejo-superior-acordo-la-designacion-pagani-como-director-ymad-n206463"
     },
     {
-     "titulo": "Los mensajes de León XIV y la interpretación dentro del gobierno: “ Era lo esperado\"",
-     "medio": "Los Primeros",
+     "titulo": "Giro judicial en la AMT: la Justicia consideró que los socios adherentes pueden votar y levantó la suspensión de las elecciones",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "11/11/2026",
-     "url": "https://www.losprimeros.tv/politica/los-mensajes-de-leon-xiv-y-la-interpretacion-dentro-del-gobierno----era-lo-esperado-_a6af43537696ebfa450e60c5e"
+     "url": "https://www.lagaceta.com.ar/nota/1162063/politica/giro-judicial-amt-justicia-considero-socios-adherentes-pueden-votar-levanto-suspension-elecciones.html"
+    },
+    {
+     "titulo": "Médicos oftalmólogos harán fondos de ojos gratis en Tucumán",
+     "medio": "LV12",
+     "fecha": "11/11/2026",
+     "url": "https://www.lv12.com.ar/medicos/medicos-oftalmologos-haran-fondos-ojos-gratis-tucuman-n206472"
     }
    ],
    "imagen": []
