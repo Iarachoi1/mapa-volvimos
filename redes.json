@@ -1,25 +1,61 @@
 {
- "actualizado": "11/11 12:37",
+ "actualizado": "11/11 13:49",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "reino unido",
+   "busquedas": "200+",
+   "nota": "Evacuación masiva de estudiantes en Italia tras una amenaza de bomba a 6.000 colegios e institutos",
+   "nota_url": "https://www.elcorreo.com/internacional/europa/evacuadas-300-escuelas-italia-ante-amenaza-bomba-20261111125524-ntrc.html",
+   "medio": "El Correo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chiclayo",
+   "busquedas": "500+",
+   "nota": "\"Sin su paso por Perú León XIV nunca hubiera llegado a ser Papa\": Santiago Roncagliolo",
+   "nota_url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "peru",
+   "busquedas": "200+",
+   "nota": "León XIV continúa su gira en Perú: agenda oficial, fechas y ciudades que recorrerá del 11 al 16 de noviembre",
+   "nota_url": "https://www.ambito.com/mundo/leon-xiv-continua-su-gira-peru-agenda-oficial-fechas-y-ciudades-que-recorrera-del-11-al-16-noviembre-n6343986",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inpres san juan",
+   "busquedas": "200+",
+   "nota": "Un fuerte sismo de magnitud 4,8 tuvo epicentro cerca de Calingasta",
+   "nota_url": "https://www.diariodecuyo.com.ar/san-juan/un-fuerte-sismo-magnitud-48-tuvo-epicentro-cerca-calingasta-n6588244",
+   "medio": "Diario de Cuyo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "taylor fritz",
-   "busquedas": "100+",
-   "nota": "Coco Gauff Headlines Florida Flamingos: World Team Tennis Schedule And How To Watch",
-   "nota_url": "https://sports.yahoo.com/articles/coco-gauff-headlines-florida-flamingos-152403415.html",
-   "medio": "Yahoo Sports",
+   "busquedas": "500+",
+   "nota": "World Team Tennis names Coinbase as presenting ...",
+   "nota_url": "https://pluang.com/en/news-feed/world-team-tennis-tunjuk-coinbase-sebagai-mitra-utama",
+   "medio": "Pluang",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dólar",
-   "busquedas": "5000+",
-   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este miércoles 11 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/11/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-11-de-noviembre/",
-   "medio": "TN",
+   "busquedas": "1000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 11 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-11-noviembre-n6343795",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
@@ -34,10 +70,10 @@
   },
   {
    "tema": "11 de noviembre que se celebra",
-   "busquedas": "100+",
-   "nota": "Singles Day en China: la IA revoluciona las compras del Dia del Soltero y aventura cómo será el futuro del e-commerce",
-   "nota_url": "https://www.perfil.com/economia/singles-day-en-china-la-ia-revoluciona-las-compras-del-dia-del-soltero-y-aventura-como-sera-el-futuro-del-e-commerce-aLlBl4O5yWcM",
-   "medio": "Perfil",
+   "busquedas": "200+",
+   "nota": "Veterans Day 2026: por qué se celebra este 11 de noviembre en EEUU, qué negocios cierran y qué pasa con los bancos",
+   "nota_url": "https://www.ambito.com/mexico/informacion-general/veterans-day-2026-que-se-celebra-este-11-noviembre-eeuu-que-negocios-cierran-y-que-pasa-los-bancos-n6343997",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
@@ -52,46 +88,10 @@
   },
   {
    "tema": "carlos babington",
-   "busquedas": "2000+",
+   "busquedas": "5000+",
    "nota": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección del Mundial 74",
    "nota_url": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "¡ahora caigo!",
-   "busquedas": "500+",
-   "nota": "Ganó $9.200.000 y descolocó a Darío Barassi con una inesperada reacción en Ahora Caigo: “Nos queremos matar”",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/gano-9200000-y-descoloco-a-dario-barassi-con-una-inesperada-reaccion-en-ahora-caigo-nos-queremos-matar/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lautaro martínez",
-   "busquedas": "200+",
-   "nota": "Lautaro Martínez presenta el nuevo diseño de su firma personal",
-   "nota_url": "https://www.infobae.com/video/lautaro-martinez-presenta-el-nuevo-diseno-de-su-firma-personal/m6iAQEEe/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "epstein",
-   "busquedas": "100+",
-   "nota": "New Epstein report reveals fresh leads; will charges follow? | Jesse Weber Live",
-   "nota_url": "https://www.newsnationnow.com/latest-video/new-epstein-report-reveals-fresh-leads-will-charges-follow-jesse-weber-live-ntcjmxdyr7y/",
-   "medio": "NewsNation",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canal 13 en vivo",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
    "relevante": false,
    "temas": []
   }
