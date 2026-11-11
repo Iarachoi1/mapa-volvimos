@@ -1,13 +1,22 @@
 {
- "actualizado": "11/11 03:51",
+ "actualizado": "11/11 05:08",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "pensión",
+   "busquedas": "200+",
+   "nota": "Calendario de pago de Anses: quiénes cobran el 11, 12 y 13 de noviembre",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1161933/sociedad/calendario-pago-anses-quienes-cobran-11-12-13-noviembre.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "eduardo rafael teddy garcía mansilla",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Murió Rafael “Teddy” García Mansilla, un importante empresario de medios y la aviación",
    "nota_url": "https://www.canal26.com/economia/2026/11/11/murio-rafael-teddy-garcia-mansilla-un-importante-empresario-de-medios-y-la-aviacion/",
    "medio": "Canal26",
@@ -16,19 +25,19 @@
   },
   {
    "tema": "trail blazers - thunder",
-   "busquedas": "200+",
-   "nota": "NBA Player Props for Wendell Carter, Shai Gilgeous-Alexander (Tuesday, Nov. 10)",
-   "nota_url": "https://www.actionnetwork.com/nba/nba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10",
-   "medio": "Action Network",
+   "busquedas": "500+",
+   "nota": "Game Recap: Trail Blazers 123, Thunder 103",
+   "nota_url": "https://www.nba.com/watch/video/game-recap-trail-blazers-123-thunder-103",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - magic",
    "busquedas": "200+",
-   "nota": "Franz Wagner News: Nets 33 points with full line",
-   "nota_url": "https://www.rotowire.com/basketball/headlines/franz-wagner-news-nets-33-points-with-full-line-538538",
-   "medio": "RotoWire",
+   "nota": "Franz Wagner drops 33 points Tuesday",
+   "nota_url": "https://www.fantasypros.com/nba/news/619190/franz-wagner-drops-33-points-tuesday.php",
+   "medio": "FantasyPros",
    "relevante": false,
    "temas": []
   },
@@ -44,9 +53,9 @@
   {
    "tema": "vision quest",
    "busquedas": "500+",
-   "nota": "Terry Matalas and the Stars of ‘VisionQuest’ Break Down its Full-Circle Ending",
-   "nota_url": "https://thenerdsofcolor.org/2026/11/10/terry-matalas-and-the-stars-of-visionquest-break-down-the-full-circle-ending/",
-   "medio": "The Nerds of Color",
+   "nota": "VisionQuest Episode 8 Finale Review: Worthwhile Revival Television",
+   "nota_url": "https://www.denofgeek.com/tv/visionquest-episode-8-finale-review/",
+   "medio": "Den of Geek",
    "relevante": false,
    "temas": []
   },
@@ -80,18 +89,9 @@
   {
    "tema": "julieta nair calvo",
    "busquedas": "1000+",
-   "nota": "Quién fue eliminado de MasterChef Celebrity este martes 10 de noviembre",
-   "nota_url": "https://tn.com.ar/show/television/2026/11/10/quien-fue-eliminado-de-masterchef-celebrity-este-martes-10-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "humedad",
-   "busquedas": "200+",
-   "nota": "Hay alerta amarilla por tormentas para este miércoles 11 de noviembre en Santa Fe: las zonas afectadas",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/11/hay-alerta-amarilla-por-tormentas-para-este-miercoles-11-de-noviembre-en-santa-fe-las-zonas-afectadas/",
-   "medio": "TN",
+   "nota": "Julieta Nair Calvo quedó eliminada de MasterChef Celebrity",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/11/julieta-nair-calvo-quedo-eliminada-de-masterchef-celebrity/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   }
