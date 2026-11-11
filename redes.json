@@ -1,10 +1,46 @@
 {
- "actualizado": "11/11 06:47",
+ "actualizado": "11/11 07:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "horóscopo",
+   "busquedas": "100+",
+   "nota": "Horóscopo de hoy miércoles 11 de noviembre: qué dicen los astros para cada uno de los signos",
+   "nota_url": "https://www.rionegro.com.ar/horoscopo/horoscopo-de-hoy-miercoles-11-de-noviembre-que-dicen-los-astros-para-cada-uno-de-los-signos/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "victoria xipolitakis",
+   "busquedas": "100+",
+   "nota": "ALIMENTOS, PERIMETRAL Y TERAPIA DE GÉNERO: EL DURO FALLO JUDICIAL CONTRA JAVIER NASELLI POR VICKY XIPOLITAKIS",
+   "nota_url": "https://viaszeta.com/2026/11/10/alimentos-perimetral-y-terapia-de-genero-el-duro-fallo-judicial-contra-javier-naselli-por-vicky-xipolitakis/",
+   "medio": "vía szeta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima salta",
+   "busquedas": "100+",
+   "nota": "Clima en Salta: Ignacio Nieva anticipó posibles tormentas y más calor",
+   "nota_url": "https://defrentesalta.com.ar/contenido/33432/clima-en-salta-ignacio-nieva-anticipo-tormentas",
+   "medio": "Defrentesalta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "iliana calabró",
+   "busquedas": "200+",
+   "nota": "Iliana Calabró preparó en La cocina rebelde el cheesecake de frutos rojos que habría pedido el papa León XIV",
+   "nota_url": "https://www.eltrecetv.com.ar/la-cocina-rebelde/2026/11/10/iliana-calabro-preparo-en-la-cocina-rebelde-el-cheesecake-de-frutos-rojos-que-habria-pedido-el-papa-leon-xiv/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "hoy es feriado",
    "busquedas": "2000+",
@@ -16,7 +52,7 @@
   },
   {
    "tema": "evento de el niño de 2026 2027",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El Niño pushes world towards record heat as COP31 opens",
    "nota_url": "https://www.bbc.com/news/articles/c6pvgg7mdvdvo",
    "medio": "BBC",
@@ -24,7 +60,7 @@
    "temas": []
   },
   {
-   "tema": "clima posadas",
+   "tema": "pronostico posadas",
    "busquedas": "200+",
    "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este martes 10 noviembre de 2026",
    "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-martes-10-noviembre-2026_0_6OOKDeIK9N.html",
@@ -33,65 +69,29 @@
    "temas": []
   },
   {
-   "tema": "nico hülkenberg",
+   "tema": "play-off",
    "busquedas": "100+",
+   "nota": "Ohio high school football playoffs preview, prediction for Massillon vs. Big Walnut",
+   "nota_url": "https://www.cantonrep.com/story/sports/high-school/fridaynightohio/2026/11/10/ohio-high-school-football-playoffs-prediction-preview-massillon-sunbury-big-walnut/92501783007/",
+   "medio": "Canton Repository",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima posadas",
+   "busquedas": "200+",
+   "nota": "Suben las temperaturas en Misiones y las máximas superarán los 30 grados",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101158977/suben-las-temperaturas-en-misiones-y-las-maximas-superaran-los-30-grados/",
+   "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nico hülkenberg",
+   "busquedas": "500+",
    "nota": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
    "nota_url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
    "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vagón",
-   "busquedas": "100+",
-   "nota": "Tolosa: descarrilaron siete vagones de un tren de carga con rollos de acero",
-   "nota_url": "https://www.labuenainfo.com/noticia/tolosa-descarrilaron-siete-vagones-de-un-tren-de-carga-con-rollos-de-acero",
-   "medio": "Labuenainfo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brad pitt",
-   "busquedas": "200+",
-   "nota": "Originally bought by Brad Pitt, this signed Banksy Mona Lisa was hidden away for years; now it’s making its Boston debut",
-   "nota_url": "https://bostonuncovered.com/the-art-of-banksy-exhibit-mona-lisa-brad-pitt/",
-   "medio": "Boston Uncovered",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club de regatas vasco da gama",
-   "busquedas": "200+",
-   "nota": "Carlos Vinicius no Flamengo: vazou salário que jogador pediu para jogar em 2027",
-   "nota_url": "https://www.jornalcruzeiro.com.br/tendencias/carlos-vinicius-no-flamengo-vazou-salario-que-jogador-pediu-para-jogar-em-2027/",
-   "medio": "www.jornalcruzeiro.com.br",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "pensión",
-   "busquedas": "1000+",
-   "nota": "Calendario de pago de Anses: quiénes cobran el 11, 12 y 13 de noviembre",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1161933/sociedad/calendario-pago-anses-quienes-cobran-11-12-13-noviembre.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "eduardo rafael teddy garcía mansilla",
-   "busquedas": "200+",
-   "nota": "Murió Rafael “Teddy” García Mansilla, un importante empresario de medios y la aviación",
-   "nota_url": "https://www.canal26.com/economia/2026/11/11/murio-rafael-teddy-garcia-mansilla-un-importante-empresario-de-medios-y-la-aviacion/",
-   "medio": "Canal26",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "trail blazers - thunder",
-   "busquedas": "500+",
-   "nota": "Trail Blazers Basketball",
-   "nota_url": "https://www.couriernews.com/sports/trail-blazers-basketball/image_7b09ce0c-9743-5d69-8faa-14b714238acd.html",
-   "medio": "couriernews.com",
    "relevante": false,
    "temas": []
   }
