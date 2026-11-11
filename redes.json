@@ -1,98 +1,98 @@
 {
- "actualizado": "11/11 13:49",
+ "actualizado": "11/11 14:45",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "reino unido",
+   "tema": "vaticano",
    "busquedas": "200+",
-   "nota": "Evacuación masiva de estudiantes en Italia tras una amenaza de bomba a 6.000 colegios e institutos",
-   "nota_url": "https://www.elcorreo.com/internacional/europa/evacuadas-300-escuelas-italia-ante-amenaza-bomba-20261111125524-ntrc.html",
-   "medio": "El Correo",
+   "nota": "Cuál es el salario del Papa y qué beneficios recibe del Vaticano",
+   "nota_url": "https://www.cronica.com.ar/sociedad/cual-es-el-salario-del-papa-y-que-beneficios-recibe-del-vaticano/",
+   "medio": "Crónica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "chiclayo",
+   "tema": "a que hora llega el papa a peru",
+   "busquedas": "100+",
+   "nota": "La agenda del papa León XIV en Perú: qué lugares visitará y cuáles serán sus principales actividades",
+   "nota_url": "https://radiomitre.cienradios.com/sociedad/la-agenda-del-papa-leon-xiv-en-peru-que-lugares-visitara-y-cuales-seran-sus-principales-actividades/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos ischia",
+   "busquedas": "100+",
+   "nota": "Un ex DT de Boca reavivó la polémica con Vélez y lanzó una frase contundente: \"Me molestó\"",
+   "nota_url": "https://www.minutouno.com/deportes/un-ex-dt-boca-reavivo-la-polemica-velez-y-lanzo-una-frase-contundente-me-molesto-n6343868",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "página 12",
    "busquedas": "500+",
-   "nota": "\"Sin su paso por Perú León XIV nunca hubiera llegado a ser Papa\": Santiago Roncagliolo",
-   "nota_url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo",
-   "medio": "BBC",
+   "nota": "Pablo Quirno resaltó los mensajes principales de León XIV: \"Tomamos nota de todos los conceptos vertidos por el Papa\"",
+   "nota_url": "https://www.clarin.com/politica/pablo-quirno-resalto-mensajes-principales-leon-xiv-tomamos-nota-conceptos-vertidos-papa_0_K63PdGqAkv.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reino unido",
+   "busquedas": "1000+",
+   "nota": "El Gobierno cerró su reclamo ante el Tribunal de Mar para frenar la explotación petrolera en las Islas Malvinas",
+   "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-cerro-su-reclamo-ante-el-tribunal-de-mar-para-frenar-la-explotacion-petrolera-en-las-nid11112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "chiclayo",
+   "busquedas": "1000+",
+   "nota": "El lenguaje prohibido de León XIV",
+   "nota_url": "https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jubilación",
+   "busquedas": "10000+",
+   "nota": "La brecha entre las jubilaciones se achica, pero por una mayor pérdida de poder adquisitivo",
+   "nota_url": "https://www.losandes.com.ar/economia/la-brecha-las-jubilaciones-se-achica-pero-una-mayor-perdida-poder-adquisitivo-n6013720",
+   "medio": "Los Andes",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "peru",
-   "busquedas": "200+",
-   "nota": "León XIV continúa su gira en Perú: agenda oficial, fechas y ciudades que recorrerá del 11 al 16 de noviembre",
-   "nota_url": "https://www.ambito.com/mundo/leon-xiv-continua-su-gira-peru-agenda-oficial-fechas-y-ciudades-que-recorrera-del-11-al-16-noviembre-n6343986",
-   "medio": "Ambito",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
+   "nota_url": "https://www.perfil.com/modo-fontevecchia/keiko-fujimori-viajara-a-china-en-medio-de-la-visita-de-leon-xiv-a-peru-y-la-comparan-con-milei-aT7Ip9Y6oH8v",
+   "medio": "Perfil",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "inpres san juan",
    "busquedas": "200+",
-   "nota": "Un fuerte sismo de magnitud 4,8 tuvo epicentro cerca de Calingasta",
-   "nota_url": "https://www.diariodecuyo.com.ar/san-juan/un-fuerte-sismo-magnitud-48-tuvo-epicentro-cerca-calingasta-n6588244",
-   "medio": "Diario de Cuyo",
+   "nota": "Fuerte sismo en Calingasta: el informe oficial del INPRES sobre el temblor",
+   "nota_url": "https://delsurdiario.com/provinciales/fuerte-sismo-en-calingasta-el-informe-oficial-del-inpres-sobre-el-temblor",
+   "medio": "Del Sur Diario",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "taylor fritz",
-   "busquedas": "500+",
-   "nota": "World Team Tennis names Coinbase as presenting ...",
-   "nota_url": "https://pluang.com/en/news-feed/world-team-tennis-tunjuk-coinbase-sebagai-mitra-utama",
-   "medio": "Pluang",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dólar",
+   "tema": "pasaporte",
    "busquedas": "1000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 11 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-11-noviembre-n6343795",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "edenor",
-   "busquedas": "500+",
-   "nota": "A través de Edenor, Manzano compra 20% de la controlante de las estaciones Shell",
-   "nota_url": "https://www.iprofesional.com/energia/468744-a-traves-de-edenor-manzano-compra-20-de-la-controlante-de-las-estaciones-shell",
-   "medio": "iProfesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "11 de noviembre que se celebra",
-   "busquedas": "200+",
-   "nota": "Veterans Day 2026: por qué se celebra este 11 de noviembre en EEUU, qué negocios cierran y qué pasa con los bancos",
-   "nota_url": "https://www.ambito.com/mexico/informacion-general/veterans-day-2026-que-se-celebra-este-11-noviembre-eeuu-que-negocios-cierran-y-que-pasa-los-bancos-n6343997",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leclerc",
-   "busquedas": "200+",
-   "nota": "F1 mailbag: Can Ferrari fix its Leclerc-Hamilton feud? Do drivers really get No. 1 clauses? - The Athletic",
-   "nota_url": "https://www.nytimes.com/athletic/7758043/2026/11/06/lewis-hamilton-charles-leclerc-ferrari-feud-mailbag/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos babington",
-   "busquedas": "5000+",
-   "nota": "Murió Carlos Babington, la zurda mágica del Huracán del 73 y de la selección del Mundial 74",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/huracan/murio-carlos-babington-la-zurda-magica-del-huracan-del-73-y-de-la-seleccion-del-mundial-74-nid11112026/",
+   "nota": "El Gobierno anunció un aumento en los precios para sacar el DNI y el pasaporte",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/el-gobierno-anuncio-un-aumento-en-los-precios-para-sacar-el-dni-y-el-pasaporte-nid11112026/",
    "medio": "La Nación",
-   "relevante": false,
+   "relevante": true,
    "temas": []
   }
  ],
