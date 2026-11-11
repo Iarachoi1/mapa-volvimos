@@ -1,13 +1,76 @@
 {
- "actualizado": "11/11 05:08",
+ "actualizado": "11/11 06:47",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "pensión",
+   "tema": "hoy es feriado",
+   "busquedas": "2000+",
+   "nota": "El Ejecutivo santafesino destacó la visita papal como un hecho de \"especial trascendencia\"",
+   "nota_url": "https://www.cadena3.com/noticia/noticias-rosario/el-ejecutivo-santafesino-destaco-la-visita-papal-como-un-hecho-de-especial-trascendencia_611854",
+   "medio": "Cadena 3 Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "evento de el niño de 2026 2027",
+   "busquedas": "100+",
+   "nota": "El Niño pushes world towards record heat as COP31 opens",
+   "nota_url": "https://www.bbc.com/news/articles/c6pvgg7mdvdvo",
+   "medio": "BBC",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "clima posadas",
    "busquedas": "200+",
+   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este martes 10 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-martes-10-noviembre-2026_0_6OOKDeIK9N.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nico hülkenberg",
+   "busquedas": "100+",
+   "nota": "Salió a la luz el video de la lucha con Franco Colapinto que llevó a la sanción a Nico Hulkenberg",
+   "nota_url": "https://www.tycsports.com/automovilismo/salio-luz-video-lucha-con-franco-colapinto-que-llevo-sancion-nico-hulkenberg-id771058.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vagón",
+   "busquedas": "100+",
+   "nota": "Tolosa: descarrilaron siete vagones de un tren de carga con rollos de acero",
+   "nota_url": "https://www.labuenainfo.com/noticia/tolosa-descarrilaron-siete-vagones-de-un-tren-de-carga-con-rollos-de-acero",
+   "medio": "Labuenainfo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brad pitt",
+   "busquedas": "200+",
+   "nota": "Originally bought by Brad Pitt, this signed Banksy Mona Lisa was hidden away for years; now it’s making its Boston debut",
+   "nota_url": "https://bostonuncovered.com/the-art-of-banksy-exhibit-mona-lisa-brad-pitt/",
+   "medio": "Boston Uncovered",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club de regatas vasco da gama",
+   "busquedas": "200+",
+   "nota": "Carlos Vinicius no Flamengo: vazou salário que jogador pediu para jogar em 2027",
+   "nota_url": "https://www.jornalcruzeiro.com.br/tendencias/carlos-vinicius-no-flamengo-vazou-salario-que-jogador-pediu-para-jogar-em-2027/",
+   "medio": "www.jornalcruzeiro.com.br",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pensión",
+   "busquedas": "1000+",
    "nota": "Calendario de pago de Anses: quiénes cobran el 11, 12 y 13 de noviembre",
    "nota_url": "https://www.lagaceta.com.ar/nota/1161933/sociedad/calendario-pago-anses-quienes-cobran-11-12-13-noviembre.html",
    "medio": "La Gaceta",
@@ -26,72 +89,9 @@
   {
    "tema": "trail blazers - thunder",
    "busquedas": "500+",
-   "nota": "Game Recap: Trail Blazers 123, Thunder 103",
-   "nota_url": "https://www.nba.com/watch/video/game-recap-trail-blazers-123-thunder-103",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - magic",
-   "busquedas": "200+",
-   "nota": "Franz Wagner drops 33 points Tuesday",
-   "nota_url": "https://www.fantasypros.com/nba/news/619190/franz-wagner-drops-33-points-tuesday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "once caldas - atlético nacional",
-   "busquedas": "1000+",
-   "nota": "¿Juega James Rodríguez? Once Caldas vs Atlético Nacional HOY: alineaciones del partido de la Copa Colombia",
-   "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-once-caldas-vs-atletico-nacional-hoy-alineaciones-del-partido-de-la-copa-colombia",
-   "medio": "Bolavip",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vision quest",
-   "busquedas": "500+",
-   "nota": "VisionQuest Episode 8 Finale Review: Worthwhile Revival Television",
-   "nota_url": "https://www.denofgeek.com/tv/visionquest-episode-8-finale-review/",
-   "medio": "Den of Geek",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "frente frío",
-   "busquedas": "2000+",
-   "nota": "Cambio de clima en Buenos Aires: llegan tormentas y la temperatura será de 13 grados",
-   "nota_url": "https://elargentinodiario.com.ar/zona-destacada/10/11/2026/cambio-de-clima-en-buenos-aires-llegan-tormentas-y-la-temperatura-sera-de-13-grados/",
-   "medio": "El Argentino Diario",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "suns - clippers",
-   "busquedas": "200+",
-   "nota": "Jordan Goodwin leads team in scoring Tuesday",
-   "nota_url": "https://www.fantasypros.com/nba/news/619146/jordan-goodwin-leads-team-scoring-tuesday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gol",
-   "busquedas": "500+",
-   "nota": "Alaska Airlines expands Brazil travel links through GOL partnership",
-   "nota_url": "https://travel.yahoo.com/news/articles/alaska-airlines-expands-brazil-travel-164933942.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "julieta nair calvo",
-   "busquedas": "1000+",
-   "nota": "Julieta Nair Calvo quedó eliminada de MasterChef Celebrity",
-   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/11/julieta-nair-calvo-quedo-eliminada-de-masterchef-celebrity/",
-   "medio": "Ciudad Magazine",
+   "nota": "Trail Blazers Basketball",
+   "nota_url": "https://www.couriernews.com/sports/trail-blazers-basketball/image_7b09ce0c-9743-5d69-8faa-14b714238acd.html",
+   "medio": "couriernews.com",
    "relevante": false,
    "temas": []
   }
