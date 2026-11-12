@@ -1,13 +1,22 @@
 {
- "actualizado": "12/11 07:50",
+ "actualizado": "12/11 08:46",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "licitación",
+   "busquedas": "100+",
+   "nota": "Deuda: Economía colocó bonos por $8,87 billones, logró rollover del 84% e inyectó pesos al mercado",
+   "nota_url": "https://www.ambito.com/deuda-economia-coloco-bonos-887-billones-y-logro-un-rollover-del-103-n6344162",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "guardia de honor",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "VIDEO: Se desmaya guardia de honor en el Palacio de Elíseo en París",
    "nota_url": "https://gamavision.com/noticias/video-se-desmaya-guardia-de-honor-en-el-palacio-de-eliseo-en-paris",
    "medio": "gamavisión",
@@ -16,9 +25,18 @@
   },
   {
    "tema": "ariel holan",
-   "busquedas": "100+",
-   "nota": "Holan explicó por qué dirigir River \"es una cuenta pendiente\" y lanzó un palito por la tabla anual: \"Ahora están todos contentos\"",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/holan-explico-por-que-dirigir-river-es-una-cuenta-pendiente-y-lanzo-un-palito-por-la-tabla-anual-ahora-estan-todos-contentos-id771209.html",
+   "busquedas": "500+",
+   "nota": "Holan, sobre el título de Campeón de Liga a Central: \"Ahora están todos contentos...\"",
+   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/11/holan-sobre-el-titulo-de-campeon-de-liga-a-central-ahora-estan-todos-contentos....php",
+   "medio": "FM Del Sol Pehuajo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pedro troglio",
+   "busquedas": "200+",
+   "nota": "Troglio, en TyC Sports: \"Es normal que pongan a Boca en la final\"",
+   "nota_url": "https://www.tycsports.com/video/copa-argentina/troglio-en-tyc-sports-es-normal-que-pongan-a-boca-en-la-final-id1004335.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
@@ -34,7 +52,7 @@
   },
   {
    "tema": "gianluca prestianni",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Di Carlo ofertó por el, pero en Europa le dijeron no a River y la esta rompiendo: “Destacada actuación”",
    "nota_url": "https://soydelmillo.com/mercado-de-pases/2026/11/09/di-carlo-europa-river/",
    "medio": "Soy del Millo",
@@ -53,10 +71,10 @@
   {
    "tema": "combustible",
    "busquedas": "200+",
-   "nota": "Los camioneros mantienen sus protestas pese a que el Gobierno de Kast congela el precio de los combustibles",
-   "nota_url": "https://elpais.com/chile/2026-11-12/los-camioneros-mantienen-sus-protestas-pese-a-que-el-gobierno-de-kast-congela-el-precio-de-los-combustibles.html",
-   "medio": "EL PAÍS",
-   "relevante": true,
+   "nota": "Cuatro allanamientos en Mendoza: desarticularon una red de venta ilegal de combustible adulterado",
+   "nota_url": "https://www.lavoz.com.ar/sucesos/allanaron-mendoza-desarticularon-red-venta-ilegal-combustible-adulterado_0_rUdKTz8pWe.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
    "temas": []
   },
   {
@@ -69,29 +87,11 @@
    "temas": []
   },
   {
-   "tema": "nikola tsolov",
-   "busquedas": "200+",
-   "nota": "El piloto que probó un Racing Bulls en Hungaroring mientras Liam Lawson busca asegurar su butaca para 2027",
-   "nota_url": "https://www.carburando.com/formula-1/tsolov-prueba-con-racing-bulls-y-pone-en-jaque-a-liam-lawson-id200915",
-   "medio": "Carburando",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "california",
-   "busquedas": "200+",
-   "nota": "Measure X: Liberty Union High School District $165M bond falling short in early vote count",
-   "nota_url": "https://localnewsmatters.org/2026/11/03/measure-x-liberty-union-high-school-district-165m-bond-falling-short-in-early-vote-count/",
-   "medio": "Local News Matters",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ahora caigo",
-   "busquedas": "2000+",
-   "nota": "Ganó más de $9 millones en Ahora Caigo y Barassi le dio una inesperada noticia: “Nos queremos matar”",
-   "nota_url": "https://eldoce.tv/show/2026/11/11/gano-mas-de-9-millones-en-ahora-caigo-y-barassi-le-dio-una-inesperada-noticia-nos-queremos-matar/",
-   "medio": "eldoce",
+   "busquedas": "500+",
+   "nota": "There’s nothing ‘more destructive’ than a wealth tax, Art Laffer warns",
+   "nota_url": "https://www.foxnews.com/video/6408241231112",
+   "medio": "Fox News",
    "relevante": false,
    "temas": []
   }
