@@ -1,13 +1,67 @@
 {
- "actualizado": "12/11 13:49",
+ "actualizado": "12/11 14:42",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "premio",
+   "tema": "atp estocolmo",
    "busquedas": "100+",
+   "nota": "Tabilo gana a Sonego y pasa a cuartos en Estocolmo",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/11/tabilo-gana-a-sonego-y-pasa-a-cuartos-en-estocolmo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "decreto",
+   "busquedas": "100+",
+   "nota": "El Parlamento español aprueba medidas para proteger el derecho a la vivienda, tras la huelga general",
+   "nota_url": "https://es-us.finanzas.yahoo.com/noticias/parlamento-espa%C3%B1ol-aprueba-medidas-proteger-130559996.html",
+   "medio": "Yahoo Finanzas",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "de paul",
+   "busquedas": "100+",
+   "nota": "Tini Stoessel frenó el acuerdo millonario con su padre y salió a la luz la exigencia que profundizó el conflicto familiar",
+   "nota_url": "https://www.canalnet.tv/espectaculos/tini-stoessel-freno-el-acuerdo-millonario-con-su-padre-y-salio-a-la-luz-la-exigencia-que-profundizo-el-conflicto-familiar_20261112/",
+   "medio": "Net tv | Aire Fresco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "barcelona - arsenal",
+   "busquedas": "500+",
+   "nota": "FC Barcelona News: 12 November 2026",
+   "nota_url": "https://sports.yahoo.com/articles/fc-barcelona-news-12-november-100000402.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dakar",
+   "busquedas": "200+",
+   "nota": "Corniche Ouest de Dakar : l’érosion côtière change les priorités du chantier",
+   "nota_url": "https://www.seneplus.com/article/corniche-ouest-de-dakar-lerosion-cotiere-change-les-priorites-du-chantier",
+   "medio": "SenePlus",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga de naciones",
+   "busquedas": "1000+",
+   "nota": "Por qué el Italia vs. Francia de Nations League puede marcar el futuro de la Azzurra",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17504599/italia-francia-nations-league-marcar-futuro-azzurra",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "premio",
+   "busquedas": "200+",
    "nota": "El argentino que anotó las últimas palabras de su abuelo y ganó un premio de novela en Estados Unidos",
    "nota_url": "https://www.infobae.com/cultura/2026/11/12/el-argentino-que-anoto-las-ultimas-palabras-de-su-abuelo-y-gano-un-premio-de-novela-en-estados-unidos/",
    "medio": "Infobae",
@@ -25,7 +79,7 @@
   },
   {
    "tema": "turquía - bélgica",
-   "busquedas": "2000+",
+   "busquedas": "5000+",
    "nota": "Fútbol libre por el celular: cómo ver EN VIVO Turquía vs. Bélgica por la Nations League",
    "nota_url": "https://www.minutouno.com/deportes/futbol-libre-el-celular-como-ver-vivo-turquia-vs-belgica-la-nations-league-n6344141",
    "medio": "MinutoUno",
@@ -35,63 +89,9 @@
   {
    "tema": "erick pulgar",
    "busquedas": "200+",
-   "nota": "Di Carlo rompe el mercado y River va por un titular de Flamengo: \"Gusta mucho\"",
-   "nota_url": "https://urgente24.com/golazo24/di-carlo-rompe-el-mercado-y-river-va-un-titular-flamengo-gusta-mucho-n636513",
-   "medio": "Urgente24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leonardo bertulazzi",
-   "busquedas": "2000+",
-   "nota": "Fuga de película: Leonardo Bertulazzi escapó de su arresto",
-   "nota_url": "https://holasalta.com/post/fuga-de-pelicula-un-exterrorista-italiano-escapo-de-su-arresto-domiciliario-con-un-arnes/",
-   "medio": "HolaSalta Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tirante",
-   "busquedas": "100+",
-   "nota": "Alex Michelsen vs. Alejandro Tabilo prediction, odds, picks for ATP Stockholm Open 2026",
-   "nota_url": "https://www.dimers.com/tennis/news/alex-michelsen-vs-alejandro-tabilo-tennis-prediction-atp-stockholm-open-2026-ac",
-   "medio": "Dimers",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rd congo - sierra leona",
-   "busquedas": "500+",
-   "nota": "DR Congo v Sierra Leone: ticket sales open, US$30 · SNA",
-   "nota_url": "https://sportnewsafrica.com/en/alerts/dr-congo-v-sierra-leone-us30-tickets-on-sale-at-fecofa-headquarters/",
-   "medio": "Sport News Africa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "regina torné",
-   "busquedas": "200+",
-   "nota": "Muere Regina Torné, actriz de 'Como agua para chocolate' y 'El Chavo del 8', a los 82 años",
-   "nota_url": "https://es-us.vida-estilo.yahoo.com/muere-regina-torne-actriz-agua-121512217.html",
-   "medio": "Yahoo en Español Vida y Estilo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jugador",
-   "busquedas": "500+",
-   "nota": "Un futbolista de 22 años murió tras haber sufrido un paro cardíaco durante un entrenamiento",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/12/conmocion-en-el-futbol-un-jugador-de-22-anos-murio-tras-haber-sufrido-un-paro-cardiaco-durante-un-entrenamiento/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nations league",
-   "busquedas": "200+",
-   "nota": "Enes Ünal relishes ‘second chance’ with Turkey ahead of starting berth against Belgium",
-   "nota_url": "https://turkish-football.com/enes-unal-relishes-second-chance-with-turkey-ahead-of-starting-berth-against-belgium/",
-   "medio": "turkish football",
+   "nota": "Atentos: River tiene en carpeta a Erick Pulgar",
+   "nota_url": "https://www.cronica.com.ar/depo/actualidad/atentos-river-tiene-en-carpeta-a-erick-pulgar/",
+   "medio": "Crónica",
    "relevante": false,
    "temas": []
   }
