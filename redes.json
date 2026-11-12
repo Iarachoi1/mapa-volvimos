@@ -1,43 +1,88 @@
 {
- "actualizado": "11/11 23:04",
+ "actualizado": "12/11 00:41",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "rockets - warriors",
-   "busquedas": "200+",
-   "nota": "BetMGM bonus code CBSSPORTS: Get $1,500 in bonus bets for Ball State-Buffalo, Warriors-Rockets, NBA betting",
-   "nota_url": "https://www.cbssports.com/betting/news/betmgm-bonus-code-cbssports-get-1500-bonus-bets-ball-state-buffalo-warriors-rockets-nba-betting/",
-   "medio": "CBS Sports",
+   "tema": "warriors",
+   "busquedas": "100+",
+   "nota": "Derik queen taking a lap warriors video",
+   "nota_url": "https://www.nola.com/derik-queen-taking-a-lap-warriors-video/html_e4628e50-0e42-4a8c-9c89-6448d5e4449f.html",
+   "medio": "NOLA.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "grizzlies - nuggets",
-   "busquedas": "100+",
-   "nota": "Nuggets play Grizzlies on the road",
-   "nota_url": "https://nuggets.com/news/nuggets-play-grizzlies-on-the-road",
+   "tema": "paolo el rockero",
+   "busquedas": "200+",
+   "nota": "Murió Paolo el Rockero, ícono del humor de los 80: tenía 68 años",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/murio-paolo-el-rockero-icono-del-humor-de-los-80-tenia-68-anos/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "trail blazers - thunder",
+   "busquedas": "1000+",
+   "nota": "Game Recap: Trail Blazers 123, Thunder 103 (Nov. 10)",
+   "nota_url": "https://www.nba.com/watch/video/game-recap-trail-blazers-123-thunder-103",
    "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "spurs",
+   "busquedas": "100+",
+   "nota": "It’s time for Basketball: San Antonio Spurs at Chicago Bulls",
+   "nota_url": "https://www.poundingtherock.com/spurs-discussion-threads/109931/its-time-for-basketball-san-antonio-spurs-at-chicago-bulls",
+   "medio": "Pounding The Rock",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juegos ps plus extra noviembre 2026",
+   "busquedas": "100+",
+   "nota": "PlayStation cierra su servicio de streaming en la nube en PC",
+   "nota_url": "https://www.profesionalreview.com/2026/11/11/playstation-cierra-su-servicio-de-streaming-en-la-nube-en-pc/",
+   "medio": "Profesional Review",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rockets - warriors",
+   "busquedas": "1000+",
+   "nota": "Polymarket Promo Code FOX: Claim $25 in Bonuses for Celtics vs. 76ers, Any Other NBA Game Tonight",
+   "nota_url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-25-bonuses-celtics-vs-76ers-any-other-nba-game-tonight",
+   "medio": "FOX Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grizzlies - nuggets",
+   "busquedas": "200+",
+   "nota": "Tigers Blown Out at Vandy, Hustle Opener, Grizz/Nuggets, CFP Rankings | Chris Vernon Show",
+   "nota_url": "https://www.grindcitymedia.com/2026/11/11/tigers-blown-out-at-vandy-hustle-opener-grizznuggets-cfp-rankings-chris-vernon-show",
+   "medio": "Grind City Media",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "ricardo rodríguez dt",
-   "busquedas": "500+",
-   "nota": "Falleció Ricardo Negro Rodríguez, ex DT de Atlético Tucumán y referente del fútbol de ascenso",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162165/deportes/fallecio-ricardo-negro-rodriguez-ex-dt-atletico-tucuman-referente-futbol-ascenso.html",
-   "medio": "La Gaceta",
+   "busquedas": "2000+",
+   "nota": "Dolor por la muerte de un exentrenador de Independiente Rivadavia",
+   "nota_url": "https://www.mendozapost.com/deportes/dolor-por-muerte-exentrenador-independiente-rivadavia/",
+   "medio": "Mendoza Post",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "paro de subtes",
-   "busquedas": "500+",
-   "nota": "Nuevo paro en el subte y el Premetro: los gremios protestarán el jueves por la muerte de un trabajador que vinculan al asbesto",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/10/nuevo-paro-en-el-subte-y-el-premetro-los-gremios-protestaran-el-jueves-por-la-muerte-de-un-trabajador-que-vinculan-al-asbesto/",
-   "medio": "Infobae",
+   "busquedas": "1000+",
+   "nota": "Paro en el subte por la muerte de otro trabajador a causa del Asbesto: Emova y Macri son responsables",
+   "nota_url": "https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son",
+   "medio": "La Izquierda Diario",
    "relevante": true,
    "temas": []
   },
@@ -47,51 +92,6 @@
    "nota": "¡En pleno romance! Nati Jota fue directo al hueso y le preguntó a Gime Accardi y Seven Kayne qué pasa entre ellos",
    "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/11/romance-confirmado-nati-jota-fue-directo-al-hueso-y-le-pregunto-a-gime-accardi-y-seven-kayne-que-pasa-entre-ellos-266172.html",
    "medio": "Pronto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jimena barón",
-   "busquedas": "500+",
-   "nota": "Jimena Barón no pudo contener la emoción: el regalo que le llegó del papa León XIV",
-   "nota_url": "https://elintransigente.com/2026/11/11/jimena-baron-no-pudo-contener-emocion-regalo-le-llego-papa-leon-xiv/",
-   "medio": "El Intransigente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucks - lakers",
-   "busquedas": "1000+",
-   "nota": "Kel'el Ware has to capitalize on a big opportunity against the Los Angeles Lakers",
-   "nota_url": "https://www.si.com/nba/bucks/onsi/kel-el-ware-must-capitalize-on-a-big-opportunity-against-the-los-angeles-lakers-01m769zw3txe",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bulls - spurs",
-   "busquedas": "1000+",
-   "nota": "Keys to the Game: Spurs look to win 10th straight game in matchup with lowly Bulls",
-   "nota_url": "https://www.kens5.com/video/sports/nba/spurs/keys-to-the-game-spurs-look-to-win-10th-straight-game-in-matchup-with-lowly-bulls/273-98b46ede-5418-4c9d-be05-a5861785e1dd",
-   "medio": "kens5.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "amistosos",
-   "busquedas": "500+",
-   "nota": "La Bombonera y la Selección",
-   "nota_url": "https://www.eldia.com/deportes/la-bombonera-y-la-seleccion-deportes_1794376176",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pacers - wizards",
-   "busquedas": "100+",
-   "nota": "Pacers look for first home win against Anthony Davis, Wizards",
-   "nota_url": "https://sports.yahoo.com/articles/pacers-look-first-home-win-120008385.html",
-   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
