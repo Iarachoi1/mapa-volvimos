@@ -1,98 +1,98 @@
 {
- "actualizado": "11/11 20:39",
+ "actualizado": "11/11 21:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "alpine f1 team",
+   "busquedas": "200+",
+   "nota": "Franco Colapinto en alerta: Alpine renueva su equipo técnico con dudas para 2027",
+   "nota_url": "https://ciudadano.news/deportes/franco-colapinto-alerta-alpine-estructura-tecnica-dudas-2027-n123846",
+   "medio": "Ciudadano News",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa mundial de fútbol sub-17",
+   "busquedas": "200+",
+   "nota": "EEUU se retira del Mundial Sub-17 de Catar por motivos de seguridad",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/eeuu-se-retira-del-mundial-sub-17-de-catar-por-motivos-de-seguridad-nid11112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "andrés chávez",
+   "busquedas": "100+",
+   "nota": "Andrés Chávez se pronuncia sobre críticas tras el descenso de Aldosivi: \"Fue doloroso para mí\"",
+   "nota_url": "https://www.cadena3.com/noticia/deportes/andres-chavez-se-pronuncia-sobre-criticas-tras-el-descenso-de-aldosivi-fue-doloroso-para-mi_612272",
+   "medio": "Cadena 3 Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuándo juega argentina",
+   "busquedas": "100+",
+   "nota": "Cuándo juegan Argentina vs. Uruguay por la Fecha FIFA: equipo, fecha, hora y TV en vivo",
+   "nota_url": "https://www.espn.com.ar/futbol/nota/_/id/17498972/argentina-vs-uruguay-amistoso-fecha-fecha-equipo-fecha-hora-y-tv-en-vivo",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aeroparque internacional jorge newbery",
+   "busquedas": "1000+",
+   "nota": "Rodrigo Toranzo: “León XIV dejó un mensaje claro sobre lo que está pasando en Argentina”",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/11/rodrigo-toranzo-leon-xiv-dejo-un-mensaje-claro-sobre-lo-que-esta-pasando-en-argentina/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "river id",
+   "busquedas": "200+",
+   "nota": "Enzo Fernández volvió a River",
+   "nota_url": "https://elchorrillero.com/nota/2026/11/11/677914-enzo-fernandez-volvio-a-river/amp/",
+   "medio": "El Chorrillero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "knicks - cavaliers",
+   "busquedas": "200+",
+   "nota": "ESPN NBA Full Court Press: New York Knicks host Cleveland Cavaliers in Eastern Conference Finals rematch Wednesday",
+   "nota_url": "https://espnpressroom.com/press-release/espn-nba-full-court-press-new-york-knicks-host-cleveland-cavaliers-in-eastern-conference-finals-rematch-wednesday/",
+   "medio": "ESPN Press Room",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "raptors - celtics",
+   "busquedas": "1000+",
+   "nota": "NBA Moneyline Parlay: Our +320 Bet for Wednesday, November 11",
+   "nota_url": "https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-wednesday-november-11",
+   "medio": "Action Network",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "patrimonio geológico",
+   "busquedas": "100+",
+   "nota": "Tres maravillas naturales argentinas fueron reconocidas como Patrimonio Geológico Mundial",
+   "nota_url": "https://www.elonce.com/sociedad/tres-maravillas-naturales-argentinas-fueron-reconocidas-como-patrimonio-geologico-mundial.htm",
+   "medio": "Elonce.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "argentina",
    "busquedas": "10000+",
-   "nota": "Argentina peregrina a Luján para despedir a un Papa que pone en el centro a los marginados",
-   "nota_url": "https://elpais.com/argentina/2026-11-11/argentina-peregrina-a-lujan-para-despedir-a-un-papa-que-pone-en-el-centro-a-los-marginados.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de fútbol de uruguay",
-   "busquedas": "200+",
-   "nota": "Forlán ya entrena con todos los convocados y se perfila el equipo que jugará con Argentina",
-   "nota_url": "https://www.montevideo.com.uy/Deportes/Forlan-ya-entrena-con-todos-los-convocados-y-se-perfila-el-equipo-que-jugara-con-Argentina-uc981821",
-   "medio": "Montevideo Portal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kimberly powell",
-   "busquedas": "500+",
-   "nota": "Statement From NVIDIA Board of Directors",
-   "nota_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-   "medio": "NVIDIA Newsroom",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aryna sabalenka",
-   "busquedas": "1000+",
-   "nota": "Aryna Sabalenka equals WTA Finals record after defeating Karolina Muchova in Indian Wells",
-   "nota_url": "https://tennishead.net/aryna-sabalenka-equals-wta-finals-record-after-defeating-karolina-muchova-in-indian-wells/",
-   "medio": "Tennishead",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "robert prevost",
-   "busquedas": "200+",
-   "nota": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
-   "nota_url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fiat argo",
-   "busquedas": "100+",
-   "nota": "Hatch campeão em vendas da Fiat vai mudar de nome para não \"sumir\"",
-   "nota_url": "https://canaltech.com.br/carros/hatch-campeao-em-vendas-da-fiat-vai-mudar-de-nome-para-nao-sumir/",
-   "medio": "Canaltech",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mercado de divisas",
-   "busquedas": "1000+",
-   "nota": "El dólar bajó tras un largo receso y se profundiza la caída del tipo de cambio real",
-   "nota_url": "https://www.infobae.com/economia/2026/11/11/el-dolar-bajo-tras-un-largo-receso-y-se-profundiza-la-caida-del-tipo-de-cambio-real/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "allanamiento",
-   "busquedas": "2000+",
-   "nota": "Rescataron a dos mujeres tras un allanamiento por una causa de trata: hay un venezolano detenido",
-   "nota_url": "https://www.diariochaco.com/699902-rescataron-a-dos-mujeres-tras-un-allanamiento-por-una-causa-de-trata-hay-un-venezolano-detenido",
-   "medio": "Diario Chaco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "wta finals",
-   "busquedas": "500+",
-   "nota": "Svitolina rallies to top Muchova, boost WTA Finals bid",
-   "nota_url": "https://www.france24.com/en/live-news/20261111-svitolina-rallies-to-top-muchova-boost-wta-finals-bid",
-   "medio": "France 24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos tevez",
-   "busquedas": "1000+",
-   "nota": "Carlos Tevez suma un nuevo emprendimiento: armó una empresa para organizar su despedida en La Bombonera",
-   "nota_url": "https://www.clarin.com/economia/carlos-tevez-suma-nuevo-emprendimiento-armo-empresa-organizar-despedida-bombonera_0_333rzCO7ZF.html",
+   "nota": "La misa en la que el peronismo se sintió local, pero en la que también debió escuchar el mensaje de León XIV",
+   "nota_url": "https://www.clarin.com/politica/misa-peronismo-sintio-local-debio-escuchar-mensaje-leon-xiv_0_CipopmXOPi.html",
    "medio": "Clarin.com",
-   "relevante": false,
+   "relevante": true,
    "temas": []
   }
  ],
