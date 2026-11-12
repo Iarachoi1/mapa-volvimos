@@ -1,13 +1,31 @@
 {
- "actualizado": "12/11 08:46",
+ "actualizado": "12/11 09:50",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "licitación",
+   "tema": "sloviansk",
    "busquedas": "100+",
+   "nota": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
+   "nota_url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "patricia bullrich",
+   "busquedas": "100+",
+   "nota": "Temores internos por una ruptura con Bullrich y la PASO vuelve como fantasma en la Cámara alta",
+   "nota_url": "https://www.infobae.com/politica/2026/11/12/temores-internos-por-una-ruptura-con-bullrich-y-la-paso-vuelve-como-fantasma-en-la-camara-alta/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "licitación",
+   "busquedas": "1000+",
    "nota": "Deuda: Economía colocó bonos por $8,87 billones, logró rollover del 84% e inyectó pesos al mercado",
    "nota_url": "https://www.ambito.com/deuda-economia-coloco-bonos-887-billones-y-logro-un-rollover-del-103-n6344162",
    "medio": "Ambito",
@@ -16,19 +34,19 @@
   },
   {
    "tema": "guardia de honor",
-   "busquedas": "500+",
-   "nota": "VIDEO: Se desmaya guardia de honor en el Palacio de Elíseo en París",
-   "nota_url": "https://gamavision.com/noticias/video-se-desmaya-guardia-de-honor-en-el-palacio-de-eliseo-en-paris",
-   "medio": "gamavisión",
+   "busquedas": "1000+",
+   "nota": "Dos soldados se desploman junto a Macron en París",
+   "nota_url": "https://es.euronews.com/2026/11/12/dos-soldados-se-desploman-junto-a-macron-durante-una-ceremonia-oficial-en-paris",
+   "medio": "Euronews.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ariel holan",
-   "busquedas": "500+",
-   "nota": "Holan, sobre el título de Campeón de Liga a Central: \"Ahora están todos contentos...\"",
-   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/11/holan-sobre-el-titulo-de-campeon-de-liga-a-central-ahora-estan-todos-contentos....php",
-   "medio": "FM Del Sol Pehuajo",
+   "busquedas": "200+",
+   "nota": "Ariel Holan reveló que dirigir a River es su cuenta pendiente: “Es imposible no enamorarte de esa institución”",
+   "nota_url": "https://lapaginamillonaria.com/river-plate/ariel-holan-revelo-que-dirigir-a-river-es-su-cuenta-pendiente-es-imposible-no-enamorarte-de-esa-institucion",
+   "medio": "La Página Millonaria",
    "relevante": false,
    "temas": []
   },
@@ -43,7 +61,7 @@
   },
   {
    "tema": "eduardo taiano",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El fiscal Taiano se pronunció en contra de reabrir la causa $Libra y que la PIA asuma la investigación",
    "nota_url": "https://www.infobae.com/judiciales/2026/11/11/el-fiscal-taiano-se-pronuncio-en-contra-de-reabrir-la-causa-libra-y-que-la-pia-asuma-la-investigacion/",
    "medio": "Infobae",
@@ -71,28 +89,10 @@
   {
    "tema": "combustible",
    "busquedas": "200+",
-   "nota": "Cuatro allanamientos en Mendoza: desarticularon una red de venta ilegal de combustible adulterado",
-   "nota_url": "https://www.lavoz.com.ar/sucesos/allanaron-mendoza-desarticularon-red-venta-ilegal-combustible-adulterado_0_rUdKTz8pWe.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "minuto uno",
-   "busquedas": "100+",
-   "nota": "Lejos de la carpa VIP: el extraordinario gesto del hijo de Ricardo Fort durante la misa de León XIV",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/lejos-carpa-vip-extraordinario-gesto-hijo-ricardo-fort-misa-leon-xiv-2026111114469",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "california",
-   "busquedas": "500+",
-   "nota": "There’s nothing ‘more destructive’ than a wealth tax, Art Laffer warns",
-   "nota_url": "https://www.foxnews.com/video/6408241231112",
-   "medio": "Fox News",
-   "relevante": false,
+   "nota": "Los camioneros mantienen sus protestas pese a que el Gobierno de Kast congela el precio de los combustibles",
+   "nota_url": "https://elpais.com/chile/2026-11-12/los-camioneros-mantienen-sus-protestas-pese-a-que-el-gobierno-de-kast-congela-el-precio-de-los-combustibles.html",
+   "medio": "EL PAÍS",
+   "relevante": true,
    "temas": []
   }
  ],
