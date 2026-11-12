@@ -1,15 +1,51 @@
 {
- "actualizado": "12/11 14:42",
+ "actualizado": "12/11 15:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "atp estocolmo",
+   "tema": "scaloni",
+   "busquedas": "200+",
+   "nota": "Scaloni dará una conferencia muy esperada antes de los amistosos de la Selección Argentina",
+   "nota_url": "https://www.tycsports.com/seleccion-argentina/lionel-scaloni-conferencia-seleccion-argentina-id771225.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "river id",
+   "busquedas": "500+",
+   "nota": "Enzo Fernández, citado a la Selección Argentina, volvió al Monumental, fue recibido por Di Carlo y posó con...",
+   "nota_url": "https://lapaginamillonaria.com/internacional/enzo-fernandez-citado-a-la-seleccion-argentina-volvio-al-monumental-fue-recibido-por-di-carlo-y-poso-con-la-camiseta-de-river",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "downdetector",
+   "busquedas": "500+",
+   "nota": "Is Microsoft Outlook down? Thousands report issues with platform",
+   "nota_url": "https://www.kare11.com/article/news/nation-world/is-microsoft-outlook-down-issues-reported-thursday/507-c4b3db9a-24e9-4c76-a414-28aa084c18f8",
+   "medio": "kare11.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la noche de los museos 2026",
    "busquedas": "100+",
-   "nota": "Tabilo gana a Sonego y pasa a cuartos en Estocolmo",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/11/tabilo-gana-a-sonego-y-pasa-a-cuartos-en-estocolmo/",
+   "nota": "Este sábado, habrá un nuevo Paseo Histórico en la Línea A y abrirá el Museo del Subte",
+   "nota_url": "https://buenosaires.gob.ar/noticias/este-sabado-habra-un-nuevo-paseo-historico-en-la-linea-y-abrira-el-museo-del-subte",
+   "medio": "Buenos Aires Ciudad",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "españa vs",
+   "busquedas": "200+",
+   "nota": "Santi Denia: \"Contra España hay que jugar a la perfección en todos los aspectos\"",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/11/santi-denia-contra-espana-hay-que-jugar-a-la-perfeccion-en-todos-los-aspectos/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
@@ -17,81 +53,45 @@
   {
    "tema": "decreto",
    "busquedas": "100+",
-   "nota": "El Parlamento español aprueba medidas para proteger el derecho a la vivienda, tras la huelga general",
-   "nota_url": "https://es-us.finanzas.yahoo.com/noticias/parlamento-espa%C3%B1ol-aprueba-medidas-proteger-130559996.html",
-   "medio": "Yahoo Finanzas",
+   "nota": "El Congreso se divide sobre dos decretos de vivienda en la resaca de la huelga y el arranque de la campaña electoral",
+   "nota_url": "https://elpais.com/espana/2026-11-12/el-congreso-se-divide-sobre-dos-decretos-de-vivienda-en-la-resaca-de-la-huelga-y-el-arranque-de-la-campana-electoral.html",
+   "medio": "EL PAÍS",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "de paul",
    "busquedas": "100+",
-   "nota": "Tini Stoessel frenó el acuerdo millonario con su padre y salió a la luz la exigencia que profundizó el conflicto familiar",
-   "nota_url": "https://www.canalnet.tv/espectaculos/tini-stoessel-freno-el-acuerdo-millonario-con-su-padre-y-salio-a-la-luz-la-exigencia-que-profundizo-el-conflicto-familiar_20261112/",
-   "medio": "Net tv | Aire Fresco",
+   "nota": "“Es Boca”: la frase de Arcucci que mete a Riquelme en la pelea por Rodrigo De Paul",
+   "nota_url": "https://elintransigente.com/2026/11/10/es-boca-frase-arcucci-mete-riquelme-pelea-rodrigo-paul/",
+   "medio": "El Intransigente",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "barcelona - arsenal",
-   "busquedas": "500+",
-   "nota": "FC Barcelona News: 12 November 2026",
-   "nota_url": "https://sports.yahoo.com/articles/fc-barcelona-news-12-november-100000402.html",
-   "medio": "Yahoo Sports",
+   "busquedas": "1000+",
+   "nota": "Footy Fix: UEFA Women's Champions League live stream, how to watch on Paramount+",
+   "nota_url": "https://www.cbssports.com/soccer/news/footy-fix-how-to-watch-uefa-womens-champions-league-paramount/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dakar",
    "busquedas": "200+",
-   "nota": "Corniche Ouest de Dakar : l’érosion côtière change les priorités du chantier",
-   "nota_url": "https://www.seneplus.com/article/corniche-ouest-de-dakar-lerosion-cotiere-change-les-priorites-du-chantier",
-   "medio": "SenePlus",
+   "nota": "Innovation agroalimentaire : la jeunesse ouest-africaine récompensée à Dakar en marge des JOJ 2026",
+   "nota_url": "https://www.pressafrik.com/Innovation-agroalimentaire-la-jeunesse-ouest-africaine-recompensee-a-Dakar-en-marge-des-JOJ-2026_a314496.html",
+   "medio": "Pressafrik",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "liga de naciones",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Por qué el Italia vs. Francia de Nations League puede marcar el futuro de la Azzurra",
    "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17504599/italia-francia-nations-league-marcar-futuro-azzurra",
    "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "premio",
-   "busquedas": "200+",
-   "nota": "El argentino que anotó las últimas palabras de su abuelo y ganó un premio de novela en Estados Unidos",
-   "nota_url": "https://www.infobae.com/cultura/2026/11/12/el-argentino-que-anoto-las-ultimas-palabras-de-su-abuelo-y-gano-un-premio-de-novela-en-estados-unidos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "11 de septiembre",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "turquía - bélgica",
-   "busquedas": "5000+",
-   "nota": "Fútbol libre por el celular: cómo ver EN VIVO Turquía vs. Bélgica por la Nations League",
-   "nota_url": "https://www.minutouno.com/deportes/futbol-libre-el-celular-como-ver-vivo-turquia-vs-belgica-la-nations-league-n6344141",
-   "medio": "MinutoUno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "erick pulgar",
-   "busquedas": "200+",
-   "nota": "Atentos: River tiene en carpeta a Erick Pulgar",
-   "nota_url": "https://www.cronica.com.ar/depo/actualidad/atentos-river-tiene-en-carpeta-a-erick-pulgar/",
-   "medio": "Crónica",
    "relevante": false,
    "temas": []
   }
