@@ -1,10 +1,19 @@
 {
- "actualizado": "12/11 01:46",
+ "actualizado": "12/11 02:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "canal 13",
+   "busquedas": "100+",
+   "nota": "Las razones de la emoción de Javier Milei en la despedida a León XIV al pie del avión en Ezeiza",
+   "nota_url": "https://www.lanacion.com.ar/politica/javier-milei-se-emociono-al-despedir-al-papa-leon-xiv-en-ezeiza-nid11112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
   {
    "tema": "sandro mamukelashvili",
    "busquedas": "100+",
@@ -16,7 +25,7 @@
   },
   {
    "tema": "es mi sueño",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "El Puma Rodríguez se fue de Es mi sueño en pleno programa y sorprendió a Abel Pintos: “Iba a llegar este momento”",
    "nota_url": "https://radiomitre.cienradios.com/videos/el-puma-rodriguez-se-fue-de-es-mi-sueno-en-pleno-programa-y-sorprendio-a-abel-pintos-iba-a-llegar-este-momento/",
    "medio": "Radio Mitre",
@@ -24,17 +33,17 @@
    "temas": []
   },
   {
-   "tema": "golden state warriors",
-   "busquedas": "200+",
-   "nota": "Warriors vs. Rockets predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus for NBA showdown",
-   "nota_url": "https://www.cbssports.com/prediction/news/warriors-vs-rockets-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-for-nba-showdown/",
-   "medio": "CBS Sports",
-   "relevante": false,
+   "tema": "recompensa",
+   "busquedas": "1000+",
+   "nota": "El Gobierno ofrece una recompensa de 20.000.000 de pesos para quien aporte información para atrapar a Leonardo Bertulazzi",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/el-gobierno-ofrece-una-recompensa-de-20000000-de-pesos-para-quien-aporte-informacion-para-atrapar-a-nid11112026/",
+   "medio": "La Nación",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "paolo el rockero",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Murió Paolo el Rockero, ícono del humor de los 80: tenía 68 años",
    "nota_url": "https://radiomitre.cienradios.com/espectaculos/murio-paolo-el-rockero-icono-del-humor-de-los-80-tenia-68-anos/",
    "medio": "Radio Mitre",
@@ -43,7 +52,7 @@
   },
   {
    "tema": "trail blazers - thunder",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "NBA Prop Bets: Thunder at Trail Blazers Best Bets for Wednesday 11/11/26",
    "nota_url": "https://dknetwork.draftkings.com/2026/11/11/thunder-vs-trail-blazers-best-nba-prop-bets/",
    "medio": "DraftKings Network",
@@ -62,9 +71,9 @@
   {
    "tema": "rockets - warriors",
    "busquedas": "2000+",
-   "nota": "Steph Curry suffers early exit from Warriors-Rockets game with abdominal injury",
-   "nota_url": "https://www.santacruzsentinel.com/2026/11/11/steph-curry-warriors-abdominal-injury-rockets/",
-   "medio": "Santa Cruz Sentinel",
+   "nota": "NBA suffers double injury scare as Steph Curry and Luka Doncic exit their respective games",
+   "nota_url": "https://www.basketballnetwork.net/latest-news/nba-suffers-double-injury-scare-as-steph-curry-and-luka-doncic-exit-their-respective-games",
+   "medio": "Basketball Network",
    "relevante": false,
    "temas": []
   },
@@ -72,27 +81,18 @@
    "tema": "grizzlies - nuggets",
    "busquedas": "200+",
    "nota": "GRIZZLIES POSTCAST: Nikola Jokic Superstar Calls & Coaching Issues",
-   "nota_url": "https://www.wbir.com/video/sports/locked-on/lo-tennessee/grizzlies-postcast/grizzlies-postcast-nikola-jokic-superstar-calls-coaching-issues/535-b5015bac-6edd-4afc-82a2-cf133615a705",
-   "medio": "WBIR",
+   "nota_url": "https://www.firstcoastnews.com/video/sports/locked-on/lo-tennessee/grizzlies-postcast/grizzlies-postcast-nikola-jokic-superstar-calls-coaching-issues/535-b5015bac-6edd-4afc-82a2-cf133615a705",
+   "medio": "firstcoastnews.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ricardo rodríguez dt",
    "busquedas": "2000+",
-   "nota": "Falleció Ricardo Rodríguez, exentrenador de Atlético Tucumán",
-   "nota_url": "https://www.eltucumano.com/noticia/deportes/327605/fallecio-ricardo-rodriguez-exentrenador-de-atletico-tucuman?dnd=cat&src=ph&pos=5&dis=desk",
-   "medio": "el tucumano",
+   "nota": "Murió un histórico DT que amargó a Bianchi en La Bombonera y a River en la \"B\"",
+   "nota_url": "https://www.quepasasalta.com.ar/tiro-libre/murio-ricardo-negro-rodriguez-entrenador-ascenso/",
+   "medio": "Que Pasa Salta",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paro de subtes",
-   "busquedas": "1000+",
-   "nota": "Paro en el subte por la muerte de otro trabajador a causa del Asbesto: Emova y Macri son responsables",
-   "nota_url": "https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son",
-   "medio": "La Izquierda Diario",
-   "relevante": true,
    "temas": []
   }
  ],
