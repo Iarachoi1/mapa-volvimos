@@ -1,97 +1,99 @@
 {
- "actualizado": "13/11 18:36",
+ "actualizado": "13/11 19:33",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "eslovaquia vs",
-   "busquedas": "100+",
-   "nota": "Alineaciones de Eslovaquia e Islas Feroe para el duelo de la fecha 5 de la Liga de Naciones",
-   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-eslovaquia-e-islas-feroe-para-el-duelo-de-la-fecha-5-de-la-liga-de-naciones",
-   "medio": "Bolavip Argentina",
+   "tema": "clima cordoba",
+   "busquedas": "1000+",
+   "nota": "Advierten por tormentas fuertes en Córdoba, con lluvias intensas y ráfagas de hasta 90 km/h",
+   "nota_url": "https://prensa.cba.gov.ar/advierten-por-tormentas-fuertes-en-cordoba-con-lluvias-intensas-y-rafagas-de-hasta-90-km-h/",
+   "medio": "Prensa Cba",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "fox sports",
+   "tema": "vivienda",
    "busquedas": "100+",
-   "nota": "Giants news: Giants lose to Commanders, more",
-   "nota_url": "https://sports.yahoo.com/articles/giants-news-giants-lose-commanders-110000395.html",
-   "medio": "Yahoo Sports",
+   "nota": "Los jóvenes se mudan cada vez más tarde y en CABA los inquilinos son 12% más que hace 20 años",
+   "nota_url": "https://www.tiempoar.com.ar/ta_article/los-jovenes-se-mudan-cada-vez-mas-tarde-y-en-caba-los-inquilinos-son-12-mas-que-hace-20-anos/",
+   "medio": "Tiempo Argentino",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "argentina - uruguay",
+   "busquedas": "20000+",
+   "nota": "Argentina vs. Uruguay: el primer gran examen sin Messi y un desafío especial para el nuevo equipo de Scaloni",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-uruguay-el-primer-gran-examen-sin-messi-y-un-desafio-especial-para-el-nuevo-equipo-de-nid13112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "plus ultra",
+   "tema": "colo colo vs racing",
+   "busquedas": "500+",
+   "nota": "Colo-Colo vs. Racing, por un amistoso internacional: seguilo EN VIVO",
+   "nota_url": "https://www.tycsports.com/racing-club/amistoso-internacional-racing-vs-colo-colo-id771501.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adrian suar",
+   "busquedas": "500+",
+   "nota": "Cómo es el nuevo proyecto de Guillermo Francella y Suar en Disney: primera película juntos",
+   "nota_url": "https://elintransigente.com/2026/11/07/guillermo-francella-adrian-suar-pelicula-disney/",
+   "medio": "El Intransigente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "crisis sanitaria",
    "busquedas": "100+",
-   "nota": "Plus Ultra prepara un ERE que amenaza a sus 679 trabajadores y recorta flota y rutas tras el polémico rescate de 53 millones del Gobierno",
-   "nota_url": "https://www.elmundo.es/economia/2026/11/13/6af60b8221efa045068b457e.html",
-   "medio": "El Mundo",
+   "nota": "Paro de subtes: las líneas no prestan servicio hasta el cierre por una medida de fuerza de Metrodelegados",
+   "nota_url": "https://www.clarin.com/politica/paro-subtes-hoy-hora-empieza-lineas-afectadas-medida-fuerza-metrodelegados_0_Wt0xGXNd0T.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "wta finals",
+   "tema": "aryna sabalenka",
+   "busquedas": "1000+",
+   "nota": "Where to watch Aryna Sabalenka vs. Elina Svitolina WTA Finals tennis for free today",
+   "nota_url": "https://www.mlive.com/tv/2026/11/where-to-watch-aryna-sabalenka-vs-elina-svitolina-wta-finals-tennis-for-free-today.html",
+   "medio": "MLive.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estados unidos",
+   "busquedas": "1000+",
+   "nota": "Última hora de suspensión de todos los vuelos nacionales en EE.UU.: noticias, retrasos y más",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/ultima-hora-suspension-vuelos-eeuu-noticias-retrasos-trax",
+   "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "faa",
+   "busquedas": "2000+",
+   "nota": "FAA issues nationwide ground stop for all U.S. airports",
+   "nota_url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+   "medio": "NPR",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "falleció brian tracy",
    "busquedas": "200+",
-   "nota": "Karolina Muchova withdraws from WTA Finals due to illness",
-   "nota_url": "https://www.espn.com/tennis/story/_/id/50474113/karolina-muchova-withdraws-wta-finals-due-illness",
-   "medio": "ESPN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "amistosos internacionales",
-   "busquedas": "100+",
-   "nota": "Fecha FIFA: Chile visita a Colombia con el objetivo de prolongar su buen momento futbolístico",
-   "nota_url": "https://www.ellitoral.com/deportes/colombia-chile-cali-fechafifa-nestorlorenzo-pascualguerrero_0_8L9OGr5mgc.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "uefa nations league",
-   "busquedas": "200+",
-   "nota": "England 2 Croatia 1: Kane bends game to his will on record-breaking night",
-   "nota_url": "https://www.telegraph.co.uk/football/2026/11/12/england-vs-croatia-live-score-latest-nations-league-updates/",
-   "medio": "The Telegraph",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "as",
-   "busquedas": "100+",
-   "nota": "Lovers and spies: How foreign agents have long used ‘honey traps’ to steal secrets",
-   "nota_url": "https://www.cnn.com/2026/11/13/world/honey-trap-spies-jensen-huang-nvidia-intl-hnk",
-   "medio": "CNN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hielo",
-   "busquedas": "500000+",
-   "nota": "Vuelven las tormentas a Buenos Aires: cómo va a estar el tiempo este fin de semana, según el Servicio Meteorológico Nacional",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/12/vuelven-las-tormentas-al-amba-como-va-a-estar-el-tiempo-este-fin-de-semana/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fútbol sala",
-   "busquedas": "200+",
-   "nota": "El filial del Torreblanca se enfrenta a la revelación, el Granada FS - El Faro de Melilla",
-   "nota_url": "https://elfarodemelilla.es/el-filial-del-torreblanca-se-enfrenta-a-la-revelacion-el-granada-fs/",
-   "medio": "El Faro de Melilla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "scarlett johansson",
-   "busquedas": "200+",
-   "nota": "Scarlett Johansson Says Some Studio Movies Are ‘Irresponsible’ to Make",
-   "nota_url": "https://www.aol.com/articles/scarlett-johansson-says-studio-movies-144123000.html",
-   "medio": "AOL.com",
+   "nota": "Murió Brian Tracy, referente mundial del desarrollo personal y reconocido en las redes sociales",
+   "nota_url": "https://ushuaia24.com.ar/contenido/29156/murio-brian-tracy-seminario-fenix-videos-virales",
+   "medio": "Ushuaia 24",
    "relevante": false,
    "temas": []
   }
