@@ -1,22 +1,76 @@
 {
- "actualizado": "13/11 13:41",
+ "actualizado": "13/11 14:39",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "clima santa fe",
-   "busquedas": "500+",
-   "nota": "Todo lo que tenés que saber antes de salir de casa este jueves 12 de noviembre",
-   "nota_url": "https://www.ellitoral.com/area-metropolitana/santafe-serviciometeorologiconacional-puentecarretero-epe-santotome-autopistasantafe-rosario-rioparana-rutaprovincial1-coronda_0_29bU7MRze2.html",
-   "medio": "El Litoral",
+   "tema": "valentin carboni",
+   "busquedas": "100+",
+   "nota": "La noticia que alegró a todo Racing en la previa del amistoso frente a Colo Colo",
+   "nota_url": "https://www.cronica.com.ar/depo/actualidad/la-noticia-que-alegro-a-todo-racing-en-la-previa-del-amistoso-frente-a-colo-colo/",
+   "medio": "Crónica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima rosario",
+   "busquedas": "2000+",
+   "nota": "El tiempo en Rosario: viernes con más calor y posibles tormentas aisladas",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-mas-calor-y-posibles-tormentas-aisladas-n10291950.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "villa cañas",
+   "busquedas": "200+",
+   "nota": "Poli reclamó información municipal: balances y decretos bajo análisis",
+   "nota_url": "https://novedadesdelsur.com.ar/contenido/94212/poli-reclamo-informacion-municipal-balances-y-decretos-bajo-analisis",
+   "medio": "Novedades del Sur",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "iván hurtado",
+   "busquedas": "200+",
+   "nota": "“Lo van a alabar…” William Pacho no duda y manda este mensaje sobre Kendry Páez",
+   "nota_url": "https://bolavip.com/futbol-ecuador/lo-van-a-alabar-william-pacho-no-duda-y-manda-este-mensaje-sobre-kendry-paez",
+   "medio": "Bolavip",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
+   "busquedas": "200+",
+   "nota": "Clima en Entre Ríos hoy viernes 13 de noviembre: cielo cubierto y calor",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/13/clima-en-entre-rios-hoy-viernes-13-de-noviembre-cielo-cubierto-y-calor/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nigeria - tanzania",
+   "busquedas": "100+",
+   "nota": "AFCON 2027Q: Suleiman reacts to maiden Super Eagles invitation",
+   "nota_url": "https://dailypost.ng/2026/11/13/afcon-2027q-suleiman-reacts-to-maiden-super-eagles-invitation/",
+   "medio": "Daily Post Nigeria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "selección de fútbol de cabo verde",
+   "busquedas": "100+",
+   "nota": "Chile vs México de S65-SELECCIONES NACIONALES SUB-20",
+   "nota_url": "https://futbolme.com/resultados-directo/partido/chile-mexico/1373390",
+   "medio": "Futbolme",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "juan martín del potro",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Autorizan la extradición a EE.UU. a los ladrones acusados de robar a Del Potro y al esposo de Taylor Swift",
    "nota_url": "https://www.lavoz.com.ar/sucesos/autorizan-extradicion-eeuu-ladrones-acusados-robar-potro-esposo-taylor-swift_0_M6QUmNeXro.html",
    "medio": "La Voz del Interior",
@@ -25,74 +79,20 @@
   },
   {
    "tema": "taylor fritz",
-   "busquedas": "200+",
-   "nota": "The balance of Lorenzo Musetti's ATP season has been almost defined",
-   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171431/the-balance-of-lorenzo-musetti-s-atp-season-has-been-almost-defined/",
-   "medio": "Tennis World USA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clasificación para la copa africana de naciones",
-   "busquedas": "100+",
-   "nota": "Diomande se enfunda la '10' y asiste para liderar a Costa de Marfil",
-   "nota_url": "https://www.marca.com/futbol/2026/11/12/diomande-enfunda-10-asiste-liderar-costa-marfil.html",
-   "medio": "MARCA",
+   "busquedas": "500+",
+   "nota": "Lorenzo Musetti v Toby Samuel Odds",
+   "nota_url": "https://sportsbook.fanduel.com/tennis/atp-stockholm-2026/lorenzo-musetti-v-toby-samuel-36302622",
+   "medio": "FanDuel Sportsbook",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "protesta",
-   "busquedas": "100+",
-   "nota": "Organizaciones sociales ingresaron este jueves a un hipermercado de Carrefour para exigir alimentos",
-   "nota_url": "https://entreriosya.com.ar/organizaciones-sociales-ingresaron-este-jueves-a-un-hipermercado-de-carrefour-para-exigir-alimentos/",
-   "medio": "entreriosya",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avril lavigne",
-   "busquedas": "500+",
-   "nota": "Does Avril Lavigne Have Kids? What We Know About Her Baby Girl",
-   "nota_url": "https://hollywoodlife.com/feature/does-avril-lavigne-have-kids-baby-5583439/",
-   "medio": "Hollywood Life",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "banco central del paraguay",
-   "busquedas": "100+",
-   "nota": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
-   "nota_url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "corea del sur vs",
-   "busquedas": "100+",
-   "nota": "Ah, la alegría por el gol de empate de Oh Hyeon-gyu duró poco... Corea concede dos goles a Arabia Saudita en 3 minutos y cae 1-3 en la segunda parte",
-   "nota_url": "https://www.starnewskorea.com/es/sports/2026/11/14/2026111323280225330",
-   "medio": "스타뉴스",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa argentina 2026",
-   "busquedas": "200+",
-   "nota": "Copa Argentina: entradas para personas con discapacidad para el partido entre Boca y Banfield",
-   "nota_url": "https://prensa.mendoza.gob.ar/copa-argentina-entradas-para-personas-con-discapacidad-para-el-partido-entre-boca-y-banfield/",
-   "medio": "PRENSA GOBIERNO DE MENDOZA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "windy",
-   "busquedas": "200+",
-   "nota": "Licensable video: US: Powerful Pacific Storm Brings Heavy Rain and Strong Winds to Oregon Coast",
-   "nota_url": "https://www.reutersconnect.com/item/us-powerful-pacific-storm-brings-heavy-rain-and-strong-winds-to-oregon-coast/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDI0MjEwMQ",
-   "medio": "Reuters Connect",
-   "relevante": false,
+   "busquedas": "2000+",
+   "nota": "Un sindicato aplicó un inusual \"paro a la japonesa\" en Aeroparque y Ezeiza: cuál es la situación para los pasajeros",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/13/un-sindicato-aplico-un-inusual-paro-a-la-japonesa-en-aeroparque-y-ezeiza-cual-es-la-situacion-para-los-pasajeros/",
+   "medio": "Infobae",
+   "relevante": true,
    "temas": []
   }
  ],
