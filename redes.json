@@ -1,5 +1,5 @@
 {
- "actualizado": "13/11 00:40",
+ "actualizado": "13/11 01:46",
  "fuentes_con_error": [
   "tendencias_x"
  ],
@@ -7,10 +7,28 @@
  "google": [
   {
    "tema": "cáncer de próstata",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Cáncer de próstata: expertos de Estados Unidos cambiaron las recomendaciones y aconsejan controles periódicos",
    "nota_url": "https://www.eldia.com/informacion-general/cancer-de-prostata-expertos-de-estados-unidos-cambiaron-las-recomendaciones-y-aconsejan-controles-periodicos-informacion-general_1794527508",
    "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "detroit pistons",
+   "busquedas": "100+",
+   "nota": "Cade Cunningham scores career-high 52, makes NBA history",
+   "nota_url": "https://www.nba.com/watch/video/cade-cunningham-scores-career-high-52-makes-nba-history?plsrc=nba&collection=must-watch-videos",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "viernes 13",
+   "busquedas": "200+",
+   "nota": "Horóscopo de hoy: descubre qué te depara el universo este viernes 13 de noviembre de 2026",
+   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-viernes-13-noviembre-2026_0_QTUxPTcAqL.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
@@ -25,10 +43,10 @@
   },
   {
    "tema": "suns - hornets",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "busquedas": "200+",
+   "nota": "Game Thread: Phoenix Suns face Charlotte Hornets",
+   "nota_url": "https://sports.yahoo.com/articles/game-thread-phoenix-suns-face-010000427.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -60,38 +78,20 @@
    "temas": []
   },
   {
-   "tema": "daddy yankee",
-   "busquedas": "200+",
-   "nota": "Latin Grammys 2026: Daddy Yankee claims his key to the Latin Grammys kingdom",
-   "nota_url": "https://www.latimes.com/delos/live/latin-grammys-2026-red-carpet-awards-show-live-blog",
-   "medio": "Los Angeles Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "apagon mundial noviembre 2026",
    "busquedas": "200+",
-   "nota": "¿Debes preparar tu mochila de emergencia? Esto se sabe sobre el apagón de noviembre",
-   "nota_url": "https://abcnoticias.mx/tendencia/2026/11/12/debes-preparar-tu-mochila-de-emergencia-esto-se-sabe-sobre-el-apagon-de-noviembre-295265.html",
-   "medio": "ABC Noticias",
+   "nota": "¿Se viene un apagón mundial? Un rumor en redes anuncia que la semana que viene 33 países se quedarán sin luz ni Internet",
+   "nota_url": "https://tn.com.ar/tecno/novedades/2026/11/11/se-viene-un-apagon-la-semana-que-viene-el-rumor-viral-que-advierte-sobre-cortes-de-luz-e-internet-en-33-paises/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "gran premio de las vegas",
-   "busquedas": "200+",
-   "nota": "Recta final de temporada: cuándo y dónde vuelve a correr Franco Colapinto en la Fórmula 1",
-   "nota_url": "https://www.rionegro.com.ar/deportes/recta-final-de-temporada-cuando-y-donde-vuelve-a-correr-franco-colapinto-en-la-formula-1-4796414/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "unión tranviarios automotor",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "tema": "daddy yankee",
+   "busquedas": "500+",
+   "nota": "The top photos of the day by AP’s photojournalists",
+   "nota_url": "https://wtop.com/national/2026/11/the-top-photos-of-the-day-by-aps-photojournalists-74/",
+   "medio": "WTOP News",
    "relevante": false,
    "temas": []
   }
