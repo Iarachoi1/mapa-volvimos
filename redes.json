@@ -1,13 +1,76 @@
 {
- "actualizado": "12/11 21:40",
+ "actualizado": "12/11 22:55",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "árbitro",
+   "tema": "eduardo eurnekian",
    "busquedas": "200+",
+   "nota": "El papa León XIV en Argentina: qué se sabe (y qué no) sobre cómo se financia la visita y quién la paga",
+   "nota_url": "https://chequeado.com/el-explicador/el-papa-leon-xiv-en-argentina-que-se-sabe-y-que-no-sobre-como-se-financia-la-visita-y-quien-la-paga/",
+   "medio": "Chequeado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alerta naranja bahía blanca",
+   "busquedas": "200+",
+   "nota": "Este viernes no habrá clases por el anuncio de condiciones meteorológicas adversas",
+   "nota_url": "https://www.puntanoticias.com.ar/node/25652",
+   "medio": "Punta Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - mavericks",
+   "busquedas": "200+",
+   "nota": "Mavericks-Timberwolves preview: Measuring-stick trip starts in Minnesota",
+   "nota_url": "https://www.nba.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "final libertadores",
+   "busquedas": "200+",
+   "nota": "Nueva venta de plateas para la final",
+   "nota_url": "https://estudiantesdelaplata.com/nueva-venta-de-plateas-para-la-final/",
+   "medio": "Estudiantes de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "martin fierro de cable 2026",
+   "busquedas": "200+",
+   "nota": "🔴 Martín Fierro de Cable 2026 en VIVO: todos lo nominados y los detalles de la ceremonia",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/12/martin-fierro-de-cable-2026-la-lista-de-nominados-y-todos-los-detalles-de-la-ceremonia/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "moline",
+   "busquedas": "200+",
+   "nota": "Moline riverfront restaurant announces opening day",
+   "nota_url": "https://www.kwqc.com/2026/11/11/moline-riverfront-restaurant-announces-opening-day/",
+   "medio": "KWQC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wizards - pistons",
+   "busquedas": "200+",
+   "nota": "Wizards take on the Pistons on 5-game skid",
+   "nota_url": "https://abcnews.com/Sports/wireStory/wizards-pistons-5-game-skid-138070616",
+   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "árbitro",
+   "busquedas": "500+",
    "nota": "Yago Piro, el gol que tanto buscó y la ilusión de Cipo: \"Que la gente siga creyendo en nosotros\"",
    "nota_url": "https://www.lmcipolletti.com/deportes/yago-piro-el-gol-que-tanto-busco-y-la-ilusion-cipo-que-la-gente-siga-creyendo-nosotros-n1260940",
    "medio": "LM Cipolletti",
@@ -16,7 +79,7 @@
   },
   {
    "tema": "curazao - panamá",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Manuel Morán no pudo dormir: lloró con su esposa por el llamado de Panamá",
    "nota_url": "https://www.espn.com.ar/futbol/costa-rica/nota/_/id/17482229/manuel-moran-panama-sueno",
    "medio": "ESPN Argentina",
@@ -25,73 +88,10 @@
   },
   {
    "tema": "76ers - raptors",
-   "busquedas": "200+",
-   "nota": "Raptors vs 76ers Prediction, Pick, NBA Odds for Thursday, November 12",
-   "nota_url": "https://sports.yahoo.com/articles/raptors-vs-76ers-prediction-pick-161454623.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "weather tomorrow",
    "busquedas": "500+",
-   "nota": "Canada's Daily Forecast - November 12, 2026",
-   "nota_url": "https://ca.news.yahoo.com/canadas-daily-forecast-november-12-034339593.html",
-   "medio": "Yahoo News Canada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mercado pago",
-   "busquedas": "1000+",
-   "nota": "Mercado Pago se sumó al FAL: ofrecerá a empleadores manejar los fondos para despidos que arranca en diciembre",
-   "nota_url": "https://www.clarin.com/economia/mercado-pago-sumo-fal-ofrecera-empleadores-manejar-fondos-despidos-arranca-diciembre_0_RsTOyc60PL.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "robert enke",
-   "busquedas": "100+",
-   "nota": "Zum 17. Todestag von Robert Enke: Wie ein krankes System Besserung verhindert – ein Kommentar",
-   "nota_url": "https://www.fr.de/sport/fussball/17-jahre-nach-robert-enkes-tod-hat-sich-rein-gar-nichts-geaendert-ein-kommentar-zr-94583994.html",
-   "medio": "Frankfurter Rundschau",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de selección de fútbol de senegal contra selección de fútbol de sudán",
-   "busquedas": "100+",
-   "nota": "Senegal vs. Sudan Lineups, Live Stream Options, How & Where to Watch AFCON Qualifiers on TV",
-   "nota_url": "https://sports.yahoo.com/articles/senegal-vs-sudan-lineups-live-173451142.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "instituto de obra social de las fuerzas armadas",
-   "busquedas": "200+",
-   "nota": "UPCN negocia para frenar 1.500 despidos proyectados en la obra social de las Fuerzas Armadas",
-   "nota_url": "https://gestionsindical.com/upcn-negocia-frenar-1-500-despidos-proyectados-obra-social-las-fuerzas-armadas/",
-   "medio": "Gestión Sindical",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "attaque 77",
-   "busquedas": "200+",
-   "nota": "Que dijo Ciro Pertussi sobre los rumores de su vuelta a Attaque 77",
-   "nota_url": "https://tn.com.ar/musica/noticias/2026/11/11/ciro-pertussi-hablo-sobre-los-rumores-de-su-vuelta-a-attaque-77-aguante-a-los-muchachos/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pasto - junior",
-   "busquedas": "200+",
-   "nota": "🔴 EN VIVO: Pasto vs. Junior - minuto a minuto y goles (Fecha 19)",
-   "nota_url": "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-pasto-vs-junior-minuto-a-minuto-y-goles-fecha-19-478225",
-   "medio": "Win Sports",
+   "nota": "Four things to watch as Sixers look to respond against Raptors",
+   "nota_url": "https://www.nbcphiladelphia.com/nba/philadelphia-76ers/sixers-raptors-things-to-watch-lebron-james-out/4496452/",
+   "medio": "NBC10 Philadelphia",
    "relevante": false,
    "temas": []
   }
