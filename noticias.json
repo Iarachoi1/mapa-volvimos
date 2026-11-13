@@ -1,8 +1,40 @@
 {
  "semana": "13 de noviembre de 2026",
  "fecha": "2026-11-13",
- "actualizado": "13/11 06:47",
+ "actualizado": "13/11 11:03",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "León XIV en Argentina: el viaje que Francisco no podía hacer",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "13/11/2026",
+     "url": "https://bardeo.news/politica/leon-xiv-en-argentina--el-viaje-que-francisco-no-podia-hacer_a6af6f0c07139d0df6ffa55ce"
+    },
+    {
+     "titulo": "Colectivos, motos, bocinas y boliches: ¿cómo controlar el ruido en la ciudad?",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "13/11/2026",
+     "url": "https://cenital.com/colectivos-motos-bocinas-y-boliches-como-controlar-el-ruido-en-la-ciudad/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Todos los ganadores del Martín Fierro de Cable 2026",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "13/11/2026",
+     "url": "https://bardeo.news/entretenimiento/todos-los-ganadores-del-martin-fierro-de-cable-2026_a6af6f2177139d0df6ffa78bf"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Tras la visita del papa León XIV, Milei enfrenta una caída en su imagen",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "13/11/2026",
+     "url": "https://cenital.com/tras-la-visita-del-papa-leon-xiv-milei-enfrenta-una-caida-en-su-imagen/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    }
+   ]
+  },
   "CABA": {
    "top3": [
     {
@@ -13,11 +45,25 @@
      "tag": "Política"
     },
     {
-     "titulo": "Medida oficial El Gobierno anunció nuevas licitaciones para concesionar 27 tramos de rutas nacionales: a qué provincias alcanza esta medida La medida se anunció a través del decreto N° 1358/2026 publicado el Boletín Oficial.",
+     "titulo": "Medida oficial El Gobierno anunció nuevas licitaciones para concesionar 27 tramos de rutas nacionales: a qué provincias alcanza esta medida",
      "medio": "Perfil",
      "fecha": "13/11/2026",
      "url": "https://www.perfil.com/politica/el-gobierno-anuncio-nuevas-licitaciones-para-concesionar-27-tramos-de-rutas-nacionales-a-que-provincias-alcanza-esta-medida-aEwui5p6aIXG",
      "tag": "Gestión"
+    },
+    {
+     "titulo": "Se conocieron los nombres de los ganadores de los Premios Parlamentario 2026 en la Legislatura porteña",
+     "medio": "El Parlamentario",
+     "fecha": "13/11/2026",
+     "url": "https://www.parlamentario.com/2026/11/13/se-conocieron-los-nombres-de-los-ganadores-de-los-premios-parlamentario-2026-en-la-legislatura-portena/",
+     "tag": "Gabinete"
+    },
+    {
+     "titulo": "Milei busca suspender las PASO en medio de la interna con Bullrich",
+     "medio": "El Destape",
+     "fecha": "13/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-viernes-13-noviembre-minuto-minuto-2026111372749",
+     "tag": "Política"
     },
     {
      "titulo": "De espaldas al Papa: Milei sigue frenando la ley de ludopatía",
@@ -31,6 +77,13 @@
      "medio": "Perfil",
      "fecha": "13/11/2026",
      "url": "https://www.perfil.com/politica/alfombra-magica-milei-aprovecho-la-visita-del-papa-para-renovar-las-alfombras-y-cortinas-de-la-casa-rosada-por-209-millones-a1kJ73K3ZxtM",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El director de Fundación Faro planteó cómo sostener las reformas más allá de Milei: “Un cambio cultural”",
+     "medio": "Infobae",
+     "fecha": "13/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/13/el-director-de-fundacion-faro-planteo-como-sostener-las-reformas-mas-alla-de-milei-un-cambio-cultural/",
      "tag": "Política"
     },
     {
@@ -48,28 +101,26 @@
      "tag": "Política"
     },
     {
-     "titulo": "Jubilados, piqueteros y partidos de izquierda reactivan el plan de lucha contra el Gobierno a horas de la partida del Papa",
-     "medio": "Infobae",
+     "titulo": "Milei eludió hablar de la suba de la inflación y prometió abrir más la economía",
+     "medio": "La Politica Online",
      "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "Minuto a minuto. “Lo único que le faltaba al país eran reglas claras”, dijo Milei",
-     "medio": "La Nación",
-     "fecha": "13/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/",
+     "url": "https://www.lapoliticaonline.com/politica/milei-eludio-hablar-de-la-suba-de-la-inflacion-y-prometio-abrir-mas-la-economia/",
      "tag": "Política"
-    },
-    {
-     "titulo": "El Gobierno ordenó el regreso a la Argentina del embajador en Emiratos Árabes Unidos",
-     "medio": "Infobae",
-     "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/el-gobierno-ordeno-el-regreso-a-la-argentina-del-embajador-en-emiratos-arabes-unidos/",
-     "tag": "Gestión"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Una encuesta le da a Kicillof diez puntos de ventaja en un ballotage con Milei",
+     "medio": "La Politica Online",
+     "fecha": "13/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/una-encuesta-le-da-a-kicillof-diez-puntos-de-ventaja-en-un-ballotage-con-milei/"
+    },
+    {
+     "titulo": "Patricia supera en imagen positiva a Milei, que está quinto",
+     "medio": "La Politica Online",
+     "fecha": "13/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/patricia-supera-en-imagen-positiva-a-milei-que-esta-quinto/"
+    },
     {
      "titulo": "OPINIÓN PÚBLICA Una encuesta midió a 18 presidentes latinoamericanos: ¿Cómo quedó Milei y quién perdió más imagen? Felipe Leibovich",
      "medio": "Perfil",
@@ -78,6 +129,101 @@
     }
    ]
   },
+  "Buenos Aires": {
+   "top3": [
+    {
+     "titulo": "Reelecciones indefinidas en PBA: la presión de los intendentes y los rumores de extraordinarias antes de Navidad ESCENARIOS",
+     "medio": "La Tecla",
+     "fecha": "13/11/2026",
+     "url": "https://www.latecla.info/171136-reelecciones-indefinidas-en-pba-la-presion-de-los-intendentes-y-los-rumores-de-extraordinarias-antes-de-navidad"
+    },
+    {
+     "titulo": "LA TECLA MAR DEL PLATA Presupuesto 2027: Montenegro entra en tiempo de descuento y crecen las incógnitas",
+     "medio": "La Tecla",
+     "fecha": "13/11/2026",
+     "url": "https://www.latecla.info/171133-presupuesto-2027-montenegro-entra-en-tiempo-de-descuento-y-crecen-las-incognitas"
+    },
+    {
+     "titulo": "El Senado bonaerense avanzó con un proyecto para ordenar las prioridades de paso en las calles y rutas",
+     "medio": "Noticia 1",
+     "fecha": "13/11/2026",
+     "url": "https://www.lanoticia1.com/noticia/el-senado-bonaerense-avanzo-con-un-proyecto-para-ordenar-las-prioridades-de-paso-en-las-calles-y-rutas"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Una encuesta le da a Kicillof diez puntos de ventaja en un ballotage con Milei",
+     "medio": "La Politica Online",
+     "fecha": "13/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/una-encuesta-le-da-a-kicillof-diez-puntos-de-ventaja-en-un-ballotage-con-milei/"
+    }
+   ]
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Empleo público ATE rechazó el proyecto de Raúl Jalil para pasar estatales al sector privado",
+     "medio": "El Ancasti",
+     "fecha": "13/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/ate-rechazo-el-proyecto-raul-jalil-pasar-estatales-al-sector-privado-n625973"
+    },
+    {
+     "titulo": "Elecciones 2027 Pablo Figueroa comenzó su armado político con aspiraciones de llegar al Concejo de Los Altos",
+     "medio": "El Ancasti",
+     "fecha": "13/11/2026",
+     "url": "https://www.elancasti.com.ar/pablo-figueroa-comenzo-su-armado-politico-aspiraciones-llegar-al-concejo-los-altos-n625986"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Deuda a corto plazo: la Legislatura autorizó al Ejecutivo a emitir letras del Tesoro para 2027",
+     "medio": "ADN Sur",
+     "fecha": "13/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/deuda-a-corto-plazo--la-legislatura-autorizo-al-ejecutivo-a-emitir-letras-del-tesoro-para-2027_a6af6ee4638c99f7f8ff3a5fa"
+    },
+    {
+     "titulo": "Apuesta tecnológica en Chubut: la Legislatura aprobó el régimen para financiar emprendimientos y retener talento joven",
+     "medio": "ADN Sur",
+     "fecha": "13/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/apuesta-tecnologica-en-chubut--la-legislatura-aprobo-el-regimen-para-financiar-emprendimientos-y-retener-talento-joven_a6af6f1ae38c99f7f8ff41adf"
+    },
+    {
+     "titulo": "Glinski presentó al PJ su propuesta para gobernar Chubut en 2027",
+     "medio": "Diario Jornada",
+     "fecha": "13/11/2026",
+     "url": "https://www.diariojornada.com.ar/427019/politica/glinski_presento_al_pj_su_propuesta_para_gobernar_chubut_en_2027"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Inseguridad latente. Crimen del repartidor en Alta Córdoba: cayó un menor de 17 años señalado como el autor material",
+     "medio": "Cadena3",
+     "fecha": "13/11/2026",
+     "url": "https://www.cadena3.com/noticia/radioinforme-3/crimen-del-repartidor-en-alta-cordoba-cayo-un-menor-de-17-anos-senalado-como-el-autor-material_612766",
+     "tag": "También en CBA24N, Hoy Dia"
+    },
+    {
+     "titulo": "Un nuevo cóndor andino fue liberado con rastreador satelital en el Parque Nacional Quebrada del Condorito",
+     "medio": "Prensa oficial de Córdoba",
+     "fecha": "13/11/2026",
+     "url": "https://prensa.cba.gov.ar/un-nuevo-condor-andino-fue-liberado-con-rastreador-satelital-en-el-parque-nacional-quebrada-del-condorito/",
+     "tag": "También en Hoy Dia"
+    },
+    {
+     "titulo": "Cuadro de situación. A un año de las elecciones, el Gobierno luce desgastado y perdió la iniciativa",
+     "medio": "Cadena3",
+     "fecha": "13/11/2026",
+     "url": "https://www.cadena3.com/noticia/cuadro-de-situacion/a-un-ano-de-las-elecciones-el-gobierno-luce-desgastado-y-perdio-la-iniciativa_612730"
+    }
+   ],
+   "imagen": []
+  },
   "Entre Ríos": {
    "top3": [
     {
@@ -85,7 +231,7 @@
      "medio": "El Once",
      "fecha": "13/11/2026",
      "url": "https://www.elonce.com/politica/concesiones-de-rutas-incluyen-la-ruta-12-de-entre-rios.htm",
-     "tag": "También en Ahora"
+     "tag": "También en AFP Digital"
     },
     {
      "titulo": "Este viernes se reanuda la paritaria docente: AGMER define su postura en un congreso",
@@ -94,10 +240,10 @@
      "url": "https://www.elonce.com/politica/paritaria-docente-agmer-define-su-postura-este-viernes.htm"
     },
     {
-     "titulo": "Milei defendió la tecnología: “Se traduce en salarios más altos”",
-     "medio": "Ahora",
+     "titulo": "La Cámara de Diputados dio media sanción al Presupuesto 2027",
+     "medio": "UNO ER",
      "fecha": "13/11/2026",
-     "url": "https://ahora.com.ar/politica/milei-tecnologia-salarios-empleo-gala-endeavor"
+     "url": "https://www.unoentrerios.com.ar/la-provincia/la-camara-diputados-dio-media-sancion-al-presupuesto-2027-n10291989.html"
     }
    ],
    "imagen": []
@@ -111,10 +257,10 @@
      "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108651/la-legislatura-aprob-una-reforma-de-la-ley-orgnica-del-poder-judicial-y-ratific-a-gialluca-en-la-defensora/"
     },
     {
-     "titulo": "La Libertad Avanza cuestionó el rechazo del PJ a dos proyectos de repudio al diputado Pablo Sosa",
+     "titulo": "LLA convocó para debatir la suspensión de las PASO, pero dejó en manos del Gobierno los acuerdos con los aliados",
      "medio": "La Mañana",
      "fecha": "13/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108652/la-libertad-avanza-cuestion-el-rechazo-del-pj-a-dos-proyectos-de-repudio-al-diputado-pablo-sosa/"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108657/lla-convoc-para-debatir-la-suspensin-de-las-paso-pero-dej-en-manos-del-gobierno-los-acuerdos-con-los-aliados/"
     }
    ],
    "imagen": []
@@ -122,11 +268,10 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Jujuy: la Justicia Federal oficializó la Lista Celeste y Blanca para las internas del PJ",
-     "medio": "Jujuy al día",
+     "titulo": "Tomaron estado parlamentario los proyectos de Ordenanza Impositiva y Presupuesto Municipal",
+     "medio": "Somos Jujuy",
      "fecha": "13/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/13/jujuy-la-justicia-federal-oficializo-la-lista-celeste-y-blanca-para-las-internas-del-pj/",
-     "tag": "También en El Tribuno"
+     "url": "https://www.somosjujuy.com.ar/politica/tomaron-estado-parlamentario-proyectos-ordenanza-impositiva-presupuesto-municipal-n127114"
     },
     {
      "titulo": "Municipio presupuestó casi $252 mil millones para 2027",
@@ -135,28 +280,52 @@
      "url": "https://eltribunodejujuy.com/municipios/2026-11-13-0-0-0-municipio-presupuesto-casi-252-mil-millones-para-2027"
     },
     {
-     "titulo": "Aeropuerto Internacional \"Gobernador Horacio Guzmán\"",
-     "medio": "El Tribuno",
+     "titulo": "video Política. León XIV vuelve a Chiclayo con un mensaje de inclusión y defensa de los más vulnerables Por Redacción de TodoJujuy",
+     "medio": "Todo Jujuy",
      "fecha": "13/11/2026",
-     "url": "https://eltribunodejujuy.com/nota/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea"
+     "url": "https://www.todojujuy.com/politica/leon-xiv-vuelve-chiclayo-un-mensaje-inclusion-y-defensa-los-mas-vulnerables-n298792"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "La ONU no trató el pedido de Cristina Kirchner para ser candidata y se posterga para 2027",
-     "medio": "Jujuy al día",
-     "fecha": "13/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/13/la-onu-no-trato-el-pedido-de-cristina-kirchner-para-ser-candidata-y-se-posterga-para-2027/"
-    }
-   ]
+   "imagen": []
   },
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Renunció el CEO de Nvidia tras escándalo",
+     "titulo": "PIPA DE LA PAZ La Pampa: el peronismo pausó la interna y cerró filas para empujar el último presupuesto de Ziliotto Por Juan Pablo Gavazza",
+     "medio": "Letra P",
+     "fecha": "13/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-pampa-el-peronismo-pauso-la-interna-y-cerro-filas-empujar-el-ultimo-presupuesto-ziliotto-n5428190"
+    },
+    {
+     "titulo": "Las fotos y videos del temporal que azotó a Santa Rosa",
      "medio": "La Arena",
      "fecha": "13/11/2026",
-     "url": "https://www.laarena.com.ar/el-mundo/renuncio-el-ceo-de-nvidia-tras-escandalo-202611130120"
+     "url": "https://www.laarena.com.ar/la-pampa/las-fotos-del-temporal-viviendas-destrozadas-arboles-arrancados-y-el-intenso-trabajo-de-las-cuadrillas-202611131020",
+     "tag": "También en La Pampa Noticias"
+    },
+    {
+     "titulo": "El Gobierno provincial no descartó hacer un esfuerzo para pagar el bono de fin de año",
+     "medio": "La Pampa 24",
+     "fecha": "13/11/2026",
+     "url": "https://lapampa24.com.ar/la-pampa-hoy/el-gobierno-provincial-no-descarto-hacer-un-esfuerzo-para-pagar-el-bono-de-fin-de-ano/",
+     "tag": "También en La Arena"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "Una empresa riojana amplió su capacidad logística para trabajar en proyectos mineros de montaña",
+     "medio": "Nueva Rioja",
+     "fecha": "13/11/2026",
+     "url": "https://nuevarioja.com.ar/sociedad/una-empresa-riojana-amplio-su-capacidad-logistica-para-trabajar-en-proyectos-mineros-de-montania.htm"
+    },
+    {
+     "titulo": "Inflación de octubre: los 10 alimentos que más aumentaron de precio",
+     "medio": "Nueva Rioja",
+     "fecha": "13/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/inflacion-de-octubre-los-10-alimentos-que-mas-aumentaron-de-precio.htm"
     }
    ],
    "imagen": []
@@ -164,10 +333,70 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Súper Niño y la vendimia 2027: ¿cuánta uva habrá en Mendoza?",
-     "medio": "Mendoza Post",
+     "titulo": "Hogar Santa Marta: los vecinos denunciaron un negocio inmobiliario detrás del plan del Gobierno de trasladar a los ancianos",
+     "medio": "Diario UNO - MDZ",
      "fecha": "13/11/2026",
-     "url": "https://www.mendozapost.com/economia/vendimia-2027-mendoza-super-nino-coviar/"
+     "url": "https://www.diariouno.com.ar/politica/hogar-santa-marta-los-vecinos-denunciaron-un-negocio-inmobiliario-detras-del-plan-del-gobierno-trasladar-los-ancianos-n1615371"
+    },
+    {
+     "titulo": "Javier Milei aprobó el RIGI para dos proyectos de gas por más de U$S3.244 millones de inversión",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "13/11/2026",
+     "url": "https://www.diariouno.com.ar/economia/javier-milei-aprobo-el-rigi-dos-proyectos-gas-mas-us3244-millones-inversion-n1616140"
+    },
+    {
+     "titulo": "Menem presiona por las PASO y escala la interna con Bullrich",
+     "medio": "Memo",
+     "fecha": "13/11/2026",
+     "url": "https://www.memo.com.ar/poder/el-gobierno-acelera-la-suspension-de-las-paso-y-crece-la-tension-entre-menem-y-bullrich/"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "El concejal Héctor Cardozo se suma al bloque de Movimiento por lo que Viene",
+     "medio": "La Voz - Misiones",
+     "fecha": "13/11/2026",
+     "url": "https://lavozdemisiones.com/politica/el-concejal-hector-cardozo-se-suma-al-bloque-movimiento-por-lo-que-viene"
+    },
+    {
+     "titulo": "Adrián Núñez: \"Quiero ser gobernador para cambiar la historia de la provincia\"",
+     "medio": "La Voz - Misiones",
+     "fecha": "13/11/2026",
+     "url": "https://lavozdemisiones.com/politica/adrian-nunez-quiero-ser-gobernador-para-cambiar-la-historia-de-la-provincia"
+    },
+    {
+     "titulo": "Un albañil cayó de un andamio en Posadas y debió ser hospitalizado",
+     "medio": "El Territorio",
+     "fecha": "13/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/13/926873-un-albanil-cayo-de-un-andamio-en-posadas-y-debio-ser-hospitalizado",
+     "tag": "También en Primera Edición"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Tecnología de última generación Neuquén proyecta ampliar un 80% la red de cámaras de seguridad del área metropolitana",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "13/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/13/267179-neuquen-proyecta-ampliar-un-80por_ciento-la-red-de-camaras-de-seguridad-del-area-metropolitana",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
+    },
+    {
+     "titulo": "Concejo Deliberante San Martín de los Andes tendrá 13 concejales a partir de 2027",
+     "medio": "Noticias NQN",
+     "fecha": "13/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/13/360579-san-martin-de-los-andes-tendra-13-concejales-a-partir-de-2027"
+    },
+    {
+     "titulo": "Elecciones Arturo De Gregorio también buscará la reelección en Villa Pehuenia-Moquehue",
+     "medio": "Noticias NQN",
+     "fecha": "13/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/13/360582-arturo-de-gregorio-tambien-buscara-la-reeleccion-en-villa-pehuenia-moquehue"
     }
    ],
    "imagen": []
@@ -182,40 +411,50 @@
      "tag": "También en Noticias Net"
     },
     {
-     "titulo": "Ingresos récord: Neuquén recaudó el equivalente a la construcción de 55 escuelas técnicas en octubre",
+     "titulo": "Rutas nacionales: el Gobierno habilitó nuevas concesiones que incluyen tramos clave en Neuquén y Chubut",
      "medio": "Diario Rio Negro",
      "fecha": "13/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/ingresos-record-neuquen-recaudo-el-equivalente-a-la-construccion-de-55-escuelas-tecnicas-en-octubre/"
+     "url": "https://www.rionegro.com.ar/politica/rutas-nacionales-el-gobierno-habilito-nuevas-concesiones-que-incluyen-tramos-clave-en-neuquen-y-chubut-4796880/"
     },
     {
-     "titulo": "La audiencia del lunes por el GNL en Sierra Grande tendrá 248 expositores",
+     "titulo": "Temporal en Viedma: sin evacuados tras una noche de lluvia, con alerta naranja y actividades suspendidas",
      "medio": "Diario Rio Negro",
      "fecha": "13/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/la-audiencia-del-lunes-por-el-gnl-en-sierra-grande-tendra-248-expositores/"
+     "url": "https://www.rionegro.com.ar/sociedad/temporal-en-viedma-sin-evacuados-tras-una-noche-de-lluvia-con-alerta-naranja-y-actividades-suspendidas-4796905/",
+     "tag": "También en Noticias Net"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Alientan una candidatura de Cristina Kirchner en 2027 pese a la demora en la ONU",
+     "medio": "AN Roca",
+     "fecha": "13/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/13/232382-alientan-una-candidatura-de-cristina-kirchner-en-2027-pese-a-la-demora-en-la-onu",
+     "tag": "También en LCR, Noticias Net"
+    }
+   ]
   },
   "Salta": {
    "top3": [
     {
-     "titulo": "Elecciones provinciales de 2027: Salta irá a las urnas el 16 de mayo",
-     "medio": "El Tribuno",
+     "titulo": "Salta ya tiene fecha para las elecciones provinciales de 2027",
+     "medio": "Que Pasa Salta",
      "fecha": "13/11/2026",
-     "url": "https://www.eltribuno.com/salta/2026-11-13-0-0-0-elecciones-provinciales-de-2027-salta-ira-a-las-urnas-el-16-de-mayo"
-    },
-    {
-     "titulo": "Fuerte temporal en Embarcación: el Comité de Emergencias ya trabaja en la zona",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "13/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/fuerte-temporal-en-embarcacion-el-comite-de-emergencias-ya-trabaja-en-la-zona-111083",
+     "url": "https://www.quepasasalta.com.ar/politica/cuando-son-elecciones-salta-2027/",
      "tag": "También en El Tribuno"
     },
     {
-     "titulo": "El programa “Ver Para Ser Libres” continúa con los controles oftalmológicos y entrega de anteojos",
+     "titulo": "Lo acusan de faltar mucho | Originarios salteños rechazan a director designado en una escuela",
+     "medio": "Cuarto",
+     "fecha": "13/11/2026",
+     "url": "https://www.cuarto.com.ar/lo-acusan-de-faltar-mucho-originarios-saltenos-rechazan-a-director-designado-en-una-escuela/"
+    },
+    {
+     "titulo": "Embarcación: la situación está controlada y el Gobierno continúa con la asistencia a las familias damnificadas",
      "medio": "Prensa oficial de Salta",
      "fecha": "13/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/el-programa-ver-para-ser-libres-continua-con-los-controles-oftalmologicos-y-entrega-de-anteojos-111014"
+     "url": "https://www.salta.gob.ar/prensa/noticias/embarcacion-la-situacion-esta-controlada-y-el-gobierno-continua-con-la-asistencia-a-las-familias-damnificadas-111087",
+     "tag": "También en Nuevo Diario de Salta"
     }
    ],
    "imagen": []
@@ -223,10 +462,67 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "04:00 Elecciones de medio término en EEUU, de 1994 y 2026",
+     "titulo": "Tras el OK del Concejo, Daniela Rodríguez recategorizará 256 empleados en Chimbas",
+     "medio": "Tiempo de San Juan",
+     "fecha": "13/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/tras-el-ok-del-concejo-daniela-rodriguez-recategorizara-256-empleados-en-chimbas_1794568178",
+     "tag": "También en Diario de Cuyo, San Juan 8"
+    },
+    {
+     "titulo": "10:09 La sanjuanina Claudia Sarmiento juró como consejera de la Magistratura Nacional",
      "medio": "Diario de Cuyo",
      "fecha": "13/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/columnas-opinion/elecciones-medio-termino-eeuu-1994-y-2026-n6588435"
+     "url": "https://www.diariodecuyo.com.ar/politica/la-sanjuanina-claudia-sarmiento-juro-como-consejera-la-magistratura-nacional-n6588456",
+     "tag": "También en Tiempo de San Juan"
+    },
+    {
+     "titulo": "Chimbas aprobó la recategorización de 256 empleados municipales",
+     "medio": "Huarpe",
+     "fecha": "13/11/2026",
+     "url": "https://www.diariohuarpe.com/nota/chimbas-aprobo-la-recategorizacion-de-256-empleados-municipales-202611138590",
+     "tag": "También en Diario de Cuyo, El Zonda"
+    }
+   ],
+   "imagen": []
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "El gobernador Poggi le dio una cálida bienvenida a Sergio Nieto, quien cubrió la visita del Papa",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "13/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/13/1231558-el-gobernador-poggi-le-dio-una-calida-bienvenida-a-sergio-nieto-quien-cubrio-la-visita-del-papa/"
+    },
+    {
+     "titulo": "La Escuela Técnica N°32 fortalece la formación agropecuaria con prácticas y proyectos productivos",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "13/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/13/1231575-la-escuela-tecnica-n32-fortalece-la-formacion-agropecuaria-con-practicas-y-proyectos-productivos/"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Avanza el Régimen Electoral en la Legislatura",
+     "medio": "Mediatíca",
+     "fecha": "13/11/2026",
+     "url": "https://www.mediaticadigital.com.ar/nota/39778-avanza-el-regimen-electoral-en-la-legislatura/"
+    },
+    {
+     "titulo": "El Gobierno de Santa Cruz anunció la reactivación de la mina de oro y plata Manantial Espejo",
+     "medio": "La Opinión Austral",
+     "fecha": "13/11/2026",
+     "url": "https://laopinionaustral.com.ar/gobernador-gregores/el-gobierno-de-santa-cruz-anuncio-la-reactivacion-de-la-mina-de-oro-y-plata-manantial-espejo-731593.html",
+     "tag": "También en Tiempo Sur"
+    },
+    {
+     "titulo": "El Gobierno anunció que Minera Don Nicolás adquirió los activos de Triton para reactivar Manantial Espejo",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "13/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/locales/el-gobierno-anuncio-que-minera-don-nicolas-adquirio-los-activos-de-triton-para-reactivar-manantial-espejo-8898/",
+     "tag": "También en Winfo"
     }
    ],
    "imagen": []
@@ -240,10 +536,18 @@
      "url": "https://www.airedesantafe.com.ar/politica/violencia-genero-y-paridad-desafios-que-atraviesan-al-poder-judicial-santa-fe-n676512"
     },
     {
-     "titulo": "Qué es el \"efecto chicana\" del río frente a Santa Fe y por qué podría acentuar el pico de la crecida",
+     "titulo": "Qué significa que el río Paraná supere el nivel de alerta en Santa Fe",
      "medio": "Aire",
      "fecha": "13/11/2026",
-     "url": "https://www.airedesantafe.com.ar/santa-fe/que-es-el-efecto-chicana-que-se-produce-el-rio-parana-frente-santa-fe-y-que-podria-acentuar-el-pico-la-crecida-n676608"
+     "url": "https://www.airedesantafe.com.ar/santa-fe/que-significa-que-el-rio-parana-supere-el-nivel-alerta-santa-fe-n676682",
+     "tag": "También en UNO - SF"
+    },
+    {
+     "titulo": "Un muerto en un choque de tres camiones en la autopista Rosario-Buenos Aires",
+     "medio": "Rosario Plus",
+     "fecha": "13/11/2026",
+     "url": "https://www.rosarioplus.com/actualidad/seguridad/un-muerto-en-un-choque-de-tres-camiones-en-la-autopista-rosario-buenos-aires_a6af6f9c97139d0df6ffb5e2c",
+     "tag": "También en Rosario3, UNO - SF y 1 más"
     }
    ],
    "imagen": []
@@ -251,17 +555,23 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Las elecciones que nos esperan",
-     "medio": "Diario Panorama",
+     "titulo": "País Paro a la japonesa de ATE-ANAC en Ezeiza y Aeroparque por salarios congelados",
+     "medio": "Info del Estero",
      "fecha": "13/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572845/elecciones-nos-esperan"
+     "url": "https://infodelestero.com/2026/11/13/paro-a-la-japonesa-de-ate-anac-en-ezeiza-y-aeroparque-por-salarios-congelados",
+     "tag": "También en El Liberal"
     },
     {
-     "titulo": "El mensaje de Gerardo Zamora para Santi Alvarado tras consagrarse en los Latin Grammy",
+     "titulo": "Escándalo mundial en Nvidia: 12 claves para entender la trama de infidelidad y presunto espionaje chino que terminó con la renuncia de su CEO",
+     "medio": "Diario Panorama",
+     "fecha": "13/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572855/escandalo-mundial-nvidia-12-claves-para-entender-trama-infidelidad-presunto-espionaje-chino-termino-renuncia-ceo"
+    },
+    {
+     "titulo": "El Gobierno nacional concesionará por peaje tres rutas nacionales que atraviesan Santiago del Estero",
      "medio": "El Liberal",
      "fecha": "13/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97884/2026/11/el-mensaje-de-gerardo-zamora-para-santi-alvarado-tras-consagrarse-en-los-latin-grammy",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://www.elliberal.com.ar/nota/97895/2026/11/el-gobierno-nacional-concesionara-por-peaje-tres-rutas-nacionales-que-atraviesan-santiago-del-estero"
     }
    ],
    "imagen": [
@@ -293,16 +603,22 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "El Gobierno habilitó licitaciones para concesionar más de 25 tramos de rutas nacionales",
+     "titulo": "El Gobierno acelera la reforma electoral y busca la media sanción en el Senado antes de diciembre",
      "medio": "Los Primeros",
      "fecha": "13/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-gobierno-habilito-licitaciones-para-concesionar-mas-de-25-tramos-de-rutas-nacionales_a6af6d2017139d0df6ff8ce64"
+     "url": "https://www.losprimeros.tv/politica/el-gobierno-acelera-la-reforma-electoral-y-busca-la-media-sancion-en-el-senado-antes-de-diciembre_a6af6f96e7139d0df6ffb51c0"
     },
     {
-     "titulo": "Milei prometió llevar la apertura de la economía al 90%",
-     "medio": "Los Primeros",
+     "titulo": "La Legislatura aprobó la “Ley Joaquín” para reforzar la seguridad en clubes, escuelas y espacios públicos",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "13/11/2026",
-     "url": "https://www.losprimeros.tv/politica/milei-prometio-llevar-la-apertura-de-la-economia-al-90-_a6af6c8767139d0df6ff88dbd"
+     "url": "https://www.lagaceta.com.ar/nota/1162377/politica/legislatura-aprobo-ley-joaquin-para-reforzar-seguridad-clubes-escuelas-espacios-publicos.html"
+    },
+    {
+     "titulo": "El gobernador Jaldo defendió la paz social en Tucumán",
+     "medio": "LV12",
+     "fecha": "13/11/2026",
+     "url": "https://www.lv12.com.ar/osvaldo-jaldo/el-gobernador-jaldo-defendio-la-paz-social-tucuman-n206595"
     }
    ],
    "imagen": []
@@ -314,16 +630,18 @@
   "https://www.hcdiputados-ba.gov.ar/",
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
-  "https://prensa.cba.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
   "https://grupolaprovincia.com/",
+  "https://www.infocielo.com/",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
+  "https://ahora.com.ar/",
   "https://www.elcomercial.com.ar/",
+  "https://www.jujuyaldia.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://www.mdzol.com/mendoza",

@@ -1,58 +1,85 @@
 {
- "actualizado": "13/11 09:47",
+ "actualizado": "13/11 11:03",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "la noche de los museos 2026",
-   "busquedas": "200+",
-   "nota": "¿Qué vas a leer con tu hijo esta noche? Arte para chicos en la Noche de los Museos",
-   "nota_url": "https://www.lanacion.com.ar/cultura/que-vas-a-leer-con-tu-hijo-esta-noche-arte-para-chicos-en-la-noche-de-los-museos-nid13112026/",
+   "tema": "noche de los museos",
+   "busquedas": "500+",
+   "nota": "Tiren papelitos: el Museo del Humor estrena nueva sede en el Casco Histórico con un homenaje a Caloi",
+   "nota_url": "https://www.lanacion.com.ar/cultura/tiren-papelitos-el-museo-del-humor-estrena-nueva-sede-en-el-casco-historico-en-la-noche-de-los-nid13112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "paraguay vs",
+   "tema": "ph, podemos hablar",
+   "busquedas": "500+",
+   "nota": "Daniela Celis habló de la incomodidad que vivió por una pregunta sobre Thiago Medina",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/13/la-incomodidad-que-vivio-daniela-celis-por-una-pregunta-sobre-thiago-medina-en-la-grabacion-de-un-programa-fue-raro/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pochettino",
+   "busquedas": "100+",
+   "nota": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football – live",
+   "nota_url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "punta arenas",
    "busquedas": "200+",
-   "nota": "Con la llegada del nueve de Lanús, Alfaro ya entrena con todos los jugadores de Paraguay pensando en Singapur",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/gustavoalfaro-paraguay-amistoso-singapur-alfaro-lanus-alanwlk_0_OAWUGB0Bpk.html",
-   "medio": "Olé",
+   "nota": "El diésel se dispara en Chile y crece la tensión con camioneros: las claves del conflicto y su impacto regional",
+   "nota_url": "https://www.rionegro.com.ar/mundo/el-diesel-se-dispara-en-chile-y-crece-la-tension-con-camioneros-las-claves-del-conflicto-y-su-impacto-regional-4795396/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "paraguay vs",
+   "busquedas": "1000+",
+   "nota": "Talleres: Alexandro Maidana fue convocado a la selección paraguaya para la fecha FIFA noviembre 2026",
+   "nota_url": "https://canalshowsport.com.ar/talleres-alexandro-maidana-fue-convocado-a-la-seleccion-paraguaya-para-la-fecha-fifa/",
+   "medio": "Canal Showsport",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "premio martín fierro de cable al mejor programa deportivo",
    "busquedas": "100+",
-   "nota": "El insólito blooper del contador en los Martín Fierro de Cable 2026",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/el-insolito-blooper-del-contador-en-los-martin-fierro-de-cable-2026-nid12112026/",
-   "medio": "La Nación",
+   "nota": "Diego Brancatelli hizo un gesto en los Martín Fierro de Cable y Marina Calabró lo frenó: \"Te vi\"",
+   "nota_url": "https://www.a24.com/primiciasya/diego-brancatelli-hizo-un-gesto-los-martin-fierro-cable-y-marina-calabro-lo-freno-te-vi-n1616057",
+   "medio": "A24.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "argentina hoy",
    "busquedas": "2000+",
-   "nota": "Argentina comenzará la era post Messi con un choque ante Uruguay: hora, TV y formaciones",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/13/argentina-comenzara-la-era-post-messi-con-un-choque-ante-uruguay-hora-tv-y-formaciones/",
-   "medio": "Infobae",
+   "nota": "Aasí es la venta de remanentes para Argentina vs. Uruguay: precios, dónde y cómo comprar",
+   "nota_url": "https://www.tycsports.com/seleccion-argentina/remanente-de-entradas-para-la-seleccion-argentina-vs-uruguay-precios-donde-y-como-comprar-id771438.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "hantavirus",
-   "busquedas": "200+",
-   "nota": "Investigan el brote de hantavirus en crucero: el Malbrán, clave en la respuesta sanitaria",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/investigan-el-brote-de-hantavirus-en-crucero-el-malbran-clave-en-la-respuesta-sanitaria_612687",
-   "medio": "Cadena 3 Argentina",
+   "busquedas": "500+",
+   "nota": "Cómo el Malbrán aportó datos decisivos para reconstruir el brote de hantavirus en el crucero MV Hondius",
+   "nota_url": "https://www.infobae.com/salud/ciencia/2026/11/12/como-el-malbran-aporto-datos-decisivos-para-reconstruir-el-brote-de-hantavirus-en-el-crucero-mv-hondius/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nominación",
-   "busquedas": "2000+",
+   "busquedas": "200+",
    "nota": "Messi fue nominado al mejor de la temporada y podría hacer historia en la MLS",
    "nota_url": "https://www.tycsports.com/estados-unidos/mls/messi-fue-nominado-al-mejor-de-la-temporada-y-podria-hacer-historia-en-la-mls-id771381.html",
    "medio": "TyC Sports",
@@ -61,38 +88,11 @@
   },
   {
    "tema": "river id",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "La chicana de Nicolás Russo a River por el pedido de cambio de fecha: \"No quieren que el resultado de Boca les...",
    "nota_url": "https://442.perfil.com/noticias/futbol/la-chicana-de-nicolas-russo-a-river-por-el-pedido-de-cambio-de-fecha-no-quieren-que-el-resultado-de-boca-les-altere-los-animos.phtml",
    "medio": "Perfil",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chiclayo",
-   "busquedas": "500+",
-   "nota": "Papa León XIV en Perú, EN VIVO: misa en las Pampas de Pimentel y un encuentro en el Santuario de Nuestra Señora de la Paz",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-misa-en-las-pampas-de-pimentel-y-un-encuentro-en-el-santuario-de-nid13112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "13 de noviembre",
-   "busquedas": "1000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 13 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-13-noviembre-n6344766",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la cámpora",
-   "busquedas": "200+",
-   "nota": "Ludopatía, sin quorum: sólo dos diputados se presentaron a la comisión para tratar proyectos contra el juego",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/12/ludopatia-sin-quorum-solo-dos-diputados-se-presentaron-a-la-comision-para-tratar-proyectos-contra-el-juego/",
-   "medio": "Página|12",
-   "relevante": true,
    "temas": []
   }
  ],
