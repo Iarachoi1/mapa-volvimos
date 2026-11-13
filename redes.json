@@ -1,58 +1,85 @@
 {
- "actualizado": "13/11 06:47",
+ "actualizado": "13/11 07:48",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "leandro gonzález pírez",
+   "tema": "servicio meteorológico nacional",
+   "busquedas": "5000+",
+   "nota": "Seis provincias bajo alerta amarilla: dónde se esperan tormentas, lluvias intensas y granizo",
+   "nota_url": "https://www.ellitoral.com/nacionales/serviciometeorologiconacional-alertaamarilla-tormentas-fuertesvientos-granizo-salta-jujuy-rionegro-chubut-lapampa-buenosaires_0_p3TG1aGWix.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la cámpora",
    "busquedas": "100+",
-   "nota": "Las perlitas “negras” de la Supercopa Argentina: el penal no cobrado para Independiente Rivadavia y el faltazo de Tapia a la premiación",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/las-perlitas-negras-de-la-supercopa-argentina-el-penal-no-cobrado-para-independiente-rivadavia-y-el-nid13112026/",
-   "medio": "La Nación",
+   "nota": "Ludopatía, sin quorum: sólo dos diputados se presentaron a la comisión para tratar proyectos contra el juego",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/12/ludopatia-sin-quorum-solo-dos-diputados-se-presentaron-a-la-comision-para-tratar-proyectos-contra-el-juego/",
+   "medio": "Página|12",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "marcelo gallardo",
+   "busquedas": "200+",
+   "nota": "Gallardo afronta su segunda fecha FIFA con la Selección de Ecuador: los convocados, rivales y cuándo juega",
+   "nota_url": "https://lapaginamillonaria.com/river-plate/gallardo-afronta-su-segunda-fecha-fifa-con-la-seleccion-de-ecuador-los-convocados-rivales-y-cuando-juega",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "túnel submarino",
+   "busquedas": "200+",
+   "nota": "Rotondas a 260 metros de profundidad y rutas de evacuación entre tubos: así será el túnel submarino más largo y profundo del mundo",
+   "nota_url": "https://reconquistaradios.com.ar/a-nota/232145/rotondas-a-260-metros-de-profundidad-y-rutas-de-evacuacion-entre-tubos-asi-sera-el-tunel-submarino-mas-largo-y-profundo-del-mundo",
+   "medio": "Reconquista Radios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "leandro gonzález pírez",
+   "busquedas": "200+",
+   "nota": "El penal que Independiente Rivadavia pidió ante Estudiantes en la Supercopa Argentina",
+   "nota_url": "https://www.tycsports.com/video/supercopa-argentina/el-penal-que-independiente-rivadavia-pidio-ante-estudiantes-en-la-supercopa-argentina-id1004596.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "weather",
-   "busquedas": "200+",
-   "nota": "Kauai Weather Forecast for November 12, 2026",
-   "nota_url": "https://kauainownews.com/2026/11/11/kauai-weather-forecast-for-november-12-2026/",
-   "medio": "Kauai Now",
+   "busquedas": "500+",
+   "nota": "Licensable picture: 1. FC Heidenheim vs. Hannover 96",
+   "nota_url": "https://www.reutersconnect.com/item/1-fc-heidenheim-vs-hannover-96/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDlYOTlYMjI0Mzkw",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "inundación",
-   "busquedas": "100+",
-   "nota": "El Municipio activa medidas de prevención y descartan un escenario como el de la inundación",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/12/el-municipio-activa-medidas-de-prevencion-y-descartan-un-escenario-como-el-de-la-inundacion-n530526/",
-   "medio": "La Brújula 24",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "inflación",
-   "busquedas": "5000+",
-   "nota": "El Gobierno consolida al dólar como ancla para volver al proceso de desinflación y remonetizar la economía",
-   "nota_url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-consolida-al-dolar-como-ancla-para-volver-al-proceso-de-desinflacion-y-remonetizar-la-economia/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "página/12",
-   "busquedas": "1000+",
-   "nota": "El ingenioso método que usó el exterrorista italiano durante su cinematográfica fuga",
-   "nota_url": "https://www.lanacion.com.ar/seguridad/el-ingenioso-metodo-que-uso-el-exterrorista-italiano-durante-su-cinematografica-fuga-nid12112026/",
-   "medio": "La Nación",
+   "busquedas": "2000+",
+   "nota": "Detuvieron a una mujer y un hombre acusados de ayudar al exterrorista italiano que se fugó en San Telmo",
+   "nota_url": "https://tn.com.ar/politica/2026/11/12/detuvieron-a-una-mujer-y-un-hombre-acusados-de-ayudar-al-terrorista-italiano-que-se-fugo-en-san-telmo/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "1998 ky26",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory",
    "nota_url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
    "medio": "Fox News",
@@ -62,36 +89,9 @@
   {
    "tema": "cáncer de próstata",
    "busquedas": "200+",
-   "nota": "Cáncer de próstata: qué dicen las nuevas recomendaciones sobre quiénes deberían hacerse un análisis de sangre",
-   "nota_url": "https://www.infobae.com/wapo/2026/11/12/cancer-de-prostata-que-dicen-las-nuevas-recomendaciones-sobre-quienes-deberian-hacerse-un-analisis-de-sangre/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "viernes 13",
-   "busquedas": "500+",
-   "nota": "Horóscopo del viernes 13 de noviembre: qué le espera a cada signo del zodíaco",
-   "nota_url": "https://www.eleco.com.ar/horoscopo/horoscopo-del-viernes-13-de-noviembre-que-le-espera-a-cada-signo-del-zodiaco",
-   "medio": "El Eco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "anibal gordon",
-   "busquedas": "100+",
-   "nota": "Gordon: quién es quién en la serie protagonizada por Rodrigo de la Serna",
-   "nota_url": "https://www.minutouno.com/espectaculos/gordon-quien-es-quien-la-serie-protagonizada-rodrigo-la-serna-n6344128",
-   "medio": "MinutoUno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "suns - hornets",
-   "busquedas": "200+",
-   "nota": "Hornets lose tight one on the road to Phoenix, 101-96, dropping to 4-8",
-   "nota_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article318057384.html",
-   "medio": "Charlotte Observer",
+   "nota": "Carles Ferrer, paciente de cáncer de próstata: \"Gracias a la IA, me detectaron un tumor ínfimo y he podido curarme\"",
+   "nota_url": "https://www.elperiodicodearagon.com/sociedad/2026/11/05/cancer-prostata-ia-resonancia-diagnostico-136106932.html",
+   "medio": "El Periódico de Aragón",
    "relevante": false,
    "temas": []
   }
