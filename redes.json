@@ -1,10 +1,19 @@
 {
- "actualizado": "14/11 04:49",
+ "actualizado": "14/11 05:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "nuevo diario",
+   "busquedas": "200+",
+   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
+   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "a",
    "busquedas": "2000+",
@@ -15,11 +24,20 @@
    "temas": []
   },
   {
+   "tema": "clima corrientes",
+   "busquedas": "100+",
+   "nota": "Hay alerta naranja por tormentas para este sábado 14 de noviembre en Corrientes: las zonas afectadas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/14/hay-alerta-naranja-por-tormentas-para-este-sabado-14-de-noviembre-en-corrientes-las-zonas-afectadas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima tucuman",
-   "busquedas": "200+",
-   "nota": "\"Tre - men - do\": urgente, el anticipo del tiempo para todo Tucumán",
-   "nota_url": "https://www.eltucumano.com/amp/noticia/libre/327683/tre-men-do-urgente-el-anticipo-del-tiempo-para-todo-tucuman",
-   "medio": "el tucumano",
+   "busquedas": "500+",
+   "nota": "Clima en Tucumán: cielo claro y calor intenso para este viernes 13 de noviembre",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/13/clima-en-tucuman-hoy-viernes-13-de-noviembre-lluvia-ligera-y-calor-extremo/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -44,54 +62,36 @@
   {
    "tema": "lj cryer",
    "busquedas": "100+",
-   "nota": "LJ Cryer scores 13 points in loss to Houston",
-   "nota_url": "https://www.fantasypros.com/nba/news/619534/lj-cryer-scores-13-points-loss-to-houston.php",
-   "medio": "FantasyPros",
+   "nota": "Kingston Flemings (back) upgraded to available",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-13/kingston-flemings-back-upgraded-to-available",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima santiago del estero",
-   "busquedas": "100+",
-   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
-   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
-   "medio": "El Liberal",
+   "tema": "posiciones de internacional de bogotá contra independiente santa fe",
+   "busquedas": "2000+",
+   "nota": "Tabla de reclasificación con la victoria de Santa Fe: cambiaron los cupos a Libertadores",
+   "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-reclasificacion-con-la-victoria-de-santa-fe-cambiaron-los-cupos-a-libertadores/202615/",
+   "medio": "Revista Semana",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clippers - thunder",
    "busquedas": "500+",
-   "nota": "Brook Lopez scores team-high 26 points vs. OKC",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/brook-lopez-scores-team-high-26-points-vs-okc",
-   "medio": "NBC Sports",
+   "nota": "CLIPPERS POSTCAST_ Clippers look to hand the Thunder their 3rd consecutive loss",
+   "nota_url": "https://www.kiiitv.com/video/sports/locked-on/lo-la/postcast-locked-on-clippers/clippers-postcast-clippers-look-to-hand-the-thunder-their-3rd-consecutive-loss/535-f29613d6-e80d-4d9f-80e5-f6afd23597a4",
+   "medio": "kiiitv.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - trail blazers",
    "busquedas": "200+",
-   "nota": "Game Recap: Trail Blazers 120, Kings 107 (Nov. 13)",
-   "nota_url": "https://www.nba.com/watch/video/game-recap-trail-blazers-120-kings-107-nov-13?plsrc=nba&collection=2026-27-game-recaps",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rodrigo de paul",
-   "busquedas": "1000+",
-   "nota": "La sorpresa de Tini Stoessel y Rodrigo De Paul a días de su casamiento: sumaron un nuevo integrante a la familia",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/13/rodrigo-de-paul-y-tini-stoessel-compartieron-un-album-de-fotos-y-un-detalle-llamo-la-atencion/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "desakta2",
-   "busquedas": "200+",
-   "nota": "Sigue en pie el show de DesaKTa2 en Villa María tras el duelo del grupo",
-   "nota_url": "https://villamariavivo.com/sigue-pie-show-desakta2-villa-maria/",
-   "medio": "Villa María VIVO",
+   "nota": "What we learned as Darius Acuff Jr. cools off in Kings' loss to Trail Blazers",
+   "nota_url": "https://sports.yahoo.com/articles/learned-darius-acuff-jr-cools-220449351.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
