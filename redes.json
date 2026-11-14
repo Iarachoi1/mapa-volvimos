@@ -1,5 +1,5 @@
 {
- "actualizado": "14/11 14:25",
+ "actualizado": "14/11 15:26",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -81,20 +81,8 @@
    "temas": []
   },
   {
-   "tema": "#sabadodeplp",
-   "url": "https://x.com/search?q=%23sabadodeplp",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Los Pumas",
-   "url": "https://x.com/search?q=Los%20Pumas",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +99,20 @@
    "temas": []
   },
   {
-   "tema": "All Blacks",
-   "url": "https://x.com/search?q=All%20Blacks",
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Icardi",
+   "url": "https://x.com/search?q=Icardi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#descansaenpazfrabigol",
+   "url": "https://x.com/search?q=%23descansaenpazfrabigol",
    "relevante": false,
    "temas": []
   },
@@ -125,17 +125,62 @@
  ],
  "google": [
   {
+   "tema": "niki lauda",
+   "busquedas": "100+",
+   "nota": "“The car is steering by itself, don’t you see it?”: How handling trouble baffled Antonelli",
+   "nota_url": "https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/",
+   "medio": "RaceFans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los palmeras marcos camino",
+   "busquedas": "100+",
+   "nota": "Los Palmeras anunciaron la continuidad de la banda, tras la muerte de Marcos Camino",
+   "nota_url": "https://www.ellitoral.com/escenarios-sociedad/marcos-camino-palmeras-santafe-cumbia-musica-despedida_0_VFI9xEtkOX.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nicole neumann",
+   "busquedas": "100+",
+   "nota": "Martín Cirio y Nicole Neumann recuperan",
+   "nota_url": "https://www.qmusica.tv/Noticia/mart%C3%ADn-cirio-y-nicole-neumann-recuperan-do-you-wanna-dancing-la-canci%C3%B3n-de-los-90-que-vuelve-m%C3%A1s-de-30-a%C3%B1os-despu%C3%A9s/8760",
+   "medio": "Quiero Música En Mi Idioma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "billetera digital",
+   "busquedas": "100+",
+   "nota": "ChatGPT Wallet pone tarjeta a los agentes y no ve el número real",
+   "nota_url": "https://observatorioblockchain.com/inteligencia-artificial/chatgpt-wallet-agentes-pagos-tarjeta/",
+   "medio": "Observatorio Blockchain",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlanta - estudiantes",
+   "busquedas": "1000+",
+   "nota": "Atlanta vs. Estudiantes de Buenos Aires: a qué hora juegan y por dónde se puede ver el partido",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/atlanta-vs-estudiantes-de-buenos-aires-a-que-hora-juegan-y-por-donde-se-puede-ver-el-partido-nid14112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "ronaldinho",
    "busquedas": "100+",
-   "nota": "Se confirmó cuándo volverá Ronaldinho al fútbol",
-   "nota_url": "https://www.tycsports.com/futbol-internacional/se-confirmo-cuando-volvera-ronaldinho-al-futbol-id771450.html",
-   "medio": "TyC Sports",
+   "nota": "The comeback is real! Watch Ronaldinho return for free on OneFootball 🐐",
+   "nota_url": "https://sports.yahoo.com/articles/comeback-real-watch-ronaldinho-return-095200914.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "concurso",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Argentina tiene huevos de oro: la industria avícola se trajo varios premios de un concurso latinoamericano",
    "nota_url": "https://www.infocampo.com.ar/argentina-tiene-huevos-de-oro-la-industria-avicola-se-trajo-varios-premios-de-un-concurso-latinoamericano/",
    "medio": "Infocampo",
@@ -143,17 +188,8 @@
    "temas": []
   },
   {
-   "tema": "página/12",
-   "busquedas": "200+",
-   "nota": "El plan de Luis Caputo no logra bajar más la inflación, pero la estrategia de su sobrino Santiago encontró otro culpable",
-   "nota_url": "https://tn.com.ar/opinion/2026/11/14/el-plan-de-luis-caputo-no-logra-bajar-mas-la-inflacion-pero-la-estrategia-de-su-sobrino-santiago-encontro-otro-culpable/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "portugal vs",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Dónde ver hoy en directo el Portugal-Dinamarca: ¿qué canal televisa el partido y dónde se puede ver en streaming?",
    "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-el-portugal-dinamarca-que-canal-televisa-el-partido-y-donde-se-puede-ver-en-streaming/blt380f69d5a6cfdcae",
    "medio": "Goal.com",
@@ -161,56 +197,20 @@
    "temas": []
   },
   {
-   "tema": "creamfields",
-   "busquedas": "100+",
-   "nota": "Kevin Di Serna debuta en Creamfields Argentina",
-   "nota_url": "https://flipr.com.ar/nacionales/ultimo-momento/filonews/kevin-di-serna-debuta-en-creamfields-argentina/",
-   "medio": "Flipr.news",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "noruega - gales",
-   "busquedas": "5000+",
-   "nota": "El capitán de Noruega, Martin Odegaard, busca la revancha ante Gales en un duelo decisivo de la Liga de Naciones en Oslo para mantener vivo el sueño de llegar a cuartos de final",
-   "nota_url": "https://www.goal.com/es/noticias/el-capitan-de-noruega-martin-odegaard-busca-la-revancha-ante-gales-en-un-duelo-decisivo-de-la-liga-de-naciones-en-oslo-para-mantener-vivo-el-sueno-de-llegar-a-cuartos-de-final/blt041bf7e274cd2a54",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "devolución",
+   "tema": "página/12",
    "busquedas": "500+",
-   "nota": "Kicillof da marcha atrás y devuelve el descuento a docentes por el paro del 15 de octubre",
-   "nota_url": "https://www.latecla.info/171124-kicillof-da-marcha-atras-y-devuelve-el-descuento-a-docentes-por-el-paro-del-15-de-octubre",
-   "medio": "La Tecla",
+   "nota": "El plan de Luis Caputo no logra bajar más la inflación, pero la estrategia de su sobrino Santiago encontró otro culpable",
+   "nota_url": "https://tn.com.ar/opinion/2026/11/14/el-plan-de-luis-caputo-no-logra-bajar-mas-la-inflacion-pero-la-estrategia-de-su-sobrino-santiago-encontro-otro-culpable/",
+   "medio": "TN",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "kosovo - israel",
-   "busquedas": "100+",
-   "nota": "Foda para ndeshjes me Izraelin: Presim fitore, secilit lojtar i besoj",
-   "nota_url": "https://reporteri.net/en/sport/Foda-before-the-match-with-Israel-we-expect-victory-I-trust-every-player/",
-   "medio": "Reporteri.net",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hugo moyano",
+   "tema": "creamfields",
    "busquedas": "200+",
-   "nota": "Santa Fe: un hombre de Hugo Moyano tomó la conducción del club que Marcos Cleri dejó en crisis",
-   "nota_url": "https://www.letrap.com.ar/futbol-y-politica/santa-fe-un-hombre-hugo-moyano-tomo-la-conduccion-del-club-que-marcos-cleri-dejo-crisis-n5428125",
-   "medio": "Letra P",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maria becerra",
-   "busquedas": "100+",
-   "nota": "María Becerra vuelve al Arena, Romeo Santos en Vélez y más fechas",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/11/maria-becerra-vuelve-al-arena-romeo-santos-en-velez-y-mas-fechas/",
-   "medio": "Página|12",
+   "nota": "Kevin Di Serna debuta en Creamfields Argentina",
+   "nota_url": "https://www.filo.news/noticia/2026/11/12/kevin-di-serna-debuta-en-creamfields-argentina",
+   "medio": "Filo News",
    "relevante": false,
    "temas": []
   }
