@@ -1,16 +1,25 @@
 {
- "actualizado": "13/11 23:38",
+ "actualizado": "14/11 00:37",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "peru",
+   "busquedas": "2000+",
+   "nota": "León XIV cumplió su sueño y regresó con gloria a la ciudad donde fue obispo: “¡Qué alegría volver a Chiclayo!”",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/leon-xiv-cumplio-su-sueno-y-regreso-con-gloria-a-la-ciudad-donde-fue-obispo-que-alegria-volver-a-nid13112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "desakta2",
-   "busquedas": "100+",
-   "nota": "Siniestro vial. Tragedia en Córdoba: un motociclista de 22 años murió tras perder el control y caer en barrio Autódromo",
-   "nota_url": "https://www.lavoz.com.ar/sucesos/tragedia-cordoba-motociclista-22-anos-murio-perder-control-caer-barrio-autodromo_0_NmH2JD0FGj.html",
-   "medio": "La Voz del Interior",
+   "busquedas": "200+",
+   "nota": "Sigue en pie el show de DesaKTa2 en Villa María tras el duelo del grupo",
+   "nota_url": "https://villamariavivo.com/sigue-pie-show-desakta2-villa-maria/",
+   "medio": "Villa María VIVO",
    "relevante": false,
    "temas": []
   },
@@ -25,10 +34,10 @@
   },
   {
    "tema": "spurs - warriors",
-   "busquedas": "500+",
-   "nota": "Warriors vs Spurs NBA Cup: Here's how to watch",
-   "nota_url": "https://www.sfgate.com/shopping/article/warriors-vs-spurs-nba-cup-how-to-watch-22526822.php",
-   "medio": "SFGATE",
+   "busquedas": "2000+",
+   "nota": "NBA Best Bets for Warriors vs Spurs, Blazers vs Kings, More (Friday, Nov. 13)",
+   "nota_url": "https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-knicks-magic-vs-bucks-more-friday-november-13",
+   "medio": "Action Network",
    "relevante": false,
    "temas": []
   },
@@ -38,6 +47,15 @@
    "nota": "El Atlético de Madrid compra otro club",
    "nota_url": "https://www.fichajes.com/a4014572151544065853-el-atletico-de-madrid-compra-otro-club",
    "medio": "Fichajes.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mercado cambiario",
+   "busquedas": "1000+",
+   "nota": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
+   "nota_url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
@@ -61,37 +79,19 @@
   },
   {
    "tema": "bulls - hawks",
-   "busquedas": "100+",
-   "nota": "Hawks' Kingston Flemings: Available Friday",
-   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/hawks-kingston-flemings-available-friday/",
-   "medio": "CBS Sports",
+   "busquedas": "200+",
+   "nota": "Hawks Bulls Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/hawks-bulls-basketball/image_b1de05bf-993a-5d29-b71f-bd892a38eac4.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "guatemala - canadá",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Guatemala y Canadá se juegan la clasificación a la Copa Oro",
    "nota_url": "https://www.infobae.com/america/agencias/2026/11/12/guatemala-y-canada-se-juegan-la-clasificacion-a-la-copa-oro/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "christian cousins",
-   "busquedas": "500+",
-   "nota": "Kindergarten Cop star Christian Cousins’ haunting health worry in final post before death at 43",
-   "nota_url": "https://www.themirror.com/entertainment/christian-cousins-health-last-post-2109197",
-   "medio": "The Mirror US",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "crucero nueva orleans",
-   "busquedas": "200+",
-   "nota": "Última hora del choque de un buque cisterna con un crucero fluvial cerca de Nueva Orleans: víctimas, rescates y más",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/choque-buque-cisterna-crucero-nueva-orleans-victimas-rescates-trax",
-   "medio": "CNN en Español",
    "relevante": false,
    "temas": []
   }
