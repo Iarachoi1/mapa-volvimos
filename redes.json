@@ -1,5 +1,5 @@
 {
- "actualizado": "14/11 17:25",
+ "actualizado": "14/11 18:25",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,8 +45,20 @@
    "temas": []
   },
   {
+   "tema": "Argentina",
+   "url": "https://x.com/search?q=Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Remedios de Escalada",
    "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#INTEGRACIONK4OTICA",
+   "url": "https://x.com/search?q=%23INTEGRACIONK4OTICA",
    "relevante": false,
    "temas": []
   },
@@ -75,12 +87,6 @@
    "temas": []
   },
   {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
    "relevante": false,
@@ -93,8 +99,8 @@
    "temas": []
   },
   {
-   "tema": "#descansaenpazfrabigol",
-   "url": "https://x.com/search?q=%23descansaenpazfrabigol",
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Los Pumas",
-   "url": "https://x.com/search?q=Los%20Pumas",
+   "tema": "#descansaenpazfrabigol",
+   "url": "https://x.com/search?q=%23descansaenpazfrabigol",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Chiclayo",
-   "url": "https://x.com/search?q=Chiclayo",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "colón - midland",
+   "tema": "banfield - boca juniors",
+   "busquedas": "20000+",
+   "nota": "Boca vs Banfield hoy en vivo, por la Copa Argentina: hora, TV y formaciones",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/14/boca-vs-banfield-hoy-en-vivo-por-la-copa-argentina-hora-tv-y-formaciones/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "millonarios - alianza",
+   "busquedas": "100+",
+   "nota": "Millonarios se juega el semestre y la clasificación contra Alianza Valledupar: 90 minutos de tensión",
+   "nota_url": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-se-juega-el-semestre-y-la-clasificacion-contra-alianza-valledupar-90-minutos-de-tension-3601044",
+   "medio": "El Tiempo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "haití - estados unidos",
+   "busquedas": "1000+",
+   "nota": "Para Haití, jugar contra EEUU en Miami se siente como volver a casa",
+   "nota_url": "https://es-us.noticias.yahoo.com/hait%C3%AD-jugar-eeuu-miami-siente-204941778.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mirassol - atlético mineiro",
+   "busquedas": "500+",
+   "nota": "Fred, Cassierra e Ruan Tressoldi voltam a ser titulares do Atlético antes da final da Sul-Americana",
+   "nota_url": "https://www.otempo.com.br/sports/atletico/2026/11/14/fred-cassierra-e-ruan-tressoldi-voltam-a-ser-titulares-do-atletico-antes-da-final-da-sul-americana",
+   "medio": "O Tempo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "leonardo ponzio",
    "busquedas": "200+",
-   "nota": "Ferrocarril Midland: En Santa Fe, Midland buscará dar el golpe ante Colón",
-   "nota_url": "https://www.soloascenso.com.ar/notas/ferrocarril-midland/en-santa-fe-midland-buscara-dar-el-golpe-ante-colon/234375",
+   "nota": "Lautaro Rivero jugó por Martínez Quarta en el amistoso de River vs. Gimnasia y se perfila como titular ante...",
+   "nota_url": "https://lapaginamillonaria.com/river-plate/lautaro-rivero-jugo-por-martinez-quarta-en-el-amistoso-de-river-vs-gimnasia-y-se-perfila-como-titular-ante-lanus",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "deportivo pereira - américa",
+   "busquedas": "200+",
+   "nota": "🔴 Tabla de la fecha 19 de Liga Betplay EN VIVO: Águilas Doradas falla penalti, Cali gana y Millonarios aún no marca",
+   "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-la-fecha-19-de-liga-betplay-en-vivo-lista-de-los-ocho-clasificados-a-cuadrangulares-y-eliminados/202641/",
+   "medio": "Revista Semana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "deportivo cali - tolima",
+   "busquedas": "100+",
+   "nota": "🔴 EN VIVO: Deportivo Cali vs. Tolima - (Fecha 19 Liga BetPlay)",
+   "nota_url": "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-deportivo-cali-vs-tolima-fecha-19-liga-betplay-478664",
+   "medio": "Win Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos forbs",
+   "busquedas": "100+",
+   "nota": "Carlos Forbs to Wear Cristiano Ronaldo’s No. 7 Shirt Against Denmark",
+   "nota_url": "https://www.moroccoworldnews.com/2026/11/346425/carlos-forbs-to-wear-cristiano-ronaldos-no-7-shirt-against-denmark/",
+   "medio": "Morocco World News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlético nacional - once caldas",
+   "busquedas": "500+",
+   "nota": "¿Juega James Rodríguez? Las alineaciones de Atlético Nacional vs. Once Caldas por la Liga BetPlay Dimayor",
+   "nota_url": "https://bolavip.com/mx/futbol-internacional/juega-james-rodriguez-las-alineaciones-de-atletico-nacional-vs-once-caldas-por-la-liga-betplay-dimayor",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "villa dalmine",
+   "busquedas": "100+",
+   "nota": "Deportivo Camioneros: Comienza el Reducido: Camioneros visita a Villa Dálmine",
+   "nota_url": "https://www.soloascenso.com.ar/notas/deportivo-camioneros/comienza-el-reducido-camioneros-visita-a-villa-dalmine/234392",
    "medio": "Solo Ascenso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club de rugby los tilos",
-   "busquedas": "100+",
-   "nota": "Murió Jorge Bartoli, el reconocido cirujano que marcó la historia de Los Tilos",
-   "nota_url": "https://la100.cienradios.com/deportes/murio-jorge-bartoli-el-reconocido-cirujano-que-marco-la-historia-de-los-tilos/",
-   "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ianina zanazzi",
-   "busquedas": "100+",
-   "nota": "Una reconocida piloto denunció irregularidades en el automovilismo",
-   "nota_url": "https://automundo.com.ar/ianina-zanazzi-denuncias-automovilismo-argentino/",
-   "medio": "Automundo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "reducido b nacional",
-   "busquedas": "200+",
-   "nota": "Se pone en marcha el Reducido de la Primera Nacional",
-   "nota_url": "https://laverdadonline.com/se-pone-en-marcha-el-reducido-de-la-primera-nacional/",
-   "medio": "La Verdad Junín",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "camión",
-   "busquedas": "200+",
-   "nota": "Tragedia en la Ruta 2: un camión cruzó de mano y provocó un violento choque frontal con dos fallecidos",
-   "nota_url": "https://www.clarin.com/sociedad/tragedia-ruta-2-camion-cruzo-mano-provoco-violento-choque-frontal-fallecidos_0_rTk5Az6jP4.html",
-   "medio": "Clarín",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nvidia jensen huang",
-   "busquedas": "200+",
-   "nota": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
-   "nota_url": "https://www.cnn.com/2026/11/13/politics/jensen-huang-us-intelligence",
-   "medio": "CNN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tormentas fuertes",
-   "busquedas": "100+",
-   "nota": "Ratifican el alerta amarillo de esta noche y emiten un alerta naranja para el viernes por tormentas en Bahía y la región",
-   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes",
-   "medio": "La Nueva Provincia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "godoy cruz vs tristan suarez",
-   "busquedas": "100+",
-   "nota": "Los hinchas del Tomba agotaron las entradas para la final por el ascenso",
-   "nota_url": "https://www.elsol.com.ar/deportes/los-hinchas-del-tomba-agotaron-las-entradas-para-la-final-por-el-ascenso/",
-   "medio": "Diario El Sol Mendoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "erling haaland",
-   "busquedas": "200+",
-   "nota": "Norway 3-1 Wales: Nations League – as it happened",
-   "nota_url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rumania - polonia",
-   "busquedas": "200+",
-   "nota": "Alineaciones de Rumania y Polonia para el duelo de la fecha 5 de la Liga de Naciones",
-   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-rumania-y-polonia-para-el-duelo-de-la-fecha-5-de-la-liga-de-naciones",
-   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   }
