@@ -1,28 +1,28 @@
 {
  "semana": "14 de noviembre de 2026",
  "fecha": "2026-11-14",
- "actualizado": "14/11 11:32",
+ "actualizado": "14/11 16:32",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "Elisa Carrió habló de la interna que se profundiza entre Milei y Bullrich",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "14/11/2026",
+     "url": "https://bardeo.news/politica/elisa-carrio-hablo-de-la-interna-que-se-profundiza-entre-milei-y-bullrich_a6af8a64642fa9d9e6e0c789c"
+    },
+    {
+     "titulo": "San Juan suma más de US$22.400 millones en inversiones: el cobre, protagonista",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "14/11/2026",
+     "url": "https://bardeo.news/politica/san-juan-suma-mas-de-us-22-400-millones-en-inversiones--el-cobre--protagonista_a6af8b26342fa9d9e6e0cd1b9"
+    },
     {
      "titulo": "Todos tenemos un trauma, nadie tiene la culpa",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "14/11/2026",
      "url": "https://cenital.com/todos-tenemos-trauma-nadie-tiene-la-culpa/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    },
-    {
-     "titulo": "Abel Pintos hizo bailar al Gran Rex: así fue el show del Buenaventura Tour",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "14/11/2026",
-     "url": "https://bardeo.news/entretenimiento/abel-pintos-hizo-bailar-al-gran-rex--asi-fue-el-show-del-buenaventura-tour_a6af865fc42fa9d9e6e0a1584"
-    },
-    {
-     "titulo": "Manzano se queda con Burger King en Argentina: el plan con las estaciones Shell",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "14/11/2026",
-     "url": "https://bardeo.news/sociedad/manzano-se-queda-con-burger-king-en-argentina--el-plan-con-las-estaciones-shell_a6af8648c42fa9d9e6e09fb23"
     }
    ],
    "imagen": []
@@ -44,6 +44,20 @@
      "tag": "Calendario electoral"
     },
     {
+     "titulo": "Deuda y riesgo país. Para el mercado, el Gobierno deberá revisar su plan financiero para afrontar los pagos",
+     "medio": "La Nación",
+     "fecha": "14/11/2026",
+     "url": "https://www.lanacion.com.ar/economia/para-el-mercado-el-gobierno-debera-revisar-su-plan-financiero-para-afrontar-los-pagos-de-deuda-de-nid14112026/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Suspensión de las PASO: los puntos clave que los gobernadores de la UCR negocian con el Gobierno",
+     "medio": "Infobae",
+     "fecha": "14/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/14/suspension-de-las-paso-los-puntos-clave-que-los-gobernadores-de-la-ucr-negocian-con-el-gobierno/",
+     "tag": "Política"
+    },
+    {
      "titulo": "NOVENA SECCIÓN Si Milei voltea las PASO, ¿Kicillof desdobla? Por Macarena Ramírez",
      "medio": "Letra P",
      "fecha": "14/11/2026",
@@ -51,10 +65,10 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "COMBATIENDO EN CAPITAL Elecciones porteñas: quiénes asoman en el semillero PRO para la pelea en la Ciudad de Buenos Aires Por Abigail Contreiras Martínez",
-     "medio": "Letra P",
+     "titulo": "Elisa Carrió volvió a cuestionar al Gobierno y habló de la interna entre Milei y Bullrich: “Ella busca el poder”",
+     "medio": "Infobae",
      "fecha": "14/11/2026",
-     "url": "https://www.letrap.com.ar/politica/elecciones-portenas-quienes-asoman-el-semillero-pro-la-pelea-la-ciudad-buenos-aires-n5428184",
+     "url": "https://www.infobae.com/politica/2026/11/14/elisa-carrio-volvio-a-cuestionar-al-gobierno-y-hablo-de-la-interna-entre-milei-y-bullrich-ella-busca-el-poder/",
      "tag": "Política"
     },
     {
@@ -79,24 +93,10 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "El fracaso de los tiempos parlamentarios y la disyuntiva que enfrenta el Gobierno para evitar nuevos errores",
-     "medio": "Infobae",
-     "fecha": "14/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/14/el-fracaso-de-los-tiempos-parlamentarios-y-la-disyuntiva-que-enfrenta-el-gobierno-para-evitar-nuevos-errores/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Milei incorpora la Ruta 14 a las concesiones nacionales y suma presión por los peajes en Misiones Por Letra P | Periodismo Político",
+     "titulo": "COMBATIENDO EN CAPITAL Quiénes asoman en el semillero PRO para la pelea en la Ciudad de Buenos Aires Por Abigail Contreiras Martínez",
      "medio": "Letra P",
      "fecha": "14/11/2026",
-     "url": "https://www.letrap.com.ar/politica/misiones-javier-milei-incorpora-la-ruta-14-las-concesiones-nacionales-y-suma-presion-los-peajes-n5428197",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Relevamiento digital Por qué Milei pierde peso en la conversación en las redes sociales Eduardo Menegazzi",
-     "medio": "Perfil",
-     "fecha": "14/11/2026",
-     "url": "https://www.perfil.com/politica/por-que-milei-pierde-peso-en-la-conversacion-digital-de-las-redes-sociales-aJCUN0t2kU6B",
+     "url": "https://www.letrap.com.ar/politica/elecciones-portenas-quienes-asoman-el-semillero-pro-la-pelea-la-ciudad-buenos-aires-n5428184",
      "tag": "Política"
     }
    ],
@@ -154,16 +154,22 @@
      "medio": "El Destape",
      "fecha": "14/11/2026",
      "url": "https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525"
+    },
+    {
+     "titulo": "CFK y Kicillof superan a Milei y Karina tiene un 73% de imagen negativa",
+     "medio": "Diagonales",
+     "fecha": "14/11/2026",
+     "url": "https://www.diagonales.com/nacion/cfk-y-kicillof-superan-a-milei-y-karina-tiene-un-73--de-imagen-negativa_a6af8755d42fa9d9e6e0add77"
     }
    ]
   },
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Fue anunciado por decreto Aporte irrevocable: el Gobierno destinará hasta $1.000 millones a CAMYEN",
+     "titulo": "Por el impacto del temporal Diputados de la oposición cuestionaron a la Provincia y a la Capital",
      "medio": "El Ancasti",
      "fecha": "14/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/aporte-irrevocable-el-gobierno-destinara-1000-millones-camyen-n626028"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/diputados-la-oposicion-cuestionaron-la-provincia-y-la-capital-n626047"
     }
    ],
    "imagen": [
@@ -190,10 +196,10 @@
      "url": "https://www.diariojornada.com.ar/427059/politica/el_tribunal_electoral_provincial_declaro_la_caducidad_de_20_partidos_politicos"
     },
     {
-     "titulo": "Elecciones en Neuquén: la danza de nombres para la gobernación y la intendencia de la capital",
-     "medio": "ADN Sur",
+     "titulo": "La Legislatura del Chubut abrió la convocatoria 2026 del Fondo Editorial Permanente",
+     "medio": "El Chubut",
      "fecha": "14/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/elecciones-en-neuquen--la-danza-de-nombres-para-la-gobernacion-y-la-intendencia-de-la-capital_a6af7359bad47eda6c2adb339"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-14-15-23-0-la-legislatura-del-chubut-abrio-la-convocatoria-2026-del-fondo-editorial-permanente"
     }
    ],
    "imagen": []
@@ -201,16 +207,43 @@
   "Córdoba": {
    "top3": [
     {
+     "titulo": "Piden investigar contratos de empresas vinculadas a los Menem en actos del Papa",
+     "medio": "Hoy Dia",
+     "fecha": "14/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/piden-investigar-contratos-de-empresas-vinculadas-a-los-menem-en-actos-del-papa/",
+     "tag": "También en Cadena3"
+    },
+    {
      "titulo": "ES EL MODELO Córdoba: Calvo llevó asistencia a los trabajadores de Pauny en Las Varillas Por Nicolás Albera",
      "medio": "Letra P",
      "fecha": "14/11/2026",
      "url": "https://www.letrap.com.ar/politica/cordoba-manuel-calvo-llevo-asistencia-los-trabajadores-pauny-las-varillas-n5428220"
+    },
+    {
+     "titulo": "EPEC anticipa interrupciones de energía para este domingo en Córdoba",
+     "medio": "CBA24N",
+     "fecha": "14/11/2026",
+     "url": "https://www.cba24n.com.ar/cordoba/epec-anticipa-interrupciones-de-energia-para-este-domingo-en-cordoba_a6af89f5719b26c3e14d85038",
+     "tag": "También en ElDoce"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Discusión 2027 Bornoroni cree que Córdoba votará en marzo y acelera: lanza candidatos y propone bajar un impuesto rural Por Yanina Babiachuk",
+     "medio": "Letra P",
+     "fecha": "14/11/2026",
+     "url": "https://www.letrap.com.ar/politica/bornoroni-cree-que-cordoba-votara-marzo-y-acelera-lanza-candidatos-y-propone-bajar-un-impuesto-rural-n5428205"
+    }
+   ]
   },
   "Entre Ríos": {
    "top3": [
+    {
+     "titulo": "Elecciones 2027: qué provincias desdoblarán los comicios y qué hará Entre Ríos",
+     "medio": "El Once",
+     "fecha": "14/11/2026",
+     "url": "https://www.elonce.com/politica/elecciones-2027-que-provincias-desdoblan-y-que-hara-entre-rios.htm"
+    },
     {
      "titulo": "Elecciones 2027: qué provincias desdoblaron su calendario electoral",
      "medio": "UNO ER",
@@ -218,17 +251,10 @@
      "url": "https://www.unoentrerios.com.ar/el-pais/elecciones-2027-que-provincias-desdoblaron-su-calendario-electoral-n10292136.html"
     },
     {
-     "titulo": "Finalizó el Laboratorio de Identidad y Diseño con Alma Entrerriana",
-     "medio": "AFP Digital",
+     "titulo": "Los gremios docentes rechazaron una oferta de aumento de 130.000 pesos para el salario base",
+     "medio": "Ahora",
      "fecha": "14/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/14/479166-finalizo-el-laboratorio-de-identidad-y-diseno-con-alma-entrerriana",
-     "tag": "También en UNO ER"
-    },
-    {
-     "titulo": "Concepción del Uruguay: La Fiesta Nacional de la Playa de Río 2027 ya tiene fecha",
-     "medio": "AFP Digital",
-     "fecha": "14/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/14/479163-concepcion-del-uruguay-la-fiesta-nacional-de-la-playa-de-rio-2027-ya-tiene-fecha"
+     "url": "https://ahora.com.ar/politica/los-gremios-docentes-rechazaron-una-oferta-de-aumento-de-130-000-pesos-para-el-salario-base"
     }
    ],
    "imagen": []
@@ -236,24 +262,24 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Palma Sola: presentaron la Bolsa de Trabajo Digital para conectar a vecinos con oportunidades de empleo",
+     "titulo": "Sadir destacó el impacto de las obras de vivienda para más familias jujeñas",
      "medio": "Prensa oficial de Jujuy",
      "fecha": "14/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/palma-sola/palma-sola-presentaron-la-bolsa-trabajo-digital-conectar-vecinos-oportunidades-empleo-n125975",
-     "tag": "También en El Tribuno"
-    },
-    {
-     "titulo": "El Gobierno de Jujuy acercará servicios y asesoramiento a vecinos del barrio Malvinas",
-     "medio": "Jujuy al día",
-     "fecha": "14/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/14/el-gobierno-de-jujuy-acercara-servicios-y-asesoramiento-a-vecinos-del-barrio-malvinas/",
+     "url": "https://prensa.jujuy.gob.ar/sadir/sadir-destaco-el-impacto-las-obras-vivienda-mas-familias-jujenas-n125967",
      "tag": "También en Somos Jujuy"
     },
     {
-     "titulo": "Jujuy Inmersivo 2026 reunió proyectos locales y referentes nacionales de las tecnologías inmersivas",
+     "titulo": "\"Jujuy Construye\": avanzan obras viales en la Ruta Provincial 10 y avenida Bolivia",
      "medio": "Prensa oficial de Jujuy",
      "fecha": "14/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/jujuy/jujuy-inmersivo-2026-reunio-proyectos-locales-y-referentes-nacionales-las-tecnologias-inmersivas-n125971"
+     "url": "https://prensa.jujuy.gob.ar/jujuy-construye/jujuy-construye-avanzan-obras-viales-la-ruta-provincial-10-y-avenida-bolivia-n125976",
+     "tag": "También en Somos Jujuy"
+    },
+    {
+     "titulo": "El oficialismo apura la suspensión de las PASO en el Senado",
+     "medio": "El Tribuno",
+     "fecha": "14/11/2026",
+     "url": "https://eltribunodejujuy.com/nacionales/2026-11-14-8-27-0-el-oficialismo-apura-la-suspension-de-las-paso-en-el-senado"
     }
    ],
    "imagen": []
@@ -261,22 +287,23 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "La foto de Mac Allister entrando a ver a di Nápoli sacude las internas del PJ y la oposición",
-     "medio": "El Diario de La Pampa",
-     "fecha": "14/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83111/la-foto-de-mac-allister-entrando-a-ver-a-di-napoli-sacude-las-internas-del-pj-y-la-oposicion"
-    },
-    {
-     "titulo": "Deuda: el tesoro lanzó un nuevo canje de letras dólar linked para postegar vencimientos a enero de 2027",
+     "titulo": "El Financial Times se hace eco de la interna libertaria con Patricia Bullrich: “Javier Milei se enfrenta a la figura más popular de su gobierno”",
      "medio": "La Pampa 24",
      "fecha": "14/11/2026",
-     "url": "https://lapampa24.com.ar/nacionales/deuda-el-tesoro-lanzo-un-nuevo-canje-de-letras-dolar-linked-para-postegar-vencimientos-a-enero-de-2027/"
+     "url": "https://lapampa24.com.ar/nacionales/el-financial-times-se-hace-eco-de-la-interna-libertaria-con-patricia-bullrich-javier-milei-se-enfrenta-a-la-figura-mas-popular-de-su-gobierno/"
     },
     {
-     "titulo": "Horas decisivas: Ziliotto deshoja la margarita para definir si La Pampa también vota en verano Por Juan Pablo Gavazza",
-     "medio": "Letra P",
+     "titulo": "La Justicia declaró inconstitucional la movilidad jubilatoria del gobierno de Alberto Fernández",
+     "medio": "El Diario de La Pampa",
      "fecha": "14/11/2026",
-     "url": "https://www.letrap.com.ar/politica/horas-decisivas-sergio-ziliotto-deshoja-la-margarita-definir-si-la-pampa-tambien-vota-verano-n5428146"
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83129/la-justicia-declaro-inconstitucional-la-movilidad-jubilatoria-del-gobierno-de-alberto-fernandez",
+     "tag": "También en La Pampa 24, La Arena"
+    },
+    {
+     "titulo": "Senado: el Gobierno ya tiene asegurados los votos para dictaminar la suspensión de las PASO",
+     "medio": "El Diario de La Pampa",
+     "fecha": "14/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83132/senado--el-gobierno-ya-tiene-asegurados-los-votos-para-dictaminar-la-suspension-de-las-paso"
     }
    ],
    "imagen": []
@@ -297,10 +324,10 @@
      "tag": "También en Mendoza Post"
     },
     {
-     "titulo": "Mendoza jugará las finales de básquetbol masculino y femenino en los Juegos Binacionales 2026",
+     "titulo": "FUNDAVITA y los Juegos Binacionales 2026: unidos por una misma causa",
      "medio": "Prensa oficial de Mendoza",
      "fecha": "14/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/mendoza-jugara-las-finales-de-basquetbol-masculino-y-femenino-en-los-juegos-binacionales-2026/"
+     "url": "https://prensa.mendoza.gob.ar/fundavita-y-los-juegos-binacionales-2026-unidos-por-una-misma-causa/"
     }
    ],
    "imagen": []
@@ -320,11 +347,10 @@
      "url": "https://www.eldestapeweb.com/politica/misiones-fortalece-compromiso-preservacion-selva-biosfera-yaboti-mediante-compensaciones-municipios-2026111493032"
     },
     {
-     "titulo": "La Justicia declaró inconstitucional la movilidad jubilatoria del gobierno de Alberto Fernández",
+     "titulo": "Misiones recuperó empleos en agosto, pero acumula 12.402 puestos perdidos durante la era Milei",
      "medio": "Primera Edición",
      "fecha": "14/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101160221/la-justicia-declaro-inconstitucional-la-movilidad-jubilatoria-del-gobierno-de-alberto-fernandez/",
-     "tag": "También en El Territorio"
+     "url": "https://www.primeraedicion.com.ar/nota/101160318/misiones-recupero-empleos-en-agosto-pero-acumula-12-402-puestos-perdidos-durante-la-era-milei/"
     }
    ],
    "imagen": []
@@ -332,22 +358,16 @@
   "Neuquén": {
    "top3": [
     {
+     "titulo": "Obra pública Licitarán la red de cloacas para 347 lotes en San Patricio del Chañar",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "14/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/14/267315-licitaran-la-red-de-cloacas-para-347-lotes-en-san-patricio-del-chanar"
+    },
+    {
      "titulo": "Inversión en seguridad Neuquén refuerza con más equipamiento a los Grupos Especiales de la Policía",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "14/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/14/267191-neuquen-refuerza-con-mas-equipamiento-a-los-grupos-especiales-de-la-policia"
-    },
-    {
-     "titulo": "Neuquén Próximo El plan provincial que transformará el crecimiento en bienestar",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "14/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/14/267290-el-plan-provincial-que-transformara-el-crecimiento-en-bienestar"
-    },
-    {
-     "titulo": "Congreso Neuquén reunirá a casi mil participantes en un congreso de nefrología",
-     "medio": "Noticias NQN",
-     "fecha": "14/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/14/360759-neuquen-reunira-a-casi-mil-participantes-en-un-congreso-de-nefrologia"
     }
    ],
    "imagen": [
@@ -356,6 +376,12 @@
      "medio": "Noticias NQN",
      "fecha": "14/11/2026",
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/14/360753-flavia-cuinas-candidata-a-intendenta-de-alumine-por-primero-neuquen"
+    },
+    {
+     "titulo": "Elecciones 2027 Comunidad presentó sus candidatos para competir en las localidades de Neuquén",
+     "medio": "Noticias NQN",
+     "fecha": "14/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/14/360804-comunidad-presento-sus-candidatos-para-competir-en-las-localidades-de-neuquen"
     }
    ]
   },
@@ -376,30 +402,24 @@
      "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Un Hospital rionegrino que creció para atender a Cinco Saltos y a toda la región",
+     "titulo": "Eligió Río Negro para producir e incorporó maquinaria con financiamiento provincial",
      "medio": "Prensa oficial de Río Negro",
      "fecha": "14/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62829/un-hospital-rionergino-que-crecio-para-atender-a-cinco-saltos-y-a-toda-la-region",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62842/eligio-rio-negro-para-producir-e-incorporo-maquinaria-con-financiamiento-provincial",
      "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": [
     {
-     "titulo": "Elecciones 2027 en Aluminé: Flavia Cuiñas será la candidata de Mariano Gaido y Rolando Figueroa por Primero Neuquén",
+     "titulo": "Elecciones 2027 en Neuquén: Comunidad presentó sus candidatos para febrero",
      "medio": "Diario Rio Negro",
      "fecha": "14/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/elecciones-2027-en-alumine-flavia-cuinas-sera-la-candidata-de-mariano-gaido-y-rolando-figueroa-por-primero-neuquen-4798445/"
+     "url": "https://www.rionegro.com.ar/politica/elecciones-2027-en-neuquen-comunidad-presento-sus-candidatos-para-febrero-4798556/"
     }
    ]
   },
   "Salta": {
    "top3": [
-    {
-     "titulo": "Salta votará el 16 de mayo de 2027, sin PASO y con nuevas reglas electorales",
-     "medio": "Nuevo Diario de Salta",
-     "fecha": "14/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/salta-votara-el-16-de-mayo-de-2027-sin-paso-y-con-nuevas-reglas-electorales/"
-    },
     {
      "titulo": "¿DESPEGA? Sáenz pilotea para ordenar el Ministerio de Turismo de Salta, un bastión afectado por la \"pandemia económica\" Por Maira López",
      "medio": "Letra P",
@@ -407,10 +427,17 @@
      "url": "https://www.letrap.com.ar/politica/gustavo-saenz-pilotea-ordenar-el-ministerio-turismo-salta-un-bastion-afectado-la-pandemia-economica-n5428160"
     },
     {
-     "titulo": "El consumo de alcohol representa el 7,6% de las consultas en dispositivos públicos para adicciones",
+     "titulo": "A juicio dos expolicías salteños por falsear el hallazgo de un arma en el caso de las turistas francesas",
+     "medio": "Cuarto",
+     "fecha": "14/11/2026",
+     "url": "https://www.cuarto.com.ar/a-juicio-dos-expolicias-saltenos-por-falsear-el-hallazgo-de-un-arma-en-el-caso-de-las-turistas-francesas/",
+     "tag": "También en Nuevo Diario de Salta"
+    },
+    {
+     "titulo": "Embarcación continúa la asistencia para más de 200 familias",
      "medio": "Prensa oficial de Salta",
      "fecha": "14/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/el-consumo-de-alcohol-representa-el-76-de-las-consultas-en-dispositivos-publicos-para-adicciones-111108"
+     "url": "https://www.salta.gob.ar/prensa/noticias/embarcacion-continua-la-asistencia-para-mas-de-200-familias-111109"
     }
    ],
    "imagen": []
@@ -418,7 +445,7 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "09:03 Con fuerte impulso político, el Partido Libertario de San Juan comunico la aprobación judicial de su nueva Carta Orgánica",
+     "titulo": "Con fuerte impulso político, el Partido Libertario de San Juan comunico la aprobación judicial de su nueva Carta Orgánica Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "14/11/2026",
      "url": "https://www.diariodecuyo.com.ar/politica/con-fuerte-impulso-politico-el-partido-libertario-san-juan-comunico-la-aprobacion-judicial-su-nueva-carta-organica-n6588563"
@@ -431,10 +458,10 @@
      "tag": "También en 0264 Noticias"
     },
     {
-     "titulo": "08:50 La Libertad Avanza inauguró una nueva sede en San Juan y quedó a un paso de completar su expansión territorial",
-     "medio": "Diario de Cuyo",
+     "titulo": "Senado: el Gobierno ya tiene asegurados los votos para dictaminar a favor de la suspensión de las PASO",
+     "medio": "Tiempo de San Juan",
      "fecha": "14/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/la-libertad-avanza-inauguro-una-nueva-sede-san-juan-y-quedo-un-paso-completar-su-expansion-territorial-n6588562"
+     "url": "https://www.tiempodesanjuan.com/politica/senado-el-gobierno-ya-tiene-asegurados-los-votos-para-dictaminar-a-favor-de-la-suspension-de-las-paso_1794670395"
     }
    ],
    "imagen": []
@@ -459,22 +486,22 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Cronograma electoral de las provincias: qué territorios desdoblaron, cuáles irán con Nación y aquellos que están en duda",
-     "medio": "El Diario Nuevo Día",
+     "titulo": "El clave política La UCR después de la fractura: quién conduce y con quién compite en 2027",
+     "medio": "Tiempo Sur",
      "fecha": "14/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/nacionales/cronograma-electoral-de-las-provincias-que-territorios-desdoblaron-cuales-iran-con-nacion-y-aquellos-que-estan-en-duda-7513/"
+     "url": "https://www.tiemposur.com.ar/politica/la-ucr-despues-de-la-fractura-quien-conduce-y-con-quien-compite-en-2027"
     },
     {
-     "titulo": "Santa Cruz: qué dijo el ministro de Economía sobre el pago de aguinaldos",
-     "medio": "El Diario Nuevo Día",
+     "titulo": "Congreso Lanesan exige al Gobierno que diga a dónde va el dinero por combustibles",
+     "medio": "Tiempo Sur",
      "fecha": "14/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/santa-cruz-que-dijo-el-ministro-de-economia-sobre-el-pago-de-aguinaldos-5462/"
+     "url": "https://www.tiemposur.com.ar/politica/lanesan-exige-al-gobierno-que-diga-a-donde-va-el-dinero-por-combustibles"
     },
     {
-     "titulo": "Fernando Martínez agradeció a Claudio Vidal las gestiones para la futura reapertura de Manantial Espejo",
-     "medio": "Prensa oficial de Santa Cruz",
+     "titulo": "Minería Gobernador Gregores. Recuperación de Manantial Espejo: el diputado Martínez destacó la gestión del gobierno",
+     "medio": "Winfo",
      "fecha": "14/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/fernando-martinez-agradecio-a-claudio-vidal-las-gestiones-para-la-futura-reapertura-de-manantial-espejo"
+     "url": "https://winfo.ar/actualidad/2026/11/recuperacion-de-manantial-espejo-el-diputado-martinez-destaco-la-gestion-del-gobierno"
     }
    ],
    "imagen": []
@@ -488,16 +515,16 @@
      "url": "https://www.letrap.com.ar/politica/presupuesto-2027-milei-dejo-santa-fe-las-provincias-menos-inversion-per-capita-obra-publica-n5428171"
     },
     {
+     "titulo": "En detalle Celulares en la calle: qué podrá pedir la Policía de Santa Fe y qué pasa si una persona se niega Martín Fernández Silva",
+     "medio": "Aire",
+     "fecha": "14/11/2026",
+     "url": "https://www.airedesantafe.com.ar/politica/celulares-la-calle-que-podra-pedir-la-policia-santa-fe-y-que-pasa-si-una-persona-se-niega-n676834"
+    },
+    {
      "titulo": "Junta de firmas Santa Fe podría tener un nuevo feriado: qué día sería y cuál es el motivo",
      "medio": "Aire",
      "fecha": "14/11/2026",
      "url": "https://www.airedesantafe.com.ar/politica/santa-fe-podria-tener-un-nuevo-feriado-que-dia-seria-y-cual-es-el-motivo-n676798"
-    },
-    {
-     "titulo": "El futsal de Newell's juega la final de la Copa de Plata y la clasificación a la Supercopa 2027",
-     "medio": "La Capital",
-     "fecha": "14/11/2026",
-     "url": "https://www.lacapital.com.ar/ovacion/el-futsal-newells-juega-la-final-la-copa-plata-y-la-clasificacion-la-supercopa-2027-n10292068.html"
     }
    ],
    "imagen": []
@@ -505,28 +532,29 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "El gobernador Elías Suárez participó en la apertura del NASA Space Apps Challenge en el Óvalo del Parque Sur",
+     "titulo": "El Gobernador Elías Suárez participó en la apertura del NASA Space Apps Challenge en el Óvalo del Parque Sur",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "14/11/2026",
+     "url": "https://sde.gob.ar/2026/11/14/el-gobernador-elias-suarez-participo-en-la-apertura-del-nasa-space-apps-challenge-en-el-ovalo-del-parque-sur/",
+     "tag": "También en Diario Panorama, Info del Estero y 1 más"
+    },
+    {
+     "titulo": "El intendente Benavente supervisó los trabajos del Comité de Emergencia tras el fuerte temporal",
      "medio": "Diario Panorama",
      "fecha": "14/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/572980/gobernador-elias-suarez-participo-apertura-nasa-space-apps-challenge-valo-parque-sur",
-     "tag": "También en Info del Estero"
+     "url": "https://www.diariopanorama.com/noticia/572992/intendente-benavente-superviso-trabajos-comite-emergencia-tras-fuerte-temporal",
+     "tag": "También en El Liberal, Nuevo Diario Web y 1 más"
     },
     {
      "titulo": "Dilema para 2027: León XIV no va en ninguna lista",
      "medio": "Diario Panorama",
      "fecha": "14/11/2026",
      "url": "https://www.diariopanorama.com/noticia/572963/dilema-para-2027-leon-xiv-no-va-ninguna-lista"
-    },
-    {
-     "titulo": "El gobernador Elías Suárez recibió al Ballet Folclórico Latinoamericano",
-     "medio": "El Liberal",
-     "fecha": "14/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/97976/2026/11/el-gobernador-elias-suarez-recibio-al-ballet-folclorico-latinoamericano"
     }
    ],
    "imagen": [
     {
-     "titulo": "Locales El temporal en Santiago del Estero, en fotos y… El temporal en Santiago del Estero, en fotos y videos: las imágenes de una madrugada de destrozos Seguir leyendo →",
+     "titulo": "Locales El temporal en Santiago del Estero, en fotos y videos: las imágenes de una madrugada de destrozos Hace 6 horas",
      "medio": "Info del Estero",
      "fecha": "14/11/2026",
      "url": "https://infodelestero.com/2026/11/14/el-temporal-en-santiago-del-estero-en-fotos-y-videos-las-imagenes-de-una-madrugada-de-destrozos"
@@ -547,22 +575,24 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Elecciones: qué provincias desdoblaron, cuáles irán con Nación y cuáles aún no lo definieron",
-     "medio": "Los Primeros",
-     "fecha": "14/11/2026",
-     "url": "https://www.losprimeros.tv/politica/elecciones--que-provincias-desdoblaron--cuales-iran-con-nacion-y-cuales-aun-no-lo-definieron_a6af848a442fa9d9e6e0874c0"
-    },
-    {
-     "titulo": "Ley de Biocombustibles: dialoguistas y opositores abren la posibilidad de una aprobación",
-     "medio": "Los Primeros",
-     "fecha": "14/11/2026",
-     "url": "https://www.losprimeros.tv/politica/ley-de-biocombustibles--dialoguistas-y-opositores-abren-la-posibilidad-de-una-aprobacion_a6af8196942fa9d9e6e078947"
-    },
-    {
      "titulo": "Caso $Libra: dos recursos judiciales buscan reabrir la investigación que involucra a Javier y a Karina Milei",
      "medio": "La Gaceta - Tucumán",
      "fecha": "14/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1162531/politica/caso-libra-dos-recursos-judiciales-buscan-reabrir-investigacion-involucra-javier-karina-milei.html"
+     "url": "https://www.lagaceta.com.ar/nota/1162531/politica/caso-libra-dos-recursos-judiciales-buscan-reabrir-investigacion-involucra-javier-karina-milei.html",
+     "tag": "También en Los Primeros"
+    },
+    {
+     "titulo": "“Jamás votaría a Milei”: Elisa Carrió reveló qué piensa de Patricia Bullrich y apuntó contra el Presidente",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "14/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1162541/politica/jamas-votaria-milei-elisa-carrio-revelo-piensa-patricia-bullrich-apunto-contra-presidente.html"
+    },
+    {
+     "titulo": "Alerta amarillo por tormentas en Tucumán, con una vigilancia especial en Leales",
+     "medio": "LV12",
+     "fecha": "14/11/2026",
+     "url": "https://www.lv12.com.ar/tucuman/la-provincia-tucuman-se-encuentra-alerta-amarillo-n206620",
+     "tag": "También en La Gaceta - Tucumán, Los Primeros"
     }
    ],
    "imagen": []
@@ -574,7 +604,6 @@
   "https://www.hcdiputados-ba.gov.ar/",
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
-  "https://www.gba.gob.ar/gobierno/noticias",
   "https://prensa.cba.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
@@ -596,15 +625,11 @@
   "https://sanluis24.com.ar/",
   "https://elmediadortv.com.ar/",
   "https://www.opisantacruz.com.ar/",
-  "https://agenciafe.com/",
   "https://www.ellitoral.com/",
   "https://www.actualidadtdf.com.ar/",
   "https://www.infofueguina.com/",
   "https://www.minutofueguino.com.ar/",
   "https://www.tiempofueguino.com/",
-  "https://www.contextotucuman.com/",
-  "https://www.eltucumano.com/",
-  "https://tucumandespierta.com/",
   "https://www.tucumanoticias.com.ar/"
  ]
 }
