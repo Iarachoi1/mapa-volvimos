@@ -1,7 +1,7 @@
 {
  "semana": "13 de noviembre de 2026",
  "fecha": "2026-11-13",
- "actualizado": "13/11 16:44",
+ "actualizado": "13/11 21:34",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -12,16 +12,16 @@
      "url": "https://bardeo.news/politica/milei-llamo-a-alliana---tiene-en-nosotros-un-socio--un-aliado-y-un-amigo-_a6af75b9242fa9d9e6efecafd"
     },
     {
-     "titulo": "Dieron a conocer audios que complican a Lázaro Báez: ”El dueño soy yo“",
+     "titulo": "San Isidro le quitó el predio al Golf de Boulogne: debía casi $400 millones",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "13/11/2026",
-     "url": "https://bardeo.news/politica/dieron-a-conocer-audios-que-complican-a-lazaro-baez---el-dueno-soy-yo-_a6af7582742fa9d9e6efea027"
+     "url": "https://bardeo.news/politica/san-isidro-le-quito-el-predio-al-golf-de-boulogne--debia-casi--400-millones_a6af78bb142fa9d9e6e02996f"
     },
     {
-     "titulo": "Colectivos, motos, bocinas y boliches: ¿cómo controlar el ruido en la ciudad?",
+     "titulo": "Alerta por posible beneficio a represores: cambian el criterio de las domiciliarias",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "13/11/2026",
-     "url": "https://cenital.com/colectivos-motos-bocinas-y-boliches-como-controlar-el-ruido-en-la-ciudad/",
+     "url": "https://cenital.com/alerta-por-posible-beneficio-a-represores-cambian-el-criterio-de-las-domiciliarias/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
@@ -38,6 +38,13 @@
   "CABA": {
    "top3": [
     {
+     "titulo": "Cuenta regresiva en el Congreso PASO, Presupuesto e interna: el estrecho desfiladero que la Casa Rosada debe atravesar antes de fin de año Pablo Varela",
+     "medio": "Perfil",
+     "fecha": "13/11/2026",
+     "url": "https://www.perfil.com/politica/paso-presupuesto-e-interna-el-estrecho-desfiladero-que-la-casa-rosada-debe-atravesar-antes-de-fin-de-ano-ahhxs5O4dRRd",
+     "tag": "Política"
+    },
+    {
      "titulo": "“Hay que acelerar”: el Gobierno presiona a los gobernadores para suspender las PASO y define el calendario electoral",
      "medio": "Infobae",
      "fecha": "13/11/2026",
@@ -52,18 +59,25 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "La subterránea pelea por los votos de la reforma política que profundiza la interna del Gobierno con Bullrich",
-     "medio": "Infobae",
-     "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/",
-     "tag": "Política"
-    },
-    {
      "titulo": "Sin nombrar a Peña, Milei habló con el nuevo presidente de Paraguay: \"Un aliado\"",
      "medio": "El Destape",
      "fecha": "13/11/2026",
      "url": "https://www.eldestapeweb.com/politica/aliado-le-dijo-milei-nuevo-presidente-paraguay-salida-pena-20261113142528",
      "tag": "Gabinete"
+    },
+    {
+     "titulo": "ROSCA EN EL CONGRESO Presupuesto 2027: el Gobierno apura un acuerdo con el PRO para destrabar la negociación Por Mauricio Cantando",
+     "medio": "Letra P",
+     "fecha": "13/11/2026",
+     "url": "https://www.letrap.com.ar/congreso/presupuesto-2027-el-gobierno-apura-un-acuerdo-el-pro-destrabar-la-negociacion-n5428219",
+     "tag": "Política"
+    },
+    {
+     "titulo": "La subterránea pelea por los votos de la reforma política que profundiza la interna del Gobierno con Bullrich",
+     "medio": "Infobae",
+     "fecha": "13/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/",
+     "tag": "Política"
     },
     {
      "titulo": "Efecto León. Tras la visita papal, en Pro esperan que Milei se modere y acelere la negociación para confluir en 2027",
@@ -80,35 +94,27 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "De espaldas al Papa: Milei sigue frenando la ley de ludopatía",
+     "titulo": "Reforma electoral: el Gobierno busca habilitar las colectoras para fórmulas presidenciales",
      "medio": "El Destape",
      "fecha": "13/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
-     "tag": "Política"
+     "url": "https://www.eldestapeweb.com/politica/reforma-electoral-podrian-habilitar-colectoras-formulas-presidenciales-2026111316161",
+     "tag": "Calendario electoral"
     },
     {
-     "titulo": "El director de Fundación Faro planteó cómo sostener las reformas más allá de Milei: “Un cambio cultural”",
+     "titulo": "El senador Diego Valenzuela habló de la relación entre Milei y Bullrich y descartó una interna: “Se complementan”",
      "medio": "Infobae",
      "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/el-director-de-fundacion-faro-planteo-como-sostener-las-reformas-mas-alla-de-milei-un-cambio-cultural/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "La Argentina después de León: una nueva Karina Milei, la convivencia forzada con Bullrich y el golpe por la inflación",
-     "medio": "Infobae",
-     "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/la-argentina-despues-de-leon-una-nueva-karina-milei-la-convivencia-forzada-con-bullrich-y-el-golpe-por-la-inflacion/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Javier Milei habló ante empresarios y prometió llevar la apertura de la economía al 90%",
-     "medio": "Infobae",
-     "fecha": "13/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/13/javier-milei-hablo-ante-empresarios-y-prometio-llevar-la-apertura-de-la-economia-al-90/",
+     "url": "https://www.infobae.com/politica/2026/11/13/el-senador-diego-valenzuela-hablo-de-la-relacion-entre-milei-y-bullrich-y-descarto-una-interna-se-complementan/",
      "tag": "Política"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Discursos, oratoria y \"complemento\". Karina Milei abrió una nueva cuenta en redes, cambió su foto de perfil y en la Casa Rosada buscan potenciar su imagen",
+     "medio": "La Nación",
+     "fecha": "13/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/karina-milei-abrio-nueva-cuenta-en-redes-cambio-su-foto-de-perfil-y-trabajan-en-una-estrategia-para-nid13112026/"
+    },
     {
      "titulo": "Duro golpe para Javier Milei: una nueva encuesta reveló que su imagen negativa creció el último mes",
      "medio": "El Destape",
@@ -132,13 +138,13 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "La economía contra las cuerdas: los tres frentes que complican a Milei rumbo a 2027 INFORME",
+     "titulo": "La mayoría de las provincias desdoblan la elección y siguen las dudas en Buenos Aires RUMBO AL 2027",
      "medio": "La Tecla",
      "fecha": "13/11/2026",
-     "url": "https://www.latecla.info/171145-la-economia-contra-las-cuerdas-los-tres-frentes-que-complican-a-milei-rumbo-a-2027"
+     "url": "https://www.latecla.info/171156-la-mayoria-de-las-provincias-desdoblan-la-eleccion-y-siguen-las-dudas-en-la-provincia"
     },
     {
-     "titulo": "Reelecciones indefinidas en PBA: la presión de los intendentes y los rumores de extraordinarias antes de Navidad ESCENARIOS",
+     "titulo": "ESCENARIOS Reelecciones indefinidas en PBA: la presión de los intendentes y los rumores de extraordinarias antes de Navidad",
      "medio": "La Tecla",
      "fecha": "13/11/2026",
      "url": "https://www.latecla.info/171136-reelecciones-indefinidas-en-pba-la-presion-de-los-intendentes-y-los-rumores-de-extraordinarias-antes-de-navidad"
@@ -162,22 +168,22 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Empleo público ATE rechazó el proyecto de Raúl Jalil para pasar estatales al sector privado",
-     "medio": "El Ancasti",
-     "fecha": "13/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/ate-rechazo-el-proyecto-raul-jalil-pasar-estatales-al-sector-privado-n625973"
-    },
-    {
      "titulo": "CATAMARCA Jalil se une a Grobocopatel en un proyecto para trasladar personal estatal al sector privado Por Lucio Di Giuseppe",
      "medio": "Letra P",
      "fecha": "13/11/2026",
      "url": "https://www.letrap.com.ar/politica/raul-jalil-se-une-grobocopatel-un-proyecto-trasladar-personal-estatal-al-sector-privado-n5428185"
     },
     {
-     "titulo": "Minería Mamerto Acuña presentó un plan integral para que la riqueza minera se quede en Catamarca",
+     "titulo": "En 15 provincias El Gobierno dispuso la concesión por peaje de nuevos tramos de la Red Vial Nacional",
      "medio": "El Ancasti",
      "fecha": "13/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/mamerto-acuna-presento-un-plan-integral-que-la-riqueza-minera-se-quede-catamarca-n625977"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-gobierno-dispuso-la-concesion-peaje-nuevos-tramos-la-red-vial-nacional-n625976"
+    },
+    {
+     "titulo": "Iniciativa Proponen reemplazar una ley de 1957 y modernizar el Colegio de Abogados",
+     "medio": "El Ancasti",
+     "fecha": "13/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/proponen-reemplazar-una-ley-1957-y-modernizar-el-colegio-abogados-n625989"
     }
    ],
    "imagen": []
@@ -191,16 +197,16 @@
      "url": "https://www.letrap.com.ar/politica/chubut-glinski-primerea-y-le-presenta-al-pj-un-plan-gobierno-2027-n5428194"
     },
     {
-     "titulo": "Glinski presentó al PJ su propuesta para gobernar Chubut en 2027",
-     "medio": "Diario Jornada",
+     "titulo": "Sesionó el Tribunal Electoral Provincial y resolvió declarar la caducidad de 20 partidos políticos",
+     "medio": "El Chubut",
      "fecha": "13/11/2026",
-     "url": "https://www.diariojornada.com.ar/427019/politica/glinski_presento_al_pj_su_propuesta_para_gobernar_chubut_en_2027"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-13-13-30-0-sesiono-el-tribunal-electoral-provincial-y-resolvio-declarar-la-caducidad-de-20-partidos-politicos"
     },
     {
-     "titulo": "Chubut dio de baja a 20 partidos políticos: cuáles fueron los motivos de la decisión",
-     "medio": "ADN Sur",
+     "titulo": "Torres anticipó que Chubut y Río Negro podrían coincidir en el calendario electoral",
+     "medio": "El Chubut",
      "fecha": "13/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/chubut-dio-de-baja-a-20-partidos-politicos--cuales-fueron-los-motivos-de-la-decision_a6af73706ad47eda6c2add66b"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-13-9-46-0-torres-anticipo-que-chubut-y-rio-negro-podrian-coincidir-en-el-calendario-electoral"
     }
    ],
    "imagen": []
@@ -220,10 +226,10 @@
      "url": "https://www.cba24n.com.ar/cordoba/elecciones-2027-en-cordoba--bornoroni-propuso-eliminar-el-impuesto-inmobiliario-urbano-_a6af7594a3ab6ab2002fa51e7"
     },
     {
-     "titulo": "La vuelta de la Máxima. Jorge Macri apuesta a la vuelta de la Fórmula 1: \"Si hay una vacante, queremos anotarnos para 2027\"",
-     "medio": "Cadena3",
+     "titulo": "La Legislatura Histórica fue sede del Sexto Encuentro de Cafés Literarios de la Provincia",
+     "medio": "Legislatura de Córdoba",
      "fecha": "13/11/2026",
-     "url": "https://www.cadena3.com/noticia/automovilismo/jorge-macri-apuesta-a-la-vuelta-de-la-formula-1-si-hay-una-vacante-queremos-anotarnos-para-2027_612910"
+     "url": "https://legislaturacba.gob.ar/la-legislatura-historica-fue-sede-del-sexto-encuentro-de-cafes-literarios-de-la-provincia/"
     }
    ],
    "imagen": []
@@ -235,16 +241,15 @@
      "medio": "El Litoral",
      "fecha": "13/11/2026",
      "url": "https://www.ellitoral.com.ar/actualidad/2026-11-13-12-28-0-plus-de-refuerzo-en-corrientes-asi-es-el-cronograma-de-pago-de-noviembre"
-    }
-   ],
-   "imagen": [
+    },
     {
-     "titulo": "Oscar Parrilli sobre Cristina Kirchner: “Si es candidata, va a ser la presidenta en 2027\"",
+     "titulo": "Inscripciones en la Unne 2027: fechas, requisitos y cómo anotarse por SIU-Guaraní",
      "medio": "El Litoral",
      "fecha": "13/11/2026",
-     "url": "https://www.ellitoral.com.ar/radio/2026-11-13-12-11-0-oscar-parrilli-sobre-cristina-kirchner-si-es-candidata-va-a-ser-la-presidenta-en-2027"
+     "url": "https://www.ellitoral.com.ar/sociedad/2026-11-13-17-2-0-inscripciones-en-la-unne-2027-fechas-requisitos-y-como-anotarse-por-siu-guarani"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Entre Ríos": {
    "top3": [
@@ -252,19 +257,31 @@
      "titulo": "Paritaria docente: el Gobierno provincial lamentó el rechazo de la oferta y ratificó el diálogo",
      "medio": "El Once",
      "fecha": "13/11/2026",
-     "url": "https://www.elonce.com/politica/paritaria-docente-el-gobierno-lamento-el-rechazo-de-la-oferta-y-ratifico-el-dialogo.htm"
+     "url": "https://www.elonce.com/politica/paritaria-docente-el-gobierno-lamento-el-rechazo-de-la-oferta-y-ratifico-el-dialogo.htm",
+     "tag": "También en UNO ER"
+    },
+    {
+     "titulo": "Los gremios docentes rechazaron la oferta salarial y exigieron al Gobierno \"una nueva propuesta\"",
+     "medio": "El Once",
+     "fecha": "13/11/2026",
+     "url": "https://www.elonce.com/politica/los-gremios-docentes-rechazaron-la-oferta-salarial-y-exigieron-al-gobierno-una-nueva-propuesta.htm"
     },
     {
      "titulo": "La Cámara de Diputados dio media sanción al Presupuesto 2027",
      "medio": "UNO ER",
      "fecha": "13/11/2026",
      "url": "https://www.unoentrerios.com.ar/la-provincia/la-camara-diputados-dio-media-sancion-al-presupuesto-2027-n10291989.html"
-    },
+    }
+   ],
+   "imagen": []
+  },
+  "Formosa": {
+   "top3": [
     {
-     "titulo": "TERRITORIALES VS. DIGITALES Entre Ríos: las Fuerzas del Cielo le robaron una concejal al PJ y armaron un interbloque con Juntos Por Juan Pablo Scattini",
-     "medio": "Letra P",
+     "titulo": "El Gobierno nacional llamará a licitación para transferir al sector privado la concesión de las rutas 11, 81 y 86",
+     "medio": "La Mañana",
      "fecha": "13/11/2026",
-     "url": "https://www.letrap.com.ar/politica/entre-rios-las-fuerzas-del-cielo-le-robaron-una-concejal-al-pj-y-armaron-un-interbloque-juntos-n5428187"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108671/el-gobierno-nacional-llamar-a-licitacin-para-transferir-al-sector-privado-la-concesin-de-las-rutas-11-81-y-86/"
     }
    ],
    "imagen": []
@@ -275,7 +292,7 @@
      "titulo": "El Gobierno busca suspender las PASO para 2027 y acelera las negociaciones con los gobernadores",
      "medio": "Somos Jujuy",
      "fecha": "13/11/2026",
-     "url": "https://www.somosjujuy.com.ar/nacionales/el-gobierno-busca-suspender-paso-2027-acelera-negociaciones-gobernadores-n127138"
+     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-busca-suspender-paso-2027-acelera-negociaciones-gobernadores-n127138"
     },
     {
      "titulo": "Tomaron estado parlamentario los proyectos de Ordenanza Impositiva y Presupuesto Municipal",
@@ -302,18 +319,18 @@
      "url": "https://www.letrap.com.ar/politica/la-pampa-el-peronismo-pauso-la-interna-y-cerro-filas-empujar-el-ultimo-presupuesto-ziliotto-n5428190"
     },
     {
-     "titulo": "Milei conversó con el nuevo presidente de Paraguay: \"Tiene un socio, un aliado y un amigo\"",
+     "titulo": "Explosión en Escalada: un muerto, dos desaparecidos y siete heridos graves",
      "medio": "El Diario de La Pampa",
      "fecha": "13/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/pais/83082/milei-converso-con-el-nuevo-presidente-de-paraguay--tiene-un-socio-un-aliado-y-un-amigo",
-     "tag": "También en La Pampa 24"
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83093/explosion-en-remedios-de-escalada--un-muerto-dos-desaparecidos-y-siete-heridos-graves",
+     "tag": "También en La Arena, La Pampa 24"
     },
     {
-     "titulo": "Las fotos y videos del temporal que azotó a Santa Rosa",
-     "medio": "La Arena",
+     "titulo": "En agosto se perdieron más de 13.000 puestos de trabajo registrados",
+     "medio": "El Diario de La Pampa",
      "fecha": "13/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/las-fotos-del-temporal-viviendas-destrozadas-arboles-arrancados-y-el-intenso-trabajo-de-las-cuadrillas-202611131020",
-     "tag": "También en La Pampa Noticias"
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83084/en-agosto-se-perdieron-mas-de-13000-puestos-de-trabajo-registrados",
+     "tag": "También en La Arena, La Pampa 24"
     }
    ],
    "imagen": []
@@ -327,16 +344,16 @@
      "url": "https://riojavirtual.com.ar/si-no-se-caen-las-paso-lo-mejor-seria-que-votemos-en-octubre/"
     },
     {
-     "titulo": "Una empresa riojana amplió su capacidad logística para trabajar en proyectos mineros de montaña",
+     "titulo": "Milei conversó con el nuevo presidente de Paraguay: “Tiene un socio, un aliado y un amigo\"",
      "medio": "Nueva Rioja",
      "fecha": "13/11/2026",
-     "url": "https://nuevarioja.com.ar/sociedad/una-empresa-riojana-amplio-su-capacidad-logistica-para-trabajar-en-proyectos-mineros-de-montania.htm"
+     "url": "https://nuevarioja.com.ar/politica/milei-converso-con-el-nuevo-presidente-de-paraguay-tiene-un-socio-un-aliado-y-un-amigo.htm"
     },
     {
-     "titulo": "Inflación de octubre: los 10 alimentos que más aumentaron de precio",
+     "titulo": "Este lunes comienza el pago de Chachos en Capital",
      "medio": "Nueva Rioja",
      "fecha": "13/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/inflacion-de-octubre-los-10-alimentos-que-mas-aumentaron-de-precio.htm"
+     "url": "https://nuevarioja.com.ar/politica/este-lunes-comienza-el-pago-de-chachos-en-capital.htm"
     }
    ],
    "imagen": []
@@ -350,16 +367,16 @@
      "url": "https://prensa.mendoza.gob.ar/estan-abiertas-las-inscripciones-de-artistas-para-la-fiesta-nacional-de-la-vendimia-2027-y-calendario-vendimia/"
     },
     {
-     "titulo": "El cofundador de la Escuela Sistémica Argentina disertó en el Congreso de Salud Mental",
+     "titulo": "Cerró el Congreso de Salud Mental 2026",
      "medio": "Prensa oficial de Mendoza",
      "fecha": "13/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/el-cofundador-de-la-escuela-sistemica-argentina-diserto-en-el-congreso-de-salud-mental/"
+     "url": "https://prensa.mendoza.gob.ar/cerro-el-congreso-de-salud-mental-2026/"
     },
     {
-     "titulo": "Vendimia 2027 lanzó la convocatoria para bailarines, actores y músicos en Mendoza",
+     "titulo": "Las Heras logró un ahorro de más de $9.488 millones anuales en la nueva licitación de limpieza urbana",
      "medio": "Diario UNO - MDZ",
      "fecha": "13/11/2026",
-     "url": "https://www.diariouno.com.ar/sociedad/vendimia-2027-lanzo-la-convocatoria-bailarines-actores-y-musicos-mendoza-n1616300"
+     "url": "https://www.diariouno.com.ar/politica/las-heras-logro-un-ahorro-mas-9488-millones-anuales-la-nueva-licitacion-limpieza-urbana-n1616385"
     }
    ],
    "imagen": []
@@ -402,11 +419,11 @@
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/13/360698-neuquen-capital-presento-su-presupuesto-2027-la-mitad-de-los-fondos-ira-a-obras-e-infraestructura"
     },
     {
-     "titulo": "Tecnología de última generación Neuquén proyecta ampliar un 80% la red de cámaras de seguridad del área metropolitana",
+     "titulo": "Con alcance provincial Ejecutan el presupuesto para veredas, cordones cuneta y obras menores",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "13/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/13/267179-neuquen-proyecta-ampliar-un-80por_ciento-la-red-de-camaras-de-seguridad-del-area-metropolitana",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/13/267248-ejecutan-el-presupuesto-para-veredas-cordones-cuneta-y-obras-menores",
+     "tag": "También en Neuquén al Instante"
     }
    ],
    "imagen": []
@@ -414,10 +431,17 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "PASO y Presupuesto 2027: las negociaciones del Gobierno con los gobernadores entran en una etapa decisiva",
+     "titulo": "Weretilneck presentó un presupuesto con énfasis en obra pública y apoyo a sectores productivos",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "13/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62852/weretilneck-presento-un-presupuesto-con-enfasis-en-obra-publica-y-apoyo-a-sectores-productivos",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Weretilneck elevó el presupuesto de Río Negro para el 2027 y la Legislatura lo tratará el 26 de noviembre",
      "medio": "Diario Rio Negro",
      "fecha": "13/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/paso-y-presupuesto-2027-las-negociaciones-del-gobierno-con-los-gobernadores-entran-en-una-etapa-decisiva-4797801/"
+     "url": "https://www.rionegro.com.ar/politica/weretilneck-elevo-el-presupuesto-de-rio-negro-para-el-2027-y-la-legislatura-lo-tratara-el-24-de-noviembre-4797918/"
     },
     {
      "titulo": "POLÍTICA Eliminación de las PASO: el Senado retoma el debate de la reforma electoral",
@@ -425,13 +449,6 @@
      "fecha": "13/11/2026",
      "url": "https://www.anroca.com.ar/noticias/2026/11/13/232328-eliminacion-de-las-paso-el-senado-retoma-el-debate-de-la-reforma-electoral",
      "tag": "También en Noticias Net"
-    },
-    {
-     "titulo": "Últimos días para completar la regularización contractual en Río Negro",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "13/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/62853/ultimos-dias-para-completar-la-regularizacion-contractual-en-rio-negro",
-     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": [
@@ -459,11 +476,10 @@
      "url": "https://www.eltribuno.com/salta/2026-11-13-0-0-0-elecciones-provinciales-de-2027-salta-ira-a-las-urnas-el-16-de-mayo"
     },
     {
-     "titulo": "Embarcación: la situación está controlada y el Gobierno continúa con la asistencia a las familias damnificadas",
+     "titulo": "La ministra Fiore acompañó a estudiantes en la elaboración del estatuto del Consejo Asesor Estudiantil",
      "medio": "Prensa oficial de Salta",
      "fecha": "13/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/embarcacion-la-situacion-esta-controlada-y-el-gobierno-continua-con-la-asistencia-a-las-familias-damnificadas-111087",
-     "tag": "También en Nuevo Diario de Salta"
+     "url": "https://www.salta.gob.ar/prensa/noticias/la-ministra-fiore-acompanio-a-estudiantes-en-la-elaboracion-del-estatuto-del-consejo-asesor-estudiantil-111090"
     }
    ],
    "imagen": []
@@ -471,28 +487,35 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "López dijo que no ve voluntad en el Senado para aprobar la reforma electoral",
+     "titulo": "03 El Senado tratará el 17 de noviembre la reforma electoral de Milei",
      "medio": "El Zonda",
      "fecha": "13/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/lopez-dijo-que-no-ve-voluntad-en-el-senado-para-aprobar-la-reforma-electoral"
+     "url": "https://www.diarioelzondasj.com.ar/politica/el-senado-tratara-el-17-de-noviembre-la-reforma-electoral-de-milei"
     },
     {
-     "titulo": "El Senado debatirá la eliminación de las PASO desde el 17 de noviembre",
-     "medio": "El Zonda",
+     "titulo": "Alerta meteorológica en San Juan: una fuerte tormenta con granizo de gran tamaño sorprende a Media Agua",
+     "medio": "Tiempo de San Juan",
      "fecha": "13/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/el-senado-debatira-la-eliminacion-de-las-paso-desde-el-17-de-noviembre"
+     "url": "https://www.tiempodesanjuan.com/san-juan/alerta-meteorologica-en-san-juan-una-fuerte-tormenta-con-granizo-de-gran-tamano-sorprende-a-media-agua_1794613257",
+     "tag": "También en 0264 Noticias, Diario de Cuyo y 1 más"
     },
     {
-     "titulo": "El Gobierno presiona a los gobernadores para eliminar las PASO",
-     "medio": "Huarpe",
+     "titulo": "El Gobierno nacional acelera la negociación del Presupuesto 2027 y admite concesiones en las partidas para universidades y Discapacidad",
+     "medio": "0264 Noticias",
      "fecha": "13/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/el-gobierno-apura-acuerdos-con-gobernadores-para-suspender-las-paso-202611131600"
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/13/117221-el-gobierno-nacional-acelera-la-negociacion-del-presupuesto-2027-y-admite-concesiones-en-las-partidas-para-universidades-y-discapacidad"
     }
    ],
    "imagen": []
   },
   "San Luis": {
    "top3": [
+    {
+     "titulo": "Confirmado: el 2027 electoral empieza en tres semanas con el cierre de alianzas en una provincia",
+     "medio": "San Luis 24",
+     "fecha": "13/11/2026",
+     "url": "https://sanluis24.com.ar/confirmado-el-2027-electoral-empieza-en-tres-semanas-con-el-cierre-de-alianzas-en-una-provincia/"
+    },
     {
      "titulo": "El Gobernador compartió un brindis por el 140° aniversario del área de Contaduría General",
      "medio": "Prensa oficial de San Luis",
@@ -504,12 +527,6 @@
      "medio": "Prensa oficial de San Luis",
      "fecha": "13/11/2026",
      "url": "https://agenciasanluis.com/2026/11/13/1231756-el-ministro-de-desarrollo-productivo-sustentable-recibio-a-representantes-del-pmi-andes-patagonia/"
-    },
-    {
-     "titulo": "Poggi puso en funciones a José Picco como nuevo ministro de Turismo y Cultura",
-     "medio": "La Gaceta Digital",
-     "fecha": "13/11/2026",
-     "url": "https://lagacetadigital.com.ar/2026/11/13/poggi-puso-en-funciones-a-jose-picco-como-nuevo-ministro-de-turismo-y-cultura/"
     }
    ],
    "imagen": [
@@ -530,18 +547,18 @@
      "url": "https://laopinionaustral.com.ar/politica-y-economia/ezequiel-verbes-ministro-de-economia-le-niegan-la-ley-de-financiamiento-a-la-provincia-pero-piden-fondos-para-sueldos-731758.html"
     },
     {
-     "titulo": "A partir del 26 de noviembre se actualizarán los aranceles de DNI y pasaportes",
-     "medio": "Prensa oficial de Santa Cruz",
+     "titulo": "Claudio Vidal: “El trabajo santacruceño se defiende con decisiones, no con discurso”",
+     "medio": "La Opinión Austral",
      "fecha": "13/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/noticias-feed/a-partir-del-26-de-noviembre-se-actualizaran-los-aranceles-de-dni-y-pasaportes",
-     "tag": "También en La Opinión Austral, Tiempo Sur"
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/claudio-vidal-el-trabajo-santacruceno-se-defiende-con-decisiones-no-con-discurso-731840.html",
+     "tag": "También en Tiempo Sur"
     },
     {
-     "titulo": "Álvarez: “Santa Cruz está ávida de inversión privada y trabajo genuino”",
-     "medio": "Prensa oficial de Santa Cruz",
+     "titulo": "Santa Cruz Manantial Espejo: Su reactivación proyecta 300 empleos directos",
+     "medio": "Tiempo Sur",
      "fecha": "13/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/alvarez-santa-cruz-esta-avida-de-inversion-privada-y-trabajo-genuino",
-     "tag": "También en Tiempo Sur"
+     "url": "https://www.tiemposur.com.ar/politica/manantial-espejo-su-reactivacion-proyecta-300-empleos-directos",
+     "tag": "También en La Opinión Austral"
     }
    ],
    "imagen": []
@@ -555,36 +572,42 @@
      "url": "https://www.letrap.com.ar/politica/santa-fe-el-intendente-radical-viotti-va-la-reeleccion-rafaela-y-endurece-su-discurso-n5428156"
     },
     {
-     "titulo": "Pullaro apura una reforma para acelerar juicios y digitalizar expedientes",
-     "medio": "Rosario Plus",
+     "titulo": "Milei respaldó al nuevo presidente de Paraguay y acordaron reunirse:",
+     "medio": "UNO - SF",
      "fecha": "13/11/2026",
-     "url": "https://www.rosarioplus.com/actualidad/politica/pullaro-apura-una-reforma-para-acelerar-juicios-y-digitalizar-expedientes_a6af74ec642fa9d9e6efe0182"
+     "url": "https://www.unosantafe.com.ar/politica/milei-respaldo-al-nuevo-presidente-paraguay-y-acordaron-reunirse-tiene-nosotros-un-socio-un-aliado-y-un-amigo-n10292101.html",
+     "tag": "También en Rosario3"
     },
     {
-     "titulo": "El Niño en Santa Fe: el gobierno provincial lanzó una web para centralizar alertas y datos",
-     "medio": "La Capital",
+     "titulo": "En Rosario El Partido Socialista de Santa Fe reunió cerca de 100 referentes con la mirada puesta en 2027",
+     "medio": "Aire",
      "fecha": "13/11/2026",
-     "url": "https://www.lacapital.com.ar/la-ciudad/el-nino-santa-fe-el-gobierno-provincial-lanzo-una-web-centralizar-alertas-y-datos-n10291994.html",
-     "tag": "También en Rosario Plus"
+     "url": "https://www.airedesantafe.com.ar/el-partido-socialista-santa-fe-reunio-100-referentes-la-mirada-puesta-2027-n676755"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Galería de imágenes En fotos: el río Paraná sigue creciendo y se acerca al nivel de evacuación en Santa Fe",
+     "medio": "Aire",
+     "fecha": "13/11/2026",
+     "url": "https://www.airedesantafe.com.ar/santa-fe/en-fotos-el-rio-parana-sigue-creciendo-y-se-acerca-al-nivel-evacuacion-santa-fe-n676748"
+    }
+   ]
   },
   "Santiago del Estero": {
    "top3": [
-    {
-     "titulo": "Elias Suárez recibió a miembros del Ballet Folclórico Latinoamericano Santiago del Estero",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "13/11/2026",
-     "url": "https://sde.gob.ar/2026/11/13/elias-suarez-recibio-a-miembros-del-ballet-folclorico-latinoamericano-santiago-del-estero/",
-     "tag": "También en Diario Panorama, El Liberal y 2 más"
-    },
     {
      "titulo": "El Gordo de Navidad de la Lotería de Santiagueña tendrá un primer premio de 300.000.000 millones de pesos",
      "medio": "Prensa oficial de Santiago del Estero",
      "fecha": "13/11/2026",
      "url": "https://sde.gob.ar/2026/11/13/el-gordo-de-navidad-de-la-loteria-de-santiaguena-tendra-un-primer-premio-de-300-000-000-millones-de-pesos/",
      "tag": "También en Diario Panorama, El Liberal y 1 más"
+    },
+    {
+     "titulo": "Milei acelera las negociaciones por el Presupuesto 2027 y la suspensión de las PASO: se agotan los plazos",
+     "medio": "Diario Panorama",
+     "fecha": "13/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/572912/milei-acelera-negociaciones-presupuesto-2027-suspension-paso-se-agotan-plazos"
     },
     {
      "titulo": "Presupuesto 2027: el Gobierno negocia cambios en fondos para universidades y Discapacidad",
@@ -658,10 +681,10 @@
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
+  "https://www.diariojornada.com.ar/home",
   "https://lmdiario.com.ar/",
   "https://ahora.com.ar/",
   "https://www.elcomercial.com.ar/",
-  "https://www.xn--lamaanaonline-lkb.com.ar/",
   "https://www.jujuyaldia.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
