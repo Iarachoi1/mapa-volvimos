@@ -1,58 +1,67 @@
 {
- "actualizado": "14/11 08:25",
+ "actualizado": "14/11 09:30",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "cristina fernández de kirchner",
+   "tema": "policía",
    "busquedas": "100+",
-   "nota": "La UIF apuntó a Cristina Kirchner como jefa de una asociación ilícita para quedarse con fondos públicos",
-   "nota_url": "https://www.perfil.com/personas/la-uif-apunto-a-cristina-kirchner-como-jefa-de-una-asociacion-ilicita-para-quedarse-con-fondos-publicos-aavRe3r3jUh5",
-   "medio": "Perfil",
+   "nota": "Mataron a un cabo de la Policía Federal al que asaltaron en Merlo cuando volvía a su casa en moto: le robaron el arma y le dispararon",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/mataron-a-un-cabo-de-la-policia-federal-al-que-asaltaron-cuando-volvia-a-su-casa-en-moto-le-robaron-nid12112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "weather",
-   "busquedas": "200+",
-   "nota": "NBC 5 Forecast: A slight drop in temperatures ahead for North Texas",
-   "nota_url": "https://www.nbcdfw.com/video/video-weather/nbc-5-forecast-a-slight-drop-in-temperatures-ahead-for-north-texas/4104831/",
-   "medio": "NBC 5 Dallas-Fort Worth",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santiago del moro",
+   "tema": "james vowles",
    "busquedas": "100+",
-   "nota": "Revelaron la primera convocada para Bailado por las Estrellas",
-   "nota_url": "https://www.lt10.com.ar/noticia/513784--revelaron-la-primera-convocada-para-bailado-por-las-estrellas",
-   "medio": "LT10",
+   "nota": "El movimiento en cadena que podría llevar a Colapinto a cambiar de equipo",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/11/el-movimiento-en-cadena-que-podria-llevar-a-colapinto-a-cambiar-de-equipo/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima salta",
+   "tema": "teams",
+   "busquedas": "5000+",
+   "nota": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
+   "nota_url": "https://www.espn.com/college-football/story/_/id/50475169/faa-ground-stop-disrupting-travel-college-football-teams",
+   "medio": "ESPN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rocío robles",
    "busquedas": "100+",
-   "nota": "Región: doble alerta por tormentas fuertes y temperaturas arriba de 40 grados",
-   "nota_url": "https://fmalba.com.ar/region-doble-alerta-por-tormentas-fuertes-y-temperaturas-arriba-de-40-grados/",
-   "medio": "FM Alba",
+   "nota": "De Guillermina Valdés a Adrián Suar y su novia, Rocío Robles: 14 fotos de una noche de gala y solidaridad en la histórica \"Casa Redonda\" de Barrio Parque",
+   "nota_url": "https://www.revistagente.com/galerias/de-guillermina-valdes-a-adrian-suar-y-su-novia-rocio-robles-14-fotos-de-una-noche-de-gala-y-solidaridad-en-la-historica-casa-redonda-de-barrio-parque/",
+   "medio": "Revista GENTE",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cotizacion dolar blue hoy",
-   "busquedas": "500+",
-   "nota": "Mercados. Dólar blue hoy en Córdoba: cuál es el valor de referencia de este sábado 14 de noviembre",
-   "nota_url": "https://www.lavoz.com.ar/negocios/dolar-blue-hoy-cordoba-valor-referencia-sabado-14-noviembre_0_1dcTqncOWz.html",
+   "tema": "suquia",
+   "busquedas": "2000+",
+   "nota": "Clima. Tres rescatados tras la fuerte tormenta en Córdoba",
+   "nota_url": "https://www.lavoz.com.ar/sucesos/rescatados-fuerte-tormenta-cordoba_0_UrylRcaL5c.html",
    "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pumas vs italia",
-   "busquedas": "200+",
+   "tema": "clima jujuy",
+   "busquedas": "100+",
+   "nota": "Calor en Jujuy: recomendaciones para prevenir golpes de calor y deshidratación durante los próximos días",
+   "nota_url": "https://www.somosjujuy.com.ar/jujuy/calor-jujuy-recomendaciones-prevenir-golpes-calor-deshidratacion-durante-proximos-dias-n127046",
+   "medio": "Somos Jujuy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los pumas",
+   "busquedas": "2000+",
    "nota": "Italia se aferra al scrum para empujar contra su campo a los Pumas",
    "nota_url": "https://www.lanacion.com.ar/deportes/rugby/italia-se-aferra-al-scrum-para-empujar-contra-su-campo-a-los-pumas-nid13112026/",
    "medio": "La Nación",
@@ -60,38 +69,29 @@
    "temas": []
   },
   {
-   "tema": "brasil",
-   "busquedas": "200+",
-   "nota": "Japão X Brasil - AO MINUTO",
-   "nota_url": "https://maisfutebol.iol.pt/jogo/aominuto/japao/brasil/13841573",
-   "medio": "Maisfutebol",
+   "tema": "clima salta",
+   "busquedas": "2000+",
+   "nota": "Región: doble alerta por tormentas fuertes y temperaturas arriba de 40 grados",
+   "nota_url": "https://fmalba.com.ar/region-doble-alerta-por-tormentas-fuertes-y-temperaturas-arriba-de-40-grados/",
+   "medio": "FM Alba",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "japón - brasil",
-   "busquedas": "10000+",
-   "nota": "Japón vs. Brasil por el amistoso internacional 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/japon-vs-brasil-por-el-amistoso-internacional-2026-dia-hora-y-como-seguir-online-nid13112026/",
-   "medio": "La Nación",
-   "relevante": false,
+   "tema": "cristina fernández de kirchner",
+   "busquedas": "200+",
+   "nota": "La UIF apuntó a Cristina Kirchner como jefa de una asociación ilícita para quedarse con fondos públicos",
+   "nota_url": "https://www.perfil.com/personas/la-uif-apunto-a-cristina-kirchner-como-jefa-de-una-asociacion-ilicita-para-quedarse-con-fondos-publicos-aavRe3r3jUh5",
+   "medio": "Perfil",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "juez",
+   "tema": "santiago del moro",
    "busquedas": "200+",
-   "nota": "La Corte Interamericana responsabilizó a la Argentina por la destitución del ex juez de la Corte Suprema Eduardo Moliné OCconor",
-   "nota_url": "https://www.palabrasdelderecho.com.ar/articulo/7099/La-Corte-Interamericana-responsabilizo-a-la-Argentina-por-la-destitucion-del-ex-juez-de-la-Corte-Suprema-Eduardo-Moline-OCconor",
-   "medio": "Palabras del Derecho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "14 de noviembre",
-   "busquedas": "200+",
-   "nota": "Horóscopo de hoy, sábado 14 de noviembre: las predicciones para la salud, el amor y el dinero",
-   "nota_url": "https://www.clarin.com/astrologia/horoscopo-hoy-sabado-14-noviembre-predicciones-salud-amor-dinero_0_NHwypzG1Ah.html",
-   "medio": "Clarin.com",
+   "nota": "Se viene el duelo por el \"Bailando\"",
+   "nota_url": "https://www.elliberal.com.ar/nota/97952/2026/11/se-viene-el-duelo-por-el-bailando",
+   "medio": "El Liberal",
    "relevante": false,
    "temas": []
   }
