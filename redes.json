@@ -1,13 +1,76 @@
 {
- "actualizado": "13/11 22:51",
+ "actualizado": "13/11 23:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "guatemala - canadá",
+   "tema": "desakta2",
+   "busquedas": "100+",
+   "nota": "Siniestro vial. Tragedia en Córdoba: un motociclista de 22 años murió tras perder el control y caer en barrio Autódromo",
+   "nota_url": "https://www.lavoz.com.ar/sucesos/tragedia-cordoba-motociclista-22-anos-murio-perder-control-caer-barrio-autodromo_0_NmH2JD0FGj.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "precio dolar blue",
+   "busquedas": "1000+",
+   "nota": "Dólar hoy: a cuánto cotizaron el oficial, el blue, el mayorista, el MEP, el CCL y el Cripto este viernes 13 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/13/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-viernes-13-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "spurs - warriors",
+   "busquedas": "500+",
+   "nota": "Warriors vs Spurs NBA Cup: Here's how to watch",
+   "nota_url": "https://www.sfgate.com/shopping/article/warriors-vs-spurs-nba-cup-how-to-watch-22526822.php",
+   "medio": "SFGATE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético de madrid",
    "busquedas": "200+",
+   "nota": "El Atlético de Madrid compra otro club",
+   "nota_url": "https://www.fichajes.com/a4014572151544065853-el-atletico-de-madrid-compra-otro-club",
+   "medio": "Fichajes.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lilia lemoine",
+   "busquedas": "100+",
+   "nota": "Fórmula presidencial: Lemoine propone a Milei y Bullrich",
+   "nota_url": "https://cuestionentrerriana.com.ar/delirio-electoralista-libertario-en-plena-crisis-lilia-lemoine-propone-a-patricia-bullrich-como-vicepresidenta/",
+   "medio": "Cuestión Entrerriana",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "cuánto salió argentina",
+   "busquedas": "100+",
+   "nota": "Golpe al mito para las vacaciones: por qué comer en Mar del Plata es más barato que en Brasil",
+   "nota_url": "https://www.0223.com.ar/nota/2026-11-12-21-34-0-golpe-al-mito-para-las-vacaciones-por-que-comer-en-mar-del-plata-es-mas-barato-que-en-brasil",
+   "medio": "0223.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bulls - hawks",
+   "busquedas": "100+",
+   "nota": "Hawks' Kingston Flemings: Available Friday",
+   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/hawks-kingston-flemings-available-friday/",
+   "medio": "CBS Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guatemala - canadá",
+   "busquedas": "1000+",
    "nota": "Guatemala y Canadá se juegan la clasificación a la Copa Oro",
    "nota_url": "https://www.infobae.com/america/agencias/2026/11/12/guatemala-y-canada-se-juegan-la-clasificacion-a-la-copa-oro/",
    "medio": "Infobae",
@@ -16,7 +79,7 @@
   },
   {
    "tema": "christian cousins",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Kindergarten Cop star Christian Cousins’ haunting health worry in final post before death at 43",
    "nota_url": "https://www.themirror.com/entertainment/christian-cousins-health-last-post-2109197",
    "medio": "The Mirror US",
@@ -25,74 +88,11 @@
   },
   {
    "tema": "crucero nueva orleans",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Última hora del choque de un buque cisterna con un crucero fluvial cerca de Nueva Orleans: víctimas, rescates y más",
    "nota_url": "https://cnnespanol.cnn.com/2026/11/13/eeuu/live-news/choque-buque-cisterna-crucero-nueva-orleans-victimas-rescates-trax",
    "medio": "CNN en Español",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "heat - cavaliers",
-   "busquedas": "200+",
-   "nota": "GAME THREAD: Miami Heat (5-6) return home seeking third straight win against Cleveland Cavaliers (6-6)",
-   "nota_url": "https://hothothoops.com/2026/11/13/game-thread-miami-heat-5-6-return-home-seeking-third-straight-win-against-cleveland-cavaliers-6-6/",
-   "medio": "Hot Hot Hoops",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "karina milei",
-   "busquedas": "100+",
-   "nota": "La tensión con Bullrich signará la semana del retorno de la mesa política de Karina",
-   "nota_url": "https://www.latecla.info/171162-la-tension-con-bullrich-signara-la-semana-del-retorno-de-la-mesa-politica-de-karina",
-   "medio": "La Tecla",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "internacional de bogotá - santa fe",
-   "busquedas": "1000+",
-   "nota": "Internacional de Bogotá y Santa Fe se enfrentan este viernes por la Liga Dimayor",
-   "nota_url": "https://www.boyacaradio.com/noticia.php?id=65135",
-   "medio": "Boyaca Radio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "soule matias",
-   "busquedas": "200+",
-   "nota": "Without Dybala, Roma lose none of their attacking threat: Mora and Soulé take off, goal average rises",
-   "nota_url": "https://www.gazzetta.it/en/football/teams/roma/news/11-11-2026/roma-goal-average-without-dybala-rises-thanks-to-mora-and-soule.shtml",
-   "medio": "La Gazzetta dello Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mac allister",
-   "busquedas": "100+",
-   "nota": "Alexis Mac Allister marcó en la victoria del Liverpool y habló sobre su futuro: el club no le ofreció renovar su contrato",
-   "nota_url": "https://diarioneuquino.com.ar/alexis-mac-allister-marco-en-la-victoria-del-liverpool-y-hablo-sobre-su-futuro-el-club-no-le-ofrecio-renovar-su-contrato/",
-   "medio": "Diario Neuquino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "zaira nara",
-   "busquedas": "100+",
-   "nota": "De Cande Vetrano y Eva De Dominici a Zuzu Coudeu y Paloma Cepeda: todos los looks de Alcorta Edition",
-   "nota_url": "https://caras.perfil.com/noticias/moda/de-cande-vetrano-y-eva-de-dominici-a-zuzu-coudeu-y-paloma-cepeda-todos-los-looks-de-una-nueva-edicion-de-alcorta-edition.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alberto fernández",
-   "busquedas": "1000+",
-   "nota": "Un fallo declaró inconstitucional la fórmula jubilatoria del gobierno de Alberto Fernández y ordenó recalcular haberes",
-   "nota_url": "https://tn.com.ar/politica/2026/11/13/un-fallo-declaro-inconstitucional-la-formula-jubilatoria-del-gobierno-de-alberto-fernandez-y-ordeno-recalcular-haberes/",
-   "medio": "TN",
-   "relevante": true,
    "temas": []
   }
  ],
