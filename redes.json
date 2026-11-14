@@ -1,16 +1,25 @@
 {
- "actualizado": "14/11 02:38",
+ "actualizado": "14/11 03:40",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "clima catamarca",
+   "busquedas": "100+",
+   "nota": "Catamarca registró más de 41 °C y alcanzó la temperatura más alta del año",
+   "nota_url": "https://www.elesquiu.com/sociedad/2026/11/13/catamarca-registro-mas-de-41-c-y-alcanzo-la-temperatura-mas-alta-del-ano-603297.html",
+   "medio": "El Esquiu",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "lj cryer",
    "busquedas": "100+",
-   "nota": "Warriors lose guard Brandon Williams to mild hamstring strain",
-   "nota_url": "https://www.espn.com/nba/story/_/id/50446131/sources-warriors-lose-brandon-williams-hamstring-strain",
-   "medio": "ESPN",
+   "nota": "Charles Bassey, L.J. Cryer look ahead to Warriors' five-game road trip",
+   "nota_url": "https://sports.yahoo.com/videos/charles-bassey-l-j-cryer-075434721.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -24,29 +33,20 @@
    "temas": []
   },
   {
-   "tema": "posiciones de internacional de bogotá contra independiente santa fe",
-   "busquedas": "2000+",
-   "nota": "Tabla de reclasificación con la victoria de Santa Fe: cambiaron los cupos a Libertadores",
-   "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-reclasificacion-con-la-victoria-de-santa-fe-cambiaron-los-cupos-a-libertadores/202615/",
-   "medio": "Revista Semana",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "clippers - thunder",
-   "busquedas": "200+",
-   "nota": "!![LIVE@TV] Oklahoma City Thunder vs. Los Angeles Clippers ＬＩＶＥ Ｓｔｒｅａｍｓ NBA",
-   "nota_url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldGRiZHMuZ2l0aHViLmlvL2h2dGN2L3RoLnhtbCIvPjwva3JwYW5vPg==&id=video-livetv-oklahoma-city-thunder-nzhe3pgn",
-   "medio": "日本取引所グループ",
+   "busquedas": "500+",
+   "nota": "Aday Mara starts, blocks three shots vs. Clippers",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/aday-mara-starts-blocks-three-shots-vs-clippers",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - trail blazers",
-   "busquedas": "100+",
-   "nota": "Kings-Trail Blazers: First FG Scorer Odds & Picks – Nov. 13",
-   "nota_url": "https://sports.betmgm.com/en/blog/nba/trail-blazers-kings-first-fg-scorer-odds-picks-november-13-gaa/",
-   "medio": "sports.betmgm.com",
+   "busquedas": "200+",
+   "nota": "Toumani Camara has two steals and a block vs Kings",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/toumani-camara-has-two-steals-and-a-block-vs-kings",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
@@ -78,20 +78,20 @@
    "temas": []
   },
   {
-   "tema": "spurs - warriors",
-   "busquedas": "2000+",
-   "nota": "That 18-0 Spurs run is the longest unanswered allowed …",
-   "nota_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/that-18-0-spurs-run-is-the-longest-unanswered-allowed/92773943007/",
-   "medio": "HoopsHype",
+   "tema": "fuerza aérea de los estados unidos",
+   "busquedas": "200+",
+   "nota": "EEUU responde ante la sospecha de actividad de dron sobre base británica",
+   "nota_url": "https://www.clarin.com/estados-unidos/eeuu-responde-ante-la-sospecha-de-actividad-de-dron-sobre-base-britanica_0_EIpAYdrq9g.html",
+   "medio": "Clarín",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mercado cambiario",
-   "busquedas": "1000+",
-   "nota": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
-   "nota_url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069",
-   "medio": "Ambito",
+   "tema": "spurs - warriors",
+   "busquedas": "2000+",
+   "nota": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
+   "nota_url": "https://sports.yahoo.com/articles/spurs-ambush-warriors-first-quarter-030853064.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
