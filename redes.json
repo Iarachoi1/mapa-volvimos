@@ -1,25 +1,209 @@
 {
- "actualizado": "14/11 12:27",
- "fuentes_con_error": [
-  "tendencias_x"
+ "actualizado": "14/11 13:27",
+ "fuentes_con_error": [],
+ "tendencias_x": [
+  {
+   "tema": "Messi",
+   "url": "https://x.com/search?q=Messi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Uruguay",
+   "url": "https://x.com/search?q=Uruguay",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Balerdi",
+   "url": "https://x.com/search?q=Balerdi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nelson Castro",
+   "url": "https://x.com/search?q=Nelson%20Castro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Scaloni",
+   "url": "https://x.com/search?q=Scaloni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Remedios de Escalada",
+   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rulli",
+   "url": "https://x.com/search?q=Rulli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Los Pumas",
+   "url": "https://x.com/search?q=Los%20Pumas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gran Rex",
+   "url": "https://x.com/search?q=Gran%20Rex",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BTS PAVED THE WAY",
+   "url": "https://x.com/search?q=BTS%20PAVED%20THE%20WAY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "CONGRATULATIONS BTS",
+   "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MrFanboyFinalEP",
+   "url": "https://x.com/search?q=%23MrFanboyFinalEP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Microsoft",
+   "url": "https://x.com/search?q=Microsoft",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Prestianni",
+   "url": "https://x.com/search?q=Prestianni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#IcardiEsLaVictima",
+   "url": "https://x.com/search?q=%23IcardiEsLaVictima",
+   "relevante": false,
+   "temas": []
+  }
  ],
- "tendencias_x": [],
  "google": [
   {
-   "tema": "kosovo vs",
+   "tema": "noruega - gales",
+   "busquedas": "1000+",
+   "nota": "Pronóstico Noruega vs Gales UEFA Nations League ronda 5 grupo 4 Liga A",
+   "nota_url": "https://www.sportytrader.com/es/pronosticos/noruega-gales-387262/",
+   "medio": "SportyTrader",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "devolución",
+   "busquedas": "200+",
+   "nota": "Kicillof da marcha atrás y devuelve el descuento a docentes por el paro del 15 de octubre",
+   "nota_url": "https://www.latecla.info/171124-kicillof-da-marcha-atras-y-devuelve-el-descuento-a-docentes-por-el-paro-del-15-de-octubre",
+   "medio": "La Tecla",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "kosovo - israel",
    "busquedas": "100+",
-   "nota": "Kosovo vs. Israel en vivo: dónde ver por TV y streaming online, por la fecha 5 de la Liga de Naciones",
-   "nota_url": "https://bolavip.com/ar/futbol-internacional/kosovo-vs-israel-en-vivo-donde-ver-por-tv-y-streaming-online-por-la-fecha-5-de-la-liga-de-naciones",
-   "medio": "Bolavip Argentina",
+   "nota": "Foda para ndeshjes me Izraelin: Presim fitore, secilit lojtar i besoj",
+   "nota_url": "https://reporteri.net/en/sport/Foda-before-the-match-with-Israel-we-expect-victory-I-trust-every-player/",
+   "medio": "Reporteri.net",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hugo moyano",
+   "busquedas": "200+",
+   "nota": "Santa Fe: un hombre de Hugo Moyano tomó la conducción del club que Marcos Cleri dejó en crisis",
+   "nota_url": "https://www.letrap.com.ar/futbol-y-politica/santa-fe-un-hombre-hugo-moyano-tomo-la-conduccion-del-club-que-marcos-cleri-dejo-crisis-n5428125",
+   "medio": "Letra P",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "maria becerra",
+   "busquedas": "100+",
+   "nota": "Cartelera porteña",
+   "nota_url": "https://www.eldia.com/espectaculos/cartelera-portena-espectaculos_1794548082",
+   "medio": "Diario El Día de La Plata",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "granizo",
+   "busquedas": "5000+",
+   "nota": "Temporal severo en Córdoba dejó evacuados, destrozos y un tornado tras una tarde de calor extremo",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/14/temporal-severo-en-cordoba-dejo-evacuados-destrozos-y-un-tornado-tras-una-tarde-de-calor-extremo/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "kosovo vs",
+   "busquedas": "200+",
+   "nota": "Kosovo complicó su ascenso y empató con Israel en Nations League",
+   "nota_url": "https://www.vermouth-deportivo.com.ar/kosovo-complico-su-ascenso-y-empato-con-israel-en-nations-league/",
+   "medio": "Vermouth Deportivo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "viento",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Fuertes ráfagas de viento provocaron destrozos en Santiago del Estero: cayeron árboles y carteles",
    "nota_url": "https://www.elliberal.com.ar/nota/98008/2026/11/fuertes-rafagas-de-viento-provocaron-destrozos-en-santiago-del-estero--cayeron-arboles-y-carteles",
    "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estocolmo open",
+   "busquedas": "100+",
+   "nota": "Thiago Tirante logró un triunfo histórico en Estocolmo y jugará su primera final ATP",
+   "nota_url": "https://tn.com.ar/deportes/tenis/2026/11/13/thiago-tirante-logro-un-triunfo-historico-en-estocolmo-y-jugara-su-primera-final-atp/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -29,69 +213,6 @@
    "nota": "WSL fixtures this weekend: TV channels and free streams",
    "nota_url": "https://dave.sport/news/wsl-fixtures-this-weekend-tv-channels/",
    "medio": "Dave.Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gales - nueva zelanda",
-   "busquedas": "1000+",
-   "nota": "Nueva Zelanda sin todas sus figuras visita a Gales en el Principality de Cardiff",
-   "nota_url": "https://www.rugbychampagneweb.com/internacionales/nations-championship-2026/nueva-zelanda-sin-todas-sus-figuras-visita-a-gales-en-el-principality-de-cardiff",
-   "medio": "Rugby Champagne",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nations championship",
-   "busquedas": "500+",
-   "nota": "$~*[VER FÚTBOL_PARTIDO@@] Argentina vs Italia rugby Transmisión En Directo Gratis TV",
-   "nota_url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbW9oaWR1bDA5LmdpdGh1Yi5pby9tb2gvZ2ZmLnhtbCIvPjwva3JwYW5vPg==&id=video-argentina-vs-italia-rugby-match-lie-pckjbsy",
-   "medio": "日本取引所グループ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "thiago tirante",
-   "busquedas": "200+",
-   "nota": "Se define el último finalista de la Copa Argentina y juegan Los Pumas: la agenda deportiva de este sábado",
-   "nota_url": "https://www.rosarionuestro.com/se-define-el-ultimo-finalista-de-la-copa-argentina-y-juegan-los-pumas-la-agenda-deportiva-de-este-sabado",
-   "medio": "Rosario Nuestro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estados unidos suspende vuelos",
-   "busquedas": "20000+",
-   "nota": "Así se veía el espacio aéreo de Estados Unidos en medio de la suspensión de todos los vuelos",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/asi-se-veia-el-espacio-aereo-de-estados-unidos-en-medio-de-la-suspension-de-todos-los-vuelos-nid14112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "japan vs brazil",
-   "busquedas": "100+",
-   "nota": "Football: Sakamoto goal sends Japan past Brazil for 2nd straight friendly",
-   "nota_url": "https://english.kyodonews.net/articles/-/91450",
-   "medio": "Japan Wire by Kyodo News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa potrero",
-   "busquedas": "2000+",
-   "nota": "De los barrios de Rosario a la pantalla de ESPN: \"La Rosario FC\" va por la gloria en la Copa Potrero",
-   "nota_url": "https://rosariolaciudad.com.ar/de-los-barrios-de-rosario-a-la-pantalla-de-espn-la-rosario-fc-va-por-la-gloria-en-la-copa-potrero/",
-   "medio": "Rosario la Ciudad",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tirante",
-   "busquedas": "2000+",
-   "nota": "Fritz ends season with Stockholm title",
-   "nota_url": "https://www.atptour.com/en/news/fritz-tirante-stockholm-2026-final-saturday",
-   "medio": "ATP Tour",
    "relevante": false,
    "temas": []
   }
