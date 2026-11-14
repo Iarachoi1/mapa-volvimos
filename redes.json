@@ -1,31 +1,49 @@
 {
- "actualizado": "14/11 05:38",
+ "actualizado": "14/11 06:34",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
-   "tema": "nuevo diario",
-   "busquedas": "200+",
-   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
-   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
-   "medio": "El Liberal",
+   "tema": "14 de noviembre",
+   "busquedas": "100+",
+   "nota": "Horóscopo del sábado 14 de noviembre de 2026 para los 12 signos",
+   "nota_url": "https://www.eleco.com.ar/horoscopo/horoscopo-del-sabado-14-de-noviembre-de-2026-para-los-12-signos",
+   "medio": "El Eco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "a",
-   "busquedas": "2000+",
-   "nota": "Live updates: Thousands of travelers stranded as some flights resume after hours-long ground stop",
-   "nota_url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
-   "medio": "CNN",
+   "tema": "evento de el niño de 2026-2027",
+   "busquedas": "100+",
+   "nota": "What the new 'astonishing' El Niño forecast means for California",
+   "nota_url": "https://www.sfgate.com/weather/article/new-el-nino-forecast-22523911.php",
+   "medio": "SFGATE",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "dolar hoy binance",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luis caputo",
+   "busquedas": "100+",
+   "nota": "El plan de Luis Caputo no logra bajar más la inflación, pero la estrategia de su sobrino Santiago encontró otro culpable",
+   "nota_url": "https://tn.com.ar/opinion/2026/11/14/el-plan-de-luis-caputo-no-logra-bajar-mas-la-inflacion-pero-la-estrategia-de-su-sobrino-santiago-encontro-otro-culpable/",
+   "medio": "TN",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "clima corrientes",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Hay alerta naranja por tormentas para este sábado 14 de noviembre en Corrientes: las zonas afectadas",
    "nota_url": "https://tn.com.ar/clima/alertas/2026/11/14/hay-alerta-naranja-por-tormentas-para-este-sabado-14-de-noviembre-en-corrientes-las-zonas-afectadas/",
    "medio": "TN",
@@ -35,19 +53,10 @@
   {
    "tema": "clima tucuman",
    "busquedas": "500+",
-   "nota": "Clima en Tucumán: cielo claro y calor intenso para este viernes 13 de noviembre",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/13/clima-en-tucuman-hoy-viernes-13-de-noviembre-lluvia-ligera-y-calor-extremo/",
-   "medio": "TN",
+   "nota": "\"Tre - men - do\": urgente, el anticipo del tiempo para todo Tucumán",
+   "nota_url": "https://www.eltucumano.com/amp/noticia/libre/327683/tre-men-do-urgente-el-anticipo-del-tiempo-para-todo-tucuman",
+   "medio": "el tucumano",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ganamos",
-   "busquedas": "200+",
-   "nota": "Fórmula presidencial: Lemoine propone a Milei y Bullrich",
-   "nota_url": "https://cuestionentrerriana.com.ar/delirio-electoralista-libertario-en-plena-crisis-lilia-lemoine-propone-a-patricia-bullrich-como-vicepresidenta/",
-   "medio": "Cuestión Entrerriana",
-   "relevante": true,
    "temas": []
   },
   {
@@ -69,29 +78,20 @@
    "temas": []
   },
   {
+   "tema": "clima santiago del estero",
+   "busquedas": "200+",
+   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
+   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "posiciones de internacional de bogotá contra independiente santa fe",
    "busquedas": "2000+",
    "nota": "Tabla de reclasificación con la victoria de Santa Fe: cambiaron los cupos a Libertadores",
    "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-reclasificacion-con-la-victoria-de-santa-fe-cambiaron-los-cupos-a-libertadores/202615/",
    "medio": "Revista Semana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clippers - thunder",
-   "busquedas": "500+",
-   "nota": "CLIPPERS POSTCAST_ Clippers look to hand the Thunder their 3rd consecutive loss",
-   "nota_url": "https://www.kiiitv.com/video/sports/locked-on/lo-la/postcast-locked-on-clippers/clippers-postcast-clippers-look-to-hand-the-thunder-their-3rd-consecutive-loss/535-f29613d6-e80d-4d9f-80e5-f6afd23597a4",
-   "medio": "kiiitv.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - trail blazers",
-   "busquedas": "200+",
-   "nota": "What we learned as Darius Acuff Jr. cools off in Kings' loss to Trail Blazers",
-   "nota_url": "https://sports.yahoo.com/articles/learned-darius-acuff-jr-cools-220449351.html",
-   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
