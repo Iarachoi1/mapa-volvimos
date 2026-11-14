@@ -1,25 +1,52 @@
 {
- "actualizado": "14/11 06:34",
+ "actualizado": "14/11 07:29",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
   {
+   "tema": "clima",
+   "busquedas": "50000+",
+   "nota": "Clima en Capital Federal: lluvia débil y 22 grados a las 3",
+   "nota_url": "https://impactocastex.com.ar/sociedad/18654/clima-en-capital-federal-lluvia-debil-y-22-grados-a-las-3",
+   "medio": "Impacto Castex",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "japón - brasil",
+   "busquedas": "2000+",
+   "nota": "Japón vs. Brasil, por un amistoso internacional: día, horario, formaciones y dónde ver en vivo :: Olé - ole.com.ar",
+   "nota_url": "https://www.ole.com.ar/futbol-internacional/japon-vs-brasil-partido-fecha-fifa-amistoso-internacional-dia-horario-formaciones-tv_0_J1DkX7vvne.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juez",
+   "busquedas": "100+",
+   "nota": "La Corte Interamericana responsabilizó a la Argentina por la destitución del ex juez de la Corte Suprema Eduardo Moliné OCconor",
+   "nota_url": "https://www.palabrasdelderecho.com.ar/articulo/7099/La-Corte-Interamericana-responsabilizo-a-la-Argentina-por-la-destitucion-del-ex-juez-de-la-Corte-Suprema-Eduardo-Moline-OCconor",
+   "medio": "Palabras del Derecho",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "14 de noviembre",
    "busquedas": "100+",
-   "nota": "Horóscopo del sábado 14 de noviembre de 2026 para los 12 signos",
-   "nota_url": "https://www.eleco.com.ar/horoscopo/horoscopo-del-sabado-14-de-noviembre-de-2026-para-los-12-signos",
-   "medio": "El Eco",
+   "nota": "Horóscopo de hoy: descubre qué te depara el universo este sábado 14 de noviembre de 2026",
+   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-sabado-14-noviembre-2026_0_IJYMwrcYi7.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "evento de el niño de 2026-2027",
    "busquedas": "100+",
-   "nota": "What the new 'astonishing' El Niño forecast means for California",
-   "nota_url": "https://www.sfgate.com/weather/article/new-el-nino-forecast-22523911.php",
-   "medio": "SFGATE",
+   "nota": "California’s ocean temperatures are historically warm for November",
+   "nota_url": "https://ktla.com/news/california/california-coastal-water-record-warmth/",
+   "medio": "KTLA",
    "relevante": true,
    "temas": []
   },
@@ -34,11 +61,20 @@
   },
   {
    "tema": "luis caputo",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El plan de Luis Caputo no logra bajar más la inflación, pero la estrategia de su sobrino Santiago encontró otro culpable",
    "nota_url": "https://tn.com.ar/opinion/2026/11/14/el-plan-de-luis-caputo-no-logra-bajar-mas-la-inflacion-pero-la-estrategia-de-su-sobrino-santiago-encontro-otro-culpable/",
    "medio": "TN",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nuevo diario",
+   "busquedas": "100+",
+   "nota": "Falleció la mujer que había chocado contra un camión en Santa Rosa",
+   "nota_url": "https://www.maracodigital.net/Fallecio-la-mujer-que-habia-chocado-contra-un-camion-en-santa-rosa.html",
+   "medio": "Maraco Digital",
+   "relevante": false,
    "temas": []
   },
   {
@@ -53,45 +89,9 @@
   {
    "tema": "clima tucuman",
    "busquedas": "500+",
-   "nota": "\"Tre - men - do\": urgente, el anticipo del tiempo para todo Tucumán",
-   "nota_url": "https://www.eltucumano.com/amp/noticia/libre/327683/tre-men-do-urgente-el-anticipo-del-tiempo-para-todo-tucuman",
-   "medio": "el tucumano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima catamarca",
-   "busquedas": "100+",
-   "nota": "Catamarca registró más de 41 °C y alcanzó la temperatura más alta del año",
-   "nota_url": "https://www.elesquiu.com/sociedad/2026/11/13/catamarca-registro-mas-de-41-c-y-alcanzo-la-temperatura-mas-alta-del-ano-603297.html",
-   "medio": "El Esquiu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lj cryer",
-   "busquedas": "100+",
-   "nota": "Kingston Flemings (back) upgraded to available",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-13/kingston-flemings-back-upgraded-to-available",
-   "medio": "NBC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima santiago del estero",
-   "busquedas": "200+",
-   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
-   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
-   "medio": "El Liberal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de internacional de bogotá contra independiente santa fe",
-   "busquedas": "2000+",
-   "nota": "Tabla de reclasificación con la victoria de Santa Fe: cambiaron los cupos a Libertadores",
-   "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-reclasificacion-con-la-victoria-de-santa-fe-cambiaron-los-cupos-a-libertadores/202615/",
-   "medio": "Revista Semana",
+   "nota": "Clima en Tucumán: cielo claro y calor intenso para este viernes 13 de noviembre",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/13/clima-en-tucuman-hoy-viernes-13-de-noviembre-lluvia-ligera-y-calor-extremo/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   }
