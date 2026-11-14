@@ -1,10 +1,37 @@
 {
- "actualizado": "14/11 01:40",
+ "actualizado": "14/11 02:38",
  "fuentes_con_error": [
   "tendencias_x"
  ],
  "tendencias_x": [],
  "google": [
+  {
+   "tema": "lj cryer",
+   "busquedas": "100+",
+   "nota": "Warriors lose guard Brandon Williams to mild hamstring strain",
+   "nota_url": "https://www.espn.com/nba/story/_/id/50446131/sources-warriors-lose-brandon-williams-hamstring-strain",
+   "medio": "ESPN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima santiago del estero",
+   "busquedas": "100+",
+   "nota": "¡Qué calor! Santiago del Estero lidera el ranking de temperaturas de Argentina con más de 40°C",
+   "nota_url": "https://www.elliberal.com.ar/nota/97924/2026/11/que-calor-santiago-del-estero-lidera-el-ranking-de-temperaturas-de-argentina-con-mas-de-40%EF%BF%BDc",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de internacional de bogotá contra independiente santa fe",
+   "busquedas": "2000+",
+   "nota": "Tabla de reclasificación con la victoria de Santa Fe: cambiaron los cupos a Libertadores",
+   "nota_url": "https://www.semana.com/deportes/articulo/tabla-de-reclasificacion-con-la-victoria-de-santa-fe-cambiaron-los-cupos-a-libertadores/202615/",
+   "medio": "Revista Semana",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "clippers - thunder",
    "busquedas": "200+",
@@ -17,15 +44,15 @@
   {
    "tema": "kings - trail blazers",
    "busquedas": "100+",
-   "nota": "Trail Blazers Start a 6 Game, 13 Day Road Trip in Sacramento | Portland's Been CLUTCH this Season",
-   "nota_url": "https://www.wgrz.com/video/sports/locked-on/lo-portland/blazers-show/trail-blazers-start-a-6-game-13-day-road-trip-in-sacramento-portlands-been-clutch-this-season/535-1e7432f1-5ea1-4492-b200-26dc2179b443",
-   "medio": "WGRZ",
+   "nota": "Kings-Trail Blazers: First FG Scorer Odds & Picks – Nov. 13",
+   "nota_url": "https://sports.betmgm.com/en/blog/nba/trail-blazers-kings-first-fg-scorer-odds-picks-november-13-gaa/",
+   "medio": "sports.betmgm.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "rodrigo de paul",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "La sorpresa de Tini Stoessel y Rodrigo De Paul a días de su casamiento: sumaron un nuevo integrante a la familia",
    "nota_url": "https://tn.com.ar/show/famosos/2026/11/13/rodrigo-de-paul-y-tini-stoessel-compartieron-un-album-de-fotos-y-un-detalle-llamo-la-atencion/",
    "medio": "TN",
@@ -42,11 +69,20 @@
    "temas": []
   },
   {
+   "tema": "precio dolar blue",
+   "busquedas": "1000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 13 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-13-noviembre-n6344766",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "spurs - warriors",
    "busquedas": "2000+",
-   "nota": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
-   "nota_url": "https://sports.yahoo.com/articles/spurs-ambush-warriors-first-quarter-030853064.html",
-   "medio": "Yahoo Sports",
+   "nota": "That 18-0 Spurs run is the longest unanswered allowed …",
+   "nota_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/that-18-0-spurs-run-is-the-longest-unanswered-allowed/92773943007/",
+   "medio": "HoopsHype",
    "relevante": false,
    "temas": []
   },
@@ -56,42 +92,6 @@
    "nota": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
    "nota_url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069",
    "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético de madrid",
-   "busquedas": "200+",
-   "nota": "El Atlético de Madrid compra otro club",
-   "nota_url": "https://www.fichajes.com/a4014572151544065853-el-atletico-de-madrid-compra-otro-club",
-   "medio": "Fichajes.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lilia lemoine",
-   "busquedas": "100+",
-   "nota": "Fórmula presidencial: Lemoine propone a Milei y Bullrich",
-   "nota_url": "https://cuestionentrerriana.com.ar/delirio-electoralista-libertario-en-plena-crisis-lilia-lemoine-propone-a-patricia-bullrich-como-vicepresidenta/",
-   "medio": "Cuestión Entrerriana",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cuánto salió argentina",
-   "busquedas": "100+",
-   "nota": "Golpe al mito para las vacaciones: por qué comer en Mar del Plata es más barato que en Brasil",
-   "nota_url": "https://www.0223.com.ar/nota/2026-11-12-21-34-0-golpe-al-mito-para-las-vacaciones-por-que-comer-en-mar-del-plata-es-mas-barato-que-en-brasil",
-   "medio": "0223.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bulls - hawks",
-   "busquedas": "200+",
-   "nota": "Hawks at Bulls, NBA Cup: start time, TV, streaming, radio, game thread",
-   "nota_url": "https://sports.yahoo.com/articles/hawks-bulls-nba-cup-start-000000931.html",
-   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
