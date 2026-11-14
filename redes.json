@@ -1,5 +1,5 @@
 {
- "actualizado": "14/11 16:32",
+ "actualizado": "14/11 17:25",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,14 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Balerdi",
-   "url": "https://x.com/search?q=Balerdi",
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Metrogas",
-   "url": "https://x.com/search?q=Metrogas",
+   "tema": "Balerdi",
+   "url": "https://x.com/search?q=Balerdi",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +45,20 @@
    "temas": []
   },
   {
+   "tema": "Remedios de Escalada",
+   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rulli",
    "url": "https://x.com/search?q=Rulli",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Remedios de Escalada",
-   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "tema": "#Worlds2026",
+   "url": "https://x.com/search?q=%23Worlds2026",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Amalia",
-   "url": "https://x.com/search?q=Amalia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Icardi",
    "url": "https://x.com/search?q=Icardi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "VicuÃ±a",
-   "url": "https://x.com/search?q=Vicu%C3%83%C2%B1a",
+   "tema": "Amalia",
+   "url": "https://x.com/search?q=Amalia",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +99,20 @@
    "temas": []
   },
   {
+   "tema": "Mauro",
+   "url": "https://x.com/search?q=Mauro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Los Pumas",
    "url": "https://x.com/search?q=Los%20Pumas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mauro",
-   "url": "https://x.com/search?q=Mauro",
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=Chiclayo",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Prestianni",
-   "url": "https://x.com/search?q=Prestianni",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "uefa nations league",
-   "busquedas": "100+",
-   "nota": "De la Fuente embarrasses Tuchel with a strongly worded message: and settles Yamal's fate",
-   "nota_url": "https://www.goal.com/en-in/news/de-la-fuente-embarrasses-tuchel-with-a-strongly-worded-message-and-settles-yamal-s-fate/blt3f55cce51ad3dea4",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "austria - irlanda",
-   "busquedas": "1000+",
-   "nota": "Pronóstico Suecia Bosnia Y Herzegovina - Nations League 14/11/26",
-   "nota_url": "https://www.sportytrader.com/es/pronosticos/suecia-bosnia-y-herzegovina-387287/",
-   "medio": "SportyTrader",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la plata",
+   "tema": "colón - midland",
    "busquedas": "200+",
-   "nota": "Accidente fatal en la Ruta 6: una mujer murió en un choque entre una camioneta y un camión",
-   "nota_url": "https://www.eldia.com/policiales/accidente-fatal-en-la-ruta-6-una-mujer-murio-en-un-choque-entre-una-camioneta-y-un-camion-policiales_1794611441",
-   "medio": "Diario El Día de La Plata",
+   "nota": "Ferrocarril Midland: En Santa Fe, Midland buscará dar el golpe ante Colón",
+   "nota_url": "https://www.soloascenso.com.ar/notas/ferrocarril-midland/en-santa-fe-midland-buscara-dar-el-golpe-ante-colon/234375",
+   "medio": "Solo Ascenso",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "venezuela vs",
+   "tema": "club de rugby los tilos",
    "busquedas": "100+",
-   "nota": "Excelente ambiente de las aficiones en las horas previas al encuentro entre Euskal Selekzioa y Venezuela",
-   "nota_url": "https://orain.eus/es/actualidad/sociedad/2026/11/14/excelente-ambiente-las-aficiones-en-las-horas-previas-al-encuentro-euskal-selekzioa-venezuela/",
-   "medio": "ORAIN",
+   "nota": "Murió Jorge Bartoli, el reconocido cirujano que marcó la historia de Los Tilos",
+   "nota_url": "https://la100.cienradios.com/deportes/murio-jorge-bartoli-el-reconocido-cirujano-que-marco-la-historia-de-los-tilos/",
+   "medio": "La 100",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "volodímir zelenski",
+   "tema": "ianina zanazzi",
    "busquedas": "100+",
-   "nota": "Zelensky reveló que Estados Unidos sugirió ceder el Donbás para ingresar a la OTAN",
-   "nota_url": "https://www.diariocronica.com.ar/noticias/2026/11/14/177795-zelensky-revelo-que-estados-unidos-sugirio-ceder-el-donbas-para-ingresar-a-la-otan",
-   "medio": "Diario Crónica",
+   "nota": "Una reconocida piloto denunció irregularidades en el automovilismo",
+   "nota_url": "https://automundo.com.ar/ianina-zanazzi-denuncias-automovilismo-argentino/",
+   "medio": "Automundo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "portugal - dinamarca",
-   "busquedas": "2000+",
-   "nota": "O onze inicial da Seleção contra a Dinamarca",
-   "nota_url": "https://www.rtp.pt/noticias/desporto/o-onze-inicial-da-selecao-contra-a-dinamarca_v1779201",
-   "medio": "RTP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "twitch",
-   "busquedas": "500+",
-   "nota": "Kick Takes GTA 6 Giveaway to California With Lucia Cosplayer On Special Truck",
-   "nota_url": "https://sports.ndtv.com/us/us-streamers/kick-takes-gta-6-giveaway-to-california-with-lucia-cosplayer-on-special-truck-12326023",
-   "medio": "NDTV Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hungria vs",
-   "busquedas": "100+",
-   "nota": "Hungría ganó en Georgia para apostar fuerte en UEFA Nations League",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/hungria-gano-en-georgia-para-apostar-fuerte-en-uefa-nations-league/",
-   "medio": "Vermouth Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela de cordoba",
-   "busquedas": "100+",
-   "nota": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, viernes 13 de noviembre",
-   "nota_url": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-viernes-13-noviembre_0_DnoQSP239D.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "portugal fc",
+   "tema": "reducido b nacional",
    "busquedas": "200+",
-   "nota": "Vitória e Moreirense entram em ação na Taça de Portugal",
-   "nota_url": "https://www.guimaraesdigital.pt/index.php/informacao/desporto/102861-vitoria-e-moreirense-entram-em-acao-na-taca-de-portugal",
-   "medio": "Guimarães Digital",
+   "nota": "Se pone en marcha el Reducido de la Primera Nacional",
+   "nota_url": "https://laverdadonline.com/se-pone-en-marcha-el-reducido-de-la-primera-nacional/",
+   "medio": "La Verdad Junín",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "camión",
+   "busquedas": "200+",
+   "nota": "Tragedia en la Ruta 2: un camión cruzó de mano y provocó un violento choque frontal con dos fallecidos",
+   "nota_url": "https://www.clarin.com/sociedad/tragedia-ruta-2-camion-cruzo-mano-provoco-violento-choque-frontal-fallecidos_0_rTk5Az6jP4.html",
+   "medio": "Clarín",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nvidia jensen huang",
+   "busquedas": "200+",
+   "nota": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
+   "nota_url": "https://www.cnn.com/2026/11/13/politics/jensen-huang-us-intelligence",
+   "medio": "CNN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tormentas fuertes",
+   "busquedas": "100+",
+   "nota": "Ratifican el alerta amarillo de esta noche y emiten un alerta naranja para el viernes por tormentas en Bahía y la región",
+   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes",
+   "medio": "La Nueva Provincia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "godoy cruz vs tristan suarez",
+   "busquedas": "100+",
+   "nota": "Los hinchas del Tomba agotaron las entradas para la final por el ascenso",
+   "nota_url": "https://www.elsol.com.ar/deportes/los-hinchas-del-tomba-agotaron-las-entradas-para-la-final-por-el-ascenso/",
+   "medio": "Diario El Sol Mendoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "erling haaland",
+   "busquedas": "200+",
+   "nota": "Norway 3-1 Wales: Nations League – as it happened",
+   "nota_url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rumania - polonia",
+   "busquedas": "200+",
+   "nota": "Alineaciones de Rumania y Polonia para el duelo de la fecha 5 de la Liga de Naciones",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-rumania-y-polonia-para-el-duelo-de-la-fecha-5-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   }
