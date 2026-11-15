@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 15:27",
+ "actualizado": "15/11 16:34",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,20 @@
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "Davo",
+   "url": "https://x.com/search?q=Davo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "martin cirio",
    "url": "https://x.com/search?q=martin%20cirio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
@@ -39,20 +45,26 @@
    "temas": []
   },
   {
+   "tema": "La Cobra",
+   "url": "https://x.com/search?q=La%20Cobra",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Montero",
    "url": "https://x.com/search?q=Montero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LaNocheDeMartina2",
-   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
+   "tema": "garza",
+   "url": "https://x.com/search?q=garza",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ronaldinho",
-   "url": "https://x.com/search?q=Ronaldinho",
+   "tema": "#lanochedemartina2",
+   "url": "https://x.com/search?q=%23lanochedemartina2",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Metrogas",
-   "url": "https://x.com/search?q=Metrogas",
+   "tema": "Ronaldinho",
+   "url": "https://x.com/search?q=Ronaldinho",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
@@ -87,43 +99,94 @@
    "temas": []
   },
   {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Museos",
-   "url": "https://x.com/search?q=Museos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#CopaArgentina",
-   "url": "https://x.com/search?q=%23CopaArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PerÃº",
-   "url": "https://x.com/search?q=Per%C3%83%C2%BA",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Cusco",
    "url": "https://x.com/search?q=Cusco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Chiclayo",
-   "url": "https://x.com/search?q=Chiclayo",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CatalanChanta",
+   "url": "https://x.com/search?q=%23CatalanChanta",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "españa - inglaterra",
+   "busquedas": "10000+",
+   "nota": "Partidos de la Nations League de hoy, domingo 15 de noviembre: hora, dónde ver en vivo y resultados",
+   "nota_url": "https://www.tycsports.com/uefa-nations-league/partidos-de-la-nations-league-de-hoy-domingo-15-de-noviembre-hora-donde-ver-en-vivo-y-resultados-id771157.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "francia - turquía",
+   "busquedas": "2000+",
+   "nota": "¿Por qué no juega Kenan Yildiz en Francia vs. Turquía por la UEFA Nations League 2026-27?",
+   "nota_url": "https://bolavip.com/mx/uefa/por-que-no-juega-kenan-yildiz-en-francia-vs-turquia-por-la-uefa-nations-league-2026-27",
+   "medio": "Bolavip México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bélgica - italia",
+   "busquedas": "1000+",
+   "nota": "«¡Seremos rivales!»: Giorgio Scalvini, estrella del Atalanta, advierte a su compañero de equipo Charles De Ketelaere",
+   "nota_url": "https://www.goal.com/es/noticias/seremos-rivales-giorgio-scalvini-estrella-del-atalanta-advierte-a-su-companero-de-equipo-charles-de-ketelaere/blt197213bb07df0d0d",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "croacia - chequia",
+   "busquedas": "1000+",
+   "nota": "Croacia y República Checa, a evitar un posible descenso directo",
+   "nota_url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261115/1004251025/croacia-republica-checa-evitar-posible-descenso-directo.html",
+   "medio": "Mundo Deportivo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fútbol",
+   "busquedas": "500+",
+   "nota": "El gol de Ravenna con la participación de Ronaldinho",
+   "nota_url": "https://www.tycsports.com/video/deportes/el-gol-de-ravenna-con-la-participacion-de-ronaldinho-id1005128.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juventud antoniana",
+   "busquedas": "500+",
+   "nota": "Juventud, con todo definido, viaja a Río Negro para lograr la hazaña",
+   "nota_url": "https://nuevodiariodesalta.com.ar/juventud-con-todo-definido-viaja-a-rio-negro-para-lograr-la-hazana/",
+   "medio": "Nuevo Diario de Salta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "supermercado",
+   "busquedas": "500+",
+   "nota": "Entraron a robar al supermercado de un concejal de Berisso y todo quedó filmado",
+   "nota_url": "https://www.0221.com.ar/policiales/entraron-robar-al-supermercado-un-concejal-berisso-y-todo-quedo-filmado-n137473",
+   "medio": "0221",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "ted lasso",
    "busquedas": "100+",
@@ -136,81 +199,18 @@
   {
    "tema": "albania vs",
    "busquedas": "100+",
-   "nota": "Pronósticos Bielorrusia vs. Albania: predicciones y apuestas deportivas en la Nations League",
-   "nota_url": "https://gainblers.com/ar/pronosticos/futbol/europa/uefa-nations-league/pronostico-bielorrusia-albania-15-11-2026/",
-   "medio": "Gainblers",
+   "nota": "Alineaciones de Bielorrusia y Albania para el duelo de la fecha 6 de la Liga de Naciones",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-bielorrusia-y-albania-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "deportivo morón - colegiales",
-   "busquedas": "2000+",
-   "nota": "Deportivo Morón: Morón se mide ante Colegiales en el arranque del Reducido",
-   "nota_url": "https://www.soloascenso.com.ar/notas/deportivo-moron/moron-se-mide-ante-colegiales-en-el-arranque-del-reducido/234442",
+   "busquedas": "10000+",
+   "nota": "Deportivo Morón - Colegiales: Todo confirmado para el choque entre Morón y Colegiales",
+   "nota_url": "https://www.soloascenso.com.ar/notas/gimnasia-jujuy/todo-confirmado-para-el-choque-entre-moron-y-colegiales/234341",
    "medio": "Solo Ascenso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "76ers - pacers",
-   "busquedas": "200+",
-   "nota": "How to watch 76ers vs Pacers: NBA, live stream, TV channel, start time",
-   "nota_url": "https://sports.yahoo.com/articles/watch-76ers-vs-pacers-nba-170500777.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "apagon 17 de noviembre",
-   "busquedas": "200+",
-   "nota": "Lo que pasará el 17 de noviembre en EE.UU. y por qué no habrá un apagón mundial como se dice en redes",
-   "nota_url": "https://www.bloomberglinea.com/mundo/lo-que-pasara-el-17-de-noviembre-en-eeuu-y-por-que-no-habra-un-apagon-mundial-como-se-dice-en-redes/",
-   "medio": "Bloomberg Línea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ravenna vs forli",
-   "busquedas": "500+",
-   "nota": "Volvió Ronaldinho: así fue el regreso del brasileño al fútbol profesional :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/futbol-internacional/ronaldinho-regreso-futbol-serie-c-italia-ravenna-seguilo-vivo_0_Z846MA9M6M.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "deportivo - barcelona",
-   "busquedas": "1000+",
-   "nota": "Empate en el Di Stéfano",
-   "nota_url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/empate-en-el-di-stefano-14-11-2026",
-   "medio": "Real Madrid CF | Web Oficial",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tc",
-   "busquedas": "500+",
-   "nota": "TC en Río Cuarto, hoy EN VIVO: cómo va la final y dónde ver por TV",
-   "nota_url": "https://www.ole.com.ar/autos/tc-turismo-carretera-rio-cuarto-hoy-vivo-hora-series-final-ver-tv_0_Gjv4ZhFSSP.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ravenna",
-   "busquedas": "1000+",
-   "nota": "Da Fognini a Dida e Briatore: tutti i vip presenti per applaudire Ronaldinho",
-   "nota_url": "https://www.corrieredellosport.it/foto/calcio/serie-c/2026/11/15-152611076/da_fognini_a_dida_e_briatore_tutti_i_vip_presenti_per_applaudire_ronaldinho",
-   "medio": "Corriere dello Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "godoy cruz",
-   "busquedas": "5000+",
-   "nota": "Godoy Cruz y Tristán Suárez definirán el ascenso a la Primera División: hora, TV y formaciones",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/15/godoy-cruz-y-tristan-suarez-definiran-el-ascenso-a-la-primera-division-hora-tv-y-formaciones/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
