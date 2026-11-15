@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 09:32",
+ "actualizado": "15/11 10:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,26 +27,32 @@
    "temas": []
   },
   {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#FelizDomingo",
-   "url": "https://x.com/search?q=%23FelizDomingo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Nelson Castro",
    "url": "https://x.com/search?q=Nelson%20Castro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Martin Cirio",
+   "url": "https://x.com/search?q=Martin%20Cirio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Feliz Domingo",
+   "url": "https://x.com/search?q=Feliz%20Domingo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ARA San Juan",
+   "url": "https://x.com/search?q=ARA%20San%20Juan",
    "relevante": false,
    "temas": []
   },
@@ -63,26 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Metrogas",
    "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#CopaArgentina",
-   "url": "https://x.com/search?q=%23CopaArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Uruguay",
-   "url": "https://x.com/search?q=Uruguay",
+   "tema": "Messi",
+   "url": "https://x.com/search?q=Messi",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +87,14 @@
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "#EsteFinde",
+   "url": "https://x.com/search?q=%23EsteFinde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CopaArgentina",
+   "url": "https://x.com/search?q=%23CopaArgentina",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +105,43 @@
    "temas": []
   },
   {
-   "tema": "Remedios de Escalada",
-   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "tema": "Uruguay",
+   "url": "https://x.com/search?q=Uruguay",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
+   "tema": "CONGRATULATIONS BTS",
+   "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BRAIDA",
-   "url": "https://x.com/search?q=BRAIDA",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "cusco",
+   "busquedas": "100+",
+   "nota": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-pucallpa-hoy-minuto-a-minuto-nid15112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aeropuerto internacional de miami",
+   "busquedas": "200+",
+   "nota": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/15/eeuu/aviones-chocan-pista-miami-suspension-trax",
+   "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "grand theft auto vi",
    "busquedas": "100+",
@@ -135,7 +153,7 @@
   },
   {
    "tema": "federico beligoy",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Federico Beligoy, jefe de los árbitros de la AFA, bajo la lupa por una inversión inmobiliaria de US$261.000",
    "nota_url": "https://diarioneuquino.com.ar/federico-beligoy-jefe-de-los-arbitros-de-la-afa-bajo-la-lupa-por-una-inversion-inmobiliaria-de-us261-000/",
    "medio": "Diario Neuquino",
@@ -144,37 +162,37 @@
   },
   {
    "tema": "la nación",
-   "busquedas": "500+",
-   "nota": "Trump le dice al director de « DHS » que colabore con los demócratas en la reforma migratoria, pero sin amnistía",
-   "nota_url": "https://noticias.foxnews.com/politics/trump-tells-dhs-chief-work-democrats-immigration-reform-no-amnesty",
-   "medio": "Fox News",
+   "busquedas": "1000+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "15 de noviembre",
-   "busquedas": "200+",
-   "nota": "Horóscopo de hoy: descubre qué te depara el universo este domingo 15 de noviembre de 2026",
-   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-domingo-15-noviembre-2026_0_TiZK0W4bgB.html",
-   "medio": "La Voz del Interior",
+   "busquedas": "1000+",
+   "nota": "Horóscopo para domingo 15 de noviembre de Las Estrellas de Walter Mercado",
+   "nota_url": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article318029706.html",
+   "medio": "El Nuevo Herald",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "atp finals",
    "busquedas": "200+",
-   "nota": "Andy Murray predicts who will win the ATP Finals between Carlos Alcaraz and Alexander Zverev",
-   "nota_url": "https://sports.yahoo.com/articles/andy-murray-predicts-win-atp-120000465.html",
-   "medio": "Yahoo Sports",
+   "nota": "What is the Nitto ATP Finals schedule?",
+   "nota_url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule",
+   "medio": "Nitto ATP Finals",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "perro",
-   "busquedas": "200+",
-   "nota": "“Me salvó la vida”: el mensaje de Rodrigo Lussich que emocionó a sus seguidores",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/me-salvo-la-vida-el-mensaje-de-rodrigo-lussich-que-emociono-a-sus-seguidores/",
-   "medio": "Radio Mitre",
+   "busquedas": "500+",
+   "nota": "Los veterinarios explican por qué algunos perros se lamen las patas constantemente y cuándo puede ser una señal de alerta",
+   "nota_url": "https://www.airedesantafe.com.ar/estilo-vida/los-veterinarios-explican-que-algunos-perros-se-lamen-las-patas-constantemente-y-cuando-puede-ser-una-senal-alerta-n676019",
+   "medio": "Aire de Santa Fe",
    "relevante": false,
    "temas": []
   },
@@ -189,28 +207,10 @@
   },
   {
    "tema": "gran premio de las vegas",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "¿Cuándo vuelve a correr Colapinto? Días, horarios y TV del GP de Las Vegas de la F1",
    "nota_url": "https://www.ole.com.ar/autos/vuelve-correr-colapinto-dias-horarios-tv-gp-vegas-formula-1_0_B1JIoSfXiO.html",
    "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santiago del estero",
-   "busquedas": "100+",
-   "nota": "Un horno en Santiago del Estero: la temperatura ya roza los 40°C y se espera una máxima extrema de 44°C",
-   "nota_url": "https://www.elliberal.com.ar/nota/97910/2026/11/un-horno-en-santiago-del-estero--la-temperatura-ya-roza-los-40%EF%BF%BDc-y-se-espera-una-maxima-extrema-de-44%EF%BF%BDc",
-   "medio": "El Liberal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gladys la bomba tucumana",
-   "busquedas": "2000+",
-   "nota": "El dolor de Gladys “La Bomba Tucumana” por la muerte de su sobrino de 12 años",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/el-dolor-de-gladys-la-bomba-tucumana-por-la-muerte-de-su-sobrino-de-solo-12-anos-nid12112026/",
-   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
