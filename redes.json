@@ -1,19 +1,7 @@
 {
- "actualizado": "14/11 23:40",
+ "actualizado": "15/11 00:40",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "#LaNocheDeMartina2",
    "url": "https://x.com/search?q=%23LaNocheDeMartina2",
@@ -21,20 +9,14 @@
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +27,32 @@
    "temas": []
   },
   {
-   "tema": "Copa Argentina",
-   "url": "https://x.com/search?q=Copa%20Argentina",
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#PodemosHablar",
    "url": "https://x.com/search?q=%23PodemosHablar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Copa Argentina",
+   "url": "https://x.com/search?q=Copa%20Argentina",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Y Boca",
-   "url": "https://x.com/search?q=Y%20Boca",
+   "tema": "Platense",
+   "url": "https://x.com/search?q=Platense",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Platense",
-   "url": "https://x.com/search?q=Platense",
+   "tema": "Naxo",
+   "url": "https://x.com/search?q=Naxo",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
+   "tema": "Y Boca",
+   "url": "https://x.com/search?q=Y%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -99,43 +99,70 @@
    "temas": []
   },
   {
-   "tema": "Braida",
-   "url": "https://x.com/search?q=Braida",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Madryn",
    "url": "https://x.com/search?q=Madryn",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "SIGAN VIENDO",
-   "url": "https://x.com/search?q=SIGAN%20VIENDO",
+   "tema": "#Mesaza",
+   "url": "https://x.com/search?q=%23Mesaza",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Xeneize",
-   "url": "https://x.com/search?q=Xeneize",
+   "tema": "#UFC334",
+   "url": "https://x.com/search?q=%23UFC334",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GanÃ³ Boca",
+   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "bilal hasan",
+   "tema": "kevin holland",
    "busquedas": "200+",
-   "nota": "Hasan ‘very excited’ to be fighting in competitive flyweight division",
-   "nota_url": "https://www.sportsnet.ca/ufc/video/hasan-very-excited-to-be-fighting-in-competitive-flyweight-division/",
-   "medio": "Sportsnet.ca",
+   "nota": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
+   "nota_url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
+   "medio": "BettingPros",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ciryl gane",
+   "busquedas": "100+",
+   "nota": "[En Vivo—] Ciryl Gane v. Josh Hokit En Vivo Hoy Online TV",
+   "nota_url": "https://www.mapleleaffoods.com/spo/video/video-ciryl-gane-v-josh-hokit-en-vivo-gratis-online-39.html",
+   "medio": "Maple Leaf Foods",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos melconian",
+   "busquedas": "100+",
+   "nota": "Melconian: \"La mal llamada motosierra (licuadora) al final no purificó, ni rozó a la casta\"",
+   "nota_url": "https://www.perfil.com/nea/melconian-la-mal-llamada-motosierra-licuadora-al-final-no-purifico-ni-rozo-a-la-casta-auW8b7I3lgtf",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bilal hasan",
+   "busquedas": "500+",
+   "nota": "Luis Gurule, UFC 334 media day interview",
+   "nota_url": "https://lufkindailynews.com/news_reuters/national/luis-gurule-ufc-334-media-day-interview/image_9bf38a2c-4415-5cb3-8d15-3330eeaa827c.html",
+   "medio": "The Lufkin Daily News",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dwayne johnson",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Dwayne Johnson to receive USC dramatic arts honor",
    "nota_url": "https://www.nbclosangeles.com/news/local/dwayne-johnson-to-receive-usc-dramatic-arts-honor/3970268/",
    "medio": "NBC Los Angeles",
@@ -143,11 +170,20 @@
    "temas": []
   },
   {
+   "tema": "jamaica vs",
+   "busquedas": "200+",
+   "nota": "La Selección Mexicana de Rafael Márquez enfrenta a Jamaica en busca del Final Four",
+   "nota_url": "https://elecos.com.ar/la-seleccion-mexicana-de-rafael-marquez-enfrenta-a-jamaica-en-busca-del-final-four",
+   "medio": "Ecos Diarios Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "nacho giron",
    "busquedas": "200+",
-   "nota": "Sufrió bullying y cayó en las drogas. El joven que emocionó al Papa ya tiene una frase para tatuarse",
-   "nota_url": "https://www.radiocanal.com.ar/noticia/sufrio-bullying-y-cayo-en-las-drogas-el-joven-que-emociono-al-papa-ya-tiene-una-frase-para-tatuarse-187251",
-   "medio": "Radiocanal",
+   "nota": "Una noche que encendió el alma y revivió el fervor adolescente, entre velas y las profundas palabras de León XIV",
+   "nota_url": "https://www.lanacion.com.ar/salud/una-noche-que-encendio-el-alma-y-revivio-el-fervor-adolescente-entre-velas-y-las-profundas-palabras-nid12112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
@@ -161,56 +197,20 @@
    "temas": []
   },
   {
+   "tema": "mexico",
+   "busquedas": "200+",
+   "nota": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+   "nota_url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "lluvia",
-   "busquedas": "5000+",
+   "busquedas": "10000+",
    "nota": "Clima: cielo nublado en el AMBA y más de 11 provincias bajo alerta por tormentas",
    "nota_url": "https://www.infobae.com/sociedad/2026/11/14/vuelven-las-lluvias-al-amba-y-mas-de-15-provincias-estaran-bajo-alerta-por-tormentas/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "stephen thompson",
-   "busquedas": "200+",
-   "nota": "14-Year UFC Veteran Retires at UFC 334 Following Stunning Knockout Win",
-   "nota_url": "https://www.si.com/fannation/mma/news/14-year-ufc-veteran-retires-at-ufc-334-following-stunning-knockout-win",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jeremiah fears",
-   "busquedas": "200+",
-   "nota": "Jeremiah Fears Highlights vs. Memphis Grizzlies 11/13/26",
-   "nota_url": "https://www.nba.com/pelicans/videos/jeremiah-fears-highlights-vs-memphis-grizzlies-11-13-26",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "denise dumas",
-   "busquedas": "200+",
-   "nota": "Santino Curto, el hijo de Denise Dumas: \"Cuando volví de Nueva Zelanda, me aboqué de lleno a la música\"",
-   "nota_url": "https://www.pronto.com.ar/pronto-musica/2026/11/9/santino-curto-el-hijo-de-denise-dumas-cuando-volvi-de-nueva-zelanda-me-aboque-de-lleno-a-la-musica-266118.html",
-   "medio": "Pronto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "playstation",
-   "busquedas": "100+",
-   "nota": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
-   "nota_url": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
-   "medio": "Push Square",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - bulls",
-   "busquedas": "200+",
-   "nota": "‍‍‍~!!【OffiCial+NBA】 Bulls vs Timberwolves 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
-   "nota_url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbWF4YnR2Yy5naXRodWIuaW8vYmF0dWwvdmlkZW8venplcnpzczEueG1sIi8+PC9rcnBhbm8+&id=video-bulls-v-timberwolves-liv-on-nba-ustv-en_06",
-   "medio": "日本取引所グループ",
    "relevante": false,
    "temas": []
   }
