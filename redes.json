@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 13:28",
+ "actualizado": "15/11 14:26",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "Banfield",
    "url": "https://x.com/search?q=Banfield",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#LuzuVs412",
+   "url": "https://x.com/search?q=%23LuzuVs412",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +63,14 @@
    "temas": []
   },
   {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Villa",
    "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LuzuVs412",
-   "url": "https://x.com/search?q=%23LuzuVs412",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "CONGRATULATIONS BTS",
-   "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
+   "tema": "Cusco",
+   "url": "https://x.com/search?q=Cusco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Feliz Domingo",
-   "url": "https://x.com/search?q=Feliz%20Domingo",
+   "tema": "CONGRATULATIONS BTS",
+   "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +105,61 @@
    "temas": []
   },
   {
-   "tema": "ARA San Juan",
-   "url": "https://x.com/search?q=ARA%20San%20Juan",
+   "tema": "PerÃº",
+   "url": "https://x.com/search?q=Per%C3%83%C2%BA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Balerdi",
-   "url": "https://x.com/search?q=Balerdi",
+   "tema": "Remedios de Escalada",
+   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
+   "tema": "Chiclayo",
+   "url": "https://x.com/search?q=Chiclayo",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "ravenna vs forli",
+   "busquedas": "200+",
+   "nota": "Ronaldinho vuelve a jugar un partido oficial a los 46 años: hora, todos los detalles y cómo ver en vivo",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/15/ronaldinho-vuelve-a-jugar-un-partido-oficial-a-los-46-anos-hora-todos-los-detalles-y-como-ver-en-vivo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "deportivo - barcelona",
+   "busquedas": "200+",
+   "nota": "El Dépor Abanca mide su crecimiento ante el terremoto Barça en plena plaga de lesiones",
+   "nota_url": "https://www.laopinioncoruna.es/deportivo/2026/11/14/depor-abanca-mide-crecimiento-terremoto-136437535.html",
+   "medio": "La Opinión A Coruña",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ravenna",
+   "busquedas": "500+",
+   "nota": "RaiNews. . Il campione brasiliano torna a giocare una partita ufficiale sognando il gol numero 300 e la città si colora, si riempie di tifosi di tutto il mondo e tv internazionali. E c’è anche chi sogna una gara di look. Tutti gli approfondimenti su Rainews.it con il nos",
+   "nota_url": "https://www.facebook.com/RaiNews/videos/il-campione-brasiliano-torna-a-giocare-una-partita-ufficiale-sognando-il-gol-num/1724527735707721/",
+   "medio": "Facebook",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "finlandia - san marino",
+   "busquedas": "200+",
+   "nota": "Finland v San Marino Odds",
+   "nota_url": "https://sportsbook.fanduel.com/soccer/uefa-nations-league-c/finland-v-san-marino-36318913",
+   "medio": "FanDuel Sportsbook",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "apagón eléctrico",
    "busquedas": "100+",
@@ -135,37 +171,28 @@
   },
   {
    "tema": "noticia",
-   "busquedas": "500+",
-   "nota": "“44 latidos”: un vecino de Río Gallegos abrirá el primer museo dedicado a las víctimas del ARA San Juan",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/15/los-44-latidos-un-vecino-de-rio-gallegos-abrira-el-primer-museo-dedicado-a-las-44-victimas-del-ara-san-juan/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atp finals 2026",
-   "busquedas": "100+",
-   "nota": "'I recommend staying away from it: it's nicer to meet someone for a coffee' - Jannik Sinner warns younger generation over social media",
-   "nota_url": "https://www.yardbarker.com/tennis/articles/i_recommend_staying_away_from_it_its_nicer_to_meet_someone_for_a_coffee_jannik_sinner_warns_younger_generation_over_social_media/s1_17460_44564236",
-   "medio": "Yardbarker",
+   "busquedas": "1000+",
+   "nota": "El Papa pidió que la riqueza se redistribuya",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/15/el-papa-pidio-que-la-riqueza-se-redistribuya/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "escocia - australia",
-   "busquedas": "500+",
-   "nota": "Hoy completan la quinta fecha del Nations Championship Escocia y Australia",
-   "nota_url": "https://www.rugbychampagneweb.com/internacionales/nations-championship-2026/hoy-completan-la-quinta-fecha-del-nations-championship-escocia-y-australia",
-   "medio": "Rugby Champagne",
+   "busquedas": "1000+",
+   "nota": "Escocia confirma dos cambios para enfrentar a Australia",
+   "nota_url": "https://cordobaxv.com.ar/escocia-confirma-dos-cambios-para-enfrentar-a-australia/",
+   "medio": "Cordoba XV",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima neuquen",
    "busquedas": "100+",
-   "nota": "Clima hoy en Neuquén: el pronóstico del tiempo para este domingo 15 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-neuquen-pronostico-tiempo-domingo-15-noviembre-2026_0_9xKdTcxYqt.html",
-   "medio": "Clarín",
+   "nota": "¿Se viene la lluvia el fin de semana? Qué día llega y qué pasará con el viento en Neuquén",
+   "nota_url": "https://www.lmneuquen.com/neuquen/se-viene-la-lluvia-el-fin-semana-que-dia-llega-y-que-pasara-el-viento-neuquen-n1261066",
+   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   },
@@ -184,33 +211,6 @@
    "nota": "Andrés Matonte será el árbitro de la final de la Copa Sudamericana entre Boca y Atlético Mineiro",
    "nota_url": "https://www.tycsports.com/boca-juniors/andres-matonte-arbitro-final-copa-sudamericana-boca-atletico-mineiro-id771489.html",
    "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tc hoy",
-   "busquedas": "200+",
-   "nota": "Castellano volvió a hacer el “uno”",
-   "nota_url": "https://actc.org.ar/tc/noticias/castellano-volvio-a-hacer-el-uno",
-   "medio": "ACTC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "league of legends new dawn",
-   "busquedas": "200+",
-   "nota": "Riot Games unveils League of Legends new client 'New Dawn'",
-   "nota_url": "https://www.mgoddess.com/news/lol-83821f7b76/?lang=en",
-   "medio": "Mobile Goddess",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "eduardo domínguez",
-   "busquedas": "2000+",
-   "nota": "Atlético Mineiro llega en baja a la final de la Sudamericana contra Boca: empató con Mirassol y acumula siete partidos sin ganar",
-   "nota_url": "https://www.clarin.com/deportes/atletico-mineiro-llega-baja-final-sudamericana-boca-empato-mirassol-acumula-partidos-ganar_0_d8eAo6exHD.html",
-   "medio": "Clarín",
    "relevante": false,
    "temas": []
   }
