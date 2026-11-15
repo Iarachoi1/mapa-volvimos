@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 01:43",
+ "actualizado": "15/11 02:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,50 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#PodemosHablar",
-   "url": "https://x.com/search?q=%23PodemosHablar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Copa Argentina",
-   "url": "https://x.com/search?q=Copa%20Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Naxo",
-   "url": "https://x.com/search?q=Naxo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Virginia Gallardo",
-   "url": "https://x.com/search?q=Virginia%20Gallardo",
+   "tema": "FELIZ CUMPLEAÃOS DANELIK",
+   "url": "https://x.com/search?q=FELIZ%20CUMPLEA%C3%83%C2%91OS%20DANELIK",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +39,56 @@
    "temas": []
   },
   {
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PodemosHablar",
+   "url": "https://x.com/search?q=%23PodemosHablar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Naxo",
+   "url": "https://x.com/search?q=Naxo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Copa Argentina",
+   "url": "https://x.com/search?q=Copa%20Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Virginia Gallardo",
+   "url": "https://x.com/search?q=Virginia%20Gallardo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Platense",
    "url": "https://x.com/search?q=Platense",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Y Boca",
-   "url": "https://x.com/search?q=Y%20Boca",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +99,20 @@
    "temas": []
   },
   {
+   "tema": "#Mesaza",
+   "url": "https://x.com/search?q=%23Mesaza",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Pablo AgustÃ­n",
    "url": "https://x.com/search?q=Pablo%20Agust%C3%83%C2%ADn",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Mesaza",
-   "url": "https://x.com/search?q=%23Mesaza",
+   "tema": "Y Boca",
+   "url": "https://x.com/search?q=Y%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -115,36 +121,39 @@
    "url": "https://x.com/search?q=%23TodoSigueIgual",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Jamaica",
-   "url": "https://x.com/search?q=Jamaica",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "temblor en san juan",
-   "busquedas": "200+",
-   "nota": "Fuerte temblor sacudió el sur sanjuanino y repercutió en toda la zona norte de Mendoza",
-   "nota_url": "https://www.diariomendoza.com.ar/sociedad/fuerte-temblor-sacudio-sur-sanjuanino-repercutio-toda-zona-norte-mendoza-n185332",
-   "medio": "Diario Mendoza",
+   "tema": "24 de noviembre",
+   "busquedas": "100+",
+   "nota": "Feriados locales en noviembre 2026: qué municipios de la Provincia de Buenos Aires tienen asueto",
+   "nota_url": "https://www.ambito.com/informacion-general/feriados-locales-noviembre-2026-que-municipios-la-provincia-buenos-aires-tienen-asueto-n6341896",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "yousri belgaroui",
+   "tema": "inpres san juan",
+   "busquedas": "500+",
+   "nota": "Terremoto moderado mag. 4.8 - Departamento de Albardon, 26 km al noroeste de Ciudad de San Juan, Capital, San Juan, Argentina, Sunday 15 Nov 2026 a las 00:59 (Hora Buenos_Aires)",
+   "nota_url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23639893/mag4quake-Nov-15-2026-Argentina-San-Juan.html",
+   "medio": "Volcano Discovery",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "temblor en san juan",
    "busquedas": "200+",
-   "nota": "Why did Caio Borralho Message Alex Pereira After Booking Yousri Belgaroui Bout?",
-   "nota_url": "https://mmasucka.com/news/why-did-caio-borralho-message-alex-pereira-after-booking-yousri-belgaroui-bout/",
-   "medio": "MMA Sucka",
+   "nota": "Perú — Sismo de 5,9 en Perú, el sexto en menos de veinte horas",
+   "nota_url": "https://prensamercosur.org/2026/11/13/peru-sismo-de-59-en-peru-el-sexto-en-menos-de-veinte-horas/",
+   "medio": "Prensa Mercosur",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "caio borralho",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Why did Caio Borralho Message Alex Pereira After Booking Yousri Belgaroui Bout?",
    "nota_url": "https://mmasucka.com/news/why-did-caio-borralho-message-alex-pereira-after-booking-yousri-belgaroui-bout/",
    "medio": "MMA Sucka",
@@ -154,9 +163,9 @@
   {
    "tema": "kevin holland",
    "busquedas": "200+",
-   "nota": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
-   "nota_url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
-   "medio": "BettingPros",
+   "nota": "UFC 334 live blog: Uros Medic vs. Kevin Holland",
+   "nota_url": "https://www.mmafighting.com/ufc/521230/ufc-334-live-blog-uros-medic-vs-kevin-holland",
+   "medio": "MMA Fighting",
    "relevante": false,
    "temas": []
   },
@@ -172,45 +181,36 @@
   {
    "tema": "dwayne johnson",
    "busquedas": "200+",
-   "nota": "Dwayne Johnson to receive USC dramatic arts honor",
-   "nota_url": "https://www.nbclosangeles.com/news/local/dwayne-johnson-to-receive-usc-dramatic-arts-honor/3970268/",
-   "medio": "NBC Los Angeles",
+   "nota": "Slow Horses Star Jack Lowden Was In Dwayne Johnson's Most Underrated Movie",
+   "nota_url": "https://www.slashfilm.com/2316904/slow-horses-star-jack-lowden-dwayne-johnson-movie-fighting-with-my-family/",
+   "medio": "SlashFilm",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bilal hasan",
    "busquedas": "500+",
-   "nota": "Bilal Hasan vs. Luis Gurule prediction, pick, start time, odds for UFC 334",
-   "nota_url": "https://www.centraloregondaily.com/sports/bilal-hasan-vs-luis-gurule-prediction-pick-start-time-odds-for-ufc-334/article_cfb797bb-38c7-5cb8-ae3e-5aeaf0cc0862.html",
-   "medio": "Central Oregon Daily",
+   "nota": "From DWCS to Two UFC Main Cards: Is the UFC Fast-Tracking Bilal Hasan?",
+   "nota_url": "https://sports.yahoo.com/articles/dwcs-two-ufc-main-cards-141320217.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jamaica vs",
    "busquedas": "200+",
-   "nota": "Jamaica sacudió a México en la ida de los cuartos de final",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/jamaica-sacudio-a-mexico-en-la-ida-de-los-cuartos-de-final/",
-   "medio": "Vermouth Deportivo",
+   "nota": "Gilberto Mora y Julián Quiñones maquillan derrota de México ante Jamaica",
+   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17517802/jamaica-vs-mexico-gil-mora-quinones-maquillan-derrota",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club deportivo maipú",
-   "busquedas": "5000+",
-   "nota": "Una bomba de estruendo hirió a un arquero y desató un escándalo en el Reducido de la Primera Nacional",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/14/escandalo-en-la-primera-nacional-un-arquero-resulto-herido-por-una-bomba-de-estruendo-y-el-partido-fue-suspendido/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nacho giron",
-   "busquedas": "200+",
-   "nota": "Una noche que encendió el alma y revivió el fervor adolescente, entre velas y las profundas palabras de León XIV",
-   "nota_url": "https://www.lanacion.com.ar/salud/una-noche-que-encendio-el-alma-y-revivio-el-fervor-adolescente-entre-velas-y-las-profundas-palabras-nid12112026/",
-   "medio": "La Nación",
+   "tema": "kayla harrison",
+   "busquedas": "2000+",
+   "nota": "‘Worst. Gameplan. Ever.’: Pros react to Amanda Nunes’ shocking submission loss to Kayla Harrison at UFC 334",
+   "nota_url": "https://www.mmafighting.com/ufc/521481/worst-gameplan-ever-pros-react-to-amanda-nunes-shocking-submission-loss-to-kayla-harrison-at-ufc-334",
+   "medio": "MMA Fighting",
    "relevante": false,
    "temas": []
   }
