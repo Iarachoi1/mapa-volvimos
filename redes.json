@@ -1,16 +1,10 @@
 {
- "actualizado": "14/11 21:34",
+ "actualizado": "14/11 22:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Paredes",
    "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +15,32 @@
    "temas": []
   },
   {
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Montero",
    "url": "https://x.com/search?q=Montero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Copa Argentina",
+   "url": "https://x.com/search?q=Copa%20Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +51,32 @@
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "Y Boca",
+   "url": "https://x.com/search?q=Y%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "Platense",
+   "url": "https://x.com/search?q=Platense",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#LaNocheDeMartina2",
+   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PodemosHablar",
+   "url": "https://x.com/search?q=%23PodemosHablar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pablo AgustÃ­n",
+   "url": "https://x.com/search?q=Pablo%20Agust%C3%83%C2%ADn",
    "relevante": false,
    "temas": []
   },
@@ -51,166 +87,130 @@
    "temas": []
   },
   {
-   "tema": "#CopaArgentina",
-   "url": "https://x.com/search?q=%23CopaArgentina",
+   "tema": "Ruler",
+   "url": "https://x.com/search?q=Ruler",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ruso",
-   "url": "https://x.com/search?q=Ruso",
+   "tema": "Xeneize",
+   "url": "https://x.com/search?q=Xeneize",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
+   "tema": "SIGAN VIENDO",
+   "url": "https://x.com/search?q=SIGAN%20VIENDO",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Portugal",
-   "url": "https://x.com/search?q=Portugal",
+   "tema": "GanÃ³ Boca",
+   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "5 de Boca",
-   "url": "https://x.com/search?q=5%20de%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Midland",
-   "url": "https://x.com/search?q=Midland",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Temperley",
-   "url": "https://x.com/search?q=Temperley",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#Worlds2026",
-   "url": "https://x.com/search?q=%23Worlds2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Troglio",
-   "url": "https://x.com/search?q=Troglio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Balboa",
-   "url": "https://x.com/search?q=Balboa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Dinamarca",
-   "url": "https://x.com/search?q=Dinamarca",
+   "tema": "Boquita",
+   "url": "https://x.com/search?q=Boquita",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ufc",
-   "busquedas": "1000+",
-   "nota": "UFC 334 predictions",
-   "nota_url": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
-   "medio": "MMA Fighting",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "batalla campal",
+   "tema": "jeremiah fears",
    "busquedas": "200+",
-   "nota": "Primera C: Central Córdoba se juega el pasaje a las semifinales ante Cañuelas",
-   "nota_url": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-se-juega-el-pasaje-las-semifinales-canuelas-n10292106.html",
-   "medio": "La Capital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan josé campanella",
-   "busquedas": "100+",
-   "nota": "Mafalda llega a Netflix en 2027: la llamada de cinco minutos de Campanella que dio origen a la serie",
-   "nota_url": "https://www.bloomberglinea.com/estilo-de-vida/mafalda-llega-a-netflix-en-2027-la-llamada-de-cinco-minutos-de-campanella-que-dio-origen-a-la-serie/",
-   "medio": "Bloomberg Línea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "petróleo",
-   "busquedas": "100+",
-   "nota": "Por Vaca Muerta, las exportaciones de petróleo superan los 100 millones de barriles en lo que va del año",
-   "nota_url": "https://www.rionegro.com.ar/energia/por-vaca-muerta-las-exportaciones-de-petroleo-superan-los-100-millones-de-barriles-en-lo-que-va-del-ano-4778731/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jamaica - méxico",
-   "busquedas": "500+",
-   "nota": "Jamaica vs México: posibles alineaciones y lo que debes saber",
-   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17513663/jamaica-vs-mexico-alineaciones-nations-league",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "blg",
-   "busquedas": "100+",
-   "nota": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-   "nota_url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
-   "medio": "CelebrityAccess",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ufc hoy",
-   "busquedas": "500+",
-   "nota": "Quién pelea hoy sábado 14 de noviembre en boxeo y UFC, a qué hora y dónde ver los combates EN VIVO",
-   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/11/quien-pelea-hoy-sabado-14-de-noviembre-en-boxeo-y-ufc-a-que-hora-y-donde-ver-los-combates-en-vivo.php",
-   "medio": "FM Del Sol Pehuajo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cuando se juega la final de la copa argentina 2026",
-   "busquedas": "1000+",
-   "nota": "Boca, finalista: rival y fecha para el partido por el título en la Copa Argentina 2026",
-   "nota_url": "https://planetabj.com/noticias/boca-finalista-rival-y-fecha-para-el-partido-por-el-titulo-en-la-copa-argentina-2026-aEeVh0H8DKY8/",
-   "medio": "Planeta Boca Juniors",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pelicans - nuggets",
-   "busquedas": "200+",
-   "nota": "Nuggets conclude road trip against Pelicans",
-   "nota_url": "https://nuggets.com/news/nuggets-conclude-road-trip-pelicans",
+   "nota": "Jeremiah Fears Highlights vs. Memphis Grizzlies 11/13/26",
+   "nota_url": "https://www.nba.com/pelicans/videos/jeremiah-fears-highlights-vs-memphis-grizzlies-11-13-26",
    "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tinoco",
+   "tema": "denise dumas",
    "busquedas": "200+",
-   "nota": "Encontraron con vida a un hombre de 78 años que estaba desaparecido desde este viernes",
-   "nota_url": "https://www.lavoz.com.ar/sucesos/encontraron-vida-hombre-78-anos-desaparecido-viernes_0_rq31aAYd5a.html",
-   "medio": "La Voz del Interior",
+   "nota": "Santino Curto, el hijo de Denise Dumas: \"Cuando volví de Nueva Zelanda, me aboqué de lleno a la música\"",
+   "nota_url": "https://www.pronto.com.ar/pronto-musica/2026/11/9/santino-curto-el-hijo-de-denise-dumas-cuando-volvi-de-nueva-zelanda-me-aboque-de-lleno-a-la-musica-266118.html",
+   "medio": "Pronto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "playstation",
+   "busquedas": "100+",
+   "nota": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
+   "nota_url": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
+   "medio": "Push Square",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "heat - pistons",
+   "busquedas": "200+",
+   "nota": "Detroit visits Miami following Cunningham's 52-point showing",
+   "nota_url": "https://www.foxsports.com/articles/nba/detroit-visits-miami-following-cunninghams-52point-showing",
+   "medio": "FOX Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - bulls",
+   "busquedas": "200+",
+   "nota": "Game Preview #13: Wolves vs Bulls",
+   "nota_url": "https://sports.yahoo.com/articles/game-preview-13-wolves-vs-010000388.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rocio robles",
+   "busquedas": "5000+",
+   "nota": "Daniela Celis habló de la incomodidad que vivió por una pregunta sobre Thiago Medina",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/13/la-incomodidad-que-vivio-daniela-celis-por-una-pregunta-sobre-thiago-medina-en-la-grabacion-de-un-programa-fue-raro/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mala fama",
+   "busquedas": "1000+",
+   "nota": "Aseguran que la esposa de Hernán de Mala Fama armó un escándalo en PH Podemos Hablar: los motivos",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/12/aseguran-que-la-esposa-de-hernan-de-mala-fama-armo-un-escandalo-en-ph-podemos-hablar-los-motivos/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mexico vs",
+   "busquedas": "500+",
+   "nota": "¿Rafa Márquez abarata a la Selección Mexicana en sus convocatorias?",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17507329/seleccion-mexicana-rafa-marquez-jamaica-final-four-concacaf",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "paramount",
+   "busquedas": "200+",
+   "nota": "Skydance Bosses Throw Shade On Warner Bros Film Slate; Q4 Profit Will Take $200M Hit",
+   "nota_url": "https://deadline.com/2026/11/skydance-earnerings-warner-bros-losses-david-ellison-1237217782/",
+   "medio": "Deadline",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el final de la calle oak",
+   "busquedas": "200+",
+   "nota": "The End of Oak Street llega al streaming tras su paso por cines",
+   "nota_url": "https://foro3d.com/2026/noviembre/the-end-of-oak-street-llega-al-streaming-tras-su-paso-por-cines.html",
+   "medio": "Foro3D",
    "relevante": false,
    "temas": []
   }
