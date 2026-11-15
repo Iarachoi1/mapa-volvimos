@@ -1,10 +1,16 @@
 {
- "actualizado": "15/11 16:34",
+ "actualizado": "15/11 17:27",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "#LuzuVs412",
    "url": "https://x.com/search?q=%23LuzuVs412",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Davo",
+   "url": "https://x.com/search?q=Davo",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Davo",
-   "url": "https://x.com/search?q=Davo",
+   "tema": "La Cobra",
+   "url": "https://x.com/search?q=La%20Cobra",
    "relevante": false,
    "temas": []
   },
@@ -39,26 +45,32 @@
    "temas": []
   },
   {
+   "tema": "Garza",
+   "url": "https://x.com/search?q=Garza",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "VOLVIÃ AO3",
    "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "La Cobra",
-   "url": "https://x.com/search?q=La%20Cobra",
+   "tema": "Edul",
+   "url": "https://x.com/search?q=Edul",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Occhiato",
+   "url": "https://x.com/search?q=Occhiato",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Montero",
    "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "garza",
-   "url": "https://x.com/search?q=garza",
    "relevante": false,
    "temas": []
   },
@@ -81,12 +93,6 @@
    "temas": []
   },
   {
-   "tema": "Ronaldinho",
-   "url": "https://x.com/search?q=Ronaldinho",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Metrogas",
    "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
@@ -99,8 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Cusco",
-   "url": "https://x.com/search?q=Cusco",
+   "tema": "Marcos",
+   "url": "https://x.com/search?q=Marcos",
    "relevante": false,
    "temas": []
   },
@@ -111,94 +117,88 @@
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#CatalanChanta",
-   "url": "https://x.com/search?q=%23CatalanChanta",
+   "tema": "Topa",
+   "url": "https://x.com/search?q=Topa",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "españa - inglaterra",
-   "busquedas": "10000+",
-   "nota": "Partidos de la Nations League de hoy, domingo 15 de noviembre: hora, dónde ver en vivo y resultados",
-   "nota_url": "https://www.tycsports.com/uefa-nations-league/partidos-de-la-nations-league-de-hoy-domingo-15-de-noviembre-hora-donde-ver-en-vivo-y-resultados-id771157.html",
-   "medio": "TyC Sports",
+   "tema": "ramón díaz",
+   "busquedas": "500+",
+   "nota": "La foto que publicó Emiliano Díaz que volvió a ilusionar a los hinchas con un posible regreso de Ramón a River",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/13/la-foto-que-publico-emiliano-diaz-que-volvio-a-ilusionar-a-los-hinchas-con-un-posible-regreso-de-ramon-a-river/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "francia - turquía",
-   "busquedas": "2000+",
-   "nota": "¿Por qué no juega Kenan Yildiz en Francia vs. Turquía por la UEFA Nations League 2026-27?",
-   "nota_url": "https://bolavip.com/mx/uefa/por-que-no-juega-kenan-yildiz-en-francia-vs-turquia-por-la-uefa-nations-league-2026-27",
-   "medio": "Bolavip México",
+   "tema": "estadio julio césar villagra",
+   "busquedas": "200+",
+   "nota": "Hombre de finales: el categórico balance de Lucas Alario luego de darle la Supercopa a Estudiantes",
+   "nota_url": "https://www.ole.com.ar/estudiantes/lucas-alario-estudiantes-goles-importantes-supercopa-independiente-rivadavia_0_2gKIc158lQ.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bélgica - italia",
+   "tema": "lpf play",
+   "busquedas": "5000+",
+   "nota": "Escándalo con LPF Play: fallas en las transmisiones dejaron a los hinchas del Ascenso sin ver los partidos",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1162585/deportes/escandalo-lpf-play-fallas-transmisiones-dejaron-hinchas-ascenso-sin-ver-partidos.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lpf",
    "busquedas": "1000+",
-   "nota": "«¡Seremos rivales!»: Giorgio Scalvini, estrella del Atalanta, advierte a su compañero de equipo Charles De Ketelaere",
-   "nota_url": "https://www.goal.com/es/noticias/seremos-rivales-giorgio-scalvini-estrella-del-atalanta-advierte-a-su-companero-de-equipo-charles-de-ketelaere/blt197213bb07df0d0d",
-   "medio": "Goal.com",
+   "nota": "Godoy Cruz y Tristán Suárez, mano a mano por el primer ascenso a la máxima categoría",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/14/godoy-cruz-y-tristan-suarez-mano-a-mano-por-el-primer-ascenso-a-la-maxima-categoria/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "croacia - chequia",
+   "tema": "ricardo gareca",
+   "busquedas": "200+",
+   "nota": "Ricardo Gareca será el entrenador de Peñarol si Freddy García gana las elecciones: cómo se conforma su equipo",
+   "nota_url": "https://www.elpais.com.uy/ovacion/futbol/ricardo-gareca-sera-el-entrenador-de-penarol-si-freddy-garcia-gana-las-elecciones-como-se-conforma-su-equipo",
+   "medio": "EL PAÍS Uruguay",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "hungría",
+   "busquedas": "100+",
+   "nota": "Video Hungría: encontraron casi 20 millones de dólares escondidos en bosques y almacenes",
+   "nota_url": "https://www.clarin.com/videos/hungria-encontraron-20-millones-dolares-escondidos-bosques-almacenes-investigacion-corrupcion_3_VLk3Ss5FRn.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tarjeta roja mundial",
+   "busquedas": "100+",
+   "nota": "Vinícius, lejos del Real Madrid, se refugia y brilla en Brasil",
+   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17515429/brasil-vs-japon-vinicius-real-madrid-fecha-fifa",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "basura",
+   "busquedas": "100+",
+   "nota": "Lo que dice la psicología sobre la persona que recoge basura ajena",
+   "nota_url": "https://www.informador.mx/estilo/lo-que-dice-la-psicologia-sobre-la-persona-que-recoge-basura-ajena-20261115-0057.html",
+   "medio": "El Informador",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga de naciones",
    "busquedas": "1000+",
-   "nota": "Croacia y República Checa, a evitar un posible descenso directo",
-   "nota_url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261115/1004251025/croacia-republica-checa-evitar-posible-descenso-directo.html",
-   "medio": "Mundo Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fútbol",
-   "busquedas": "500+",
-   "nota": "El gol de Ravenna con la participación de Ronaldinho",
-   "nota_url": "https://www.tycsports.com/video/deportes/el-gol-de-ravenna-con-la-participacion-de-ronaldinho-id1005128.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juventud antoniana",
-   "busquedas": "500+",
-   "nota": "Juventud, con todo definido, viaja a Río Negro para lograr la hazaña",
-   "nota_url": "https://nuevodiariodesalta.com.ar/juventud-con-todo-definido-viaja-a-rio-negro-para-lograr-la-hazana/",
-   "medio": "Nuevo Diario de Salta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "supermercado",
-   "busquedas": "500+",
-   "nota": "Entraron a robar al supermercado de un concejal de Berisso y todo quedó filmado",
-   "nota_url": "https://www.0221.com.ar/policiales/entraron-robar-al-supermercado-un-concejal-berisso-y-todo-quedo-filmado-n137473",
-   "medio": "0221",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ted lasso",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "albania vs",
-   "busquedas": "100+",
    "nota": "Alineaciones de Bielorrusia y Albania para el duelo de la fecha 6 de la Liga de Naciones",
    "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-bielorrusia-y-albania-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
    "medio": "Bolavip Argentina",
@@ -206,11 +206,11 @@
    "temas": []
   },
   {
-   "tema": "deportivo morón - colegiales",
-   "busquedas": "10000+",
-   "nota": "Deportivo Morón - Colegiales: Todo confirmado para el choque entre Morón y Colegiales",
-   "nota_url": "https://www.soloascenso.com.ar/notas/gimnasia-jujuy/todo-confirmado-para-el-choque-entre-moron-y-colegiales/234341",
-   "medio": "Solo Ascenso",
+   "tema": "danubio - liverpool",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   }
