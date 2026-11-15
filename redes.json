@@ -1,7 +1,13 @@
 {
- "actualizado": "15/11 08:27",
+ "actualizado": "15/11 09:32",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "VOLVIÃ AO3",
    "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
@@ -9,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
+   "tema": "#BuenDomingo",
+   "url": "https://x.com/search?q=%23BuenDomingo",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#LaNocheDeMartina2",
-   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
+   "tema": "#FelizDomingo",
+   "url": "https://x.com/search?q=%23FelizDomingo",
    "relevante": false,
    "temas": []
   },
@@ -39,20 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenDomingo",
-   "url": "https://x.com/search?q=%23BuenDomingo",
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
+   "tema": "velasco",
+   "url": "https://x.com/search?q=velasco",
    "relevante": false,
    "temas": []
   },
@@ -63,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Uruguay",
-   "url": "https://x.com/search?q=Uruguay",
+   "tema": "Messi",
+   "url": "https://x.com/search?q=Messi",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Balerdi",
-   "url": "https://x.com/search?q=Balerdi",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#CopaArgentina",
    "url": "https://x.com/search?q=%23CopaArgentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "Uruguay",
+   "url": "https://x.com/search?q=Uruguay",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
@@ -117,16 +111,67 @@
    "temas": []
   },
   {
-   "tema": "Gran Rex",
-   "url": "https://x.com/search?q=Gran%20Rex",
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BRAIDA",
+   "url": "https://x.com/search?q=BRAIDA",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "perro",
+   "tema": "grand theft auto vi",
    "busquedas": "100+",
+   "nota": "Licensable picture: A visitor holds a crystal from the New Year's eve ball in New York City",
+   "nota_url": "https://www.reutersconnect.com/item/a-visitor-holds-a-crystal-from-the-new-years-eve-ball-in-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjlOT0FTRjU1TQ",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "federico beligoy",
+   "busquedas": "200+",
+   "nota": "Federico Beligoy, jefe de los árbitros de la AFA, bajo la lupa por una inversión inmobiliaria de US$261.000",
+   "nota_url": "https://diarioneuquino.com.ar/federico-beligoy-jefe-de-los-arbitros-de-la-afa-bajo-la-lupa-por-una-inversion-inmobiliaria-de-us261-000/",
+   "medio": "Diario Neuquino",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la nación",
+   "busquedas": "500+",
+   "nota": "Trump le dice al director de « DHS » que colabore con los demócratas en la reforma migratoria, pero sin amnistía",
+   "nota_url": "https://noticias.foxnews.com/politics/trump-tells-dhs-chief-work-democrats-immigration-reform-no-amnesty",
+   "medio": "Fox News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "15 de noviembre",
+   "busquedas": "200+",
+   "nota": "Horóscopo de hoy: descubre qué te depara el universo este domingo 15 de noviembre de 2026",
+   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-domingo-15-noviembre-2026_0_TiZK0W4bgB.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atp finals",
+   "busquedas": "200+",
+   "nota": "Andy Murray predicts who will win the ATP Finals between Carlos Alcaraz and Alexander Zverev",
+   "nota_url": "https://sports.yahoo.com/articles/andy-murray-predicts-win-atp-120000465.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "perro",
+   "busquedas": "200+",
    "nota": "“Me salvó la vida”: el mensaje de Rodrigo Lussich que emocionó a sus seguidores",
    "nota_url": "https://radiomitre.cienradios.com/espectaculos/me-salvo-la-vida-el-mensaje-de-rodrigo-lussich-que-emociono-a-sus-seguidores/",
    "medio": "Radio Mitre",
@@ -135,7 +180,7 @@
   },
   {
    "tema": "franco colapinto",
-   "busquedas": "500+",
+   "busquedas": "2000+",
    "nota": "Cuánto gana Franco Colapinto en Alpine y cuál es la diferencia salarial con Pierre Gasly",
    "nota_url": "https://www.somosjujuy.com.ar/deportes/cuanto-gana-franco-colapinto-alpine-diferencia-salarial-pierre-gasly-n127157",
    "medio": "Somos Jujuy",
@@ -153,64 +198,19 @@
   },
   {
    "tema": "santiago del estero",
-   "busquedas": "500+",
-   "nota": "Hasta 128mm: una por una, cuánto llovió en las localidades de Santiago tras el temporal",
-   "nota_url": "https://nuevodiarioweb.com.ar/notas/hasta-128mm-una-por-una-cuanto-llovio-en-las-localidades-de-santiago-tras-el-temporal.htm",
-   "medio": "Nuevo Diario Web",
+   "busquedas": "100+",
+   "nota": "Un horno en Santiago del Estero: la temperatura ya roza los 40°C y se espera una máxima extrema de 44°C",
+   "nota_url": "https://www.elliberal.com.ar/nota/97910/2026/11/un-horno-en-santiago-del-estero--la-temperatura-ya-roza-los-40%EF%BF%BDc-y-se-espera-una-maxima-extrema-de-44%EF%BF%BDc",
+   "medio": "El Liberal",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gladys la bomba tucumana",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "El dolor de Gladys “La Bomba Tucumana” por la muerte de su sobrino de 12 años",
    "nota_url": "https://www.lanacion.com.ar/espectaculos/el-dolor-de-gladys-la-bomba-tucumana-por-la-muerte-de-su-sobrino-de-solo-12-anos-nid12112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tormenta",
-   "busquedas": "1000+",
-   "nota": "Alerta por tormentas severas: granizo, ráfagas de más de 90 km/h y hasta 100 mm en La Pampa, oeste bonaerense y Córdoba",
-   "nota_url": "https://news.agrofy.com.ar/noticia/216993/alerta-tormentas-severas-granizo-rafagas-mas-90-kmh-100-mm-pampa-oeste-bonaerense-cordoba",
-   "medio": "Agrofy News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "río paraná",
-   "busquedas": "200+",
-   "nota": "El río Paraná sigue creciendo y complica al Litoral: más de 4.500 evacuados y alerta por nuevas subas",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/el-rio-parana-sigue-creciendo-y-complica-al-litoral-mas-de-4-500-evacuados-y-alerta-por-nuevas-subas.html",
-   "medio": "Meteored Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "neuquén",
-   "busquedas": "200+",
-   "nota": "Figueroa y Gaido adelantan las elecciones para separarse de la caída de Milei",
-   "nota_url": "https://www.laizquierdadiario.com/Figueroa-y-Gaido-adelantan-las-elecciones-para-separarse-de-la-caida-de-Milei",
-   "medio": "La Izquierda Diario",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "24 de noviembre",
-   "busquedas": "200+",
-   "nota": "Feriados locales en noviembre 2026: qué municipios de la Provincia de Buenos Aires tienen asueto",
-   "nota_url": "https://www.ambito.com/informacion-general/feriados-locales-noviembre-2026-que-municipios-la-provincia-buenos-aires-tienen-asueto-n6341896",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inpres san juan",
-   "busquedas": "500+",
-   "nota": "Tembló en San Juan y se sintió en Mendoza",
-   "nota_url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
-   "medio": "Diario El Sol Mendoza",
    "relevante": false,
    "temas": []
   }
