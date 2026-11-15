@@ -1,10 +1,23 @@
 {
  "semana": "15 de noviembre de 2026",
  "fecha": "2026-11-15",
- "actualizado": "15/11 06:36",
+ "actualizado": "15/11 11:34",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "Carta de un León a otro: la ruleta rusa de Milei y la lista secreta de Santilli",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "15/11/2026",
+     "url": "https://cenital.com/carta-de-un-leon-a-otro-la-ruleta-rusa-de-milei-y-la-lista-secreta-de-santilli/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Martín Cirio confesó que no será candidato a diputado",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "15/11/2026",
+     "url": "https://bardeo.news/entretenimiento/martin-cirio-confeso-que-no-sera-candidato-a-diputado_a6af9bb0542fa9d9e6e12e0e0"
+    },
     {
      "titulo": "Llévame donde los hombres necesiten tus internas",
      "medio": "Bardeo (columnas de Manu Jove)",
@@ -17,6 +30,13 @@
   "CABA": {
    "top3": [
     {
+     "titulo": "LEÓN Y DESPUÉS La Iglesia presiona a Milei por la ley de ludopatía y Bullrich choca con la interna libertaria Por Guillermo Villarreal",
+     "medio": "Letra P",
+     "fecha": "15/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-iglesia-presiona-javier-milei-la-ley-ludopatia-y-patricia-bullrich-choca-la-interna-libertaria-n5428227",
+     "tag": "Política"
+    },
+    {
      "titulo": "La batalla por las PASO: el ajedrez electoral que definirá el futuro de Milei y Bullrich",
      "medio": "Infobae",
      "fecha": "15/11/2026",
@@ -24,11 +44,11 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Los gobernadores dialoguistas, ante un acuerdo con el Gobierno con más dudas que certezas",
-     "medio": "El Destape",
+     "titulo": "En el año electoral, Jorge Macri seguirá ajustando subtes, colectivos y peajes por encima de la inflación",
+     "medio": "Letra P",
      "fecha": "15/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-acuerdo-gobierno-dudas-certezas-202611150526",
-     "tag": "Política"
+     "url": "https://www.letrap.com.ar/letrae/economia-finanzas/en-el-ano-electoral-jorge-macri-seguira-ajustando-subtes-colectivos-y-peajes-encima-la-inflacion-n5428175",
+     "tag": "Ciudad"
     },
     {
      "titulo": "Las prioridades del Gobierno para el cierre del año legislativo y los proyectos que podrían quedar en espera",
@@ -38,18 +58,25 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "Transporte. El Gobierno eliminó el pago adicional de 30% al uso del GNC en los colectivos y reavivó la guerra por los subsidios",
-     "medio": "La Nación",
-     "fecha": "15/11/2026",
-     "url": "https://www.lanacion.com.ar/economia/el-gobierno-elimino-el-pago-adicional-de-30-al-uso-del-gnc-en-los-colectivos-y-reavivo-la-guerra-por-nid15112026/",
-     "tag": "Ciudad"
-    },
-    {
      "titulo": "Reforma electoral. El Gobierno acelera el debate para suspender las PASO sin saber si tiene los votos asegurados",
      "medio": "La Nación",
      "fecha": "15/11/2026",
      "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/",
      "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Milei reiteró que irá por la reelección: \"Para quienes dudan\"",
+     "medio": "El Destape",
+     "fecha": "15/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-domingo-15-noviembre-minuto-minuto-2026111592516",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Los gobernadores dialoguistas, ante un acuerdo con el Gobierno con más dudas que certezas",
+     "medio": "El Destape",
+     "fecha": "15/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-acuerdo-gobierno-dudas-certezas-202611150526",
+     "tag": "Política"
     },
     {
      "titulo": "El próximo fenómeno político que ve el Gobierno y el ultimátum de Milei a sus funcionarios",
@@ -71,37 +98,125 @@
      "fecha": "15/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/15/circulo-rojo-milei-despues-del-papa-una-interna-sin-tregua-y-el-futuro-en-disputa/",
      "tag": "Política"
-    },
-    {
-     "titulo": "Mahiques reclama celeridad por encima de la interna Con urgencia, el Gobierno envía al Senado 63 pliegos de jueces Barbara Komarovsky",
-     "medio": "Perfil",
-     "fecha": "15/11/2026",
-     "url": "https://www.perfil.com/politica/con-urgencia-el-gobierno-envia-al-senado-63-pliegos-de-jueces-aysV92h0stRv",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Se mostraron juntos en la casa rosada Milei homenajeó a Belgrano y redimió a Diego Valenzuela Claudio Mardones",
-     "medio": "Perfil",
-     "fecha": "15/11/2026",
-     "url": "https://www.perfil.com/politica/milei-homenajeo-a-belgrano-y-redimio-a-diego-valenzuela-a0P4u4m0rdNo",
-     "tag": "Política"
     }
    ],
    "imagen": []
+  },
+  "Buenos Aires": {
+   "top3": [
+    {
+     "titulo": "Milei, furioso y una guerra sin tregua: los Menem y Bullrich se disputan el poder en la Casa Rosada INTERNA LIBERTARIA",
+     "medio": "La Tecla",
+     "fecha": "15/11/2026",
+     "url": "https://www.latecla.info/171170-milei-furioso-y-una-guerra-sin-tregua-los-menem-y-bullrich-se-disputan-el-poder-en-la-casa-rosada"
+    },
+    {
+     "titulo": "Milei confirmó que irá por otro mandato: “Sí, estoy yendo por la reelección”",
+     "medio": "Diagonales",
+     "fecha": "15/11/2026",
+     "url": "https://www.diagonales.com/nacion/milei-confirmo-que-ira-por-otro-mandato---si--estoy-yendo-por-la-reeleccion-_a6af9bad442fa9d9e6e12de4f"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Sobreviviente del chavismo La reflexión de Nahuel Gallo a ocho meses de su liberación: \"Siento que se sacaron la foto y se olvidaron de mí\"",
+     "medio": "El Ancasti",
+     "fecha": "15/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-reflexion-nahuel-gallo-ocho-meses-su-liberacion-siento-que-se-sacaron-la-foto-y-se-olvidaron-mi-n626098"
+    },
+    {
+     "titulo": "Pérdida del poder adquisitivo Ocho de cada diez consultados aseguran que sus sueldos pierden contra la inflación",
+     "medio": "El Ancasti",
+     "fecha": "15/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/ocho-cada-diez-consultados-aseguran-que-sus-sueldos-pierden-contra-la-inflacion-n626100"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Milei enfrenta una interna profunda y apura acuerdos para la reelección",
+     "medio": "Hoy Dia",
+     "fecha": "15/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/milei-enfrenta-una-interna-profunda-y-apura-acuerdos-para-la-reeleccion/"
+    },
+    {
+     "titulo": "Sorpresa en el espectáculo. El influencer Martín Cirio sorprendió al anunciar su candidatura como diputado",
+     "medio": "Cadena3",
+     "fecha": "15/11/2026",
+     "url": "https://www.cadena3.com/noticia/espectaculos/el-influencer-martin-cirio-sorprendio-al-anunciar-su-candidatura-como-diputado_613307"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei ratificó su candidatura para 2027: “Para los que dudan, sí, voy por la reelección”",
+     "medio": "ElDoce",
+     "fecha": "15/11/2026",
+     "url": "https://eldoce.tv/politica/2026/11/15/milei-ratifico-su-candidatura-para-2027-para-los-que-dudan-si-voy-por-la-reeleccion/",
+     "tag": "También en CBA24N"
+    }
+   ]
   },
   "Corrientes": {
    "top3": [
     {
-     "titulo": "00:09 Corrientes presentó oficialmente el Carnaval Correntino 2027",
+     "titulo": "Corrientes presentó oficialmente el Carnaval Correntino 2027",
      "medio": "El Litoral",
      "fecha": "15/11/2026",
      "url": "https://www.ellitoral.com.ar/cultura/2026-11-15-0-9-0-corrientes-presento-oficialmente-el-carnaval-correntino-2027"
+    },
+    {
+     "titulo": "11:00 El Gobierno busca acelerar objetivos legislativos antes de fin de las sesiones ordinarias",
+     "medio": "El Litoral",
+     "fecha": "15/11/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-15-11-0-0-el-gobierno-busca-acelerar-objetivos-legislativos-antes-de-fin-de-las-sesiones-ordinarias"
     }
    ],
    "imagen": []
   },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "El bastón de mariscal: Cresto pide elecciones internas en el PJ",
+     "medio": "AFP Digital",
+     "fecha": "15/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/15/479217-el-baston-de-mariscal-cresto-pide-elecciones-internas-en-el-pj"
+    },
+    {
+     "titulo": "Así será la cárcel de máxima seguridad que Santa Fe prevé abrir en mayo de 2027",
+     "medio": "El Once",
+     "fecha": "15/11/2026",
+     "url": "https://www.elonce.com/sociedad/asi-sera-la-carcel-de-maxima-seguridad-que-santa-fe-preve-abrir-en-mayo-de-2027.htm"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei ratificó que buscará otro mandato en 2027: “Sí, estoy yendo por la reelección”",
+     "medio": "El Once",
+     "fecha": "15/11/2026",
+     "url": "https://www.elonce.com/politica/milei-ratifico-que-buscara-otro-mandato-en-2027-si-estoy-yendo-por-la-reeleccion.htm",
+     "tag": "También en Ahora, UNO ER"
+    },
+    {
+     "titulo": "Milei ratificó que buscará la reelección en 2027 y reivindicó las ideas económicas de Belgrano",
+     "medio": "AFP Digital",
+     "fecha": "15/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/15/479226-milei-ratifico-que-buscara-la-reeleccion-en-2027-y-reivindico-las-ideas-economicas-de-belgrano"
+    }
+   ]
+  },
   "Jujuy": {
    "top3": [
+    {
+     "titulo": "RUIDOS EN LA PUNA Vicegobernador se busca en Jujuy Por Enrique Gebauer",
+     "medio": "Letra P",
+     "fecha": "15/11/2026",
+     "url": "https://www.letrap.com.ar/politica/vicegobernador-se-busca-jujuy-sadir-va-la-reeleccion-pero-descarta-bernis-como-companero-formula-n5428215"
+    },
     {
      "titulo": "La Legislatura reconoció al cantautor jujeño Tony Izkierdo",
      "medio": "El Tribuno",
@@ -109,10 +224,42 @@
      "url": "https://eltribunodejujuy.com/espectaculos/2026-11-15-0-0-0-la-legislatura-reconocio-al-cantautor-jujeno-tony-izkierdo"
     },
     {
-     "titulo": "Frente al dengue, Salud continúa el descacharrado en la capital jujeña",
-     "medio": "Jujuy al día",
+     "titulo": "A 9 años de la desaparición del ARA San Juan: qué pasó con el submarino y cómo sigue la causa judicial",
+     "medio": "Somos Jujuy",
      "fecha": "15/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/15/frente-al-dengue-salud-continua-el-descacharrado-en-la-capital-jujena-2/"
+     "url": "https://www.somosjujuy.com.ar/nacionales/a-9-anos-desaparicion-ara-san-juan-paso-submarino-como-sigue-causa-judicial-n127196",
+     "tag": "También en El Tribuno"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei confirma su candidatura a la reelección en 2027 durante la Noche de los Museos",
+     "medio": "El Tribuno",
+     "fecha": "15/11/2026",
+     "url": "https://eltribunodejujuy.com/nacionales/2026-11-15-9-52-0-milei-confirma-su-candidatura-a-la-reeleccion-en-2027-durante-la-noche-de-los-museos"
+    }
+   ]
+  },
+  "La Pampa": {
+   "top3": [
+    {
+     "titulo": "La Pampa perdió 2.634 empleos privados registrados desde el inicio de la gestión de Milei",
+     "medio": "El Diario de La Pampa",
+     "fecha": "15/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83151/la-pampa-perdio-2634-empleos-privados-registrados-desde-el-inicio-de-la-gestion-de-milei",
+     "tag": "También en La Pampa 24"
+    },
+    {
+     "titulo": "La ley de prevención de la ludopatía quedó al borde de perder estado parlamentario en el Senado",
+     "medio": "El Diario de La Pampa",
+     "fecha": "15/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83163/la-ley-de-prevencion-de-la-ludopatia-quedo-al-borde-de-perder-estado-parlamentario-en-el-senado"
+    },
+    {
+     "titulo": "“Milei se enfrenta a la figura popular de su gobierno”",
+     "medio": "La Arena",
+     "fecha": "15/11/2026",
+     "url": "https://www.laarena.com.ar/el-pais/milei-se-enfrenta-a-la-figura-popular-de-su-gobierno-202611150140"
     }
    ],
    "imagen": []
@@ -120,10 +267,64 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Quincho: Cornejo vuelve a mirar a un Suarez y el rival que armó una fundación",
-     "medio": "Mendoza Post",
+     "titulo": "Cornejo apoyará la suspensión de las PASO nacionales si la UCR se queda con la candidatura a gobernador",
+     "medio": "Diario UNO - MDZ",
      "fecha": "15/11/2026",
-     "url": "https://www.mendozapost.com/politica/quincho-cornejo-vuelve-a-mirar-a-un-suarez-y-el-rival-que-armo-una-fundacion/"
+     "url": "https://www.diariouno.com.ar/politica/cornejo-apoyara-la-suspension-las-paso-nacionales-si-la-ucr-se-queda-la-candidatura-gobernador-n1616343"
+    },
+    {
+     "titulo": "El peronismo demora a Stevanato y asoma un escenario de tercios con nuevos candidatos",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "15/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/el-peronismo-demora-stevanato-y-asoma-un-escenario-tercios-nuevos-candidatos-n1616546"
+    },
+    {
+     "titulo": "La Garrafa en tu Barrio: cronograma del 16 al 21 de noviembre",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "15/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/la-garrafa-en-tu-barrio-cronograma-del-16-al-21-de-noviembre/"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "Passalacqua recorrió la Expo Eldorado y destacó las oportunidades comerciales para emprendedores y productores",
+     "medio": "El Territorio",
+     "fecha": "15/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/15/927279-passalacqua-recorrio-la-expo-eldorado-y-destaco-las-oportunidades-comerciales-para-emprendedores-y-productores",
+     "tag": "También en Primera Edición"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei ratificó que irá por la reelección en el 2027",
+     "medio": "Primera Edición",
+     "fecha": "15/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101160416/milei-ratifico-que-ira-por-la-reeleccion-en-el-2027/"
+    }
+   ]
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Política | Centenario Jorge Alberti lanzó su candidatura a intendente de Centenario con el respaldo de Primero Neuquén",
+     "medio": "Noticias NQN",
+     "fecha": "15/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/15/360855-jorge-alberti-lanzo-su-candidatura-a-intendente-de-centenario-con-el-respaldo-de-primero-neuquen"
+    },
+    {
+     "titulo": "Obra pública Licitarán la sala de alimentos para Junín de los Andes",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "15/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/15/267209-licitaran-la-sala-de-alimentos-para-junin-de-los-andes"
+    },
+    {
+     "titulo": "Milei confirmó que buscará la reelección y fijó una meta de apertura comercial",
+     "medio": "Noticias NQN",
+     "fecha": "15/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/15/360849-milei-confirmo-que-buscara-la-reeleccion-y-fijo-una-meta-de-apertura-comercial"
     }
    ],
    "imagen": []
@@ -131,19 +332,34 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "El Poder Judicial de Río Negro tendrá un presupuesto de US$ 219 millones para todo 2027",
+     "titulo": "«Aprobar antes de fin de año»: la hoja de ruta de Javier Milei, el acuerdo por el Presupuesto y la tensión con Patricia Bullrich",
      "medio": "Diario Rio Negro",
      "fecha": "15/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/en-rio-negro-la-justicia-presupuesto-us21968-millones-para-todo-2027/"
+     "url": "https://www.rionegro.com.ar/politica/aprobar-antes-de-fin-de-ano-la-hoja-de-ruta-de-javier-milei-el-acuerdo-por-el-presupuesto-y-la-tension-con-patricia-bullrich-4799143/"
     },
     {
-     "titulo": "La carrera electoral en Río Negro: sin fecha de votación y con más especulaciones",
-     "medio": "Diario Rio Negro",
+     "titulo": "Río Negro ejecuta la mayor obra vial de los últimos 50 años",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "15/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/la-carrera-electoral-en-rio-negro-entre-dudas-de-la-fecha-y-de-las-estrategias/"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62859/rio-negro-ejecuta-la-mayor-obra-vial-de-los-ultimos-50-anos",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Calendario de Anses: qué prestaciones se cobran la semana que viene",
+     "medio": "AN Roca",
+     "fecha": "15/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/15/232620-calendario-de-anses-que-prestaciones-se-cobran-la-semana-que-viene",
+     "tag": "También en LCR, Noticias Net"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Elecciones 2027 en Centenario: Jorge Alberti lanza su candidatura junto a Mariano Gaido y Rolando Figueroa por Primero Neuquén",
+     "medio": "Diario Rio Negro",
+     "fecha": "15/11/2026",
+     "url": "https://www.rionegro.com.ar/municipales/elecciones-2027-en-centenario-jorge-alberti-lanza-su-candidatura-junto-a-mariano-gaido-y-rolando-figueroa-por-primero-neuquen-4799199/"
+    }
+   ]
   },
   "Salta": {
    "top3": [
@@ -158,12 +374,6 @@
      "medio": "El Tribuno",
      "fecha": "15/11/2026",
      "url": "https://www.eltribuno.com/nacionales/2026-11-15-0-0-0-elecciones-2027-que-provincias-definieron-su-fecha-de-comicios-y-cuales-aun-estan-en-duda"
-    },
-    {
-     "titulo": "Ante el vicegobernador, bomberos voluntarios piden el boleto gratuito para el sector",
-     "medio": "Nuevo Diario de Salta",
-     "fecha": "15/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/ante-el-vicegobernador-bomberos-voluntarios-piden-el-boleto-gratuito-para-el-sector/"
     }
    ],
    "imagen": [
@@ -178,13 +388,76 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "06:00 Claves de la temporada: Que no pueden faltar en tu placard esa primavera - verano 2027",
+     "titulo": "Javier Milei confirmó su candidatura: \"Voy por la reelección, tenemos que hacer grande a la Argentina nuevamente\" Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "15/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/revista-oh/claves-la-temporada-que-no-pueden-faltar-tu-placard-esa-primavera-verano-2027-n6588369"
+     "url": "https://www.diariodecuyo.com.ar/politica/javier-milei-confirmo-su-candidatura-voy-la-reeleccion-tenemos-que-hacer-grande-la-argentina-nuevamente-n6588636"
+    },
+    {
+     "titulo": "10:30 San Juan registró un fuerte sismo de 4,6 de magnitud en la madrugada",
+     "medio": "Diario de Cuyo",
+     "fecha": "15/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/san-juan/san-juan-registro-un-fuerte-sismo-46-magnitud-la-madrugada-n6588637",
+     "tag": "También en El Zonda, Huarpe y 1 más"
+    },
+    {
+     "titulo": "Desamparados se juega una tarde clave en San Luis por la final de Cuyo y el Argentino del Interior 2027",
+     "medio": "0264 Noticias",
+     "fecha": "15/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/15/117342-desamparados-se-juega-una-tarde-clave-en-san-luis-por-la-final-de-cuyo-y-el-argentino-del-interior-2027",
+     "tag": "También en Diario de Cuyo"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei ratificó que irá por la reelección en el 2027",
+     "medio": "San Juan 8",
+     "fecha": "15/11/2026",
+     "url": "https://www.sanjuan8.com/pais/milei-ratifico-que-ira-la-reeleccion-el-2027-n1616617",
+     "tag": "También en Tiempo de San Juan"
+    }
+   ]
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "“La inteligencia artificial debe estar guiada por un docente”",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "15/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/15/1231799-la-inteligencia-artificial-debe-estar-guiada-por-un-docente/"
+    },
+    {
+     "titulo": "Sergio Nieto, de vender banderas de Juan Pablo II a cubrir cada paso de León XIV en suelo argentino",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "15/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/15/1231791-sergio-nieto-de-vender-banderas-de-juan-pablo-ii-a-cubrir-cada-paso-de-leon-xiv-en-suelo-argentino/"
     }
    ],
    "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "La Casa de Gobierno se ilumina de amarillo en memoria de las víctimas de siniestros viales",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "15/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/la-casa-de-gobierno-se-ilumina-de-amarillo-en-memoria-de-las-victimas-de-siniestros-viales"
+    },
+    {
+     "titulo": "Se ejecutan trabajos de bacheo sobre la Ruta Nacional N°40",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "15/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/entes-publicos/vialidad-provincial/se-ejecutan-trabajos-de-bacheo-sobre-la-ruta-nacional-n-40"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Milei ratificó su candidatura para 2027: “Para los que dudan, sí, voy por la reelección”",
+     "medio": "La Opinión Austral",
+     "fecha": "15/11/2026",
+     "url": "https://laopinionaustral.com.ar/argentina/milei-ratifico-su-candidatura-para-2027-para-los-que-dudan-si-voy-por-la-reeleccion-732373.html"
+    }
+   ]
   },
   "Santa Fe": {
    "top3": [
@@ -195,16 +468,17 @@
      "url": "https://www.perfil.com/politica/el-pj-desconfia-del-poroteo-libertario-entusiasmo-con-el-apuro-por-las-paso-aTfP93F67YrK"
     },
     {
-     "titulo": "Milei ratificó que irá por la reelección",
-     "medio": "Agencia Fe",
+     "titulo": "Santa Fe ya evacuó cerca del 90 % de la hacienda en islas",
+     "medio": "Rosario Plus",
      "fecha": "15/11/2026",
-     "url": "https://agenciafe.com/nota/404109-Milei-ratifico-que-ira-por-la-reeleccion"
+     "url": "https://www.rosarioplus.com/actualidad/politica/santa-fe-ya-evacuo-cerca-del-90---de-la-hacienda-en-islas_a6af9af1b42fa9d9e6e126202",
+     "tag": "También en UNO - SF, Aire"
     },
     {
-     "titulo": "Pullaro recorrió los avances de la obra financiada íntegramente con fondos santafesinos",
-     "medio": "Agencia Fe",
+     "titulo": "Tras la visita de León XIV, vuelven la agenda institucional y el armado electoral",
+     "medio": "La Capital",
      "fecha": "15/11/2026",
-     "url": "https://agenciafe.com/nota/404104-Pullaro-recorrio-los-avances-de-la-obra-financiada-integramente-con-fondos-santafesinos"
+     "url": "https://www.lacapital.com.ar/politica/tras-la-visita-leon-xiv-vuelven-la-agenda-institucional-y-el-armado-electoral-n10292059.html"
     }
    ],
    "imagen": []
@@ -216,19 +490,42 @@
      "medio": "El Liberal",
      "fecha": "15/11/2026",
      "url": "https://www.elliberal.com.ar/nota/98100/2026/11/calor-y-tormentas-en-santiago-del-estero--asi-estara-el-tiempo-este-domingo-15",
-     "tag": "También en Diario Panorama"
+     "tag": "También en Diario Panorama, Nuevo Diario Web"
     },
     {
-     "titulo": "Pablo Ledesma: \"Nos pusimos el traje de candidatos y soñamos con más",
+     "titulo": "¿Boca y Platense jugarán la final en Santiago del Estero? El Madre de Ciudades, entre los candidatos",
+     "medio": "Diario Panorama",
+     "fecha": "15/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573054/boca-platense-jugaran-final-santiago-estero-madre-ciudades-entre-candidatos"
+    },
+    {
+     "titulo": "Ley de patentes en el Senado: el proyecto avanza con el sello de los laboratorios nacionales y en tensión con Estados Unidos",
      "medio": "El Liberal",
      "fecha": "15/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98097/2026/11/pablo-ledesma--nos-pusimos-el-traje-de-candidatos-y-sonamos-con-mas"
+     "url": "https://www.elliberal.com.ar/nota/98116/2026/11/ley-de-patentes-en-el-senado--el-proyecto-avanza-con-el-sello-de-los-laboratorios-nacionales-y-en-tension-con-estados-unidos"
+    }
+   ],
+   "imagen": []
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "Javier Milei reiteró que buscará la reelección: “El objetivo es llegar al 2031 y comerciar con el 90% del planeta”",
+     "medio": "Los Primeros",
+     "fecha": "15/11/2026",
+     "url": "https://www.losprimeros.tv/politica/javier-milei-reitero-que-buscara-la-reeleccion---el-objetivo-es-llegar-al-2031-y-comerciar-con-el-90--del-planeta-_a6af9b3f542fa9d9e6e128272"
     },
     {
-     "titulo": "Deportes El Estadio Único se perfila como candidato para la… El Estadio Único se perfila como candidato para la final de la Copa Argentina entre Boca y Platense Seguir leyendo →",
-     "medio": "Info del Estero",
+     "titulo": "Milei acelera las negociaciones en el Congreso y pone a prueba el respaldo de sus aliados",
+     "medio": "Los Primeros",
      "fecha": "15/11/2026",
-     "url": "https://infodelestero.com/2026/11/15/el-estadio-unico-se-perfila-como-candidato-para-la-final-de-la-copa-argentina-entre-boca-y"
+     "url": "https://www.losprimeros.tv/politica/milei-acelera-las-negociaciones-en-el-congreso-y-pone-a-prueba-el-respaldo-de-sus-aliados_a6af9b3cd42fa9d9e6e128105"
+    },
+    {
+     "titulo": "Ya se encuentra habilitado el padrón electoral provisorio en Tucumán para corroborar datos",
+     "medio": "El Tucumano",
+     "fecha": "15/11/2026",
+     "url": "https://www.eltucumano.com/noticia/libre/327788/ya-se-encuentra-habilitado-el-padron-electoral-provisorio-en-tucuman-para-corroborar-datos?dnd=psecciont&src=ph&pos=2&dis=desk"
     }
    ],
    "imagen": []
@@ -258,7 +555,6 @@
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
-  "https://sanluis24.com.ar/",
   "https://elmediadortv.com.ar/",
   "https://www.opisantacruz.com.ar/",
   "https://www.ellitoral.com/",

@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 10:41",
+ "actualizado": "15/11 11:34",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenDomingo",
-   "url": "https://x.com/search?q=%23BuenDomingo",
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "#BuenDomingo",
+   "url": "https://x.com/search?q=%23BuenDomingo",
    "relevante": false,
    "temas": []
   },
@@ -33,38 +33,20 @@
    "temas": []
   },
   {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Martin Cirio",
    "url": "https://x.com/search?q=Martin%20Cirio",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Feliz Domingo",
-   "url": "https://x.com/search?q=Feliz%20Domingo",
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ARA San Juan",
-   "url": "https://x.com/search?q=ARA%20San%20Juan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "velasco",
-   "url": "https://x.com/search?q=velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +57,20 @@
    "temas": []
   },
   {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
+   "tema": "ARA San Juan",
+   "url": "https://x.com/search?q=ARA%20San%20Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Feliz Domingo",
+   "url": "https://x.com/search?q=Feliz%20Domingo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "#EsteFinde",
-   "url": "https://x.com/search?q=%23EsteFinde",
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
+   "tema": "Messi",
+   "url": "https://x.com/search?q=Messi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +111,106 @@
    "temas": []
   },
   {
-   "tema": "CONGRATULATIONS BTS",
-   "url": "https://x.com/search?q=CONGRATULATIONS%20BTS",
+   "tema": "Remedios de Escalada",
+   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "Balerdi",
+   "url": "https://x.com/search?q=Balerdi",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "cusco",
-   "busquedas": "100+",
-   "nota": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-pucallpa-hoy-minuto-a-minuto-nid15112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aeropuerto internacional de miami",
-   "busquedas": "200+",
-   "nota": "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/15/eeuu/aviones-chocan-pista-miami-suspension-trax",
-   "medio": "CNN en Español",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "grand theft auto vi",
-   "busquedas": "100+",
-   "nota": "Licensable picture: A visitor holds a crystal from the New Year's eve ball in New York City",
-   "nota_url": "https://www.reutersconnect.com/item/a-visitor-holds-a-crystal-from-the-new-years-eve-ball-in-new-york-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjlOT0FTRjU1TQ",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "federico beligoy",
-   "busquedas": "500+",
-   "nota": "Federico Beligoy, jefe de los árbitros de la AFA, bajo la lupa por una inversión inmobiliaria de US$261.000",
-   "nota_url": "https://diarioneuquino.com.ar/federico-beligoy-jefe-de-los-arbitros-de-la-afa-bajo-la-lupa-por-una-inversion-inmobiliaria-de-us261-000/",
-   "medio": "Diario Neuquino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la nación",
-   "busquedas": "1000+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "15 de noviembre",
-   "busquedas": "1000+",
-   "nota": "Horóscopo para domingo 15 de noviembre de Las Estrellas de Walter Mercado",
-   "nota_url": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article318029706.html",
-   "medio": "El Nuevo Herald",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atp finals",
-   "busquedas": "200+",
-   "nota": "What is the Nitto ATP Finals schedule?",
-   "nota_url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule",
-   "medio": "Nitto ATP Finals",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "perro",
-   "busquedas": "500+",
-   "nota": "Los veterinarios explican por qué algunos perros se lamen las patas constantemente y cuándo puede ser una señal de alerta",
-   "nota_url": "https://www.airedesantafe.com.ar/estilo-vida/los-veterinarios-explican-que-algunos-perros-se-lamen-las-patas-constantemente-y-cuando-puede-ser-una-senal-alerta-n676019",
-   "medio": "Aire de Santa Fe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "franco colapinto",
+   "tema": "copa sudamericana 2026",
    "busquedas": "2000+",
-   "nota": "Cuánto gana Franco Colapinto en Alpine y cuál es la diferencia salarial con Pierre Gasly",
-   "nota_url": "https://www.somosjujuy.com.ar/deportes/cuanto-gana-franco-colapinto-alpine-diferencia-salarial-pierre-gasly-n127157",
-   "medio": "Somos Jujuy",
+   "nota": "Boca vs Atlético Mineiro: la Conmebol confirmó al árbitro de la final de la Copa Sudamericana y habrá mayoría uruguaya",
+   "nota_url": "https://www.clarin.com/deportes/boca-vs-atletico-mineiro-conmebol-confirmo-arbitro-final-copa-sudamericana-mayoria-uruguaya_0_1V6n37sZxx.html",
+   "medio": "Clarín",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "gran premio de las vegas",
+   "tema": "league of legends new dawn",
+   "busquedas": "200+",
+   "nota": "Riot Games unveils League of Legends new client 'New Dawn'",
+   "nota_url": "https://www.mgoddess.com/news/lol-83821f7b76/?lang=en",
+   "medio": "Mobile Goddess",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "eduardo domínguez",
+   "busquedas": "1000+",
+   "nota": "Sin guardar mucho, Mineiro empató ante Mirassol en la previa a la final ante Boca",
+   "nota_url": "https://www.espn.com.ar/futbol/brasil/nota/_/id/17517339/atletico-mineiro-empate-mirassol-brasileiro-previo-final-boca-sudamericana",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mariano werner",
+   "busquedas": "200+",
+   "nota": "Castellano volvió a hacer el “uno”",
+   "nota_url": "https://actc.org.ar/tc/noticias/castellano-volvio-a-hacer-el-uno",
+   "medio": "ACTC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima bariloche",
+   "busquedas": "100+",
+   "nota": "Semana cálida y primaveral: el tiempo acompañará con temperaturas de hasta 26°C",
+   "nota_url": "https://www.bariloche2000.com/sociedad/semana-calida-y-primaveral-el-tiempo-acompanara-con-temperaturas-de-hasta-26c-20261108-0005.html",
+   "medio": "Bariloche2000",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "zverev",
+   "busquedas": "200+",
+   "nota": "Flavio Cobolli admits he was afraid to send Juan Carlos Ferrero a message",
+   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171469/flavio-cobolli-admits-he-was-afraid-to-send-juan-carlos-ferrero-a-message/",
+   "medio": "Tennis World USA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "subsidio",
+   "busquedas": "100+",
+   "nota": "El Gobierno cambió el cálculo de los subsidios a los micros según el tipo de energía",
+   "nota_url": "https://www.0221.com.ar/nacional/el-gobierno-cambio-el-calculo-los-subsidios-los-micros-segun-el-tipo-energia-n137400",
+   "medio": "0221",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero 2026",
+   "busquedas": "100+",
+   "nota": "Copa Potrero 2026: ESPN transmitirá los 103 partidos del torneo organizado por el Kun Agüero",
+   "nota_url": "https://www.totalmedios.com/nota/65850/copa-potrero-2026-espn-transmitira-los-103-partidos-del-torneo-organizado-por-el-kun-agero",
+   "medio": "TotalMedios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alexander zverev",
+   "busquedas": "1000+",
+   "nota": "“I’m Not A Robot”: Alexander Zverev Shares Honest ATP Finals Thoughts",
+   "nota_url": "https://www.sportscapemagazine.com/blog/alexander-zverev-not-a-robot-atp-finals-fatigue",
+   "medio": "Sportscape Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "piloto de carreras",
    "busquedas": "500+",
-   "nota": "¿Cuándo vuelve a correr Colapinto? Días, horarios y TV del GP de Las Vegas de la F1",
-   "nota_url": "https://www.ole.com.ar/autos/vuelve-correr-colapinto-dias-horarios-tv-gp-vegas-formula-1_0_B1JIoSfXiO.html",
-   "medio": "Olé",
+   "nota": "\"Pequeño bastardo traicionero\": la drástica decisión de la FIA hacia un periodista por insultar a un piloto de la F1",
+   "nota_url": "https://www.tycsports.com/automovilismo/periodista-suspendido-de-la-formula-1-f1-por-insultar-a-charles-leclerc-id771499.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   }
