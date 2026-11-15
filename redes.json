@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 04:54",
+ "actualizado": "15/11 05:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -17,12 +17,6 @@
   {
    "tema": "martin cirio",
    "url": "https://x.com/search?q=martin%20cirio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Hokit",
-   "url": "https://x.com/search?q=Hokit",
    "relevante": false,
    "temas": []
   },
@@ -51,6 +45,12 @@
    "temas": []
   },
   {
+   "tema": "Hokit",
+   "url": "https://x.com/search?q=Hokit",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Villa",
    "url": "https://x.com/search?q=Villa",
    "relevante": false,
@@ -63,14 +63,14 @@
    "temas": []
   },
   {
-   "tema": "Metrogas",
-   "url": "https://x.com/search?q=Metrogas",
+   "tema": "#CopaArgentina",
+   "url": "https://x.com/search?q=%23CopaArgentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#CopaArgentina",
-   "url": "https://x.com/search?q=%23CopaArgentina",
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
@@ -93,18 +93,6 @@
    "temas": []
   },
   {
-   "tema": "Gane",
-   "url": "https://x.com/search?q=Gane",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Remedios de Escalada",
    "url": "https://x.com/search?q=Remedios%20de%20Escalada",
    "relevante": false,
@@ -121,12 +109,24 @@
    "url": "https://x.com/search?q=Gran%20Rex",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
    "tema": "24 de noviembre",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Feriados locales en noviembre 2026: qué municipios de la Provincia de Buenos Aires tienen asueto",
    "nota_url": "https://www.ambito.com/informacion-general/feriados-locales-noviembre-2026-que-municipios-la-provincia-buenos-aires-tienen-asueto-n6341896",
    "medio": "Ambito",
@@ -136,9 +136,9 @@
   {
    "tema": "inpres san juan",
    "busquedas": "500+",
-   "nota": "Terremoto moderado mag. 4.8 - Departamento de Albardon, 26 km al noroeste de Ciudad de San Juan, Capital, San Juan, Argentina, Sunday 15 Nov 2026 a las 00:59 (Hora Buenos_Aires)",
-   "nota_url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23639893/mag4quake-Nov-15-2026-Argentina-San-Juan.html",
-   "medio": "Volcano Discovery",
+   "nota": "Tembló en San Juan y se sintió en Mendoza",
+   "nota_url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
+   "medio": "Diario El Sol Mendoza",
    "relevante": false,
    "temas": []
   },
@@ -154,37 +154,28 @@
   {
    "tema": "caio borralho",
    "busquedas": "500+",
-   "nota": "Prediction, pick for Caio Borralho vs. Yousri Belgaroui at UFC 334",
-   "nota_url": "https://dknetwork.draftkings.com/2026/11/14/prediction-pick-for-caio-borralho-vs-yousri-belgaroui-at-ufc-334/",
-   "medio": "DraftKings Network",
+   "nota": "Caio Borralho Post-Fight Interview | Polymarket UFC 334",
+   "nota_url": "https://www.ufc.com/video/161954",
+   "medio": "UFC.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kevin holland",
    "busquedas": "200+",
-   "nota": "‘I’m embarrassed’… Dana White rages about UFC 334 robbery",
-   "nota_url": "https://bloodyelbow.com/2026/11/15/im-embarrassed-dana-white-rages-about-ufc-334-robbery/",
-   "medio": "Bloody Elbow",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ciryl gane",
-   "busquedas": "1000+",
-   "nota": "Licensable picture: MMA: UFC 334",
-   "nota_url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwNzY",
-   "medio": "Reuters Connect",
+   "nota": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
+   "nota_url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
+   "medio": "BettingPros",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "carlos melconian",
    "busquedas": "200+",
-   "nota": "Melconian descartó la baja de inflación antes de las elecciones: \"Quedará para el próximo\"",
-   "nota_url": "https://www.iprofesional.com/economia/469150-melconian-descarto-la-baja-de-inflacion-antes-de-las-elecciones-quedara-para-el-proximo",
-   "medio": "iProfesional",
-   "relevante": true,
+   "nota": "Melconian: \"La mal llamada motosierra (licuadora) al final no purificó, ni rozó a la casta\"",
+   "nota_url": "https://www.perfil.com/nea/melconian-la-mal-llamada-motosierra-licuadora-al-final-no-purifico-ni-rozo-a-la-casta-auW8b7I3lgtf",
+   "medio": "Perfil",
+   "relevante": false,
    "temas": []
   },
   {
@@ -211,6 +202,15 @@
    "nota": "\"Todos queremos cumplir el sueño de ascender a Primera División\"",
    "nota_url": "https://www.diariojornada.com.ar/427070/deportes/todos_queremos_cumplir_el_sueno_de_ascender_a_primera_division",
    "medio": "Diario Jornada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nacho giron",
+   "busquedas": "200+",
+   "nota": "Una noche que encendió el alma y revivió el fervor adolescente, entre velas y las profundas palabras de León XIV",
+   "nota_url": "https://www.lanacion.com.ar/salud/una-noche-que-encendio-el-alma-y-revivio-el-fervor-adolescente-entre-velas-y-las-profundas-palabras-nid12112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
