@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 03:45",
+ "actualizado": "15/11 04:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,14 +9,14 @@
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
    "relevante": false,
    "temas": []
   },
@@ -51,14 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "Messi",
+   "url": "https://x.com/search?q=Messi",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +87,20 @@
    "temas": []
   },
   {
-   "tema": "Nacho",
-   "url": "https://x.com/search?q=Nacho",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Ascacibar",
    "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
+   "tema": "Gane",
+   "url": "https://x.com/search?q=Gane",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gane",
-   "url": "https://x.com/search?q=Gane",
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
   },
@@ -119,6 +113,12 @@
   {
    "tema": "#Worlds2026",
    "url": "https://x.com/search?q=%23Worlds2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gran Rex",
+   "url": "https://x.com/search?q=Gran%20Rex",
    "relevante": false,
    "temas": []
   }
@@ -154,28 +154,37 @@
   {
    "tema": "caio borralho",
    "busquedas": "500+",
-   "nota": "Caio Borralho Post-Fight Interview | Polymarket UFC 334",
-   "nota_url": "https://www.ufc.com/video/161954",
-   "medio": "UFC.com",
+   "nota": "Prediction, pick for Caio Borralho vs. Yousri Belgaroui at UFC 334",
+   "nota_url": "https://dknetwork.draftkings.com/2026/11/14/prediction-pick-for-caio-borralho-vs-yousri-belgaroui-at-ufc-334/",
+   "medio": "DraftKings Network",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kevin holland",
    "busquedas": "200+",
-   "nota": "UFC Judges Flamed Online After Mass Confusion at UFC 334",
-   "nota_url": "https://heavy.com/sports/ufc/ufc-judges-flamed-online-after-mass-confusion-at-ufc-334/",
-   "medio": "Heavy.com",
+   "nota": "‘I’m embarrassed’… Dana White rages about UFC 334 robbery",
+   "nota_url": "https://bloodyelbow.com/2026/11/15/im-embarrassed-dana-white-rages-about-ufc-334-robbery/",
+   "medio": "Bloody Elbow",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ciryl gane",
+   "busquedas": "1000+",
+   "nota": "Licensable picture: MMA: UFC 334",
+   "nota_url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTcwNzY",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "carlos melconian",
    "busquedas": "200+",
-   "nota": "Melconian: \"La mal llamada motosierra (licuadora) al final no purificó, ni rozó a la casta\"",
-   "nota_url": "https://www.perfil.com/nea/melconian-la-mal-llamada-motosierra-licuadora-al-final-no-purifico-ni-rozo-a-la-casta-auW8b7I3lgtf",
-   "medio": "Perfil",
-   "relevante": false,
+   "nota": "Melconian descartó la baja de inflación antes de las elecciones: \"Quedará para el próximo\"",
+   "nota_url": "https://www.iprofesional.com/economia/469150-melconian-descarto-la-baja-de-inflacion-antes-de-las-elecciones-quedara-para-el-proximo",
+   "medio": "iProfesional",
+   "relevante": true,
    "temas": []
   },
   {
@@ -191,26 +200,17 @@
    "tema": "bilal hasan",
    "busquedas": "500+",
    "nota": "From DWCS to Two UFC Main Cards: Is the UFC Fast-Tracking Bilal Hasan?",
-   "nota_url": "https://www.yardbarker.com/mma/articles/from_dwcs_to_two_ufc_main_cards_is_the_ufc_fast_tracking_bilal_hasan/s1_17615_44551779",
-   "medio": "Yardbarker",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jamaica vs",
-   "busquedas": "200+",
-   "nota": "Gilberto Mora y Julián Quiñones maquillan derrota de México ante Jamaica",
-   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17517802/jamaica-vs-mexico-gil-mora-quinones-maquillan-derrota",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kayla harrison",
-   "busquedas": "500+",
-   "nota": "Greatest Of All Time? Watch Harrison Choke Out ‘Lioness’",
-   "nota_url": "https://sports.yahoo.com/articles/greatest-time-watch-harrison-choke-050340741.html",
+   "nota_url": "https://sports.yahoo.com/articles/dwcs-two-ufc-main-cards-141320217.html",
    "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club deportivo maipú",
+   "busquedas": "5000+",
+   "nota": "\"Todos queremos cumplir el sueño de ascender a Primera División\"",
+   "nota_url": "https://www.diariojornada.com.ar/427070/deportes/todos_queremos_cumplir_el_sueno_de_ascender_a_primera_division",
+   "medio": "Diario Jornada",
    "relevante": false,
    "temas": []
   }
