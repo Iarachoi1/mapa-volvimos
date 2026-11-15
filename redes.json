@@ -1,10 +1,16 @@
 {
- "actualizado": "15/11 06:36",
+ "actualizado": "15/11 07:31",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Wanda",
    "url": "https://x.com/search?q=Wanda",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "VOLVIÃ AO3",
+   "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
    "relevante": false,
    "temas": []
   },
@@ -21,20 +27,14 @@
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
+   "tema": "#LaNocheDeMartina2",
+   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Nelson Castro",
    "url": "https://x.com/search?q=Nelson%20Castro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "VOLVIÃ AO3",
-   "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Messi",
    "url": "https://x.com/search?q=Messi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#CopaArgentina",
-   "url": "https://x.com/search?q=%23CopaArgentina",
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "#CopaArgentina",
+   "url": "https://x.com/search?q=%23CopaArgentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Remedios de Escalada",
-   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +105,14 @@
    "temas": []
   },
   {
-   "tema": "Gran Rex",
-   "url": "https://x.com/search?q=Gran%20Rex",
+   "tema": "gran rex",
+   "url": "https://x.com/search?q=gran%20rex",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
@@ -125,20 +125,47 @@
  ],
  "google": [
   {
-   "tema": "leandro paredes",
+   "tema": "franco colapinto",
+   "busquedas": "1000+",
+   "nota": "Oscar Piastri y Mark Webber, un final anunciado",
+   "nota_url": "https://442.perfil.com/noticias/automovilismo/oscar-piastri-y-mark-webber-un-final-anunciado.phtml",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gladys la bomba tucumana",
    "busquedas": "200+",
-   "nota": "Leandro Paredes habló tras el pase de Boca a la final de la Copa Argentina: de su estado físico a la respuesta por la chicana del Vasco Arruabarrena",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/15/leandro-paredes-hablo-tras-el-pase-de-boca-a-la-final-de-la-copa-argentina-de-su-estado-fisico-a-la-respuesta-por-la-chicana-del-vasco-arruabarrena/",
-   "medio": "Infobae",
+   "nota": "La desgarradora perdida de Gladys \"La Bomba Tucumana\": \"Mi chiquito querido\"",
+   "nota_url": "https://exitoina.perfil.com/noticias/destacada/desgarradora-perdida-gladys-bomba-tucumana-chiquito-querido.phtml",
+   "medio": "Exitoina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tormenta",
+   "busquedas": "1000+",
+   "nota": "Alerta por tormentas severas: granizo, ráfagas de más de 90 km/h y hasta 100 mm en La Pampa, oeste bonaerense y Córdoba",
+   "nota_url": "https://news.agrofy.com.ar/noticia/216993/alerta-tormentas-severas-granizo-rafagas-mas-90-kmh-100-mm-pampa-oeste-bonaerense-cordoba",
+   "medio": "Agrofy News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "río paraná",
+   "busquedas": "100+",
+   "nota": "El río Paraná sigue creciendo y complica al Litoral: más de 4.500 evacuados y alerta por nuevas subas",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/el-rio-parana-sigue-creciendo-y-complica-al-litoral-mas-de-4-500-evacuados-y-alerta-por-nuevas-subas.html",
+   "medio": "Meteored Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "neuquén",
-   "busquedas": "100+",
-   "nota": "El Plan Pehuén ya distribuyó cerca de 20 mil computadoras en escuelas de toda la provincia",
-   "nota_url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/10/147329-el-plan-pehuen-ya-distribuyo-cerca-de-20-mil-computadoras-en-escuelas-de-toda-la-provincia",
-   "medio": "Neuquén al instante",
+   "busquedas": "200+",
+   "nota": "Alerta amarilla por tormentas: cuándo y dónde caerá la lluvia",
+   "nota_url": "https://www.lmneuquen.com/neuquen/alerta-amarilla-tormentas-cuando-y-donde-caera-la-lluvia-n1261239",
+   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   },
@@ -163,9 +190,9 @@
   {
    "tema": "caio borralho",
    "busquedas": "500+",
-   "nota": "Licensable picture: MMA: UFC 334",
-   "nota_url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTY2MzU",
-   "medio": "Reuters Connect",
+   "nota": "Prediction, pick for Caio Borralho vs. Yousri Belgaroui at UFC 334",
+   "nota_url": "https://dknetwork.draftkings.com/2026/11/14/prediction-pick-for-caio-borralho-vs-yousri-belgaroui-at-ufc-334/",
+   "medio": "DraftKings Network",
    "relevante": false,
    "temas": []
   },
@@ -184,33 +211,6 @@
    "nota": "Melconian: \"La mal llamada motosierra (licuadora) al final no purificó, ni rozó a la casta\"",
    "nota_url": "https://www.perfil.com/nea/melconian-la-mal-llamada-motosierra-licuadora-al-final-no-purifico-ni-rozo-a-la-casta-auW8b7I3lgtf",
    "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dwayne johnson",
-   "busquedas": "200+",
-   "nota": "Slow Horses Star Jack Lowden Was In Dwayne Johnson's Most Underrated Movie",
-   "nota_url": "https://www.slashfilm.com/2316904/slow-horses-star-jack-lowden-dwayne-johnson-movie-fighting-with-my-family/",
-   "medio": "SlashFilm",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bilal hasan",
-   "busquedas": "500+",
-   "nota": "Tracking UFC 334 predictions and results on Polymarket: Live updates for every UFC 334 fight",
-   "nota_url": "https://www.al.com/betting/2026/11/tracking-ufc-334-predictions-and-results-on-polymarket-live-updates-for-every-ufc-334-fight.html",
-   "medio": "AL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club deportivo maipú",
-   "busquedas": "5000+",
-   "nota": "\"Todos queremos cumplir el sueño de ascender a Primera División\"",
-   "nota_url": "https://www.diariojornada.com.ar/427070/deportes/todos_queremos_cumplir_el_sueno_de_ascender_a_primera_division",
-   "medio": "Diario Jornada",
    "relevante": false,
    "temas": []
   }
