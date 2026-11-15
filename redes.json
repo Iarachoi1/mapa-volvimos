@@ -1,5 +1,5 @@
 {
- "actualizado": "15/11 05:40",
+ "actualizado": "15/11 06:36",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#UFC334",
-   "url": "https://x.com/search?q=%23UFC334",
+   "tema": "VOLVIÃ AO3",
+   "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
    "relevante": false,
    "temas": []
   },
@@ -105,6 +105,12 @@
    "temas": []
   },
   {
+   "tema": "#UFC334",
+   "url": "https://x.com/search?q=%23UFC334",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gran Rex",
    "url": "https://x.com/search?q=Gran%20Rex",
    "relevante": false,
@@ -115,15 +121,27 @@
    "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "leandro paredes",
+   "busquedas": "200+",
+   "nota": "Leandro Paredes habló tras el pase de Boca a la final de la Copa Argentina: de su estado físico a la respuesta por la chicana del Vasco Arruabarrena",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/15/leandro-paredes-hablo-tras-el-pase-de-boca-a-la-final-de-la-copa-argentina-de-su-estado-fisico-a-la-respuesta-por-la-chicana-del-vasco-arruabarrena/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "neuquén",
+   "busquedas": "100+",
+   "nota": "El Plan Pehuén ya distribuyó cerca de 20 mil computadoras en escuelas de toda la provincia",
+   "nota_url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/10/147329-el-plan-pehuen-ya-distribuyo-cerca-de-20-mil-computadoras-en-escuelas-de-toda-la-provincia",
+   "medio": "Neuquén al instante",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "24 de noviembre",
    "busquedas": "200+",
@@ -135,7 +153,7 @@
   },
   {
    "tema": "inpres san juan",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Tembló en San Juan y se sintió en Mendoza",
    "nota_url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
    "medio": "Diario El Sol Mendoza",
@@ -143,29 +161,20 @@
    "temas": []
   },
   {
-   "tema": "temblor en san juan",
-   "busquedas": "200+",
-   "nota": "Perú — Sismo de 5,9 en Perú, el sexto en menos de veinte horas",
-   "nota_url": "https://prensamercosur.org/2026/11/13/peru-sismo-de-59-en-peru-el-sexto-en-menos-de-veinte-horas/",
-   "medio": "Prensa Mercosur",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "caio borralho",
    "busquedas": "500+",
-   "nota": "Caio Borralho Post-Fight Interview | Polymarket UFC 334",
-   "nota_url": "https://www.ufc.com/video/161954",
-   "medio": "UFC.com",
+   "nota": "Licensable picture: MMA: UFC 334",
+   "nota_url": "https://www.reutersconnect.com/item/mma-ufc-334/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNTY2MzU",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kevin holland",
    "busquedas": "200+",
-   "nota": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
-   "nota_url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
-   "medio": "BettingPros",
+   "nota": "Kevin Holland believes he did enough to win fight, will take longer break",
+   "nota_url": "https://sports.yahoo.com/videos/kevin-holland-believes-did-enough-043132934.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -190,9 +199,9 @@
   {
    "tema": "bilal hasan",
    "busquedas": "500+",
-   "nota": "From DWCS to Two UFC Main Cards: Is the UFC Fast-Tracking Bilal Hasan?",
-   "nota_url": "https://sports.yahoo.com/articles/dwcs-two-ufc-main-cards-141320217.html",
-   "medio": "Yahoo Sports",
+   "nota": "Tracking UFC 334 predictions and results on Polymarket: Live updates for every UFC 334 fight",
+   "nota_url": "https://www.al.com/betting/2026/11/tracking-ufc-334-predictions-and-results-on-polymarket-live-updates-for-every-ufc-334-fight.html",
+   "medio": "AL.com",
    "relevante": false,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "\"Todos queremos cumplir el sueño de ascender a Primera División\"",
    "nota_url": "https://www.diariojornada.com.ar/427070/deportes/todos_queremos_cumplir_el_sueno_de_ascender_a_primera_division",
    "medio": "Diario Jornada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nacho giron",
-   "busquedas": "200+",
-   "nota": "Una noche que encendió el alma y revivió el fervor adolescente, entre velas y las profundas palabras de León XIV",
-   "nota_url": "https://www.lanacion.com.ar/salud/una-noche-que-encendio-el-alma-y-revivio-el-fervor-adolescente-entre-velas-y-las-profundas-palabras-nid12112026/",
-   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
