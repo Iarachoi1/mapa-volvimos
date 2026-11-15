@@ -1,22 +1,16 @@
 {
- "actualizado": "14/11 20:24",
+ "actualizado": "14/11 21:34",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Velasco",
    "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Montero",
-   "url": "https://x.com/search?q=Montero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
    "relevante": false,
    "temas": []
   },
@@ -27,32 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Messi",
-   "url": "https://x.com/search?q=Messi",
+   "tema": "Montero",
+   "url": "https://x.com/search?q=Montero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nelson Castro",
-   "url": "https://x.com/search?q=Nelson%20Castro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Braida",
-   "url": "https://x.com/search?q=Braida",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Uruguay",
-   "url": "https://x.com/search?q=Uruguay",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Metrogas",
-   "url": "https://x.com/search?q=Metrogas",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +39,32 @@
    "temas": []
   },
   {
-   "tema": "Balerdi",
-   "url": "https://x.com/search?q=Balerdi",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Scaloni",
-   "url": "https://x.com/search?q=Scaloni",
+   "tema": "Braida",
+   "url": "https://x.com/search?q=Braida",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CopaArgentina",
+   "url": "https://x.com/search?q=%23CopaArgentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ruso",
+   "url": "https://x.com/search?q=Ruso",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
    "relevante": false,
    "temas": []
   },
@@ -81,32 +75,26 @@
    "temas": []
   },
   {
-   "tema": "Remedios de Escalada",
-   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Argentina",
-   "url": "https://x.com/search?q=Argentina",
+   "tema": "5 de Boca",
+   "url": "https://x.com/search?q=5%20de%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "rulli",
-   "url": "https://x.com/search?q=rulli",
+   "tema": "Midland",
+   "url": "https://x.com/search?q=Midland",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gran Rex",
-   "url": "https://x.com/search?q=Gran%20Rex",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#INTEGRACIONK4OTICA",
-   "url": "https://x.com/search?q=%23INTEGRACIONK4OTICA",
+   "tema": "Temperley",
+   "url": "https://x.com/search?q=Temperley",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +105,112 @@
    "temas": []
   },
   {
-   "tema": "Icardi",
-   "url": "https://x.com/search?q=Icardi",
+   "tema": "Troglio",
+   "url": "https://x.com/search?q=Troglio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Balboa",
+   "url": "https://x.com/search?q=Balboa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Dinamarca",
+   "url": "https://x.com/search?q=Dinamarca",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "posiciones de atlético nacional contra once caldas",
+   "tema": "ufc",
    "busquedas": "1000+",
-   "nota": "Estadísticas de Atlético Nacional vs Once Caldas en la Liga Betplay",
-   "nota_url": "https://www.365scores.com/es/news/atletico-nacional-once-caldas-stats/",
-   "medio": "365Scores",
+   "nota": "UFC 334 predictions",
+   "nota_url": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
+   "medio": "MMA Fighting",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "querétaro - monterrey",
+   "tema": "batalla campal",
    "busquedas": "200+",
-   "nota": "Una baja más en Rayados: Stefan Medina no jugará contra Querétaro en el partido pendiente",
-   "nota_url": "https://bolavip.com/mx/rayados-monterrey/una-baja-mas-en-rayados-stefan-medina-no-jugara-contra-queretaro-en-el-partido-pendiente",
-   "medio": "Bolavip México",
+   "nota": "Primera C: Central Córdoba se juega el pasaje a las semifinales ante Cañuelas",
+   "nota_url": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-se-juega-el-pasaje-las-semifinales-canuelas-n10292106.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "curupayti vs san cirano",
+   "tema": "juan josé campanella",
    "busquedas": "100+",
-   "nota": "Los Tilos y San Luis juegan sus finales",
-   "nota_url": "https://www.eldia.com/deportes/los-tilos-y-san-luis-juegan-sus-finales-deportes_1794634873",
-   "medio": "Diario El Día de La Plata",
+   "nota": "Mafalda llega a Netflix en 2027: la llamada de cinco minutos de Campanella que dio origen a la serie",
+   "nota_url": "https://www.bloomberglinea.com/estilo-de-vida/mafalda-llega-a-netflix-en-2027-la-llamada-de-cinco-minutos-de-campanella-que-dio-origen-a-la-serie/",
+   "medio": "Bloomberg Línea",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "malcom braida",
-   "busquedas": "200+",
-   "nota": "Magistral pase de Paredes para el gol de Ascacíbar: ¿había falta de Merentiel?",
-   "nota_url": "https://www.tycsports.com/boca-juniors/magistral-pase-de-paredes-para-el-gol-de-ascacibar-en-boca-vs-banfield-no-habia-falta-merentiel-id771595.html",
-   "medio": "TyC Sports",
+   "tema": "petróleo",
+   "busquedas": "100+",
+   "nota": "Por Vaca Muerta, las exportaciones de petróleo superan los 100 millones de barriles en lo que va del año",
+   "nota_url": "https://www.rionegro.com.ar/energia/por-vaca-muerta-las-exportaciones-de-petroleo-superan-los-100-millones-de-barriles-en-lo-que-va-del-ano-4778731/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "boc",
-   "busquedas": "200+",
-   "nota": "Investment Ombudsman officer to be named after ASEAN week — Remulla",
-   "nota_url": "https://www.abs-cbn.com/news/nation/2026/11/14/investment-ombudsman-officer-to-be-named-after-asean-week-remulla-1041",
-   "medio": "ABS-CBN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gimnasia jujuy - almirante brown",
-   "busquedas": "2000+",
-   "nota": "Gimnasia recibe a Almirante Brown por los octavos de final Reducido: horario, árbitro y venta de entradas",
-   "nota_url": "https://www.somosjujuy.com.ar/deportes/gimnasia-recibe-almirante-brown-octavos-final-reducido-horario-arbitro-venta-entradas-n127124",
-   "medio": "Somos Jujuy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nacional - albion",
-   "busquedas": "200+",
-   "nota": "Cuándo juegan Nacional vs. Albion por el Torneo Clausura: equipo, fecha, hora y TV en vivo",
-   "nota_url": "https://www.espn.com.ar/futbol/uruguay/nota/_/id/17502672/nacional-vs-albion-fecha-14-torneo-clausura-2026-equipo-fecha-hora-y-tv-en-vivo",
+   "tema": "jamaica - méxico",
+   "busquedas": "500+",
+   "nota": "Jamaica vs México: posibles alineaciones y lo que debes saber",
+   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17513663/jamaica-vs-mexico-alineaciones-nations-league",
    "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "millie bobby brown",
+   "tema": "blg",
    "busquedas": "100+",
-   "nota": "'Stranger Things' alum Millie Bobby Brown is set to lead a new Netflix comedy, 'Non-Refundable,' with 'Adults' breakout Jack Innanen as her co-star. Read more below.",
-   "nota_url": "https://www.facebook.com/deadline/posts/stranger-things-alum-millie-bobby-brown-is-set-to-lead-a-new-netflix-comedy-non-/1488152179851784/",
-   "medio": "Facebook",
+   "nota": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
+   "nota_url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
+   "medio": "CelebrityAccess",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "claudio tapia",
+   "tema": "ufc hoy",
    "busquedas": "500+",
-   "nota": "Ariel Canizini ganó y es el nuevo Secretario General de la Seccional 15",
-   "nota_url": "https://www.diarionorte.com/336554-ariel-canizini-gano-y-es-el-nuevo-secretario-general-de-la-seccional-15",
-   "medio": "Diario Norte",
+   "nota": "Quién pelea hoy sábado 14 de noviembre en boxeo y UFC, a qué hora y dónde ver los combates EN VIVO",
+   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/11/quien-pelea-hoy-sabado-14-de-noviembre-en-boxeo-y-ufc-a-que-hora-y-donde-ver-los-combates-en-vivo.php",
+   "medio": "FM Del Sol Pehuajo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "arresto",
+   "tema": "cuando se juega la final de la copa argentina 2026",
+   "busquedas": "1000+",
+   "nota": "Boca, finalista: rival y fecha para el partido por el título en la Copa Argentina 2026",
+   "nota_url": "https://planetabj.com/noticias/boca-finalista-rival-y-fecha-para-el-partido-por-el-titulo-en-la-copa-argentina-2026-aEeVh0H8DKY8/",
+   "medio": "Planeta Boca Juniors",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pelicans - nuggets",
    "busquedas": "200+",
-   "nota": "Spaccia cocaina ad oltre 23 tossicodipendenti: arrestato dai Carabinieri",
-   "nota_url": "https://www.grossetonotizie.com/2026/11/14/spaccia-cocaina-ad-oltre-23-tossicodipendenti-arrestato-dai-carabinieri/",
-   "medio": "Grosseto Notizie",
+   "nota": "Nuggets conclude road trip against Pelicans",
+   "nota_url": "https://nuggets.com/news/nuggets-conclude-road-trip-pelicans",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tinoco",
+   "busquedas": "200+",
+   "nota": "Encontraron con vida a un hombre de 78 años que estaba desaparecido desde este viernes",
+   "nota_url": "https://www.lavoz.com.ar/sucesos/encontraron-vida-hombre-78-anos-desaparecido-viernes_0_rq31aAYd5a.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
