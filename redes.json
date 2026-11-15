@@ -1,16 +1,16 @@
 {
- "actualizado": "15/11 07:31",
+ "actualizado": "15/11 08:27",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
+   "tema": "VOLVIÃ AO3",
+   "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "VOLVIÃ AO3",
-   "url": "https://x.com/search?q=VOLVI%C3%83%C2%93%20AO3",
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
+   "tema": "#BuenDomingo",
+   "url": "https://x.com/search?q=%23BuenDomingo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Hokit",
-   "url": "https://x.com/search?q=Hokit",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +63,14 @@
    "temas": []
   },
   {
-   "tema": "Metrogas",
-   "url": "https://x.com/search?q=Metrogas",
+   "tema": "Uruguay",
+   "url": "https://x.com/search?q=Uruguay",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Uruguay",
-   "url": "https://x.com/search?q=Uruguay",
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +93,8 @@
    "temas": []
   },
   {
-   "tema": "#Worlds2026",
-   "url": "https://x.com/search?q=%23Worlds2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#UFC334",
    "url": "https://x.com/search?q=%23UFC334",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gran rex",
-   "url": "https://x.com/search?q=gran%20rex",
    "relevante": false,
    "temas": []
   },
@@ -121,24 +109,63 @@
    "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Remedios de Escalada",
+   "url": "https://x.com/search?q=Remedios%20de%20Escalada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gran Rex",
+   "url": "https://x.com/search?q=Gran%20Rex",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "perro",
+   "busquedas": "100+",
+   "nota": "“Me salvó la vida”: el mensaje de Rodrigo Lussich que emocionó a sus seguidores",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/me-salvo-la-vida-el-mensaje-de-rodrigo-lussich-que-emociono-a-sus-seguidores/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "franco colapinto",
-   "busquedas": "1000+",
-   "nota": "Oscar Piastri y Mark Webber, un final anunciado",
-   "nota_url": "https://442.perfil.com/noticias/automovilismo/oscar-piastri-y-mark-webber-un-final-anunciado.phtml",
-   "medio": "Perfil",
+   "busquedas": "500+",
+   "nota": "Cuánto gana Franco Colapinto en Alpine y cuál es la diferencia salarial con Pierre Gasly",
+   "nota_url": "https://www.somosjujuy.com.ar/deportes/cuanto-gana-franco-colapinto-alpine-diferencia-salarial-pierre-gasly-n127157",
+   "medio": "Somos Jujuy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gran premio de las vegas",
+   "busquedas": "200+",
+   "nota": "¿Cuándo vuelve a correr Colapinto? Días, horarios y TV del GP de Las Vegas de la F1",
+   "nota_url": "https://www.ole.com.ar/autos/vuelve-correr-colapinto-dias-horarios-tv-gp-vegas-formula-1_0_B1JIoSfXiO.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santiago del estero",
+   "busquedas": "500+",
+   "nota": "Hasta 128mm: una por una, cuánto llovió en las localidades de Santiago tras el temporal",
+   "nota_url": "https://nuevodiarioweb.com.ar/notas/hasta-128mm-una-por-una-cuanto-llovio-en-las-localidades-de-santiago-tras-el-temporal.htm",
+   "medio": "Nuevo Diario Web",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gladys la bomba tucumana",
-   "busquedas": "200+",
-   "nota": "La desgarradora perdida de Gladys \"La Bomba Tucumana\": \"Mi chiquito querido\"",
-   "nota_url": "https://exitoina.perfil.com/noticias/destacada/desgarradora-perdida-gladys-bomba-tucumana-chiquito-querido.phtml",
-   "medio": "Exitoina",
+   "busquedas": "1000+",
+   "nota": "El dolor de Gladys “La Bomba Tucumana” por la muerte de su sobrino de 12 años",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/el-dolor-de-gladys-la-bomba-tucumana-por-la-muerte-de-su-sobrino-de-solo-12-anos-nid12112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
@@ -153,7 +180,7 @@
   },
   {
    "tema": "río paraná",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "El río Paraná sigue creciendo y complica al Litoral: más de 4.500 evacuados y alerta por nuevas subas",
    "nota_url": "https://www.meteored.com.ar/noticias/prediccion/el-rio-parana-sigue-creciendo-y-complica-al-litoral-mas-de-4-500-evacuados-y-alerta-por-nuevas-subas.html",
    "medio": "Meteored Argentina",
@@ -163,10 +190,10 @@
   {
    "tema": "neuquén",
    "busquedas": "200+",
-   "nota": "Alerta amarilla por tormentas: cuándo y dónde caerá la lluvia",
-   "nota_url": "https://www.lmneuquen.com/neuquen/alerta-amarilla-tormentas-cuando-y-donde-caera-la-lluvia-n1261239",
-   "medio": "Lmneuquen.com",
-   "relevante": false,
+   "nota": "Figueroa y Gaido adelantan las elecciones para separarse de la caída de Milei",
+   "nota_url": "https://www.laizquierdadiario.com/Figueroa-y-Gaido-adelantan-las-elecciones-para-separarse-de-la-caida-de-Milei",
+   "medio": "La Izquierda Diario",
+   "relevante": true,
    "temas": []
   },
   {
@@ -180,37 +207,10 @@
   },
   {
    "tema": "inpres san juan",
-   "busquedas": "1000+",
+   "busquedas": "500+",
    "nota": "Tembló en San Juan y se sintió en Mendoza",
    "nota_url": "https://www.elsol.com.ar/mendoza/temblo-en-san-juan-y-se-sintio-en-mendoza-22/",
    "medio": "Diario El Sol Mendoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "caio borralho",
-   "busquedas": "500+",
-   "nota": "Prediction, pick for Caio Borralho vs. Yousri Belgaroui at UFC 334",
-   "nota_url": "https://dknetwork.draftkings.com/2026/11/14/prediction-pick-for-caio-borralho-vs-yousri-belgaroui-at-ufc-334/",
-   "medio": "DraftKings Network",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kevin holland",
-   "busquedas": "200+",
-   "nota": "Kevin Holland believes he did enough to win fight, will take longer break",
-   "nota_url": "https://sports.yahoo.com/videos/kevin-holland-believes-did-enough-043132934.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos melconian",
-   "busquedas": "200+",
-   "nota": "Melconian: \"La mal llamada motosierra (licuadora) al final no purificó, ni rozó a la casta\"",
-   "nota_url": "https://www.perfil.com/nea/melconian-la-mal-llamada-motosierra-licuadora-al-final-no-purifico-ni-rozo-a-la-casta-auW8b7I3lgtf",
-   "medio": "Perfil",
    "relevante": false,
    "temas": []
   }
