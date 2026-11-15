@@ -1,7 +1,13 @@
 {
- "actualizado": "14/11 22:54",
+ "actualizado": "14/11 23:40",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Paredes",
    "url": "https://x.com/search?q=Paredes",
@@ -9,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "#LaNocheDeMartina2",
+   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +39,20 @@
    "temas": []
   },
   {
+   "tema": "Nacho",
+   "url": "https://x.com/search?q=Nacho",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Copa Argentina",
    "url": "https://x.com/search?q=Copa%20Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PodemosHablar",
+   "url": "https://x.com/search?q=%23PodemosHablar",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +81,20 @@
    "temas": []
   },
   {
-   "tema": "#LaNocheDeMartina2",
-   "url": "https://x.com/search?q=%23LaNocheDeMartina2",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#PodemosHablar",
-   "url": "https://x.com/search?q=%23PodemosHablar",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Pablo AgustÃ­n",
    "url": "https://x.com/search?q=Pablo%20Agust%C3%83%C2%ADn",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#TodoSigueIgual",
+   "url": "https://x.com/search?q=%23TodoSigueIgual",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Ruler",
-   "url": "https://x.com/search?q=Ruler",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Xeneize",
-   "url": "https://x.com/search?q=Xeneize",
+   "tema": "Madryn",
+   "url": "https://x.com/search?q=Madryn",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +117,67 @@
    "temas": []
   },
   {
-   "tema": "GanÃ³ Boca",
-   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Boquita",
-   "url": "https://x.com/search?q=Boquita",
+   "tema": "Xeneize",
+   "url": "https://x.com/search?q=Xeneize",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "bilal hasan",
+   "busquedas": "200+",
+   "nota": "Hasan ‘very excited’ to be fighting in competitive flyweight division",
+   "nota_url": "https://www.sportsnet.ca/ufc/video/hasan-very-excited-to-be-fighting-in-competitive-flyweight-division/",
+   "medio": "Sportsnet.ca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dwayne johnson",
+   "busquedas": "100+",
+   "nota": "Dwayne Johnson to receive USC dramatic arts honor",
+   "nota_url": "https://www.nbclosangeles.com/news/local/dwayne-johnson-to-receive-usc-dramatic-arts-honor/3970268/",
+   "medio": "NBC Los Angeles",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nacho giron",
+   "busquedas": "200+",
+   "nota": "Sufrió bullying y cayó en las drogas. El joven que emocionó al Papa ya tiene una frase para tatuarse",
+   "nota_url": "https://www.radiocanal.com.ar/noticia/sufrio-bullying-y-cayo-en-las-drogas-el-joven-que-emociono-al-papa-ya-tiene-una-frase-para-tatuarse-187251",
+   "medio": "Radiocanal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "league of legends",
+   "busquedas": "100+",
+   "nota": "League of Legends Will Never Be the Same After Massive 2027 Overhaul",
+   "nota_url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+   "medio": "Polygon.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "lluvia",
+   "busquedas": "5000+",
+   "nota": "Clima: cielo nublado en el AMBA y más de 11 provincias bajo alerta por tormentas",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/14/vuelven-las-lluvias-al-amba-y-mas-de-15-provincias-estaran-bajo-alerta-por-tormentas/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "stephen thompson",
+   "busquedas": "200+",
+   "nota": "14-Year UFC Veteran Retires at UFC 334 Following Stunning Knockout Win",
+   "nota_url": "https://www.si.com/fannation/mma/news/14-year-ufc-veteran-retires-at-ufc-334-following-stunning-knockout-win",
+   "medio": "Sports Illustrated",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "jeremiah fears",
    "busquedas": "200+",
@@ -152,65 +206,11 @@
    "temas": []
   },
   {
-   "tema": "heat - pistons",
-   "busquedas": "200+",
-   "nota": "Detroit visits Miami following Cunningham's 52-point showing",
-   "nota_url": "https://www.foxsports.com/articles/nba/detroit-visits-miami-following-cunninghams-52point-showing",
-   "medio": "FOX Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "timberwolves - bulls",
    "busquedas": "200+",
-   "nota": "Game Preview #13: Wolves vs Bulls",
-   "nota_url": "https://sports.yahoo.com/articles/game-preview-13-wolves-vs-010000388.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rocio robles",
-   "busquedas": "5000+",
-   "nota": "Daniela Celis habló de la incomodidad que vivió por una pregunta sobre Thiago Medina",
-   "nota_url": "https://tn.com.ar/show/television/2026/11/13/la-incomodidad-que-vivio-daniela-celis-por-una-pregunta-sobre-thiago-medina-en-la-grabacion-de-un-programa-fue-raro/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mala fama",
-   "busquedas": "1000+",
-   "nota": "Aseguran que la esposa de Hernán de Mala Fama armó un escándalo en PH Podemos Hablar: los motivos",
-   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/12/aseguran-que-la-esposa-de-hernan-de-mala-fama-armo-un-escandalo-en-ph-podemos-hablar-los-motivos/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mexico vs",
-   "busquedas": "500+",
-   "nota": "¿Rafa Márquez abarata a la Selección Mexicana en sus convocatorias?",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17507329/seleccion-mexicana-rafa-marquez-jamaica-final-four-concacaf",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paramount",
-   "busquedas": "200+",
-   "nota": "Skydance Bosses Throw Shade On Warner Bros Film Slate; Q4 Profit Will Take $200M Hit",
-   "nota_url": "https://deadline.com/2026/11/skydance-earnerings-warner-bros-losses-david-ellison-1237217782/",
-   "medio": "Deadline",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el final de la calle oak",
-   "busquedas": "200+",
-   "nota": "The End of Oak Street llega al streaming tras su paso por cines",
-   "nota_url": "https://foro3d.com/2026/noviembre/the-end-of-oak-street-llega-al-streaming-tras-su-paso-por-cines.html",
-   "medio": "Foro3D",
+   "nota": "‍‍‍~!!【OffiCial+NBA】 Bulls vs Timberwolves 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
+   "nota_url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbWF4YnR2Yy5naXRodWIuaW8vYmF0dWwvdmlkZW8venplcnpzczEueG1sIi8+PC9rcnBhbm8+&id=video-bulls-v-timberwolves-liv-on-nba-ustv-en_06",
+   "medio": "日本取引所グループ",
    "relevante": false,
    "temas": []
   }
