@@ -1,7 +1,13 @@
 {
- "actualizado": "16/11 17:39",
+ "actualizado": "16/11 18:38",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "James Bond",
    "url": "https://x.com/search?q=James%20Bond",
@@ -21,50 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Castillo",
-   "url": "https://x.com/search?q=Castillo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "CrepÃºsculo",
-   "url": "https://x.com/search?q=Crep%C3%83%C2%BAsculo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paulon",
-   "url": "https://x.com/search?q=Paulon",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Grammy",
-   "url": "https://x.com/search?q=Grammy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Henry Cavill",
-   "url": "https://x.com/search?q=Henry%20Cavill",
+   "tema": "Godoy Cruz",
+   "url": "https://x.com/search?q=Godoy%20Cruz",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +39,44 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#PatriaYFamilia",
-   "url": "https://x.com/search?q=%23PatriaYFamilia",
+   "tema": "hayley",
+   "url": "https://x.com/search?q=hayley",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#LuzuVs412",
+   "url": "https://x.com/search?q=%23LuzuVs412",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
    "relevante": false,
    "temas": []
   },
@@ -93,124 +87,130 @@
    "temas": []
   },
   {
-   "tema": "AOTY",
-   "url": "https://x.com/search?q=AOTY",
+   "tema": "Metrogas",
+   "url": "https://x.com/search?q=Metrogas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Zendaya",
-   "url": "https://x.com/search?q=Zendaya",
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Francos",
-   "url": "https://x.com/search?q=Francos",
+   "tema": "Castillo",
+   "url": "https://x.com/search?q=Castillo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
+   "tema": "Tomba",
+   "url": "https://x.com/search?q=Tomba",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ariana",
-   "url": "https://x.com/search?q=ariana",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "boca atletico mineiro",
+   "tema": "serie de televisión",
    "busquedas": "100+",
-   "nota": "Paredes pidió el cambio y encendió las alarmas: qué tiene el capitán de Boca",
-   "nota_url": "https://www.elgrafico.com.ar/articulo/copa-argentina/103934/paredes-pidio-el-cambio-y-encendio-las-alarmas-que-tiene-el-capitan-de-boca",
-   "medio": "El Gráfico",
+   "nota": "Primeras imágenes de “The spot”, serie protagonizada por Claire Danes y Ewan McGregor",
+   "nota_url": "https://www.funcinema.com.ar/2026/11/primeras-imagenes-de-the-spot-serie-protagonizada-por-claire-danes-y-ewan-mcgregor/",
+   "medio": "Funcinema",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "noche de las heladerias",
+   "tema": "trotta racing team",
    "busquedas": "100+",
-   "nota": "La Noche de las Heladerías: Vellezo tendrá 3x2 en cuartos y bites durante todo el miércoles",
-   "nota_url": "https://www.eldia.com/marcasytendencias/la-noche-de-las-heladerias-vellezo-tendra-3x2-en-cuartos-y-bites-durante-todo-el-miercoles-marcasytendencias_1794690652",
-   "medio": "Diario El Día de La Plata",
+   "nota": "Trotta enojado por la «falta de ética» de otros equipos de TC",
+   "nota_url": "https://campeones.com.ar/trotta-enojado-por-la-falta-de-etica-de-otros-equipos-de-tc/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "u2",
+   "tema": "medvedev",
    "busquedas": "100+",
-   "nota": "The Rock Hall of Fame's best surprises, from Phil Collins to Aerosmith",
-   "nota_url": "https://www.usatoday.com/story/entertainment/music/2026/11/15/rock-hall-of-fame-induction-ceremony-concert/92721363007/",
-   "medio": "USA Today",
+   "nota": "Medvedev vs Cobolli Expert Picks & Best Bets for Turin (Nov 16)",
+   "nota_url": "https://www.sportsbettingdime.com/news/tennis/medvedev-vs-cobolli-expert-picks-best-bets-turin/",
+   "medio": "Sports Betting Dime",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "jeremías ledesma",
+   "tema": "selección de fútbol de alemania",
    "busquedas": "100+",
-   "nota": "Llegó a River como el sucesor de Armani, se fue a préstamo y ahora se confirmó su salida definitiva",
-   "nota_url": "https://www.mdzol.com/deportes/2026/11/16/llego-a-river-como-el-sucesor-de-armani-se-fue-a-prestamo-y-ahora-se-confirmo-su-salida-definitiva-1995765.html",
-   "medio": "MDZ Online",
+   "nota": "Nike Air Force 1 Low Germany: Los tenis blancos de piel con diseño sofisticado que rinden homenaje a la selección alemana",
+   "nota_url": "https://www.gq.com.mx/articulo/tenis-nike-air-force-1-low-germany-precio-fotos-lanzamiento-13-11-2026",
+   "medio": "GQ México y Latinoamérica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "carlos tevez",
-   "busquedas": "500+",
-   "nota": "Una leyenda de Juventus y campeón del mundo con Italia, confirmado para la despedida de Carlos Tévez",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17508006/boca-juniors-la-bombonera-despedida-carlos-tevez-gianluigi-buffon-juventus-messi-palermo-aguero-invitados-confirmados",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ebriedad",
+   "tema": "manuel adorni",
    "busquedas": "200+",
-   "nota": "'No me acuerdo más hasta llegar a la posta': Relato de la víctima del choque del padre de Pavez, que quedó en prisión preventiva",
-   "nota_url": "https://www.meganoticias.cl/nacional/536494-relato-victima-choque-padre-de-subsecretario-pavez-prision-preventiva-16-11-2026.html",
-   "medio": "Meganoticias",
-   "relevante": false,
+   "nota": "Karina dijo que sí; Patricia, que no: Expectativa por el regreso de Manuel Adorni al Gabinete",
+   "nota_url": "https://jornadapolitica.com.ar/karina-dijo-que-si-patricia-que-no-expectativa-por-el-regreso-de-manuel-adorni-al-gabinete/",
+   "medio": "Jornada Politica",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "sedán",
-   "busquedas": "100+",
-   "nota": "Volkswagen Lamando se renueva: diseño y precio esperado en México",
-   "nota_url": "https://laverdadnoticias.com/vida-exclusiva/motor-premium/volkswagen-lamando-2027-mexico",
-   "medio": "La Verdad Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "grecia vs",
-   "busquedas": "1000+",
-   "nota": "Dónde ver hoy en directo el Grecia-Serbia: ¿qué canal televisa el partido y dónde verlo en streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-el-grecia-serbia-que-canal-televisa-el-partido-y-donde-verlo-en-streaming/blt157f63e041199665",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mariano werner",
+   "tema": "josé luis manzano",
    "busquedas": "200+",
-   "nota": "El toque que provocó la sanción a Werner en Río Cuarto y arruinó sus chances de campeonato",
-   "nota_url": "https://www.carburando.com/turismo-carretera/el-toque-que-provoco-la-sancion-a-werner-en-la-final-del-tc-en-rio-cuarto-id201080",
-   "medio": "Carburando",
+   "nota": "De la energía al consumo masivo: cómo queda el nuevo mapa de negocios del grupo Manzano en Argentina",
+   "nota_url": "https://www.ambito.com/negocios/de-la-energia-al-consumo-masivo-como-queda-el-nuevo-mapa-del-grupo-manzano-argentina-n6345717",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "alemania - países bajos",
-   "busquedas": "10000+",
-   "nota": "Alemania - Países Bajos en directo: gol de Scherhant | Última hora de UEFA Nations League en vivo hoy",
-   "nota_url": "https://www.marca.com/futbol/uefa-nations-league/alemania-paises-bajos/2026/11/16/01_0195_20261116_357_366-directo.html",
-   "medio": "MARCA",
+   "tema": "gruda",
+   "busquedas": "200+",
+   "nota": "Klopp elogió el rendimiento de Alemania tras el triunfo ante Serbia: \"Estuvimos excelentes\"",
+   "nota_url": "https://www.ellitoral.com/deportes/jurgenklopp-paisesbajos-alemania-serbia-uefanationsleague_0_NCkc19SL9V.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alejandra monteoliva",
+   "busquedas": "100+",
+   "nota": "La ministra de Seguridad, Alejandra Monteoliva, será sometida a una cirugía de columna y permanecerá internada",
+   "nota_url": "https://tn.com.ar/politica/2026/11/16/la-ministra-de-seguridad-sera-sometida-a-una-cirugia-de-columna-y-permanecera-internada/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "sofia jujuy",
+   "busquedas": "200+",
+   "nota": "Sofi \"Jujuy\" Jimenez embarazada",
+   "nota_url": "https://laubfal.com/sofi-jujuy-jimenez-embarazada/",
+   "medio": "laubfal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club social y deportivo madryn",
+   "busquedas": "2000+",
+   "nota": "\"Una obra de teatro para no seguir jugando\"",
+   "nota_url": "https://www.ole.com.ar/futbol-ascenso/ascenso-nacional-madryn-maipu_0_eDkEaQIZ5e.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   }
