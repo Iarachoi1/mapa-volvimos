@@ -1,10 +1,22 @@
 {
- "actualizado": "16/11 11:47",
+ "actualizado": "16/11 13:30",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Ferro",
    "url": "https://x.com/search?q=Ferro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
    "temas": []
   },
@@ -21,12 +33,6 @@
    "temas": []
   },
   {
-   "tema": "#GRAMMYs",
-   "url": "https://x.com/search?q=%23GRAMMYs",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "olivia",
    "url": "https://x.com/search?q=olivia",
    "relevante": false,
@@ -35,12 +41,6 @@
   {
    "tema": "hayley",
    "url": "https://x.com/search?q=hayley",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +57,20 @@
    "temas": []
   },
   {
-   "tema": "#ALaBarbarossa",
-   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
@@ -69,32 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TristÃ¡n SuÃ¡rez",
-   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Luis Caputo",
-   "url": "https://x.com/search?q=Luis%20Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "ophelia",
-   "url": "https://x.com/search?q=ophelia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tomba",
-   "url": "https://x.com/search?q=Tomba",
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +93,124 @@
    "temas": []
   },
   {
-   "tema": "martin cirio",
-   "url": "https://x.com/search?q=martin%20cirio",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Manzano",
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
+   "tema": "TristÃ¡n SuÃ¡rez",
+   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tomba",
+   "url": "https://x.com/search?q=Tomba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "calendario 2027",
+   "tema": "alerta meteorológica",
+   "busquedas": "2000+",
+   "nota": "🟠​ Hay alertas naranja y amarilla por tormentas en Buenos Aires y otras 10 provincias",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/16/hay-alertas-naranja-y-amarilla-por-tormentas-en-buenos-aires-y-otras-10-provincias/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "normas de tránsito",
    "busquedas": "200+",
-   "nota": "Calendario escolar en Córdoba: ya hay fecha para el cierre del ciclo lectivo 2026",
-   "nota_url": "https://www.perfil.com/cordoba/calendario-escolar-en-cordoba-ya-hay-fecha-para-el-cierre-del-ciclo-lectivo-2026-a8lkq6O0iIDQ",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "carlos alcaraz",
-   "busquedas": "2000+",
-   "nota": "Carlos Alcaraz - Frances Tiafoe, el partido de las ATP Finals en vivo| Carlos Alcaraz vence en dos sets a Tiafoe en su debut en las ATP Finals",
-   "nota_url": "https://elpais.com/deportes/tenis/2026-11-16/carlos-alcaraz-frances-tiafoe-el-partido-de-las-atp-finals-en-vivo.html",
-   "medio": "EL PAÍS",
+   "nota": "Cambió la prioridad de la derecha en avenidas: qué deben saber los conductores marplatenses",
+   "nota_url": "https://www.lacapitalmdp.com/ya-no-siempre-tiene-prioridad-el-que-va-por-la-derecha-que-deben-tener-en-cuenta-los-conductores-en-mar-del-plata/",
+   "medio": "Diario La Capital de Mar del Plata",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cohete",
+   "tema": "16 de noviembre",
    "busquedas": "500+",
-   "nota": "Catástrofe espacial: un cohete falló a los 10 minutos de despegar y destruyó 40 satélites de Amazon",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162715/mundo/catastrofe-espacial-cohete-fallo-10-minutos-despegar-destruyo-40-satelites-amazon.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sudán - senegal",
-   "busquedas": "1000+",
-   "nota": "Sudán vs Senegal EN VIVO y EN DIRECTO, minuto a minuto en Eliminatorias Copa Africana (1-2)",
-   "nota_url": "https://www.vavel.com/es/futbol-internacional/2026/11/16/1279454-sudan-vs-senegal-en-vivo-eliminatorias-a-la-copa-africana.html",
-   "medio": "VAVEL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barby franco",
-   "busquedas": "500+",
-   "nota": "Barby Franco cumplió el sueño de su hija Sarah Burlando de conocer a una cantante top: la foto del encuentro",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/16/barby-franco-cumplio-el-sueno-de-su-hija-sarah-burlando-de-conocer-a-una-cantante-top-la-foto-del-encuentro/",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 16 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "gobierno",
-   "busquedas": "5000+",
-   "nota": "Semana clave: el oficialismo acelera en el Congreso por las PASO y el Presupuesto 2027",
-   "nota_url": "https://www.perfil.com/politica/semana-clave-el-oficialismo-acelera-en-el-congreso-por-las-paso-y-el-presupuesto-2027-a7Bkm6e0BEpG",
-   "medio": "Perfil",
+   "tema": "islas feroe - moldavia",
+   "busquedas": "100+",
+   "nota": "Alineaciones de Islas Feroe y Moldavia para el duelo de la fecha 6 de la Liga de Naciones",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-islas-feroe-y-moldavia-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "camionero",
+   "busquedas": "100+",
+   "nota": "Interceptaron en Corrientes a un camionero brasileño con casi 2 gramos de alcohol en sangre",
+   "nota_url": "https://www.ellitoral.com/sucesos/corrientes-rutanacional14-alcoholemia-camionero-testdealcoholemia-alcoholensangre-brasil_0_B8Nxw5RdrV.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guillermo barros schelotto",
+   "busquedas": "200+",
+   "nota": "Diego Milito encara la reestructuración de Racing para 2027: la posible salida de Sebastián Saja, el nuevo entrenador y los refuerzos",
+   "nota_url": "https://www.clarin.com/deportes/diego-milito-encara-reestructuracion-racing-2027-posible-salida-sebastian-saja-nuevo-entrenador-refuerzos_0_ngQfy4xIAc.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "club atlético huracán",
-   "busquedas": "500+",
-   "nota": "Martín Cirio, ¿salta a la política?: qué dijo sobre el anuncio y cuál sería su primera medida",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/15/martin-cirio-anuncio-ante-miles-de-fans-que-se-lanzaria-a-la-politica-pero-luego-aclaro-sus-dichos/",
+   "tema": "dino sani",
+   "busquedas": "200+",
+   "nota": "Murió Dino Sani, campeón mundial con Brasil en 1958, exjugador de Boca y ganador de la Copa de Europa con el Milan",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/16/murio-dino-sani-campeon-mundial-con-brasil-en-1958-exjugador-de-boca-y-ganador-de-la-copa-de-europa-con-el-milan/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "fusiones y adquisiciones",
-   "busquedas": "500+",
-   "nota": "Argentina modifica la regulación de compra y venta de empresas: cómo será el nuevo régimen",
-   "nota_url": "https://www.canal26.com/economia/2026/11/11/argentina-modifica-la-regulacion-de-compra-y-venta-de-empresas-como-sera-el-nuevo-regimen/",
-   "medio": "Canal26",
+   "tema": "kazajistán - eslovaquia",
+   "busquedas": "200+",
+   "nota": "Pronóstico Kazajistán Eslovaquia - Nations League 16/11/26",
+   "nota_url": "https://www.sportytrader.com/es/pronosticos/kazajistan-eslovaquia-387718/",
+   "medio": "SportyTrader",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lunes 23 de noviembre es feriado",
-   "busquedas": "2000+",
-   "nota": "Feriados de noviembre: se firmó el decreto para trasladar una fecha clave y así quedó el calendario",
-   "nota_url": "https://www.ambito.com/informacion-general/feriados-noviembre-se-firmo-el-decreto-trasladar-una-fecha-clave-y-asi-quedo-el-calendario-n6345042",
-   "medio": "Ambito",
-   "relevante": true,
+   "tema": "argentina vs costa rica",
+   "busquedas": "200+",
+   "nota": "La formación de la Selección para el amistoso contra Costa Rica: los posibles cambios de Scaloni y un regreso esperado",
+   "nota_url": "https://www.clarin.com/deportes/formacion-seleccion-amistoso-costa-rica-posibles-cambios-scaloni-regreso-esperado_0_1V2SNT2RWT.html",
+   "medio": "Clarin.com",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "marcelo veliz",
+   "tema": "robert pattinson",
    "busquedas": "2000+",
-   "nota": "Dramático accidente de Marcelo Véliz: volcó la combi en la que viajaba y fue trasladado de urgencia al hospital",
-   "nota_url": "https://www.a24.com/primiciasya/dramatico-accidente-marcelo-veliz-volco-la-combi-la-que-viajaba-y-fue-trasladado-urgencia-al-hospital-n1616825",
-   "medio": "A24.com",
+   "nota": "Robert Pattinson named as new James Bond actor",
+   "nota_url": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
+   "medio": "BBC",
    "relevante": false,
    "temas": []
   }
