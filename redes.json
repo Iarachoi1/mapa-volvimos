@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 15:42",
+ "actualizado": "16/11 16:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
+   "tema": "Castillo",
+   "url": "https://x.com/search?q=Castillo",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +39,26 @@
    "temas": []
   },
   {
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tapia",
    "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Grammys",
-   "url": "https://x.com/search?q=Grammys",
+   "tema": "Paulon",
+   "url": "https://x.com/search?q=Paulon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Grammy",
+   "url": "https://x.com/search?q=Grammy",
    "relevante": false,
    "temas": []
   },
@@ -57,38 +69,26 @@
    "temas": []
   },
   {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rebord",
    "url": "https://x.com/search?q=Rebord",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ariana",
-   "url": "https://x.com/search?q=ariana",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bruno mars",
-   "url": "https://x.com/search?q=bruno%20mars",
+   "tema": "#PatriaYFamilia",
+   "url": "https://x.com/search?q=%23PatriaYFamilia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "The Fate of Ophelia",
-   "url": "https://x.com/search?q=The%20Fate%20of%20Ophelia",
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Raye",
-   "url": "https://x.com/search?q=Raye",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ALaBarbarossa",
-   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "tema": "ariana",
+   "url": "https://x.com/search?q=ariana",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "dólar",
-   "busquedas": "1000+",
-   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 16 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
+   "tema": "grecia - serbia",
+   "busquedas": "200+",
+   "nota": "Grecia vs Serbia, en vivo, por la UEFA Nations League: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/16/grecia-vs-serbia-en-vivo-por-la-fase-de-grupos-de-la-uefa-nations-league-hora-donde-ver-y-formaciones/",
    "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos tevez",
+   "busquedas": "200+",
+   "nota": "Una leyenda de Juventus y campeón del mundo con Italia, confirmado para la despedida de Carlos Tévez",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17508006/boca-juniors-la-bombonera-despedida-carlos-tevez-gianluigi-buffon-juventus-messi-palermo-aguero-invitados-confirmados",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ebriedad",
+   "busquedas": "100+",
+   "nota": "'No me acuerdo más hasta llegar a la posta': Relato de la víctima del choque del padre de Pavez, que quedó en prisión preventiva",
+   "nota_url": "https://www.meganoticias.cl/nacional/536494-relato-victima-choque-padre-de-subsecretario-pavez-prision-preventiva-16-11-2026.html",
+   "medio": "Meganoticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sedán",
+   "busquedas": "100+",
+   "nota": "¿El nuevo rival chino del Jetta? Prepara Volkswagen la llegada del Lamando",
+   "nota_url": "https://www.nvinoticias.com/trending/motor/el-nuevo-rival-chino-del-jetta-prepara-volkswagen-la-llegada-del-lamando/196059",
+   "medio": "NVI Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mariano werner",
+   "busquedas": "100+",
+   "nota": "El toque que provocó la sanción a Werner en Río Cuarto y arruinó sus chances de campeonato",
+   "nota_url": "https://www.carburando.com/turismo-carretera/el-toque-que-provoco-la-sancion-a-werner-en-la-final-del-tc-en-rio-cuarto-id201080",
+   "medio": "Carburando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alemania - países bajos",
+   "busquedas": "5000+",
+   "nota": "Alemania vs. Países Bajos, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
+   "nota_url": "https://www.tycsports.com/uefa-nations-league/alemania-vs-paises-bajos-en-vivo-donde-ver-por-tv-y-online-id771125.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "suiza - escocia",
+   "busquedas": "1000+",
+   "nota": "Alineaciones de Suiza y Escocia para el duelo de la fecha 6 de la Liga de Naciones",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-suiza-y-escocia-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gerard depardieu",
+   "busquedas": "100+",
+   "nota": "\"El monstruo del cine cayó\": Gérard Depardieu, condenado por agredir sexualmente a dos mujeres",
+   "nota_url": "https://www.infobae.com/cultura/2026/11/16/el-monstruo-del-cine-cayo-gerard-depardieu-condenado-por-agredir-sexualmente-a-dos-mujeres/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dólar",
+   "busquedas": "2000+",
+   "nota": "El dólar oficial extiende las subas y el blue alcanza un nuevo récord en los $1.600",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-la-lupa-la-brecha-cambiaria-la-suba-del-blue-y-la-baja-del-oficial-n6345542",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "benin vs",
    "busquedas": "100+",
-   "nota": "Abdelaziz Kerkache appointed head coach of the Central African Republic",
-   "nota_url": "https://en.yabiladi.com/articles/details/206996/abdelaziz-kerkache-appointed-head-coach.html",
-   "medio": "Yabiladi.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "apagon mundial 17 de noviembre",
-   "busquedas": "100+",
-   "nota": "Supuesto apagón global: ¿Cuál es la actitud que se espera de los cristianos?",
-   "nota_url": "https://noticias.adventistas.org/es/supuesto-apagon-global-cual-es-la-actitud-que-se-espera-de-los-cristianos/",
-   "medio": "Notícias Adventistas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "islandia vs",
-   "busquedas": "5000+",
-   "nota": "Islandia - Luxemburgo: entradas para la Liga de Naciones",
-   "nota_url": "https://karlobag.eu/es/deportes/noticias/islandia-luxemburgo-entradas-para-la-liga-de-naciones-37u8d/",
-   "medio": "KarloBag.eu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estatua",
-   "busquedas": "500+",
-   "nota": "El casco griego de bronce y una escultura de Juno Pronuba, las dos joyas que Jerez presta a Mérida",
-   "nota_url": "https://www.lavozdelsur.es/cultura/el-casco-griego-de-bronce-y-una-escultura-de-juno-pronuba-las-dos-joyas-que-jerez-presta-a-merida.html",
-   "medio": "lavozdelsur.es",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santo toribio de mogrovejo",
-   "busquedas": "200+",
-   "nota": "León XIV encabeza su última misa en Perú antes de regresar al Vaticano tras la histórica gira por Sudamérica",
-   "nota_url": "https://www.ambito.com/informacion-general/leon-xiv-cierra-su-gira-sudamerica-una-misa-multitudinaria-lima-n6345647",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
-   "busquedas": "500+",
-   "nota": "'Last of my issues': Kwesi Appiah not afraid of sack as Sudan face Senegal",
-   "nota_url": "https://www.flashscore.com/news/last-of-my-issues-kwesi-appiah-not-afraid-of-sack-as-sudan-face-senegal/4nEguZH5/",
-   "medio": "Flashscore.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ciclón",
-   "busquedas": "500000+",
-   "nota": "Pronóstico del tiempo: semana cargada de humedad, con lluvias de hasta 150 mm, calor de 40 grados y riesgo de tornados",
-   "nota_url": "https://radiomitre.cienradios.com/mitre-y-el-campo/pronostico-del-tiempo-semana-cargada-de-humedad-con-lluvias-de-hasta-150-mm-calor-de-40-grados-y-riesgo-de-tornados/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "callum turner",
-   "busquedas": "200+",
-   "nota": "RICHARD JOHNSON | Callum Turner closing in on James Bond gig: source",
-   "nota_url": "https://www.nydailynews.com/2026/11/15/callum-turner-james-bond/",
-   "medio": "New York Daily News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alerta meteorológica",
-   "busquedas": "10000+",
-   "nota": "Alerta por tormentas: se esperan lluvias de hasta 120 mm y ráfagas de 90 km/h",
-   "nota_url": "https://news.agrofy.com.ar/noticia/216999/alerta-tormentas-se-esperan-lluvias-120-mm-rafagas-90-kmh",
-   "medio": "Agrofy News",
+   "nota": "Central African Republic vs Benin LIVE",
+   "nota_url": "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles/how-and-where-to-watch-central-african-republic-vs-benin-live-on-bein-sports-2026-11-15",
+   "medio": "beIN SPORTS",
    "relevante": false,
    "temas": []
   }
