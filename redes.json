@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 18:38",
+ "actualizado": "16/11 19:37",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,26 +45,32 @@
    "temas": []
   },
   {
-   "tema": "hayley",
-   "url": "https://x.com/search?q=hayley",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#ChinaYoTeBanco",
    "url": "https://x.com/search?q=%23ChinaYoTeBanco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LuzuVs412",
-   "url": "https://x.com/search?q=%23LuzuVs412",
+   "tema": "hayley",
+   "url": "https://x.com/search?q=hayley",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Inglaterra",
    "url": "https://x.com/search?q=Inglaterra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#LUZUVS412",
+   "url": "https://x.com/search?q=%23LUZUVS412",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
+   "tema": "Klopp",
+   "url": "https://x.com/search?q=Klopp",
    "relevante": false,
    "temas": []
   },
@@ -99,21 +105,9 @@
    "temas": []
   },
   {
-   "tema": "Castillo",
-   "url": "https://x.com/search?q=Castillo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Tomba",
-   "url": "https://x.com/search?q=Tomba",
-   "relevante": false,
    "temas": []
   },
   {
@@ -121,15 +115,84 @@
    "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Guillermo Patricio Kelly",
+   "url": "https://x.com/search?q=Guillermo%20Patricio%20Kelly",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "serie de televisión",
+   "tema": "nvda",
+   "busquedas": "200+",
+   "nota": "Nvidia loses its leader as the dollar takes the prize",
+   "nota_url": "https://www.marketscreener.com/news/nvidia-loses-its-leader-as-the-dollar-takes-the-prize-ce785edfdb81f22d",
+   "medio": "marketscreener.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "maxi lópez",
+   "busquedas": "200+",
+   "nota": "Explota el Wandagate, ahora habló la mujer de Maxi López: ¿qué dijo?",
+   "nota_url": "https://www.minutouno.com/espectaculos/explota-el-wandagate-ahora-hablo-la-mujer-maxi-lopez-que-dijo-n6345433",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "banco san juan",
    "busquedas": "100+",
-   "nota": "Primeras imágenes de “The spot”, serie protagonizada por Claire Danes y Ewan McGregor",
-   "nota_url": "https://www.funcinema.com.ar/2026/11/primeras-imagenes-de-the-spot-serie-protagonizada-por-claire-danes-y-ewan-mcgregor/",
-   "medio": "Funcinema",
+   "nota": "El Banco San Juan sería absorbido por el Banco de Santa Fe a mediados de 2027",
+   "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/16/117435-el-banco-san-juan-seria-absorbido-por-el-banco-de-santa-fe-a-mediados-de-2027",
+   "medio": "0264Noticias",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "telemundo",
+   "busquedas": "100+",
+   "nota": "Las candidatas a Miss Universe pasean en el Parque Forestal La Marquesa",
+   "nota_url": "https://es-us.vida-estilo.yahoo.com/candidatas-miss-universe-pasean-parque-211529653.html",
+   "medio": "Yahoo en Español Vida y Estilo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gta vi",
+   "busquedas": "200+",
+   "nota": "Grand Theft Auto 6 features a hyper-realistic and localized dynamic weather system",
+   "nota_url": "https://www.wdrbwave.com/2026/11/16/grand-theft-auto-6-features-hyper-realistic-localized-dynamic-weather-system/",
+   "medio": "WDRB",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chase",
+   "busquedas": "200+",
+   "nota": "Outages reported at major US banks including Chase and Bank of America",
+   "nota_url": "https://www.bbc.com/news/live/c893rpk23g56t",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "malta vs",
+   "busquedas": "100+",
+   "nota": "Gibraltar vs Malta en directo hoy: ¿quién televisa el partido y dónde verlo por streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/gibraltar-vs-malta-en-directo-hoy-quien-televisa-el-partido-y-donde-verlo-por-streaming/blt5218aafb14835b34",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "serie de televisión",
+   "busquedas": "200+",
+   "nota": "La miniserie recién estrenada que todos devoran en horas",
+   "nota_url": "https://urgente24.com/ocio/la-miniserie-recien-estrenada-que-todos-devoran-horas-n636645",
+   "medio": "Urgente24",
    "relevante": false,
    "temas": []
   },
@@ -148,69 +211,6 @@
    "nota": "Medvedev vs Cobolli Expert Picks & Best Bets for Turin (Nov 16)",
    "nota_url": "https://www.sportsbettingdime.com/news/tennis/medvedev-vs-cobolli-expert-picks-best-bets-turin/",
    "medio": "Sports Betting Dime",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de fútbol de alemania",
-   "busquedas": "100+",
-   "nota": "Nike Air Force 1 Low Germany: Los tenis blancos de piel con diseño sofisticado que rinden homenaje a la selección alemana",
-   "nota_url": "https://www.gq.com.mx/articulo/tenis-nike-air-force-1-low-germany-precio-fotos-lanzamiento-13-11-2026",
-   "medio": "GQ México y Latinoamérica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "manuel adorni",
-   "busquedas": "200+",
-   "nota": "Karina dijo que sí; Patricia, que no: Expectativa por el regreso de Manuel Adorni al Gabinete",
-   "nota_url": "https://jornadapolitica.com.ar/karina-dijo-que-si-patricia-que-no-expectativa-por-el-regreso-de-manuel-adorni-al-gabinete/",
-   "medio": "Jornada Politica",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "josé luis manzano",
-   "busquedas": "200+",
-   "nota": "De la energía al consumo masivo: cómo queda el nuevo mapa de negocios del grupo Manzano en Argentina",
-   "nota_url": "https://www.ambito.com/negocios/de-la-energia-al-consumo-masivo-como-queda-el-nuevo-mapa-del-grupo-manzano-argentina-n6345717",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gruda",
-   "busquedas": "200+",
-   "nota": "Klopp elogió el rendimiento de Alemania tras el triunfo ante Serbia: \"Estuvimos excelentes\"",
-   "nota_url": "https://www.ellitoral.com/deportes/jurgenklopp-paisesbajos-alemania-serbia-uefanationsleague_0_NCkc19SL9V.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alejandra monteoliva",
-   "busquedas": "100+",
-   "nota": "La ministra de Seguridad, Alejandra Monteoliva, será sometida a una cirugía de columna y permanecerá internada",
-   "nota_url": "https://tn.com.ar/politica/2026/11/16/la-ministra-de-seguridad-sera-sometida-a-una-cirugia-de-columna-y-permanecera-internada/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "sofia jujuy",
-   "busquedas": "200+",
-   "nota": "Sofi \"Jujuy\" Jimenez embarazada",
-   "nota_url": "https://laubfal.com/sofi-jujuy-jimenez-embarazada/",
-   "medio": "laubfal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club social y deportivo madryn",
-   "busquedas": "2000+",
-   "nota": "\"Una obra de teatro para no seguir jugando\"",
-   "nota_url": "https://www.ole.com.ar/futbol-ascenso/ascenso-nacional-madryn-maipu_0_eDkEaQIZ5e.html",
-   "medio": "Olé",
    "relevante": false,
    "temas": []
   }
