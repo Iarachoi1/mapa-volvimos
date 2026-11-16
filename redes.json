@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 05:05",
+ "actualizado": "16/11 07:30",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,38 @@
    "temas": []
   },
   {
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#TXT_AngelBite",
+   "url": "https://x.com/search?q=%23TXT_AngelBite",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "hayley",
    "url": "https://x.com/search?q=hayley",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
+   "tema": "TXT PERFECT STORM OUT NOW",
+   "url": "https://x.com/search?q=TXT%20PERFECT%20STORM%20OUT%20NOW",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Touch the Sky",
+   "url": "https://x.com/search?q=Touch%20the%20Sky",
    "relevante": false,
    "temas": []
   },
@@ -39,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
    "temas": []
   },
@@ -51,56 +75,26 @@
    "temas": []
   },
   {
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "martin cirio",
    "url": "https://x.com/search?q=martin%20cirio",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Dominbord",
-   "url": "https://x.com/search?q=%23Dominbord",
+   "tema": "#dominbord",
+   "url": "https://x.com/search?q=%23dominbord",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "La Cobra",
    "url": "https://x.com/search?q=La%20Cobra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#fuerzaagusneta",
-   "url": "https://x.com/search?q=%23fuerzaagusneta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lily",
-   "url": "https://x.com/search?q=Lily",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nelson Castro",
-   "url": "https://x.com/search?q=Nelson%20Castro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
@@ -121,96 +115,102 @@
    "url": "https://x.com/search?q=Gimnasia%20y%20Tiro",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "deportivo madryn - deportivo maipú",
-   "busquedas": "500+",
-   "nota": "Corvalán y Giacopuzzi hablaron tras la suspensión: \"Hicimos un gran partido y eso no se tiene que manchar”",
-   "nota_url": "https://www.diariojornada.com.ar/427155/deportes/corvalan_y_giacopuzzi_hablaron_tras_la_suspension_hicimos_un_gran_partido_y_eso_no_se_tiene_que_manchar",
-   "medio": "Diario Jornada",
+   "tema": "viruela del mono",
+   "busquedas": "100+",
+   "nota": "Brasil registra la primera muerte por el aumento de casos del virus Mpox",
+   "nota_url": "https://es-us.noticias.yahoo.com/brasil-registra-muerte-aumento-casos-100051261.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "aguinaldo",
-   "busquedas": "5000+",
-   "nota": "Confirman fechas del aguinaldo de diciembre para jubilados",
-   "nota_url": "https://www.lt10.com.ar/noticia/513940--confirman-fechas-del-aguinaldo-de-diciembre-para-jubilados",
-   "medio": "LT10",
+   "tema": "weather",
+   "busquedas": "500+",
+   "nota": "Storm alerts differ as heavy rain forecast across Morocco and Iberian peninsula",
+   "nota_url": "https://en.hespress.com/148935-storm-alerts-differ-as-heavy-rain-forecast-across-morocco-and-iberian-peninsula.html",
+   "medio": "HESPRESS English - Morocco News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico mar del plata",
+   "busquedas": "100+",
+   "nota": "Lluvias, tormentas y humedad: así estará el tiempo en Mar del Plata durante el fin de semana",
+   "nota_url": "https://www.infobrisas.com/noticias/2026/11/14/114710-lluvias-tormentas-y-humedad-asi-estara-el-tiempo-en-mar-del-plata-durante-el-fin-de-semana",
+   "medio": "Infobrisas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima",
+   "busquedas": "100000+",
+   "nota": "Clima en Buenos Aires hoy: el tiempo en vivo en Capital Federal",
+   "nota_url": "https://vive.click/clima-en-buenos-aires-hoy-el-tiempo-en-vivo-en-capital-federal/",
+   "medio": "Vive Click",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vulcan",
+   "busquedas": "200+",
+   "nota": "Amazon loses 40 Leo satellites as Boeing-Lockheed rocket fails",
+   "nota_url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931",
+   "medio": "DW.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "escuela",
+   "busquedas": "200+",
+   "nota": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
+   "nota_url": "https://www.infobae.com/politica/2026/11/15/gustavo-saenz-reclamo-la-falta-de-ayuda-del-gobierno-nacional-tras-el-fuerte-temporal-que-afecto-el-norte-de-salta/",
+   "medio": "Infobae",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "the body netflix",
-   "busquedas": "100+",
-   "nota": "Netflix’s Best New Show Deserves Its 98% Rotten Tomatoes Audience Score",
-   "nota_url": "https://www.forbes.com/sites/paultassi/2026/11/15/netflixs-best-new-show-deserves-its-98-rotten-tomatoes-audience-score/",
-   "medio": "Forbes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "the chosen temporada 6",
-   "busquedas": "100+",
-   "nota": "The Chosen sexta temporada: la historia de la serie que comenzó con aportes de sus seguidores y generó más de US$ 280 millones",
-   "nota_url": "https://www.forbesargentina.com/lifestyle/the-chosen-sexta-temporada-historia-serie-comenzo-aportes-sus-seguidores-genero-mas-us-280-millones-n102322",
-   "medio": "Forbes Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kings - thunder",
-   "busquedas": "500+",
-   "nota": "Thunder get back to winning; Kings' skid now at 6 games",
-   "nota_url": "https://www.reuters.com/sports/basketball/thunder-get-back-winning-kings-skid-now-6-games--flm-2026-11-16/",
-   "medio": "Reuters",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chiqui tapia",
+   "tema": "club atlético colón",
    "busquedas": "200+",
-   "nota": "Chiqui Tapia rompió el silencio sobre las protestas de River tras el Superclásico: “No es mi culpa”",
-   "nota_url": "https://bolavip.com/ar/river/chiqui-tapia-rompio-el-silencio-sobre-las-protestas-de-river-tras-el-superclasico-no-es-mi-culpa",
-   "medio": "Bolavip Argentina",
+   "nota": "Colón y un tiempo para justificar y el otro para aguantar el resultado",
+   "nota_url": "https://www.ellitoral.com/actualidad-sabalera/video-viral-colon-reducido-midland-cuartos-final-avanzo-gano-sufre-gana-resultado_0_lGG4RHun3r.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "german martitegui",
+   "tema": "sorteo quini 6",
+   "busquedas": "5000+",
+   "nota": "Quini 6: hubo un solo ganador del Siempre Sale, que se llevó $486 millones",
+   "nota_url": "https://www.lacapital.com.ar/informacion-general/quini-6-hubo-un-solo-ganador-del-siempre-sale-que-se-llevo-486-millones-n10292348.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "deportivo madryn - deportivo maipú",
+   "busquedas": "1000+",
+   "nota": "Deportivo Madryn ganaba, pero el partido ante Maipú fue suspendido por una agresión al arquero",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17517700/deportivo-madryn-deportivo-maipu-partido-suspendido-primera-nacional-2026-octavos-reducido",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "1998 ky26",
    "busquedas": "200+",
-   "nota": "La angustia de Martita Fort en MasterChef Celebrity: \"Me está yendo como cu...\"",
-   "nota_url": "https://launion.com.ar/espectaculos/la-angustia-martita-fort-masterchef-celebrity-me-esta-yendo-como-cu-n5447496",
-   "medio": "Diario La Unión",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucks - hawks",
-   "busquedas": "200+",
-   "nota": "Licensable picture: NBA: Atlanta Hawks at Milwaukee Bucks",
-   "nota_url": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-milwaukee-bucks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjI4MjU",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima cipolletti",
-   "busquedas": "100+",
-   "nota": "Se viene un cambio de tiempo en Cipolletti: la AIC anticipó qué pasará el sábado y domingo",
-   "nota_url": "https://www.lmcipolletti.com/cipolletti/se-viene-un-cambio-tiempo-cipolletti-la-aic-anticipo-que-pasara-el-sabado-y-domingo-n1261195",
-   "medio": "LM Cipolletti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gustavo sáenz.",
-   "busquedas": "100+",
-   "nota": "Temporal en Embarcación: Salud Pública asistió a más de 250 vecinos y refuerza la atención casa por casa",
-   "nota_url": "https://www.salta.gob.ar/prensa/noticias/temporal-en-embarcacion-salud-publica-asistio-a-mas-de-250-vecinos-y-refuerza-la-atencion-casa-por-casa-111099",
-   "medio": "Gobierno de la Provincia de Salta, Argentina",
+   "nota": "Scientists Stumped by Why Mysterious Object Is Accelerating as a Japanese Spacecraft Rushes to Catch It",
+   "nota_url": "https://futurism.com/space/mysterious-object-accelerating-space",
+   "medio": "Futurism",
    "relevante": false,
    "temas": []
   }
