@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 02:20",
+ "actualizado": "16/11 05:05",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,32 +27,8 @@
    "temas": []
   },
   {
-   "tema": "#fuerzaagusneta",
-   "url": "https://x.com/search?q=%23fuerzaagusneta",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Inglaterra",
    "url": "https://x.com/search?q=Inglaterra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TristÃ¡n SuÃ¡rez",
-   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +39,26 @@
    "temas": []
   },
   {
-   "tema": "Rebord",
-   "url": "https://x.com/search?q=Rebord",
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Dominbord",
-   "url": "https://x.com/search?q=%23Dominbord",
+   "tema": "TristÃ¡n SuÃ¡rez",
+   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "martin cirio",
    "url": "https://x.com/search?q=martin%20cirio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#Dominbord",
+   "url": "https://x.com/search?q=%23Dominbord",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
+   "tema": "#fuerzaagusneta",
+   "url": "https://x.com/search?q=%23fuerzaagusneta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lily",
+   "url": "https://x.com/search?q=Lily",
    "relevante": false,
    "temas": []
   },
@@ -105,14 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
+   "tema": "Banfield",
+   "url": "https://x.com/search?q=Banfield",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Davo",
-   "url": "https://x.com/search?q=Davo",
+   "tema": "Rebord",
+   "url": "https://x.com/search?q=Rebord",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
@@ -124,6 +124,24 @@
   }
  ],
  "google": [
+  {
+   "tema": "deportivo madryn - deportivo maipú",
+   "busquedas": "500+",
+   "nota": "Corvalán y Giacopuzzi hablaron tras la suspensión: \"Hicimos un gran partido y eso no se tiene que manchar”",
+   "nota_url": "https://www.diariojornada.com.ar/427155/deportes/corvalan_y_giacopuzzi_hablaron_tras_la_suspension_hicimos_un_gran_partido_y_eso_no_se_tiene_que_manchar",
+   "medio": "Diario Jornada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aguinaldo",
+   "busquedas": "5000+",
+   "nota": "Confirman fechas del aguinaldo de diciembre para jubilados",
+   "nota_url": "https://www.lt10.com.ar/noticia/513940--confirman-fechas-del-aguinaldo-de-diciembre-para-jubilados",
+   "medio": "LT10",
+   "relevante": true,
+   "temas": []
+  },
   {
    "tema": "the body netflix",
    "busquedas": "100+",
@@ -145,19 +163,10 @@
   {
    "tema": "kings - thunder",
    "busquedas": "500+",
-   "nota": "Sacramento Kings fall to 1-12, drop 8th-straight home game",
-   "nota_url": "https://sactownsports.com/nba/sacramento-kings/okc-loss",
-   "medio": "Sactown Sports 1140 AM",
+   "nota": "Thunder get back to winning; Kings' skid now at 6 games",
+   "nota_url": "https://www.reuters.com/sports/basketball/thunder-get-back-winning-kings-skid-now-6-games--flm-2026-11-16/",
+   "medio": "Reuters",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "anses",
-   "busquedas": "2000+",
-   "nota": "Confirman fechas del aguinaldo de diciembre para jubilados",
-   "nota_url": "https://www.lt10.com.ar/noticia/513940--confirman-fechas-del-aguinaldo-de-diciembre-para-jubilados",
-   "medio": "LT10",
-   "relevante": true,
    "temas": []
   },
   {
@@ -181,9 +190,9 @@
   {
    "tema": "bucks - hawks",
    "busquedas": "200+",
-   "nota": "Highlights: Bucks 106 – Hawks 113 | 11.15.26",
-   "nota_url": "https://www.nba.com/bucks/videos/highlights-bucks-106-hawks-113-11-15-26",
-   "medio": "NBA.com",
+   "nota": "Licensable picture: NBA: Atlanta Hawks at Milwaukee Bucks",
+   "nota_url": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-milwaukee-bucks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjI4MjU",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "Temporal en Embarcación: Salud Pública asistió a más de 250 vecinos y refuerza la atención casa por casa",
    "nota_url": "https://www.salta.gob.ar/prensa/noticias/temporal-en-embarcacion-salud-publica-asistio-a-mas-de-250-vecinos-y-refuerza-la-atencion-casa-por-casa-111099",
    "medio": "Gobierno de la Provincia de Salta, Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tomas rebord",
-   "busquedas": "200+",
-   "nota": "América TV apuesta por DominBord y reorganiza su programación de los domingos",
-   "nota_url": "https://television.com.ar/noticias/tv-aire/america-tv-apuesta-por-idominbord-i-y-reorganiza-su-programacion-de-los-domingos/",
-   "medio": "Inicio - Television",
    "relevante": false,
    "temas": []
   }
