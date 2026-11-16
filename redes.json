@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 08:56",
+ "actualizado": "16/11 11:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,8 +21,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -39,50 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Tomba",
-   "url": "https://x.com/search?q=Tomba",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#dominbord",
-   "url": "https://x.com/search?q=%23dominbord",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TristÃ¡n SuÃ¡rez",
-   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Wanda",
-   "url": "https://x.com/search?q=Wanda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Martin Cirio",
-   "url": "https://x.com/search?q=Martin%20Cirio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Cobra",
-   "url": "https://x.com/search?q=La%20Cobra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#TXT_AngelBite",
-   "url": "https://x.com/search?q=%23TXT_AngelBite",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
    "relevante": false,
    "temas": []
   },
@@ -93,124 +57,160 @@
    "temas": []
   },
   {
+   "tema": "#ALaBarbarossa",
+   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "TristÃ¡n SuÃ¡rez",
+   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Luis Caputo",
+   "url": "https://x.com/search?q=Luis%20Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "ophelia",
+   "url": "https://x.com/search?q=ophelia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tomba",
+   "url": "https://x.com/search?q=Tomba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "martin cirio",
+   "url": "https://x.com/search?q=martin%20cirio",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Manzano",
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gimnasia y Tiro",
-   "url": "https://x.com/search?q=Gimnasia%20y%20Tiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nelson Castro",
-   "url": "https://x.com/search?q=Nelson%20Castro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Banfield",
-   "url": "https://x.com/search?q=Banfield",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "EspaÃ±a",
-   "url": "https://x.com/search?q=Espa%C3%83%C2%B1a",
+   "tema": "Wanda",
+   "url": "https://x.com/search?q=Wanda",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "lunes 23 de noviembre es feriado",
+   "tema": "calendario 2027",
+   "busquedas": "200+",
+   "nota": "Calendario escolar en Córdoba: ya hay fecha para el cierre del ciclo lectivo 2026",
+   "nota_url": "https://www.perfil.com/cordoba/calendario-escolar-en-cordoba-ya-hay-fecha-para-el-cierre-del-ciclo-lectivo-2026-a8lkq6O0iIDQ",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "carlos alcaraz",
    "busquedas": "2000+",
-   "nota": "Cuándo es el próximo fin de semana largo en Argentina y cómo funciona el feriado del Día de la Soberanía Nacional",
-   "nota_url": "https://radiomitre.cienradios.com/sociedad/cuando-es-el-proximo-fin-de-semana-largo-en-argentina-y-como-funciona-el-dia-de-la-soberania-nacional/",
-   "medio": "Radio Mitre",
+   "nota": "Carlos Alcaraz - Frances Tiafoe, el partido de las ATP Finals en vivo| Carlos Alcaraz vence en dos sets a Tiafoe en su debut en las ATP Finals",
+   "nota_url": "https://elpais.com/deportes/tenis/2026-11-16/carlos-alcaraz-frances-tiafoe-el-partido-de-las-atp-finals-en-vivo.html",
+   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "marcelo veliz",
-   "busquedas": "200+",
-   "nota": "Estamos atravesando horas de preocupación: las palabras de las hijas de Marcelo Véliz tras el accidente en La Madrid",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162717/seguridad/estamos-atravesando-horas-preocupacion-palabras-hijas-marcelo-veliz-tras-accidente-madrid.html",
+   "tema": "cohete",
+   "busquedas": "500+",
+   "nota": "Catástrofe espacial: un cohete falló a los 10 minutos de despegar y destruyó 40 satélites de Amazon",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1162715/mundo/catastrofe-espacial-cohete-fallo-10-minutos-despegar-destruyo-40-satelites-amazon.html",
    "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "dia del empleado judicial",
-   "busquedas": "200+",
-   "nota": "El Poder Judicial de San Juan tendrá feriado este lunes por el Día del Empleado Judicial",
-   "nota_url": "https://www.diariodecuyo.com.ar/san-juan/el-poder-judicial-san-juan-tendra-feriado-este-lunes-el-dia-del-empleado-judicial-n6588673",
-   "medio": "Diario de Cuyo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "viruela del mono",
-   "busquedas": "100+",
-   "nota": "Virus Mpox: Brasil registra la primera muerte en 2026",
-   "nota_url": "https://www.aps.dz/es/mundo/mundo/mwhn6wjg-virus-mpox-brasil-registra-la-primera-muerte-en-2026",
-   "medio": "وكالة الأنباء الجزائرية",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "weather",
-   "busquedas": "500+",
-   "nota": "Detroit Daily Temperature Low November 15 2026",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/climate/events/detroit-daily-temperature-low-november-15-2026-nov-15-2026/",
-   "medio": "Robinhood",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico mar del plata",
-   "busquedas": "100+",
-   "nota": "Cómo estará el tiempo este domingo 15 de noviembre en Mar del Plata",
-   "nota_url": "https://www.infobrisas.com/noticias/2026/11/15/114813-como-estara-el-tiempo-este-domingo-15-de-noviembre-en-mar-del-plata",
-   "medio": "Infobrisas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima",
-   "busquedas": "200000+",
-   "nota": "Clima en Capital Federal: lluvia débil y 22 grados a las 3",
-   "nota_url": "https://impactocastex.com.ar/sociedad/18654/clima-en-capital-federal-lluvia-debil-y-22-grados-a-las-3",
-   "medio": "Impacto Castex",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vulcan",
+   "tema": "sudán - senegal",
    "busquedas": "1000+",
-   "nota": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-   "nota_url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-   "medio": "Ars Technica",
+   "nota": "Sudán vs Senegal EN VIVO y EN DIRECTO, minuto a minuto en Eliminatorias Copa Africana (1-2)",
+   "nota_url": "https://www.vavel.com/es/futbol-internacional/2026/11/16/1279454-sudan-vs-senegal-en-vivo-eliminatorias-a-la-copa-africana.html",
+   "medio": "VAVEL.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "escuela",
-   "busquedas": "200+",
-   "nota": "La Escuela Técnica realizó una nueva edición de la ETIN, con una muestra de los trabajos y proyectos de sus alumnos",
-   "nota_url": "https://www.diariolamanana.com.ar/nota-la-escuela-tecnica-realizo-una-nueva-edicion-de-la-etin--con-una-muestra-de-los-trabajos-y-proyectos-de-sus-alumnos-157032",
-   "medio": "Diario La Mañana",
+   "tema": "barby franco",
+   "busquedas": "500+",
+   "nota": "Barby Franco cumplió el sueño de su hija Sarah Burlando de conocer a una cantante top: la foto del encuentro",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/16/barby-franco-cumplio-el-sueno-de-su-hija-sarah-burlando-de-conocer-a-una-cantante-top-la-foto-del-encuentro/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club atlético colón",
-   "busquedas": "200+",
-   "nota": "Colón y un tiempo para justificar y el otro para aguantar el resultado",
-   "nota_url": "https://www.ellitoral.com/actualidad-sabalera/video-viral-colon-reducido-midland-cuartos-final-avanzo-gano-sufre-gana-resultado_0_lGG4RHun3r.html",
-   "medio": "El Litoral",
+   "tema": "gobierno",
+   "busquedas": "5000+",
+   "nota": "Semana clave: el oficialismo acelera en el Congreso por las PASO y el Presupuesto 2027",
+   "nota_url": "https://www.perfil.com/politica/semana-clave-el-oficialismo-acelera-en-el-congreso-por-las-paso-y-el-presupuesto-2027-a7Bkm6e0BEpG",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "club atlético huracán",
+   "busquedas": "500+",
+   "nota": "Martín Cirio, ¿salta a la política?: qué dijo sobre el anuncio y cuál sería su primera medida",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/15/martin-cirio-anuncio-ante-miles-de-fans-que-se-lanzaria-a-la-politica-pero-luego-aclaro-sus-dichos/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fusiones y adquisiciones",
+   "busquedas": "500+",
+   "nota": "Argentina modifica la regulación de compra y venta de empresas: cómo será el nuevo régimen",
+   "nota_url": "https://www.canal26.com/economia/2026/11/11/argentina-modifica-la-regulacion-de-compra-y-venta-de-empresas-como-sera-el-nuevo-regimen/",
+   "medio": "Canal26",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lunes 23 de noviembre es feriado",
+   "busquedas": "2000+",
+   "nota": "Feriados de noviembre: se firmó el decreto para trasladar una fecha clave y así quedó el calendario",
+   "nota_url": "https://www.ambito.com/informacion-general/feriados-noviembre-se-firmo-el-decreto-trasladar-una-fecha-clave-y-asi-quedo-el-calendario-n6345042",
+   "medio": "Ambito",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "marcelo veliz",
+   "busquedas": "2000+",
+   "nota": "Dramático accidente de Marcelo Véliz: volcó la combi en la que viajaba y fue trasladado de urgencia al hospital",
+   "nota_url": "https://www.a24.com/primiciasya/dramatico-accidente-marcelo-veliz-volco-la-combi-la-que-viajaba-y-fue-trasladado-urgencia-al-hospital-n1616825",
+   "medio": "A24.com",
    "relevante": false,
    "temas": []
   }
