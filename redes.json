@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 14:50",
+ "actualizado": "16/11 15:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "#GRAMMYs",
-   "url": "https://x.com/search?q=%23GRAMMYs",
+   "tema": "Grammys",
+   "url": "https://x.com/search?q=Grammys",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +57,14 @@
    "temas": []
   },
   {
-   "tema": "Raye",
-   "url": "https://x.com/search?q=Raye",
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rebord",
+   "url": "https://x.com/search?q=Rebord",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "ophelia",
-   "url": "https://x.com/search?q=ophelia",
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "The Fate of Ophelia",
+   "url": "https://x.com/search?q=The%20Fate%20of%20Ophelia",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Rebord",
-   "url": "https://x.com/search?q=Rebord",
+   "tema": "Zendaya",
+   "url": "https://x.com/search?q=Zendaya",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Francos",
+   "url": "https://x.com/search?q=Francos",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Raye",
+   "url": "https://x.com/search?q=Raye",
    "relevante": false,
    "temas": []
   },
@@ -103,27 +121,27 @@
    "url": "https://x.com/search?q=%23ALaBarbarossa",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jennie",
-   "url": "https://x.com/search?q=Jennie",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Zendaya",
-   "url": "https://x.com/search?q=Zendaya",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "dólar",
+   "busquedas": "1000+",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 16 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "benin vs",
+   "busquedas": "100+",
+   "nota": "Abdelaziz Kerkache appointed head coach of the Central African Republic",
+   "nota_url": "https://en.yabiladi.com/articles/details/206996/abdelaziz-kerkache-appointed-head-coach.html",
+   "medio": "Yabiladi.com",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "apagon mundial 17 de noviembre",
    "busquedas": "100+",
@@ -144,73 +162,55 @@
   },
   {
    "tema": "estatua",
+   "busquedas": "500+",
+   "nota": "El casco griego de bronce y una escultura de Juno Pronuba, las dos joyas que Jerez presta a Mérida",
+   "nota_url": "https://www.lavozdelsur.es/cultura/el-casco-griego-de-bronce-y-una-escultura-de-juno-pronuba-las-dos-joyas-que-jerez-presta-a-merida.html",
+   "medio": "lavozdelsur.es",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santo toribio de mogrovejo",
    "busquedas": "200+",
-   "nota": "De misionero a Papa: el emotivo homenaje a León XIV en su despedida de Perú",
-   "nota_url": "https://www.cba24n.com.ar/cordoba/de-misionero-a-papa--el-emotivo-homenaje-a-leon-xiv-en-su-despedida-de-peru_a6afb0e1a08c18f80ee7f6fb8",
-   "medio": "Cba24n",
+   "nota": "León XIV encabeza su última misa en Perú antes de regresar al Vaticano tras la histórica gira por Sudamérica",
+   "nota_url": "https://www.ambito.com/informacion-general/leon-xiv-cierra-su-gira-sudamerica-una-misa-multitudinaria-lima-n6345647",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
    "busquedas": "500+",
-   "nota": "Why Is Sadio Mane Not Playing Tonight for Senegal vs. Sudan?",
-   "nota_url": "https://sports.yahoo.com/articles/why-sadio-mane-not-playing-184653417.html",
-   "medio": "Yahoo Sports",
+   "nota": "'Last of my issues': Kwesi Appiah not afraid of sack as Sudan face Senegal",
+   "nota_url": "https://www.flashscore.com/news/last-of-my-issues-kwesi-appiah-not-afraid-of-sack-as-sudan-face-senegal/4nEguZH5/",
+   "medio": "Flashscore.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ciclón",
    "busquedas": "500000+",
-   "nota": "Se aproxima un ciclón que aumentará la frecuencia de lluvias y tormentas, con picos de más de 180 milímetros: las zonas afectadas",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-ciclon-que-aumentara-la-frecuencia-de-lluvias-y-tormentas-con-picos-de-mas-de-180-nid16112026/",
-   "medio": "La Nación",
+   "nota": "Pronóstico del tiempo: semana cargada de humedad, con lluvias de hasta 150 mm, calor de 40 grados y riesgo de tornados",
+   "nota_url": "https://radiomitre.cienradios.com/mitre-y-el-campo/pronostico-del-tiempo-semana-cargada-de-humedad-con-lluvias-de-hasta-150-mm-calor-de-40-grados-y-riesgo-de-tornados/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "callum turner",
+   "busquedas": "200+",
+   "nota": "RICHARD JOHNSON | Callum Turner closing in on James Bond gig: source",
+   "nota_url": "https://www.nydailynews.com/2026/11/15/callum-turner-james-bond/",
+   "medio": "New York Daily News",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "alerta meteorológica",
-   "busquedas": "5000+",
+   "busquedas": "10000+",
    "nota": "Alerta por tormentas: se esperan lluvias de hasta 120 mm y ráfagas de 90 km/h",
    "nota_url": "https://news.agrofy.com.ar/noticia/216999/alerta-tormentas-se-esperan-lluvias-120-mm-rafagas-90-kmh",
    "medio": "Agrofy News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "agata lescano",
-   "busquedas": "500+",
-   "nota": "Quién es Ágata Lescano, la nueva novia de Marcelo Tinelli: tiene 37 años y es campeona de bikini fitness",
-   "nota_url": "https://www.eltrecetv.com.ar/puro-show/2026/11/16/quien-es-agata-lescano-la-nueva-novia-de-marcelo-tinelli-tiene-37-anos-y-es-campeona-de-bikini-fitness/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "normas de tránsito",
-   "busquedas": "500+",
-   "nota": "Cambió la prioridad de paso en las esquinas de la provincia de Buenos Aires: qué establece la nueva ley de tránsito",
-   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/16/cambio-la-prioridad-de-paso-en-las-esquinas-de-la-provincia-de-buenos-aires-que-establece-la-nueva-ley-de-transito/",
-   "medio": "eltrecetv",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "16 de noviembre",
-   "busquedas": "500+",
-   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 16 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "islas feroe - moldavia",
-   "busquedas": "100+",
-   "nota": "Alineaciones de Islas Feroe y Moldavia para el duelo de la fecha 6 de la Liga de Naciones",
-   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-islas-feroe-y-moldavia-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
-   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   }
