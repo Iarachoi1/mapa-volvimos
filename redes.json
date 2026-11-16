@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 19:37",
+ "actualizado": "16/11 20:32",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
+   "tema": "Olivia",
+   "url": "https://x.com/search?q=Olivia",
    "relevante": false,
    "temas": []
   },
@@ -57,6 +57,12 @@
    "temas": []
   },
   {
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Inglaterra",
    "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
@@ -65,12 +71,6 @@
   {
    "tema": "#LUZUVS412",
    "url": "https://x.com/search?q=%23LUZUVS412",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +87,20 @@
    "temas": []
   },
   {
-   "tema": "Klopp",
-   "url": "https://x.com/search?q=Klopp",
-   "relevante": false,
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Metrogas",
    "url": "https://x.com/search?q=Metrogas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   },
@@ -105,40 +111,88 @@
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
+   "tema": "CrepÃºsculo",
+   "url": "https://x.com/search?q=Crep%C3%83%C2%BAsculo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Francos",
+   "url": "https://x.com/search?q=Francos",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Guillermo Patricio Kelly",
-   "url": "https://x.com/search?q=Guillermo%20Patricio%20Kelly",
-   "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "nvda",
+   "tema": "apagon mundial",
    "busquedas": "200+",
-   "nota": "Nvidia loses its leader as the dollar takes the prize",
-   "nota_url": "https://www.marketscreener.com/news/nvidia-loses-its-leader-as-the-dollar-takes-the-prize-ce785edfdb81f22d",
-   "medio": "marketscreener.com",
+   "nota": "¿Se viene un apagón mundial? Un rumor en redes anuncia que la semana que viene 33 países se quedarán sin luz ni Internet",
+   "nota_url": "https://tn.com.ar/tecno/novedades/2026/11/11/se-viene-un-apagon-la-semana-que-viene-el-rumor-viral-que-advierte-sobre-cortes-de-luz-e-internet-en-33-paises/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juez",
+   "busquedas": "200+",
+   "nota": "Causa Libra: recusan a un camarista porque el hijo trabaja con Mahiques",
+   "nota_url": "https://www.lapoliticaonline.com/judiciales/causa-libra-recusan-a-un-camarista-porque-el-hijo-trabaja-con-mahiques/",
+   "medio": "La Política Online",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tina simmons",
+   "busquedas": "100+",
+   "nota": "Tributes paid to Star Wars, James Bond and The Dark Knight actress after death",
+   "nota_url": "https://www.southwestfarmer.co.uk/news/26733704.star-wars-james-bond-actress-tina-simmons-dies/",
+   "medio": "South West Farmer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "joaquín freitas",
+   "busquedas": "200+",
+   "nota": "La confesión de Joaquín Freitas sobre su salida de River: \"Estuve casi toda la noche llorando\"",
+   "nota_url": "https://www.tycsports.com/video/river-plate/la-confesion-de-joaquin-freitas-sobre-su-salida-de-river-estuve-casi-toda-la-noche-llorando-id1005351.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lali espósito",
+   "busquedas": "200+",
+   "nota": "Lali Espósito mostró el lado desconocido de su casamiento: la torta de Diego y Claudia, la ayuda de sus mamás y quién se llevó el ramo",
+   "nota_url": "https://caras.perfil.com/noticias/celebridades/lali-esposito-mostro-el-lado-desconocido-de-su-casamiento-la-torta-de-diego-y-claudia-la-ayuda-de-sus-mamas-y-quien-se-llevo-el-ramo.phtml",
+   "medio": "Caras",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nvda",
+   "busquedas": "500+",
+   "nota": "$NVIDIA(NVDA.US)Context: Retail investors poured $1.6…",
+   "nota_url": "https://longbridge.com/topics/100000000991356",
+   "medio": "Longbridge",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "maxi lópez",
    "busquedas": "200+",
-   "nota": "Explota el Wandagate, ahora habló la mujer de Maxi López: ¿qué dijo?",
-   "nota_url": "https://www.minutouno.com/espectaculos/explota-el-wandagate-ahora-hablo-la-mujer-maxi-lopez-que-dijo-n6345433",
-   "medio": "MinutoUno",
+   "nota": "Daniela Christiansson reveló el momento más doloroso de Maxi López por Wanda Nara: \"Nunca lo vi llorar así\"",
+   "nota_url": "https://fenix951.com.ar/noticia.php?id=360607",
+   "medio": "Fenix951",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "telemundo",
+   "busquedas": "200+",
+   "nota": "Catherine Siachoque adelantó lo que viene para doña Hilda y recordó sus inicios en ‘Sin senos sí hay paraíso’: \"Yo no lo quería hacer\"",
+   "nota_url": "https://www.infobae.com/colombia/2026/11/14/catherine-siachoque-adelanto-lo-que-viene-para-dona-hilda-y-recordo-sus-inicios-en-sin-senos-si-hay-paraiso-yo-no-lo-queria-hacer/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -152,65 +206,11 @@
    "temas": []
   },
   {
-   "tema": "telemundo",
-   "busquedas": "100+",
-   "nota": "Las candidatas a Miss Universe pasean en el Parque Forestal La Marquesa",
-   "nota_url": "https://es-us.vida-estilo.yahoo.com/candidatas-miss-universe-pasean-parque-211529653.html",
-   "medio": "Yahoo en Español Vida y Estilo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "gta vi",
-   "busquedas": "200+",
-   "nota": "Grand Theft Auto 6 features a hyper-realistic and localized dynamic weather system",
-   "nota_url": "https://www.wdrbwave.com/2026/11/16/grand-theft-auto-6-features-hyper-realistic-localized-dynamic-weather-system/",
-   "medio": "WDRB",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chase",
-   "busquedas": "200+",
-   "nota": "Outages reported at major US banks including Chase and Bank of America",
-   "nota_url": "https://www.bbc.com/news/live/c893rpk23g56t",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "malta vs",
-   "busquedas": "100+",
-   "nota": "Gibraltar vs Malta en directo hoy: ¿quién televisa el partido y dónde verlo por streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/gibraltar-vs-malta-en-directo-hoy-quien-televisa-el-partido-y-donde-verlo-por-streaming/blt5218aafb14835b34",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "serie de televisión",
-   "busquedas": "200+",
-   "nota": "La miniserie recién estrenada que todos devoran en horas",
-   "nota_url": "https://urgente24.com/ocio/la-miniserie-recien-estrenada-que-todos-devoran-horas-n636645",
-   "medio": "Urgente24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "trotta racing team",
-   "busquedas": "100+",
-   "nota": "Trotta enojado por la «falta de ética» de otros equipos de TC",
-   "nota_url": "https://campeones.com.ar/trotta-enojado-por-la-falta-de-etica-de-otros-equipos-de-tc/",
-   "medio": "Campeones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "medvedev",
-   "busquedas": "100+",
-   "nota": "Medvedev vs Cobolli Expert Picks & Best Bets for Turin (Nov 16)",
-   "nota_url": "https://www.sportsbettingdime.com/news/tennis/medvedev-vs-cobolli-expert-picks-best-bets-turin/",
-   "medio": "Sports Betting Dime",
+   "busquedas": "500+",
+   "nota": "GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+   "nota_url": "https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know",
+   "medio": "Pure Xbox",
    "relevante": false,
    "temas": []
   }
