@@ -1,10 +1,16 @@
 {
- "actualizado": "15/11 20:34",
+ "actualizado": "15/11 21:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Godoy Cruz",
    "url": "https://x.com/search?q=Godoy%20Cruz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -27,14 +33,14 @@
    "temas": []
   },
   {
-   "tema": "EspaÃ±a",
-   "url": "https://x.com/search?q=Espa%C3%83%C2%B1a",
+   "tema": "Nelson Pugliese",
+   "url": "https://x.com/search?q=Nelson%20Pugliese",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LuzuVs412",
-   "url": "https://x.com/search?q=%23LuzuVs412",
+   "tema": "#Pasapalabra",
+   "url": "https://x.com/search?q=%23Pasapalabra",
    "relevante": false,
    "temas": []
   },
@@ -45,26 +51,20 @@
    "temas": []
   },
   {
-   "tema": "Davo",
-   "url": "https://x.com/search?q=Davo",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "MartÃ­n Pino",
-   "url": "https://x.com/search?q=Mart%C3%83%C2%ADn%20Pino",
+   "tema": "EspaÃ±a",
+   "url": "https://x.com/search?q=Espa%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Trafford",
-   "url": "https://x.com/search?q=Trafford",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tuchel",
-   "url": "https://x.com/search?q=Tuchel",
+   "tema": "Gimnasia",
+   "url": "https://x.com/search?q=Gimnasia",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +75,8 @@
    "temas": []
   },
   {
-   "tema": "La Cobra",
-   "url": "https://x.com/search?q=La%20Cobra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Axel RodrÃ­guez",
-   "url": "https://x.com/search?q=Axel%20Rodr%C3%83%C2%ADguez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Esteban Burgos",
-   "url": "https://x.com/search?q=Esteban%20Burgos",
+   "tema": "MartÃ­n Pino",
+   "url": "https://x.com/search?q=Mart%C3%83%C2%ADn%20Pino",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Mendoza",
-   "url": "https://x.com/search?q=Mendoza",
+   "tema": "Davo",
+   "url": "https://x.com/search?q=Davo",
    "relevante": false,
    "temas": []
   },
@@ -111,107 +99,119 @@
    "temas": []
   },
   {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
+   "tema": "Trafford",
+   "url": "https://x.com/search?q=Trafford",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "#LuzuVs412",
+   "url": "https://x.com/search?q=%23LuzuVs412",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Axel RodrÃ­guez",
+   "url": "https://x.com/search?q=Axel%20Rodr%C3%83%C2%ADguez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mendoza",
+   "url": "https://x.com/search?q=Mendoza",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "islas malvinas",
-   "busquedas": "100+",
-   "nota": "Malvinas: después de quince años, un buque chileno partirá de Punta Arenas hacia las islas",
-   "nota_url": "https://www.lanacion.com.ar/politica/tension-por-malvinas-despues-de-quince-anos-un-buque-chileno-partira-de-punta-arenas-hacia-las-islas-nid14112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ferrocarril",
-   "busquedas": "100+",
-   "nota": "INSFRÁN SE ACORDÓ DEL TREN DESPUÉS DE 30 AÑOS: RECLAMA CONCESIONAR EL RAMAL C25 QUE DEJÓ DESAPARECER DURANTE SU GOBIERNO",
-   "nota_url": "https://www.prensalibreformosa.com/41428-insfran-se-acordo-del-tren-despues-de-30-anos-reclama-concesionar-el-ramal-c25-que-dejo-desaparecer-durante-su-gobierno",
-   "medio": "Prensa Libre Formosa",
+   "tema": "jubilados",
+   "busquedas": "200+",
+   "nota": "Declararon inconstitucional la fórmula jubilatoria del gobierno de Alberto Fernández",
+   "nota_url": "https://www.diarionorte.com/336660-declararon-inconstitucional-la-formula-jubilatoria-del-gobierno-de-alberto-fernandez",
+   "medio": "Diario Norte",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "raptors - knicks",
+   "tema": "maria becerra",
    "busquedas": "200+",
-   "nota": "Knicks visit Raptors for reunion with RJ Barrett, Immanuel Quickley",
-   "nota_url": "https://www.cbssports.com/nba/news/knicks-visit-raptors-for-reunion-with-rj-barrett-immanuel-quickley/",
+   "nota": "Rusherking habló de la infidelidad a Maria Becerra y su escandalosa separación",
+   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/15/rusherking-hablo-de-la-infidelidad-a-maria-becerra-y-su-escandalosa-separacion-266331.html",
+   "medio": "Pronto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cowboys - 49ers",
+   "busquedas": "100+",
+   "nota": "San Francisco vs. Dallas odds: 49ers at 64% to extend win streak over Cowboys",
+   "nota_url": "https://news.kalshi.com/p/san-francisco-vs-dallas-odds-49ers-at-64-to-extend-win-streak-over-cowboys",
+   "medio": "Kalshi News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "volkswagen",
+   "busquedas": "200+",
+   "nota": "Volkswagen’s big-selling EV gets a new (old) name",
+   "nota_url": "https://www.irishtimes.com/motors/2026/11/11/volkswagens-big-selling-ev-gets-a-new-old-name/",
+   "medio": "The Irish Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mo bamba",
+   "busquedas": "100+",
+   "nota": "Jazz's Mo Bamba: Starting against Spurs",
+   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-mo-bamba-starting-against-spurs/",
    "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sporting cristal",
-   "busquedas": "100+",
-   "nota": "Los refuerzos que sumó Sporting Cristal para la final de la Copa Caliente de la Liga 2026",
-   "nota_url": "https://bolavip.com/pe/sporting-cristal/los-refuerzos-que-sumo-sporting-cristal-para-la-final-de-la-copa-caliente-de-la-liga-2026",
-   "medio": "Bolavip",
+   "tema": "tiempo de mañana",
+   "busquedas": "200000+",
+   "nota": "Pronóstico de lluvias hasta el 24 de noviembre: NEA",
+   "nota_url": "https://ruralnet.com.ar/pronostico-lluvias-24-noviembre-2026/",
+   "medio": "Ruralnet",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ferro - gimnasia y tiro de salta",
-   "busquedas": "2000+",
-   "nota": "Ferro vs Gimnasia y Tiro, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/15/ferro-vs-gimnasia-y-tiro-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+   "tema": "elecciones velez",
+   "busquedas": "100+",
+   "nota": "Nelson Pugliese ganó las elecciones y se convirtió en el nuevo presidente de Vélez Sarsfield",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/15/nelson-pugliese-gano-las-elecciones-y-se-convirtio-en-el-nuevo-presidente-de-velez-sarsfield/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "cotización dólar oficial dólar blue hoy",
+   "busquedas": "100+",
+   "nota": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
+   "nota_url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lunes 16 de noviembre es feriado",
+   "busquedas": "100+",
+   "nota": "ANSES reactiva el calendario de pagos este lunes 16: qué jubilados cobrarán sus haberes",
+   "nota_url": "https://www.cronista.com/economia-politica/anses-reactiva-el-calendario-de-pagos-este-lunes-16-que-jubilados-cobraran-sus-haberes/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pablo quirno",
+   "busquedas": "1000+",
+   "nota": "Malvinas: el Gobierno espera con cautela el fallo del Tribunal del Mar y prepara una estrategia para los tres escenarios posibles",
+   "nota_url": "https://tn.com.ar/politica/2026/11/14/malvinas-el-gobierno-espera-con-cautela-el-fallo-del-tribunal-del-mar-y-prepara-una-estrategia-para-los-tres-escenarios-posibles/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "celtics - mavericks",
-   "busquedas": "200+",
-   "nota": "Celtics vs Mavericks LIVE, Score Updates and Play-by-Play in NBA (24-4)",
-   "nota_url": "https://www.vavel.com/en-us/nba/2026/11/15/1279336-celtics-vs-mavericks-live-score-updates-and-play-by-play-nba.html",
-   "medio": "VAVEL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "valentín fuster",
-   "busquedas": "200+",
-   "nota": "Valentín Fuster, cardiólogo de 83 años: \"Cuando protegemos arterias, presión arterial, colesterol y metabolismo, ayudamos a preservar la memoria\"",
-   "nota_url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-14/valentin-fuster-cuidar-arterias-colesterol-metabolismo-protege-memoria_4464651/",
-   "medio": "El Confidencial",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "musiala",
-   "busquedas": "100+",
-   "nota": "Jamal Musiala still waiting for Uli Hoeness apology over €25m contract jibe",
-   "nota_url": "https://footmundo.co.uk/jamal-musiala-uli-hoeness-apology-contract-bayern-munich/",
-   "medio": "foot.mundo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "turismo carretera",
-   "busquedas": "500+",
-   "nota": "\"Te vas a matar y vas a matar a uno\": el feroz cruce entre Carinelli y Ochoa que sacudió al TC",
-   "nota_url": "https://442.perfil.com/noticias/automovilismo/te-vas-a-matar-y-vas-a-matar-a-uno-el-feroz-cruce-entre-carinelli-y-ochoa-que-sacudio-al-tc.phtml",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maría vázquez",
-   "busquedas": "100+",
-   "nota": "María Vázquez y Wanda Nara coinciden en un capricho de lujo: botas de lluvia Chanel",
-   "nota_url": "https://tn.com.ar/estilo/moda/2026/11/15/maria-vazquez-y-wanda-nara-coinciden-en-un-capricho-de-lujo-botas-de-lluvia-chanel/",
-   "medio": "TN",
-   "relevante": false,
+   "relevante": true,
    "temas": []
   }
  ],
