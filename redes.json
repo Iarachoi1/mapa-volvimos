@@ -1,10 +1,10 @@
 {
- "actualizado": "16/11 13:30",
+ "actualizado": "16/11 14:50",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
    "temas": []
   },
@@ -15,50 +15,8 @@
    "temas": []
   },
   {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#LuzuVs412",
-   "url": "https://x.com/search?q=%23LuzuVs412",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "olivia",
    "url": "https://x.com/search?q=olivia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hayley",
-   "url": "https://x.com/search?q=hayley",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rebord",
-   "url": "https://x.com/search?q=Rebord",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +27,20 @@
    "temas": []
   },
   {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "CrepÃºsculo",
+   "url": "https://x.com/search?q=Crep%C3%83%C2%BAsculo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
@@ -87,32 +51,56 @@
    "temas": []
   },
   {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "tema": "Henry Cavill",
+   "url": "https://x.com/search?q=Henry%20Cavill",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
+   "tema": "Raye",
+   "url": "https://x.com/search?q=Raye",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "TristÃ¡n SuÃ¡rez",
-   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
+   "tema": "ariana",
+   "url": "https://x.com/search?q=ariana",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
+   "tema": "bruno mars",
+   "url": "https://x.com/search?q=bruno%20mars",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tomba",
-   "url": "https://x.com/search?q=Tomba",
+   "tema": "ophelia",
+   "url": "https://x.com/search?q=ophelia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AOTY",
+   "url": "https://x.com/search?q=AOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rebord",
+   "url": "https://x.com/search?q=Rebord",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ALaBarbarossa",
+   "url": "https://x.com/search?q=%23ALaBarbarossa",
    "relevante": false,
    "temas": []
   },
@@ -121,25 +109,91 @@
    "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Jennie",
+   "url": "https://x.com/search?q=Jennie",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Zendaya",
+   "url": "https://x.com/search?q=Zendaya",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "apagon mundial 17 de noviembre",
+   "busquedas": "100+",
+   "nota": "Supuesto apagón global: ¿Cuál es la actitud que se espera de los cristianos?",
+   "nota_url": "https://noticias.adventistas.org/es/supuesto-apagon-global-cual-es-la-actitud-que-se-espera-de-los-cristianos/",
+   "medio": "Notícias Adventistas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islandia vs",
+   "busquedas": "5000+",
+   "nota": "Islandia - Luxemburgo: entradas para la Liga de Naciones",
+   "nota_url": "https://karlobag.eu/es/deportes/noticias/islandia-luxemburgo-entradas-para-la-liga-de-naciones-37u8d/",
+   "medio": "KarloBag.eu",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estatua",
+   "busquedas": "200+",
+   "nota": "De misionero a Papa: el emotivo homenaje a León XIV en su despedida de Perú",
+   "nota_url": "https://www.cba24n.com.ar/cordoba/de-misionero-a-papa--el-emotivo-homenaje-a-leon-xiv-en-su-despedida-de-peru_a6afb0e1a08c18f80ee7f6fb8",
+   "medio": "Cba24n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
+   "busquedas": "500+",
+   "nota": "Why Is Sadio Mane Not Playing Tonight for Senegal vs. Sudan?",
+   "nota_url": "https://sports.yahoo.com/articles/why-sadio-mane-not-playing-184653417.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ciclón",
+   "busquedas": "500000+",
+   "nota": "Se aproxima un ciclón que aumentará la frecuencia de lluvias y tormentas, con picos de más de 180 milímetros: las zonas afectadas",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-ciclon-que-aumentara-la-frecuencia-de-lluvias-y-tormentas-con-picos-de-mas-de-180-nid16112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "alerta meteorológica",
-   "busquedas": "2000+",
-   "nota": "🟠​ Hay alertas naranja y amarilla por tormentas en Buenos Aires y otras 10 provincias",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/16/hay-alertas-naranja-y-amarilla-por-tormentas-en-buenos-aires-y-otras-10-provincias/",
-   "medio": "TN",
+   "busquedas": "5000+",
+   "nota": "Alerta por tormentas: se esperan lluvias de hasta 120 mm y ráfagas de 90 km/h",
+   "nota_url": "https://news.agrofy.com.ar/noticia/216999/alerta-tormentas-se-esperan-lluvias-120-mm-rafagas-90-kmh",
+   "medio": "Agrofy News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "agata lescano",
+   "busquedas": "500+",
+   "nota": "Quién es Ágata Lescano, la nueva novia de Marcelo Tinelli: tiene 37 años y es campeona de bikini fitness",
+   "nota_url": "https://www.eltrecetv.com.ar/puro-show/2026/11/16/quien-es-agata-lescano-la-nueva-novia-de-marcelo-tinelli-tiene-37-anos-y-es-campeona-de-bikini-fitness/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "normas de tránsito",
-   "busquedas": "200+",
-   "nota": "Cambió la prioridad de la derecha en avenidas: qué deben saber los conductores marplatenses",
-   "nota_url": "https://www.lacapitalmdp.com/ya-no-siempre-tiene-prioridad-el-que-va-por-la-derecha-que-deben-tener-en-cuenta-los-conductores-en-mar-del-plata/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
+   "busquedas": "500+",
+   "nota": "Cambió la prioridad de paso en las esquinas de la provincia de Buenos Aires: qué establece la nueva ley de tránsito",
+   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/16/cambio-la-prioridad-de-paso-en-las-esquinas-de-la-provincia-de-buenos-aires-que-establece-la-nueva-ley-de-transito/",
+   "medio": "eltrecetv",
+   "relevante": true,
    "temas": []
   },
   {
@@ -157,60 +211,6 @@
    "nota": "Alineaciones de Islas Feroe y Moldavia para el duelo de la fecha 6 de la Liga de Naciones",
    "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-islas-feroe-y-moldavia-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
    "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "camionero",
-   "busquedas": "100+",
-   "nota": "Interceptaron en Corrientes a un camionero brasileño con casi 2 gramos de alcohol en sangre",
-   "nota_url": "https://www.ellitoral.com/sucesos/corrientes-rutanacional14-alcoholemia-camionero-testdealcoholemia-alcoholensangre-brasil_0_B8Nxw5RdrV.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "guillermo barros schelotto",
-   "busquedas": "200+",
-   "nota": "Diego Milito encara la reestructuración de Racing para 2027: la posible salida de Sebastián Saja, el nuevo entrenador y los refuerzos",
-   "nota_url": "https://www.clarin.com/deportes/diego-milito-encara-reestructuracion-racing-2027-posible-salida-sebastian-saja-nuevo-entrenador-refuerzos_0_ngQfy4xIAc.html",
-   "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "dino sani",
-   "busquedas": "200+",
-   "nota": "Murió Dino Sani, campeón mundial con Brasil en 1958, exjugador de Boca y ganador de la Copa de Europa con el Milan",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/16/murio-dino-sani-campeon-mundial-con-brasil-en-1958-exjugador-de-boca-y-ganador-de-la-copa-de-europa-con-el-milan/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kazajistán - eslovaquia",
-   "busquedas": "200+",
-   "nota": "Pronóstico Kazajistán Eslovaquia - Nations League 16/11/26",
-   "nota_url": "https://www.sportytrader.com/es/pronosticos/kazajistan-eslovaquia-387718/",
-   "medio": "SportyTrader",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "argentina vs costa rica",
-   "busquedas": "200+",
-   "nota": "La formación de la Selección para el amistoso contra Costa Rica: los posibles cambios de Scaloni y un regreso esperado",
-   "nota_url": "https://www.clarin.com/deportes/formacion-seleccion-amistoso-costa-rica-posibles-cambios-scaloni-regreso-esperado_0_1V2SNT2RWT.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "robert pattinson",
-   "busquedas": "2000+",
-   "nota": "Robert Pattinson named as new James Bond actor",
-   "nota_url": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
-   "medio": "BBC",
    "relevante": false,
    "temas": []
   }
