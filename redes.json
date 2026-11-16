@@ -1,7 +1,13 @@
 {
- "actualizado": "15/11 21:48",
+ "actualizado": "15/11 23:17",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Godoy Cruz",
    "url": "https://x.com/search?q=Godoy%20Cruz",
@@ -9,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "#Dominbord",
+   "url": "https://x.com/search?q=%23Dominbord",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +27,20 @@
    "temas": []
   },
   {
+   "tema": "#BeckyArmstrongInArgentina",
+   "url": "https://x.com/search?q=%23BeckyArmstrongInArgentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tomba",
    "url": "https://x.com/search?q=Tomba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#pasapalabra",
+   "url": "https://x.com/search?q=%23pasapalabra",
    "relevante": false,
    "temas": []
   },
@@ -39,26 +57,14 @@
    "temas": []
   },
   {
-   "tema": "#Pasapalabra",
-   "url": "https://x.com/search?q=%23Pasapalabra",
+   "tema": "Rebord",
+   "url": "https://x.com/search?q=Rebord",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Primera DivisiÃ³n",
-   "url": "https://x.com/search?q=Primera%20Divisi%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "EspaÃ±a",
-   "url": "https://x.com/search?q=Espa%C3%83%C2%B1a",
+   "tema": "#beckysangels",
+   "url": "https://x.com/search?q=%23beckysangels",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Primera Nacional",
-   "url": "https://x.com/search?q=Primera%20Nacional",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Primera DivisiÃ³n",
+   "url": "https://x.com/search?q=Primera%20Divisi%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "EspaÃ±a",
+   "url": "https://x.com/search?q=Espa%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +99,8 @@
    "temas": []
   },
   {
-   "tema": "Anderson",
-   "url": "https://x.com/search?q=Anderson",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Davo",
-   "url": "https://x.com/search?q=Davo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#Infama",
-   "url": "https://x.com/search?q=%23Infama",
+   "tema": "Primera Nacional",
+   "url": "https://x.com/search?q=Primera%20Nacional",
    "relevante": false,
    "temas": []
   },
@@ -115,103 +121,97 @@
    "url": "https://x.com/search?q=Axel%20Rodr%C3%83%C2%ADguez",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Mendoza",
-   "url": "https://x.com/search?q=Mendoza",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "jubilados",
+   "tema": "chiqui tapia",
    "busquedas": "200+",
-   "nota": "Declararon inconstitucional la fórmula jubilatoria del gobierno de Alberto Fernández",
-   "nota_url": "https://www.diarionorte.com/336660-declararon-inconstitucional-la-formula-jubilatoria-del-gobierno-de-alberto-fernandez",
-   "medio": "Diario Norte",
-   "relevante": true,
+   "nota": "Godoy Cruz se consagró campeón de la Primera Nacional",
+   "nota_url": "https://www.afa.com.ar/es/posts/godoy-cruz-se-consagro-campeon-de-la-primera-nacional",
+   "medio": "AFA",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "maria becerra",
+   "tema": "german martitegui",
    "busquedas": "200+",
-   "nota": "Rusherking habló de la infidelidad a Maria Becerra y su escandalosa separación",
-   "nota_url": "https://www.pronto.com.ar/espectaculos/2026/11/15/rusherking-hablo-de-la-infidelidad-a-maria-becerra-y-su-escandalosa-separacion-266331.html",
-   "medio": "Pronto",
+   "nota": "La angustia de Martita Fort en MasterChef Celebrity: \"Me está yendo como cu...\"",
+   "nota_url": "https://launion.com.ar/espectaculos/la-angustia-martita-fort-masterchef-celebrity-me-esta-yendo-como-cu-n5447496",
+   "medio": "Diario La Unión",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cowboys - 49ers",
+   "tema": "bucks - hawks",
    "busquedas": "100+",
-   "nota": "San Francisco vs. Dallas odds: 49ers at 64% to extend win streak over Cowboys",
-   "nota_url": "https://news.kalshi.com/p/san-francisco-vs-dallas-odds-49ers-at-64-to-extend-win-streak-over-cowboys",
-   "medio": "Kalshi News",
+   "nota": "Hawks vs Bucks Prediction, Pick, NBA Odds for Sunday, November 15",
+   "nota_url": "https://sports.yahoo.com/articles/hawks-vs-bucks-prediction-pick-180323014.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "volkswagen",
+   "tema": "clima cipolletti",
+   "busquedas": "100+",
+   "nota": "Se viene un cambio de tiempo en Cipolletti: la AIC anticipó qué pasará el sábado y domingo",
+   "nota_url": "https://www.lmcipolletti.com/cipolletti/se-viene-un-cambio-tiempo-cipolletti-la-aic-anticipo-que-pasara-el-sabado-y-domingo-n1261195",
+   "medio": "LM Cipolletti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gustavo sáenz.",
+   "busquedas": "100+",
+   "nota": "Destrozos en Salta: un fuerte temporal dejó más de 150 heridos, evacuados y graves destrozos",
+   "nota_url": "https://www.filo.news/noticia/2026/11/13/destrozos-en-salta-un-fuerte-temporal-dejo-mas-de-150-heridos-evacuados-y-graves-destrozos",
+   "medio": "Filo News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tomas rebord",
    "busquedas": "200+",
-   "nota": "Volkswagen’s big-selling EV gets a new (old) name",
-   "nota_url": "https://www.irishtimes.com/motors/2026/11/11/volkswagens-big-selling-ev-gets-a-new-old-name/",
-   "medio": "The Irish Times",
+   "nota": "América TV apuesta por DominBord y reorganiza su programación de los domingos",
+   "nota_url": "https://television.com.ar/noticias/tv-aire/america-tv-apuesta-por-idominbord-i-y-reorganiza-su-programacion-de-los-domingos/",
+   "medio": "Inicio - Television",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mo bamba",
-   "busquedas": "100+",
-   "nota": "Jazz's Mo Bamba: Starting against Spurs",
-   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-mo-bamba-starting-against-spurs/",
-   "medio": "CBS Sports",
+   "tema": "escudería",
+   "busquedas": "200+",
+   "nota": "Un Williams para olvidar",
+   "nota_url": "https://as.com/motor/formula_1/un-williams-para-olvidar-f202611-n/",
+   "medio": "Diario AS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tiempo de mañana",
-   "busquedas": "200000+",
-   "nota": "Pronóstico de lluvias hasta el 24 de noviembre: NEA",
-   "nota_url": "https://ruralnet.com.ar/pronostico-lluvias-24-noviembre-2026/",
-   "medio": "Ruralnet",
+   "tema": "fernando confessore",
+   "busquedas": "500+",
+   "nota": "La estatuilla dorada de la rendición: crónica de un oficio que eligió el suicidio",
+   "nota_url": "https://www.infocielo.com/sociedad/la-estatuilla-dorada-de-la-rendicion-cronica-de-un-oficio-que-eligio-el-suicidio",
+   "medio": "Infocielo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "elecciones velez",
-   "busquedas": "100+",
-   "nota": "Nelson Pugliese ganó las elecciones y se convirtió en el nuevo presidente de Vélez Sarsfield",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/15/nelson-pugliese-gano-las-elecciones-y-se-convirtio-en-el-nuevo-presidente-de-velez-sarsfield/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cotización dólar oficial dólar blue hoy",
-   "busquedas": "100+",
-   "nota": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
-   "nota_url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069",
-   "medio": "Ambito",
+   "tema": "contrabando",
+   "busquedas": "200+",
+   "nota": "Contrabando: una competencia cada vez más desigual para las pymes",
+   "nota_url": "https://elciudadanoweb.com/contrabando-una-competencia-cada-vez-mas-desigual-para-las-pymes/",
+   "medio": "El Ciudadano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lunes 16 de noviembre es feriado",
-   "busquedas": "100+",
-   "nota": "ANSES reactiva el calendario de pagos este lunes 16: qué jubilados cobrarán sus haberes",
-   "nota_url": "https://www.cronista.com/economia-politica/anses-reactiva-el-calendario-de-pagos-este-lunes-16-que-jubilados-cobraran-sus-haberes/",
-   "medio": "El Cronista",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "pablo quirno",
-   "busquedas": "1000+",
-   "nota": "Malvinas: el Gobierno espera con cautela el fallo del Tribunal del Mar y prepara una estrategia para los tres escenarios posibles",
-   "nota_url": "https://tn.com.ar/politica/2026/11/14/malvinas-el-gobierno-espera-con-cautela-el-fallo-del-tribunal-del-mar-y-prepara-una-estrategia-para-los-tres-escenarios-posibles/",
-   "medio": "TN",
-   "relevante": true,
+   "tema": "eva bargiela",
+   "busquedas": "200+",
+   "nota": "El look de Eva Bargiela para despedir al Papa León XIV: básicos, comodidad y un accesorio con significado",
+   "nota_url": "https://www.parati.com.ar/moda/el-look-de-eva-bargiela-para-despedir-al-papa-leon-xiv-basicos-comodidad-y-un-accesorio-con-significado/",
+   "medio": "Revista Para Ti",
+   "relevante": false,
    "temas": []
   }
  ],
