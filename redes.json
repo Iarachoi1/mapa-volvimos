@@ -1,7 +1,19 @@
 {
- "actualizado": "17/11 15:45",
+ "actualizado": "17/11 16:54",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "olivia",
    "url": "https://x.com/search?q=olivia",
@@ -15,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#I_N_No_Return",
-   "url": "https://x.com/search?q=%23I_N_No_Return",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Lego",
    "url": "https://x.com/search?q=Lego",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#I_N_NO_RETURN",
+   "url": "https://x.com/search?q=%23I_N_NO_RETURN",
    "relevante": false,
    "temas": []
   },
@@ -63,26 +69,20 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DosMesesDeSolGanadora",
-   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Christian Ferrer",
-   "url": "https://x.com/search?q=Christian%20Ferrer",
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
    "temas": []
   },
@@ -93,26 +93,20 @@
    "temas": []
   },
   {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#Intrusos",
-   "url": "https://x.com/search?q=%23Intrusos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El PRO",
-   "url": "https://x.com/search?q=El%20PRO",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "DÃ­a de la Militancia",
    "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -121,96 +115,102 @@
    "url": "https://x.com/search?q=Nelson%20Castro",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "#TheGameAwards",
+   "url": "https://x.com/search?q=%23TheGameAwards",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "lluvias",
-   "busquedas": "10000+",
-   "nota": "Granizo, calles inundadas y destrozos: el temporal afectó a varias provincias y rige una alerta naranja",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/16/temporal-en-cordoba-cayo-granizo-y-rige-una-alerta-naranja-por-tormentas-para-esta-noche-en-5-provincias/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "icloud",
+   "tema": "comercio",
    "busquedas": "200+",
-   "nota": "Apple Accounts, App Store and Apple Music Experiencing Issues",
-   "nota_url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
-   "medio": "MacRumors",
+   "nota": "Cámara Francesa ve posible triplicar el comercio con México tras nuevo acuerdo con la UE",
+   "nota_url": "https://www.diarioelindependiente.mx/2026/11/camara-francesa-ve-posible-triplicar-el-comercio-con-mexico-tras-nuevo-acuerdo-con-la-ue",
+   "medio": "www.diarioelindependiente.mx",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lee reeves",
+   "tema": "ciclón extratropical",
+   "busquedas": "100+",
+   "nota": "La primavera se parte en dos: Argentina espera más lluvias y un fuerte contraste térmico del 16 al 23 de noviembre",
+   "nota_url": "https://www.lanuevaradiosuarez.com.ar/medioambiente/la-primavera-se-parte-en-dos-argentina-espera-mas-lluvias-y-un-fuerte-contraste-termico-del-16-al-23-de-noviembre-82579.html",
+   "medio": "La Nueva Radio Suárez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "asociación de trabajadores del estado",
+   "busquedas": "200+",
+   "nota": "Nueva protesta de trabajadores de Osfa: “En Rosario van a quedar 60 familias en la calle”",
+   "nota_url": "https://www.conclusion.com.ar/gremiales/nueva-protesta-de-trabajadores-de-osfa-en-rosario-van-a-quedar-60-familias-en-la-calle/11/2026/",
+   "medio": "Diario Digital Conclusión",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuando sale gta 6",
    "busquedas": "500+",
-   "nota": "Conmoción en el boxeo: murió Lee Reeves a los 31 años tras pasar más de tres meses en coma por un brutal nocaut",
-   "nota_url": "https://www.ambito.com/deportes/conmocion-el-boxeo-murio-lee-reeves-los-31-anos-pasar-mas-tres-meses-coma-un-brutal-nocaut-n6346081",
-   "medio": "Ambito",
+   "nota": "Qué es el truco de Nueva Zelanda del GTA 6 para jugar antes en PS5 y Xbox Series X|S",
+   "nota_url": "https://www.lanacion.com.ar/tecnologia/que-es-el-truco-de-nueva-zelanda-del-gta-6-para-jugar-antes-en-ps5-y-xbox-series-xs-nid17112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "documento nacional de identidad",
+   "tema": "cadáver",
    "busquedas": "200+",
-   "nota": "Quiénes pueden viajar gratis en el subte con DNI: requisitos y cómo activarlo",
-   "nota_url": "https://www.ambito.com/informacion-general/quienes-pueden-viajar-gratis-el-subte-dni-requisitos-y-como-activarlo-n6346083",
-   "medio": "Ambito",
+   "nota": "Hallaron un cuerpo calcinado en el patio de una Vecinal",
+   "nota_url": "https://www.diariojornada.com.ar/427135/policiales/hallaron_un_cuerpo_calcinado_en_el_patio_de_una_vecinal",
+   "medio": "Diario Jornada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bosnia y herzegovina - rumania",
+   "busquedas": "200+",
+   "nota": "Pronóstico Bosnia Y Herzegovina Rumania - Nations League 17/11/26",
+   "nota_url": "https://www.sportytrader.com/es/pronosticos/bosnia-y-herzegovina-rumania-387784/",
+   "medio": "SportyTrader",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "acuerdo",
+   "busquedas": "100+",
+   "nota": "La Mesa Política analizó la agenda parlamentaria y avances en el debate de la reforma electoral",
+   "nota_url": "https://www.radionacional.com.ar/la-mesa-politica-analizo-la-agenda-parlamentaria-y-avances-en-el-debate-de-la-reforma-electoral/",
+   "medio": "Radio Nacional Rock",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "jordania - australia",
-   "busquedas": "200+",
-   "nota": "Jordania vs. Australia por el amistoso internacional 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/jordania-vs-australia-por-el-amistoso-internacional-2026-dia-hora-y-como-seguir-online-nid16112026/",
-   "medio": "La Nación",
+   "tema": "gales - portugal",
+   "busquedas": "5000+",
+   "nota": "Alineaciones de Gales y Portugal para el duelo de la fecha 6 de la Liga de Naciones",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/alineaciones-de-gales-y-portugal-para-el-duelo-de-la-fecha-6-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "nsa",
-   "busquedas": "100+",
-   "nota": "News Outlets Seize On Back-To-Back Cyber Chaos",
-   "nota_url": "https://deadline.com/2026/11/cnn-nsa-outage-cyber-attack-worries-1237226613/",
-   "medio": "Deadline",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "game awards",
-   "busquedas": "1000+",
-   "nota": "GTA 6 Just Got Nominated for Game of the Year, But There Still Aren’t Any Reviews",
-   "nota_url": "https://comicbook.com/gaming/news/gta-6-just-got-nominated-for-game-of-the-year-but-there-still-arent-any-reviews/",
-   "medio": "ComicBook.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lourdes bandana",
-   "busquedas": "100+",
-   "nota": "Lourdes de Bandana declaró en el juicio por violencia de género a su exnovio: “Es una pesadilla”",
-   "nota_url": "https://tn.com.ar/show/television/2026/11/17/lourdes-de-bandana-declara-en-el-juicio-por-violencia-de-genero-a-su-exnovio-voy-a-decir-la-verdad/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "eleventickets libertadores",
+   "tema": "polonia - suecia",
    "busquedas": "500+",
-   "nota": "Final de la Copa Libertadores 2026: fecha, horario, sede y todo lo que hay que saber",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/final-de-la-copa-libertadores-2026-fecha-horario-sede-y-todo-lo-que-hay-que-saber-nid16112026/",
-   "medio": "La Nación",
+   "nota": "Poland vs Sweden: estadísticas y datos del partido",
+   "nota_url": "https://betmines.com/es/partidos/pronosticos-poland-sweden_19676696",
+   "medio": "BetMines",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "barranquilla",
-   "busquedas": "200+",
-   "nota": "Estas son las medidas de seguridad en Barranquilla para la final de la Copa Sudamericana entre Boca Juniors y Atlético Mineiro: reforzarán los controles en los hoteles",
-   "nota_url": "https://www.infobae.com/colombia/2026/11/17/estas-son-las-medidas-de-seguridad-en-barranquilla-para-la-final-de-la-copa-sudamericana-entre-boca-juniors-y-atletico-mineiro-reforzaran-los-controles-en-los-hoteles/",
-   "medio": "Infobae",
+   "tema": "israel - austria",
+   "busquedas": "500+",
+   "nota": "Israel vs Austria Prediction, Betting Tips, Team News - 17 November 2026",
+   "nota_url": "https://insights.betfred.com/football/israel-vs-austria-prediction-betting-tips-tuesday-17-november-2026/",
+   "medio": "Betfred Insights",
    "relevante": false,
    "temas": []
   }
