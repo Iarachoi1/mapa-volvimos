@@ -1,5 +1,5 @@
 {
- "actualizado": "17/11 06:51",
+ "actualizado": "17/11 07:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "I.N NO RETURN OUT NOW",
    "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Olivia",
-   "url": "https://x.com/search?q=Olivia",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "hayley",
-   "url": "https://x.com/search?q=hayley",
+   "tema": "Hayley",
+   "url": "https://x.com/search?q=Hayley",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Grammys",
-   "url": "https://x.com/search?q=Grammys",
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
    "relevante": false,
    "temas": []
   },
@@ -105,42 +111,101 @@
    "temas": []
   },
   {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "tagliafico",
-   "url": "https://x.com/search?q=tagliafico",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clima posadas",
-   "busquedas": "200+",
-   "nota": "Lunes sofocante precede a un martes con tormentas y marcado alivio térmico",
-   "nota_url": "https://www.elterritorio.com.ar/noticias/2026/11/16/927366-lunes-sofocante-precede-a-un-martes-con-tormentas-y-marcado-alivio-termico",
-   "medio": "El Territorio",
+   "tema": "plus ultra",
+   "busquedas": "100+",
+   "nota": "La rescatada Plus Ultra ha dejado de operar todas sus rutas desde este martes a las 2:00 de la madrugada ex...",
+   "nota_url": "https://okdiario.com/economia/plus-ultra-deja-operar-todas-sus-rutas-excepto-venezuela-pago-del-rescate-queda-aire-20971458",
+   "medio": "OkDiario",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima hoy",
-   "busquedas": "2000+",
-   "nota": "A qué hora se esperan las tormentas este martes 17 de noviembre en Buenos Aires, según el Servicio Meteorológico Nacional",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/16/a-que-hora-se-esperan-las-tormentas-este-martes-en-buenos-aires-segun-el-servicio-meteorologico-nacional/",
-   "medio": "TN",
+   "tema": "brasil",
+   "busquedas": "200+",
+   "nota": "Sem Ancelotti suspenso, auxiliar Mauri comanda o Brasil em Singapura",
+   "nota_url": "https://tvsimbrasil.com.br/brasil/esportes/noticia/2026/11/17/sem-ancelotti-suspenso-mauri-comanda-brasil-singapura",
+   "medio": "TV Sim Brasil",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "brasil vs",
+   "busquedas": "500+",
+   "nota": "Cuándo juegan Singapur vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17505702/singapur-vs-brasil-amistoso-internacional-equipo-fecha-hora-y-tv-en-vivo",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club de fútbol",
+   "busquedas": "200+",
+   "nota": "Independiente y Tigre negocian por Santi López",
+   "nota_url": "https://www.tycsports.com/independiente/independiente-y-tigre-negocian-por-santi-lopez-id771027.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima tandil",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima moreno",
+   "busquedas": "100+",
+   "nota": "Clima en Morón hoy: cuál es el pronóstico del tiempo para el 16 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/moron/clima-en-moron-hoy-cual-es-el-pronostico-del-tiempo-para-el-16-de-noviembre-de-2026-nid15112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico mar del plata",
+   "busquedas": "500+",
+   "nota": "Clima en Mar del Plata: la semana tendrá máximas veraniegas y lluvias",
+   "nota_url": "https://ahoramardelplata.com.ar/sociedad/clima-en-mar-del-plata-la-semana-tendra-maximas-veraniegas-y-lluvias",
+   "medio": "AHORA Mar del Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima posadas",
+   "busquedas": "500+",
+   "nota": "Lunes caluroso en Misiones: Posadas tendrá una máxima de 34°C y advierten por riesgo de incendios",
+   "nota_url": "https://misionescuatro.com/provinciales/lunes-caluroso-en-misiones-posadas-tendra-una-maxima-de-34c-y-advierten-por-riesgo-de-incendios/",
+   "medio": "Misiones Cuatro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el tiempo hoy",
+   "busquedas": "100+",
+   "nota": "Clima hoy en la Ciudad de Buenos Aires: el pronóstico del tiempo para este martes 17 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-buenos-aires-pronostico-tiempo-martes-17-noviembre-2026_0_AK2Q51IQvm.html",
+   "medio": "Clarín",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
   },
   {
    "tema": "club social y deportivo san jorge",
@@ -148,69 +213,6 @@
    "nota": "Pusieron en venta el predio del Club San Jorge sobre la Ruta 9 en Tucumán",
    "nota_url": "https://www.losprimeros.tv/deportes/pusieron-en-venta-el-predio-del-club-san-jorge-sobre-la-ruta-9-en-tucuman_a6afb339442fa9d9e6e263639",
    "medio": "Los Primeros TV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "árbol",
-   "busquedas": "100+",
-   "nota": "Tormenta: árboles, ramas y cables caídos en Mendoza",
-   "nota_url": "https://www.mendozapost.com/sociedad/viento-zonda-registaron-113-eventos-entre-arboles-caidos-ramas-y-cables/",
-   "medio": "Mendoza Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima tucuman",
-   "busquedas": "200+",
-   "nota": "Se viene El Niño: ampliaron las alcantarillas de los canales Nueva Esperanza y Alejandro Heredia para prevenir inundaciones",
-   "nota_url": "https://www.eltucumano.com/amp/noticia/actualidad/327862/se-viene-el-nino-ampliaron-las-alcantarillas-de-los-canales-nueva-esperanza-y-alejandro-heredia-para-prevenir-inundaciones",
-   "medio": "el tucumano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa sudamericana",
-   "busquedas": "200+",
-   "nota": "Cómo será el cronograma de Boca antes de la final de la CONMEBOL Sudamericana",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17522403/boca-cronograma-final-sudamericana-2026",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "granizo",
-   "busquedas": "2000+",
-   "nota": "La hora clave por la llegada tormentas severas con granizo a Córdoba: hay alerta naranja",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/16/la-hora-clave-por-la-llegada-tormentas-severas-con-granizo-a-cordoba-hay-alerta-naranja/",
-   "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luisana lopilato",
-   "busquedas": "200+",
-   "nota": "Luisana Lopilato perdió un juicio en Uruguay: reclamó más de dos millones de dólares y cobrará solo 4.000",
-   "nota_url": "https://www.airedesantafe.com.ar/espectaculos/luisana-lopilato-perdio-un-juicio-uruguay-reclamo-mas-dos-millones-dolares-y-cobrara-solo-4000-n676989",
-   "medio": "Aire de Santa Fe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quinta presidencial de olivos",
-   "busquedas": "500+",
-   "nota": "Drones, perros de guerra y más de 200 militares: cómo funciona el nuevo bunker de Javier Milei en la Quinta de Olivos",
-   "nota_url": "https://www.perfil.com/politica/drones-perros-de-guerra-y-mas-de-200-militares-como-funciona-el-nuevo-bunker-de-javier-milei-en-la-quinta-de-olivos-a2LE69z6kL2i",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "500+",
-   "nota": "Lunes caluroso con cielo mayormente nublado: el pronóstico para este 16 de noviembre en Corrientes",
-   "nota_url": "https://www.lt7noticias.com/81482-lunes-caluroso-con-cielo-mayormente-nublado-el-pronostico-para-este-16-de-noviembre-en-corrientes",
-   "medio": "LT7Noticias",
    "relevante": false,
    "temas": []
   }
