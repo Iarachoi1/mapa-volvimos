@@ -1,7 +1,13 @@
 {
- "actualizado": "17/11 13:51",
+ "actualizado": "17/11 14:52",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Robert Pattinson",
    "url": "https://x.com/search?q=Robert%20Pattinson",
@@ -15,20 +21,8 @@
    "temas": []
   },
   {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Toty",
    "url": "https://x.com/search?q=Toty",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +57,26 @@
    "temas": []
   },
   {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#DosMesesDeSolGanadora",
    "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Milton Delgado",
-   "url": "https://x.com/search?q=Milton%20Delgado",
+   "tema": "Christian Ferrer",
+   "url": "https://x.com/search?q=Christian%20Ferrer",
    "relevante": false,
    "temas": []
   },
@@ -93,15 +99,15 @@
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Milton Delgado",
+   "url": "https://x.com/search?q=Milton%20Delgado",
+   "relevante": false,
    "temas": []
   },
   {
@@ -111,31 +117,70 @@
    "temas": []
   },
   {
-   "tema": "Nelson Castro",
-   "url": "https://x.com/search?q=Nelson%20Castro",
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "barranquilla",
+   "tema": "the game awards",
+   "busquedas": "1000+",
+   "nota": "GTA VI earns 2026 Game Awards Game of the Year nomination before Thursday release",
+   "nota_url": "https://mezha.net/eng/news/mezha-3469f945178d008990c34de0_gta_vi_earns/",
+   "medio": "Mezha.net",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lourdes bandana",
    "busquedas": "100+",
-   "nota": "Dos locuras por Boca: de Buenos Aires a Barranquilla",
-   "nota_url": "https://www.elheraldo.co/deportes/2026/11/17/dos-locuras-por-boca-de-buenos-aires-a-barranquilla/",
-   "medio": "ELHERALDO.CO",
+   "nota": "Lourdes de Bandana declaró en el juicio por violencia de género a su exnovio: “Es una pesadilla”",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/17/lourdes-de-bandana-declara-en-el-juicio-por-violencia-de-genero-a-su-exnovio-voy-a-decir-la-verdad/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "conmebol",
+   "busquedas": "500+",
+   "nota": "Un titular encendió las alarmas en Boca tras retirarse del entrenamiento: ¿Qué dijeron sus estudios?",
+   "nota_url": "https://442.perfil.com/noticias/futbol/milton-delgado-encendio-las-alarmas-en-boca-la-lesion-que-preocupa-antes-de-la-final-de-la-sudamericana.phtml",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "eleventickets libertadores",
+   "busquedas": "200+",
+   "nota": "El emocionante video que compartió Estudiantes a 11 días de la caravana al Centenario",
+   "nota_url": "https://www.infocielo.com/deportes/el-emocionante-video-que-compartio-estudiantes-a-11-dias-de-la-caravana-al-centenario",
+   "medio": "Infocielo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "barranquilla",
+   "busquedas": "200+",
+   "nota": "Hinchas de Boca Juniors presentes en la Torre del Reloj en Cartagena",
+   "nota_url": "https://www.infobae.com/video/colombia/hinchas-de-boca-juniors-presentes-en-la-torre-del-reloj-en-cartagena/1LvoC6m3/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miranda de la serna",
+   "busquedas": "200+",
+   "nota": "Miranda de la Serna, hija de Érica Rivas y Rodrigo de la Serna, habló de la polémica salida de su madre de Casados con hijos: “Lo sufrió muchísimo”",
+   "nota_url": "https://viapais.com.ar/entretenimiento/ericarivas-rodrigodelaserna-mirandadelaserna-delaserna-casadosconhijos-francella_0_ztenchzgP3.html",
+   "medio": "Vía País",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clasificación para la copa africana de naciones",
-   "busquedas": "500+",
+   "busquedas": "100+",
    "nota": "Panenkazo de Salah para agrandar su leyenda y minutos para Hamza Abdelkarim",
    "nota_url": "https://www.mundodeportivo.com/futbol/internacional/20261113/1004250792/panenkazo-salah-agrandar-leyenda-minutos-hamza-abdelkarim.html",
    "medio": "Mundo Deportivo",
@@ -143,26 +188,8 @@
    "temas": []
   },
   {
-   "tema": "miranda de la serna",
-   "busquedas": "100+",
-   "nota": "“La sigo viendo sufrir”: Miranda de la Serna habló del dolor de su mamá, Érica Rivas, tras su salida de “Casados con hijos”",
-   "nota_url": "https://www.revistagente.com/entretenimiento/celebrities/la-sigo-viendo-sufrir-miranda-de-la-serna-hablo-del-dolor-de-su-mama-erica-rivas-tras-su-salida-de-casados-con-hijos/",
-   "medio": "Revista GENTE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "milton delgado",
-   "busquedas": "200+",
-   "nota": "Alerta en Boca: un titular clave no pudo terminar la práctica a días de la final de Copa Sudamericana",
-   "nota_url": "https://www.eldestapeweb.com/deportes/alerta-boca-titular-clave-no-pudo-terminar-practica-dias-final-copa-sudamericana-20261117131126",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "ulises bueno te quedaste sola",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "ULISES BUENO lanzó un tema inédito con una letra cargada de despecho",
    "nota_url": "https://eldoce.tv/cuarteteando/2026/11/17/ulises-bueno-lanzo-un-tema-inedito-con-una-letra-cargada-de-despecho/",
    "medio": "eldoce",
@@ -171,46 +198,19 @@
   },
   {
    "tema": "red link",
-   "busquedas": "200+",
-   "nota": "Una falla en la Red Link provoca problemas en el Home Banking del BLP",
-   "nota_url": "https://www.eldiariodelapampa.com.ar/la-pampa/83239/una-falla-en-la-red-link-provoca-problemas-en-el-home-banking-del-blp-",
-   "medio": "El Diario de la Pampa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gambia - costa de marfil",
-   "busquedas": "200+",
-   "nota": "Goles y resumen de Costa de Marfil 2-1 Gambia en Eliminatoria Copa Africana de Naciones",
-   "nota_url": "https://www.vavel.com/mx/futbol-internacional/2026/11/12/1278905-costa-de-marfil-vs-gambia-en-vivo-eliminatoria-copa-africana-de-naciones.html",
-   "medio": "VAVEL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ciberataque",
-   "busquedas": "200+",
-   "nota": "Un ciberataque contra casi 200 de las webs más populares del mundo para intentar hacerse con criptomonedas",
-   "nota_url": "https://www.lavanguardia.com/vida/20261117/11686224/ciberataque-200-webs-mas-populares-mundo-intentar-hacerse-criptomonedas.html",
-   "medio": "La Vanguardia",
+   "busquedas": "500+",
+   "nota": "Falla en la Red Link: qué bancos están afectados y qué operaciones no se pueden realizar",
+   "nota_url": "https://www.infocielo.com/santa-fe/falla-en-la-red-link-que-bancos-estan-afectados-y-que-operaciones-no-se-pueden-realizar",
+   "medio": "Infocielo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "desastre",
-   "busquedas": "500+",
-   "nota": "Las lluvias van y vienen en Córdoba: anticipos del pronóstico extendido",
-   "nota_url": "https://www.cba24n.com.ar/cordoba/las-lluvias-van-y-vienen-en-cordoba--anticipos-del-pronostico-extendido_a6afc19b0bbdbcd9195aec44c",
-   "medio": "Cba24n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kenia - sudáfrica",
-   "busquedas": "200+",
-   "nota": "Cómo y dónde ver Kenia vs Sudáfrica EN VIVO por beIN SPORTS",
-   "nota_url": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles/c%C3%B3mo-y-d%C3%B3nde-ver-kenia-vs-sud%C3%A1frica-en-vivo-por-bein-sports-2026-11-16",
-   "medio": "beIN SPORTS",
+   "busquedas": "1000+",
+   "nota": "Alerta naranja por tormentas: piden extremar las precauciones",
+   "nota_url": "https://www.radiocanal.com.ar/noticia/alerta-naranja-por-tormentas-piden-extremar-las-precauciones-187336",
+   "medio": "Radiocanal",
    "relevante": false,
    "temas": []
   }
