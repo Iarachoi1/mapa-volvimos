@@ -1,5 +1,5 @@
 {
- "actualizado": "17/11 08:39",
+ "actualizado": "17/11 09:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,8 +45,20 @@
    "temas": []
   },
   {
-   "tema": "#DosMesesDeSolGanadora",
-   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "tema": "bogum",
+   "url": "https://x.com/search?q=bogum",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#dosmesesdesolganadora",
+   "url": "https://x.com/search?q=%23dosmesesdesolganadora",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Batman",
    "url": "https://x.com/search?q=Batman",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "Feliz Martes",
+   "url": "https://x.com/search?q=Feliz%20Martes",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +99,20 @@
    "temas": []
   },
   {
+   "tema": "Godoy Cruz",
+   "url": "https://x.com/search?q=Godoy%20Cruz",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Manzano",
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Hayley",
-   "url": "https://x.com/search?q=Hayley",
+   "tema": "Feliz DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=Feliz%20D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
   },
@@ -109,36 +121,51 @@
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
-  },
-  {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "marta fort",
-   "busquedas": "200+",
-   "nota": "Maria Becerra tuvo su tercera noche de Quimera en el Movistar Arena: invitados, emoción y una puesta 360°",
-   "nota_url": "https://www.cronica.com.ar/elcanaldelamusica/shows/maria-becerra-tuvo-su-tercera-noche-de-quimera-en-el-movistar-arena-invitados-emocion-y-una-puesta-360/",
-   "medio": "Crónica",
+   "tema": "diario el eco de tandil",
+   "busquedas": "100+",
+   "nota": "Estreno del cortometraje \"1872\"",
+   "nota_url": "https://www.eleco.com.ar/eventos/estreno-del-cortometraje-1872",
+   "medio": "El Eco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tormentas",
-   "busquedas": "1000+",
-   "nota": "Media Argentina en alerta por eventos extremos mientras crecen los ríos en el Litoral",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/lluvias-y-tormentas-media-argentina-en-alerta-por-eventos-extremos-nid16112026/",
-   "medio": "La Nación",
+   "tema": "17 de noviembre que se celebra",
+   "busquedas": "100+",
+   "nota": "Teatro: “Piel de Mármol”, en el “cumple” de Lola Mora",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1162841/espectaculos/teatro-piel-marmol-cumple-lola-mora.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de la militancia peronista",
+   "busquedas": "100+",
+   "nota": "Día de la Militancia: la historia de Alberto Pierri, el creador de la fecha que celebra el peronismo",
+   "nota_url": "https://www.perfil.com/politica/dia-de-la-militancia-la-historia-de-alberto-pierri-el-creador-de-la-fecha-que-celebra-el-peronismo-aYpwX4V8sjQP",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "singapore vs brazil",
+   "busquedas": "200+",
+   "nota": "Brazil thrash Singapore as Vinicius Júnior steals the show",
+   "nota_url": "https://onefootball.com/en/news/brazil-thrash-singapore-as-vinicius-junior-steals-the-show-43790024",
+   "medio": "OneFootball",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marta fort",
+   "busquedas": "500+",
+   "nota": "María Becerra abrió la gira de “Quimera” con tres noches agotadas en Buenos Aires",
+   "nota_url": "https://www.filo.news/noticia/2026/11/16/maria-becerra-abrio-la-gira-de-quimera-con-tres-noches-agotadas-en-buenos-aires",
+   "medio": "Filo News",
    "relevante": false,
    "temas": []
   },
@@ -152,65 +179,38 @@
    "temas": []
   },
   {
-   "tema": "que dijo nelson castro en peru",
+   "tema": "banco de la pampa",
    "busquedas": "100+",
-   "nota": "Duras críticas en Perú contra Nelson Castro por sus comentarios durante la visita del Papa",
-   "nota_url": "https://lu17.com/contenido/157936/duras-criticas-en-peru-contra-nelson-castro-por-sus-comentarios-durante-la-visita-del-papa",
-   "medio": "LA17",
+   "nota": "Reportan problemas para acceder al BPN y podría ser general",
+   "nota_url": "https://www.cutralcoalinstante.com/2026/11/17/reportan-problemas-para-acceder-al-bpn-y-podria-ser-general/",
+   "medio": "Cutral Co al Instante",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "calingasta",
-   "busquedas": "100+",
-   "nota": "Javier Milei borró por decreto la última protección a las Pymes argentinas en el RIGI",
-   "nota_url": "https://www.infocielo.com/politica-y-economia/javier-milei-borro-por-decreto-la-ultima-proteccion-a-las-pymes-argentinas-en-el-rigi",
+   "tema": "que dijo nelson castro en peru",
+   "busquedas": "200+",
+   "nota": "Durísima respuesta de un gobernador peruano a Nelson Castro: lo llamó \"descerebrado\"",
+   "nota_url": "https://www.infocielo.com/tendencias/durisima-respuesta-de-un-gobernador-peruano-a-nelson-castro-lo-llamo-descerebrado",
    "medio": "Infocielo",
    "relevante": true,
    "temas": []
   },
   {
+   "tema": "calingasta",
+   "busquedas": "100+",
+   "nota": "Pronóstico hídrico de San Juan: los datos que se aguardan ante una inédita abundancia hídrica",
+   "nota_url": "https://diariolaprovinciasj.com/sociedad/pronostico-hidrico-de-san-juan-los-datos-que-se-aguardan-ante-una-inedita-abundancia-hidrica-398206/",
+   "medio": "Diario La Provincia San Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "polvo",
    "busquedas": "200+",
-   "nota": "Zonda: suspendieron las clases presenciales en dos departamentos",
-   "nota_url": "https://www.elsol.com.ar/mendoza/zonda-suspendieron-las-clases-presenciales-en-dos-departamentos/",
-   "medio": "Diario El Sol Mendoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima necochea",
-   "busquedas": "100+",
-   "nota": "Cómo estará el clima este lunes en Necochea y Quequén",
-   "nota_url": "https://diarionecochea.com/2026/11/16/como-estara-el-clima-este-lunes-en-necochea-y-quequen-161/",
-   "medio": "Diario Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "apagón mundial",
-   "busquedas": "2000+",
-   "nota": "Estados Unidos probará su sistema nacional de alertas este martes: el mensaje llegará a radios y televisores, pero no a los celulares",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/16/estados-unidos-probara-su-sistema-nacional-de-alertas-este-martes-el-mensaje-llegara-a-radios-y-televisores-pero-no-a-los-celulares/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "plus ultra",
-   "busquedas": "200+",
-   "nota": "La aerolínea española Plus Ultra suspendió su ruta a Buenos Aires",
-   "nota_url": "https://www.lanacion.com.ar/economia/la-aerolinea-espanola-plus-ultra-suspendio-su-ruta-a-buenos-aires-nid17112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brasil",
-   "busquedas": "500+",
-   "nota": "Intervalo em Singapura; Brasil vai goleando Singapura por 4 a 0",
-   "nota_url": "https://www.netvasco.com.br/n/396560/intervalo-em-singapura-brasil-vai-goleando-singapura-por-4-a-0",
-   "medio": "NETVASCO",
+   "nota": "El SMN emitió una alerta amarilla por viento Zonda para Jáchal y advierte que el polvo puede reducir la visibilidad en rutas",
+   "nota_url": "https://actualidadjachallera.com.ar/nota/78797/el-smn-emitio-una-alerta-amarilla-por-viento-zonda-para-jachal-y-advierte-que-el-polvo-puede-reducir-la-visibilidad-en-rutas/",
+   "medio": "Actualidad Jachallera",
    "relevante": false,
    "temas": []
   }
