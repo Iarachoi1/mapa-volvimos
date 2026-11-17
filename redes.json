@@ -1,34 +1,16 @@
 {
- "actualizado": "17/11 19:42",
+ "actualizado": "17/11 20:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Toty",
    "url": "https://x.com/search?q=Toty",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnTodoLoContrario",
-   "url": "https://x.com/search?q=%23SolEnTodoLoContrario",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +21,38 @@
    "temas": []
   },
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnTodoLoContrario",
+   "url": "https://x.com/search?q=%23SolEnTodoLoContrario",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gago",
+   "url": "https://x.com/search?q=Gago",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +63,20 @@
    "temas": []
   },
   {
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Kempes",
+   "url": "https://x.com/search?q=Kempes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lilita",
-   "url": "https://x.com/search?q=Lilita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "JesÃºs Valenzuela",
-   "url": "https://x.com/search?q=Jes%C3%83%C2%BAs%20Valenzuela",
    "relevante": false,
    "temas": []
   },
@@ -81,26 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Las PASO",
-   "url": "https://x.com/search?q=Las%20PASO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Juan Acosta",
-   "url": "https://x.com/search?q=Juan%20Acosta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Carrio",
-   "url": "https://x.com/search?q=Carrio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Christian Ferrer",
-   "url": "https://x.com/search?q=Christian%20Ferrer",
+   "tema": "Perrone",
+   "url": "https://x.com/search?q=Perrone",
    "relevante": false,
    "temas": []
   },
@@ -117,79 +105,55 @@
    "temas": []
   },
   {
-   "tema": "Resident Evil",
-   "url": "https://x.com/search?q=Resident%20Evil",
+   "tema": "Carrio",
+   "url": "https://x.com/search?q=Carrio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "JesÃºs Valenzuela",
+   "url": "https://x.com/search?q=Jes%C3%83%C2%BAs%20Valenzuela",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "chile - colombia",
+   "tema": "amistosos internacionales",
+   "busquedas": "200+",
+   "nota": "De Argentina vs. Uruguay a España vs. Inglaterra: los 10 mejores partidos de la fecha FIFA",
+   "nota_url": "https://www.diariomendoza.com.ar/deportes/de-argentina-vs-uruguay-espana-vs-inglaterra-10-mejores-partidos-fecha-fifa-n185011",
+   "medio": "Diario Mendoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "prestianni",
    "busquedas": "1000+",
-   "nota": "Alineaciones Colombia vs. Chile HOY por el partido amistoso de la fecha FIFA",
-   "nota_url": "https://bolavip.com/futbol-colombia/alineaciones-colombia-vs-chile-hoy-por-el-partido-amistoso-de-la-fecha-fifa",
-   "medio": "Bolavip",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olimpo",
-   "busquedas": "100+",
-   "nota": "El insólito penal que le cobraron en contra a Olimpo en Mar del Plata",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/12/el-insolito-penal-que-le-cobraron-en-contra-a-olimpo-en-mar-del-plata-n530496/",
-   "medio": "La Brújula 24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "saturnino",
-   "busquedas": "100+",
-   "nota": "A un mes de su nacimiento, «Saturnino» comenzó una nueva etapa",
-   "nota_url": "https://puntonoticias.com/a-un-mes-de-su-nacimiento-saturnino-comenzo-una-nueva-etapa/",
-   "medio": "Punto Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
-   "busquedas": "500+",
-   "nota": "Lone Star Suffer 4-2 Defeat to Cabo Verde",
-   "nota_url": "https://www.liberianobserver.com/sports/lone-star-suffer-4-2-defeat-to-cabo-verde/article_af32e7a4-7bb1-4d4b-a4c2-4792a434b323.html",
-   "medio": "liberianobserver.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "argentina - costa rica",
-   "busquedas": "50000+",
-   "nota": "La Selección llegó a Córdoba y renovó el vínculo con la gente",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17526471/argentina-costa-rica-la-seleccion-llego-a-cordoba-y-renovo-el-vinculo-con-la-gente",
+   "nota": "Del episodio con Vinicius a la explosión: Gianluca Prestianni y un presente de Selección",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17526029/vinicius-explosion-prestianni-seleccion-argentina",
    "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "erling haaland",
-   "busquedas": "200+",
-   "nota": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
-   "nota_url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9IWVQ",
-   "medio": "Reuters Connect",
+   "tema": "estados unidos - haití",
+   "busquedas": "500+",
+   "nota": "En su penúltimo partido, Pochettino consiguió la mayor goleada de su ciclo como DT de Estados Unidos: \"Es un entrenador increíble\"",
+   "nota_url": "https://www.clarin.com/deportes/penultimo-partido-pochettino-consiguio-mayor-goleada-ciclo-dt-estados-unidos-entrenador-increible_0_Izz8zdeOfP.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "carlos forbs",
-   "busquedas": "200+",
-   "nota": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
-   "nota_url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nvda stock",
-   "busquedas": "100+",
+   "tema": "nvda",
+   "busquedas": "500+",
    "nota": "Nvidia Earnings Live: Earnings Call Begins After Chipmaker Reports Record Sales",
    "nota_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026",
    "medio": "WSJ",
@@ -197,19 +161,55 @@
    "temas": []
   },
   {
-   "tema": "hungria vs",
-   "busquedas": "100+",
-   "nota": "Hungría vs. Irlanda del Norte: horario y dónde ver en vivo y online en Argentina, por la fecha 6 de la Liga...",
-   "nota_url": "https://bolavip.com/ar/futbol-internacional/hungria-vs-irlanda-del-norte-horario-y-donde-ver-en-vivo-y-online-en-argentina-por-la-fecha-6-de-la-liga-de-naciones",
-   "medio": "Bolavip Argentina",
+   "tema": "agustín giay",
+   "busquedas": "200+",
+   "nota": "Scaloni quedó atento: Napoli sueña con una figura de la Selección Argentina",
+   "nota_url": "https://elcrackdeportivo.com.ar/futbolinternacional/scaloni-quedo-atento-napoli-suena-con-una-figura-de-la-seleccion-argentina-20261114-0043.html",
+   "medio": "El Crack Deportivo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "corrupción",
+   "tema": "colombia vs",
+   "busquedas": "200+",
+   "nota": "¿Juega James Rodríguez? Atlético Nacional vs. Once Caldas HOY: alineaciones del partido de la Copa Colombia",
+   "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-atletico-nacional-vs-once-caldas-hoy-alineaciones-del-partido-de-la-copa-colombia",
+   "medio": "Bolavip",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mariano troilo",
+   "busquedas": "200+",
+   "nota": "Poca venta de entradas, pero mucho amor: la Selección llegó a Córdoba, desató una fiesta en los hinchas y respondió con un gran gesto",
+   "nota_url": "https://www.clarin.com/deportes/poca-venta-entradas-amor-seleccion-llego-cordoba-desato-fiesta-hinchas-respondio-gran-gesto_0_9d2H4Scrht.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "walter samuel",
    "busquedas": "100+",
-   "nota": "Detienen a excónsul hondureña en EEUU y a sus hijos por presunta corrupción",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/detienen-a-exconsul-hondurena-en-eeuu-y-a-sus-hijos-por-presunta-corrupcion-nid16112026/",
+   "nota": "Lionel Scaloni profundiza el recambio en la Selección: los jóvenes que ganan terreno rumbo al Mundial 2030",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1162746/deportes/lionel-scaloni-profundiza-recambio-seleccion-jovenes-ganan-terreno-rumbo-al-mundial-2030.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "afa",
+   "busquedas": "200+",
+   "nota": "Agenda confirmada: así se jugarán los octavos de final del Torneo Clausura de la Liga Profesional",
+   "nota_url": "https://www.directvsports.com/futbol/agenda-confirmada-asi-se-jugaran-los-octavos-de-final-del-torneo-clausura-de-la-liga-profesional-20261111-0053.html",
+   "medio": "DSports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mi telefe",
+   "busquedas": "2000+",
+   "nota": "Procesaron al joven que mató a una mujer en Retiro y era buscado por otro femicidio en Córdoba",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/procesaron-al-joven-que-mato-a-una-mujer-en-retiro-y-era-buscado-por-otro-femicidio-en-cordoba-nid12112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
