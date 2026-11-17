@@ -1,16 +1,16 @@
 {
- "actualizado": "17/11 12:43",
+ "actualizado": "17/11 13:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "#DosMesesDeSolGanadora",
-   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "tema": "I.N NO RETURN OUT NOW",
+   "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "I.N NO RETURN OUT NOW",
-   "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -57,14 +57,32 @@
    "temas": []
   },
   {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
+   "tema": "El PRO",
+   "url": "https://x.com/search?q=El%20PRO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DosMesesDeSolGanadora",
+   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Costa Rica",
    "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Milton Delgado",
+   "url": "https://x.com/search?q=Milton%20Delgado",
    "relevante": false,
    "temas": []
   },
@@ -81,21 +99,15 @@
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Batman",
-   "url": "https://x.com/search?q=Batman",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "relevante": false,
    "temas": []
   },
   {
@@ -109,108 +121,96 @@
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
-  },
-  {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+   "tema": "barranquilla",
+   "busquedas": "100+",
+   "nota": "Dos locuras por Boca: de Buenos Aires a Barranquilla",
+   "nota_url": "https://www.elheraldo.co/deportes/2026/11/17/dos-locuras-por-boca-de-buenos-aires-a-barranquilla/",
+   "medio": "ELHERALDO.CO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clasificación para la copa africana de naciones",
    "busquedas": "500+",
-   "nota": "Mohamed Salah becomes Egypt's all-time record goalscorer",
-   "nota_url": "https://www.liverpoolfc.com/news/mohamed-salah-becomes-egypt-all-time-record-goalscorer",
-   "medio": "Liverpool FC",
+   "nota": "Panenkazo de Salah para agrandar su leyenda y minutos para Hamza Abdelkarim",
+   "nota_url": "https://www.mundodeportivo.com/futbol/internacional/20261113/1004250792/panenkazo-salah-agrandar-leyenda-minutos-hamza-abdelkarim.html",
+   "medio": "Mundo Deportivo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "nadia podoroska",
+   "tema": "miranda de la serna",
+   "busquedas": "100+",
+   "nota": "“La sigo viendo sufrir”: Miranda de la Serna habló del dolor de su mamá, Érica Rivas, tras su salida de “Casados con hijos”",
+   "nota_url": "https://www.revistagente.com/entretenimiento/celebrities/la-sigo-viendo-sufrir-miranda-de-la-serna-hablo-del-dolor-de-su-mama-erica-rivas-tras-su-salida-de-casados-con-hijos/",
+   "medio": "Revista GENTE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "milton delgado",
    "busquedas": "200+",
-   "nota": "November 16, 2026: Colson Wells vs Hunter Heck Tennis Prediction Market",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/25cb742e-cdc9-4bd0-8fea-e61d4b5d07c4/",
-   "medio": "Robinhood",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "japon",
-   "busquedas": "100+",
-   "nota": "Japon : Après une nouvelle attaque d’ours, une ville ferme toutes ses écoles",
-   "nota_url": "https://fr.news.yahoo.com/japon-apr%C3%A8s-nouvelle-attaque-d-110208809.html",
-   "medio": "Yahoo Actualités",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "moratoria",
-   "busquedas": "200+",
-   "nota": "Aguinaldo para jubilados ANSES: de cuánto sería el SAC con el último aumento del año",
-   "nota_url": "https://www.cronista.com/informacion-gral/aguinaldo-para-jubilados-anses-de-cuanto-seria-el-sac-con-el-ultimo-aumento-del-ano/",
-   "medio": "El Cronista",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "nigeria vs",
-   "busquedas": "100+",
-   "nota": "“Scoring Is My Job, But Winning Is What Matters” – Arokodare’s Message Ahead of Tanzania Clash",
-   "nota_url": "https://www.sports247.ng/scoring-is-my-job-but-winning-is-what-matters-arokodares-message-ahead-of-tanzania-clash/",
-   "medio": "Sports247 Nigeria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "periodista nelson castro",
-   "busquedas": "100+",
-   "nota": "Tomás Dente explotó en vivo contra Nelson Castro por criticar a Milei: \"Estoy como loco\"",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/tomas-dente-exploto-vivo-nelson-castro-criticar-milei-estoy-loco-20261116135556",
+   "nota": "Alerta en Boca: un titular clave no pudo terminar la práctica a días de la final de Copa Sudamericana",
+   "nota_url": "https://www.eldestapeweb.com/deportes/alerta-boca-titular-clave-no-pudo-terminar-practica-dias-final-copa-sudamericana-20261117131126",
    "medio": "El Destape",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "mercado de divisas",
-   "busquedas": "2000+",
-   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 17 de noviembre",
-   "nota_url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-17-noviembre_0_0JJVgxlVok.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "médico",
+   "tema": "ulises bueno te quedaste sola",
    "busquedas": "100+",
-   "nota": "El relato del médico atacado por un rugbier en una pizzería de Córdoba: \"Me podría haber matado\"",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/16/el-dramatico-relato-del-medico-atacado-por-un-rugbier-en-una-pizzeria-de-cordoba-me-podria-haber-matado/",
-   "medio": "TN",
+   "nota": "ULISES BUENO lanzó un tema inédito con una letra cargada de despecho",
+   "nota_url": "https://eldoce.tv/cuarteteando/2026/11/17/ulises-bueno-lanzo-un-tema-inedito-con-una-letra-cargada-de-despecho/",
+   "medio": "eldoce",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "egipto vs",
-   "busquedas": "500+",
-   "nota": "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios",
-   "nota_url": "https://es-us.noticias.yahoo.com/deportes/cu%C3%A1l-situaci%C3%B3n-mohamed-salah-ali-120531213.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafael jódar",
+   "tema": "red link",
    "busquedas": "200+",
-   "nota": "Arthur Fils derrota a Rafa Jódar y agota las opciones del español",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/17/arthur-fils-derrota-a-rafa-jodar-y-agota-las-opciones-del-espanol/",
-   "medio": "Infobae",
+   "nota": "Una falla en la Red Link provoca problemas en el Home Banking del BLP",
+   "nota_url": "https://www.eldiariodelapampa.com.ar/la-pampa/83239/una-falla-en-la-red-link-provoca-problemas-en-el-home-banking-del-blp-",
+   "medio": "El Diario de la Pampa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gambia - costa de marfil",
+   "busquedas": "200+",
+   "nota": "Goles y resumen de Costa de Marfil 2-1 Gambia en Eliminatoria Copa Africana de Naciones",
+   "nota_url": "https://www.vavel.com/mx/futbol-internacional/2026/11/12/1278905-costa-de-marfil-vs-gambia-en-vivo-eliminatoria-copa-africana-de-naciones.html",
+   "medio": "VAVEL.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ciberataque",
+   "busquedas": "200+",
+   "nota": "Un ciberataque contra casi 200 de las webs más populares del mundo para intentar hacerse con criptomonedas",
+   "nota_url": "https://www.lavanguardia.com/vida/20261117/11686224/ciberataque-200-webs-mas-populares-mundo-intentar-hacerse-criptomonedas.html",
+   "medio": "La Vanguardia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "desastre",
+   "busquedas": "500+",
+   "nota": "Las lluvias van y vienen en Córdoba: anticipos del pronóstico extendido",
+   "nota_url": "https://www.cba24n.com.ar/cordoba/las-lluvias-van-y-vienen-en-cordoba--anticipos-del-pronostico-extendido_a6afc19b0bbdbcd9195aec44c",
+   "medio": "Cba24n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "kenia - sudáfrica",
+   "busquedas": "200+",
+   "nota": "Cómo y dónde ver Kenia vs Sudáfrica EN VIVO por beIN SPORTS",
+   "nota_url": "https://www.beinsports.com/es-us/football/africa-cup-of-nations-qualification/articles/c%C3%B3mo-y-d%C3%B3nde-ver-kenia-vs-sud%C3%A1frica-en-vivo-por-bein-sports-2026-11-16",
+   "medio": "beIN SPORTS",
    "relevante": false,
    "temas": []
   }
