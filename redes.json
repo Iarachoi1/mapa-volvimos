@@ -1,5 +1,5 @@
 {
- "actualizado": "17/11 07:51",
+ "actualizado": "17/11 08:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -81,6 +81,12 @@
    "temas": []
   },
   {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tapia",
    "url": "https://x.com/search?q=Tapia",
    "relevante": false,
@@ -99,21 +105,15 @@
    "temas": []
   },
   {
-   "tema": "#GRAMMYs",
-   "url": "https://x.com/search?q=%23GRAMMYs",
-   "relevante": false,
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Inglaterra",
    "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
    "temas": []
   },
   {
@@ -125,94 +125,92 @@
  ],
  "google": [
   {
-   "tema": "plus ultra",
-   "busquedas": "100+",
-   "nota": "La rescatada Plus Ultra ha dejado de operar todas sus rutas desde este martes a las 2:00 de la madrugada ex...",
-   "nota_url": "https://okdiario.com/economia/plus-ultra-deja-operar-todas-sus-rutas-excepto-venezuela-pago-del-rescate-queda-aire-20971458",
-   "medio": "OkDiario",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brasil",
+   "tema": "marta fort",
    "busquedas": "200+",
-   "nota": "Sem Ancelotti suspenso, auxiliar Mauri comanda o Brasil em Singapura",
-   "nota_url": "https://tvsimbrasil.com.br/brasil/esportes/noticia/2026/11/17/sem-ancelotti-suspenso-mauri-comanda-brasil-singapura",
-   "medio": "TV Sim Brasil",
+   "nota": "Maria Becerra tuvo su tercera noche de Quimera en el Movistar Arena: invitados, emoción y una puesta 360°",
+   "nota_url": "https://www.cronica.com.ar/elcanaldelamusica/shows/maria-becerra-tuvo-su-tercera-noche-de-quimera-en-el-movistar-arena-invitados-emocion-y-una-puesta-360/",
+   "medio": "Crónica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "brasil vs",
-   "busquedas": "500+",
-   "nota": "Cuándo juegan Singapur vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17505702/singapur-vs-brasil-amistoso-internacional-equipo-fecha-hora-y-tv-en-vivo",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club de fútbol",
-   "busquedas": "200+",
-   "nota": "Independiente y Tigre negocian por Santi López",
-   "nota_url": "https://www.tycsports.com/independiente/independiente-y-tigre-negocian-por-santi-lopez-id771027.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima tandil",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima moreno",
-   "busquedas": "100+",
-   "nota": "Clima en Morón hoy: cuál es el pronóstico del tiempo para el 16 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/moron/clima-en-moron-hoy-cual-es-el-pronostico-del-tiempo-para-el-16-de-noviembre-de-2026-nid15112026/",
+   "tema": "tormentas",
+   "busquedas": "1000+",
+   "nota": "Media Argentina en alerta por eventos extremos mientras crecen los ríos en el Litoral",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/lluvias-y-tormentas-media-argentina-en-alerta-por-eventos-extremos-nid16112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pronostico mar del plata",
-   "busquedas": "500+",
-   "nota": "Clima en Mar del Plata: la semana tendrá máximas veraniegas y lluvias",
-   "nota_url": "https://ahoramardelplata.com.ar/sociedad/clima-en-mar-del-plata-la-semana-tendra-maximas-veraniegas-y-lluvias",
-   "medio": "AHORA Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima posadas",
-   "busquedas": "500+",
-   "nota": "Lunes caluroso en Misiones: Posadas tendrá una máxima de 34°C y advierten por riesgo de incendios",
-   "nota_url": "https://misionescuatro.com/provinciales/lunes-caluroso-en-misiones-posadas-tendra-una-maxima-de-34c-y-advierten-por-riesgo-de-incendios/",
-   "medio": "Misiones Cuatro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el tiempo hoy",
+   "tema": "juliana awada lolo longinotti",
    "busquedas": "100+",
-   "nota": "Clima hoy en la Ciudad de Buenos Aires: el pronóstico del tiempo para este martes 17 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-buenos-aires-pronostico-tiempo-martes-17-noviembre-2026_0_AK2Q51IQvm.html",
-   "medio": "Clarín",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
+   "nota": "Quién es Lolo Longinotti, el empresario con quien vinculan a Juliana Awada",
+   "nota_url": "https://www.parati.com.ar/news/quien-es-lolo-longinotti-el-empresario-con-quien-vinculan-a-juliana-awada/",
+   "medio": "Revista Para Ti",
+   "relevante": false,
+   "temas": []
   },
   {
-   "tema": "club social y deportivo san jorge",
-   "busquedas": "1000+",
-   "nota": "Pusieron en venta el predio del Club San Jorge sobre la Ruta 9 en Tucumán",
-   "nota_url": "https://www.losprimeros.tv/deportes/pusieron-en-venta-el-predio-del-club-san-jorge-sobre-la-ruta-9-en-tucuman_a6afb339442fa9d9e6e263639",
-   "medio": "Los Primeros TV",
+   "tema": "que dijo nelson castro en peru",
+   "busquedas": "100+",
+   "nota": "Duras críticas en Perú contra Nelson Castro por sus comentarios durante la visita del Papa",
+   "nota_url": "https://lu17.com/contenido/157936/duras-criticas-en-peru-contra-nelson-castro-por-sus-comentarios-durante-la-visita-del-papa",
+   "medio": "LA17",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calingasta",
+   "busquedas": "100+",
+   "nota": "Javier Milei borró por decreto la última protección a las Pymes argentinas en el RIGI",
+   "nota_url": "https://www.infocielo.com/politica-y-economia/javier-milei-borro-por-decreto-la-ultima-proteccion-a-las-pymes-argentinas-en-el-rigi",
+   "medio": "Infocielo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "polvo",
+   "busquedas": "200+",
+   "nota": "Zonda: suspendieron las clases presenciales en dos departamentos",
+   "nota_url": "https://www.elsol.com.ar/mendoza/zonda-suspendieron-las-clases-presenciales-en-dos-departamentos/",
+   "medio": "Diario El Sol Mendoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima necochea",
+   "busquedas": "100+",
+   "nota": "Cómo estará el clima este lunes en Necochea y Quequén",
+   "nota_url": "https://diarionecochea.com/2026/11/16/como-estara-el-clima-este-lunes-en-necochea-y-quequen-161/",
+   "medio": "Diario Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "apagón mundial",
+   "busquedas": "2000+",
+   "nota": "Estados Unidos probará su sistema nacional de alertas este martes: el mensaje llegará a radios y televisores, pero no a los celulares",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/16/estados-unidos-probara-su-sistema-nacional-de-alertas-este-martes-el-mensaje-llegara-a-radios-y-televisores-pero-no-a-los-celulares/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "plus ultra",
+   "busquedas": "200+",
+   "nota": "La aerolínea española Plus Ultra suspendió su ruta a Buenos Aires",
+   "nota_url": "https://www.lanacion.com.ar/economia/la-aerolinea-espanola-plus-ultra-suspendio-su-ruta-a-buenos-aires-nid17112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brasil",
+   "busquedas": "500+",
+   "nota": "Intervalo em Singapura; Brasil vai goleando Singapura por 4 a 0",
+   "nota_url": "https://www.netvasco.com.br/n/396560/intervalo-em-singapura-brasil-vai-goleando-singapura-por-4-a-0",
+   "medio": "NETVASCO",
    "relevante": false,
    "temas": []
   }
