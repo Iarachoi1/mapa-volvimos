@@ -1,16 +1,16 @@
 {
- "actualizado": "17/11 18:40",
+ "actualizado": "17/11 19:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -39,6 +39,12 @@
    "temas": []
   },
   {
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
@@ -57,14 +63,38 @@
    "temas": []
   },
   {
+   "tema": "Lilita",
+   "url": "https://x.com/search?q=Lilita",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "JesÃºs Valenzuela",
    "url": "https://x.com/search?q=Jes%C3%83%C2%BAs%20Valenzuela",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Saturnino",
+   "url": "https://x.com/search?q=Saturnino",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Las PASO",
+   "url": "https://x.com/search?q=Las%20PASO",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Juan Acosta",
    "url": "https://x.com/search?q=Juan%20Acosta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Carrio",
+   "url": "https://x.com/search?q=Carrio",
    "relevante": false,
    "temas": []
   },
@@ -81,38 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Toti",
-   "url": "https://x.com/search?q=Toti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Las PASO",
-   "url": "https://x.com/search?q=Las%20PASO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lilita",
-   "url": "https://x.com/search?q=Lilita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#TheGameAwards",
-   "url": "https://x.com/search?q=%23TheGameAwards",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Matanza",
-   "url": "https://x.com/search?q=La%20Matanza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "CarriÃ³",
-   "url": "https://x.com/search?q=Carri%C3%83%C2%B3",
+   "tema": "El PRO",
+   "url": "https://x.com/search?q=El%20PRO",
    "relevante": false,
    "temas": []
   },
@@ -125,26 +125,44 @@
  ],
  "google": [
   {
-   "tema": "marruecos vs",
-   "busquedas": "100+",
-   "nota": "Eliminatorias de la CAN 2027: los Leones del Atlas están a un paso de la clasificación",
-   "nota_url": "https://es.le360.ma/deportes/eliminatorias-de-la-can-2027-los-leones-del-atlas-estan-a-un-paso-de-la-clasificacion_VYFHIJS3ONBTXNLXGM6A63SHAU/",
-   "medio": "Le360",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "plus ultra líneas aéreas",
+   "tema": "chile - colombia",
    "busquedas": "1000+",
-   "nota": "La aerolínea española Plus Ultra suspendió su ruta a Buenos Aires",
-   "nota_url": "https://www.lanacion.com.ar/economia/la-aerolinea-espanola-plus-ultra-suspendio-su-ruta-a-buenos-aires-nid17112026/",
-   "medio": "La Nación",
+   "nota": "Alineaciones Colombia vs. Chile HOY por el partido amistoso de la fecha FIFA",
+   "nota_url": "https://bolavip.com/futbol-colombia/alineaciones-colombia-vs-chile-hoy-por-el-partido-amistoso-de-la-fecha-fifa",
+   "medio": "Bolavip",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "a que hora juega argentina",
-   "busquedas": "2000+",
+   "tema": "olimpo",
+   "busquedas": "100+",
+   "nota": "El insólito penal que le cobraron en contra a Olimpo en Mar del Plata",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/12/el-insolito-penal-que-le-cobraron-en-contra-a-olimpo-en-mar-del-plata-n530496/",
+   "medio": "La Brújula 24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "saturnino",
+   "busquedas": "100+",
+   "nota": "A un mes de su nacimiento, «Saturnino» comenzó una nueva etapa",
+   "nota_url": "https://puntonoticias.com/a-un-mes-de-su-nacimiento-saturnino-comenzo-una-nueva-etapa/",
+   "medio": "Punto Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de selección de fútbol de liberia contra selección de fútbol de cabo verde",
+   "busquedas": "500+",
+   "nota": "Lone Star Suffer 4-2 Defeat to Cabo Verde",
+   "nota_url": "https://www.liberianobserver.com/sports/lone-star-suffer-4-2-defeat-to-cabo-verde/article_af32e7a4-7bb1-4d4b-a4c2-4792a434b323.html",
+   "medio": "liberianobserver.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "argentina - costa rica",
+   "busquedas": "50000+",
    "nota": "La Selección llegó a Córdoba y renovó el vínculo con la gente",
    "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17526471/argentina-costa-rica-la-seleccion-llego-a-cordoba-y-renovo-el-vinculo-con-la-gente",
    "medio": "ESPN Argentina",
@@ -152,65 +170,47 @@
    "temas": []
   },
   {
-   "tema": "fórmula",
-   "busquedas": "100+",
-   "nota": "Vuelve la Fórmula 1: el cronograma y horarios para Colapinto en el GP de Las Vegas",
-   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-17-10-55-0-vuelve-la-formula-1-el-cronograma-y-horarios-para-colapinto-en-el-gp-de-las-vegas",
-   "medio": "La Nueva Provincia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fifa",
-   "busquedas": "100+",
-   "nota": "A qué club del fútbol argentino inhibió la FIFA de Gianni Infantino, por qué motivo y hasta cuándo",
-   "nota_url": "https://www.eldestapeweb.com/deportes/club-futbol-argentino-inhibio-fifa-gianni-infantino-motivo-cuando-20261117125151",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "portugal",
-   "busquedas": "500+",
-   "nota": "Seleção portuguesa de sub-21 vence Noruega em particular",
-   "nota_url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-portuguesa-de-sub-21-vence-noruega-em-particular_d1779841",
-   "medio": "RTP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "granadero baigorria",
+   "tema": "erling haaland",
    "busquedas": "200+",
-   "nota": "Una casa en Granadero Baigorria perdió su techo en el medio del temporal: \"Se llevó muchos años de esfuerzo\"",
-   "nota_url": "https://www.lacapital.com.ar/la-region/una-casa-granadero-baigorria-perdio-su-techo-el-medio-del-temporal-se-llevo-muchos-anos-esfuerzo-n10292717.html",
-   "medio": "La Capital",
+   "nota": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
+   "nota_url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9IWVQ",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "diario los andes",
-   "busquedas": "2000+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "tema": "carlos forbs",
+   "busquedas": "200+",
+   "nota": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
+   "nota_url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sindicato",
-   "busquedas": "1000+",
-   "nota": "Trabajadores de SanCor convocaron a una marcha pacífica para lograr la resolución de la quiebra de la marca",
-   "nota_url": "https://www.minutouno.com/sociedad/trabajadores-sancor-convocaron-una-marcha-pacifica-lograr-la-resolucion-la-quiebra-la-marca-n6346303",
-   "medio": "MinutoUno",
-   "relevante": true,
+   "tema": "nvda stock",
+   "busquedas": "100+",
+   "nota": "Nvidia Earnings Live: Earnings Call Begins After Chipmaker Reports Record Sales",
+   "nota_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026",
+   "medio": "WSJ",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "portugal fc",
-   "busquedas": "500+",
-   "nota": "FC Porto dá os parabéns a Conceição: «Uma história de conquistas»",
-   "nota_url": "https://cnnportugal.iol.pt/fc-porto/liga/fc-porto-deu-os-parabens-a-conceicao-uma-historia-de-conquistas",
-   "medio": "CNN Portugal",
+   "tema": "hungria vs",
+   "busquedas": "100+",
+   "nota": "Hungría vs. Irlanda del Norte: horario y dónde ver en vivo y online en Argentina, por la fecha 6 de la Liga...",
+   "nota_url": "https://bolavip.com/ar/futbol-internacional/hungria-vs-irlanda-del-norte-horario-y-donde-ver-en-vivo-y-online-en-argentina-por-la-fecha-6-de-la-liga-de-naciones",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corrupción",
+   "busquedas": "100+",
+   "nota": "Detienen a excónsul hondureña en EEUU y a sus hijos por presunta corrupción",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/detienen-a-exconsul-hondurena-en-eeuu-y-a-sus-hijos-por-presunta-corrupcion-nid16112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
