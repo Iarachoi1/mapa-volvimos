@@ -1,5 +1,5 @@
 {
- "actualizado": "17/11 11:04",
+ "actualizado": "17/11 12:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,50 +21,8 @@
    "temas": []
   },
   {
-   "tema": "#I_N_No_Return",
-   "url": "https://x.com/search?q=%23I_N_No_Return",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "I.N NO RETURN OUT NOW",
-   "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Ferro",
    "url": "https://x.com/search?q=Ferro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ALaBarbarossa",
-   "url": "https://x.com/search?q=%23ALaBarbarossa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$10.000 OFF",
-   "url": "https://x.com/search?q=%2410.000%20OFF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DosMesesDeSolGanadora",
-   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Feliz DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=Feliz%20D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +33,38 @@
    "temas": []
   },
   {
+   "tema": "#I_N_No_Return",
+   "url": "https://x.com/search?q=%23I_N_No_Return",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DosMesesDeSolGanadora",
+   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "I.N NO RETURN OUT NOW",
+   "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#ChinaYoTeBanco",
    "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Bogum",
-   "url": "https://x.com/search?q=Bogum",
+   "tema": "Manzano",
+   "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Manzano",
-   "url": "https://x.com/search?q=Manzano",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Nelson Castro",
+   "url": "https://x.com/search?q=Nelson%20Castro",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "egipto vs",
+   "tema": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+   "busquedas": "500+",
+   "nota": "Mohamed Salah becomes Egypt's all-time record goalscorer",
+   "nota_url": "https://www.liverpoolfc.com/news/mohamed-salah-becomes-egypt-all-time-record-goalscorer",
+   "medio": "Liverpool FC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nadia podoroska",
    "busquedas": "200+",
-   "nota": "Egipto vs Malawi EN VIVO: resultado del partido y minuto a minuto",
-   "nota_url": "https://www.365scores.com/es/news/egipto-vs-malawi-en-directo/",
-   "medio": "365Scores",
+   "nota": "November 16, 2026: Colson Wells vs Hunter Heck Tennis Prediction Market",
+   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/25cb742e-cdc9-4bd0-8fea-e61d4b5d07c4/",
+   "medio": "Robinhood",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "japon",
+   "busquedas": "100+",
+   "nota": "Japon : Après une nouvelle attaque d’ours, une ville ferme toutes ses écoles",
+   "nota_url": "https://fr.news.yahoo.com/japon-apr%C3%A8s-nouvelle-attaque-d-110208809.html",
+   "medio": "Yahoo Actualités",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "moratoria",
+   "busquedas": "200+",
+   "nota": "Aguinaldo para jubilados ANSES: de cuánto sería el SAC con el último aumento del año",
+   "nota_url": "https://www.cronista.com/informacion-gral/aguinaldo-para-jubilados-anses-de-cuanto-seria-el-sac-con-el-ultimo-aumento-del-ano/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nigeria vs",
+   "busquedas": "100+",
+   "nota": "“Scoring Is My Job, But Winning Is What Matters” – Arokodare’s Message Ahead of Tanzania Clash",
+   "nota_url": "https://www.sports247.ng/scoring-is-my-job-but-winning-is-what-matters-arokodares-message-ahead-of-tanzania-clash/",
+   "medio": "Sports247 Nigeria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "periodista nelson castro",
+   "busquedas": "100+",
+   "nota": "Tomás Dente explotó en vivo contra Nelson Castro por criticar a Milei: \"Estoy como loco\"",
+   "nota_url": "https://www.eldestapeweb.com/espectaculos/tomas-dente-exploto-vivo-nelson-castro-criticar-milei-estoy-loco-20261116135556",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "mercado de divisas",
+   "busquedas": "2000+",
+   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 17 de noviembre",
+   "nota_url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-17-noviembre_0_0JJVgxlVok.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "médico",
+   "busquedas": "100+",
+   "nota": "El relato del médico atacado por un rugbier en una pizzería de Córdoba: \"Me podría haber matado\"",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/16/el-dramatico-relato-del-medico-atacado-por-un-rugbier-en-una-pizzeria-de-cordoba-me-podria-haber-matado/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "egipto vs",
+   "busquedas": "500+",
+   "nota": "¿Cuál es la situación de Mohamed Salah? Ali Maher sorprende a Malaui con dos cambios",
+   "nota_url": "https://es-us.noticias.yahoo.com/deportes/cu%C3%A1l-situaci%C3%B3n-mohamed-salah-ali-120531213.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "rafael jódar",
    "busquedas": "200+",
-   "nota": "Arthur Fils - Rafa Jódar en directo | Última hora de las ATP Finals, en vivo",
-   "nota_url": "https://www.marca.com/tenis/copa-masters/arthur-fils-rafa-jodar/2026/11/17/04_0414_20261117_5-directo.html",
-   "medio": "MARCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paraguay vs",
-   "busquedas": "1000+",
-   "nota": "Paraguay necesitó 65 segundos para abrir la cuenta ante Japón",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/paraguay-necesito-65-segundos-para-abrir-la-cuenta-ante-japon/",
-   "medio": "Vermouth Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alerta tormentas",
-   "busquedas": "1000+",
-   "nota": "Granizo, calles inundadas y destrozos: el temporal afectó a varias provincias y rige una alerta naranja",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/16/temporal-en-cordoba-cayo-granizo-y-rige-una-alerta-naranja-por-tormentas-para-esta-noche-en-5-provincias/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ileon",
-   "busquedas": "200+",
-   "nota": "¿Lloverá hoy en León? La previsión de la Aemet para la capital, El Bierzo y la provincia",
-   "nota_url": "https://www.diariodeleon.es/leon/261116/2103328/llovera-hoy-leon-prevision-aemet-capital-bierzo-provincia.html",
-   "medio": "Diario de León",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diario el eco de tandil",
-   "busquedas": "500+",
-   "nota": "Estreno del cortometraje \"1872\"",
-   "nota_url": "https://www.eleco.com.ar/eventos/estreno-del-cortometraje-1872",
-   "medio": "El Eco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "17 de noviembre que se celebra",
-   "busquedas": "200+",
-   "nota": "Teatro: “Piel de Mármol”, en el “cumple” de Lola Mora",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162841/espectaculos/teatro-piel-marmol-cumple-lola-mora.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dia de la militancia peronista",
-   "busquedas": "200+",
-   "nota": "Día de la Militancia: la historia de Alberto Pierri, el creador de la fecha que celebra el peronismo",
-   "nota_url": "https://www.perfil.com/politica/dia-de-la-militancia-la-historia-de-alberto-pierri-el-creador-de-la-fecha-que-celebra-el-peronismo-aYpwX4V8sjQP",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "singapore vs brazil",
-   "busquedas": "200+",
-   "nota": "Brazil thrash Singapore as Vinicius Júnior steals the show",
-   "nota_url": "https://onefootball.com/en/news/brazil-thrash-singapore-as-vinicius-junior-steals-the-show-43790024",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marta fort",
-   "busquedas": "500+",
-   "nota": "La mendocina que llegó al escenario de María Becerra y sorprendió en el Movistar Arena",
-   "nota_url": "https://www.mdzol.com/estilo/2026/11/17/la-mendocina-que-llego-al-escenario-de-maria-becerra-y-sorprendio-en-el-movistar-arena-1995833.html",
-   "medio": "MDZ Online",
+   "nota": "Arthur Fils derrota a Rafa Jódar y agota las opciones del español",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/17/arthur-fils-derrota-a-rafa-jodar-y-agota-las-opciones-del-espanol/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
