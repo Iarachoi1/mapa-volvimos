@@ -1,16 +1,16 @@
 {
- "actualizado": "16/11 23:49",
+ "actualizado": "17/11 00:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#DosMesesDeSolGanadora",
-   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "tema": "#DosMesesDeSolGanadora",
+   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +69,14 @@
    "temas": []
   },
   {
-   "tema": "hayley",
-   "url": "https://x.com/search?q=hayley",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Manzano",
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
+   "tema": "hayley",
+   "url": "https://x.com/search?q=hayley",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +87,26 @@
    "temas": []
   },
   {
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
+   "tema": "#OtroDiaPerdido",
+   "url": "https://x.com/search?q=%23OtroDiaPerdido",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LuzuVs412",
-   "url": "https://x.com/search?q=%23LuzuVs412",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   },
@@ -117,13 +117,31 @@
    "temas": []
   },
   {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
+   "tema": "CrepÃºsculo",
+   "url": "https://x.com/search?q=Crep%C3%83%C2%BAsculo",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "racing de santander",
+   "busquedas": "200+",
+   "nota": "Apuestas Racing vs Real Sociedad: previa y cuotas",
+   "nota_url": "https://www.bwin.es/es/sports/news/apuestas-racing-vs-real-sociedad/",
+   "medio": "Bwin",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rosario3",
+   "busquedas": "500+",
+   "nota": "Un camión chocó y se incrustó contra una vivienda zona norte: les destrozó la fachada",
+   "nota_url": "https://www.conclusion.com.ar/la-ciudad/un-camion-choco-y-se-incrusto-contra-una-vivienda-zona-norte/11/2026/",
+   "medio": "Diario Digital Conclusión",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "nicolás tagliafico",
    "busquedas": "200+",
@@ -136,24 +154,15 @@
   {
    "tema": "clima rosario",
    "busquedas": "1000+",
-   "nota": "El clima en Rosario: comienzo de semana caluroso, con probabilidad de tormentas",
-   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-comienzo-de-semana-caluroso-con-probabilidad-de-tormentas-20261116-0001.html",
-   "medio": "Rosario3",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nicolas occhiato",
-   "busquedas": "200+",
-   "nota": "Nico Occhiato se burló de 412 tras la remontada de LUZU: \"Se cagaron\"",
-   "nota_url": "https://www.tycsports.com/gaming/nico-occhiato-se-burlo-de-412-tras-la-remontada-de-luzu-se-cagaron-id771727.html",
-   "medio": "TyC Sports",
+   "nota": "Clima hoy en Rosario, Santa Fe: el pronóstico del tiempo para este lunes 16 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-rosario-santa-fe-pronostico-tiempo-lunes-16-noviembre-2026_0_xhWcoRRGLB.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nico occhiato",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Mario Pergolini destacó el modelo de streaming de Luzu TV",
    "nota_url": "https://diarioelnorte.com.ar/mario-pergolini-destaco-el-modelo-de-streaming-de-luzu-tv/",
    "medio": "Diario El Norte - San Nicolás",
@@ -163,15 +172,33 @@
   {
    "tema": "nuggets - suns",
    "busquedas": "200+",
-   "nota": "Suns' Ryan Dunn: Iffy to face Denver",
-   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/suns-ryan-dunn-iffy-to-face-denver/",
-   "medio": "CBS Sports",
+   "nota": "Suns Nuggets Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/suns-nuggets-basketball/image_afe3bf8a-08ce-52e4-a8cd-cc0d2f38beca.html",
+   "medio": "Corsicana Daily Sun",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo en rosario",
+   "busquedas": "200+",
+   "nota": "Clima en Concordia hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-17-de-noviembre-de-2026-nid16112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los juegos del hambre",
+   "busquedas": "500+",
+   "nota": "Jennifer Lawrence Revisits Her ‘Hunger Games’ Roots in Dior",
+   "nota_url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lawrence-revisits-her-hunger-021958625.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "daniel ricciardo",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "“Me estaban dando una paliza” – Cómo Ricciardo se agotó en su regreso ‘humillante’ a la F1",
    "nota_url": "https://lat.motorsport.com/f1/news/como-ricciardo-se-agoto-en-su-regreso-humillante-a-la-f1/10874480/",
    "medio": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
@@ -179,39 +206,12 @@
    "temas": []
   },
   {
-   "tema": "los juegos del hambre",
-   "busquedas": "200+",
-   "nota": "‘Hunger Games’ Author Explains Why Haymitch Didn’t Tell Katniss and Peeta About His Rebellion",
-   "nota_url": "https://gizmodo.com/hunger-games-author-explains-why-haymitch-didnt-tell-katniss-and-peeta-about-his-rebellion-2000839943",
-   "medio": "Gizmodo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "guillermo michel",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "Cristina Kirchner designa a un peronista federal cercano a Massa para el Consejo de la Magistratura",
    "nota_url": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/",
    "medio": "La Nación",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - trail blazers",
-   "busquedas": "100+",
-   "nota": "[!Buffstreams!] Where To Watch Trail Blazers vs Timberwolves Live Free NBA Game in US UK AU 16 November 2026",
-   "nota_url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-buffstreams-where-to-watch-trail-blazers-vs-0sgta",
-   "medio": "UB - Universitat de Barcelona",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "josé santiso",
-   "busquedas": "200+",
-   "nota": "Fallecimiento del director y docente José Santiso (1945-2026)",
-   "nota_url": "https://gpsaudiovisual.com/2026/11/15/fallecimiento-del-director-y-docente-jose-santiso-1945-2026/",
-   "medio": "GPS Audiovisual",
-   "relevante": false,
    "temas": []
   }
  ],
