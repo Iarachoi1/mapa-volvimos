@@ -1,10 +1,22 @@
 {
- "actualizado": "17/11 17:41",
+ "actualizado": "17/11 18:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Toty",
    "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnTodoLoContrario",
+   "url": "https://x.com/search?q=%23SolEnTodoLoContrario",
    "relevante": false,
    "temas": []
   },
@@ -15,68 +27,14 @@
    "temas": []
   },
   {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "GOTY",
    "url": "https://x.com/search?q=GOTY",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#I_N_NO_RETURN",
-   "url": "https://x.com/search?q=%23I_N_NO_RETURN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "I.N NO RETURN OUT NOW",
-   "url": "https://x.com/search?q=I.N%20NO%20RETURN%20OUT%20NOW",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "tema": "Brito",
+   "url": "https://x.com/search?q=Brito",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +45,8 @@
    "temas": []
   },
   {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "tema": "AnÃ­bal Moreno",
+   "url": "https://x.com/search?q=An%C3%83%C2%ADbal%20Moreno",
    "relevante": false,
    "temas": []
   },
@@ -105,14 +57,44 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "JesÃºs Valenzuela",
+   "url": "https://x.com/search?q=Jes%C3%83%C2%BAs%20Valenzuela",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nelson Castro",
-   "url": "https://x.com/search?q=Nelson%20Castro",
+   "tema": "Juan Acosta",
+   "url": "https://x.com/search?q=Juan%20Acosta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Christian Ferrer",
+   "url": "https://x.com/search?q=Christian%20Ferrer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lacunza",
+   "url": "https://x.com/search?q=Lacunza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Toti",
+   "url": "https://x.com/search?q=Toti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Las PASO",
+   "url": "https://x.com/search?q=Las%20PASO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lilita",
+   "url": "https://x.com/search?q=Lilita",
    "relevante": false,
    "temas": []
   },
@@ -121,21 +103,84 @@
    "url": "https://x.com/search?q=%23TheGameAwards",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "La Matanza",
+   "url": "https://x.com/search?q=La%20Matanza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "CarriÃ³",
+   "url": "https://x.com/search?q=Carri%C3%83%C2%B3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Resident Evil",
+   "url": "https://x.com/search?q=Resident%20Evil",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "marruecos vs",
+   "busquedas": "100+",
+   "nota": "Eliminatorias de la CAN 2027: los Leones del Atlas están a un paso de la clasificación",
+   "nota_url": "https://es.le360.ma/deportes/eliminatorias-de-la-can-2027-los-leones-del-atlas-estan-a-un-paso-de-la-clasificacion_VYFHIJS3ONBTXNLXGM6A63SHAU/",
+   "medio": "Le360",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "plus ultra líneas aéreas",
+   "busquedas": "1000+",
+   "nota": "La aerolínea española Plus Ultra suspendió su ruta a Buenos Aires",
+   "nota_url": "https://www.lanacion.com.ar/economia/la-aerolinea-espanola-plus-ultra-suspendio-su-ruta-a-buenos-aires-nid17112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "a que hora juega argentina",
+   "busquedas": "2000+",
+   "nota": "La Selección llegó a Córdoba y renovó el vínculo con la gente",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17526471/argentina-costa-rica-la-seleccion-llego-a-cordoba-y-renovo-el-vinculo-con-la-gente",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fórmula",
+   "busquedas": "100+",
+   "nota": "Vuelve la Fórmula 1: el cronograma y horarios para Colapinto en el GP de Las Vegas",
+   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-17-10-55-0-vuelve-la-formula-1-el-cronograma-y-horarios-para-colapinto-en-el-gp-de-las-vegas",
+   "medio": "La Nueva Provincia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fifa",
+   "busquedas": "100+",
+   "nota": "A qué club del fútbol argentino inhibió la FIFA de Gianni Infantino, por qué motivo y hasta cuándo",
+   "nota_url": "https://www.eldestapeweb.com/deportes/club-futbol-argentino-inhibio-fifa-gianni-infantino-motivo-cuando-20261117125151",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "portugal",
-   "busquedas": "200+",
-   "nota": "Gabriel Brás: «Adversários do nível que vamos encontrar no Europeu»",
-   "nota_url": "https://www.record.pt/futebol/selecoes/sub21/amp/gabriel-bras-adversarios-do-nivel-que-vamos-encontrar-no-europeu",
-   "medio": "Record",
+   "busquedas": "500+",
+   "nota": "Seleção portuguesa de sub-21 vence Noruega em particular",
+   "nota_url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-portuguesa-de-sub-21-vence-noruega-em-particular_d1779841",
+   "medio": "RTP",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "granadero baigorria",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Una casa en Granadero Baigorria perdió su techo en el medio del temporal: \"Se llevó muchos años de esfuerzo\"",
    "nota_url": "https://www.lacapital.com.ar/la-region/una-casa-granadero-baigorria-perdio-su-techo-el-medio-del-temporal-se-llevo-muchos-anos-esfuerzo-n10292717.html",
    "medio": "La Capital",
@@ -144,7 +189,7 @@
   },
   {
    "tema": "diario los andes",
-   "busquedas": "500+",
+   "busquedas": "2000+",
    "nota": "",
    "nota_url": "",
    "medio": "",
@@ -152,17 +197,8 @@
    "temas": []
   },
   {
-   "tema": "portugal fc",
-   "busquedas": "200+",
-   "nota": "Gabriel Mec em treino condicionado e nove caras novas no treino do FC Porto",
-   "nota_url": "https://www.flashscore.pt/noticias/gabriel-mec-em-treino-condicionado-e-nove-caras-novas-no-treino-do-fc-porto/QgEq9r6D/",
-   "medio": "Flashscore.pt",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "sindicato",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "Trabajadores de SanCor convocaron a una marcha pacífica para lograr la resolución de la quiebra de la marca",
    "nota_url": "https://www.minutouno.com/sociedad/trabajadores-sancor-convocaron-una-marcha-pacifica-lograr-la-resolucion-la-quiebra-la-marca-n6346303",
    "medio": "MinutoUno",
@@ -170,47 +206,11 @@
    "temas": []
   },
   {
-   "tema": "selección de fútbol de paraguay",
-   "busquedas": "5000+",
-   "nota": "El laboratorio del “Profe” Alfaro: el gol de jugada preparada antes del minuto contra Japón y la acción calcada para el segundo",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/17/el-laboratorio-del-profe-alfaro-el-gol-de-jugada-preparada-antes-del-minuto-contra-japon-y-la-accion-calcada-para-el-segundo/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cabo verde vs",
-   "busquedas": "100+",
-   "nota": "Lone Star Suffer 4-2 Defeat to Cabo Verde",
-   "nota_url": "https://www.liberianobserver.com/sports/lone-star-suffer-4-2-defeat-to-cabo-verde/article_af32e7a4-7bb1-4d4b-a4c2-4792a434b323.html",
-   "medio": "liberianobserver.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "línea mitre",
-   "busquedas": "100+",
-   "nota": "Línea Mitre: avanzan las obras de renovación de vías durante el fin de semana largo",
-   "nota_url": "https://www.argentina.gob.ar/noticias/linea-mitre-avanzan-las-obras-de-renovacion-de-vias-durante-el-fin-de-semana-largo",
-   "medio": "Argentina.gob.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "portugal vs",
+   "tema": "portugal fc",
    "busquedas": "500+",
-   "nota": "Fresh Injury Updates Provided on Real Madrid Midfield Partners",
-   "nota_url": "https://roundtable.io/sports/soccer/la-liga/real-madrid/news/fresh-injury-updates-provided-on-real-madrid-midfield-partners",
-   "medio": "roundtable.io",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "seguridad",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "FC Porto dá os parabéns a Conceição: «Uma história de conquistas»",
+   "nota_url": "https://cnnportugal.iol.pt/fc-porto/liga/fc-porto-deu-os-parabens-a-conceicao-uma-historia-de-conquistas",
+   "medio": "CNN Portugal",
    "relevante": false,
    "temas": []
   }
