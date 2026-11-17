@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11 23:00",
+ "actualizado": "16/11 23:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +33,26 @@
    "temas": []
   },
   {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rebord",
    "url": "https://x.com/search?q=Rebord",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
+   "tema": "#ChinaYoTeBanco",
+   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ChinaYoTeBanco",
-   "url": "https://x.com/search?q=%23ChinaYoTeBanco",
+   "tema": "Godoy Cruz",
+   "url": "https://x.com/search?q=Godoy%20Cruz",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "#LUZUVS412",
-   "url": "https://x.com/search?q=%23LUZUVS412",
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +99,14 @@
    "temas": []
   },
   {
-   "tema": "#GRAMMYs",
-   "url": "https://x.com/search?q=%23GRAMMYs",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "tema": "#LuzuVs412",
+   "url": "https://x.com/search?q=%23LuzuVs412",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +117,79 @@
    "temas": []
   },
   {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mckenna",
-   "url": "https://x.com/search?q=mckenna",
+   "tema": "Edith",
+   "url": "https://x.com/search?q=Edith",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "guillermo michel",
+   "tema": "nicolás tagliafico",
+   "busquedas": "200+",
+   "nota": "No solo Dybala y De Paul: el otro volante de jerarquía que Boca tiene en el radar por si quiere venir a Argentina",
+   "nota_url": "https://planetabj.com/noticias/no-solo-dybala-y-de-paul-boca-tambien-tiene-en-el-radar-a-giovani-lo-celso-avs1p6N0Rll8/",
+   "medio": "Planeta Boca Juniors",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima rosario",
+   "busquedas": "1000+",
+   "nota": "El clima en Rosario: comienzo de semana caluroso, con probabilidad de tormentas",
+   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-comienzo-de-semana-caluroso-con-probabilidad-de-tormentas-20261116-0001.html",
+   "medio": "Rosario3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nicolas occhiato",
+   "busquedas": "200+",
+   "nota": "Nico Occhiato se burló de 412 tras la remontada de LUZU: \"Se cagaron\"",
+   "nota_url": "https://www.tycsports.com/gaming/nico-occhiato-se-burlo-de-412-tras-la-remontada-de-luzu-se-cagaron-id771727.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nico occhiato",
+   "busquedas": "500+",
+   "nota": "Mario Pergolini destacó el modelo de streaming de Luzu TV",
+   "nota_url": "https://diarioelnorte.com.ar/mario-pergolini-destaco-el-modelo-de-streaming-de-luzu-tv/",
+   "medio": "Diario El Norte - San Nicolás",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nuggets - suns",
+   "busquedas": "200+",
+   "nota": "Suns' Ryan Dunn: Iffy to face Denver",
+   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/suns-ryan-dunn-iffy-to-face-denver/",
+   "medio": "CBS Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "daniel ricciardo",
    "busquedas": "100+",
+   "nota": "“Me estaban dando una paliza” – Cómo Ricciardo se agotó en su regreso ‘humillante’ a la F1",
+   "nota_url": "https://lat.motorsport.com/f1/news/como-ricciardo-se-agoto-en-su-regreso-humillante-a-la-f1/10874480/",
+   "medio": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los juegos del hambre",
+   "busquedas": "200+",
+   "nota": "‘Hunger Games’ Author Explains Why Haymitch Didn’t Tell Katniss and Peeta About His Rebellion",
+   "nota_url": "https://gizmodo.com/hunger-games-author-explains-why-haymitch-didnt-tell-katniss-and-peeta-about-his-rebellion-2000839943",
+   "medio": "Gizmodo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guillermo michel",
+   "busquedas": "200+",
    "nota": "Cristina Kirchner designa a un peronista federal cercano a Massa para el Consejo de la Magistratura",
    "nota_url": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/",
    "medio": "La Nación",
@@ -144,75 +207,10 @@
   },
   {
    "tema": "josé santiso",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Fallecimiento del director y docente José Santiso (1945-2026)",
    "nota_url": "https://gpsaudiovisual.com/2026/11/15/fallecimiento-del-director-y-docente-jose-santiso-1945-2026/",
    "medio": "GPS Audiovisual",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "moria casán",
-   "busquedas": "200+",
-   "nota": "Moria Casán fue homenajeada en la Legislatura porteña y celebró rodeada de famosos: las fotos",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/16/moria-casan-fue-homenajeada-en-la-legislatura-portena-y-celebro-rodeada-de-famosos-las-fotos/",
-   "medio": "Ciudad Magazine",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
-  },
-  {
-   "tema": "zonda",
-   "busquedas": "100+",
-   "nota": "“Me salvé por un centímetro”: un árbol cayó sobre su auto en Mendoza y sobrevivió de milagro",
-   "nota_url": "https://www.elnueve.com/mendoza/me-salve-por-un-centimetro-un-arbol-cayo-sobre-su-auto-en-mendoza-y-sobrevivio-de-milagro_20261116/",
-   "medio": "Canal 9 Televida",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "otro dia perdido",
-   "busquedas": "100+",
-   "nota": "Mario Pergolini habló del trauma que le dejó una feroz pelea entre sus padres: “Por esto nunca acepto tomar un café”",
-   "nota_url": "https://www.eltrecetv.com.ar/otro-dia-perdido/2026/11/16/mario-pergolini-hablo-del-trauma-que-le-dejo-una-feroz-pelea-entre-sus-padres-por-esto-nunca-acepto-tomar-un-cafe/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canada vs",
-   "busquedas": "200+",
-   "nota": "What Quebec passengers are owed after flight cancellations tied to U.S. ground stop",
-   "nota_url": "https://www.ctvnews.ca/montreal/article/what-quebec-passengers-are-owed-after-flight-cancellations-tied-to-us-ground-stop/",
-   "medio": "CTV News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima parana",
-   "busquedas": "500+",
-   "nota": "Desmejora el tiempo y a partir del martes, llegarían lluvias y tormentas",
-   "nota_url": "https://www.maximaonline.com.ar/guale/desmejora-el-tiempo-y-a-partir-del-martes-llegarian-lluvias-y-tormentas.htm",
-   "medio": "Máxima Online",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vix index",
-   "busquedas": "200+",
-   "nota": "Fear in the market",
-   "nota_url": "https://www.moomoo.com/community/feed/fear-in-the-market-117579632607238",
-   "medio": "Moomoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "uepc",
-   "busquedas": "100+",
-   "nota": "Paritarias docentes: UEPC avanza con una propuesta de cargos de 28 horas para maestros",
-   "nota_url": "https://www.perfil.com/cordoba/paritarias-docentes-uepc-avanza-con-una-propuesta-de-cargos-de-28-horas-para-maestros-a7IFO1N7TRbi",
-   "medio": "Perfil",
    "relevante": false,
    "temas": []
   }
