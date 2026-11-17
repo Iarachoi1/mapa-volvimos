@@ -1,7 +1,13 @@
 {
- "actualizado": "16/11 21:40",
+ "actualizado": "16/11 23:00",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "#DosMesesDeSolGanadora",
+   "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "James Bond",
    "url": "https://x.com/search?q=James%20Bond",
@@ -21,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Olivia",
-   "url": "https://x.com/search?q=Olivia",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Manzano",
    "url": "https://x.com/search?q=Manzano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#GRAMMYs",
-   "url": "https://x.com/search?q=%23GRAMMYs",
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "#LasExcusasNoSeTelevisan",
-   "url": "https://x.com/search?q=%23LasExcusasNoSeTelevisan",
+   "tema": "#GRAMMYs",
+   "url": "https://x.com/search?q=%23GRAMMYs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +111,108 @@
    "temas": []
   },
   {
-   "tema": "United Airlines",
-   "url": "https://x.com/search?q=United%20Airlines",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Daniel Craig",
    "url": "https://x.com/search?q=Daniel%20Craig",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mckenna",
+   "url": "https://x.com/search?q=mckenna",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "planetario universidad nacional de la plata",
-   "busquedas": "200+",
-   "nota": "Investigan la muerte de un astrónomo platense",
-   "nota_url": "https://www.eleco.com.ar/nacionales/investigan-la-muerte-de-un-astronomo-platense",
-   "medio": "El Eco",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "pelicans - warriors",
-   "busquedas": "200+",
-   "nota": "Warriors Injuries: Curry, Butler, Porzingis and Moody All Out",
-   "nota_url": "https://www.squawka.com/ca/news/nba/warriors-injuries-curry-butler-porzingis-moody/",
-   "medio": "Squawka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bancos en estados unidos",
+   "tema": "guillermo michel",
    "busquedas": "100+",
-   "nota": "JPMorgan Chase atribuye los fallos a un \"error de software\" y descarta un ciberataque",
-   "nota_url": "https://www.clarin.com/estados-unidos/jpmorgan-chase-atribuye-los-fallos-a-un-error-de-software-y-descarta-un-ciberataque_0_sdrI6LcY4M.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "unión tranviarios automotor",
-   "busquedas": "200+",
-   "nota": "Tras un pedido de Fiscalía de Estado, un juez le advierte a UTA que aumentará la multa a $5 millones diarios por cada paro que haga",
-   "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/13/117170-tras-un-pedido-de-fiscalia-de-estado-un-juez-le-advierte-a-uta-que-aumentara-la-multa-a-5-millones-diarios-por-cada-paro-que-haga",
-   "medio": "0264Noticias",
+   "nota": "Cristina Kirchner designa a un peronista federal cercano a Massa para el Consejo de la Magistratura",
+   "nota_url": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "cavaliers - bulls",
-   "busquedas": "200+",
-   "nota": "Can Bulls Make It THREE STRAIGHT?! Bulls vs Cavs LIVE Watch Party | Keep It Rolling!",
-   "nota_url": "https://bvmsports.com/2026/11/16/can-bulls-make-it-three-straight-bulls-vs-cavs-live-watch-party-keep-it-rolling/",
-   "medio": "BVM Sports",
+   "tema": "timberwolves - trail blazers",
+   "busquedas": "100+",
+   "nota": "[!Buffstreams!] Where To Watch Trail Blazers vs Timberwolves Live Free NBA Game in US UK AU 16 November 2026",
+   "nota_url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=video-buffstreams-where-to-watch-trail-blazers-vs-0sgta",
+   "medio": "UB - Universitat de Barcelona",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "entrenador",
-   "busquedas": "200+",
-   "nota": "Salvaje ataque en una pizzería en Córdoba: la fiscalía agravó la acusación contra el profesor de rugby que golpeó a un médico",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/16/salvaje-ataque-en-una-pizzeria-en-cordoba-la-fiscalia-agravo-la-acusacion-contra-el-profesor-de-rugby-que-golpeo-a-un-medico/",
-   "medio": "TN",
+   "tema": "josé santiso",
+   "busquedas": "100+",
+   "nota": "Fallecimiento del director y docente José Santiso (1945-2026)",
+   "nota_url": "https://gpsaudiovisual.com/2026/11/15/fallecimiento-del-director-y-docente-jose-santiso-1945-2026/",
+   "medio": "GPS Audiovisual",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "celtics - magic",
+   "tema": "moria casán",
    "busquedas": "200+",
-   "nota": "11/16 Game Preview: Magic at Celtics",
-   "nota_url": "https://celtics.com/news/gamepreview-20261116-orlbos",
-   "medio": "NBA.com",
+   "nota": "Moria Casán fue homenajeada en la Legislatura porteña y celebró rodeada de famosos: las fotos",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/16/moria-casan-fue-homenajeada-en-la-legislatura-portena-y-celebro-rodeada-de-famosos-las-fotos/",
+   "medio": "Ciudad Magazine",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "zonda",
+   "busquedas": "100+",
+   "nota": "“Me salvé por un centímetro”: un árbol cayó sobre su auto en Mendoza y sobrevivió de milagro",
+   "nota_url": "https://www.elnueve.com/mendoza/me-salve-por-un-centimetro-un-arbol-cayo-sobre-su-auto-en-mendoza-y-sobrevivio-de-milagro_20261116/",
+   "medio": "Canal 9 Televida",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "arbitraje",
-   "busquedas": "200+",
-   "nota": "La fuerte advertencia de la Dirección Nacional de Arbitraje en torno a la zona de capitanes en la Liga Profesional",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/liga-profesional-direccion-nacional-de-arbitraje-circular-sancion-zona-de-capitanes-sujeciones-reiteradas-en-las-areas-id771792.html",
-   "medio": "TyC Sports",
+   "tema": "otro dia perdido",
+   "busquedas": "100+",
+   "nota": "Mario Pergolini habló del trauma que le dejó una feroz pelea entre sus padres: “Por esto nunca acepto tomar un café”",
+   "nota_url": "https://www.eltrecetv.com.ar/otro-dia-perdido/2026/11/16/mario-pergolini-hablo-del-trauma-que-le-dejo-una-feroz-pelea-entre-sus-padres-por-esto-nunca-acepto-tomar-un-cafe/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "toyota",
+   "tema": "canada vs",
+   "busquedas": "200+",
+   "nota": "What Quebec passengers are owed after flight cancellations tied to U.S. ground stop",
+   "nota_url": "https://www.ctvnews.ca/montreal/article/what-quebec-passengers-are-owed-after-flight-cancellations-tied-to-us-ground-stop/",
+   "medio": "CTV News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
    "busquedas": "500+",
-   "nota": "Toyota's Twin-Turbo V6 Has A New Problem — Camshafts That Could Snap",
-   "nota_url": "https://www.autoguide.com/auto/manufacturers/toyota/toyota-s-twin-turbo-v6-has-a-new-problem-camshafts-that-could-snap-44642284?utm_medium=auto&utm_source=rss&utm_campaign=type_post",
-   "medio": "Autoguide.com",
+   "nota": "Desmejora el tiempo y a partir del martes, llegarían lluvias y tormentas",
+   "nota_url": "https://www.maximaonline.com.ar/guale/desmejora-el-tiempo-y-a-partir-del-martes-llegarian-lluvias-y-tormentas.htm",
+   "medio": "Máxima Online",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pau cubarsí",
+   "tema": "vix index",
    "busquedas": "200+",
-   "nota": "Cubarsí reveló cómo vivió la jugada en la que evitó el empate de Argentina en la final del Mundial",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17524117/cubarsi-jugada-evito-el-empate-argentina-espana-final-del-mundial",
-   "medio": "ESPN Argentina",
+   "nota": "Fear in the market",
+   "nota_url": "https://www.moomoo.com/community/feed/fear-in-the-market-117579632607238",
+   "medio": "Moomoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "uepc",
+   "busquedas": "100+",
+   "nota": "Paritarias docentes: UEPC avanza con una propuesta de cargos de 28 horas para maestros",
+   "nota_url": "https://www.perfil.com/cordoba/paritarias-docentes-uepc-avanza-con-una-propuesta-de-cargos-de-28-horas-para-maestros-a7IFO1N7TRbi",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   }
