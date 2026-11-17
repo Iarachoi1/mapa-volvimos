@@ -1,16 +1,10 @@
 {
- "actualizado": "17/11 00:42",
+ "actualizado": "17/11 01:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "James Bond",
    "url": "https://x.com/search?q=James%20Bond",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -21,20 +15,26 @@
    "temas": []
   },
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "olivia",
    "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#DosMesesDeSolGanadora",
    "url": "https://x.com/search?q=%23DosMesesDeSolGanadora",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -51,14 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
+   "tema": "Lego",
+   "url": "https://x.com/search?q=Lego",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lego",
-   "url": "https://x.com/search?q=Lego",
+   "tema": "Godoy Cruz",
+   "url": "https://x.com/search?q=Godoy%20Cruz",
    "relevante": false,
    "temas": []
   },
@@ -93,15 +93,15 @@
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "#OtroDiaPerdido",
    "url": "https://x.com/search?q=%23OtroDiaPerdido",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
@@ -125,11 +125,65 @@
  ],
  "google": [
   {
+   "tema": "gta 6",
+   "busquedas": "200+",
+   "nota": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
+   "nota_url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+   "medio": "PC Gamer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuando sale gta 6",
+   "busquedas": "200+",
+   "nota": "GTA VI sacude la industria de los videojuegos con preventas por más de u$s1.000 millones",
+   "nota_url": "https://www.ambito.com/negocios/gta-vi-sacude-la-industria-los-videojuegos-preventas-mas-us1000-millones-n6345793",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el papa león xiv",
+   "busquedas": "200+",
+   "nota": "El papa León XIV cerró su gira por Sudamérica con una misa multitudinaria",
+   "nota_url": "https://www.filo.news/noticia/2026/11/16/el-papa-leon-xiv-cerro-su-gira-por-sudamerica-con-una-misa-multitudinaria",
+   "medio": "Filo News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima santiago del estero",
+   "busquedas": "100+",
+   "nota": "Alerta amarilla en Santiago del Estero: advierten por fuertes tormentas, granizo y ráfagas intensas",
+   "nota_url": "https://www.diariopanorama.com/noticia/573208/alerta-amarilla-santiago-estero-advierten-fuertes-tormentas-granizo-rafagas-intensas",
+   "medio": "Diario Panorama",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "17 de noviembre",
+   "busquedas": "100+",
+   "nota": "Horóscopo de hoy 17 de noviembre de 2026: signo por signo, qué dicen los astros",
+   "nota_url": "https://caras.perfil.com/noticias/astrologia/horoscopo-hoy-noviembre-2026-signo-por-signo-que-dicen-los-astros.phtml",
+   "medio": "Caras",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "supuesto apagón mundial",
+   "busquedas": "2000+",
+   "nota": "Apagón mundial: qué hay detrás de la teoría de las 72 horas sin luz ni internet",
+   "nota_url": "https://www.ambito.com/informacion-general/apagon-mundial-que-hay-detras-la-teoria-las-72-horas-luz-ni-internet-n6345965",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "racing de santander",
    "busquedas": "200+",
-   "nota": "Apuestas Racing vs Real Sociedad: previa y cuotas",
-   "nota_url": "https://www.bwin.es/es/sports/news/apuestas-racing-vs-real-sociedad/",
-   "medio": "Bwin",
+   "nota": "Pide tu entrada para Santander",
+   "nota_url": "https://www.realsociedad.eus/es/noticias/detalle/pide-tu-entrada-para-santander",
+   "medio": "Real Sociedad",
    "relevante": false,
    "temas": []
   },
@@ -144,74 +198,20 @@
   },
   {
    "tema": "nicolás tagliafico",
-   "busquedas": "200+",
-   "nota": "No solo Dybala y De Paul: el otro volante de jerarquía que Boca tiene en el radar por si quiere venir a Argentina",
-   "nota_url": "https://planetabj.com/noticias/no-solo-dybala-y-de-paul-boca-tambien-tiene-en-el-radar-a-giovani-lo-celso-avs1p6N0Rll8/",
-   "medio": "Planeta Boca Juniors",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima rosario",
-   "busquedas": "1000+",
-   "nota": "Clima hoy en Rosario, Santa Fe: el pronóstico del tiempo para este lunes 16 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-rosario-santa-fe-pronostico-tiempo-lunes-16-noviembre-2026_0_xhWcoRRGLB.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nico occhiato",
-   "busquedas": "1000+",
-   "nota": "Mario Pergolini destacó el modelo de streaming de Luzu TV",
-   "nota_url": "https://diarioelnorte.com.ar/mario-pergolini-destaco-el-modelo-de-streaming-de-luzu-tv/",
-   "medio": "Diario El Norte - San Nicolás",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - suns",
-   "busquedas": "200+",
-   "nota": "Suns Nuggets Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/suns-nuggets-basketball/image_afe3bf8a-08ce-52e4-a8cd-cc0d2f38beca.html",
-   "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo en rosario",
-   "busquedas": "200+",
-   "nota": "Clima en Concordia hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-17-de-noviembre-de-2026-nid16112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "los juegos del hambre",
    "busquedas": "500+",
-   "nota": "Jennifer Lawrence Revisits Her ‘Hunger Games’ Roots in Dior",
-   "nota_url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lawrence-revisits-her-hunger-021958625.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "daniel ricciardo",
-   "busquedas": "200+",
-   "nota": "“Me estaban dando una paliza” – Cómo Ricciardo se agotó en su regreso ‘humillante’ a la F1",
-   "nota_url": "https://lat.motorsport.com/f1/news/como-ricciardo-se-agoto-en-su-regreso-humillante-a-la-f1/10874480/",
-   "medio": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "guillermo michel",
-   "busquedas": "1000+",
-   "nota": "Cristina Kirchner designa a un peronista federal cercano a Massa para el Consejo de la Magistratura",
-   "nota_url": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/",
-   "medio": "La Nación",
+   "nota": "Boca busca sacudir el mercado de pases 2027: ante la posible salida de Lautaro Blanco, Riquelme va por un 3 mundialista",
+   "nota_url": "https://elcrackdeportivo.com.ar/boca/boca-busca-sacudir-el-mercado-de-pases-2027-ante-la-posible-salida-de-lautaro-blanco-riquelme-va-por-un-3-mundialista-20261116-0015.html",
+   "medio": "El Crack Deportivo",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nicolas occhiato",
+   "busquedas": "200+",
+   "nota": "Nico Occhiato se burló de 412 tras la remontada de LUZU: \"Se cagaron\"",
+   "nota_url": "https://www.tycsports.com/gaming/nico-occhiato-se-burlo-de-412-tras-la-remontada-de-luzu-se-cagaron-id771727.html",
+   "medio": "TyC Sports",
+   "relevante": false,
    "temas": []
   }
  ],
