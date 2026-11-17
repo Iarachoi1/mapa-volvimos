@@ -1,16 +1,16 @@
 {
- "actualizado": "16/11 20:32",
+ "actualizado": "16/11 21:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Ferro",
-   "url": "https://x.com/search?q=Ferro",
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
+   "tema": "Ferro",
+   "url": "https://x.com/search?q=Ferro",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Godoy Cruz",
-   "url": "https://x.com/search?q=Godoy%20Cruz",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rebord",
    "url": "https://x.com/search?q=Rebord",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tapia",
-   "url": "https://x.com/search?q=Tapia",
+   "tema": "Godoy Cruz",
+   "url": "https://x.com/search?q=Godoy%20Cruz",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "hayley",
-   "url": "https://x.com/search?q=hayley",
+   "tema": "Tapia",
+   "url": "https://x.com/search?q=Tapia",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +57,14 @@
    "temas": []
   },
   {
-   "tema": "Inglaterra",
-   "url": "https://x.com/search?q=Inglaterra",
+   "tema": "hayley",
+   "url": "https://x.com/search?q=hayley",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#LUZUVS412",
-   "url": "https://x.com/search?q=%23LUZUVS412",
+   "tema": "Inglaterra",
+   "url": "https://x.com/search?q=Inglaterra",
    "relevante": false,
    "temas": []
   },
@@ -87,9 +81,21 @@
    "temas": []
   },
   {
+   "tema": "#LUZUVS412",
+   "url": "https://x.com/search?q=%23LUZUVS412",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "#LasExcusasNoSeTelevisan",
+   "url": "https://x.com/search?q=%23LasExcusasNoSeTelevisan",
+   "relevante": false,
    "temas": []
   },
   {
@@ -99,8 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Daniel Craig",
-   "url": "https://x.com/search?q=Daniel%20Craig",
+   "tema": "United Airlines",
+   "url": "https://x.com/search?q=United%20Airlines",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +117,100 @@
    "temas": []
   },
   {
-   "tema": "CrepÃºsculo",
-   "url": "https://x.com/search?q=Crep%C3%83%C2%BAsculo",
+   "tema": "Daniel Craig",
+   "url": "https://x.com/search?q=Daniel%20Craig",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Francos",
-   "url": "https://x.com/search?q=Francos",
-   "relevante": true,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "apagon mundial",
+   "tema": "planetario universidad nacional de la plata",
    "busquedas": "200+",
-   "nota": "¿Se viene un apagón mundial? Un rumor en redes anuncia que la semana que viene 33 países se quedarán sin luz ni Internet",
-   "nota_url": "https://tn.com.ar/tecno/novedades/2026/11/11/se-viene-un-apagon-la-semana-que-viene-el-rumor-viral-que-advierte-sobre-cortes-de-luz-e-internet-en-33-paises/",
-   "medio": "TN",
+   "nota": "Investigan la muerte de un astrónomo platense",
+   "nota_url": "https://www.eleco.com.ar/nacionales/investigan-la-muerte-de-un-astronomo-platense",
+   "medio": "El Eco",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pelicans - warriors",
+   "busquedas": "200+",
+   "nota": "Warriors Injuries: Curry, Butler, Porzingis and Moody All Out",
+   "nota_url": "https://www.squawka.com/ca/news/nba/warriors-injuries-curry-butler-porzingis-moody/",
+   "medio": "Squawka",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "juez",
-   "busquedas": "200+",
-   "nota": "Causa Libra: recusan a un camarista porque el hijo trabaja con Mahiques",
-   "nota_url": "https://www.lapoliticaonline.com/judiciales/causa-libra-recusan-a-un-camarista-porque-el-hijo-trabaja-con-mahiques/",
-   "medio": "La Política Online",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tina simmons",
+   "tema": "bancos en estados unidos",
    "busquedas": "100+",
-   "nota": "Tributes paid to Star Wars, James Bond and The Dark Knight actress after death",
-   "nota_url": "https://www.southwestfarmer.co.uk/news/26733704.star-wars-james-bond-actress-tina-simmons-dies/",
-   "medio": "South West Farmer",
+   "nota": "JPMorgan Chase atribuye los fallos a un \"error de software\" y descarta un ciberataque",
+   "nota_url": "https://www.clarin.com/estados-unidos/jpmorgan-chase-atribuye-los-fallos-a-un-error-de-software-y-descarta-un-ciberataque_0_sdrI6LcY4M.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "joaquín freitas",
+   "tema": "unión tranviarios automotor",
    "busquedas": "200+",
-   "nota": "La confesión de Joaquín Freitas sobre su salida de River: \"Estuve casi toda la noche llorando\"",
-   "nota_url": "https://www.tycsports.com/video/river-plate/la-confesion-de-joaquin-freitas-sobre-su-salida-de-river-estuve-casi-toda-la-noche-llorando-id1005351.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lali espósito",
-   "busquedas": "200+",
-   "nota": "Lali Espósito mostró el lado desconocido de su casamiento: la torta de Diego y Claudia, la ayuda de sus mamás y quién se llevó el ramo",
-   "nota_url": "https://caras.perfil.com/noticias/celebridades/lali-esposito-mostro-el-lado-desconocido-de-su-casamiento-la-torta-de-diego-y-claudia-la-ayuda-de-sus-mamas-y-quien-se-llevo-el-ramo.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nvda",
-   "busquedas": "500+",
-   "nota": "$NVIDIA(NVDA.US)Context: Retail investors poured $1.6…",
-   "nota_url": "https://longbridge.com/topics/100000000991356",
-   "medio": "Longbridge",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maxi lópez",
-   "busquedas": "200+",
-   "nota": "Daniela Christiansson reveló el momento más doloroso de Maxi López por Wanda Nara: \"Nunca lo vi llorar así\"",
-   "nota_url": "https://fenix951.com.ar/noticia.php?id=360607",
-   "medio": "Fenix951",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "telemundo",
-   "busquedas": "200+",
-   "nota": "Catherine Siachoque adelantó lo que viene para doña Hilda y recordó sus inicios en ‘Sin senos sí hay paraíso’: \"Yo no lo quería hacer\"",
-   "nota_url": "https://www.infobae.com/colombia/2026/11/14/catherine-siachoque-adelanto-lo-que-viene-para-dona-hilda-y-recordo-sus-inicios-en-sin-senos-si-hay-paraiso-yo-no-lo-queria-hacer/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "banco san juan",
-   "busquedas": "100+",
-   "nota": "El Banco San Juan sería absorbido por el Banco de Santa Fe a mediados de 2027",
-   "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/16/117435-el-banco-san-juan-seria-absorbido-por-el-banco-de-santa-fe-a-mediados-de-2027",
+   "nota": "Tras un pedido de Fiscalía de Estado, un juez le advierte a UTA que aumentará la multa a $5 millones diarios por cada paro que haga",
+   "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/13/117170-tras-un-pedido-de-fiscalia-de-estado-un-juez-le-advierte-a-uta-que-aumentara-la-multa-a-5-millones-diarios-por-cada-paro-que-haga",
    "medio": "0264Noticias",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "gta vi",
+   "tema": "cavaliers - bulls",
+   "busquedas": "200+",
+   "nota": "Can Bulls Make It THREE STRAIGHT?! Bulls vs Cavs LIVE Watch Party | Keep It Rolling!",
+   "nota_url": "https://bvmsports.com/2026/11/16/can-bulls-make-it-three-straight-bulls-vs-cavs-live-watch-party-keep-it-rolling/",
+   "medio": "BVM Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "entrenador",
+   "busquedas": "200+",
+   "nota": "Salvaje ataque en una pizzería en Córdoba: la fiscalía agravó la acusación contra el profesor de rugby que golpeó a un médico",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/16/salvaje-ataque-en-una-pizzeria-en-cordoba-la-fiscalia-agravo-la-acusacion-contra-el-profesor-de-rugby-que-golpeo-a-un-medico/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "celtics - magic",
+   "busquedas": "200+",
+   "nota": "11/16 Game Preview: Magic at Celtics",
+   "nota_url": "https://celtics.com/news/gamepreview-20261116-orlbos",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "arbitraje",
+   "busquedas": "200+",
+   "nota": "La fuerte advertencia de la Dirección Nacional de Arbitraje en torno a la zona de capitanes en la Liga Profesional",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/liga-profesional-direccion-nacional-de-arbitraje-circular-sancion-zona-de-capitanes-sujeciones-reiteradas-en-las-areas-id771792.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "toyota",
    "busquedas": "500+",
-   "nota": "GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
-   "nota_url": "https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know",
-   "medio": "Pure Xbox",
+   "nota": "Toyota's Twin-Turbo V6 Has A New Problem — Camshafts That Could Snap",
+   "nota_url": "https://www.autoguide.com/auto/manufacturers/toyota/toyota-s-twin-turbo-v6-has-a-new-problem-camshafts-that-could-snap-44642284?utm_medium=auto&utm_source=rss&utm_campaign=type_post",
+   "medio": "Autoguide.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pau cubarsí",
+   "busquedas": "200+",
+   "nota": "Cubarsí reveló cómo vivió la jugada en la que evitó el empate de Argentina en la final del Mundial",
+   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17524117/cubarsi-jugada-evito-el-empate-argentina-espana-final-del-mundial",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
