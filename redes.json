@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 15:40",
+ "actualizado": "18/11 16:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,38 +21,14 @@
    "temas": []
   },
   {
+   "tema": "Justo Fernando Barrientos",
+   "url": "https://x.com/search?q=Justo%20Fernando%20Barrientos",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Fernando Barrientos",
-   "url": "https://x.com/search?q=Fernando%20Barrientos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Humanidades",
-   "url": "https://x.com/search?q=Humanidades",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LATAM",
-   "url": "https://x.com/search?q=LATAM",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Provincias Unidas",
-   "url": "https://x.com/search?q=Provincias%20Unidas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#nuestratarde",
-   "url": "https://x.com/search?q=%23nuestratarde",
    "relevante": false,
    "temas": []
   },
@@ -63,26 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Universidad de Belgrano",
-   "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MurioFlorPeÃ±a",
-   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Cyberpunk",
    "url": "https://x.com/search?q=Cyberpunk",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Provincias Unidas",
+   "url": "https://x.com/search?q=Provincias%20Unidas",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Ateneo",
-   "url": "https://x.com/search?q=Ateneo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "LATAM",
+   "url": "https://x.com/search?q=LATAM",
    "relevante": false,
    "temas": []
   },
@@ -111,19 +69,124 @@
    "temas": []
   },
   {
+   "tema": "#nuestratarde",
+   "url": "https://x.com/search?q=%23nuestratarde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bugs",
+   "url": "https://x.com/search?q=Bugs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ateneo",
+   "url": "https://x.com/search?q=Ateneo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Humanidades",
+   "url": "https://x.com/search?q=Humanidades",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Universidad de Belgrano",
+   "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Taiwan",
    "url": "https://x.com/search?q=Taiwan",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA 5",
-   "url": "https://x.com/search?q=GTA%205",
+   "tema": "#MurioFlorPeÃ±a",
+   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "rodrigo villagra",
+   "busquedas": "100+",
+   "nota": "River decidió quedarse un porcentaje y Inter de Porto Alegre lo compro: “50% restante”",
+   "nota_url": "https://soydelmillo.com/mercado-de-pases/2026/11/17/river-inter-porto-alegre/",
+   "medio": "Soy del Millo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pedro troglio",
+   "busquedas": "200+",
+   "nota": "El DT ex Instituto que alcanzó un acuerdo para dirigir a un club argentino noviembre 2026",
+   "nota_url": "https://canalshowsport.com.ar/el-dt-ex-instituto-que-alcanzo-un-acuerdo-para-dirigir-a-un-club-argentino/",
+   "medio": "Canal Showsport",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar",
+   "busquedas": "1000+",
+   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 18 de noviembre",
+   "nota_url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-18-noviembre_0_3ZbUafJbGW.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lesbicidio",
+   "busquedas": "1000+",
+   "nota": "Triple femicidio de Barracas: condenaron al hombre que mató a tres mujeres por ser lesbianas",
+   "nota_url": "https://www.clarin.com/policiales/triple-femicidio-barracas-condenaron-hombre-mato-mujeres-lesbianas_0_y5BMchIxu4.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pago",
+   "busquedas": "500+",
+   "nota": "IPS cuándo cobro: confirman las fechas de pago de noviembre 2026",
+   "nota_url": "https://www.eldia.com/la-ciudad/ips-cuando-cobro-confirman-las-fechas-de-pago-de-noviembre-2026-la-ciudad_1794915121",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corolla deck",
+   "busquedas": "100+",
+   "nota": "223 CV y por debajo de Hilux: la nueva pick up de Toyota que se viene",
+   "nota_url": "https://transportemundial.com.ar/pickups/223-cv-y-por-debajo-de-hilux-la-nueva-pick-up-de-toyota-que-se-viene/",
+   "medio": "Transporte Mundial",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fenómeno",
+   "busquedas": "500+",
+   "nota": "Anticipan que el impacto de \"El Niño\" se sentirá con fuerza hasta el otoño de 2027",
+   "nota_url": "https://www.cadena3.com/noticia/radioinforme-3/anticipan-que-el-impacto-de-el-nino-se-sentira-con-fuerza-hasta-el-otono-de-2027_613827",
+   "medio": "Cadena 3 Argentina",
+   "relevante": true,
+   "temas": []
+  },
   {
    "tema": "ludovica squirru",
    "busquedas": "500+",
@@ -135,82 +198,19 @@
   },
   {
    "tema": "martín llaryora",
-   "busquedas": "100+",
-   "nota": "Diputados: Llaryora y Pullaro dejaron al Gobierno sin quorum en medio de la disputa por el Consejo de la Magistratura",
-   "nota_url": "https://www.lanacion.com.ar/politica/diputados-llaryora-y-pullaro-dejaron-al-gobierno-sin-quorum-en-medio-de-la-disputa-por-el-consejo-de-nid18112026/",
-   "medio": "La Nación",
+   "busquedas": "2000+",
+   "nota": "\"La mier... de la política\": la fuerte reacción de Santiago Caputo tras la sesión fallida por la Ley Malvinas en Diputados",
+   "nota_url": "https://www.clarin.com/politica/mier-politica-fuerte-reaccion-santiago-caputo-sesion-fallida-ley-malvinas-diputados_0_DjHZzYotnP.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "ueno bank",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Caso ueno bank: Detienen a representante de GSR por millonario faltante",
    "nota_url": "https://www.rdn.com.py/2026/11/18/caso-ueno-bank-detienen-a-representante-de-gsr-por-millonario-faltante/",
    "medio": "Resumen de Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de fútbol sub-17 de australia",
-   "busquedas": "500+",
-   "nota": "Mundial Sub 17: Argentina definió su lista para la cita en Qatar",
-   "nota_url": "https://www.espn.com.ar/futbol/nota/_/id/17504151/mundial-sub17-argentina-definio-su-lista-para-la-cita-en-qatar",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "real madrid - inter de milán",
-   "busquedas": "200+",
-   "nota": "Ivana: “Me hace mucha ilusión, tengo al Madrid en el corazoncito”",
-   "nota_url": "https://as.com/futbol/femenino/ivana-me-hace-mucha-ilusion-tengo-al-madrid-en-el-corazoncito-f202611-n/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico la plata",
-   "busquedas": "1000+",
-   "nota": "Tras las lluvias, brilla el sol y vuelve el calor a La Plata con un miércoles de casi 30°C",
-   "nota_url": "https://www.0221.com.ar/la-plata/tras-las-lluvias-brilla-el-sol-y-vuelve-el-calor-la-plata-un-miercoles-casi-30c-n137629",
-   "medio": "0221",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "camiseta",
-   "busquedas": "200+",
-   "nota": "Milo J brilló en Estados Unidos: el artista se presentó en el programa de Jimmy Fallon y cantó \"Niño\"",
-   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/17/milo-j-brillo-en-estados-unidos-el-artista-se-presento-en-el-programa-de-jimmy-fallon-y-canto-nino/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "turf",
-   "busquedas": "200+",
-   "nota": "Del turf a los recitales: la apuesta de Atanasof para transformar el Hipódromo",
-   "nota_url": "https://www.latecla.info/171265-del-turf-a-los-recitales-la-apuesta-de-atanasof-para-transformar-el-hipodromo",
-   "medio": "La Tecla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "depósito a plazo fijo",
-   "busquedas": "200+",
-   "nota": "Subieron las tasas de los plazos fijos: qué bancos pagan más y cuánto rinde invertir $10 millones hoy, 18 de noviembre",
-   "nota_url": "https://www.rionegro.com.ar/economia/subieron-las-tasas-de-los-plazos-fijos-que-bancos-pagan-mas-y-cuanto-rinde-invertir-10-millones-hoy-18-de-noviembre-4803100/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "smn",
-   "busquedas": "1000+",
-   "nota": "Comenzó el temporal de viento y lluvia en Corrientes y pronostican alerta durante toda la jornada",
-   "nota_url": "https://www.radiodos.com.ar/217211-comenzo-el-temporal-de-viento-y-lluvia-en-corrientes-y-pronostican-alerta-durante-toda-la-jornada",
-   "medio": "Radio Dos Corrientes",
    "relevante": false,
    "temas": []
   }
