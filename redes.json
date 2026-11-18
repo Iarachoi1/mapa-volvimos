@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 19:41",
+ "actualizado": "18/11 20:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Tuzzio",
-   "url": "https://x.com/search?q=Tuzzio",
+   "tema": "#integracionmarvel",
+   "url": "https://x.com/search?q=%23integracionmarvel",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Matheu",
+   "url": "https://x.com/search?q=Matheu",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Fuerte Apache",
-   "url": "https://x.com/search?q=Fuerte%20Apache",
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -57,38 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Instituto",
-   "url": "https://x.com/search?q=Instituto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bugs",
-   "url": "https://x.com/search?q=Bugs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Traidores a la Patria",
-   "url": "https://x.com/search?q=Traidores%20a%20la%20Patria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pete Hegseth",
-   "url": "https://x.com/search?q=Pete%20Hegseth",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Justo Fernando Barrientos",
-   "url": "https://x.com/search?q=Justo%20Fernando%20Barrientos",
+   "tema": "Fuerte Apache",
+   "url": "https://x.com/search?q=Fuerte%20Apache",
    "relevante": false,
    "temas": []
   },
@@ -99,119 +69,149 @@
    "temas": []
   },
   {
+   "tema": "Traidores",
+   "url": "https://x.com/search?q=Traidores",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vende",
+   "url": "https://x.com/search?q=Vende",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "OSDE",
+   "url": "https://x.com/search?q=OSDE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bugs",
+   "url": "https://x.com/search?q=Bugs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Illojuan",
+   "url": "https://x.com/search?q=Illojuan",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Cyberpunk",
    "url": "https://x.com/search?q=Cyberpunk",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#TorneoProyecciÃ³n",
-   "url": "https://x.com/search?q=%23TorneoProyecci%C3%83%C2%B3n",
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Barracas",
-   "url": "https://x.com/search?q=Barracas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MurioFlorPeÃ±a",
-   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "promedio industrial dow jones",
+   "tema": "corrientes",
    "busquedas": "100+",
-   "nota": "Wall Street encadena su peor racha desde junio arrastrada por los vaivenes de Nvidia y antes del debut de Anthropic",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/18/wall-street-encadena-su-peor-racha-desde-junio-pese-al-salto-inicial-de-nvidia/",
-   "medio": "Infobae",
+   "nota": "El SMN emitió tres avisos a corto plazo: tormentas severas, lluvias intensas y granizo",
+   "nota_url": "https://ruralnet.com.ar/tres-avisos-smn-tormentas-granizo/",
+   "medio": "Ruralnet",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "coritiba - santos",
-   "busquedas": "1000+",
-   "nota": "Sem vencer há três jogos, Santos ainda sonha com a Libertadores",
-   "nota_url": "https://tmc.com.br/esporte/sem-vencer-tres-jogos-santos-ainda-sonha-libertadores/",
-   "medio": "tmc.com.br",
+   "tema": "juan román riquelme",
+   "busquedas": "100+",
+   "nota": "Los pedidos de Boca y Real Madrid por Merentiel y Fede Valverde: ¿qué explicó Forlán?",
+   "nota_url": "https://www.montevideo.com.uy/Deportes/Los-pedidos-de-Boca-y-Real-Madrid-por-Merentiel-y-Fede-Valverde--que-explico-Forlan--uc982202",
+   "medio": "Montevideo Portal",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "policía",
+   "tema": "alex scott",
+   "busquedas": "100+",
+   "nota": "Transfer rumors, news: Liverpool eye move for Brentford's Diouf",
+   "nota_url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
+   "medio": "ESPN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "festividad",
    "busquedas": "200+",
-   "nota": "Con bombas molotov y ametralladoras, así esperaba a la Policía en Fuerte Apache la banda narco a la que pertenecía “Mayonesa”",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/18/con-bombas-molotov-y-ametralladoras-asi-esperaba-a-la-policia-en-fuerte-apache-la-banda-narco-a-la-que-pertenecia-mayonesa/",
-   "medio": "TN",
+   "nota": "Por orden de la Ley 27.399: no se traslada el feriado del martes 8 de diciembre, pero habrá fin de semana largo",
+   "nota_url": "https://www.cronista.com/informacion-gral/por-orden-de-la-ley-27399-no-se-traslada-el-feriado-del-martes-8-de-diciembre-pero-habra-fin-de-semana-largo/",
+   "medio": "El Cronista",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "escritor",
-   "busquedas": "100+",
-   "nota": "Entrando en la casa de la lengua",
-   "nota_url": "https://elpais.com/opinion/2026-11-16/entrando-en-la-casa-de-la-lengua.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "escuela",
-   "busquedas": "1000+",
-   "nota": "Superniño en Argentina: un fuerte temporal destruyó una escuela agraria de Buenos Aires y más de 100 alumnos fueron evacuados",
-   "nota_url": "https://radiomitre.cienradios.com/sociedad/supernino-en-argentina-un-fuerte-temporal-destruyo-una-escuela-agraria-de-buenos-aires-y-mas-de-100-alumnos-fueron-evacuados/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "soberanía",
-   "busquedas": "200+",
-   "nota": "Jaldo entregará a Cancillería un documento de 1833 que registra la ocupación británica de las Malvinas",
-   "nota_url": "https://tendenciadenoticias.com.ar/politica/jaldo-entregara-a-cancilleria-un-documento-de-1833-que-registra-la-ocupacion-britanica-de-las-malvinas",
-   "medio": "Tendencia de Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "megaproyecto",
-   "busquedas": "100+",
-   "nota": "VMOS y Southern Energy generaron 400 millones en contratos locales en Río Negro",
-   "nota_url": "https://mase.lmneuquen.com/empresas/vmos-y-southern-energy-generaron-400-millones-contratos-locales-rio-negro-n1261579",
-   "medio": "Lmneuquen.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kevin castaño",
-   "busquedas": "500+",
-   "nota": "Kevin Castaño, de su salida de River a la final de la Copa Sudamericana con Atlético Mineiro",
-   "nota_url": "https://elecos.com.ar/kevin-castano-de-su-salida-de-river-a-la-final-de-la-copa-sudamericana-con-atletico-mineiro",
-   "medio": "Ecos Diarios Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiafoe",
-   "busquedas": "100+",
-   "nota": "Pronósticos Cobolli vs. Tiafoe: el estadounidense busca imponer su dominio en las ATP Finals 2026",
-   "nota_url": "https://gainblers.com/ar/pronosticos/tenis/atp/world-tour-finals/pronostico-cobolli-f-tiafoe-f-18-11-2026/",
-   "medio": "Gainblers",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "veredicto",
+   "tema": "flamengo - paranaense",
    "busquedas": "2000+",
-   "nota": "Cómo reconstruir las vidas lesbianas",
-   "nota_url": "https://www.revistaanfibia.com/fue-crimen-de-odio-como-reconstruir-las-vidas-lesbianas/",
-   "medio": "Revista Anfibia",
+   "nota": "Flamenguistas viajam de Manaus para ver primeiro jogo no Maracanã",
+   "nota_url": "https://odia.ig.com.br/esporte/flamengo/2026/11/7323757-flamenguistas-viajam-de-manaus-para-ver-primeiro-jogo-no-maracana.html",
+   "medio": "O Dia",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cruzeiro - palmeiras",
+   "busquedas": "2000+",
+   "nota": "Cruzeiro x Palmeiras: informações, estatísticas e curiosidades",
+   "nota_url": "https://palmeiras.com.br/noticias/cruzeiro-x-palmeiras-informacoes-estatisticas-e-curiosidades-4/",
+   "medio": "Palmeiras",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "remo - chapecoense",
+   "busquedas": "500+",
+   "nota": "Chapecoense enfrenta Remo na estreia de Vinícius Bergantin",
+   "nota_url": "https://diregional.com.br/diario-do-iguacu/esporte/chapecoense/2026-11-18-chapecoense-enfrenta-remo-na-estreia-de-vinicius-bergantin",
+   "medio": "Diário do Iguaçu",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chiqui tapia",
+   "busquedas": "200+",
+   "nota": "Escándalo en Argentina: Messi lucha para evitar que se manche su reputación",
+   "nota_url": "https://es-us.noticias.yahoo.com/deportes/esc%C3%A1ndalo-argentina-messi-lucha-evitar-154738087.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mano de obra",
+   "busquedas": "100+",
+   "nota": "Cuánto cobra un albañil por hora en noviembre 2026",
+   "nota_url": "https://www.iprofesional.com/actualidad/469479-cuanto-cobra-un-albanil-por-hora-en-noviembre-2026",
+   "medio": "iProfesional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juicio",
+   "busquedas": "500+",
+   "nota": "Caso Loan: un policía dijo no recordar a Caillava y los jueces pidieron careo",
+   "nota_url": "https://www.filo.news/noticia/2026/11/18/caso-loan-un-policia-dijo-no-recordar-a-caillava-y-los-jueces-pidieron-careo",
+   "medio": "Filo News",
+   "relevante": true,
    "temas": []
   }
  ],
