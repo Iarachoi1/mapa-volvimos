@@ -1,28 +1,10 @@
 {
- "actualizado": "18/11 03:55",
+ "actualizado": "18/11 05:08",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -33,26 +15,50 @@
    "temas": []
   },
   {
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Mastantuono",
-   "url": "https://x.com/search?q=Mastantuono",
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Scaloni",
-   "url": "https://x.com/search?q=Scaloni",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Dibu",
-   "url": "https://x.com/search?q=Dibu",
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Quentin Grimes",
+   "url": "https://x.com/search?q=Quentin%20Grimes",
    "relevante": false,
    "temas": []
   },
@@ -63,38 +69,14 @@
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#RebeccaInArgentina",
-   "url": "https://x.com/search?q=%23RebeccaInArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Julian",
-   "url": "https://x.com/search?q=Julian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Troilo",
-   "url": "https://x.com/search?q=Troilo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DuroDeDomar",
-   "url": "https://x.com/search?q=%23DuroDeDomar",
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
   },
@@ -105,27 +87,52 @@
    "temas": []
   },
   {
-   "tema": "Larreta",
-   "url": "https://x.com/search?q=Larreta",
-   "relevante": true,
-   "temas": [
-    "Larreta"
-   ]
-  },
-  {
-   "tema": "Alexis Mac Allister",
-   "url": "https://x.com/search?q=Alexis%20Mac%20Allister",
+   "tema": "Mastantuono",
+   "url": "https://x.com/search?q=Mastantuono",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Olimpo",
-   "url": "https://x.com/search?q=Olimpo",
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "James Bond",
+   "url": "https://x.com/search?q=James%20Bond",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "San Fernando",
+   "url": "https://x.com/search?q=San%20Fernando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Las PASO",
+   "url": "https://x.com/search?q=Las%20PASO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "clima corrientes",
+   "busquedas": "200+",
+   "nota": "Continuarán las lluvias este miércoles en Corrientes",
+   "nota_url": "https://www.corrienteshoy.com/info-general/continuaran-las-lluvias-este-miercoles-en-corrientes.htm",
+   "medio": "Corrientes Hoy",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "gala de eliminación",
    "busquedas": "2000+",
@@ -138,33 +145,33 @@
   {
    "tema": "clippers - jazz",
    "busquedas": "100+",
-   "nota": "Utah Jazz 132, LA Clippers 107: Key Takeaways",
-   "nota_url": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
-   "medio": "NBA.com",
+   "nota": "Jazz Clippers Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-clippers-basketball/image_4f2c1b21-04dc-556f-8a39-fbbd584af19d.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "casa rosada",
    "busquedas": "100+",
-   "nota": "La Mesa Política analizó la agenda parlamentaria y avances en el debate de la reforma electoral",
-   "nota_url": "https://www.radionacional.com.ar/la-mesa-politica-analizo-la-agenda-parlamentaria-y-avances-en-el-debate-de-la-reforma-electoral/",
-   "medio": "Radio Nacional Rock",
+   "nota": "Renunció la 'mano derecha' de Adrián Ravier (y van...)",
+   "nota_url": "https://www.corrienteshoy.com/nacionales/renuncio-la-mano-derecha-de-adrian-ravier-y-van.htm",
+   "medio": "Corrientes Hoy",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "lakers - hornets",
-   "busquedas": "1000+",
-   "nota": "Los Angeles Lakers vs. Charlotte Hornets - 2nd Quarter Highlights",
-   "nota_url": "https://www.nba.com/watch/video/los-angeles-lakers-vs-charlotte-hornets-2nd-quarter-highlights-2?plsrc=nba&collection=luka-doncic",
+   "busquedas": "2000+",
+   "nota": "Quentin Grimes goes off for career-high 47 points in OT win",
+   "nota_url": "https://www.nba.com/watch/video/quentin-grimes-goes-off-for-career-high-47-points-in-ot-win",
    "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "flor peña",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Una figura de Telefe terminó en silla de ruedas tras sufrir un accidente: \"Les quiero contar\"",
    "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-termino-silla-ruedas-sufrir-accidente-les-quiero-contar-20261116133723",
    "medio": "El Destape",
@@ -181,12 +188,21 @@
    "temas": []
   },
   {
-   "tema": "ana del reino unido",
+   "tema": "mexico",
    "busquedas": "500+",
-   "nota": "El Gobierno rechazó las actividades de la princesa Ana, hermana del rey Carlos III, en las Islas Malvinas",
-   "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-las-actividades-de-la-princesa-ana-hermana-del-rey-carlos-iii-en-las-islas-nid17112026/",
-   "medio": "La Nación",
-   "relevante": true,
+   "nota": "Sheinbaum y Trump se reunirán este miércoles en los márgenes de la APEC, según México",
+   "nota_url": "https://www.clarin.com/estados-unidos/sheinbaum-y-trump-se-reuniran-este-miercoles-en-los-margenes-de-la-apec-segun-mexico_0_fdH9DHYooI.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ana del reino unido",
+   "busquedas": "5000+",
+   "nota": "Argentina rechaza la visita de la princesa británica Ana a las islas Malvinas",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/18/argentina-rechaza-la-visita-de-la-princesa-britanica-ana-a-las-islas-malvinas/",
+   "medio": "Infobae",
+   "relevante": false,
    "temas": []
   },
   {
@@ -195,24 +211,6 @@
    "nota": "Lali Espósito mostró fotos inéditas de su casamiento con Pedro Rosemblat y reveló quiénes fueron claves para su gran día",
    "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/16/lali-esposito-mostro-fotos-ineditas-de-su-casamiento-con-pedro-rosemblat-y-revelo-quienes-fueron-claves-para-su-gran-dia/",
    "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gordon",
-   "busquedas": "500+",
-   "nota": "Barcelona summer signing yet to prove himself against Europe's biggest clubs despite recent resurgence",
-   "nota_url": "https://barcauniversal.com/barcelona-summer-signing-yet-to-prove-himself-against-europes-biggest-clubs-despite-recent-resurgence/",
-   "medio": "Barca Universal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gordon netflix",
-   "busquedas": "500+",
-   "nota": "Quién fue Aníbal Gordon, el criminal vinculado con la Triple A y la SIDE que inspira la nueva serie de Netflix",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162916/espectaculos/quien-fue-anibal-gordon-criminal-vinculado-triple-a-side-inspira-nueva-serie-netflix.html",
-   "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   }
