@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 11:08",
+ "actualizado": "18/11 12:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,15 +9,15 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
    "temas": []
   },
   {
@@ -57,20 +57,20 @@
    "temas": []
   },
   {
-   "tema": "Metacritic",
-   "url": "https://x.com/search?q=Metacritic",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "tema": "Advincula",
+   "url": "https://x.com/search?q=Advincula",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "San Fernando",
    "url": "https://x.com/search?q=San%20Fernando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +93,20 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Shenzhen",
    "url": "https://x.com/search?q=Shenzhen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "REBECCA X BAZAAR WOTY26",
-   "url": "https://x.com/search?q=REBECCA%20X%20BAZAAR%20WOTY26",
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mastantuono",
+   "url": "https://x.com/search?q=Mastantuono",
    "relevante": false,
    "temas": []
   },
@@ -117,46 +117,93 @@
    "temas": []
   },
   {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
-   "relevante": false,
-   "temas": []
+   "tema": "Larreta",
+   "url": "https://x.com/search?q=Larreta",
+   "relevante": true,
+   "temas": [
+    "Larreta"
+   ]
   }
  ],
  "google": [
   {
+   "tema": "selección de fútbol sub-17 de argentina",
+   "busquedas": "500+",
+   "nota": "Argentina en el Mundial Sub 17: calendario de partidos y resultados",
+   "nota_url": "https://www.tycsports.com/seleccion-argentina/argentina-en-el-mundial-sub-17-calendario-de-partidos-y-resultados-id771773.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "autopsia",
+   "busquedas": "200+",
+   "nota": "Caso Epstein: expertos ponen en duda el suicidio y afirman que las lesiones indican un homicidio",
+   "nota_url": "https://www.ellitoral.com/internacionales/jeffreyepstein-homicidio-investigacionforense-autopsia-fbi-traficosexual-suicidio-estrangulamiento-nuevayork_0_ctfNmFpL7K.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pensión no contributiva",
+   "busquedas": "500+",
+   "nota": "PNC de ANSES: los límites de ingresos permitidos en noviembre para mantener el extra",
+   "nota_url": "https://www.minutouno.com/economia/pnc-anses-los-limites-ingresos-permitidos-noviembre-mantener-el-extra-n6344498",
+   "medio": "Minutouno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "patrick vieira",
+   "busquedas": "100+",
+   "nota": "Their faces fell! You’ll be very surprised when you find out who the man they greeted is.",
+   "nota_url": "https://en.haberler.com/their-faces-fell-you-ll-be-very-surprised-when-you-2338601/",
+   "medio": "Haberler.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "línea sarmiento",
+   "busquedas": "2000+",
+   "nota": "Línea Sarmiento: circulará solo entre Once y Castelar durante el fin de semana largo de noviembre",
+   "nota_url": "https://www.zonanortehoy.com/sociedad/linea-sarmiento-por-obras-fundamentales-para-la-seguridad-operacional-el-servicio-estara-limitado-entre-once-y-castelar-del-21-al-23-de-noviembre/",
+   "medio": "Zona Norte Hoy",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "carlos alcaraz",
    "busquedas": "1000+",
-   "nota": "Carlos Alcaraz - Daniil Medvedev, en directo, el partido de las ATP Finals en vivo",
-   "nota_url": "https://elpais.com/deportes/tenis/2026-11-18/carlos-alcaraz-daniil-medvedev-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
-   "medio": "EL PAÍS",
+   "nota": "Alcaraz firma otro recital ante Medvedev pero enciende las alarmas por molestias físicas",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/18/alcaraz-firma-otro-recital-ante-medvedev-pero-enciende-las-alarmas-por-molestias-fisicas/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "java4shell",
    "busquedas": "100+",
-   "nota": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
-   "nota_url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
-   "medio": "wiz.io",
+   "nota": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+   "nota_url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "facundo conte",
+   "busquedas": "200+",
+   "nota": "De la experiencia con ayahuasca a la búsqueda espiritual: la nueva vida de Facundo Conte después de retirarse del voley",
+   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/17/facundo-conte-mostro-como-es-su-vida-despues-del-voley-cinco-anos-despues-de-la-medalla-olimpica/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "shakira mebarak",
    "busquedas": "200+",
-   "nota": "Shakira acude con su hijo Milan a la NBA y abre debate en redes: ¿se parece más a ella o a Piqué?",
-   "nota_url": "https://www.lasexta.com/programas/arusitys/shakira-acude-hijo-milan-nba-abre-debate-redes-parece-mas-ella-pique_202611166afab71dd3bddc0868b30557.html",
-   "medio": "LaSexta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "facundo conte",
-   "busquedas": "100+",
-   "nota": "Video Facundo Conte vivió una experiencia espiritual junto a una tribu en Córdoba",
-   "nota_url": "https://www.clarin.com/videos/facundo-conte-vivio-experiencia-espiritual-junto-tribu-cordoba_3_lRxjHhAf2h.html",
-   "medio": "Clarin.com",
+   "nota": "Caos en la preventa de entradas para el regreso de Shakira a Venezuela tras casi 16 años",
+   "nota_url": "https://www.bancaynegocios.com/caos-en-la-preventa-de-entradas-para-el-regreso-de-shakira-a-venezuela-tras-casi-16-anos/",
+   "medio": "Banca y Negocios",
    "relevante": false,
    "temas": []
   },
@@ -166,51 +213,6 @@
    "nota": "",
    "nota_url": "",
    "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "deutsche bank",
-   "busquedas": "1000+",
-   "nota": "US$600 millones en transacciones sospechosas de Jeffrey Epstein: en RDC analizaron las revelaciones sobre el Deutsche Bank",
-   "nota_url": "https://www.perfil.com/mas-perfil/us600-millones-en-transacciones-sospechosas-de-jeffrey-epstein-en-rdc-analizaron-las-revelaciones-sobre-el-deutsche-bank-arx8d3Y7xJcl",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "antonela roccuzzo",
-   "busquedas": "500+",
-   "nota": "Mientras Messi se prepara para los playoffs, Antonela Roccuzzo mostró su exigente rutina y celebró un logro",
-   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/18/mientras-messi-se-prepara-para-los-playoffs-antonela-roccuzzo-mostro-su-exigente-rutina-y-celebro-un-logro/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "18 de noviembre",
-   "busquedas": "200+",
-   "nota": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este miércoles 18 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/18/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-18-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima parana",
-   "busquedas": "500+",
-   "nota": "Tiempo en Entre Ríos: anuncian un miércoles nublado y caluroso en la provincia",
-   "nota_url": "https://ahora.com.ar/2/tiempo-en-entre-rios-anuncian-un-miercoles-nublado-y-caluroso-en-la-provincia",
-   "medio": "AHORA Entre Ríos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "play 5",
-   "busquedas": "500+",
-   "nota": "Anticipated GTA VI game sees record pre-orders in the Netherlands, drives PS5 sales",
-   "nota_url": "https://nltimes.nl/2026/11/17/anticipated-gta-vi-game-sees-record-pre-orders-netherlands-drives-ps5-sales",
-   "medio": "NL Times",
    "relevante": false,
    "temas": []
   }
