@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 17:42",
+ "actualizado": "18/11 18:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,20 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Tuzzio",
+   "url": "https://x.com/search?q=Tuzzio",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Justo Fernando Barrientos",
-   "url": "https://x.com/search?q=Justo%20Fernando%20Barrientos",
+   "tema": "JosÃ© Alperovich",
+   "url": "https://x.com/search?q=Jos%C3%83%C2%A9%20Alperovich",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -39,62 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Cyberpunk",
-   "url": "https://x.com/search?q=Cyberpunk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Roxana",
-   "url": "https://x.com/search?q=Roxana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pete Hegseth",
-   "url": "https://x.com/search?q=Pete%20Hegseth",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bugs",
-   "url": "https://x.com/search?q=Bugs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Barracas",
-   "url": "https://x.com/search?q=Barracas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Provincias Unidas",
-   "url": "https://x.com/search?q=Provincias%20Unidas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "FUE LESBICIDIO",
-   "url": "https://x.com/search?q=FUE%20LESBICIDIO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Llaryora",
-   "url": "https://x.com/search?q=Llaryora",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Andrea",
-   "url": "https://x.com/search?q=Andrea",
+   "tema": "Fuerte Apache",
+   "url": "https://x.com/search?q=Fuerte%20Apache",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +57,62 @@
    "temas": []
   },
   {
-   "tema": "LATAM",
-   "url": "https://x.com/search?q=LATAM",
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bugs",
+   "url": "https://x.com/search?q=Bugs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Traidores a la Patria",
+   "url": "https://x.com/search?q=Traidores%20a%20la%20Patria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pete Hegseth",
+   "url": "https://x.com/search?q=Pete%20Hegseth",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Justo Fernando Barrientos",
+   "url": "https://x.com/search?q=Justo%20Fernando%20Barrientos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Cyberpunk",
+   "url": "https://x.com/search?q=Cyberpunk",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#TorneoProyecciÃ³n",
+   "url": "https://x.com/search?q=%23TorneoProyecci%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Barracas",
+   "url": "https://x.com/search?q=Barracas",
    "relevante": false,
    "temas": []
   },
@@ -115,31 +121,88 @@
    "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Ateneo",
-   "url": "https://x.com/search?q=Ateneo",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "mercado de divisas",
+   "tema": "kevin castaño",
    "busquedas": "200+",
-   "nota": "El revuelo en torno a GTA VI pone de relieve los posibles riesgos para las aseguradoras que acechan en la infraestructura digital",
-   "nota_url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L5N46Z222:0/",
-   "medio": "TradingView",
+   "nota": "El jugador que echó River y que jugará la final de la Copa Sudamericana con Mineiro ante Boca",
+   "nota_url": "https://www.diariouno.com.ar/ovacion/futbol/el-jugador-que-echo-river-y-que-jugara-la-final-la-copa-sudamericana-mineiro-boca-n1617827",
+   "medio": "Diario UNO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiafoe",
+   "busquedas": "100+",
+   "nota": "Tiafoe, al ganar su primer juego contra Alcaraz: \"Al menos ya no pierdo 6-0\"",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/16/tiafoe-al-ganar-su-primer-juego-contra-alcaraz-al-menos-ya-no-pierdo-6-0/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "veredicto",
+   "busquedas": "500+",
+   "nota": "Triple lesbicidio en Barracas: condenaron a prisión perpetua a Justo Barrientos, el único acusado",
+   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/18/triple-lesbicidio-en-barracas-condenaron-a-prision-perpetua-a-justo-barrientos-el-unico-acusado/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "contrabando",
+   "busquedas": "200+",
+   "nota": "EE. UU. sanciona a una organización benéfica vinculada a Hezbolá en su ofensiva contra las redes afines a Irán, según el Tesoro",
+   "nota_url": "https://es.marketscreener.com/noticias/ee-uu-sanciona-a-una-organizaci-n-benefica-vinculada-a-hezbol-en-su-ofensiva-contra-las-redes-afi-ce785edddc89ff21",
+   "medio": "MarketScreener España",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mallorca fc",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alianza atlético - melgar",
+   "busquedas": "100+",
+   "nota": "EN VIVO: Terminó el primer tiempo con un marcador 1-0 a favor de Melgar sobre Alianza Atlético",
+   "nota_url": "https://www.directvsports.com/futbol/en-vivo-termino-el-primer-tiempo-con-un-marcador-1-0-a-favor-de-melgar-sobre-alianza-atletico-20261115-0003.html",
+   "medio": "DSports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fuerte apache",
+   "busquedas": "100+",
+   "nota": "Con bombas molotov y ametralladoras, así esperaba a la Policía en Fuerte Apache la banda narco a la que pertenecía “Mayonesa”",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/18/con-bombas-molotov-y-ametralladoras-asi-esperaba-a-la-policia-en-fuerte-apache-la-banda-narco-a-la-que-pertenecia-mayonesa/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "frances tiafoe",
+   "busquedas": "100+",
+   "nota": "ATP Finals 2026 live updates: Tiafoe bagels Cobolli in first ATP Finals win after Alcaraz eases past Medvedev",
+   "nota_url": "https://www.nytimes.com/athletic/live-blogs/atp-finals-2026-live-updates-schedule-scores-results/1DOjWbMEJi6q/",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "flavio cobolli",
-   "busquedas": "1000+",
-   "nota": "Carlos Alcaraz barrió a Medvedev con una alerta muscular en ATP Finals",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/carlos-alcaraz-barrio-a-medvedev-con-una-alerta-muscular-en-atp-finals/",
-   "medio": "Vermouth Deportivo",
-   "relevante": false,
+   "busquedas": "200+",
+   "nota": "Licensable picture: Dänemark vs Norwegen, Nations League, 6. Spieltag, Saison 2026 2027",
+   "nota_url": "https://www.reutersconnect.com/item/danemark-vs-norwegen-nations-league-6-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVEExUlQ",
+   "medio": "Reuters Connect",
+   "relevante": true,
    "temas": []
   },
   {
@@ -148,69 +211,6 @@
    "nota": "San Lorenzo acumula problemas: salarios pendientes en el básquet complican la continuidad de la disciplina",
    "nota_url": "https://www.dobleamarilla.com.ar/rosca/san-lorenzo-acumula-problemas--salarios-pendientes-en-el-basquet-complican-la-continuidad-de-la-disciplina_a6af31f77a00a14ee00c9a248",
    "medio": "Doble Amarilla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolar blue hoy",
-   "busquedas": "2000+",
-   "nota": "El dólar sube hasta los $1580 y alcanza un nuevo máximo",
-   "nota_url": "https://www.lanacion.com.ar/economia/el-dolar-oficial-sube-hasta-los-1580-y-alcanza-un-nuevo-maximo-nid18112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ambulancia",
-   "busquedas": "200+",
-   "nota": "Bahía Blanca: denunció que una ambulancia se llevó a su marido descompensado, lo devolvió muerto y lo dejó en un sillón del living",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/18/bahia-blanca-denuncio-que-una-ambulancia-se-llevo-a-su-marido-descompensado-lo-devolvio-muerto-y-lo-dejo-en-un-sillon-del-living/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rodrigo villagra",
-   "busquedas": "200+",
-   "nota": "River decidió quedarse un porcentaje y Inter de Porto Alegre lo compro: “50% restante”",
-   "nota_url": "https://soydelmillo.com/mercado-de-pases/2026/11/17/river-inter-porto-alegre/",
-   "medio": "Soy del Millo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pedro troglio",
-   "busquedas": "1000+",
-   "nota": "El DT ex Instituto que alcanzó un acuerdo para dirigir a un club argentino noviembre 2026",
-   "nota_url": "https://canalshowsport.com.ar/el-dt-ex-instituto-que-alcanzo-un-acuerdo-para-dirigir-a-un-club-argentino/",
-   "medio": "Canal Showsport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lesbicidio",
-   "busquedas": "200+",
-   "nota": "Prisión perpetua para el hombre que asesinó a tres mujeres en un hotel de Barracas",
-   "nota_url": "https://www.lanacion.com.ar/seguridad/prision-perpetua-para-el-hombre-que-asesino-a-tres-mujeres-en-un-hotel-en-barracas-nid18112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pago",
-   "busquedas": "500+",
-   "nota": "JUBILADOS y PENSIONADOS: Confirman el calendario IPS para noviembre 2026",
-   "nota_url": "https://calcularsueldo.com.ar/sueldos/16512/jubilados-y-pensionados-confirman-el-calendario-ips-para-noviembre-2026.html",
-   "medio": "Calcular Sueldo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "corolla deck",
-   "busquedas": "200+",
-   "nota": "223 CV y por debajo de Hilux: la nueva pick up de Toyota que se viene",
-   "nota_url": "https://transportemundial.com.ar/pickups/223-cv-y-por-debajo-de-hilux-la-nueva-pick-up-de-toyota-que-se-viene/",
-   "medio": "Transporte Mundial",
    "relevante": false,
    "temas": []
   }
