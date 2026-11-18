@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 09:52",
+ "actualizado": "18/11 11:08",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,26 +15,14 @@
    "temas": []
   },
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
@@ -51,6 +39,12 @@
    "temas": []
   },
   {
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Axel",
    "url": "https://x.com/search?q=Axel",
    "relevante": false,
@@ -63,14 +57,8 @@
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
+   "tema": "Metacritic",
+   "url": "https://x.com/search?q=Metacritic",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +69,50 @@
    "temas": []
   },
   {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "San Fernando",
    "url": "https://x.com/search?q=San%20Fernando",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mastantuono",
-   "url": "https://x.com/search?q=Mastantuono",
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Xi Jinping",
+   "url": "https://x.com/search?q=Xi%20Jinping",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Shenzhen",
+   "url": "https://x.com/search?q=Shenzhen",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "REBECCA X BAZAAR WOTY26",
+   "url": "https://x.com/search?q=REBECCA%20X%20BAZAAR%20WOTY26",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
    "relevante": false,
    "temas": []
   },
@@ -103,27 +121,45 @@
    "url": "https://x.com/search?q=GOTY",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Nueva Zelanda",
-   "url": "https://x.com/search?q=Nueva%20Zelanda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Perrone",
-   "url": "https://x.com/search?q=Perrone",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Las PASO",
-   "url": "https://x.com/search?q=Las%20PASO",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "carlos alcaraz",
+   "busquedas": "1000+",
+   "nota": "Carlos Alcaraz - Daniil Medvedev, en directo, el partido de las ATP Finals en vivo",
+   "nota_url": "https://elpais.com/deportes/tenis/2026-11-18/carlos-alcaraz-daniil-medvedev-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
+   "medio": "EL PAÍS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "java4shell",
+   "busquedas": "100+",
+   "nota": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
+   "nota_url": "https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk",
+   "medio": "wiz.io",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "shakira mebarak",
+   "busquedas": "200+",
+   "nota": "Shakira acude con su hijo Milan a la NBA y abre debate en redes: ¿se parece más a ella o a Piqué?",
+   "nota_url": "https://www.lasexta.com/programas/arusitys/shakira-acude-hijo-milan-nba-abre-debate-redes-parece-mas-ella-pique_202611166afab71dd3bddc0868b30557.html",
+   "medio": "LaSexta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "facundo conte",
+   "busquedas": "100+",
+   "nota": "Video Facundo Conte vivió una experiencia espiritual junto a una tribu en Córdoba",
+   "nota_url": "https://www.clarin.com/videos/facundo-conte-vivio-experiencia-espiritual-junto-tribu-cordoba_3_lRxjHhAf2h.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "copa intercontinental",
    "busquedas": "100+",
@@ -134,20 +170,29 @@
    "temas": []
   },
   {
+   "tema": "deutsche bank",
+   "busquedas": "1000+",
+   "nota": "US$600 millones en transacciones sospechosas de Jeffrey Epstein: en RDC analizaron las revelaciones sobre el Deutsche Bank",
+   "nota_url": "https://www.perfil.com/mas-perfil/us600-millones-en-transacciones-sospechosas-de-jeffrey-epstein-en-rdc-analizaron-las-revelaciones-sobre-el-deutsche-bank-arx8d3Y7xJcl",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "antonela roccuzzo",
-   "busquedas": "200+",
-   "nota": "Antonela Roccuzzo deslumbró con un vestido psicodélico en su última noche en Perú",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/antonela-roccuzzo-deslumbro-con-un-vestido-psicodelico-en-su-ultima-noche-en-peru-nid16112026/",
-   "medio": "La Nación",
+   "busquedas": "500+",
+   "nota": "Mientras Messi se prepara para los playoffs, Antonela Roccuzzo mostró su exigente rutina y celebró un logro",
+   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/18/mientras-messi-se-prepara-para-los-playoffs-antonela-roccuzzo-mostro-su-exigente-rutina-y-celebro-un-logro/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "18 de noviembre",
-   "busquedas": "100+",
-   "nota": "Vuelven las lluvias y ráfagas a Buenos Aires este miércoles: a qué hora llega el cambio",
-   "nota_url": "https://www.perfil.com/clima/cambia-el-clima-este-miercoles-cuando-llueve-y-como-sigue-el-tiempo-en-buenos-aires-a50-bgd-anenx2K3Tp6h",
-   "medio": "Perfil",
+   "busquedas": "200+",
+   "nota": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este miércoles 18 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/18/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-18-de-noviembre/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -162,55 +207,10 @@
   },
   {
    "tema": "play 5",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Anticipated GTA VI game sees record pre-orders in the Netherlands, drives PS5 sales",
    "nota_url": "https://nltimes.nl/2026/11/17/anticipated-gta-vi-game-sees-record-pre-orders-netherlands-drives-ps5-sales",
    "medio": "NL Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "metacritic",
-   "busquedas": "2000+",
-   "nota": "Grand Theft Auto VI Review: Outrageous Fortune",
-   "nota_url": "https://gameinformer.com/review/grand-theft-auto-vi/outrageous-fortune",
-   "medio": "Game Informer",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "armada argentina",
-   "busquedas": "500+",
-   "nota": "La Armada Argentina invertirá más de US$620 mil para modernizar tres buques de guerra de la década del '80",
-   "nota_url": "https://www.minutouno.com/politica/la-armada-argentina-invertira-mas-us620-mil-modernizar-tres-buques-guerra-la-decada-del-80-n6346499",
-   "medio": "Minutouno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima villa maria",
-   "busquedas": "100+",
-   "nota": "Martes con 27° y viento sur: sigue una alerta por tormentas hasta las 9",
-   "nota_url": "https://villamariavivo.com/clima-villa-maria-martes-17-noviembre-2026/",
-   "medio": "Villa María VIVO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "twitch",
-   "busquedas": "2000+",
-   "nota": "Novedades | Comunidad FAN y Grupo Gamer te regalan el GTA VI para PlayStation 5: cómo participar por el juego más esperado de la historia",
-   "nota_url": "https://comunidad.fan/noticias/comunidad-fan-y-grupo-gamer-te-regalan-el-gta-vi-para-playstation-5-como-participar-por-el-juego-mas-esperado-de-la-historia",
-   "medio": "Comunidad Fan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima cordoba",
-   "busquedas": "1000+",
-   "nota": "Nublado y más fresco: las zonas de Córdoba bajo alerta por tormentas este miércoles",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/18/nublado-y-mas-fresco-las-zonas-de-cordoba-bajo-alerta-por-tormentas-este-miercoles/",
-   "medio": "eldoce",
    "relevante": false,
    "temas": []
   }
