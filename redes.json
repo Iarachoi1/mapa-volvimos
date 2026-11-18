@@ -1,10 +1,16 @@
 {
- "actualizado": "18/11 07:51",
+ "actualizado": "18/11 08:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -21,9 +27,9 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
-   "relevante": false,
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
    "temas": []
   },
   {
@@ -33,20 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Olivia",
-   "url": "https://x.com/search?q=Olivia",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Perrone",
-   "url": "https://x.com/search?q=Perrone",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +93,20 @@
    "temas": []
   },
   {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "San Fernando",
    "url": "https://x.com/search?q=San%20Fernando",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bond",
-   "url": "https://x.com/search?q=Bond",
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Perrone",
+   "url": "https://x.com/search?q=Perrone",
    "relevante": false,
    "temas": []
   },
@@ -117,13 +117,31 @@
    "temas": []
   },
   {
-   "tema": "Las PASO",
-   "url": "https://x.com/search?q=Las%20PASO",
+   "tema": "james bond",
+   "url": "https://x.com/search?q=james%20bond",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "metacritic",
+   "busquedas": "500+",
+   "nota": "What time is GTA 6 coming out? Playable unlock times by region and how to preload on PS5 and Xbox",
+   "nota_url": "https://www.clarin.com/us-news/what-time-does-gta-6-release-launch-date-unlock-times-and-how-to-preload-on-ps5-and-xbox_0_4xP8TJHOwH.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "armada argentina",
+   "busquedas": "200+",
+   "nota": "La Armada Argentina destina US$ 621.000 a tres buques de guerra de los años 80: qué compró",
+   "nota_url": "https://www.mdzol.com/sociedad/2026/11/17/la-armada-argentina-destina-us-621000-a-tres-buques-de-guerra-de-los-anos-80-que-compro-1995902.html",
+   "medio": "MDZ Online",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "clima villa maria",
    "busquedas": "100+",
@@ -135,19 +153,28 @@
   },
   {
    "tema": "twitch",
-   "busquedas": "500+",
-   "nota": "Creator Economy Job Radar – November 17, 2026 – Google, Amazon, Twitch, And More",
-   "nota_url": "https://www.netinfluencer.com/creator-economy-job-radar-november-17-2026-google-amazon-twitch-and-more/",
-   "medio": "Net Influencer",
+   "busquedas": "2000+",
+   "nota": "‘Escape From Tarkov’ Takes On ‘GTA VI’ With Twitch Drops Campaign",
+   "nota_url": "https://www.forbes.com/sites/mikestubbs/2026/11/17/escape-from-tarkov-takes-on-gta-vi-with-twitch-drops-campaign/",
+   "medio": "Forbes",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima cordoba",
-   "busquedas": "500+",
-   "nota": "El tiempo: el miércoles va de las lluvias a la humedad en Córdoba",
-   "nota_url": "https://www.cba24n.com.ar/cordoba/el-tiempo--el-miercoles-va-de-las-lluvias-a-la-humedad-en-cordoba_a6afd715e38afb2bb23ab11a3",
-   "medio": "Cba24n",
+   "busquedas": "1000+",
+   "nota": "Nublado y más fresco: las zonas de Córdoba bajo alerta por tormentas este miércoles",
+   "nota_url": "https://eldoce.tv/actualidad/2026/11/18/nublado-y-mas-fresco-las-zonas-de-cordoba-bajo-alerta-por-tormentas-este-miercoles/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico rosario",
+   "busquedas": "2000+",
+   "nota": "Miércoles inestable en Rosario: se esperan tormentas aisladas y una máxima de 27 grados",
+   "nota_url": "https://www.cadena3.com/noticia/noticias-rosario/miercoles-inestable-en-rosario-se-esperan-tormentas-aisladas-y-una-maxima-de-27-grados_614227",
+   "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   },
@@ -161,17 +188,8 @@
    "temas": []
   },
   {
-   "tema": "pronostico cordoba",
-   "busquedas": "2000+",
-   "nota": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/mega-granizo-en-cordoba-un-temporal-azoto-a-la-provincia-y-hay-alerta-naranja-por-abundantes-nid16112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "cerro san bernardo",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "VIDEO. Incendio en el cerro San Bernardo: así fue el operativo para controlar las llamas",
    "nota_url": "https://www.eltribuno.com/salta/2026-11-17-18-22-0-video-incendio-en-el-cerro-san-bernardo-asi-fue-el-operativo-para-controlar-las-llamas",
    "medio": "El Tribuno",
@@ -180,7 +198,7 @@
   },
   {
    "tema": "página 12",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Suspensión de las PASO: quiénes ganan poder y quiénes pierden terreno en la pelea por las candidaturas",
    "nota_url": "https://www.ambito.com/politica/suspension-las-paso-quienes-ganan-poder-y-quienes-pierden-terreno-la-pelea-las-candidaturas-n6346377",
    "medio": "Ambito",
@@ -189,28 +207,10 @@
   },
   {
    "tema": "santiago bausili",
-   "busquedas": "200+",
-   "nota": "Documentos filtrados revelan que Deutsche Bank protegió las ganancias rusas a pesar de las advertencias",
-   "nota_url": "https://www.clarin.com/new-york-times-international-weekly/documentos-filtrados-revelan-deutsche-bank-protegio-ganancias-rusas-pesar-advertencias_0_PMF9lNBRJy.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima rosario",
-   "busquedas": "2000+",
-   "nota": "El tiempo en Rosario: miércoles caluroso, nublado y con chances de chaparrones",
-   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-caluroso-nublado-y-chances-chaparrones-n10292793.html",
-   "medio": "La Capital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "humedad",
    "busquedas": "500+",
-   "nota": "Santiago, albañil: “Para arreglar una pared con humedad hay que picar hasta llegar a la superficie firme”",
-   "nota_url": "https://radiomitre.cienradios.com/curiosidades/santiago-albanil-para-arreglar-una-pared-con-humedad-hay-que-picar-hasta-llegar-a-la-superficie-firme/",
-   "medio": "Radio Mitre",
+   "nota": "\"Destrucción creativa\": el presidente del BCRA defendió las reformas económicas y dijo que harán aumentar la inversión",
+   "nota_url": "https://www.clarin.com/economia/destruccion-creativa-presidente-bcra-defendio-reformas-economicas-dijo-haran-aumentar-inversion_0_7r3xuVgLkv.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
