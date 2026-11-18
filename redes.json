@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 06:50",
+ "actualizado": "18/11 07:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -17,6 +17,12 @@
   {
    "tema": "#SomosAsi",
    "url": "https://x.com/search?q=%23SomosAsi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Grimes",
-   "url": "https://x.com/search?q=Grimes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "James Bond",
-   "url": "https://x.com/search?q=James%20Bond",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "San Fernando",
    "url": "https://x.com/search?q=San%20Fernando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bond",
+   "url": "https://x.com/search?q=Bond",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#solpersonajedelaÃ±o",
+   "url": "https://x.com/search?q=%23solpersonajedela%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -115,35 +121,47 @@
    "url": "https://x.com/search?q=Las%20PASO",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "página 12",
+   "tema": "clima villa maria",
    "busquedas": "100+",
-   "nota": "Video El oficialismo tuvo que postergar el dictamen para suspender las PASO",
-   "nota_url": "https://www.clarin.com/videos/oficialismo-postergar-dictamen-suspender-paso_3_wSTuq95e98.html",
-   "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "santiago bausili",
-   "busquedas": "100+",
-   "nota": "Una filtración de documentos del Deutsche Bank reveló controles internos sobre Bausili",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/17/una-filtracion-de-documentos-del-deutsche-bank-revelo-controles-internos-sobre-bausili/",
-   "medio": "Página|12",
+   "nota": "Martes con 27° y viento sur: sigue una alerta por tormentas hasta las 9",
+   "nota_url": "https://villamariavivo.com/clima-villa-maria-martes-17-noviembre-2026/",
+   "medio": "Villa María VIVO",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tiempo en cordoba",
+   "tema": "twitch",
+   "busquedas": "500+",
+   "nota": "Creator Economy Job Radar – November 17, 2026 – Google, Amazon, Twitch, And More",
+   "nota_url": "https://www.netinfluencer.com/creator-economy-job-radar-november-17-2026-google-amazon-twitch-and-more/",
+   "medio": "Net Influencer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima cordoba",
+   "busquedas": "500+",
+   "nota": "El tiempo: el miércoles va de las lluvias a la humedad en Córdoba",
+   "nota_url": "https://www.cba24n.com.ar/cordoba/el-tiempo--el-miercoles-va-de-las-lluvias-a-la-humedad-en-cordoba_a6afd715e38afb2bb23ab11a3",
+   "medio": "Cba24n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico posadas",
+   "busquedas": "100+",
+   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este martes 17 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-martes-17-noviembre-2026_0_mqscJEnhqh.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico cordoba",
    "busquedas": "2000+",
    "nota": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
    "nota_url": "https://www.lanacion.com.ar/sociedad/mega-granizo-en-cordoba-un-temporal-azoto-a-la-provincia-y-hay-alerta-naranja-por-abundantes-nid16112026/",
@@ -152,65 +170,47 @@
    "temas": []
   },
   {
-   "tema": "clima rosario",
+   "tema": "cerro san bernardo",
+   "busquedas": "100+",
+   "nota": "VIDEO. Incendio en el cerro San Bernardo: así fue el operativo para controlar las llamas",
+   "nota_url": "https://www.eltribuno.com/salta/2026-11-17-18-22-0-video-incendio-en-el-cerro-san-bernardo-asi-fue-el-operativo-para-controlar-las-llamas",
+   "medio": "El Tribuno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "página 12",
    "busquedas": "200+",
-   "nota": "El clima en Rosario: el sol asoma después de la tormenta",
-   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-el-sol-asoma-despues-de-la-tormenta-20261117-0004.html",
-   "medio": "Rosario3",
+   "nota": "Suspensión de las PASO: quiénes ganan poder y quiénes pierden terreno en la pelea por las candidaturas",
+   "nota_url": "https://www.ambito.com/politica/suspension-las-paso-quienes-ganan-poder-y-quienes-pierden-terreno-la-pelea-las-candidaturas-n6346377",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santiago bausili",
+   "busquedas": "200+",
+   "nota": "Documentos filtrados revelan que Deutsche Bank protegió las ganancias rusas a pesar de las advertencias",
+   "nota_url": "https://www.clarin.com/new-york-times-international-weekly/documentos-filtrados-revelan-deutsche-bank-protegio-ganancias-rusas-pesar-advertencias_0_PMF9lNBRJy.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima rosario",
+   "busquedas": "2000+",
+   "nota": "El tiempo en Rosario: miércoles caluroso, nublado y con chances de chaparrones",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-caluroso-nublado-y-chances-chaparrones-n10292793.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "humedad",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Santiago, albañil: “Para arreglar una pared con humedad hay que picar hasta llegar a la superficie firme”",
    "nota_url": "https://radiomitre.cienradios.com/curiosidades/santiago-albanil-para-arreglar-una-pared-con-humedad-hay-que-picar-hasta-llegar-a-la-superficie-firme/",
    "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético independiente",
-   "busquedas": "100+",
-   "nota": "Chau Independiente: venden a última hora una joya a otro club del fútbol argentino",
-   "nota_url": "https://www.eldestapeweb.com/deportes/chau-independiente-venden-ultima-hora-joya-otro-club-futbol-argentino-20261116115920",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo en rosario",
-   "busquedas": "200+",
-   "nota": "La tormenta del viernes dejó graves daños en cultivos y tambos de la región",
-   "nota_url": "https://www.esperanzadiaxdia.com.ar/regionales/la-tormenta-del-viernes-dejo-graves-danos-en-cultivos-y-tambos-de-la-region.htm",
-   "medio": "Esperanza Dia X Dia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "200+",
-   "nota": "Continuarán las lluvias este miércoles en Corrientes",
-   "nota_url": "https://www.corrienteshoy.com/info-general/continuaran-las-lluvias-este-miercoles-en-corrientes.htm",
-   "medio": "Corrientes Hoy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gala de eliminación",
-   "busquedas": "2000+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clippers - jazz",
-   "busquedas": "100+",
-   "nota": "Jazz Clippers Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-clippers-basketball/image_9b123044-9a98-5c44-85c4-22051e77811b.html",
-   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   }
