@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 02:52",
+ "actualizado": "18/11 03:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,20 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mastantuono",
-   "url": "https://x.com/search?q=Mastantuono",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +39,8 @@
    "temas": []
   },
   {
-   "tema": "Dibu",
-   "url": "https://x.com/search?q=Dibu",
+   "tema": "Mastantuono",
+   "url": "https://x.com/search?q=Mastantuono",
    "relevante": false,
    "temas": []
   },
@@ -57,14 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
+   "tema": "Dibu",
+   "url": "https://x.com/search?q=Dibu",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Julian",
-   "url": "https://x.com/search?q=Julian",
+   "tema": "Edith",
+   "url": "https://x.com/search?q=Edith",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Simeone",
-   "url": "https://x.com/search?q=Simeone",
+   "tema": "Julian",
+   "url": "https://x.com/search?q=Julian",
    "relevante": false,
    "temas": []
   },
@@ -111,18 +105,24 @@
    "temas": []
   },
   {
-   "tema": "Gago",
-   "url": "https://x.com/search?q=Gago",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Larreta",
    "url": "https://x.com/search?q=Larreta",
    "relevante": true,
    "temas": [
     "Larreta"
    ]
+  },
+  {
+   "tema": "Alexis Mac Allister",
+   "url": "https://x.com/search?q=Alexis%20Mac%20Allister",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Olimpo",
+   "url": "https://x.com/search?q=Olimpo",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
@@ -138,18 +138,9 @@
   {
    "tema": "clippers - jazz",
    "busquedas": "100+",
-   "nota": "Jazz look to end 12-game skid against surging Clippers",
-   "nota_url": "https://www.cbssports.com/nba/news/jazz-look-to-end-12-game-skid-against-surging-clippers/",
-   "medio": "CBS Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lakers",
-   "busquedas": "200+",
-   "nota": "New Center Depth Option Just Fell Right in 76ers' Lap at Time of Need",
-   "nota_url": "https://sports.yahoo.com/articles/center-depth-option-just-fell-010002818.html",
-   "medio": "Yahoo Sports",
+   "nota": "Utah Jazz 132, LA Clippers 107: Key Takeaways",
+   "nota_url": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
@@ -164,10 +155,10 @@
   },
   {
    "tema": "lakers - hornets",
-   "busquedas": "500+",
-   "nota": "Bet on Hornets-Lakers being 'The Luka Show'",
-   "nota_url": "https://www.nbcsports.com/watch/nba/hornets-vs-lakers-nba-odds-get-ready-for-the-luka-doncic-show",
-   "medio": "NBC Sports",
+   "busquedas": "1000+",
+   "nota": "Los Angeles Lakers vs. Charlotte Hornets - 2nd Quarter Highlights",
+   "nota_url": "https://www.nba.com/watch/video/los-angeles-lakers-vs-charlotte-hornets-2nd-quarter-highlights-2?plsrc=nba&collection=luka-doncic",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
@@ -177,6 +168,15 @@
    "nota": "Una figura de Telefe terminó en silla de ruedas tras sufrir un accidente: \"Les quiero contar\"",
    "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-termino-silla-ruedas-sufrir-accidente-les-quiero-contar-20261116133723",
    "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mexico fc",
+   "busquedas": "200+",
+   "nota": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League - The Athletic",
+   "nota_url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   },
@@ -201,9 +201,9 @@
   {
    "tema": "gordon",
    "busquedas": "500+",
-   "nota": "Bears' Kyler Gordon: Deemed day-to-day with shoulder issue",
-   "nota_url": "https://www.cbssports.com/fantasy/football/news/bears-kyler-gordon-deemed-day-to-day-with-shoulder-issue/",
-   "medio": "CBS Sports",
+   "nota": "Barcelona summer signing yet to prove himself against Europe's biggest clubs despite recent resurgence",
+   "nota_url": "https://barcauniversal.com/barcelona-summer-signing-yet-to-prove-himself-against-europes-biggest-clubs-despite-recent-resurgence/",
+   "medio": "Barca Universal",
    "relevante": false,
    "temas": []
   },
