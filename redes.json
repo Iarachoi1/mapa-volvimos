@@ -1,7 +1,13 @@
 {
- "actualizado": "18/11 14:47",
+ "actualizado": "18/11 15:40",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
@@ -15,80 +21,26 @@
    "temas": []
   },
   {
-   "tema": "Humanidades",
-   "url": "https://x.com/search?q=Humanidades",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ley Malvinas",
-   "url": "https://x.com/search?q=Ley%20Malvinas",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Universidad de Belgrano",
-   "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "LATAM",
-   "url": "https://x.com/search?q=LATAM",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#nuestratarde",
-   "url": "https://x.com/search?q=%23nuestratarde",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
+   "tema": "Fernando Barrientos",
+   "url": "https://x.com/search?q=Fernando%20Barrientos",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ateneo",
-   "url": "https://x.com/search?q=Ateneo",
+   "tema": "Humanidades",
+   "url": "https://x.com/search?q=Humanidades",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Doctor Honoris Causa",
-   "url": "https://x.com/search?q=Doctor%20Honoris%20Causa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MurioFlorPeÃ±a",
-   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "LATAM",
+   "url": "https://x.com/search?q=LATAM",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +51,38 @@
    "temas": []
   },
   {
-   "tema": "GTA 5",
-   "url": "https://x.com/search?q=GTA%205",
+   "tema": "#nuestratarde",
+   "url": "https://x.com/search?q=%23nuestratarde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roxana",
+   "url": "https://x.com/search?q=Roxana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Universidad de Belgrano",
+   "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MurioFlorPeÃ±a",
+   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cyberpunk",
+   "url": "https://x.com/search?q=Cyberpunk",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
+   "tema": "Ateneo",
+   "url": "https://x.com/search?q=Ateneo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
    "relevante": false,
    "temas": []
   },
@@ -121,12 +109,78 @@
    "url": "https://x.com/search?q=Llaryora",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 5",
+   "url": "https://x.com/search?q=GTA%205",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "camiseta",
+   "tema": "ludovica squirru",
+   "busquedas": "500+",
+   "nota": "Horóscopo chino 2027: qué le espera a tu signo en el año de la Cabra de Fuego, según Ludovica Squirru",
+   "nota_url": "https://www.noticiasnet.com.ar/noticias/2026/11/16/234903-horoscopo-chino-2027-que-le-espera-a-tu-signo-en-el-ano-de-la-cabra-de-fuego-segun-ludovica-squirru",
+   "medio": "NoticiasNet",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "martín llaryora",
    "busquedas": "100+",
+   "nota": "Diputados: Llaryora y Pullaro dejaron al Gobierno sin quorum en medio de la disputa por el Consejo de la Magistratura",
+   "nota_url": "https://www.lanacion.com.ar/politica/diputados-llaryora-y-pullaro-dejaron-al-gobierno-sin-quorum-en-medio-de-la-disputa-por-el-consejo-de-nid18112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "ueno bank",
+   "busquedas": "500+",
+   "nota": "Caso ueno bank: Detienen a representante de GSR por millonario faltante",
+   "nota_url": "https://www.rdn.com.py/2026/11/18/caso-ueno-bank-detienen-a-representante-de-gsr-por-millonario-faltante/",
+   "medio": "Resumen de Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "selección de fútbol sub-17 de australia",
+   "busquedas": "500+",
+   "nota": "Mundial Sub 17: Argentina definió su lista para la cita en Qatar",
+   "nota_url": "https://www.espn.com.ar/futbol/nota/_/id/17504151/mundial-sub17-argentina-definio-su-lista-para-la-cita-en-qatar",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "real madrid - inter de milán",
+   "busquedas": "200+",
+   "nota": "Ivana: “Me hace mucha ilusión, tengo al Madrid en el corazoncito”",
+   "nota_url": "https://as.com/futbol/femenino/ivana-me-hace-mucha-ilusion-tengo-al-madrid-en-el-corazoncito-f202611-n/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico la plata",
+   "busquedas": "1000+",
+   "nota": "Tras las lluvias, brilla el sol y vuelve el calor a La Plata con un miércoles de casi 30°C",
+   "nota_url": "https://www.0221.com.ar/la-plata/tras-las-lluvias-brilla-el-sol-y-vuelve-el-calor-la-plata-un-miercoles-casi-30c-n137629",
+   "medio": "0221",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "camiseta",
+   "busquedas": "200+",
    "nota": "Milo J brilló en Estados Unidos: el artista se presentó en el programa de Jimmy Fallon y cantó \"Niño\"",
    "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/17/milo-j-brillo-en-estados-unidos-el-artista-se-presento-en-el-programa-de-jimmy-fallon-y-canto-nino/",
    "medio": "eltrecetv",
@@ -134,11 +188,11 @@
    "temas": []
   },
   {
-   "tema": "rockstar games",
-   "busquedas": "100+",
-   "nota": "Staff sacked by Grand Theft Auto developer ‘were caught red-handed’ – tribunal",
-   "nota_url": "https://www.standard.co.uk/news/crime/grand-theft-auto-iwgb-rockstar-canada-b1305444.html",
-   "medio": "London Evening Standard",
+   "tema": "turf",
+   "busquedas": "200+",
+   "nota": "Del turf a los recitales: la apuesta de Atanasof para transformar el Hipódromo",
+   "nota_url": "https://www.latecla.info/171265-del-turf-a-los-recitales-la-apuesta-de-atanasof-para-transformar-el-hipodromo",
+   "medio": "La Tecla",
    "relevante": false,
    "temas": []
   },
@@ -153,64 +207,10 @@
   },
   {
    "tema": "smn",
-   "busquedas": "2000+",
-   "nota": "Tormenta y granizo en una localidad de Corrientes",
-   "nota_url": "https://www.ellitoral.com.ar/interior/2026-11-18-7-48-0-tormenta-y-granizo-en-una-localidad-de-corrientes",
-   "medio": "El Litoral | Novedades de Corrientes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "turf",
-   "busquedas": "100+",
-   "nota": "Correr el “Rocha” es un sueño cumplido y ganarlo una utopía",
-   "nota_url": "https://diariohoy.net/el-clasico/correr-el-rocha-es-un-sueno-cumplido-y-ganarlo-una-utopia-290352",
-   "medio": "Diario Hoy En la noticia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima quilmes",
-   "busquedas": "500+",
-   "nota": "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/quilmes/clima-en-quilmes-hoy-cual-es-el-pronostico-del-tiempo-para-el-17-de-noviembre-de-2026-nid16112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico",
-   "busquedas": "5000+",
-   "nota": "Sube el río en Rosario y hay más evacuados en Santa Fe",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/16/sube-el-rio-en-rosario-y-hay-mas-evacuados-en-santa-fe/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "windy",
-   "busquedas": "200+",
-   "nota": "Mild this week ahead of a weekend cold front",
-   "nota_url": "https://okcfox.com/news/local/mild-this-week-ahead-of-a-weekend-cold-front",
-   "medio": "KOKH",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima capital federal",
-   "busquedas": "200+",
-   "nota": "Clima en Capital Federal: pronóstico del tiempo en vivo de esta madrugada",
-   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-pronostico-del-tiempo-en-vivo-de-esta-madrugada-202611163025",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "accuweather",
-   "busquedas": "200+",
-   "nota": "First Alert: There is one disturbance to monitor in the western Atlantic",
-   "nota_url": "https://www.wtok.com/2026/11/18/first-alert-there-is-one-disturbance-monitor-western-atlantic/",
-   "medio": "WTOK",
+   "busquedas": "1000+",
+   "nota": "Comenzó el temporal de viento y lluvia en Corrientes y pronostican alerta durante toda la jornada",
+   "nota_url": "https://www.radiodos.com.ar/217211-comenzo-el-temporal-de-viento-y-lluvia-en-corrientes-y-pronostican-alerta-durante-toda-la-jornada",
+   "medio": "Radio Dos Corrientes",
    "relevante": false,
    "temas": []
   }
