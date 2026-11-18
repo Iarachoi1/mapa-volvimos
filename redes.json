@@ -1,28 +1,10 @@
 {
- "actualizado": "18/11 12:46",
+ "actualizado": "18/11 13:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Nico Paz",
-   "url": "https://x.com/search?q=Nico%20Paz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +15,62 @@
    "temas": []
   },
   {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "Humanidades",
+   "url": "https://x.com/search?q=Humanidades",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "Universidad de Belgrano",
+   "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ley Malvinas",
+   "url": "https://x.com/search?q=Ley%20Malvinas",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Doctor Honoris Causa",
+   "url": "https://x.com/search?q=Doctor%20Honoris%20Causa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MurioFlorPeÃ±a",
+   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LATAM",
+   "url": "https://x.com/search?q=LATAM",
    "relevante": false,
    "temas": []
   },
@@ -57,38 +81,28 @@
    "temas": []
   },
   {
+   "tema": "Larreta",
+   "url": "https://x.com/search?q=Larreta",
+   "relevante": true,
+   "temas": [
+    "Larreta"
+   ]
+  },
+  {
    "tema": "Advincula",
    "url": "https://x.com/search?q=Advincula",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "San Fernando",
-   "url": "https://x.com/search?q=San%20Fernando",
+   "tema": "Putin",
+   "url": "https://x.com/search?q=Putin",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Xi Jinping",
-   "url": "https://x.com/search?q=Xi%20Jinping",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
@@ -99,120 +113,108 @@
    "temas": []
   },
   {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
+   "tema": "Xi Jinping",
+   "url": "https://x.com/search?q=Xi%20Jinping",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mastantuono",
-   "url": "https://x.com/search?q=Mastantuono",
+   "tema": "$8.000 off",
+   "url": "https://x.com/search?q=%248.000%20off",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Larreta",
-   "url": "https://x.com/search?q=Larreta",
-   "relevante": true,
-   "temas": [
-    "Larreta"
-   ]
   }
  ],
  "google": [
   {
-   "tema": "selección de fútbol sub-17 de argentina",
+   "tema": "windy",
+   "busquedas": "200+",
+   "nota": "Windy and seasonal for Wednesday",
+   "nota_url": "https://www.fox21news.com/news/windy-and-seasonal-for-wednesday/",
+   "medio": "FOX21 News Colorado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "temperatura caba",
+   "busquedas": "200+",
+   "nota": "Clima en Capital Federal hoy: lluvias y tormentas, con mejora hacía la noche",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-hoy-tormenta-y-20-c-a-las-03-00-en-vivo-202611173029",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "accuweather",
+   "busquedas": "200+",
+   "nota": "Bundle up: Storm winds down as cold air continues to funnel into New England",
+   "nota_url": "https://www.bostonglobe.com/2026/11/09/metro/noreaster-snow-boston-new-england/",
+   "medio": "The Boston Globe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "servicio meteorologico",
+   "busquedas": "100+",
+   "nota": "Clima hoy en Mar del Plata: el pronóstico del tiempo para este 18 noviembre 2026",
+   "nota_url": "https://www.infocampo.com.ar/clima-hoy-en-mar-del-plata-el-pronostico-del-tiempo-para-este-18-noviembre-2026/",
+   "medio": "Infocampo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "matías biscay",
+   "busquedas": "100+",
+   "nota": "Matías Biscay se larga como DT y ya lo tentaron varios: Tigre la oferta más firme",
+   "nota_url": "https://deportv.gob.ar/futbol/biscay-dt-tigre-oferta-firme-nid:19014",
+   "medio": "DeporTV",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima buenos aires",
+   "busquedas": "5000+",
+   "nota": "Buenos Aires tendrá cielo despejado y una máxima de 27 grados",
+   "nota_url": "https://www.radionacional.com.ar/buenos-aires-tendra-cielo-despejado-y-una-maxima-de-27-grados/",
+   "medio": "Radio Nacional Rock",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liam lawson",
    "busquedas": "500+",
-   "nota": "Argentina en el Mundial Sub 17: calendario de partidos y resultados",
-   "nota_url": "https://www.tycsports.com/seleccion-argentina/argentina-en-el-mundial-sub-17-calendario-de-partidos-y-resultados-id771773.html",
-   "medio": "TyC Sports",
+   "nota": "Speed, trust, controlled aggression - What really led to Liam Lawson's career-saving F1 2026",
+   "nota_url": "https://www.motorsport.com/f1/news/speed-trust-controlled-aggression-what-really-led-to-liam-lawsons-career-saving-f1-2026/10875262/",
+   "medio": "Motorsport.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "autopsia",
+   "tema": "sony",
    "busquedas": "200+",
-   "nota": "Caso Epstein: expertos ponen en duda el suicidio y afirman que las lesiones indican un homicidio",
-   "nota_url": "https://www.ellitoral.com/internacionales/jeffreyepstein-homicidio-investigacionforense-autopsia-fbi-traficosexual-suicidio-estrangulamiento-nuevayork_0_ctfNmFpL7K.html",
-   "medio": "El Litoral",
+   "nota": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
+   "nota_url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/",
+   "medio": "Polygon.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pensión no contributiva",
-   "busquedas": "500+",
-   "nota": "PNC de ANSES: los límites de ingresos permitidos en noviembre para mantener el extra",
-   "nota_url": "https://www.minutouno.com/economia/pnc-anses-los-limites-ingresos-permitidos-noviembre-mantener-el-extra-n6344498",
-   "medio": "Minutouno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "patrick vieira",
+   "tema": "horóscopo chino 2027 año de la cabra de fuego",
    "busquedas": "100+",
-   "nota": "Their faces fell! You’ll be very surprised when you find out who the man they greeted is.",
-   "nota_url": "https://en.haberler.com/their-faces-fell-you-ll-be-very-surprised-when-you-2338601/",
-   "medio": "Haberler.com",
-   "relevante": false,
+   "nota": "Horóscopo chino 2027: qué le espera a tu signo en el año de la Cabra de Fuego, según Ludovica Squirru",
+   "nota_url": "https://www.noticiasnet.com.ar/noticias/2026/11/16/234903-horoscopo-chino-2027-que-le-espera-a-tu-signo-en-el-ano-de-la-cabra-de-fuego-segun-ludovica-squirru",
+   "medio": "NoticiasNet",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "línea sarmiento",
-   "busquedas": "2000+",
-   "nota": "Línea Sarmiento: circulará solo entre Once y Castelar durante el fin de semana largo de noviembre",
-   "nota_url": "https://www.zonanortehoy.com/sociedad/linea-sarmiento-por-obras-fundamentales-para-la-seguridad-operacional-el-servicio-estara-limitado-entre-once-y-castelar-del-21-al-23-de-noviembre/",
-   "medio": "Zona Norte Hoy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos alcaraz",
-   "busquedas": "1000+",
-   "nota": "Alcaraz firma otro recital ante Medvedev pero enciende las alarmas por molestias físicas",
-   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/18/alcaraz-firma-otro-recital-ante-medvedev-pero-enciende-las-alarmas-por-molestias-fisicas/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "java4shell",
+   "tema": "cuando sale gta 6 para pc",
    "busquedas": "100+",
-   "nota": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-   "nota_url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "facundo conte",
-   "busquedas": "200+",
-   "nota": "De la experiencia con ayahuasca a la búsqueda espiritual: la nueva vida de Facundo Conte después de retirarse del voley",
-   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/17/facundo-conte-mostro-como-es-su-vida-despues-del-voley-cinco-anos-despues-de-la-medalla-olimpica/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "shakira mebarak",
-   "busquedas": "200+",
-   "nota": "Caos en la preventa de entradas para el regreso de Shakira a Venezuela tras casi 16 años",
-   "nota_url": "https://www.bancaynegocios.com/caos-en-la-preventa-de-entradas-para-el-regreso-de-shakira-a-venezuela-tras-casi-16-anos/",
-   "medio": "Banca y Negocios",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa intercontinental",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
+   "nota_url": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
+   "medio": "Xataka",
    "relevante": false,
    "temas": []
   }
