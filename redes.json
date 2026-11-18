@@ -1,16 +1,10 @@
 {
- "actualizado": "18/11 08:49",
+ "actualizado": "18/11 09:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -33,6 +27,12 @@
    "temas": []
   },
   {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Toty",
    "url": "https://x.com/search?q=Toty",
    "relevante": false,
@@ -41,12 +41,6 @@
   {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robert Pattinson",
-   "url": "https://x.com/search?q=Robert%20Pattinson",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la Militancia",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +69,20 @@
    "temas": []
   },
   {
-   "tema": "Mastantuono",
-   "url": "https://x.com/search?q=Mastantuono",
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DÃ­a de la Militancia",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robert Pattinson",
+   "url": "https://x.com/search?q=Robert%20Pattinson",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +93,20 @@
    "temas": []
   },
   {
+   "tema": "Mastantuono",
+   "url": "https://x.com/search?q=Mastantuono",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GOTY",
    "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nueva Zelanda",
+   "url": "https://x.com/search?q=Nueva%20Zelanda",
    "relevante": false,
    "temas": []
   },
@@ -111,34 +117,73 @@
    "temas": []
   },
   {
-   "tema": "#solpersonajedelaÃ±o",
-   "url": "https://x.com/search?q=%23solpersonajedela%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "james bond",
-   "url": "https://x.com/search?q=james%20bond",
+   "tema": "Las PASO",
+   "url": "https://x.com/search?q=Las%20PASO",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "metacritic",
+   "tema": "copa intercontinental",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "antonela roccuzzo",
+   "busquedas": "200+",
+   "nota": "Antonela Roccuzzo deslumbró con un vestido psicodélico en su última noche en Perú",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/antonela-roccuzzo-deslumbro-con-un-vestido-psicodelico-en-su-ultima-noche-en-peru-nid16112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "18 de noviembre",
+   "busquedas": "100+",
+   "nota": "Vuelven las lluvias y ráfagas a Buenos Aires este miércoles: a qué hora llega el cambio",
+   "nota_url": "https://www.perfil.com/clima/cambia-el-clima-este-miercoles-cuando-llueve-y-como-sigue-el-tiempo-en-buenos-aires-a50-bgd-anenx2K3Tp6h",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
    "busquedas": "500+",
-   "nota": "What time is GTA 6 coming out? Playable unlock times by region and how to preload on PS5 and Xbox",
-   "nota_url": "https://www.clarin.com/us-news/what-time-does-gta-6-release-launch-date-unlock-times-and-how-to-preload-on-ps5-and-xbox_0_4xP8TJHOwH.html",
-   "medio": "Clarin.com",
+   "nota": "Tiempo en Entre Ríos: anuncian un miércoles nublado y caluroso en la provincia",
+   "nota_url": "https://ahora.com.ar/2/tiempo-en-entre-rios-anuncian-un-miercoles-nublado-y-caluroso-en-la-provincia",
+   "medio": "AHORA Entre Ríos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "play 5",
+   "busquedas": "200+",
+   "nota": "Anticipated GTA VI game sees record pre-orders in the Netherlands, drives PS5 sales",
+   "nota_url": "https://nltimes.nl/2026/11/17/anticipated-gta-vi-game-sees-record-pre-orders-netherlands-drives-ps5-sales",
+   "medio": "NL Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "metacritic",
+   "busquedas": "2000+",
+   "nota": "Grand Theft Auto VI Review: Outrageous Fortune",
+   "nota_url": "https://gameinformer.com/review/grand-theft-auto-vi/outrageous-fortune",
+   "medio": "Game Informer",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "armada argentina",
-   "busquedas": "200+",
-   "nota": "La Armada Argentina destina US$ 621.000 a tres buques de guerra de los años 80: qué compró",
-   "nota_url": "https://www.mdzol.com/sociedad/2026/11/17/la-armada-argentina-destina-us-621000-a-tres-buques-de-guerra-de-los-anos-80-que-compro-1995902.html",
-   "medio": "MDZ Online",
+   "busquedas": "500+",
+   "nota": "La Armada Argentina invertirá más de US$620 mil para modernizar tres buques de guerra de la década del '80",
+   "nota_url": "https://www.minutouno.com/politica/la-armada-argentina-invertira-mas-us620-mil-modernizar-tres-buques-guerra-la-decada-del-80-n6346499",
+   "medio": "Minutouno",
    "relevante": false,
    "temas": []
   },
@@ -154,9 +199,9 @@
   {
    "tema": "twitch",
    "busquedas": "2000+",
-   "nota": "‘Escape From Tarkov’ Takes On ‘GTA VI’ With Twitch Drops Campaign",
-   "nota_url": "https://www.forbes.com/sites/mikestubbs/2026/11/17/escape-from-tarkov-takes-on-gta-vi-with-twitch-drops-campaign/",
-   "medio": "Forbes",
+   "nota": "Novedades | Comunidad FAN y Grupo Gamer te regalan el GTA VI para PlayStation 5: cómo participar por el juego más esperado de la historia",
+   "nota_url": "https://comunidad.fan/noticias/comunidad-fan-y-grupo-gamer-te-regalan-el-gta-vi-para-playstation-5-como-participar-por-el-juego-mas-esperado-de-la-historia",
+   "medio": "Comunidad Fan",
    "relevante": false,
    "temas": []
   },
@@ -166,51 +211,6 @@
    "nota": "Nublado y más fresco: las zonas de Córdoba bajo alerta por tormentas este miércoles",
    "nota_url": "https://eldoce.tv/actualidad/2026/11/18/nublado-y-mas-fresco-las-zonas-de-cordoba-bajo-alerta-por-tormentas-este-miercoles/",
    "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico rosario",
-   "busquedas": "2000+",
-   "nota": "Miércoles inestable en Rosario: se esperan tormentas aisladas y una máxima de 27 grados",
-   "nota_url": "https://www.cadena3.com/noticia/noticias-rosario/miercoles-inestable-en-rosario-se-esperan-tormentas-aisladas-y-una-maxima-de-27-grados_614227",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico posadas",
-   "busquedas": "100+",
-   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este martes 17 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-martes-17-noviembre-2026_0_mqscJEnhqh.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cerro san bernardo",
-   "busquedas": "200+",
-   "nota": "VIDEO. Incendio en el cerro San Bernardo: así fue el operativo para controlar las llamas",
-   "nota_url": "https://www.eltribuno.com/salta/2026-11-17-18-22-0-video-incendio-en-el-cerro-san-bernardo-asi-fue-el-operativo-para-controlar-las-llamas",
-   "medio": "El Tribuno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "página 12",
-   "busquedas": "500+",
-   "nota": "Suspensión de las PASO: quiénes ganan poder y quiénes pierden terreno en la pelea por las candidaturas",
-   "nota_url": "https://www.ambito.com/politica/suspension-las-paso-quienes-ganan-poder-y-quienes-pierden-terreno-la-pelea-las-candidaturas-n6346377",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santiago bausili",
-   "busquedas": "500+",
-   "nota": "\"Destrucción creativa\": el presidente del BCRA defendió las reformas económicas y dijo que harán aumentar la inversión",
-   "nota_url": "https://www.clarin.com/economia/destruccion-creativa-presidente-bcra-defendio-reformas-economicas-dijo-haran-aumentar-inversion_0_7r3xuVgLkv.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
