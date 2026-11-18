@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 05:08",
+ "actualizado": "18/11 06:50",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,8 +39,8 @@
    "temas": []
   },
   {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
+   "tema": "Olivia",
+   "url": "https://x.com/search?q=Olivia",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Quentin Grimes",
-   "url": "https://x.com/search?q=Quentin%20Grimes",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Axel",
    "url": "https://x.com/search?q=Axel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
    "relevante": false,
    "temas": []
   },
@@ -99,6 +93,12 @@
    "temas": []
   },
   {
+   "tema": "Grimes",
+   "url": "https://x.com/search?q=Grimes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "James Bond",
    "url": "https://x.com/search?q=James%20Bond",
    "relevante": false,
@@ -125,6 +125,69 @@
  ],
  "google": [
   {
+   "tema": "página 12",
+   "busquedas": "100+",
+   "nota": "Video El oficialismo tuvo que postergar el dictamen para suspender las PASO",
+   "nota_url": "https://www.clarin.com/videos/oficialismo-postergar-dictamen-suspender-paso_3_wSTuq95e98.html",
+   "medio": "Clarin.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "santiago bausili",
+   "busquedas": "100+",
+   "nota": "Una filtración de documentos del Deutsche Bank reveló controles internos sobre Bausili",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/17/una-filtracion-de-documentos-del-deutsche-bank-revelo-controles-internos-sobre-bausili/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo en cordoba",
+   "busquedas": "2000+",
+   "nota": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/mega-granizo-en-cordoba-un-temporal-azoto-a-la-provincia-y-hay-alerta-naranja-por-abundantes-nid16112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima rosario",
+   "busquedas": "200+",
+   "nota": "El clima en Rosario: el sol asoma después de la tormenta",
+   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-el-sol-asoma-despues-de-la-tormenta-20261117-0004.html",
+   "medio": "Rosario3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "humedad",
+   "busquedas": "200+",
+   "nota": "Santiago, albañil: “Para arreglar una pared con humedad hay que picar hasta llegar a la superficie firme”",
+   "nota_url": "https://radiomitre.cienradios.com/curiosidades/santiago-albanil-para-arreglar-una-pared-con-humedad-hay-que-picar-hasta-llegar-a-la-superficie-firme/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético independiente",
+   "busquedas": "100+",
+   "nota": "Chau Independiente: venden a última hora una joya a otro club del fútbol argentino",
+   "nota_url": "https://www.eldestapeweb.com/deportes/chau-independiente-venden-ultima-hora-joya-otro-club-futbol-argentino-20261116115920",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo en rosario",
+   "busquedas": "200+",
+   "nota": "La tormenta del viernes dejó graves daños en cultivos y tambos de la región",
+   "nota_url": "https://www.esperanzadiaxdia.com.ar/regionales/la-tormenta-del-viernes-dejo-graves-danos-en-cultivos-y-tambos-de-la-region.htm",
+   "medio": "Esperanza Dia X Dia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "clima corrientes",
    "busquedas": "200+",
    "nota": "Continuarán las lluvias este miércoles en Corrientes",
@@ -146,71 +209,8 @@
    "tema": "clippers - jazz",
    "busquedas": "100+",
    "nota": "Jazz Clippers Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-clippers-basketball/image_4f2c1b21-04dc-556f-8a39-fbbd584af19d.html",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-clippers-basketball/image_9b123044-9a98-5c44-85c4-22051e77811b.html",
    "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "casa rosada",
-   "busquedas": "100+",
-   "nota": "Renunció la 'mano derecha' de Adrián Ravier (y van...)",
-   "nota_url": "https://www.corrienteshoy.com/nacionales/renuncio-la-mano-derecha-de-adrian-ravier-y-van.htm",
-   "medio": "Corrientes Hoy",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "lakers - hornets",
-   "busquedas": "2000+",
-   "nota": "Quentin Grimes goes off for career-high 47 points in OT win",
-   "nota_url": "https://www.nba.com/watch/video/quentin-grimes-goes-off-for-career-high-47-points-in-ot-win",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "flor peña",
-   "busquedas": "2000+",
-   "nota": "Una figura de Telefe terminó en silla de ruedas tras sufrir un accidente: \"Les quiero contar\"",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-termino-silla-ruedas-sufrir-accidente-les-quiero-contar-20261116133723",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mexico fc",
-   "busquedas": "200+",
-   "nota": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League - The Athletic",
-   "nota_url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mexico",
-   "busquedas": "500+",
-   "nota": "Sheinbaum y Trump se reunirán este miércoles en los márgenes de la APEC, según México",
-   "nota_url": "https://www.clarin.com/estados-unidos/sheinbaum-y-trump-se-reuniran-este-miercoles-en-los-margenes-de-la-apec-segun-mexico_0_fdH9DHYooI.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ana del reino unido",
-   "busquedas": "5000+",
-   "nota": "Argentina rechaza la visita de la princesa británica Ana a las islas Malvinas",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/18/argentina-rechaza-la-visita-de-la-princesa-britanica-ana-a-las-islas-malvinas/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lali espósito",
-   "busquedas": "1000+",
-   "nota": "Lali Espósito mostró fotos inéditas de su casamiento con Pedro Rosemblat y reveló quiénes fueron claves para su gran día",
-   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/16/lali-esposito-mostro-fotos-ineditas-de-su-casamiento-con-pedro-rosemblat-y-revelo-quienes-fueron-claves-para-su-gran-dia/",
-   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   }
