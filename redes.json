@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 13:52",
+ "actualizado": "18/11 14:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,20 +21,26 @@
    "temas": []
   },
   {
+   "tema": "Ley Malvinas",
+   "url": "https://x.com/search?q=Ley%20Malvinas",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "Universidad de Belgrano",
    "url": "https://x.com/search?q=Universidad%20de%20Belgrano",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
+   "tema": "LATAM",
+   "url": "https://x.com/search?q=LATAM",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
+   "tema": "#nuestratarde",
+   "url": "https://x.com/search?q=%23nuestratarde",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +51,20 @@
    "temas": []
   },
   {
-   "tema": "Ley Malvinas",
-   "url": "https://x.com/search?q=Ley%20Malvinas",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "Taiwan",
    "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ateneo",
+   "url": "https://x.com/search?q=Ateneo",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +81,32 @@
    "temas": []
   },
   {
-   "tema": "LATAM",
-   "url": "https://x.com/search?q=LATAM",
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Provincias Unidas",
+   "url": "https://x.com/search?q=Provincias%20Unidas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 5",
+   "url": "https://x.com/search?q=GTA%205",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
@@ -81,140 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Larreta",
-   "url": "https://x.com/search?q=Larreta",
-   "relevante": true,
-   "temas": [
-    "Larreta"
-   ]
-  },
-  {
-   "tema": "Advincula",
-   "url": "https://x.com/search?q=Advincula",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Putin",
-   "url": "https://x.com/search?q=Putin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Shenzhen",
-   "url": "https://x.com/search?q=Shenzhen",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Xi Jinping",
-   "url": "https://x.com/search?q=Xi%20Jinping",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$8.000 off",
-   "url": "https://x.com/search?q=%248.000%20off",
+   "tema": "Llaryora",
+   "url": "https://x.com/search?q=Llaryora",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "windy",
-   "busquedas": "200+",
-   "nota": "Windy and seasonal for Wednesday",
-   "nota_url": "https://www.fox21news.com/news/windy-and-seasonal-for-wednesday/",
-   "medio": "FOX21 News Colorado",
+   "tema": "camiseta",
+   "busquedas": "100+",
+   "nota": "Milo J brilló en Estados Unidos: el artista se presentó en el programa de Jimmy Fallon y cantó \"Niño\"",
+   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/17/milo-j-brillo-en-estados-unidos-el-artista-se-presento-en-el-programa-de-jimmy-fallon-y-canto-nino/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "temperatura caba",
+   "tema": "rockstar games",
+   "busquedas": "100+",
+   "nota": "Staff sacked by Grand Theft Auto developer ‘were caught red-handed’ – tribunal",
+   "nota_url": "https://www.standard.co.uk/news/crime/grand-theft-auto-iwgb-rockstar-canada-b1305444.html",
+   "medio": "London Evening Standard",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "depósito a plazo fijo",
    "busquedas": "200+",
-   "nota": "Clima en Capital Federal hoy: lluvias y tormentas, con mejora hacía la noche",
-   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-hoy-tormenta-y-20-c-a-las-03-00-en-vivo-202611173029",
+   "nota": "Subieron las tasas de los plazos fijos: qué bancos pagan más y cuánto rinde invertir $10 millones hoy, 18 de noviembre",
+   "nota_url": "https://www.rionegro.com.ar/economia/subieron-las-tasas-de-los-plazos-fijos-que-bancos-pagan-mas-y-cuanto-rinde-invertir-10-millones-hoy-18-de-noviembre-4803100/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "smn",
+   "busquedas": "2000+",
+   "nota": "Tormenta y granizo en una localidad de Corrientes",
+   "nota_url": "https://www.ellitoral.com.ar/interior/2026-11-18-7-48-0-tormenta-y-granizo-en-una-localidad-de-corrientes",
+   "medio": "El Litoral | Novedades de Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "turf",
+   "busquedas": "100+",
+   "nota": "Correr el “Rocha” es un sueño cumplido y ganarlo una utopía",
+   "nota_url": "https://diariohoy.net/el-clasico/correr-el-rocha-es-un-sueno-cumplido-y-ganarlo-una-utopia-290352",
+   "medio": "Diario Hoy En la noticia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima quilmes",
+   "busquedas": "500+",
+   "nota": "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/quilmes/clima-en-quilmes-hoy-cual-es-el-pronostico-del-tiempo-para-el-17-de-noviembre-de-2026-nid16112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico",
+   "busquedas": "5000+",
+   "nota": "Sube el río en Rosario y hay más evacuados en Santa Fe",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/16/sube-el-rio-en-rosario-y-hay-mas-evacuados-en-santa-fe/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "windy",
+   "busquedas": "200+",
+   "nota": "Mild this week ahead of a weekend cold front",
+   "nota_url": "https://okcfox.com/news/local/mild-this-week-ahead-of-a-weekend-cold-front",
+   "medio": "KOKH",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima capital federal",
+   "busquedas": "200+",
+   "nota": "Clima en Capital Federal: pronóstico del tiempo en vivo de esta madrugada",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-pronostico-del-tiempo-en-vivo-de-esta-madrugada-202611163025",
    "medio": "El Destape",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
+   "relevante": false,
+   "temas": []
   },
   {
    "tema": "accuweather",
    "busquedas": "200+",
-   "nota": "Bundle up: Storm winds down as cold air continues to funnel into New England",
-   "nota_url": "https://www.bostonglobe.com/2026/11/09/metro/noreaster-snow-boston-new-england/",
-   "medio": "The Boston Globe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "servicio meteorologico",
-   "busquedas": "100+",
-   "nota": "Clima hoy en Mar del Plata: el pronóstico del tiempo para este 18 noviembre 2026",
-   "nota_url": "https://www.infocampo.com.ar/clima-hoy-en-mar-del-plata-el-pronostico-del-tiempo-para-este-18-noviembre-2026/",
-   "medio": "Infocampo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "matías biscay",
-   "busquedas": "100+",
-   "nota": "Matías Biscay se larga como DT y ya lo tentaron varios: Tigre la oferta más firme",
-   "nota_url": "https://deportv.gob.ar/futbol/biscay-dt-tigre-oferta-firme-nid:19014",
-   "medio": "DeporTV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima buenos aires",
-   "busquedas": "5000+",
-   "nota": "Buenos Aires tendrá cielo despejado y una máxima de 27 grados",
-   "nota_url": "https://www.radionacional.com.ar/buenos-aires-tendra-cielo-despejado-y-una-maxima-de-27-grados/",
-   "medio": "Radio Nacional Rock",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "liam lawson",
-   "busquedas": "500+",
-   "nota": "Speed, trust, controlled aggression - What really led to Liam Lawson's career-saving F1 2026",
-   "nota_url": "https://www.motorsport.com/f1/news/speed-trust-controlled-aggression-what-really-led-to-liam-lawsons-career-saving-f1-2026/10875262/",
-   "medio": "Motorsport.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sony",
-   "busquedas": "200+",
-   "nota": "Gta 6 Won’t Launch Without This PS5 Anti-Piracy Update Sony Just Released",
-   "nota_url": "https://www.polygon.com/gta-6-grand-theft-auto-playstation-mandatory-ps5-update/",
-   "medio": "Polygon.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "horóscopo chino 2027 año de la cabra de fuego",
-   "busquedas": "100+",
-   "nota": "Horóscopo chino 2027: qué le espera a tu signo en el año de la Cabra de Fuego, según Ludovica Squirru",
-   "nota_url": "https://www.noticiasnet.com.ar/noticias/2026/11/16/234903-horoscopo-chino-2027-que-le-espera-a-tu-signo-en-el-ano-de-la-cabra-de-fuego-segun-ludovica-squirru",
-   "medio": "NoticiasNet",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cuando sale gta 6 para pc",
-   "busquedas": "100+",
-   "nota": "Ex de Rockstar sobre 'GTA VI' en PC gracias a la IA: \"Me preocuparía si fuera Rockstar\"",
-   "nota_url": "https://www.xataka.com/videojuegos/ex-rockstar-gta-vi-pc-gracias-a-ia-me-preocuparia-fuera-rockstar",
-   "medio": "Xataka",
+   "nota": "First Alert: There is one disturbance to monitor in the western Atlantic",
+   "nota_url": "https://www.wtok.com/2026/11/18/first-alert-there-is-one-disturbance-monitor-western-atlantic/",
+   "medio": "WTOK",
    "relevante": false,
    "temas": []
   }
