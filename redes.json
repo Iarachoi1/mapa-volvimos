@@ -1,16 +1,16 @@
 {
- "actualizado": "18/11 01:49",
+ "actualizado": "18/11 02:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Nico Paz",
-   "url": "https://x.com/search?q=Nico%20Paz",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
    "relevante": false,
    "temas": []
   },
@@ -27,6 +27,12 @@
    "temas": []
   },
   {
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Mastantuono",
    "url": "https://x.com/search?q=Mastantuono",
    "relevante": false,
@@ -39,14 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Scaloni",
-   "url": "https://x.com/search?q=Scaloni",
+   "tema": "Dibu",
+   "url": "https://x.com/search?q=Dibu",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Dibu",
-   "url": "https://x.com/search?q=Dibu",
+   "tema": "Scaloni",
+   "url": "https://x.com/search?q=Scaloni",
    "relevante": false,
    "temas": []
   },
@@ -57,38 +63,26 @@
    "temas": []
   },
   {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Edith",
    "url": "https://x.com/search?q=Edith",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "JuliÃ¡n",
-   "url": "https://x.com/search?q=Juli%C3%83%C2%A1n",
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Julian",
+   "url": "https://x.com/search?q=Julian",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#RebeccaInArgentina",
    "url": "https://x.com/search?q=%23RebeccaInArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Perrone",
-   "url": "https://x.com/search?q=Perrone",
    "relevante": false,
    "temas": []
   },
@@ -111,19 +105,54 @@
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "Perrone",
+   "url": "https://x.com/search?q=Perrone",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rodrigo de la Serna",
-   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
+   "tema": "Gago",
+   "url": "https://x.com/search?q=Gago",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Larreta",
+   "url": "https://x.com/search?q=Larreta",
+   "relevante": true,
+   "temas": [
+    "Larreta"
+   ]
   }
  ],
  "google": [
+  {
+   "tema": "gala de eliminación",
+   "busquedas": "2000+",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clippers - jazz",
+   "busquedas": "100+",
+   "nota": "Jazz look to end 12-game skid against surging Clippers",
+   "nota_url": "https://www.cbssports.com/nba/news/jazz-look-to-end-12-game-skid-against-surging-clippers/",
+   "medio": "CBS Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lakers",
+   "busquedas": "200+",
+   "nota": "New Center Depth Option Just Fell Right in 76ers' Lap at Time of Need",
+   "nota_url": "https://sports.yahoo.com/articles/center-depth-option-just-fell-010002818.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "casa rosada",
    "busquedas": "100+",
@@ -136,15 +165,15 @@
   {
    "tema": "lakers - hornets",
    "busquedas": "500+",
-   "nota": "Lakers vs. Hornets prediction, odds, time: 2026 NBA picks for Tuesday, Nov. 17 from proven model",
-   "nota_url": "https://www.cbssports.com/betting/news/lakers-hornets-prediction-odds-time-2026-nba-picks-best-bets-tuesday-november-17/",
-   "medio": "CBS Sports",
+   "nota": "Bet on Hornets-Lakers being 'The Luka Show'",
+   "nota_url": "https://www.nbcsports.com/watch/nba/hornets-vs-lakers-nba-odds-get-ready-for-the-luka-doncic-show",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "flor peña",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Una figura de Telefe terminó en silla de ruedas tras sufrir un accidente: \"Les quiero contar\"",
    "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-termino-silla-ruedas-sufrir-accidente-les-quiero-contar-20261116133723",
    "medio": "El Destape",
@@ -152,17 +181,8 @@
    "temas": []
   },
   {
-   "tema": "quien se fue de masterchef",
-   "busquedas": "2000+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "ana del reino unido",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El Gobierno rechazó las actividades de la princesa Ana, hermana del rey Carlos III, en las Islas Malvinas",
    "nota_url": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-las-actividades-de-la-princesa-ana-hermana-del-rey-carlos-iii-en-las-islas-nid17112026/",
    "medio": "La Nación",
@@ -172,18 +192,18 @@
   {
    "tema": "lali espósito",
    "busquedas": "1000+",
-   "nota": "Lali Espósito y Pedro Rosemblat: los secretos de estilo, la torta maradoniana y el álbum de su casamiento",
-   "nota_url": "https://www.ellitoral.com/nosotros/laliesposito-pedrorosemblat-secretos-estilo-torta-album-casamiento-moda_0_DpPhivey9g.html",
-   "medio": "El Litoral",
+   "nota": "Lali Espósito mostró fotos inéditas de su casamiento con Pedro Rosemblat y reveló quiénes fueron claves para su gran día",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/16/lali-esposito-mostro-fotos-ineditas-de-su-casamiento-con-pedro-rosemblat-y-revelo-quienes-fueron-claves-para-su-gran-dia/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gordon",
    "busquedas": "500+",
-   "nota": "Chicago Bears’ shorthanded secondary suffers 2 more injuries vs. Buccaneers",
-   "nota_url": "https://www.chicitysports.com/chicago-bears-shorthanded-secondary-2-more-injuries-buccaneers/",
-   "medio": "ChiCitySports",
+   "nota": "Bears' Kyler Gordon: Deemed day-to-day with shoulder issue",
+   "nota_url": "https://www.cbssports.com/fantasy/football/news/bears-kyler-gordon-deemed-day-to-day-with-shoulder-issue/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
@@ -193,24 +213,6 @@
    "nota": "Quién fue Aníbal Gordon, el criminal vinculado con la Triple A y la SIDE que inspira la nueva serie de Netflix",
    "nota_url": "https://www.lagaceta.com.ar/nota/1162916/espectaculos/quien-fue-anibal-gordon-criminal-vinculado-triple-a-side-inspira-nueva-serie-netflix.html",
    "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luciana geuna",
-   "busquedas": "200+",
-   "nota": "\"MasterChef Celebrity\": se filtró quién sería el nuevo eliminado del reality",
-   "nota_url": "https://www.cronica.com.ar/diarioshow/farandula/masterchef-celebrity-se-filtro-quien-seria-el-nuevo-eliminado-del-reality/",
-   "medio": "Crónica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "francisco comesaña",
-   "busquedas": "200+",
-   "nota": "November 16, 2026: Michael Agwi vs Luka Mikrut Tennis Prediction Market",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/c0d36ca1-2d2f-4385-ba42-887cf86b1c58/",
-   "medio": "Robinhood",
    "relevante": false,
    "temas": []
   }
