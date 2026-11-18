@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 00:44",
+ "actualizado": "18/11 01:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,38 +33,20 @@
    "temas": []
   },
   {
-   "tema": "Scaloni",
-   "url": "https://x.com/search?q=Scaloni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "JuliÃ¡n",
-   "url": "https://x.com/search?q=Juli%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Massa",
    "url": "https://x.com/search?q=Massa",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Dibu",
-   "url": "https://x.com/search?q=Dibu",
+   "tema": "Scaloni",
+   "url": "https://x.com/search?q=Scaloni",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#RebeccaInArgentina",
-   "url": "https://x.com/search?q=%23RebeccaInArgentina",
+   "tema": "Dibu",
+   "url": "https://x.com/search?q=Dibu",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +57,26 @@
    "temas": []
   },
   {
-   "tema": "Simeone",
-   "url": "https://x.com/search?q=Simeone",
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Perrone",
-   "url": "https://x.com/search?q=Perrone",
+   "tema": "Edith",
+   "url": "https://x.com/search?q=Edith",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "JuliÃ¡n",
+   "url": "https://x.com/search?q=Juli%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#RebeccaInArgentina",
+   "url": "https://x.com/search?q=%23RebeccaInArgentina",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +87,14 @@
    "temas": []
   },
   {
-   "tema": "#DuroDeDomar",
-   "url": "https://x.com/search?q=%23DuroDeDomar",
+   "tema": "Perrone",
+   "url": "https://x.com/search?q=Perrone",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Simeone",
+   "url": "https://x.com/search?q=Simeone",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +105,14 @@
    "temas": []
   },
   {
-   "tema": "Gago",
-   "url": "https://x.com/search?q=Gago",
+   "tema": "#DuroDeDomar",
+   "url": "https://x.com/search?q=%23DuroDeDomar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
@@ -115,18 +121,30 @@
    "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "RocÃ­o",
-   "url": "https://x.com/search?q=Roc%C3%83%C2%ADo",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "flor peña",
+   "tema": "casa rosada",
    "busquedas": "100+",
+   "nota": "La Mesa Política analizó la agenda parlamentaria y avances en el debate de la reforma electoral",
+   "nota_url": "https://www.radionacional.com.ar/la-mesa-politica-analizo-la-agenda-parlamentaria-y-avances-en-el-debate-de-la-reforma-electoral/",
+   "medio": "Radio Nacional Rock",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "lakers - hornets",
+   "busquedas": "500+",
+   "nota": "Lakers vs. Hornets prediction, odds, time: 2026 NBA picks for Tuesday, Nov. 17 from proven model",
+   "nota_url": "https://www.cbssports.com/betting/news/lakers-hornets-prediction-odds-time-2026-nba-picks-best-bets-tuesday-november-17/",
+   "medio": "CBS Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "flor peña",
+   "busquedas": "500+",
    "nota": "Una figura de Telefe terminó en silla de ruedas tras sufrir un accidente: \"Les quiero contar\"",
    "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-termino-silla-ruedas-sufrir-accidente-les-quiero-contar-20261116133723",
    "medio": "El Destape",
@@ -134,20 +152,11 @@
    "temas": []
   },
   {
-   "tema": "mexico",
-   "busquedas": "200+",
-   "nota": "US loses its measles-free status. Here’s how the Trump administration has responded to outbreaks",
-   "nota_url": "https://apnews.com/article/health-measles-vaccine-trump-rfk-jr-e11d845ff206957fb568f52d71383a41",
-   "medio": "AP News",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "quien se fue de masterchef",
-   "busquedas": "1000+",
-   "nota": "\"MasterChef Celebrity\": se filtró quién sería el nuevo eliminado del reality",
-   "nota_url": "https://www.cronica.com.ar/diarioshow/farandula/masterchef-celebrity-se-filtro-quien-seria-el-nuevo-eliminado-del-reality/",
-   "medio": "Crónica",
+   "busquedas": "2000+",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
@@ -161,26 +170,26 @@
    "temas": []
   },
   {
-   "tema": "mexico jamaica",
-   "busquedas": "100+",
-   "nota": "EN VIVO México vs Jamaica: minuto a minuto Cuartos de Final Vuelta Nations League",
-   "nota_url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17522829/mexico-vs-jamaica-en-vivo-vuelta-nations-league",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "lali espósito",
    "busquedas": "1000+",
-   "nota": "Lali Espósito y Pedro Rosemblat prohibieron los clásicos de fiesta en su casamiento: la lista negra que se filtró en redes",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162946/espectaculos/lali-esposito-pedro-rosemblat-prohibieron-clasicos-fiesta-casamiento-lista-negra-se-filtro-redes.html",
-   "medio": "La Gaceta",
+   "nota": "Lali Espósito y Pedro Rosemblat: los secretos de estilo, la torta maradoniana y el álbum de su casamiento",
+   "nota_url": "https://www.ellitoral.com/nosotros/laliesposito-pedrorosemblat-secretos-estilo-torta-album-casamiento-moda_0_DpPhivey9g.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gordon",
-   "busquedas": "1000+",
+   "busquedas": "500+",
+   "nota": "Chicago Bears’ shorthanded secondary suffers 2 more injuries vs. Buccaneers",
+   "nota_url": "https://www.chicitysports.com/chicago-bears-shorthanded-secondary-2-more-injuries-buccaneers/",
+   "medio": "ChiCitySports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gordon netflix",
+   "busquedas": "500+",
    "nota": "Quién fue Aníbal Gordon, el criminal vinculado con la Triple A y la SIDE que inspira la nueva serie de Netflix",
    "nota_url": "https://www.lagaceta.com.ar/nota/1162916/espectaculos/quien-fue-anibal-gordon-criminal-vinculado-triple-a-side-inspira-nueva-serie-netflix.html",
    "medio": "La Gaceta",
@@ -188,11 +197,11 @@
    "temas": []
   },
   {
-   "tema": "gordon netflix",
+   "tema": "luciana geuna",
    "busquedas": "200+",
-   "nota": "15 Series Like Netflix’s ‘Gordon’ You Will Thoroughly Enjoy",
-   "nota_url": "https://www.comicbasics.com/15-series-like-netflixs-gordon-you-will-thoroughly-enjoy/",
-   "medio": "Comic Basics",
+   "nota": "\"MasterChef Celebrity\": se filtró quién sería el nuevo eliminado del reality",
+   "nota_url": "https://www.cronica.com.ar/diarioshow/farandula/masterchef-celebrity-se-filtro-quien-seria-el-nuevo-eliminado-del-reality/",
+   "medio": "Crónica",
    "relevante": false,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "November 16, 2026: Michael Agwi vs Luka Mikrut Tennis Prediction Market",
    "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/c0d36ca1-2d2f-4385-ba42-887cf86b1c58/",
    "medio": "Robinhood",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pablo migliore",
-   "busquedas": "1000+",
-   "nota": "El exarquero de Boca Pablo Migliore bancó a Wanda Nara en la pelea con la China Suárez",
-   "nota_url": "https://www.rosario3.com/ocio/el-exarquero-de-boca-pablo-migliore-banco-a-wanda-nara-en-la-pelea-con-la-china-suarez-20261116-0011.html",
-   "medio": "Rosario3",
    "relevante": false,
    "temas": []
   }
