@@ -1,40 +1,22 @@
 {
- "actualizado": "17/11 20:39",
+ "actualizado": "17/11 21:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Julian",
+   "url": "https://x.com/search?q=Julian",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#SomosAsi",
    "url": "https://x.com/search?q=%23SomosAsi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Brito",
-   "url": "https://x.com/search?q=Brito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Espinoza",
-   "url": "https://x.com/search?q=Espinoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnTodoLoContrario",
-   "url": "https://x.com/search?q=%23SolEnTodoLoContrario",
    "relevante": false,
    "temas": []
   },
@@ -45,26 +27,20 @@
    "temas": []
   },
   {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
+   "tema": "Denle la 10",
+   "url": "https://x.com/search?q=Denle%20la%2010",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gago",
-   "url": "https://x.com/search?q=Gago",
+   "tema": "Giay",
+   "url": "https://x.com/search?q=Giay",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "AnÃ­bal Moreno",
-   "url": "https://x.com/search?q=An%C3%83%C2%ADbal%20Moreno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
@@ -75,38 +51,68 @@
    "temas": []
   },
   {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Saturnino",
-   "url": "https://x.com/search?q=Saturnino",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Perrone",
    "url": "https://x.com/search?q=Perrone",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lacunza",
-   "url": "https://x.com/search?q=Lacunza",
+   "tema": "Brito",
+   "url": "https://x.com/search?q=Brito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "El PRO",
-   "url": "https://x.com/search?q=El%20PRO",
+   "tema": "Simeone",
+   "url": "https://x.com/search?q=Simeone",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Carrio",
-   "url": "https://x.com/search?q=Carrio",
+   "tema": "Gago",
+   "url": "https://x.com/search?q=Gago",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ayrton",
+   "url": "https://x.com/search?q=Ayrton",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Espinoza",
+   "url": "https://x.com/search?q=Espinoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vega",
+   "url": "https://x.com/search?q=Vega",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "San Fernando",
+   "url": "https://x.com/search?q=San%20Fernando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnTodoLoContrario",
+   "url": "https://x.com/search?q=%23SolEnTodoLoContrario",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Militancia",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "JesÃºs Valenzuela",
-   "url": "https://x.com/search?q=Jes%C3%83%C2%BAs%20Valenzuela",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "amistosos internacionales",
+   "tema": "raptors - knicks",
    "busquedas": "200+",
-   "nota": "De Argentina vs. Uruguay a España vs. Inglaterra: los 10 mejores partidos de la fecha FIFA",
-   "nota_url": "https://www.diariomendoza.com.ar/deportes/de-argentina-vs-uruguay-espana-vs-inglaterra-10-mejores-partidos-fecha-fifa-n185011",
-   "medio": "Diario Mendoza",
+   "nota": "Can the Toronto Raptors Finally Topple the New York Knicks?",
+   "nota_url": "https://www.si.com/nba/raptors/onsi/can-the-toronto-raptors-finally-topple-the-new-york-knicks",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "prestianni",
-   "busquedas": "1000+",
-   "nota": "Del episodio con Vinicius a la explosión: Gianluca Prestianni y un presente de Selección",
-   "nota_url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17526029/vinicius-explosion-prestianni-seleccion-argentina",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estados unidos - haití",
-   "busquedas": "500+",
-   "nota": "En su penúltimo partido, Pochettino consiguió la mayor goleada de su ciclo como DT de Estados Unidos: \"Es un entrenador increíble\"",
-   "nota_url": "https://www.clarin.com/deportes/penultimo-partido-pochettino-consiguio-mayor-goleada-ciclo-dt-estados-unidos-entrenador-increible_0_Izz8zdeOfP.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nvda",
-   "busquedas": "500+",
-   "nota": "Nvidia Earnings Live: Earnings Call Begins After Chipmaker Reports Record Sales",
-   "nota_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026",
-   "medio": "WSJ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "agustín giay",
+   "tema": "clima quilmes",
    "busquedas": "200+",
-   "nota": "Scaloni quedó atento: Napoli sueña con una figura de la Selección Argentina",
-   "nota_url": "https://elcrackdeportivo.com.ar/futbolinternacional/scaloni-quedo-atento-napoli-suena-con-una-figura-de-la-seleccion-argentina-20261114-0043.html",
-   "medio": "El Crack Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "colombia vs",
-   "busquedas": "200+",
-   "nota": "¿Juega James Rodríguez? Atlético Nacional vs. Once Caldas HOY: alineaciones del partido de la Copa Colombia",
-   "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-atletico-nacional-vs-once-caldas-hoy-alineaciones-del-partido-de-la-copa-colombia",
-   "medio": "Bolavip",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mariano troilo",
-   "busquedas": "200+",
-   "nota": "Poca venta de entradas, pero mucho amor: la Selección llegó a Córdoba, desató una fiesta en los hinchas y respondió con un gran gesto",
-   "nota_url": "https://www.clarin.com/deportes/poca-venta-entradas-amor-seleccion-llego-cordoba-desato-fiesta-hinchas-respondio-gran-gesto_0_9d2H4Scrht.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "walter samuel",
-   "busquedas": "100+",
-   "nota": "Lionel Scaloni profundiza el recambio en la Selección: los jóvenes que ganan terreno rumbo al Mundial 2030",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1162746/deportes/lionel-scaloni-profundiza-recambio-seleccion-jovenes-ganan-terreno-rumbo-al-mundial-2030.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "afa",
-   "busquedas": "200+",
-   "nota": "Agenda confirmada: así se jugarán los octavos de final del Torneo Clausura de la Liga Profesional",
-   "nota_url": "https://www.directvsports.com/futbol/agenda-confirmada-asi-se-jugaran-los-octavos-de-final-del-torneo-clausura-de-la-liga-profesional-20261111-0053.html",
-   "medio": "DSports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mi telefe",
-   "busquedas": "2000+",
-   "nota": "Procesaron al joven que mató a una mujer en Retiro y era buscado por otro femicidio en Córdoba",
-   "nota_url": "https://www.lanacion.com.ar/seguridad/procesaron-al-joven-que-mato-a-una-mujer-en-retiro-y-era-buscado-por-otro-femicidio-en-cordoba-nid12112026/",
+   "nota": "Clima en Quilmes hoy: cuál es el pronóstico del tiempo para el 17 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/quilmes/clima-en-quilmes-hoy-cual-es-el-pronostico-del-tiempo-para-el-17-de-noviembre-de-2026-nid16112026/",
    "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hacker",
+   "busquedas": "100+",
+   "nota": "Grand Theft Auto VI Hacker Pleads Guilty to Cybercrimes",
+   "nota_url": "https://www.nytimes.com/2026/11/17/arts/gta-6-hacker-guilty.html",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ranking fifa",
+   "busquedas": "100+",
+   "nota": "Canada men’s soccer team reaches record FIFA ranking of No. 25",
+   "nota_url": "https://www.thespec.com/sports/soccer/canada-men-s-soccer-team-reaches-record-fifa-ranking-of-no-25/article_839f9b76-9a93-521b-8913-94100dd51d83.html",
+   "medio": "The Spec",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "josé manuel lópez",
+   "busquedas": "200+",
+   "nota": "La drástica decisión que tomó Palmeiras con sus jugadores argentinos que están en la Selección",
+   "nota_url": "https://www.infocielo.com/deportes/la-drastica-decision-que-tomo-palmeiras-con-sus-jugadores-argentinos-que-estan-en-la-seleccion",
+   "medio": "Infocielo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "thiago almada",
+   "busquedas": "200+",
+   "nota": "Scaloni respaldó a Thiago Almada y le pidió tiempo a los hinchas de River: “Va a andar bien”",
+   "nota_url": "https://lapaginamillonaria.com/seleccion-argentina/scaloni-respaldo-a-thiago-almada-y-le-pidio-tiempo-a-los-hinchas-de-river-va-a-andar-bien",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuti romero",
+   "busquedas": "200+",
+   "nota": "Argentina vs. Costa Rica hoy en vivo por un amistoso: el partido, minuto a minuto",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/17/argentina-vs-costa-rica-hoy-en-vivo-por-un-amistoso-hora-tv-y-formaciones/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "flaco lopez",
+   "busquedas": "500+",
+   "nota": "La drástica decisión que tomó Palmeiras con sus jugadores argentinos que están en la Selección",
+   "nota_url": "https://www.infocielo.com/deportes/la-drastica-decision-que-tomo-palmeiras-con-sus-jugadores-argentinos-que-estan-en-la-seleccion",
+   "medio": "Infocielo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "autódromo",
+   "busquedas": "100+",
+   "nota": "Atención: el autódromo de La Plata bajo la lupa en la previa la fecha de TC",
+   "nota_url": "https://www.carburando.com/turismo-carretera/presentaron-un-amparo-colectivo-para-exigir-controles-de-seguridad-en-el-autodromo-de-la-plata-id201119",
+   "medio": "Carburando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "enzo fernández",
+   "busquedas": "500+",
+   "nota": "Enzo Fernández sorprendió con una nueva faceta fuera del fútbol y lanzó su propia colección de ropa: cómo son las prendas",
+   "nota_url": "https://radiomitre.cienradios.com/deportes/enzo-fernandez-sorprendio-con-una-nueva-faceta-fuera-del-futbol-y-lanzo-su-propia-coleccion-de-ropa-como-son-las-prendas/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   }
