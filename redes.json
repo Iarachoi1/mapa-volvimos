@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 17:43",
+ "actualizado": "19/11 18:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,6 +39,12 @@
    "temas": []
   },
   {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Putin",
    "url": "https://x.com/search?q=Putin",
    "relevante": false,
@@ -51,32 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gonzalo Montiel",
-   "url": "https://x.com/search?q=Gonzalo%20Montiel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Don Omar",
-   "url": "https://x.com/search?q=Don%20Omar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
+   "tema": "Luccianos",
+   "url": "https://x.com/search?q=Luccianos",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +69,38 @@
    "temas": []
   },
   {
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Don Omar",
+   "url": "https://x.com/search?q=Don%20Omar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "DUOONE FINAL MATCH",
    "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Martita",
-   "url": "https://x.com/search?q=Martita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Luccianos",
-   "url": "https://x.com/search?q=Luccianos",
+   "tema": "La Corte Suprema",
+   "url": "https://x.com/search?q=La%20Corte%20Suprema",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Xi Jinping",
-   "url": "https://x.com/search?q=Xi%20Jinping",
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "arthur fils",
+   "tema": "grand theft auto",
+   "busquedas": "10000+",
+   "nota": "‘Grand Theft Auto VI’ is an astonishing American epic",
+   "nota_url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
+   "medio": "The Washington Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "arsenal - ol lyonnes",
    "busquedas": "100+",
-   "nota": "Alexander Zverev - Arthur Fils EN DIRECT",
-   "nota_url": "https://www.eurosport.fr/tennis/atp-finals/2026/alexander-zverev-arthur-fils_mtc22079877/live-commentary.shtml",
-   "medio": "Eurosport",
+   "nota": "UEFA Women’s Champions League : un quatuor arbitral italien pour le choc entre Arsenal et l’OL Lyonnes",
+   "nota_url": "https://coeursdefoot.fr/event/uefa-women%E2%80%99s-champions-league-un-quatuor-arbitral-italien-pour-le-choc-entre-arsenal-et-l%E2%80%99ol-lyonnes/",
+   "medio": "Coeurs de foot",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club atlético independiente",
+   "tema": "ariel lijo",
+   "busquedas": "100+",
+   "nota": "La pericia de Gendarmería detectó inconsistencias en los audios y no pudo atribuirle la voz a Diego Spagnuolo",
+   "nota_url": "https://www.corrienteshoy.com/nacionales/la-pericia-de-gendarmeria-detecto-inconsistencias-en-los-audios-y-no-pudo-atribuirle-la-voz-a-diego-spagnuolo.htm",
+   "medio": "Corrientes Hoy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brasil",
    "busquedas": "500+",
-   "nota": "¡El Rojo es Campeón de Liga!",
-   "nota_url": "https://www.ligaprofesional.ar/notas/proyeccion/2026/11/18/el-rojo-es-campeon-de-liga/",
-   "medio": "Liga Profesional de Fútbol",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "epicentro",
-   "busquedas": "200+",
-   "nota": "Temblor en México: últimos reportes de sismos hoy jueves 19 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-mexico-ultimos-reportes-de-sismos-hoy-jueves-19-de-noviembre-nid19112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alexander zverev",
-   "busquedas": "1000+",
-   "nota": "World number one prepares to fight fresh legal action",
-   "nota_url": "https://novanews.co.za/alexander-zverev-defends-against-brenda-patea-lawsuit/",
-   "medio": "https://novanews.co.za/",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "zverev",
-   "busquedas": "2000+",
-   "nota": "Shelton beats Jodar and now needs help from Zverev to advance at the ATP Finals",
-   "nota_url": "https://abcnews.com/Sports/wireStory/shelton-beats-jodar-now-zverev-advance-atp-finals-138290994",
-   "medio": "ABC News - Breaking News, Latest News and Videos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fragata",
-   "busquedas": "200+",
-   "nota": "Encuentro entre los ministros de Defensa de Italia y la Argentina",
-   "nota_url": "https://www.argentina.gob.ar/noticias/encuentro-entre-los-ministros-de-defensa-de-italia-y-la-argentina",
-   "medio": "Argentina.gob.ar",
+   "nota": "Custo da criminalidade chega até 9% do PIB acreano, revela levantamento nacional",
+   "nota_url": "https://contilnetnoticias.com.br/noticia/custo-da-criminalidade-chega-ate-9-do-pib-do-acre-aponta-levantamento/",
+   "medio": "ContilNet",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "aston martin f1",
+   "tema": "max verstappen",
    "busquedas": "200+",
-   "nota": "Crawford gets ‘special’ first U.S. F1 outing with Las Vegas FP1",
-   "nota_url": "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1",
-   "medio": "RACER - Racing News",
+   "nota": "La Fórmula 1 mostrará en vivo el esfuerzo físico de los pilotos",
+   "nota_url": "https://www.ellitoral.com/deportes/formula1-pulso-sensor-stefanodomenicali-pilotos-whoop-automovilismo_0_NFoyvYGAfK.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "daniel rafecas",
-   "busquedas": "500+",
-   "nota": "La Corte Suprema ordenó que la causa por lavado de la AFA y la mansión de Pilar vaya a Comodoro Py",
-   "nota_url": "https://www.perfil.com/politica/la-corte-suprema-ordeno-que-la-causa-por-lavado-de-la-afa-y-la-mansion-de-pilar-vaya-a-comodoro-py-a3id96b9M7xK",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima junin",
+   "tema": "bill gates",
    "busquedas": "200+",
-   "nota": "Clima en Junín hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/junin/clima-en-junin-hoy-cual-es-el-pronostico-del-tiempo-para-el-18-de-noviembre-de-2026-nid17112026/",
-   "medio": "La Nación",
+   "nota": "Bill Gates sorprendió con su llegada a Ushuaia: también estuvo en La Boca y en Plaza de Mayo",
+   "nota_url": "https://tn.com.ar/tecno/novedades/2026/11/19/bill-gates-sorprendio-con-su-llegada-a-ushuaia-tambien-estuvo-en-la-boca-y-en-plaza-de-mayo/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ypf",
-   "busquedas": "500+",
-   "nota": "¿Hasta cuánto aguanta el buffer de YPF para los precios de combustibles?",
-   "nota_url": "https://www.ambito.com/energia/hasta-cuanto-aguanta-el-buffer-ypf-los-precios-combustibles-n6346804",
-   "medio": "Ambito",
+   "tema": "cristian pavón",
+   "busquedas": "1000+",
+   "nota": "Cristian Pavón vuelve al radar de Racing: la situación en Gremio que facilitaría su llegada libre",
+   "nota_url": "https://www.ole.com.ar/racing/racing-pavon-gremio-brasil-refuerzo_0_BflAgmdU9n.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "anthropic bolsa",
+   "busquedas": "200+",
+   "nota": "Anthropic ya cotiza en Wall Street: cómo invertir en la acción del gigante de la IA desde la Argentina",
+   "nota_url": "https://www.infobae.com/economia/2026/11/19/anthropic-ya-cotiza-en-wall-street-como-invertir-en-la-accion-del-gigante-de-la-ia-desde-la-argentina/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alberto ii de mónaco",
+   "busquedas": "100+",
+   "nota": "Charlotte Casiraghi es la más elegante con zapatos de tacón negros y vestido midi francés en noviembre 2026",
+   "nota_url": "https://www.vogue.mx/articulo/charlotte-casiraghi-con-zapatos-de-tacon-negros-y-vestido-midi-frances-en-noviembre-2026",
+   "medio": "Vogue México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "champions femenina",
+   "busquedas": "100+",
+   "nota": "Sydney el nuevo comodín: “Solo quiero disfrutar”",
+   "nota_url": "https://as.com/futbol/femenino/sydney-el-nuevo-comodin-solo-quiero-disfrutar-f202611-n/",
+   "medio": "Diario AS",
    "relevante": false,
    "temas": []
   }
