@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 01:52",
+ "actualizado": "19/11 02:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -51,20 +51,8 @@
    "temas": []
   },
   {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#MasterChefCelebrity",
    "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +63,14 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lizy",
-   "url": "https://x.com/search?q=Lizy",
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +99,40 @@
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#MurioFlorPeÃ±a",
    "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Luis Fonsi",
-   "url": "https://x.com/search?q=Luis%20Fonsi",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 5",
+   "url": "https://x.com/search?q=GTA%205",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "trucos gta 6",
+   "busquedas": "100+",
+   "nota": "Un truco para ganar 1.000 dólares fácilmente en GTA 6",
+   "nota_url": "https://www.tycsports.com/gaming/el-truco-para-ganar-1000-dolares-facilmente-en-gta-6-id771995.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "thunder - hawks",
    "busquedas": "100+",
@@ -144,10 +153,10 @@
   },
   {
    "tema": "lakers - jazz",
-   "busquedas": "500+",
-   "nota": "Is Luka Doncic Playing Tonight? (Injury Update, Betting Impact for Jazz vs. Lakers)",
-   "nota_url": "https://www.si.com/betting/luka-doncic-injury-update-betting-impact-for-jazz-vs-lakers-nov-18",
-   "medio": "Sports Illustrated",
+   "busquedas": "1000+",
+   "nota": "Jazz Lakers Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-lakers-basketball/image_79346c7a-7c70-56a3-896a-b04c19b15ded.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
@@ -163,18 +172,9 @@
   {
    "tema": "nuggets - celtics",
    "busquedas": "500+",
-   "nota": "Celtics defense gets major test in Nikola Jokic and Jamal Murray",
-   "nota_url": "https://hardwoodhoudini.com/celtics-defense-gets-major-test-nikola-jokic-jamal-murray",
-   "medio": "Hardwood Houdini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olé",
-   "busquedas": "200+",
-   "nota": "En medio de una crisis económica, Argentinos Juniors podría rematar dos figuras a Boca y River",
-   "nota_url": "https://bolavip.com/ar/futbolargentino/en-medio-de-una-crisis-economica-argentinos-juniors-podria-rematar-dos-figuras-a-boca-y-river",
-   "medio": "Bolavip Argentina",
+   "nota": "Celtics star Jayson Tatum called for technical after throwing ball toward official late in loss to Nuggets",
+   "nota_url": "https://uk.sports.yahoo.com/news/celtics-star-jayson-tatum-called-for-technical-after-throwing-ball-toward-official-late-in-loss-to-nuggets-053023894.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
@@ -206,11 +206,11 @@
    "temas": []
   },
   {
-   "tema": "impuesto",
+   "tema": "los juegos del hambre",
    "busquedas": "500+",
-   "nota": "La Argentina lidera un ranking de 30 países por los impuestos que aplica a los préstamos personales",
-   "nota_url": "https://tn.com.ar/economia/2026/11/18/la-argentina-lidera-un-ranking-de-30-paises-por-los-impuestos-que-aplica-a-los-prestamos-personales/",
-   "medio": "TN",
+   "nota": "Watch Jennifer Lawrence Gets Her Flowers at the New York Premiere of The Hunger Games | Last Looks",
+   "nota_url": "https://www.vogue.com/video/watch/last-looks-jennifer-lawrence",
+   "medio": "Vogue",
    "relevante": false,
    "temas": []
   }
