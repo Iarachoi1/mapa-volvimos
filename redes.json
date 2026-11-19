@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 18:39",
+ "actualizado": "19/11 19:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,14 +33,20 @@
    "temas": []
   },
   {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
+   "tema": "Luccianos",
+   "url": "https://x.com/search?q=Luccianos",
    "relevante": false,
    "temas": []
   },
@@ -57,14 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Luccianos",
-   "url": "https://x.com/search?q=Luccianos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
@@ -81,32 +81,8 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#BuenJueves",
    "url": "https://x.com/search?q=%23BuenJueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Corte Suprema",
-   "url": "https://x.com/search?q=La%20Corte%20Suprema",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +93,124 @@
    "temas": []
   },
   {
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Martita",
+   "url": "https://x.com/search?q=Martita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Xi Jinping",
+   "url": "https://x.com/search?q=Xi%20Jinping",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "grand theft auto",
-   "busquedas": "10000+",
-   "nota": "‘Grand Theft Auto VI’ is an astonishing American epic",
-   "nota_url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
-   "medio": "The Washington Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "arsenal - ol lyonnes",
-   "busquedas": "100+",
-   "nota": "UEFA Women’s Champions League : un quatuor arbitral italien pour le choc entre Arsenal et l’OL Lyonnes",
-   "nota_url": "https://coeursdefoot.fr/event/uefa-women%E2%80%99s-champions-league-un-quatuor-arbitral-italien-pour-le-choc-entre-arsenal-et-l%E2%80%99ol-lyonnes/",
-   "medio": "Coeurs de foot",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ariel lijo",
-   "busquedas": "100+",
-   "nota": "La pericia de Gendarmería detectó inconsistencias en los audios y no pudo atribuirle la voz a Diego Spagnuolo",
-   "nota_url": "https://www.corrienteshoy.com/nacionales/la-pericia-de-gendarmeria-detecto-inconsistencias-en-los-audios-y-no-pudo-atribuirle-la-voz-a-diego-spagnuolo.htm",
-   "medio": "Corrientes Hoy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brasil",
-   "busquedas": "500+",
-   "nota": "Custo da criminalidade chega até 9% do PIB acreano, revela levantamento nacional",
-   "nota_url": "https://contilnetnoticias.com.br/noticia/custo-da-criminalidade-chega-ate-9-do-pib-do-acre-aponta-levantamento/",
-   "medio": "ContilNet",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "max verstappen",
+   "tema": "fátima flórez",
    "busquedas": "200+",
-   "nota": "La Fórmula 1 mostrará en vivo el esfuerzo físico de los pilotos",
-   "nota_url": "https://www.ellitoral.com/deportes/formula1-pulso-sensor-stefanodomenicali-pilotos-whoop-automovilismo_0_NFoyvYGAfK.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bill gates",
-   "busquedas": "200+",
-   "nota": "Bill Gates sorprendió con su llegada a Ushuaia: también estuvo en La Boca y en Plaza de Mayo",
-   "nota_url": "https://tn.com.ar/tecno/novedades/2026/11/19/bill-gates-sorprendio-con-su-llegada-a-ushuaia-tambien-estuvo-en-la-boca-y-en-plaza-de-mayo/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cristian pavón",
-   "busquedas": "1000+",
-   "nota": "Cristian Pavón vuelve al radar de Racing: la situación en Gremio que facilitaría su llegada libre",
-   "nota_url": "https://www.ole.com.ar/racing/racing-pavon-gremio-brasil-refuerzo_0_BflAgmdU9n.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "anthropic bolsa",
-   "busquedas": "200+",
-   "nota": "Anthropic ya cotiza en Wall Street: cómo invertir en la acción del gigante de la IA desde la Argentina",
-   "nota_url": "https://www.infobae.com/economia/2026/11/19/anthropic-ya-cotiza-en-wall-street-como-invertir-en-la-accion-del-gigante-de-la-ia-desde-la-argentina/",
+   "nota": "Norberto Marcos, la expareja de Fátima Florez, será operado de urgencia",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/17/norberto-marcos-la-expareja-de-fatima-florez-sera-operado-de-urgencia/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "alberto ii de mónaco",
-   "busquedas": "100+",
-   "nota": "Charlotte Casiraghi es la más elegante con zapatos de tacón negros y vestido midi francés en noviembre 2026",
-   "nota_url": "https://www.vogue.mx/articulo/charlotte-casiraghi-con-zapatos-de-tacon-negros-y-vestido-midi-frances-en-noviembre-2026",
-   "medio": "Vogue México",
+   "tema": "carburando",
+   "busquedas": "200+",
+   "nota": "Hay mucha falsedad por parte de los pilotos del TC",
+   "nota_url": "https://www.carburando.com/turismo-carretera/di-meglio-hay-mucha-falsedad-por-parte-de-los-pilotos-del-tc-id201177",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "champions femenina",
+   "tema": "aguinaldo estatales",
    "busquedas": "100+",
-   "nota": "Sydney el nuevo comodín: “Solo quiero disfrutar”",
-   "nota_url": "https://as.com/futbol/femenino/sydney-el-nuevo-comodin-solo-quiero-disfrutar-f202611-n/",
-   "medio": "Diario AS",
+   "nota": "ATE denunció que Milei pagaría el aguinaldo recién en 2027: qué dijo Economía",
+   "nota_url": "https://www.eldestapeweb.com/economia/aguinaldo-milei-evalua-postergar-pago-estatales-enero-ate-amenaza-tomas-20261119124412",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "vitória - bragantino",
+   "busquedas": "2000+",
+   "nota": "Vitória prepara homenagens ao Dia da Consciência Negra no Barradão",
+   "nota_url": "https://bahia.ba/esporte/vitoria-prepara-homenagens-ao-dia-da-consciencia-negra-no-barradao/",
+   "medio": "bahia.ba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vasco da gama - internacional",
+   "busquedas": "2000+",
+   "nota": "Vasco da Gama vs Internacional: TV channel, live stream and kick-off time",
+   "nota_url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-vasco-da-gama-v-internacional/blt0a4a0b8ec9716f41",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "iphone duo",
+   "busquedas": "100+",
+   "nota": "iPhone Duo 2のリーク、Touch ID継続でFace IDは不透明",
+   "nota_url": "https://pasqualepillitteri.it/ja/news/35162/iphone-duo-2-leak-touch-id-keizoku-face-id-futomei",
+   "medio": "Pasquale Pillitteri",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riesgo país",
+   "busquedas": "1000+",
+   "nota": "Subieron el dólar, la brecha y el riesgo país: los motivos y las perspectivas de los analistas para 2027",
+   "nota_url": "https://tn.com.ar/economia/2026/11/19/la-incertidumbre-electoral-y-el-contexto-externo-tensionan-los-mercados-que-hay-detras-de-la-suba-del-dolar-y-el-riesgo-pais/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "leonel flores",
+   "busquedas": "200+",
+   "nota": "La broma de Arruabarrena a Flores por su racha sin goles: \"Hace bastante...\"",
+   "nota_url": "https://planetabj.com/noticias/la-broma-de-arruabarrena-a-flores-por-su-racha-sin-goles-hace-bastante...-a0FNm8Q4dURT/",
+   "medio": "Planeta Boca Juniors",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "imax",
+   "busquedas": "100+",
+   "nota": "Spider-Man: No Way Home arrives on Disney+ with IMAX Enhanced format",
+   "nota_url": "https://foro3d.com/en/2026/noviembre/spider-man-no-way-home-llega-a-disney-con-formato-imax-enhanced.html",
+   "medio": "Foro3D",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grand theft auto",
+   "busquedas": "10000+",
+   "nota": "‘Grand Theft Auto VI’ is an astonishing American epic",
+   "nota_url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/18/grand-theft-auto-vi-is-an-astonishing-american-epic/",
+   "medio": "The Washington Post",
    "relevante": false,
    "temas": []
   }
