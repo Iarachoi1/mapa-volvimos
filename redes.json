@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11 20:39",
+ "actualizado": "18/11 21:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,56 @@
    "temas": []
   },
   {
+   "tema": "#MamarrachoInstitucional",
+   "url": "https://x.com/search?q=%23MamarrachoInstitucional",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#integracionmarvel",
    "url": "https://x.com/search?q=%23integracionmarvel",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "#SKZEnArgentina",
+   "url": "https://x.com/search?q=%23SKZEnArgentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Illojuan",
+   "url": "https://x.com/search?q=Illojuan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SKZRUNITenArgentina",
+   "url": "https://x.com/search?q=%23SKZRUNITenArgentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "JosÃ© Alperovich",
    "url": "https://x.com/search?q=Jos%C3%83%C2%A9%20Alperovich",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mayonesa",
+   "url": "https://x.com/search?q=Mayonesa",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +87,20 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Traidores a la Patria",
+   "url": "https://x.com/search?q=Traidores%20a%20la%20Patria",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Tuzzio",
+   "url": "https://x.com/search?q=Tuzzio",
    "relevante": false,
    "temas": []
   },
@@ -63,32 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Traidores",
-   "url": "https://x.com/search?q=Traidores",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Vende",
-   "url": "https://x.com/search?q=Vende",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "OSDE",
    "url": "https://x.com/search?q=OSDE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bugs",
-   "url": "https://x.com/search?q=Bugs",
    "relevante": false,
    "temas": []
   },
@@ -97,121 +121,97 @@
    "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Illojuan",
-   "url": "https://x.com/search?q=Illojuan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cyberpunk",
-   "url": "https://x.com/search?q=Cyberpunk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Instituto",
-   "url": "https://x.com/search?q=Instituto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "corrientes",
-   "busquedas": "100+",
-   "nota": "El SMN emitió tres avisos a corto plazo: tormentas severas, lluvias intensas y granizo",
-   "nota_url": "https://ruralnet.com.ar/tres-avisos-smn-tormentas-granizo/",
-   "medio": "Ruralnet",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan román riquelme",
-   "busquedas": "100+",
-   "nota": "Los pedidos de Boca y Real Madrid por Merentiel y Fede Valverde: ¿qué explicó Forlán?",
-   "nota_url": "https://www.montevideo.com.uy/Deportes/Los-pedidos-de-Boca-y-Real-Madrid-por-Merentiel-y-Fede-Valverde--que-explico-Forlan--uc982202",
-   "medio": "Montevideo Portal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alex scott",
-   "busquedas": "100+",
-   "nota": "Transfer rumors, news: Liverpool eye move for Brentford's Diouf",
-   "nota_url": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
-   "medio": "ESPN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "festividad",
+   "tema": "mavericks - warriors",
    "busquedas": "200+",
-   "nota": "Por orden de la Ley 27.399: no se traslada el feriado del martes 8 de diciembre, pero habrá fin de semana largo",
-   "nota_url": "https://www.cronista.com/informacion-gral/por-orden-de-la-ley-27399-no-se-traslada-el-feriado-del-martes-8-de-diciembre-pero-habra-fin-de-semana-largo/",
-   "medio": "El Cronista",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "flamengo - paranaense",
-   "busquedas": "2000+",
-   "nota": "Flamenguistas viajam de Manaus para ver primeiro jogo no Maracanã",
-   "nota_url": "https://odia.ig.com.br/esporte/flamengo/2026/11/7323757-flamenguistas-viajam-de-manaus-para-ver-primeiro-jogo-no-maracana.html",
-   "medio": "O Dia",
+   "nota": "Warriors at Mavs Preview: Odds & Injuries On 'Nellie Night' In Dallas",
+   "nota_url": "https://sports.yahoo.com/articles/warriors-mavs-preview-odds-injuries-173030255.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cruzeiro - palmeiras",
-   "busquedas": "2000+",
-   "nota": "Cruzeiro x Palmeiras: informações, estatísticas e curiosidades",
-   "nota_url": "https://palmeiras.com.br/noticias/cruzeiro-x-palmeiras-informacoes-estatisticas-e-curiosidades-4/",
-   "medio": "Palmeiras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "remo - chapecoense",
-   "busquedas": "500+",
-   "nota": "Chapecoense enfrenta Remo na estreia de Vinícius Bergantin",
-   "nota_url": "https://diregional.com.br/diario-do-iguacu/esporte/chapecoense/2026-11-18-chapecoense-enfrenta-remo-na-estreia-de-vinicius-bergantin",
-   "medio": "Diário do Iguaçu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chiqui tapia",
+   "tema": "quiniela nacional",
    "busquedas": "200+",
-   "nota": "Escándalo en Argentina: Messi lucha para evitar que se manche su reputación",
-   "nota_url": "https://es-us.noticias.yahoo.com/deportes/esc%C3%A1ndalo-argentina-messi-lucha-evitar-154738087.html",
-   "medio": "Yahoo",
+   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este miércoles, 18 de noviembre",
+   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-miercoles-18-de-noviembre-20261118508",
+   "medio": "El Destape",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mano de obra",
-   "busquedas": "100+",
-   "nota": "Cuánto cobra un albañil por hora en noviembre 2026",
-   "nota_url": "https://www.iprofesional.com/actualidad/469479-cuanto-cobra-un-albanil-por-hora-en-noviembre-2026",
-   "medio": "iProfesional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juicio",
+   "tema": "gran premio de las vegas",
    "busquedas": "500+",
-   "nota": "Caso Loan: un policía dijo no recordar a Caillava y los jueces pidieron careo",
-   "nota_url": "https://www.filo.news/noticia/2026/11/18/caso-loan-un-policia-dijo-no-recordar-a-caillava-y-los-jueces-pidieron-careo",
-   "medio": "Filo News",
-   "relevante": true,
+   "nota": "Colapinto y Gasly, modelos por un rato: el divertido álbum de fotos de Alpine en Las Vegas",
+   "nota_url": "https://www.ole.com.ar/autos/colapinto-gasly-sesion-fotos-vegas-formula-1-gran-premio_0_BBFu2gGFGU.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fuerzas armadas",
+   "busquedas": "200+",
+   "nota": "Sueldos de las Fuerzas Armadas: Defender la Patria por menos de un millón de pesos al mes",
+   "nota_url": "https://www.lalicuadoratdf.com.ar/2026/11/sueldos-de-las-fuerzas-armadas-defender-la-patria-por-menos-de-un-millon-de-pesos-al-mes/",
+   "medio": "La Licuadora",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "heat - bucks",
+   "busquedas": "100+",
+   "nota": "Tyler Herro's revenge game looms as Bucks limp into Miami on a 10-game losing streak with something to prove",
+   "nota_url": "https://www.foxnews.com/outkick/tyler-herro-revenge-game-looms-bucks-limp-miami-10-game-losing-streak-something-prove",
+   "medio": "Fox News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "zanja",
+   "busquedas": "100+",
+   "nota": "Chile instala nuevas barreras de hormigón en la frontera con el Perú para bloquear pasos inhabilitados",
+   "nota_url": "https://www.peruinforma.com/chile-instala-nuevas-barreras-de-hormigon-en-la-frontera-con-el-peru-para-bloquear-pasos-inhabilitados/",
+   "medio": "Perú Informa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grêmio - bahía",
+   "busquedas": "500+",
+   "nota": "Grêmio e Bahia decidem vantagem no duelo entre Renato e Rogério",
+   "nota_url": "https://futebolsergipano.com.br/gremio-e-bahia-decidem-vantagem-no-duelo-entre-renato-e-rogerio/",
+   "medio": "Futebol Sergipano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "palmeiras vs",
+   "busquedas": "100+",
+   "nota": "Cruzeiro vs. Palmeiras por el Brasileirao Serie A 2026: día, hora y cómo seguir online",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/cruzeiro-vs-palmeiras-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid17112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "magic - 76ers",
+   "busquedas": "200+",
+   "nota": "Franz Wagner Over 30.5 PA vs. Shorthanded 76ers",
+   "nota_url": "https://sports.yahoo.com/videos/franz-wagner-over-30-5-181923520.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "selección de fútbol de portugal",
+   "busquedas": "100+",
+   "nota": "Otra polémica en Portugal: el gesto de Bruno Fernandes y Cancelo que salpicó a Cristiano Ronaldo",
+   "nota_url": "https://www.lavoz.com.ar/deportes/polemica-portugal-gesto-bruno-fernandes-cancelo-salpico-cristiano-ronaldo_0_OO4VdHci5u.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
    "temas": []
   }
  ],

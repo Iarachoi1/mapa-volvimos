@@ -1,7 +1,7 @@
 {
  "semana": "18 de noviembre de 2026",
  "fecha": "2026-11-18",
- "actualizado": "18/11 16:49",
+ "actualizado": "18/11 21:49",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -13,16 +13,16 @@
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     },
     {
+     "titulo": "Milei negó echar a Bullrich y apuntó al círculo rojo: “Es mi socia política”",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "18/11/2026",
+     "url": "https://bardeo.news/politica/milei-nego-echar-a-bullrich-y-apunto-al-circulo-rojo---es-mi-socia-politica-_a6afe24e1e4787d71b4b72eda"
+    },
+    {
      "titulo": "No hubo quórum para la ley Malvinas y la reforma del Banco Central",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "18/11/2026",
      "url": "https://bardeo.news/politica/no-hubo-quorum-para-la-ley-malvinas-y-la-reforma-del-banco-central_a6afde4f990b8e927e29b7a0c"
-    },
-    {
-     "titulo": "Todos menos Axel: Massa juntó al peronismo y habló un Perón hecho con IA",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "18/11/2026",
-     "url": "https://bardeo.news/politica/todos-menos-axel--massa-junto-al-peronismo-y-hablo-un-peron-hecho-con-ia_a6afd89e8a0b4385611196298"
     }
    ],
    "imagen": [
@@ -38,18 +38,18 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "ELECCIONES 2027 La Casa Rosada pone en pausa las reuniones con el PRO y el congreso de LLA Por Pablo Lapuente",
+     "titulo": "ELECCIONES 2027 Buenos Aires se encamina a sostener las PASO aunque Milei logre suspenderlas a nivel nacional Por Macarena Ramírez",
      "medio": "Letra P",
      "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/la-casa-rosada-pone-pausa-las-reuniones-el-pro-y-el-congreso-lla-n5428253",
-     "tag": "Política"
+     "url": "https://www.letrap.com.ar/politica/buenos-aires-se-encamina-sostener-las-paso-aunque-milei-logre-suspenderlas-nivel-nacional-n5428332",
+     "tag": "Calendario electoral"
     },
     {
-     "titulo": "Reforma electoral. El Gobierno retiró las listas colectoras para asegurarse el apoyo para suspender las PASO",
-     "medio": "La Nación",
+     "titulo": "Fracaso del Gobierno en el Congreso: se cayó una sesión clave en Diputados y estallaron las internas libertarias",
+     "medio": "El Destape",
      "fecha": "18/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-nid18112026/",
-     "tag": "Calendario electoral"
+     "url": "https://www.eldestapeweb.com/politica/cayo-sesion-clave-diputados-estallaron-internas-gobierno-congreso-hace-le-canta-20261118155425",
+     "tag": "Política"
     },
     {
      "titulo": "El Gobierno busca aprobar en Diputados la ley de Defensa de la Soberanía y la reforma del Banco Central",
@@ -59,11 +59,11 @@
      "tag": "Gestión"
     },
     {
-     "titulo": "Fracaso del Gobierno en el Congreso: se cayó una sesión clave en Diputados y estallaron las internas libertarias",
-     "medio": "El Destape",
+     "titulo": "Evento en Recoleta Karina Milei inauguró la navidad en el Palacio Duhau La secretaria general de la Presidencia recorrió junto a Pilar Ramírez una feria destinada a \"impulsar el talento y el trabajo de emprendedores argentinos\".",
+     "medio": "Perfil",
      "fecha": "18/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/cayo-sesion-clave-diputados-estallaron-internas-gobierno-congreso-hace-le-canta-20261118155425",
-     "tag": "Política"
+     "url": "https://www.perfil.com/politica/karina-milei-inauguro-la-navidad-en-el-palacio-duhau-aDLpc9j2E6Hh",
+     "tag": "Gabinete"
     },
     {
      "titulo": "ELECCIONES 2027 El Gobierno y la oposición, hacia sus puntos de fractura Por Marcelo Falak",
@@ -87,6 +87,13 @@
      "tag": "Calendario electoral"
     },
     {
+     "titulo": "La libertaria Orozco acusó a Bullrich de poner en riesgo la reelección de Milei",
+     "medio": "La Politica Online",
+     "fecha": "18/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/la-libertaria-orozco-acuso-a-bullrich-de-poner-en-riesgo-la-reeleccion-de-milei/",
+     "tag": "Política"
+    },
+    {
      "titulo": "EFECTO SAN FERNANDO El PJ de Entre Ríos se subió al frente anti-Milei que presentaron Massa y el peronismo federal Por Laura Terenzano",
      "medio": "Letra P",
      "fecha": "18/11/2026",
@@ -94,26 +101,19 @@
      "tag": "Política"
     },
     {
-     "titulo": "Con Massa y el apoyo de CFK, el peronismo armó una potente foto de unidad que interpela a la interna y a Milei",
-     "medio": "Infobae",
+     "titulo": "EL OFICIALISMO, SIN PAZ La fallida sesión en Diputados revivió la interna entre Caputo y los Menem Por Pablo Lapuente",
+     "medio": "Letra P",
      "fecha": "18/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/18/con-massa-y-el-apoyo-de-cfk-el-peronismo-armo-una-potente-foto-de-unidad-que-interpela-a-la-interna-y-a-milei/",
+     "url": "https://www.letrap.com.ar/politica/la-fallida-sesion-diputados-revivio-la-interna-santiago-caputo-y-los-menem-n5428328",
      "tag": "Política"
-    },
-    {
-     "titulo": "Diputados. Ley Malvinas: el Gobierno volvió a modificar el proyecto, pero persisten las diferencias",
-     "medio": "La Nación",
-     "fecha": "18/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-volvio-a-modificar-el-proyecto-pero-persisten-las-diferencias-sobre-las-nid18112026/",
-     "tag": "Gestión"
     }
    ],
    "imagen": [
     {
-     "titulo": "ELECCIONES 2027 Encuesta: seis de cada diez personas \"jamás votarían\" a Milei Por Susana Maidana",
-     "medio": "Letra P",
+     "titulo": "Elecciones 2027: una nueva encuesta dio un virtual empate entre Milei y Kicillof",
+     "medio": "El Destape",
      "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/encuesta-seis-cada-diez-personas-jamas-votarian-javier-milei-n5428302"
+     "url": "https://www.eldestapeweb.com/politica/mano-mano-milei-kicillof-resultado-ultima-encuesta-preocupa-gobierno-2026111818540"
     },
     {
      "titulo": "Revista Noticias Encuesta: Patricia Bullrich supera a Milei en imagen positiva Según la consultora AtlasIntel, la senadora porteña se posiciona mejor que el Presidente dentro del oficialismo.",
@@ -126,16 +126,22 @@
      "medio": "El Destape",
      "fecha": "18/11/2026",
      "url": "https://www.eldestapeweb.com/politica/ultima-encuesta-tendencias-cuanto-le-gana-bullrich-milei-caras-largas-rosada-20261118104220"
+    },
+    {
+     "titulo": "Encuesta: seis de cada diez personas \"jamás votarían\" a Milei Por Susana Maidana",
+     "medio": "Letra P",
+     "fecha": "18/11/2026",
+     "url": "https://www.letrap.com.ar/politica/encuesta-seis-cada-diez-personas-jamas-votarian-javier-milei-n5428302"
     }
    ]
   },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Ley Impositiva 2027: Girard defendió en la Legislatura un esquema que baja la patente al 88,6% de los autos y alivia a 38.000 pymes",
-     "medio": "Info Cielo",
+     "titulo": "Reforma Política: El oficialismo más cerca de suspender las PASO 2027 y flexibilizar la veda electoral",
+     "medio": "Noticia 1",
      "fecha": "18/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/ley-impositiva-2027-girard-defendio-en-la-legislatura-un-esquema-que-baja-la-patente-al-886-de-los-autos-y-alivia-a-38-000-pymes"
+     "url": "https://www.lanoticia1.com/noticia/reforma-politica-el-oficialismo-consigue-dictamen-para-suspender-las-paso-2027-y-flexibilizar-la-veda-electoral"
     },
     {
      "titulo": "Villa Gesell: Barrera acusó a la oposición de bloquear el Presupuesto 2027 y perjudicar a los vecinos",
@@ -144,27 +150,34 @@
      "url": "https://www.lanoticia1.com/noticia/villa-gesell-barrera-acuso-a-la-oposicion-de-bloquear-el-presupuesto-2027-y-perjudicar-a-los-vecinos"
     },
     {
-     "titulo": "DISCUSIÓN 2027 La grieta norte-sur del peronismo de Santa Fe queda al desnudo por la gira de Kicillof Por Álvaro Maté",
+     "titulo": "La UCR bonaerense intenta ordenarse para la discusión por el Presupuesto y las reelecciones indefinidas Por Juan Rubinacci",
      "medio": "Letra P",
      "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/la-grieta-norte-sur-del-peronismo-santa-fe-queda-al-desnudo-la-gira-kicillof-n5428305"
+     "url": "https://www.letrap.com.ar/conurbano/la-ucr-bonaerense-intenta-ordenarse-la-discusion-el-presupuesto-y-las-reelecciones-indefinidas-n5428337"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Elecciones 2027: una nueva encuesta dio un virtual empate entre Milei y Kicillof",
+     "medio": "El Destape",
+     "fecha": "18/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/mano-mano-milei-kicillof-resultado-ultima-encuesta-preocupa-gobierno-2026111818540"
+    }
+   ]
   },
   "Catamarca": {
    "top3": [
+    {
+     "titulo": "Vigésima sesión ordinaria Diputados aprobó nuevas licencias parentales y la adhesión a la Ley Nicolás",
+     "medio": "El Ancasti",
+     "fecha": "18/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/diputados-aprobo-nuevas-licencias-parentales-y-la-adhesion-la-ley-nicolas-n626311"
+    },
     {
      "titulo": "Reforma política El Gobierno dio marcha atrás y eliminó las colectoras para avanzar con la suspensión de las PASO",
      "medio": "El Ancasti",
      "fecha": "18/11/2026",
      "url": "https://www.elancasti.com.ar/politica-y-economia/el-gobierno-dio-marcha-atras-y-elimino-las-colectoras-avanzar-la-suspension-las-paso-n626301"
-    },
-    {
-     "titulo": "Impulsado por Argerich, Moro y Ledesma Diputados dio media sanción a un proyecto unificado de licencias parentales",
-     "medio": "El Ancasti",
-     "fecha": "18/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/diputados-dio-media-sancion-un-proyecto-unificado-licencias-parentales-n626299"
     }
    ],
    "imagen": []
@@ -172,10 +185,10 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Por falta de quórum, se cayó la sesión en Diputados que debatía la Ley Malvinas y la reforma del Banco Central",
+     "titulo": "Quintriqueo aseguró que Sobisch rechazó ser el candidato a gobernador de Neuquén por La Libertad Avanza",
      "medio": "ADN Sur",
      "fecha": "18/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/por-falta-de-quorum--se-cayo-la-sesion-en-diputados-que-debatia-la-ley-malvinas-y-la-reforma-del-banco-central_a6afdcbfad6e1c370fe9c2eda"
+     "url": "https://www.adnsur.com.ar/politica/quintriqueo-aseguro-que-sobisch-rechazo-ser-el-candidato-a-gobernador-de-neuquen-por-la-libertad-avanza_a6afe04a4d6e1c370fea28119"
     },
     {
      "titulo": "Batacazo opositor: se cayó la sesión en Diputados para tratar la Ley Malvinas y la reforma del BCRA",
@@ -195,22 +208,23 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Passerini toma el mando del operativo Llaryora 2027 y ordena el armado silvestre del PJ de Córdoba Por Luis Zegarra",
-     "medio": "Letra P",
-     "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/daniel-passerini-toma-el-mando-del-operativo-llaryora-2027-y-ordena-el-armado-silvestre-del-pj-cordoba-n5428313"
-    },
-    {
-     "titulo": "Senado. Suspensión de las PASO: el Gobierno eliminó las colectoras y el debate pasó a un cuarto intermedio",
-     "medio": "Cadena3",
-     "fecha": "18/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/suspension-de-las-paso-el-gobierno-elimino-las-colectoras-y-el-debate-paso-a-un-cuarto-intermedio_614420"
-    },
-    {
-     "titulo": "Se cayó la sesión para tratar la Ley Malvinas y la reforma del Banco Central",
+     "titulo": "Rechazo en la Legislatura: el oficialismo postergó el tratamiento de la «Ley Fede»",
      "medio": "Hoy Dia",
      "fecha": "18/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/se-cayo-la-sesion-para-tratar-la-ley-malvinas-y-la-reforma-del-banco-central/"
+     "url": "https://hoydia.com.ar/politica/cordoba/rechazo-en-la-legislatura-el-oficialismo-postergo-el-tratamiento-de-la-ley-fede/",
+     "tag": "También en CBA24N"
+    },
+    {
+     "titulo": "Presupuesto 2027: tomaron estado parlamentario los proyectos presentados por el Ejecutivo provincial",
+     "medio": "Legislatura de Córdoba",
+     "fecha": "18/11/2026",
+     "url": "https://legislaturacba.gob.ar/presupuesto-2027-tomaron-estado-parlamentario-los-proyectos-presentados-por-el-ejecutivo-provincial/"
+    },
+    {
+     "titulo": "El Gobierno consiguió dictamen para la Reforma Electoral: los cambios que prevé el proyecto",
+     "medio": "ElDoce",
+     "fecha": "18/11/2026",
+     "url": "https://eldoce.tv/politica/2026/11/18/el-gobierno-consiguio-dictamen-para-la-reforma-electoral-los-cambios-que-propone-el-proyecto/"
     }
    ],
    "imagen": []
@@ -224,22 +238,29 @@
      "url": "https://hcdcorrientes.gov.ar/sesion-19-es-ley-la-declaracion-de-emergencia-climatica-e-hidrica-en-la-provincia/"
     },
     {
-     "titulo": "Por una decisión judicial, Cristina Kirchner cobrará $3 millones más por mes",
+     "titulo": "El Gobierno consiguió dictamen y la suspensión de las PASO se tratará el próximo jueves",
      "medio": "El Litoral",
      "fecha": "18/11/2026",
-     "url": "https://www.ellitoral.com.ar/nacional/2026-11-18-16-4-0-por-una-decision-judicial-cristina-kirchner-cobrara-3-millones-mas-por-mes"
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-18-17-23-0-reforma-electoral-el-gobierno-consiguio-dictamen-y-la-suspension-de-las-paso-se-tratara-el-proximo-jueves-en-el-senado"
     },
     {
-     "titulo": "El presupuesto familiar le pone un techo a los precios",
+     "titulo": "Milei defendió a Bullrich: “Cómo la vamos a echar, es mi socia política”",
      "medio": "El Litoral",
      "fecha": "18/11/2026",
-     "url": "https://www.ellitoral.com.ar/campo/2026-11-18-8-58-0-el-presupuesto-familiar-le-pone-un-techo-a-los-precios"
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-18-19-14-0-en-medio-de-la-tension-en-el-oficialismo-milei-defendio-a-bullrich-como-la-vamos-a-echar-es-mi-socia-politica"
     }
    ],
    "imagen": []
   },
   "Entre Ríos": {
    "top3": [
+    {
+     "titulo": "El Presupuesto 2027 de Concepción del Uruguay prevé un importante incremento de fondos para obras",
+     "medio": "Ahora",
+     "fecha": "18/11/2026",
+     "url": "https://ahora.com.ar/politica/el-presupuesto-2027-de-concepcion-del-uruguay-preve-un-importante-incremento-de-fondos-para-obras",
+     "tag": "También en AFP Digital"
+    },
     {
      "titulo": "EFECTO SAN FERNANDO El PJ de Entre Ríos se subió al frente anti-Milei que presentaron Massa y el peronismo federal Por Laura Terenzano",
      "medio": "Letra P",
@@ -252,13 +273,6 @@
      "fecha": "18/11/2026",
      "url": "https://www.apfdigital.com.ar/noticias/2026/11/18/479685-fracaso-libertario-por-falta-de-quorum-se-cayo-la-sesion-en-diputados-por-la-ley-de-malvinas-y-la-reforma-del-bcra",
      "tag": "También en UNO ER"
-    },
-    {
-     "titulo": "Diputados debate la Ley Malvinas y la reforma del Banco Central",
-     "medio": "Ahora",
-     "fecha": "18/11/2026",
-     "url": "https://ahora.com.ar/politica/diputados-ley-malvinas-reforma-banco-central",
-     "tag": "También en El Once"
     }
    ],
    "imagen": []
@@ -266,16 +280,22 @@
   "Formosa": {
    "top3": [
     {
-     "titulo": "Caputo, contra el peronismo: “Debe haber pocas cosas más estúpidas que combatir al capital y cantarlo”",
+     "titulo": "El justicialismo se apresta a aprobar este jueves el Presupuesto Provincial para el 2027",
      "medio": "La Mañana",
      "fecha": "18/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108791/caputo-contra-el-peronismo-debe-haber-pocas-cosas-ms-estpidas-que-combatir-al-capital-y-cantarlo/"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108806/el-justicialismo-se-apresta-a-aprobar-este-jueves-el-presupuesto-provincial-para-el-2027/"
     },
     {
-     "titulo": "Docentes Autoconvocados reclamó a Insfrán un aumento salarial “urgente” y estabilidad laboral",
+     "titulo": "El Gobierno debió ceder más de lo previsto, pero obtuvo el dictamen en el Senado para suspender las PASO",
      "medio": "La Mañana",
      "fecha": "18/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108782/docentes-autoconvocados-reclam-a-insfrn-un-aumento-salarial-urgente-y-estabilidad-laboral/"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108807/el-gobierno-debi-ceder-ms-de-lo-previsto-pero-obtuvo-el-dictamen-en-el-senado-para-suspender-las-paso/"
+    },
+    {
+     "titulo": "Insfrán pidió militar \"casa por casa\"",
+     "medio": "La Politica Online",
+     "fecha": "18/11/2026",
+     "url": "https://www.lapoliticaonline.com/politica/insfran-pidio-militar-casa-por-casa/"
     }
    ],
    "imagen": []
@@ -290,17 +310,17 @@
      "tag": "También en El Tribuno, Todo Jujuy"
     },
     {
-     "titulo": "PERONISMO 2027 Hay fecha de elecciones en el PJ de Jujuy: Moisés y Rivarola se enfrentarán el 6 de diciembre Por Lucio Di Giuseppe",
-     "medio": "Letra P",
-     "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/hay-fecha-elecciones-el-pj-jujuy-carolina-moises-y-ruben-rivarola-se-enfrentaran-el-6-diciembre-n5428331"
-    },
-    {
      "titulo": "Jujuy conmemoró su autonomía política con un acto encabezado por el gobernador Carlos Sadir",
      "medio": "Prensa oficial de Jujuy",
      "fecha": "18/11/2026",
      "url": "https://prensa.jujuy.gob.ar/jujuy/jujuy-conmemoro-su-autonomia-politica-un-acto-encabezado-el-gobernador-carlos-sadir-n126028",
-     "tag": "También en Somos Jujuy, Todo Jujuy y 1 más"
+     "tag": "También en Jujuy al día, Somos Jujuy y 2 más"
+    },
+    {
+     "titulo": "PERONISMO 2027 Hay fecha de elecciones en el PJ de Jujuy: Moisés y Rivarola se enfrentarán el 6 de diciembre Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "18/11/2026",
+     "url": "https://www.letrap.com.ar/politica/hay-fecha-elecciones-el-pj-jujuy-carolina-moises-y-ruben-rivarola-se-enfrentaran-el-6-diciembre-n5428331"
     }
    ],
    "imagen": []
@@ -308,22 +328,22 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Reforma Electoral: LLA en el Senado retrocede y elimina las colectoras",
+     "titulo": "Presupuesto 2027: Rauschenberger reclamó deuda previsional y más fondos para provincias",
      "medio": "La Arena",
      "fecha": "18/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/reforma-electoral-lla-en-el-senado-retrocede-y-elimina-las-colectoras-202611181600"
-    },
-    {
-     "titulo": "Diputados abre el recinto este miércoles y el oficialismo busca aprobar la “Ley Malvinas” y la reforma del Banco Central",
-     "medio": "La Pampa 24",
-     "fecha": "18/11/2026",
-     "url": "https://lapampa24.com.ar/nacionales/diputados-abre-el-recinto-este-miercoles-y-el-oficialismo-busca-aprobar-la-ley-malvinas-y-la-reforma-del-banco-central/"
+     "url": "https://www.laarena.com.ar/la-pampa/presupuesto-2027-rauschenberger-reclamo-deuda-previsional-y-mas-fondos-para-provincias-2026111819420"
     },
     {
      "titulo": "Máximo Kirchner se reunió en La Pampa con Zilioto: apuntó contra “la indiferencia del Gobierno ante el dolor de sus compatriotas”",
      "medio": "Infobae",
      "fecha": "18/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/18/maximo-kirchner-se-reunio-en-la-pampa-con-zilioto-apunto-contra-la-indiferencia-del-gobierno-ante-el-dolor-de-sus-compatriotas/"
+    },
+    {
+     "titulo": "FOTOS CRUZADAS Ziliotto sacudió el tablero del peronismo de La Pampa con su abrazo a Máximo Kirchner Por Juan Pablo Gavazza",
+     "medio": "Letra P",
+     "fecha": "18/11/2026",
+     "url": "https://www.letrap.com.ar/politica/sergio-ziliotto-sacudio-el-tablero-del-peronismo-la-pampa-su-abrazo-maximo-kirchner-n5428311"
     }
    ],
    "imagen": [
@@ -350,7 +370,7 @@
      "url": "https://nuevarioja.com.ar/politica/diputados-abre-el-recinto-este-miercoles-y-el-oficialismo-busca-aprobar-la-ley-malvinas-y-la-reforma-del-banco-central.htm"
     },
     {
-     "titulo": "LA OPOSICIÓN PIDE QUE EL MINISTRO BLANCO VAYA A LA CÁMARA A DETALLAR CIFRAS DEL PRESUPUESTO 2027",
+     "titulo": "PIDEN QUE HACIENDA EXPLIQUE CIFRAS DEL PRESUPUESTO 2027 EN DIPUTADOS",
      "medio": "Rioja Virtual",
      "fecha": "18/11/2026",
      "url": "https://riojavirtual.com.ar/presupuesto-2027-la-oposicion-exige-transparentar-cifras-y-que-el-ministro-blanco-vaya-a-la-camara/"
@@ -361,23 +381,22 @@
   "Mendoza": {
    "top3": [
     {
+     "titulo": "En el Gobierno acusaron de \"especulación electoral\" al petrismo y al PJ por la demora del Presupuesto 2027",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "18/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/en-el-gobierno-acusaron-especulacion-electoral-al-petrismo-y-al-pj-la-demora-del-presupuesto-2027-n1617514"
+    },
+    {
+     "titulo": "El Senado aprobó el dictamen impulsado por Javier Milei para suspender las PASO nacionales 2027",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "18/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/el-senado-aprobo-el-dictamen-impulsado-javier-milei-suspender-las-paso-nacionales-2027-n1617854"
+    },
+    {
      "titulo": "La interna de la UCR frena el Presupuesto 2027 y complica el endeudamiento de Cornejo",
      "medio": "Memo",
      "fecha": "18/11/2026",
      "url": "https://www.memo.com.ar/poder/la-interna-de-la-ucr-frena-el-presupuesto-2027-y-complica-el-endeudamiento-de-cornejo/"
-    },
-    {
-     "titulo": "El oficialismo retira las colectoras para avanzar en el Senado con la suspensión de las PASO",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "18/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/el-oficialismo-retira-las-colectoras-avanzar-el-senado-la-suspension-las-paso-n1617718"
-    },
-    {
-     "titulo": "Cornejo fijó reglas para las compras y obras urgentes de Mendoza durante la emergencia climática",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "18/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/cornejo-fijo-reglas-las-compras-y-obras-urgentes-mendoza-la-emergencia-climatica-n1617569",
-     "tag": "También en Mendoza Post"
     }
    ],
    "imagen": []
@@ -391,17 +410,16 @@
      "url": "https://www.letrap.com.ar/politica/hugo-passalacqua-ensancha-el-armado-misiones-y-se-juega-un-pleno-las-elecciones-del-sindicato-docente-n5428318"
     },
     {
+     "titulo": "LLA logró dictamen para suspender las PASO y el Senado votará el 26",
+     "medio": "La Voz - Misiones",
+     "fecha": "18/11/2026",
+     "url": "https://lavozdemisiones.com/politica/lla-logro-dictamen-para-suspender-las-paso-y-el-senado-votara-el-26"
+    },
+    {
      "titulo": "La sesión para tratar la Ley Malvinas cayó por falta de quórum en Diputados",
      "medio": "La Voz - Misiones",
      "fecha": "18/11/2026",
-     "url": "https://lavozdemisiones.com/politica/la-sesion-para-tratar-la-ley-malvinas-cayo-por-falta-de-quorum-en-diputados",
-     "tag": "También en Primera Edición"
-    },
-    {
-     "titulo": "Sergio Massa estará el jueves en Misiones: se reunirá con el gobernador Hugo Passalacqua y con sectores filokirchneristas",
-     "medio": "Infobae",
-     "fecha": "18/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/18/sergio-massa-estara-el-jueves-en-misiones-se-reunira-con-el-gobernador-hugo-passalacqua-y-con-sectores-filokirchneristas/"
+     "url": "https://lavozdemisiones.com/politica/la-sesion-para-tratar-la-ley-malvinas-cayo-por-falta-de-quorum-en-diputados"
     }
    ],
    "imagen": []
@@ -422,11 +440,10 @@
      "url": "https://www.lanacion.com.ar/politica/un-aliado-de-baradel-sello-una-alianza-electoral-con-sobisch-que-era-gobernador-de-neuquen-cuando-nid18112026/"
     },
     {
-     "titulo": "Beneficios para usuarios Figueroa firmó el decreto que formaliza la Tarifa Neuquina",
-     "medio": "Prensa oficial de Neuquén",
+     "titulo": "Reforma electoral El Senado firmó el dictamen para suspender las PASO de 2027 y eliminar la veda electoral",
+     "medio": "Noticias NQN",
      "fecha": "18/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/18/267453-figueroa-firmo-el-decreto-que-formaliza-la-tarifa-neuquina",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/18/361425-el-senado-firmo-el-dictamen-para-suspender-las-paso-de-2027-y-eliminar-la-veda-electoral"
     }
    ],
    "imagen": []
@@ -434,24 +451,23 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Neuquén aprobó en general el Presupuesto 2027 con una fuerte inversión en obra pública",
+     "titulo": "Sin veda, debate, ni PASO en 2027: cómo quedó la reforma electoral de Javier Milei tras los cambios en el Senado",
      "medio": "Diario Rio Negro",
      "fecha": "18/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/neuquen-aprobo-en-general-el-presupuesto-2027-con-una-fuerte-inversion-en-obra-publica-4803783/"
+     "url": "https://www.rionegro.com.ar/politica/sin-veda-debate-ni-paso-en-2027-como-quedo-la-reforma-electoral-de-javier-milei-tras-los-cambios-en-el-senado-4804025/"
     },
     {
-     "titulo": "¿Habrá PASO en 2027? Qué se sabe sobre las próximas elecciones",
+     "titulo": "El Gobierno consiguió dictamen para la reforma electoral: se tratará el jueves 26 en el Senado",
      "medio": "AN Roca",
      "fecha": "18/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/18/233100-habra-paso-en-2027-que-se-sabe-sobre-las-proximas-elecciones",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/18/233235-el-gobierno-consiguio-dictamen-para-la-reforma-electoral-se-tratara-el-jueves-26-en-el-senado",
      "tag": "También en LCR, Noticias Net"
     },
     {
-     "titulo": "El oficialismo consiguió dictamen para el Presupuesto 2027: se tratará el 25 de noviembre en Diputados",
-     "medio": "AN Roca",
+     "titulo": "EFECTO SAN FERNANDO Pesatti gobernador: el vice de Weretilneck planta una candidatura y rearma el mapa en Río Negro Por César Pucheta",
+     "medio": "Letra P",
      "fecha": "18/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/18/233061-el-oficialismo-consiguio-dictamen-para-el-presupuesto-2027-se-tratara-el-25-de-noviembre-en-diputados",
-     "tag": "También en Noticias Net"
+     "url": "https://www.letrap.com.ar/politica/pesatti-gobernador-el-vice-alberto-weretilneck-planta-una-candidatura-y-rearma-el-mapa-rio-negro-n5428334"
     }
    ],
    "imagen": []
@@ -462,19 +478,20 @@
      "titulo": "El Gobierno cerró las rondas con intendentes y legisladores antes de enviar el Presupuesto 2027 a la Legislatura",
      "medio": "Prensa oficial de Salta",
      "fecha": "18/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/el-gobierno-cerro-las-rondas-con-intendentes-y-legisladores-antes-de-enviar-el-presupuesto-2027-a-la-legislatura-111186"
+     "url": "https://www.salta.gob.ar/prensa/noticias/el-gobierno-cerro-las-rondas-con-intendentes-y-legisladores-antes-de-enviar-el-presupuesto-2027-a-la-legislatura-111186",
+     "tag": "También en El Tribuno"
     },
     {
-     "titulo": "Al Gobierno le faltaron tres diputados y se cayó la sesión: Ley Malvinas y reforma del BCRA",
-     "medio": "Que Pasa Salta",
+     "titulo": "Elecciones 2027 | Para el salteño Urtubey, «el peronismo tiene la obligación de cambiar la tristeza por esperanza»",
+     "medio": "Cuarto",
      "fecha": "18/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/diputados-sin-quorum-provincias-unidas-ley-malvinas-bcra/"
+     "url": "https://www.cuarto.com.ar/elecciones-2027-para-el-salteno-urtubey-el-peronismo-tiene-la-obligacion-de-cambiar-la-tristeza-por-esperanza/"
     },
     {
-     "titulo": "Por qué Milei quiere suspender las PASO y qué se juega rumbo a 2027",
-     "medio": "Que Pasa Salta",
+     "titulo": "Presupuesto 2027: todo listo para ser enviado a la Legislatura, concluyeron las mesas de diálogo",
+     "medio": "Informate Salta",
      "fecha": "18/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/por-que-javier-milei-quiere-suspende-las-paso/"
+     "url": "https://informatesalta.com.ar/gobierno/presupuesto-2027--todo-listo-para-ser-enviado-a-la-legislatura--concluyeron-las-mesas-de-dialogo_a6afe3499e4787d71b4b86a52"
     }
    ],
    "imagen": []
@@ -482,25 +499,25 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "El Gobierno eliminó las colectoras de la Reforma Electoral y busca avanzar con la suspensión de las PASO Por Redacción Diario de Cuyo",
+     "titulo": "Sin colectoras, PASO suspendidas, y el fin de la veda electoral: el gobierno consiguió dictamen para tratar la reforma electoral en el Senado",
+     "medio": "Tiempo de San Juan",
+     "fecha": "18/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/sin-colectoras-paso-suspendidas-y-el-fin-de-la-veda-electoral-el-gobierno-consiguio-dictamen-para-tratar-la-reforma-electoral-en-el-senado_1795043604",
+     "tag": "También en 0264 Noticias, El Zonda"
+    },
+    {
+     "titulo": "Orrego inauguró el monumento a los caídos en Malvinas en la Quebrada de Zonda",
+     "medio": "Tiempo de San Juan",
+     "fecha": "18/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/orrego-inauguro-el-monumento-a-los-caidos-en-malvinas-en-la-quebrada-de-zonda_1795046988",
+     "tag": "También en 0264 Noticias, Diario de Cuyo y 3 más"
+    },
+    {
+     "titulo": "El Gobierno eliminó las colectoras de la Reforma Electoral y busca avanzar con la suspensión de las PASO",
      "medio": "Diario de Cuyo",
      "fecha": "18/11/2026",
      "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-elimino-las-colectoras-la-reforma-electoral-y-busca-avanzar-la-suspension-las-paso-n6588962",
-     "tag": "También en El Zonda"
-    },
-    {
-     "titulo": "El Gobierno sufrió un revés en Diputados: le faltaron tres legisladores y se cayó la sesión Por Redacción Diario de Cuyo",
-     "medio": "Diario de Cuyo",
-     "fecha": "18/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-sufrio-un-reves-diputados-le-faltaron-tres-legisladores-y-se-cayo-la-sesion-n6588960",
-     "tag": "También en Huarpe, Tiempo de San Juan"
-    },
-    {
-     "titulo": "Reforma electoral: el Gobierno buscará conseguir dictamen este miércoles y apunta a sesionar la próxima semana en el Senado",
-     "medio": "0264 Noticias",
-     "fecha": "18/11/2026",
-     "url": "https://www.0264noticias.com.ar/noticias/2026/11/18/117666-reforma-electoral-el-gobierno-buscara-conseguir-dictamen-este-miercoles-y-apunta-a-sesionar-la-proxima-semana-en-el-senado",
-     "tag": "También en El Zonda"
+     "tag": "También en San Juan 8"
     }
    ],
    "imagen": []
@@ -508,23 +525,24 @@
   "San Luis": {
    "top3": [
     {
-     "titulo": "‘Sanluiseña’: 874 comercios ya iniciaron el proceso de adhesión a la iniciativa del Gobierno",
+     "titulo": "Poggi le solicitó al presidente de Aerolíneas Argentinas la restitución de los vuelos de los viernes",
      "medio": "Prensa oficial de San Luis",
      "fecha": "18/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/18/1232811-sanluisena-874-comercios-ya-iniciaron-el-proceso-de-adhesion-a-la-iniciativa-del-gobierno/",
-     "tag": "También en La Gaceta Digital"
+     "url": "https://agenciasanluis.com/2026/11/18/1233024-poggi-le-solicito-al-presidente-de-aerolineas-argentinas-la-restitucion-de-los-vuelos-de-los-viernes/",
+     "tag": "También en La Gaceta Digital, San Luis 24"
     },
     {
-     "titulo": "El Gobernador visitó las obras que se llevan adelante en el Centro Educativo ‘Puerta de Cuyo’",
+     "titulo": "Los vecinos del barrio Eusebio Castaño ya disfrutan de un nuevo paseo lineal",
      "medio": "Prensa oficial de San Luis",
      "fecha": "18/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/18/1232635-el-gobernador-visito-las-obras-que-se-llevan-adelante-en-el-centro-educativo-puerta-de-cuyo/"
+     "url": "https://agenciasanluis.com/2026/11/18/1232944-los-vecinos-del-barrio-eusebio-castano-ya-disfrutan-de-un-nuevo-paseo-lineal/",
+     "tag": "También en La Gaceta Digital, San Luis 24"
     },
     {
-     "titulo": "VIDEO | “Pipi” Alí: “El gobernador juega para Sportivo Poggi”",
-     "medio": "San Luis 24",
+     "titulo": "Diputados sancionó el Plan Maestro de Energía 2026-2036: la oposición peronista cuestionó que es un proyecto meramente declarativo",
+     "medio": "La Gaceta Digital",
      "fecha": "18/11/2026",
-     "url": "https://sanluis24.com.ar/pipi-ali-el-gobernador-juega-para-sportivo-poggi/"
+     "url": "https://lagacetadigital.com.ar/2026/11/18/diputados-sanciono-el-plan-maestro-de-energia-2026-2036-la-oposicion-peronista-cuestiono-que-es-un-proyecto-meramente-declarativo/"
     }
    ],
    "imagen": [
@@ -552,10 +570,11 @@
      "tag": "También en El Diario Nuevo Día, La Opinión Austral"
     },
     {
-     "titulo": "Un intendente de Santa Cruz vetó los test de drogas a funcionarios: los argumentos y qué exigía la ordenanza",
+     "titulo": "Reforma política: el oficialismo consiguió dictamen en el Senado y busca suspender las PASO en 2027",
      "medio": "El Diario Nuevo Día",
      "fecha": "18/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/un-intendente-de-santa-cruz-veto-los-test-de-drogas-a-funcionarios-los-argumentos-y-que-exigia-la-ordenanza/"
+     "url": "https://www.eldiarionuevodia.com.ar/nacionales/reforma-politica-el-oficialismo-consiguio-dictamen-en-el-senado-y-busca-suspender-las-paso-en-2027-4727/",
+     "tag": "También en La Opinión Austral"
     }
    ],
    "imagen": []
@@ -570,63 +589,58 @@
      "tag": "También en La Capital"
     },
     {
-     "titulo": "Diputados: se cayó la sesión para tratar la ley Malvinas y la reforma del Banco Central",
+     "titulo": "Presupuesto provincial 2027: senadores recibieron a ministros antes del debate",
      "medio": "La Capital",
      "fecha": "18/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/diputados-se-cayo-la-sesion-tratar-la-ley-malvinas-y-la-reforma-del-banco-central-n10292954.html",
-     "tag": "También en Agencia Fe"
+     "url": "https://www.lacapital.com.ar/politica/presupuesto-provincial-2027-senadores-recibieron-ministros-antes-del-debate-n10293009.html"
     },
     {
-     "titulo": "DISCUSIÓN 2027 La grieta norte-sur del peronismo de Santa Fe queda al desnudo por la gira de Kicillof Por Álvaro Maté",
-     "medio": "Letra P",
+     "titulo": "Diputados: el oficialismo busca aprobar la ley Malvinas y la reforma del Banco Central",
+     "medio": "Rosario3",
      "fecha": "18/11/2026",
-     "url": "https://www.letrap.com.ar/politica/la-grieta-norte-sur-del-peronismo-santa-fe-queda-al-desnudo-la-gira-kicillof-n5428305"
+     "url": "https://www.rosario3.com/politica/diputados-el-oficialismo-busca-aprobar-la-ley-malvinas-y-la-reforma-del-banco-central-20261118-0023.html",
+     "tag": "También en La Capital"
     }
    ],
    "imagen": [
     {
-     "titulo": "Un estudio ubicó a Pullaro en el podio de los gobernadores con mejor imagen del país",
-     "medio": "Rosario3",
+     "titulo": "Racing sondeó a Walter Samuel para dirigir al equipo en 2027",
+     "medio": "UNO - SF",
      "fecha": "18/11/2026",
-     "url": "https://www.rosario3.com/politica/un-estudio-ubico-a-pullaro-en-el-podio-de-los-gobernadores-con-mejor-imagen-del-pais-20261118-0019.html"
+     "url": "https://www.unosantafe.com.ar/ovacion/racing-sondeo-walter-samuel-dirigir-al-equipo-2027-n10292977.html"
     }
    ]
   },
   "Santiago del Estero": {
    "top3": [
     {
+     "titulo": "El Gobierno logró dictamen para suspender las PASO en 2027 y el Senado debatirá la reforma electoral el próximo jueves",
+     "medio": "Diario Panorama",
+     "fecha": "18/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573444/gobierno-logro-dictamen-para-suspender-paso-2027-senado-debatira-reforma-electoral-proximo-jueves",
+     "tag": "También en Nuevo Diario Web"
+    },
+    {
      "titulo": "Se cayó la sesión en Diputados: el Gobierno no consiguió quórum para tratar la Ley Malvinas y la reforma del Banco Central",
      "medio": "Diario Panorama",
      "fecha": "18/11/2026",
      "url": "https://www.diariopanorama.com/noticia/573407/se-cayo-sesion-diputados-gobierno-no-consiguio-quorum-para-tratar-ley-malvinas-reforma-banco-central",
-     "tag": "También en El Liberal, Nuevo Diario Web"
+     "tag": "También en El Liberal, Info del Estero y 1 más"
     },
     {
-     "titulo": "El Gobernador Elías Suárez participó de la presentación de las obras de ampliación y modernización del Aeropuerto “Madre de Ciudades”",
+     "titulo": "Este 19 de noviembre se pagará a los beneficiaroos de planes de Emergencia junto a la segunda cuota del bono",
      "medio": "Prensa oficial de Santiago del Estero",
      "fecha": "18/11/2026",
-     "url": "https://sde.gob.ar/2026/11/18/el-gobernador-elias-suarez-participo-de-la-presentacion-de-las-obras-de-ampliacion-y-modernizacion-del-aeropuerto-madre-de-ciudades/",
-     "tag": "También en El Liberal"
-    },
-    {
-     "titulo": "Caputo pidió revalidar el rumbo económico en 2027 y criticó al peronismo frente a empresarios",
-     "medio": "El Liberal",
-     "fecha": "18/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98412/2026/11/caputo-pidio-revalidar-el-rumbo-economico-en-2027-y-critico-al-peronismo-frente-a-empresarios-pymes"
+     "url": "https://sde.gob.ar/2026/11/18/este-19-de-noviembre-se-pagara-a-los-beneficiaroos-de-planes-de-emergencia-junto-a-la-segunda-cuota-del-bono/",
+     "tag": "También en Diario Panorama, El Liberal y 2 más"
     }
    ],
    "imagen": [
     {
-     "titulo": "Massa mencionó a Zamora, Uñac y De La Sota entre los posibles candidatos presidenciales para 2027",
-     "medio": "Diario Panorama",
-     "fecha": "18/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/573376/massa-menciono-zamora-unac-de-sota-entre-posibles-candidatos-presidenciales-para-2027"
-    },
-    {
-     "titulo": "Encuesta de la UBA rumbo a 2027: Javier Milei y Axel Kicillof empatan en un 42% en un eventual balotaje",
+     "titulo": "Walter Samuel rechazó el sondeo de Racing para ser el DT en 2027",
      "medio": "El Liberal",
      "fecha": "18/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98423/2026/11/encuesta-de-la-uba-rumbo-a-2027--javier-milei-y-axel-kicillof-empatan-en-un-42-en-porciento--en-un-eventual-balotaje"
+     "url": "https://www.elliberal.com.ar/nota/98453/2026/11/walter-samuel-rechazo-el-sondeo-de-racing-para-ser-el-dt-en-2027"
     }
    ]
   },
@@ -650,23 +664,25 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Sin quórum en Diputados: se cayó la sesión por la Ley Malvinas y la reforma del Banco Central",
-     "medio": "Los Primeros",
-     "fecha": "18/11/2026",
-     "url": "https://www.losprimeros.tv/politica/sin-quorum-en-diputados--se-cayo-la-sesion-por-la-ley-malvinas-y-la-reforma-del-banco-central-_a6afdcc6a90b8e927e2991292",
-     "tag": "También en Contexto, El Tucumano y 1 más"
-    },
-    {
-     "titulo": "Federico Romano Norri asumió la presidencia de la Convención de la UCR y llamó a construir una alianza opositora para 2027",
+     "titulo": "El Gobierno logró dictamen para la reforma electoral: qué día se tratará la suspensión de las PASO en el Senado",
      "medio": "La Gaceta - Tucumán",
      "fecha": "18/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1163084/politica/federico-romano-norri-asumio-presidencia-convencion-ucr-llamo-construir-alianza-opositora-para-2027.html"
+     "url": "https://www.lagaceta.com.ar/nota/1163164/politica/gobierno-logro-dictamen-para-reforma-electoral-dia-se-tratara-suspension-paso-senado.html",
+     "tag": "También en Los Primeros, LV12"
     },
     {
-     "titulo": "Reforma electoral, PASO y acoples: las claves detrás de la estrategia de Milei para 2027",
+     "titulo": "Casación redujo de 16 a 14 años la condena por abuso sexual a José Alperovich",
      "medio": "La Gaceta - Tucumán",
      "fecha": "18/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1163069/politica/reforma-electoral-paso-acoples-claves-detras-estrategia-milei-para-2027.html"
+     "url": "https://www.lagaceta.com.ar/nota/1163138/politica/casacion-redujo-16-14-anos-condena-abuso-sexual-jose-alperovich.html",
+     "tag": "También en Contexto, El Tucumano y 3 más"
+    },
+    {
+     "titulo": "\"Obra empezada, obra terminada\": Jaldo reunió a su gabinete e intendentes para definir el cierre del año",
+     "medio": "El Tucumano",
+     "fecha": "18/11/2026",
+     "url": "https://www.eltucumano.com/noticia/actualidad/327971/obra-empezada-obra-terminada-jaldo-reunio-a-su-gabinete-e-intendentes-para-definir-el-cierre-del-ano?dnd=slider&src=tit&pos=5&dis=desk",
+     "tag": "También en LV12, Tucumán Despierta"
     }
    ],
    "imagen": [
@@ -686,7 +702,6 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
-  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
