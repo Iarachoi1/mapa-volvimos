@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 12:46",
+ "actualizado": "19/11 13:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,38 +27,8 @@
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Love Myself",
-   "url": "https://x.com/search?q=Love%20Myself",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +39,14 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEFINALSTAGE",
-   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "$20.000 OFF",
-   "url": "https://x.com/search?q=%2420.000%20OFF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nico Paz",
-   "url": "https://x.com/search?q=Nico%20Paz",
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
@@ -99,20 +63,20 @@
    "temas": []
   },
   {
-   "tema": "$45.000 OFF",
-   "url": "https://x.com/search?q=%2445.000%20OFF",
+   "tema": "Don Omar",
+   "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#FoolInLoveEP13",
-   "url": "https://x.com/search?q=%23FoolInLoveEP13",
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
    "relevante": false,
    "temas": []
   },
@@ -121,9 +85,81 @@
    "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Shenzhen",
+   "url": "https://x.com/search?q=Shenzhen",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#FoolInLoveEP13",
+   "url": "https://x.com/search?q=%23FoolInLoveEP13",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "dolar",
+   "busquedas": "2000+",
+   "nota": "Dólar hoy: a cuánto operan todas las cotizaciones tras la caída del real brasileño y el récord del contado con liqui",
+   "nota_url": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "depósito",
+   "busquedas": "100+",
+   "nota": "Depósitos al 3,40% a un año: SME Bank y Mano Bank suben y WiZink activa un 3,30% a 18 meses por Black Friday",
+   "nota_url": "https://www.rankia.com/blog/mejores-depositos/7554802-depositos-12-meses-sme-bank-mano-wizink",
+   "medio": "Rankia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estoico",
+   "busquedas": "100+",
+   "nota": "Javier Milei recibió el título de Doctor Honoris Causa y afirmó que “la justicia social nos hunde”",
+   "nota_url": "https://www.infobae.com/politica/2026/11/18/javier-milei-recibio-el-titulo-de-doctor-honoris-causa-y-afirmo-que-la-justicia-social-nos-hunde/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "que se festeja hoy",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "anthropic acciones",
    "busquedas": "100+",
@@ -135,19 +171,19 @@
   },
   {
    "tema": "argentina sub-17 - australia sub-17",
-   "busquedas": "2000+",
-   "nota": "Selección Argentina Sub 17 vs. Australia, hoy EN VIVO por el Mundial: horario y por dónde ver",
-   "nota_url": "https://www.ole.com.ar/seleccion/seleccion-argentina-vs-australia-partido-mundial-sub-17-vivo_0_1OjM8xmwsV.html",
-   "medio": "Olé",
+   "busquedas": "5000+",
+   "nota": "Juan Policella, el “pibe de las rabonas” que rechazó Chile, hizo historia en Vélez y va por el Mundial Sub 17",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/juan-policella-el-pibe-de-las-rabonas-que-rechazo-chile-hizo-historia-en-velez-y-va-por-el-mundial-nid18112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "prófugo",
    "busquedas": "100+",
-   "nota": "La Justicia investiga a una mujer paraguaya que habría ayudado en la fuga del terrorista italiano",
-   "nota_url": "https://tn.com.ar/internacional/2026/11/18/la-justicia-investiga-a-una-mujer-paraguaya-que-habria-ayudado-en-la-fuga-del-terrorista-italiano/",
-   "medio": "TN",
+   "nota": "Hoy indagan a la pareja del ex terrorista italiano que escapó: el insólito desliz del prófugo que llevó a la prueba clave en su contra",
+   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/19/hoy-indagan-a-la-pareja-del-ex-terrorista-italiano-que-escapo-el-insolito-error-del-ex-terrorista-que-llevo-a-la-prueba-clave-en-su-contra/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -162,7 +198,7 @@
   },
   {
    "tema": "oliver bearman",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "F1 Q&A: Bearman and Ferrari, Williams, Racing Bulls, overtaking and renaming of grands prix",
    "nota_url": "https://www.bbc.com/sport/formula1/articles/c9vg2l8240emo",
    "medio": "BBC",
@@ -172,45 +208,9 @@
   {
    "tema": "mar del plata",
    "busquedas": "1000+",
-   "nota": "Jueves algo lluvioso en la previa de la tormenta: rige un alerta meteorológico para Mar del Plata",
-   "nota_url": "https://www.0223.com.ar/nota/2026-11-19-8-27-0-jueves-algo-lluvioso-en-la-previa-de-la-tormenta-rige-un-alerta-meteorologico-para-mar-del-plata",
-   "medio": "0223.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dia de la mujer",
-   "busquedas": "200+",
-   "nota": "Las cosas pasan en algún lugar",
-   "nota_url": "https://www.thenewbarcelonapost.com/cosas-pasan-en-algun-lugar-opinion-beatriz-vicente/",
-   "medio": "The New Barcelona Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "black friday",
-   "busquedas": "200+",
-   "nota": "How to save on electronics this holiday shopping season",
-   "nota_url": "https://www.mercurynews.com/2026/11/19/how-to-save-on-electronics-this-holiday-shopping-season/",
-   "medio": "The Mercury News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafael jódar",
-   "busquedas": "200+",
-   "nota": "Resumen, resultado y ganador del Shelton - Jódar: última hora de las ATP Finals, hoy en vivo",
-   "nota_url": "https://as.com/tenis/final_atp/shelton-jodar-en-directo-ultima-hora-de-las-atp-finals-hoy-en-vivo-f202611-d/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cronista",
-   "busquedas": "100+",
-   "nota": "Bruno Incicco se sinceró tras el cachetazo por la espalda de la chica trans: “Al azar, canalizó en mi todo su enojo”",
-   "nota_url": "https://www.canalnet.tv/programas/bruno-incicco-se-sincero-tras-el-cachetazo-por-la-espalda-de-la-chica-trans-al-azar-canalizo-en-mi-todo-su-enojo_20261118/",
-   "medio": "Net tv | Aire Fresco",
+   "nota": "Paralizada. Por falta de materia prima, cierra definitivamente La Campagnola en Mar del Plata",
+   "nota_url": "https://www.lavoz.com.ar/negocios/falta-materia-prima-cierra-definitivamente-campagnola-mar-plata_0_6L3hSKagcw.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
