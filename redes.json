@@ -1,13 +1,7 @@
 {
- "actualizado": "18/11 21:49",
+ "actualizado": "18/11 23:05",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
@@ -21,44 +15,20 @@
    "temas": []
   },
   {
-   "tema": "#MamarrachoInstitucional",
-   "url": "https://x.com/search?q=%23MamarrachoInstitucional",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#integracionmarvel",
-   "url": "https://x.com/search?q=%23integracionmarvel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SKZEnArgentina",
-   "url": "https://x.com/search?q=%23SKZEnArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Illojuan",
-   "url": "https://x.com/search?q=Illojuan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SKZRUNITenArgentina",
-   "url": "https://x.com/search?q=%23SKZRUNITenArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "JosÃ© Alperovich",
-   "url": "https://x.com/search?q=Jos%C3%83%C2%A9%20Alperovich",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
    "relevante": false,
    "temas": []
   },
@@ -69,50 +39,80 @@
    "temas": []
   },
   {
-   "tema": "Mayonesa",
-   "url": "https://x.com/search?q=Mayonesa",
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Matheu",
-   "url": "https://x.com/search?q=Matheu",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Cipayos",
-   "url": "https://x.com/search?q=Cipayos",
+   "tema": "#SKZEnArgentina",
+   "url": "https://x.com/search?q=%23SKZEnArgentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Traidores a la Patria",
-   "url": "https://x.com/search?q=Traidores%20a%20la%20Patria",
+   "tema": "#SKZRUNITenArgentina",
+   "url": "https://x.com/search?q=%23SKZRUNITenArgentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tuzzio",
-   "url": "https://x.com/search?q=Tuzzio",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Fuerte Apache",
-   "url": "https://x.com/search?q=Fuerte%20Apache",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "OSDE",
-   "url": "https://x.com/search?q=OSDE",
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MamarrachoInstitucional",
+   "url": "https://x.com/search?q=%23MamarrachoInstitucional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "San Fernando",
+   "url": "https://x.com/search?q=San%20Fernando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -125,92 +125,92 @@
  ],
  "google": [
   {
-   "tema": "mavericks - warriors",
-   "busquedas": "200+",
-   "nota": "Warriors at Mavs Preview: Odds & Injuries On 'Nellie Night' In Dallas",
-   "nota_url": "https://sports.yahoo.com/articles/warriors-mavs-preview-odds-injuries-173030255.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela nacional",
-   "busquedas": "200+",
-   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este miércoles, 18 de noviembre",
-   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-miercoles-18-de-noviembre-20261118508",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gran premio de las vegas",
-   "busquedas": "500+",
-   "nota": "Colapinto y Gasly, modelos por un rato: el divertido álbum de fotos de Alpine en Las Vegas",
-   "nota_url": "https://www.ole.com.ar/autos/colapinto-gasly-sesion-fotos-vegas-formula-1-gran-premio_0_BBFu2gGFGU.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fuerzas armadas",
-   "busquedas": "200+",
-   "nota": "Sueldos de las Fuerzas Armadas: Defender la Patria por menos de un millón de pesos al mes",
-   "nota_url": "https://www.lalicuadoratdf.com.ar/2026/11/sueldos-de-las-fuerzas-armadas-defender-la-patria-por-menos-de-un-millon-de-pesos-al-mes/",
-   "medio": "La Licuadora",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "heat - bucks",
+   "tema": "miami heat",
    "busquedas": "100+",
-   "nota": "Tyler Herro's revenge game looms as Bucks limp into Miami on a 10-game losing streak with something to prove",
-   "nota_url": "https://www.foxnews.com/outkick/tyler-herro-revenge-game-looms-bucks-limp-miami-10-game-losing-streak-something-prove",
-   "medio": "Fox News",
+   "nota": "Miami Heat bring Vice City to South Beach",
+   "nota_url": "https://www.nba.com/news/heat-unveil-vice-city-court",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "zanja",
+   "tema": "gremio vs",
    "busquedas": "100+",
-   "nota": "Chile instala nuevas barreras de hormigón en la frontera con el Perú para bloquear pasos inhabilitados",
-   "nota_url": "https://www.peruinforma.com/chile-instala-nuevas-barreras-de-hormigon-en-la-frontera-con-el-peru-para-bloquear-pasos-inhabilitados/",
-   "medio": "Perú Informa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "grêmio - bahía",
-   "busquedas": "500+",
-   "nota": "Grêmio e Bahia decidem vantagem no duelo entre Renato e Rogério",
-   "nota_url": "https://futebolsergipano.com.br/gremio-e-bahia-decidem-vantagem-no-duelo-entre-renato-e-rogerio/",
-   "medio": "Futebol Sergipano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "palmeiras vs",
-   "busquedas": "100+",
-   "nota": "Cruzeiro vs. Palmeiras por el Brasileirao Serie A 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/cruzeiro-vs-palmeiras-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid17112026/",
+   "nota": "Grêmio vs. Bahia por el Brasileirao Serie A, 2026: día, hora y cómo seguir online",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/gremio-vs-bahia-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid17112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "magic - 76ers",
+   "tema": "los juegos del hambre",
    "busquedas": "200+",
-   "nota": "Franz Wagner Over 30.5 PA vs. Shorthanded 76ers",
-   "nota_url": "https://sports.yahoo.com/videos/franz-wagner-over-30-5-181923520.html",
-   "medio": "Yahoo Sports",
+   "nota": "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era",
+   "nota_url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "selección de fútbol de portugal",
+   "tema": "provincia de buenos aires",
+   "busquedas": "500+",
+   "nota": "Provincia ajustará el Inmobiliario 30% y habrá bajas en la Patente",
+   "nota_url": "https://www.eldia.com/politica-y-economia/la-provincia-bajara-la-patentes-a-casi-nueve-de-cada-diez-vehiculos-politica-y-economia_1795033409",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "facundo herrera",
+   "busquedas": "200+",
+   "nota": "El pasado tuitero de Jagger Herrera y sus viralizaciones: \"Ahora me cago de risa\"",
+   "nota_url": "https://www.ole.com.ar/boca-juniors/jaggerherrera-boca-twitter-facundocolidio-redessociales-copasudamericana-copalibertadores-river-viralizaciones-inferiores-internacional-publicaciones_0_xUKBPgix5b.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los juegos del hambre amanecer en la cosecha",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "norte",
    "busquedas": "100+",
-   "nota": "Otra polémica en Portugal: el gesto de Bruno Fernandes y Cancelo que salpicó a Cristiano Ronaldo",
-   "nota_url": "https://www.lavoz.com.ar/deportes/polemica-portugal-gesto-bruno-fernandes-cancelo-salpico-cristiano-ronaldo_0_OO4VdHci5u.html",
-   "medio": "La Voz del Interior",
+   "nota": "Las FDI confirman que han eliminado a terroristas que se hacían pasar por civiles en Hospital Nasser de Gaza",
+   "nota_url": "https://www.jns.org/es/noticias/noticias-de-israel/las-fdi-confirman-que-han-eliminado-a-terroristas-que-se-hacian-pasar-por-civiles-en-hospital-nasser-de-gaza",
+   "medio": "JNS.org",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nets - bulls",
+   "busquedas": "100+",
+   "nota": "Bulls Need a RESPONSE! Giddey’s Bounce-Back Test | Bulls vs Nets LIVE Pregame",
+   "nota_url": "https://bvmsports.com/2026/11/18/bulls-need-a-response-giddeys-bounce-back-test-bulls-vs-nets-live-pregame/",
+   "medio": "BVM Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "resultados quiniela",
+   "busquedas": "200+",
+   "nota": "Quiniela Provincia de HOY: resultados EN VIVO del jueves 19 de noviembre",
+   "nota_url": "https://www.tycsports.com/interes-general/quiniela-provincia-de-hoy-resultados-en-vivo-del-jueves-19-de-noviembre-id772057.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "neymar",
+   "busquedas": "1000+",
+   "nota": "Santos venció 1-0 a Coritiba, por el Brasileirao Serie A 2026",
+   "nota_url": "https://www.lanacion.com.ar/deportes/canchallena/santos-vencio-1-0-a-coritiba-por-el-brasileirao-serie-a-2026-nid18112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
