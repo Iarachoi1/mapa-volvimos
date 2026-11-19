@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 03:55",
+ "actualizado": "19/11 05:15",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -51,6 +51,12 @@
    "temas": []
   },
   {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#SolPersonajeDelAÃ±o",
    "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
@@ -59,12 +65,6 @@
   {
    "tema": "Olivia",
    "url": "https://x.com/search?q=Olivia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +93,20 @@
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Haymitch",
-   "url": "https://x.com/search?q=Haymitch",
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
    "relevante": false,
    "temas": []
   },
@@ -117,8 +117,8 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "GTA 5",
+   "url": "https://x.com/search?q=GTA%205",
    "relevante": false,
    "temas": []
   }
@@ -126,10 +126,10 @@
  "google": [
   {
    "tema": "trucos gta 6",
-   "busquedas": "100+",
-   "nota": "GTA 6 has 61 cheats, but you'll have to beat the story before using any of them",
-   "nota_url": "https://www.tweaktown.com/news/114769/gta-6-has-61-cheats-but-youll-have-to-beat-the-story-before-using-any-of-them/index.html",
-   "medio": "TweakTown",
+   "busquedas": "200+",
+   "nota": "Guía definitiva sobre GTA VI: trucos, códigos, misiones, el mapa completo y todo lo que necesitas saber para jugar",
+   "nota_url": "https://tn.com.ar/tecno/juegos/2026/11/18/guia-definitiva-sobre-gta-vi-trucos-codigos-misiones-el-mapa-completo-y-todo-lo-que-necesitas-saber-para-jugar/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -145,9 +145,9 @@
   {
    "tema": "thunder - hawks",
    "busquedas": "100+",
-   "nota": "Licensable picture: NBA: Atlanta Hawks at Oklahoma City Thunder",
-   "nota_url": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1MzM",
-   "medio": "Reuters Connect",
+   "nota": "Thunder’s Jared McCain sends love to ‘great people’ Lu Dort, Aaron Wiggins after beating Hawks",
+   "nota_url": "https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-jared-mccain-sends-love-great-people-lu-dort-aaron-wiggins-beating-hawks",
+   "medio": "ClutchPoints",
    "relevante": false,
    "temas": []
   },
@@ -163,9 +163,9 @@
   {
    "tema": "lakers - jazz",
    "busquedas": "1000+",
-   "nota": "Jazz Lakers Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/jazz-lakers-basketball/image_79346c7a-7c70-56a3-896a-b04c19b15ded.html",
-   "medio": "Corsicana Daily Sun",
+   "nota": "Jazz vs. Lakers Injury Report Delivers Big Jaxson Hayes Update",
+   "nota_url": "https://www.si.com/nba/jazz/onsi/jazz-vs-lakers-injury-report-delivers-big-jaxson-hayes-update",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
@@ -181,9 +181,18 @@
   {
    "tema": "nuggets - celtics",
    "busquedas": "500+",
-   "nota": "Jamal Murray's jumper and Jayson Tatum's late tech seal Denver's comeback win",
-   "nota_url": "https://www.espn.com.sg/video/clip/_/id/50528416/jamal-murray-jumper-jayson-tatum-late-tech-seal-denver-comeback-win",
-   "medio": "ESPN Singapore",
+   "nota": "LNN: Denver Nuggets earn best win of season in comeback victory over Boston Celtics",
+   "nota_url": "https://milehighsports.com/lnn-denver-nuggets-earn-best-win-of-season-in-comeback-victory-over-boston-celtics/",
+   "medio": "Mile High Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olé",
+   "busquedas": "200+",
+   "nota": "Los rayos X de los playoffs: la \"maldición\" de ser el mejor y los antecedentes que favorecen llegar de punto",
+   "nota_url": "https://www.fmalpina.com.ar/articulo/los-rayos-x-de-los-playoffs-la-maldicion-de-ser-el-mejor-y-los-antecedentes-que-favorecen-llegar-de-punto.php",
+   "medio": "FM Alpina",
    "relevante": false,
    "temas": []
   },
@@ -199,19 +208,10 @@
   {
    "tema": "congreso",
    "busquedas": "100+",
-   "nota": "El Senado confirmó la sesión para este jueves para aprobar más fondos para la discapacidad",
-   "nota_url": "https://www.ambito.com/politica/el-senado-confirmo-la-sesion-este-jueves-aprobar-una-mejora-la-discapacidad-n6346833",
-   "medio": "Ambito",
+   "nota": "El Senado sesiona mañana para sancionar las leyes de discapacidad, propiedad privada y el Tratado sobre Patentes",
+   "nota_url": "https://www.infobae.com/politica/2026/11/18/el-senado-sesiona-manana-para-sancionar-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-sobre-patentes/",
+   "medio": "Infobae",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "gremio vs",
-   "busquedas": "200+",
-   "nota": "Grêmio vs. Bahia por el Brasileirao Serie A, 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/gremio-vs-bahia-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid17112026/",
-   "medio": "La Nación",
-   "relevante": false,
    "temas": []
   }
  ],
