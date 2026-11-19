@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 07:50",
+ "actualizado": "19/11 08:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,6 +33,24 @@
    "temas": []
   },
   {
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DUOONEFINALSTAGE",
+   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
@@ -51,8 +69,8 @@
    "temas": []
   },
   {
-   "tema": "#somosasi",
-   "url": "https://x.com/search?q=%23somosasi",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "#FelizJueves",
+   "url": "https://x.com/search?q=%23FelizJueves",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +99,20 @@
    "temas": []
   },
   {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "PerÃ³n",
    "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Falcone",
+   "url": "https://x.com/search?q=Falcone",
    "relevante": false,
    "temas": []
   },
@@ -97,36 +121,66 @@
    "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 5",
-   "url": "https://x.com/search?q=GTA%205",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clima san luis",
+   "tema": "david bisbal",
+   "busquedas": "100+",
+   "nota": "David Bisbal sufre triste pérdida: “Nunca imaginé que, después de aquel concierto nos tocaría despedirnos para siempre”",
+   "nota_url": "https://es-us.vida-estilo.yahoo.com/david-bisbal-sufre-triste-p%C3%A9rdida-132940530.html",
+   "medio": "Yahoo en Español Vida y Estilo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de la soberania nacional",
    "busquedas": "200+",
+   "nota": "Feriados 2026: cuántos quedan en el año y qué días caen Navidad y Año Nuevo",
+   "nota_url": "https://www.cronista.com/informacion-gral/feriados-2026-cuantos-quedan-en-el-ano-y-que-dias-caen-navidad-y-ano-nuevo/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "apagón eléctrico",
+   "busquedas": "100+",
+   "nota": "Los Simpson y el 17 de noviembre: el episodio que predijo un apagón mundial que, según las redes, ocurre hoy",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/17/los-simpson-y-el-17-de-noviembre-el-episodio-que-predijo-un-apagon-mundial-que-segun-las-redes-ocurre-hoy/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "roberto cachanosky",
+   "busquedas": "100+",
+   "nota": "Cachanosky: \"Mantener dólar bajo es subsidiar importaciones, no conviene producir\"",
+   "nota_url": "https://urgente24.com/dinero/cachanosky-mantener-dolar-es-subsidiar-importaciones-no-conviene-producir-n636765",
+   "medio": "Urgente24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mundial sub 17",
+   "busquedas": "500+",
+   "nota": "La Selección debuta contra Australia en el Mundial Sub 17: el registro sin precedentes que es un reflejo de la actualidad del fútbol argentino",
+   "nota_url": "https://www.clarin.com/deportes/seleccion-debuta-australia-mundial-sub-17-registro-precedentes-reflejo-actualidad-futbol-argentino_0_x3M5qvjNq3.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "19 de noviembre",
+   "busquedas": "5000+",
+   "nota": "Buenos Aires tendrá cielo despejado y una máxima de 27 grados",
+   "nota_url": "https://www.radionacional.com.ar/buenos-aires-tendra-cielo-despejado-y-una-maxima-de-27-grados/",
+   "medio": "Radio Nacional Rock",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima san luis",
+   "busquedas": "500+",
    "nota": "Hay alerta amarilla por tormentas para este jueves 19 de noviembre en San Luis: las zonas afectadas",
    "nota_url": "https://tn.com.ar/clima/alertas/2026/11/19/hay-alerta-amarilla-por-tormentas-para-este-jueves-19-de-noviembre-en-san-luis-las-zonas-afectadas/",
    "medio": "TN",
@@ -134,17 +188,8 @@
    "temas": []
   },
   {
-   "tema": "19 de noviembre",
-   "busquedas": "5000+",
-   "nota": "Tras las lluvias y el granizo, se esperan nuevas tormentas en el AMBA y una máxima de 29 grados",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/18/llueve-en-el-amba-cuando-llegan-las-tormentas-y-como-seguira-el-tiempo-durante-los-proximos-dias/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "insecto",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Hallan un misterioso insecto junto a un glaciar en la Patagonia",
    "nota_url": "https://es.euronews.com/2026/11/18/descubren-misterioso-nuevo-insecto-glaciar-hielos-patagonia-chilena",
    "medio": "Euronews.com",
@@ -154,9 +199,9 @@
   {
    "tema": "tiempo en cordoba",
    "busquedas": "1000+",
-   "nota": "Temporal causó daños por $35 millones y obligó a declarar el “estado de desastre”",
-   "nota_url": "https://www.laarena.com.ar/la-region/temporal-causo-danos-por-35-millones-y-obligo-a-declarar-el-estado-de-desastre-2026111722570",
-   "medio": "La Arena",
+   "nota": "Lluvias en Córdoba: los acumulados superaron los 90 milímetros en distintos puntos de la provincia",
+   "nota_url": "https://www.cba.gov.ar/lluvias-en-cordoba-los-acumulados-superaron-los-90-milimetros-en-distintos-puntos-de-la-provincia/",
+   "medio": "· Gobierno de Córdoba",
    "relevante": false,
    "temas": []
   },
@@ -166,51 +211,6 @@
    "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este jueves, 19 de noviembre",
    "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-jueves-19-de-noviembre-202611195012",
    "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "19 de noviembre que se celebra",
-   "busquedas": "200+",
-   "nota": "Efemérides del 19 de noviembre: ¿Qué se conmemora hoy?",
-   "nota_url": "https://www.elesquiu.com/sociedad/2026/11/19/efemerides-del-19-de-noviembre-que-se-conmemora-hoy-603971.html",
-   "medio": "El Esquiu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quini 6: controlar",
-   "busquedas": "1000+",
-   "nota": "Un apostador acertó los seis números del Quini 6 y se llevó más de $3.200 millones. ¡El domingo se pondrán en juego nuevos millones!",
-   "nota_url": "https://www.reconquistahoy.com/93640-un-apostador-acerto-los-seis-numeros-del-quini-6-y-se-llevo-mas-de-3200-millones-el-domingo-se-pondran-en-juego-nuevos-millones",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "desinflación",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima formosa",
-   "busquedas": "100+",
-   "nota": "Llega una fuerte ola de calor a Formosa con máximas de hasta 43°C",
-   "nota_url": "https://www.noticiasformosa.com.ar/2026/11/12/llega-una-fuerte-ola-de-calor-a-formosa-con-maximas-de-hasta-43c/",
-   "medio": "NoticiasFormosa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "trucos gta 6",
-   "busquedas": "200+",
-   "nota": "Robos en GTA 6: cómo hacerlos y cuándo se desbloquea cada uno",
-   "nota_url": "https://culturageek.com.ar/robos-gta-6/",
-   "medio": "Cultura Geek",
    "relevante": false,
    "temas": []
   }
