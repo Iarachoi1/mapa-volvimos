@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 15:46",
+ "actualizado": "19/11 16:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,20 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Australia",
-   "url": "https://x.com/search?q=Australia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Putin",
    "url": "https://x.com/search?q=Putin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +57,26 @@
    "temas": []
   },
   {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#DUOONEXFreenBecky",
    "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
+   "tema": "#PatriaYFamilia",
+   "url": "https://x.com/search?q=%23PatriaYFamilia",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +93,26 @@
    "temas": []
   },
   {
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Lucia",
    "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Australia",
+   "url": "https://x.com/search?q=Australia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   },
@@ -103,33 +121,89 @@
    "url": "https://x.com/search?q=Xi%20Jinping",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DUOONEFINALSTAGE",
-   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Shenzhen",
-   "url": "https://x.com/search?q=Shenzhen",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clima neuquen",
+   "tema": "fragata",
    "busquedas": "200+",
+   "nota": "Encuentro entre los ministros de Defensa de Italia y la Argentina",
+   "nota_url": "https://www.argentina.gob.ar/noticias/encuentro-entre-los-ministros-de-defensa-de-italia-y-la-argentina",
+   "medio": "Argentina.gob.ar",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "aston martin f1",
+   "busquedas": "100+",
+   "nota": "Crawford gets ‘special’ first U.S. F1 outing with Las Vegas FP1",
+   "nota_url": "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1",
+   "medio": "RACER - Racing News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "daniel rafecas",
+   "busquedas": "200+",
+   "nota": "El fiscal pidió que la causa por la mansión de Pilar quede definitivamente en CABA",
+   "nota_url": "https://tn.com.ar/videos/politica/2026/11/19/la-corte-suprema-le-saco-la-causa-de-la-mansion-de-pilar-al-juez-cercano-a-la-afa-y-resolvio-que-sea-investigada-por-rafecas/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "clima junin",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ypf",
+   "busquedas": "200+",
+   "nota": "¿Hasta cuánto aguanta el buffer de YPF para los precios de combustibles?",
+   "nota_url": "https://www.ambito.com/energia/hasta-cuanto-aguanta-el-buffer-ypf-los-precios-combustibles-n6346804",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "peñarol - cerro largo",
+   "busquedas": "500+",
+   "nota": "La peor racha del siglo: el récord negativo que Peñarol podría romper si no le gana a Cerro Largo",
+   "nota_url": "https://www.directvsports.com/futbol/la-peor-racha-del-siglo-el-record-negativo-que-penarol-podria-romper-si-no-le-gana-a-cerro-largo-20261117-0027.html",
+   "medio": "DSports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "esteban ocon",
+   "busquedas": "500+",
+   "nota": "La reacción de Gasly a la abrupta salida de Ocon de la F1: \"Me parece bastante extraña\"",
+   "nota_url": "https://www.tycsports.com/automovilismo/la-reaccion-de-gasly-a-la-abrupta-salida-de-ocon-de-la-f1-me-parece-bastante-extrana-id771428.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima neuquen",
+   "busquedas": "500+",
    "nota": "Hay alerta amarilla por tormentas en 8 provincias para hoy, jueves 19 de noviembre",
    "nota_url": "https://tn.com.ar/sociedad/2026/11/19/hay-alerta-amarilla-por-tormentas-en-8-provincias-para-hoy-jueves-19-de-noviembre/",
    "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "andrea del boca",
+   "busquedas": "500+",
+   "nota": "Andrea del Boca vuelve al teatro con la obra Votemos en Villa Carlos Paz",
+   "nota_url": "https://elecos.com.ar/andrea-del-boca-vuelve-al-teatro-con-la-obra-votemos-en-villa-carlos-paz",
+   "medio": "Ecos Diarios Necochea",
    "relevante": false,
    "temas": []
   },
@@ -141,82 +215,6 @@
    "medio": "Ambito",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "andrea del boca",
-   "busquedas": "200+",
-   "nota": "Salió a la luz el nuevo trabajo de Andrea del Boca y un detalle se robó todas las miradas",
-   "nota_url": "https://la100.cienradios.com/espectaculos/salio-a-la-luz-el-nuevo-trabajo-de-andrea-del-boca-y-un-detalle-se-robo-todas-las-miradas/",
-   "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alperovich",
-   "busquedas": "200+",
-   "nota": "La Justicia le redujo la condena a José Alperovich por abuso sexual",
-   "nota_url": "https://www.lanacion.com.ar/politica/la-justicia-le-redujo-la-condena-a-jose-alperovich-por-abuso-sexual-nid18112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiziana sabatini",
-   "busquedas": "200+",
-   "nota": "Tiziana Sabatini, la hija de Catherine Fulop, mostró su negocio: diseño de marcas, proyectos internacionales y la portada del libro de Oriana",
-   "nota_url": "https://www.losandes.com.ar/espectaculos/tiziana-sabatini-la-hija-catherine-fulop-mostro-su-negocio-diseno-marcas-proyectos-internacionales-y-la-portada-del-libro-oriana-n6010429",
-   "medio": "Los Andes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "congreso",
-   "busquedas": "1000+",
-   "nota": "EE.UU. también pone la lupa en Jujuy: El Congreso pidió enviar auditores a la Argentina para contrarrestar la influencia de China",
-   "nota_url": "https://las24horasdejujuy.com.ar/ee-uu-tambien-pone-la-lupa-en-jujuy-el-congreso-pidio-enviar-auditores-a-la-argentina-para-contrarrestar-la-influencia-de-china/",
-   "medio": "las 24 horas de jujuy",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "20 de noviembre",
-   "busquedas": "500+",
-   "nota": "A minutos de CABA: fue escenario de una batalla por la soberanía y se reconvirtió como polo turístico",
-   "nota_url": "https://www.eldestapeweb.com/sociedad/minutos-caba-fue-escenario-batalla-soberania-reconvirtio-polo-turistico-2026111912162",
-   "medio": "El Destape",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
-  },
-  {
-   "tema": "julio iglesias",
-   "busquedas": "100+",
-   "nota": "La justicia de España investigará a Julio Iglesias por presuntas agresiones sexuales",
-   "nota_url": "https://www.ambito.com/espectaculos/la-justicia-espana-investigara-julio-iglesias-presuntas-agresiones-sexuales-n6346648",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "amalia granata",
-   "busquedas": "100+",
-   "nota": "El emotivo mensaje que Amalia Granata le dedicó a su hija Uma luego de ser entrevistada por Flor de la Ve",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/19/el-emotivo-mensaje-que-amalia-granata-le-dedico-a-su-hija-uma-luego-de-ser-entrevistada-por-flor-de-la-ve/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tapir americano",
-   "busquedas": "200+",
-   "nota": "Video: el Ecoparque porteño celebra el nacimiento de una tapir en peligro de extinción",
-   "nota_url": "https://www.ellitoral.com/informacion-general/tapiramericano-ecoparque-yunga-conservacion-sudamerica-ecosistemas_0_RdtdajSkLZ.html",
-   "medio": "El Litoral",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
   }
  ],
  "youtube": [],

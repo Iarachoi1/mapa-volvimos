@@ -1,10 +1,16 @@
 {
  "semana": "19 de noviembre de 2026",
  "fecha": "2026-11-19",
- "actualizado": "19/11 11:12",
+ "actualizado": "19/11 16:54",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "Un diputado de Pato Bullrich rompió con La Libertad Avanza",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "19/11/2026",
+     "url": "https://bardeo.news/politica/un-diputado-de-pato-bullrich-rompio-con-la-libertad-avanza_a6aff2eaccd25aee2883d24b7"
+    },
     {
      "titulo": "Bullrich volvió a diferenciarse de Milei y pidió alivio para las pymes",
      "medio": "Bardeo (columnas de Manu Jove)",
@@ -17,19 +23,33 @@
      "fecha": "19/11/2026",
      "url": "https://cenital.com/el-peligro-de-un-mundo-sin-secretos/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
-    },
-    {
-     "titulo": "Jinping, Trump y Putin en una cumbre trilateral histórica",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "19/11/2026",
-     "url": "https://cenital.com/jinping-trump-y-putin-en-una-cumbre-trilateral-historica/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
    "imagen": []
   },
   "CABA": {
    "top3": [
+    {
+     "titulo": "En sintonía con la reforma de Milei. LLA presiona para suspender las PASO porteñas y tensiona el vínculo con Jorge Macri",
+     "medio": "La Nación",
+     "fecha": "19/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/la-libertad-avanza-presiona-para-suspender-las-paso-en-la-capital-y-tensiona-el-vinculo-con-jorge-nid19112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El Gobierno está confiado y adelanta que ya tiene “entre 38 y 42 senadores” para aprobar la suspensión de las PASO",
+     "medio": "El Destape",
+     "fecha": "19/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/gobierno-esta-confiado-asegura-tener-38-42-senadores-aprobar-suspension-paso-2026111916629",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "El Gobierno amplió el Presupuesto 2026 por DNU y reforzó partidas previsionales, sociales y de discapacidad",
+     "medio": "El Parlamentario",
+     "fecha": "19/11/2026",
+     "url": "https://www.parlamentario.com/2026/11/19/el-gobierno-amplio-el-presupuesto-2026-por-dnu-y-reforzo-partidas-previsionales-sociales-y-de-discapacidad/",
+     "tag": "Gestión"
+    },
     {
      "titulo": "Más fondos para la SIDE: Milei amplió su presupuesto en $6.100 millones",
      "medio": "El Destape",
@@ -45,17 +65,17 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "El Gobierno amplió el Presupuesto 2026 por DNU y reforzó partidas previsionales, sociales y de discapacidad",
-     "medio": "El Parlamentario",
-     "fecha": "19/11/2026",
-     "url": "https://www.parlamentario.com/2026/11/19/el-gobierno-amplio-el-presupuesto-2026-por-dnu-y-reforzo-partidas-previsionales-sociales-y-de-discapacidad/",
-     "tag": "Gestión"
-    },
-    {
      "titulo": "Desafío al Gobierno. El Senado se encamina a sancionar una nueva ley de discapacidad pese a las resistencias del oficialismo",
      "medio": "La Nación",
      "fecha": "19/11/2026",
      "url": "https://www.lanacion.com.ar/politica/el-senado-se-encamina-a-sancionar-una-nueva-ley-de-discapacidad-pese-a-las-resistencias-del-gobierno-nid19112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Rearmado político Milei, en modo electoral La cercanía de las urnas moderó el discurso de Javier Milei con el círculo rojo, pero trabó los acuerdos políticos con las provincias por espacios de poder. Ariel Maciel",
+     "medio": "Perfil",
+     "fecha": "19/11/2026",
+     "url": "https://www.perfil.com/politica/milei-en-modo-electoral-adQPv8F70Xzt",
      "tag": "Política"
     },
     {
@@ -66,42 +86,27 @@
      "tag": "Política"
     },
     {
-     "titulo": "Rearmado político Milei, en modo electoral Ariel Maciel",
-     "medio": "Perfil",
+     "titulo": "Con un guiño de Bullrich, el PJ forzó el debate de la ley de ludopatía y presiona a Milei Por Mauricio Cantando",
+     "medio": "Letra P",
      "fecha": "19/11/2026",
-     "url": "https://www.perfil.com/politica/milei-en-modo-electoral-adQPv8F70Xzt",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "GOBIERNO “No es un plan platita”: Bullrich plantea un paquete de alivio para las pymes y marca distancia de Milei y Caputo",
-     "medio": "Perfil",
-     "fecha": "19/11/2026",
-     "url": "https://www.perfil.com/politica/no-es-un-plan-platita-bullrich-plantea-un-paquete-de-alivio-para-las-pymes-y-marca-distancia-de-milei-y-caputo-avcZ66k7In1O",
+     "url": "https://www.letrap.com.ar/congreso/con-un-guino-patricia-bullrich-el-pj-forzo-el-debate-la-ley-ludopatia-y-presiona-javier-milei-n5428352",
      "tag": "Política"
     },
     {
-     "titulo": "Jorge Asís: \"Es una vergüenza que el Gobierno que viene contra la casta necesite cancelar las PASO para subsistir\"",
-     "medio": "Infobae",
-     "fecha": "19/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/19/jorge-asis-es-una-verguenza-que-el-gobierno-que-viene-contra-la-casta-necesite-cancelar-las-paso-para-subsistir/",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "“Está bien que te agarres la cabeza”. Galmarini cruzó a Caputo por su reacción al encuentro del peronismo organizado por Massa",
-     "medio": "La Nación",
-     "fecha": "19/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/galmarini-cruzo-a-caputo-por-su-reaccion-al-evento-del-peronismo-organizado-por-massa-esta-bien-que-nid19112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "\"Sé que soy cabrón\": la confesión de Javier Milei al hablar sobre su diplomacia",
+     "titulo": "La Justicia porteña avaló la reforma de Milei y recortó intereses en un juicio laboral",
      "medio": "El Destape",
      "fecha": "19/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/confesion-javier-milei-hablar-diplomacia-soy-cabron-202611199050",
+     "url": "https://www.eldestapeweb.com/politica/guino-justicia-portena-milei-avalo-reforma-laboral-recortar-intereses-juicio-20261119162127",
      "tag": "Política"
     }
    ],
    "imagen": [
+    {
+     "titulo": "Ocho de cada diez ya decidieron sobre Milei: qué dice la encuesta que pone en juego el proyecto de reelección libertario",
+     "medio": "El Destape",
+     "fecha": "19/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-elecciones-2027-kicillof-tiene-piso-electoral-alto-milei-uno-techos-bajos-20261119134056"
+    },
     {
      "titulo": "Kicillof, Milei y Bullrich, distrito por distrito: la encuesta que marca el rumbo de la campaña en la provincia de Buenos Aires",
      "medio": "El Destape",
@@ -113,22 +118,22 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "La UCR bonaerense intenta dejar atrás las internas para enfocarse en el presupuesto 2027",
+     "titulo": "Última sesión ordinaria en Diputados: suspenso por la ley de apuestas online y con el Presupuesto rumbo a Navidad",
      "medio": "Info Cielo",
      "fecha": "19/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/la-ucr-bonaerense-intenta-dejar-atras-las-internas-para-enfocarse-en-el-presupuesto-2027"
+     "url": "https://www.infocielo.com/politica-y-economia/ultima-sesion-ordinaria-en-diputados-suspenso-por-la-ley-de-apuestas-online-y-con-el-presupuesto-rumbo-a-navidad"
+    },
+    {
+     "titulo": "ELECCIONES 2027 La suspensión de las PASO abre una grieta en el PRO bonaerense Por Juan Rubinacci",
+     "medio": "Letra P",
+     "fecha": "19/11/2026",
+     "url": "https://www.letrap.com.ar/conurbano/la-suspension-las-paso-abre-una-grieta-el-pro-bonaerense-n5428355"
     },
     {
      "titulo": "Sin PASO nacionales, las bonaerenses podrían mantenerse y complicar al Gobierno",
      "medio": "El Destape",
      "fecha": "19/11/2026",
      "url": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058"
-    },
-    {
-     "titulo": "El peronismo sinceró su armado a dos bandas: el plan de fondo que ve Kicillof y la centralidad de Massa",
-     "medio": "Infobae",
-     "fecha": "19/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/19/el-peronismo-sincero-su-armado-a-dos-bandas-el-plan-de-fondo-que-ve-kicillof-y-la-centralidad-de-massa/"
     }
    ],
    "imagen": [
@@ -143,16 +148,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Continúa el conflicto Denuncian que realizan las elecciones en Exactas pese a una medida cautelar para suspenderlas",
+     "titulo": "El Senado rechazó tratar sobre tablas el proyecto Cruce entre Corpacci y Bullrich por la ley de ludopatía",
      "medio": "El Ancasti",
      "fecha": "19/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/denuncian-que-realizan-las-elecciones-exactas-pese-una-medida-cautelar-suspenderlas-n626352"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/cruce-corpacci-y-bullrich-la-ley-ludopatia-n626372"
     },
     {
-     "titulo": "Condicionó su voto Fernando Monguillot pidió que el Presupuesto incluya obras de desagües y urbanización para la Capital",
+     "titulo": "27° sesión ordinaria El Senado aprobó proyectos sobre asueto estatal, sellos oficiales y obras viales",
      "medio": "El Ancasti",
      "fecha": "19/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/fernando-monguillot-pidio-que-el-presupuesto-incluya-obras-desagues-y-urbanizacion-la-capital-n626363"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-senado-aprobo-proyectos-asueto-estatal-sellos-oficiales-y-obras-viales-n626381"
     }
    ],
    "imagen": []
@@ -160,17 +165,22 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "El Senado tratará la sanción definitiva de la Ley de Discapacidad",
-     "medio": "Diario Jornada",
+     "titulo": "Figueroa y Rioseco oficializaron su acuerdo electoral: “Estamos armando un frente para la defensa de Neuquén”",
+     "medio": "ADN Sur",
      "fecha": "19/11/2026",
-     "url": "https://www.diariojornada.com.ar/427342/politica/el_senado_tratara_la_sancion_definitiva_de_la_ley_de_discapacidad",
-     "tag": "También en ADN Sur"
+     "url": "https://www.adnsur.com.ar/politica/figueroa-y-rioseco-oficializaron-su-acuerdo-electoral---estamos-armando-un-frente-para-la-defensa-de-neuquen-_a6aff4384b96a482cac5319aa"
     },
     {
      "titulo": "Bullrich condiciona a Milei y Caputo con reclamos económicos",
      "medio": "Diario Jornada",
      "fecha": "19/11/2026",
      "url": "https://www.diariojornada.com.ar/427350/politica/bullrich_condiciona_a_milei_y_caputo_con_reclamos_economicos"
+    },
+    {
+     "titulo": "El Senado tratará la sanción definitiva de la Ley de Discapacidad",
+     "medio": "Diario Jornada",
+     "fecha": "19/11/2026",
+     "url": "https://www.diariojornada.com.ar/427342/politica/el_senado_tratara_la_sancion_definitiva_de_la_ley_de_discapacidad"
     }
    ],
    "imagen": []
@@ -178,28 +188,42 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Milei negó que exista una pelea interna con Bullrich y ratificó su plan económico",
-     "medio": "Hoy Dia",
-     "fecha": "19/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/milei-nego-que-exista-una-interna-con-bullrich-y-ratifico-su-plan-economico/"
-    },
-    {
-     "titulo": "El Senado tratará este jueves la sanción definitiva de la Ley de Discapacidad",
-     "medio": "Hoy Dia",
-     "fecha": "19/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/el-senado-tratara-este-jueves-la-sancion-definitiva-de-la-ley-de-discapacidad-2/"
-    },
-    {
-     "titulo": "Política nacional. \"Madurez democrática\": exsecretario electoral nacional defendió la suspensión de las PASO",
+     "titulo": "Audiencia clave. El Senado debate la Ley de Discapacidad en busca de su sanción",
      "medio": "Cadena3",
      "fecha": "19/11/2026",
-     "url": "https://www.cadena3.com/noticia/juntos-rosario/madurez-democratica-exsecretario-electoral-nacional-defendio-la-suspension-de-las-paso_614743"
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-senado-debate-la-ley-de-discapacidad-en-busca-de-su-sancion_614788",
+     "tag": "También en Hoy Dia, CBA24N"
+    },
+    {
+     "titulo": "Revés judicial. La Corte dispuso que las prepagas deberán tener autorización del Gobierno para aumentar las cuotas",
+     "medio": "Cadena3",
+     "fecha": "19/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/la-corte-dispuso-que-las-prepagas-deberan-tener-autorizacion-del-gobierno-para-aumentar-las-cuotas_614839",
+     "tag": "También en ElDoce"
+    },
+    {
+     "titulo": "La Comisión de Adicciones y Culto designó a sus autoridades",
+     "medio": "Legislatura de Córdoba",
+     "fecha": "19/11/2026",
+     "url": "https://legislaturacba.gob.ar/la-comision-de-adicciones-y-culto-designo-a-sus-autoridades/"
     }
    ],
    "imagen": []
   },
   "Corrientes": {
    "top3": [
+    {
+     "titulo": "Presentan Certamen Nacional de Fotografía “Iberá, Corazón Correntino”",
+     "medio": "Legislatura de Corrientes",
+     "fecha": "19/11/2026",
+     "url": "https://hcdcorrientes.gov.ar/presentan-certamen-nacional-de-fotografia-ibera-corazon-correntino/"
+    },
+    {
+     "titulo": "Juan Pablo Valdés confirmó créditos, alivio fiscal y obras para Paso de la Patria",
+     "medio": "El Litoral",
+     "fecha": "19/11/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-19-16-26-0-juan-pablo-valdes-confirmo-creditos-alivio-fiscal-y-obras-para-paso-de-la-patria"
+    },
     {
      "titulo": "Desde China, la presidente de México ratificó su apoyo a Cristina Kirchner",
      "medio": "El Litoral",
@@ -212,23 +236,24 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Paritaria estatal: Gobierno y gremios vuelven a negociar tras la suspensión de la audiencia",
+     "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
      "medio": "El Once",
      "fecha": "19/11/2026",
-     "url": "https://www.elonce.com/politica/paritaria-estatal-ate-rechaza-el-4-y-reclama-mejoras.htm",
-     "tag": "También en Ahora, AFP Digital"
+     "url": "https://www.elonce.com/politica/entre-rios-presento-friendly-por-naturaleza-su-propuesta-turistica-para-el-verano-2027.htm",
+     "tag": "También en Infobae, AFP Digital"
     },
     {
-     "titulo": "La reforma electoral obtuvo dictamen: qué cambiaría para los votantes y los partidos",
+     "titulo": "Paritaria estatal: ATE cuestionó la suspensión de la audiencia y reclamó \"recuperar salarios\"",
      "medio": "El Once",
      "fecha": "19/11/2026",
-     "url": "https://www.elonce.com/politica/la-reforma-electoral-obtuvo-dictamen-que-cambiaria-para-los-votantes-y-los-partidos.htm"
+     "url": "https://www.elonce.com/politica/la-paritaria-estatal-paso-a-cuarto-intermedio-ate-cuestiono-reclamo-recuperar-salarios.htm",
+     "tag": "También en AFP Digital"
     },
     {
-     "titulo": "Concejales justicialistas repudian la instigación a la violencia contra la intendenta de Paraná",
+     "titulo": "Gualeguaychú: El Concejo Deliberante aprobó el Presupuesto 2027",
      "medio": "AFP Digital",
      "fecha": "19/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/19/479799-concejales-justicialistas-repudian-la-instigacion-a-la-violencia-contra-la-intendenta-de-parana"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/19/479937-gualeguaychu-el-concejo-deliberante-aprobo-el-presupuesto-2027"
     }
    ],
    "imagen": []
@@ -242,10 +267,10 @@
      "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108822/el-gobierno-logr-dictamen-en-el-senado-y-buscar-aprobar-la-suspensin-de-las-paso-la-prxima-semana/"
     },
     {
-     "titulo": "Neme dijo que “no es momento de candidaturas” y resaltó la “fortaleza” de la relación construida con Basualdo y Paoltroni",
+     "titulo": "Ante la desigual brecha entre jubilados y activos, Voz Docente prepara un proyecto para que “se respete el 82% móvil”",
      "medio": "La Mañana",
      "fecha": "19/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108820/neme-dijo-que-no-es-momento-de-candidaturas-y-resalt-la-fortaleza-de-la-relacin-construida-con-basualdo-y-paoltroni/"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108824/ante-la-desigual-brecha-entre-jubilados-y-activos-voz-docente-prepara-un-proyecto-para-que-se-respete-el-82-mvil/"
     }
    ],
    "imagen": []
@@ -253,23 +278,23 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "PJ jujeño: el 6 de diciembre serán las elecciones internas",
-     "medio": "El Tribuno",
-     "fecha": "19/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-pj-jujeno-el-6-de-diciembre-seran-las-elecciones-internas"
-    },
-    {
-     "titulo": "Política. El Gobierno incorporó $15,6 billones al Presupuesto 2026 y redujo la previsión de superávit Por Redacción de TodoJujuy",
-     "medio": "Todo Jujuy",
-     "fecha": "19/11/2026",
-     "url": "https://www.todojujuy.com/politica/el-gobierno-incorporo-156-billones-al-presupuesto-2026-y-redujo-la-prevision-superavit-n299057"
-    },
-    {
-     "titulo": "El Senado debate hoy las leyes de discapacidad, propiedad privada y el tratado de patentes",
+     "titulo": "Legislatura de Jujuy: rechazaron la conformación de un nuevo bloque y el proyecto de Travesía Urbana volvió a comisión",
      "medio": "Somos Jujuy",
      "fecha": "19/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/el-senado-debate-hoy-leyes-discapacidad-propiedad-privada-tratado-patentes-n127423",
-     "tag": "También en Todo Jujuy"
+     "url": "https://www.somosjujuy.com.ar/politica/legislatura-jujuy-rechazaron-conformacion-nuevo-bloque-proyecto-travesia-urbana-volvio-comision-n127449",
+     "tag": "También en Todo Jujuy, El Tribuno"
+    },
+    {
+     "titulo": "PJ jujeño: habrá elecciones internas el 6 de diciembre y competirán dos listas por la conducción",
+     "medio": "Somos Jujuy",
+     "fecha": "19/11/2026",
+     "url": "https://www.somosjujuy.com.ar/politica/pj-jujeno-habra-elecciones-internas-6-diciembre-competiran-dos-listas-conduccion-n127439"
+    },
+    {
+     "titulo": "Jujuy. La Legislatura de Jujuy aprobó designaciones para cubrir cargos en el Poder Judicial Por Claudio Serra",
+     "medio": "Todo Jujuy",
+     "fecha": "19/11/2026",
+     "url": "https://www.todojujuy.com/jujuy/la-legislatura-jujuy-aprobo-designaciones-cubrir-cargos-el-poder-judicial-n299076"
     }
    ],
    "imagen": []
@@ -277,27 +302,33 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "El Gobierno consiguió dictamen para suspender las PASO y avanzar con la reforma electoral",
-     "medio": "La Pampa 24",
+     "titulo": "Aprobaron el Presupuesto 2027 y Ziliotto afirmó: \"Somos la garantía de continuidad de un modelo de provincia\"",
+     "medio": "El Diario de La Pampa",
      "fecha": "19/11/2026",
-     "url": "https://lapampa24.com.ar/nacionales/el-gobierno-consiguio-dictamen-para-suspender-las-paso-y-avanzar-con-la-reforma-electoral/",
-     "tag": "También en La Arena"
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83365/la-legislatura-aprobo-el-presupuesto-2027-y-ziliotto-afirmo--somos-la-garantia-de-continuidad-de-un-modelo-de-provincia"
     },
     {
-     "titulo": "Bensusan cuestionó la reforma electoral del Gobierno: \"El oscurantismo de LLA es total\"",
-     "medio": "La Arena",
-     "fecha": "19/11/2026",
-     "url": "https://www.laarena.com.ar/audio/bensusan-cuestiono-la-reforma-electoral-del-gobierno-el-oscurantismo-de-lla-es-total-2026111910220"
-    },
-    {
-     "titulo": "UPCN asumió con 234 delegados y reclamó reconstruir la unidad del peronismo",
+     "titulo": "Los gremios estatales aceptaron la oferta del Gobierno de La Pampa en paritarias y continúa la recuperación real del salario",
      "medio": "La Pampa 24",
      "fecha": "19/11/2026",
-     "url": "https://lapampa24.com.ar/la-pampa-hoy/upcn-asumio-con-234-delegados-y-reclamo-reconstruir-la-unidad-del-peronismo/",
-     "tag": "También en La Arena"
+     "url": "https://lapampa24.com.ar/la-pampa-hoy/los-gremios-estatales-aceptaron-la-oferta-del-gobierno-de-la-pampa-en-paritarias-y-continua-la-recuperacion-real-del-salario/"
+    },
+    {
+     "titulo": "EFECTO SAN FERNANDO Di Nápoli busca apoyos en Buenos Aires para ser candidato en La Pampa Por Adrián D'Amore",
+     "medio": "Letra P",
+     "fecha": "19/11/2026",
+     "url": "https://www.letrap.com.ar/politica/luciano-di-napoli-busca-apoyos-buenos-aires-ser-candidato-la-pampa-n5428354"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Una encuesta midió la desaprobación al Gobierno de Milei y cuánto crece el malestar por la economía",
+     "medio": "La Pampa 24",
+     "fecha": "19/11/2026",
+     "url": "https://lapampa24.com.ar/nacionales/una-encuesta-midio-la-desaprobacion-al-gobierno-de-milei-y-cuanto-crece-el-malestar-por-la-economia/",
+     "tag": "También en El Diario de La Pampa"
+    }
+   ]
   },
   "La Rioja": {
    "top3": [
@@ -308,16 +339,16 @@
      "url": "https://nuevarioja.com.ar/politica/el-senado-tratara-este-jueves-la-sancion-definitiva-de-la-ley-de-discapacidad.htm"
     },
     {
+     "titulo": "REFORMA ELECTORAL. QUÉ CAMBIARÍA SI SE APRUEBA EL DICTAMEN QUE SE FIRMÓ EN EL SENADO",
+     "medio": "Rioja Virtual",
+     "fecha": "19/11/2026",
+     "url": "https://riojavirtual.com.ar/reforma-electoral-que-cambiaria-si-se-aprueba-el-dictamen-que-se-firmo-en-el-senado/"
+    },
+    {
      "titulo": "ESTATALES. QUINTELA NO DESCARTÓ UN TERCER AUMENTO ANTES DE FIN DE AÑO",
      "medio": "Rioja Virtual",
      "fecha": "19/11/2026",
      "url": "https://riojavirtual.com.ar/estatales-quintela-no-descarto-un-tercer-aumento-antes-de-fin-de-ano/"
-    },
-    {
-     "titulo": "SE ACTIVAN LOS PEDIDOS DE BONO DE FIN DE AÑO PARA ESTATALES RIOJANOS",
-     "medio": "Rioja Virtual",
-     "fecha": "19/11/2026",
-     "url": "https://riojavirtual.com.ar/se-activan-los-pedidos-de-bono-de-fin-de-ano-para-estatales-riojanos/"
     }
    ],
    "imagen": []
@@ -331,17 +362,16 @@
      "url": "https://www.memo.com.ar/poder/reforma-electoral-que-cambia-en-las-elecciones-y-como-se-votara-en-2027/"
     },
     {
-     "titulo": "Los dos gobernadores que faltaron a la cumbre minera de Mendoza",
-     "medio": "Mendoza Post",
+     "titulo": "Gesto oficial. Santilli les agradeció a los gobernadores el apoyo con las PASO e hizo equilibrio en la interna mendocina",
+     "medio": "La Nación",
      "fecha": "19/11/2026",
-     "url": "https://www.mendozapost.com/politica/dos-gobernadores-que-faltaron-a-la-cumbre-minera-de-mendoza/",
-     "tag": "También en Diario UNO - MDZ"
+     "url": "https://www.lanacion.com.ar/politica/santilli-les-agradecio-a-los-gobernadores-el-apoyo-con-las-paso-e-hizo-equilibrio-en-la-interna-nid19112026/"
     },
     {
-     "titulo": "El Gobierno volvió a retocar el Presupuesto 2026 por decreto",
-     "medio": "Memo",
+     "titulo": "Santilli contó que cerró un acuerdo con Cornejo para 2027, pero solo para el Congreso",
+     "medio": "Diario UNO - MDZ",
      "fecha": "19/11/2026",
-     "url": "https://www.memo.com.ar/poder/el-gobierno-amplio-por-dnu-el-presupuesto-2026-y-sumo-fondos-para-jubilaciones-discapacidad-y-deuda/"
+     "url": "https://www.diariouno.com.ar/politica/santilli-conto-que-cerro-un-acuerdo-cornejo-2027-pero-solo-el-congreso-n1618167"
     }
    ],
    "imagen": []
@@ -352,7 +382,14 @@
      "titulo": "El Concejo Deliberante de Posadas aprobó la reforma electoral que elimina la ley de lemas",
      "medio": "El Territorio",
      "fecha": "19/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/19/928104-el-concejo-deliberante-de-posadas-aprobo-la-reforma-electoral-que-elimina-la-ley-de-lemas"
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/19/928104-el-concejo-deliberante-de-posadas-aprobo-la-reforma-electoral-que-elimina-la-ley-de-lemas",
+     "tag": "También en Letra P, La Voz - Misiones"
+    },
+    {
+     "titulo": "Reforma. Posadas eliminó la Ley de Lemas y el resultado podría condicionar la negociación de Santilli con un gobernador",
+     "medio": "La Nación",
+     "fecha": "19/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/posadas-elimino-la-ley-de-lemas-y-el-resultado-podria-condicionar-la-negociacion-de-santilli-con-un-nid19112026/"
     },
     {
      "titulo": "Posadas debate este jueves una reforma al sistema electoral municipal",
@@ -361,14 +398,7 @@
      "url": "https://www.elterritorio.com.ar/noticias/2026/11/19/928086-posadas-debate-este-jueves-una-reforma-al-sistema-electoral-municipal"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "“Lo que resiste en la imagen”, memoria e historia de Misiones",
-     "medio": "Primera Edición",
-     "fecha": "19/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101161696/lo-que-resiste-en-la-imagen-memoria-e-historia-de-misiones/"
-    }
-   ]
+   "imagen": []
   },
   "Neuquén": {
    "top3": [
@@ -386,35 +416,44 @@
      "tag": "También en Neuquén al Instante"
     },
     {
-     "titulo": "Presupuesto 2026: el Gobierno nacional amplió gastos en $15,6 billones, autorizó más deuda y recortó el superávit",
-     "medio": "Neuquén al Instante",
+     "titulo": "Ley de Preservación de Tierras Productivas La provincia protege sus tierras productivas para garantizar alimentos y recursos",
+     "medio": "Prensa oficial de Neuquén",
      "fecha": "19/11/2026",
-     "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/19/148323-presupuesto-2026-el-gobierno-nacional-amplio-gastos-en-15_6-billones-autorizo-mas-deuda-y-recorto-el-superavit"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/19/267543-la-provincia-protege-sus-tierras-productivas-para-garantizar-alimentos-y-recursos",
+     "tag": "También en Neuquén al Instante"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "La FIFA confirmó los tres candidatos a presidente para las elecciones de 2027",
+     "medio": "Noticias NQN",
+     "fecha": "19/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/19/361494-la-fifa-confirmo-los-tres-candidatos-a-presidente-para-las-elecciones-de-2027"
+    }
+   ]
   },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Suspensión de las PASO: qué dice el proyecto sobre los cambios en la Boleta Única de Papel para las elecciones 2027",
-     "medio": "Diario Rio Negro",
-     "fecha": "19/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/suspension-de-las-paso-que-dice-el-proyecto-sobre-los-cambios-en-la-boleta-unica-de-papel-para-las-elecciones-2027-4804408/"
-    },
-    {
-     "titulo": "El Senado trata hoy la sanción definitiva de la Ley de Discapacidad y otros proyectos clave",
+     "titulo": "Milei y Caputo sumaron $15,6 billones al Presupuesto 2026 y recortaron el superávit de fin de año",
      "medio": "AN Roca",
      "fecha": "19/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/19/233271-el-senado-trata-hoy-la-sancion-definitiva-de-la-ley-de-discapacidad-y-otros-proyectos-clave",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/19/233376-milei-y-caputo-sumaron-15_6-billones-al-presupuesto-2026-y-recortaron-el-superavit-de-fin-de-ano",
      "tag": "También en LCR, Noticias Net"
     },
     {
-     "titulo": "Milei negó una interna con Bullrich: “Cómo la vamos a echar, es mi socia política”",
-     "medio": "AN Roca",
+     "titulo": "Weretilneck desplegó más de 600 obras que transforman el mapa provincial",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "19/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/19/233265-milei-nego-una-interna-con-bullrich-como-la-vamos-a-echar-es-mi-socia-politica",
-     "tag": "También en Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/62990/weretilneck-desplego-mas-de-600-obras-que-transforman-el-mapa-provincial",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Audiencia por Argentina LNG: Recaudación Tributaria presentó los indicadores económicos del VMOS",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "19/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/62993/audiencia-por-argentina-lng-recaudacion-tributaria-presento-los-indicadores-economicos-del-vmos",
+     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": []
@@ -422,26 +461,32 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "El Gobierno logró avanzar con la suspensión de las PASO y prepara el debate en el Senado",
-     "medio": "Que Pasa Salta",
+     "titulo": "El Presupuesto 2027 de Salta llegará a la Legislatura en los primeros días de diciembre",
+     "medio": "Informate Salta",
      "fecha": "19/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/gobierno-consiguio-dictamen-suspender-paso/",
-     "tag": "También en Nuevo Diario de Salta"
+     "url": "https://informatesalta.com.ar/sociedad/el-presupuesto-2027-de-salta-llegara-a-la-legislatura-en-los-primeros-dias-de-diciembre_a6afeeaf6cd25aee288346b69"
     },
     {
-     "titulo": "Culpa a Bullrich | Hasta la libertaria salteña más talibán cree que la reelección de Milei está en riesgo",
-     "medio": "Cuarto",
+     "titulo": "DISCUSIÓN 2027 Salta: Urtubey se anota para volver a la gobernación de la mano del peronismo Por Lucio Di Giuseppe",
+     "medio": "Letra P",
      "fecha": "19/11/2026",
-     "url": "https://www.cuarto.com.ar/a-bullrich-hasta-la-libertaria-saltena-mas-taliban-cree-que-la-reeleccion-de-milei-esta-en-riesgo/"
+     "url": "https://www.letrap.com.ar/politica/salta-juan-manuel-urtubey-se-anota-volver-la-gobernacion-la-mano-del-peronismo-n5428342"
     },
     {
-     "titulo": "Este jueves | El Senado sesiona para aprobar discapacidad, patentes y la ley de Tierras",
+     "titulo": "Para que menos gente vote | Ex gobernador salteño acusó a Milei de querer privatizar el proceso electoral",
      "medio": "Cuarto",
      "fecha": "19/11/2026",
-     "url": "https://www.cuarto.com.ar/este-jueves-el-senado-sesiona-para-aprobar-discapacidad-patentes-y-la-ley-de-tierras/"
+     "url": "https://www.cuarto.com.ar/para-que-menos-gente-vote-ex-gobernador-salteno-acuso-a-milei-de-querer-privatizar-el-proceso-electoral/"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "“Yo voy a ser candidato”: Madile se lanzó para 2027 y respaldó a Sáenz y Durand",
+     "medio": "Informate Salta",
+     "fecha": "19/11/2026",
+     "url": "https://informatesalta.com.ar/lup-94-7-salta/-yo-voy-a-ser-candidato---madile-se-lanzo-para-2027-y-respaldo-a-saenz-y-durand_a6aff2567cd25aee2883c500e"
+    }
+   ]
   },
   "San Juan": {
    "top3": [
@@ -449,19 +494,22 @@
      "titulo": "El Senado sesiona este jueves: busca convertir en ley el proyecto de Discapacidad y tratar otros temas clave",
      "medio": "Diario de Cuyo",
      "fecha": "19/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/el-senado-sesiona-este-jueves-busca-convertir-ley-el-proyecto-discapacidad-y-tratar-otros-temas-clave-n6589018"
+     "url": "https://www.diariodecuyo.com.ar/politica/el-senado-sesiona-este-jueves-busca-convertir-ley-el-proyecto-discapacidad-y-tratar-otros-temas-clave-n6589018",
+     "tag": "También en 0264 Noticias"
     },
     {
-     "titulo": "El Gobierno amplió el Presupuesto 2026 en $15,6 billones y redujo el superávit previsto para fin de año",
-     "medio": "Diario de Cuyo",
-     "fecha": "19/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/el-gobierno-amplio-el-presupuesto-2026-156-billones-y-redujo-el-superavit-previsto-fin-ano-n6589017"
-    },
-    {
-     "titulo": "Patricia Bullrich volvió a marcarles la cancha a Milei y Caputo con una serie de solicitudes económicas",
+     "titulo": "Nació la sexta facultad de la UNSJ: aprobaron Ciencias de la Salud",
      "medio": "Tiempo de San Juan",
      "fecha": "19/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/patricia-bullrich-volvio-a-marcarles-la-cancha-a-milei-y-caputo-con-una-serie-de-solicitudes-economicas_1795096907"
+     "url": "https://www.tiempodesanjuan.com/politica/nacio-la-sexta-facultad-de-la-unsj-aprobaron-ciencias-de-la-salud_1795099914",
+     "tag": "También en 0264 Noticias, San Juan 8"
+    },
+    {
+     "titulo": "Luego de la molestia de Desamparados por la designación de Rekers para la final de ida, el Consejo Federal designó a un árbitro pampeano",
+     "medio": "0264 Noticias",
+     "fecha": "19/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/19/117879-luego-de-la-molestia-de-desamparados-por-la-designacion-de-rekers-para-la-final-de-ida-el-consejo-federal-designo-a-un-arbitro-pampeano",
+     "tag": "También en San Juan 8"
     }
    ],
    "imagen": []
@@ -469,22 +517,23 @@
   "San Luis": {
    "top3": [
     {
+     "titulo": "Municipalidad de San Luis: aprobaron el Presupuesto 2027, que contempla un gasto de $113.600 millones y un aumento salarial de hasta el 35%",
+     "medio": "La Gaceta Digital",
+     "fecha": "19/11/2026",
+     "url": "https://lagacetadigital.com.ar/2026/11/19/municipalidad-de-san-luis-aprobaron-el-presupuesto-2027-que-contempla-un-gasto-de-113-600-millones-y-un-aumento-salarial-de-hasta-el-35/"
+    },
+    {
      "titulo": "Tras una gestión del gobernador Poggi, Aerolíneas Argentinas restituye el vuelo de los viernes",
      "medio": "Prensa oficial de San Luis",
      "fecha": "19/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/19/1233024-tras-una-gestion-del-gobernador-poggi-aerolineas-argentinas-restituye-el-vuelo-de-los-viernes/"
+     "url": "https://agenciasanluis.com/2026/11/19/1233024-tras-una-gestion-del-gobernador-poggi-aerolineas-argentinas-restituye-el-vuelo-de-los-viernes/",
+     "tag": "También en La Gaceta Digital"
     },
     {
-     "titulo": "Reforma electoral: Salino criticó las marchas, contramarchas y desprolijidades",
-     "medio": "El Diario de la República",
-     "fecha": "19/11/2026",
-     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-19-8-25-0-reforma-electoral-salino-critico-las-marchas-contramarchas-y-desprolijidades"
-    },
-    {
-     "titulo": "El Plan TuBi llegó a la Escuela Montessori para promover la autonomía y la inclusión",
+     "titulo": "La Escuela N°69 estrenó refacciones edilicias en presencia del Gobernador",
      "medio": "Prensa oficial de San Luis",
      "fecha": "19/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/19/1233233-el-plan-tubi-llego-a-la-escuela-montessori-para-promover-la-autonomia-y-la-inclusion/"
+     "url": "https://agenciasanluis.com/2026/11/19/1233295-la-escuela-n69-estreno-refacciones-edilicias-en-presencia-del-gobernador/"
     }
    ],
    "imagen": []
@@ -492,22 +541,22 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Casa Rosada Milei dijo que fue para el kirchnerismo su mensaje contra los que quieren “hundir el barco\"",
-     "medio": "Tiempo Sur",
-     "fecha": "19/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/milei-dijo-que-fue-para-el-kirchnerismo-su-mensaje-contra-los-que-quieren-hundir-el-barco"
-    },
-    {
-     "titulo": "La alternativa de la oposición a la deuda en dólares que propone el gobierno de Santa Cruz",
+     "titulo": "Endeudamiento por USD 600 millones, el código electoral y un posible veto del Ejecutivo de Santa Cruz",
      "medio": "El Diario Nuevo Día",
      "fecha": "19/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/la-alternativa-de-la-oposicion-a-la-deuda-en-dolares-que-propone-el-gobierno-de-santa-cruz/"
+     "url": "https://www.eldiarionuevodia.com.ar/locales/la-deuda-por-usd-600-millones-el-codigo-electoral-y-un-posible-veto-del-ejecutivo-de-santa-cruz/"
     },
     {
-     "titulo": "Las Heras Santa Cruz se preparan para representar a la provincia en Jesús María 2027",
+     "titulo": "Por qué las provincias patagónicas desdoblan las elecciones: “Es más sano separar las discusiones”, indicó Tullio",
+     "medio": "La Opinión Austral",
+     "fecha": "19/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/por-que-las-provincias-patagonicas-desdoblan-las-elecciones-es-mas-sano-separar-las-discusiones-indico-tullio-734007.html"
+    },
+    {
+     "titulo": "Congreso El Senado debate la Ley de Discapacidad en busca de su sanción",
      "medio": "Tiempo Sur",
      "fecha": "19/11/2026",
-     "url": "https://www.tiemposur.com.ar/info-general/santa-cruz-se-preparan-para-representar-a-la-provincia-en-jesus-maria-2027"
+     "url": "https://www.tiemposur.com.ar/politica/el-senado-debate-la-ley-de-discapacidad-en-busca-de-su-sancion"
     }
    ],
    "imagen": []
@@ -515,28 +564,35 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Carbone y su candidatura a juez federal: de los ataques a Messi y Di María a la semana trágica",
+     "titulo": "Las causas por las que Provincias Unidas no le dio quorum al oficialismo en Diputados",
      "medio": "La Capital",
      "fecha": "19/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/franco-carbone-defendio-su-candidatura-juez-federal-los-ataques-messi-la-semana-tragica-n10293039.html"
+     "url": "https://www.lacapital.com.ar/politica/las-causas-las-que-provincias-unidas-no-le-dio-quorum-al-oficialismo-diputados-n10293101.html"
     },
     {
-     "titulo": "La Fifa tendrá elecciones y no estará Chiqui Tapia entre los candidatos",
-     "medio": "La Capital",
-     "fecha": "19/11/2026",
-     "url": "https://www.lacapital.com.ar/ovacion/la-fifa-tendra-elecciones-y-no-estara-chiqui-tapia-los-candidatos-n10293043.html"
-    },
-    {
-     "titulo": "Con cambios, el Concejo de Santa Fe se prepara para aprobar el nuevo SEOM y semáforos inteligentes",
+     "titulo": "Este jueves La Legislatura destituyó a la fiscal del MPA Shirli Tomasso, investigada por supuestas demoras en más de 30 causas Martín Fernández Silva",
      "medio": "Aire",
      "fecha": "19/11/2026",
-     "url": "https://www.airedesantafe.com.ar/santa-fe/con-cambios-el-concejo-santa-fe-se-prepara-aprobar-el-nuevo-seom-y-semaforos-inteligentes-n617223"
+     "url": "https://www.airedesantafe.com.ar/politica/la-legislatura-destituyo-la-fiscal-del-mpa-shirli-tomasso-investigada-supuestas-demoras-mas-30-causas-n677386"
+    },
+    {
+     "titulo": "Santa Fe impulsa una Ley de Derechos del Consumidor a partir de un trabajo de articulación institucional",
+     "medio": "Aire",
+     "fecha": "19/11/2026",
+     "url": "https://www.airedesantafe.com.ar/politica/santa-fe-impulsa-una-ley-derechos-del-consumidor-partir-un-trabajo-articulacion-institucional-n677405"
     }
    ],
    "imagen": []
   },
   "Santiago del Estero": {
    "top3": [
+    {
+     "titulo": "El jefe de Gabinete recibió a los a los últimos contingentes de estudiantes del programa “Conociendo mi Provincia” 2026",
+     "medio": "Prensa oficial de Santiago del Estero",
+     "fecha": "19/11/2026",
+     "url": "https://sde.gob.ar/2026/11/19/el-jefe-de-gabinete-recibio-a-los-a-los-ultimos-contingentes-de-estudiantes-del-programa-conociendo-mi-provincia-2026/",
+     "tag": "También en Diario Panorama, Nuevo Diario Web"
+    },
     {
      "titulo": "El Gobernador Suárez encabezó  la apertura del concurso de cargos directivos de los niveles Inicial, Primario y Secundario",
      "medio": "Prensa oficial de Santiago del Estero",
@@ -545,23 +601,29 @@
      "tag": "También en Nuevo Diario Web"
     },
     {
-     "titulo": "Presupuesto 2027: el Gobierno pone tope al empleo público y frena la cobertura de vacantes",
-     "medio": "El Liberal",
-     "fecha": "19/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98491/2026/11/presupuesto-2027--el-gobierno-pone-tope-al-empleo-publico-y-frena-la-cobertura-de-vacantes"
-    },
-    {
-     "titulo": "Buscan a un empresario de Quimilí acusado de estafas millonarias con cheques sin fondos",
+     "titulo": "En vivo: el Senado afronta una jornada clave para aprobar la Ley de Discapacidad y otras iniciativas",
      "medio": "Diario Panorama",
      "fecha": "19/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/573465/buscan-empresario-quimili-acusado-estafas-millonarias-cheques-sin-fondos",
-     "tag": "También en El Liberal, Info del Estero"
+     "url": "https://www.diariopanorama.com/noticia/573489/vivo-senado-afronta-jornada-clave-para-aprobar-ley-discapacidad-otras-iniciativas"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Espectáculos Paris Hilton volvió al Capitolio con un pedido urgente: una ley contra las imágenes íntimas falsas Hace 2 horas",
+     "medio": "Info del Estero",
+     "fecha": "19/11/2026",
+     "url": "https://infodelestero.com/2026/11/19/paris-hilton-volvio-al-capitolio-con-un-pedido-urgente-una-ley-contra-las-imagenes-intimas"
+    }
+   ]
   },
   "Tierra del Fuego": {
    "top3": [
+    {
+     "titulo": "Conflicto. El puerto de Ushuaia seguirá intervenido por la Nación por tiempo indeterminado y se tensa la relación con la provincia",
+     "medio": "La Nación",
+     "fecha": "19/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/el-puerto-de-ushuaia-seguira-intervenido-por-la-nacion-por-tiempo-indeterminado-y-se-tensa-la-nid19112026/"
+    },
     {
      "titulo": "Se cayó la sesión en Diputados para tratar la Ley Malvinas",
      "medio": "El Diario del Fin del Mundo",
@@ -580,23 +642,24 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "“Las PASO se suspenden, ya es un hecho”: Bullrich confirmó que el proyecto deja afuera las colectoras",
-     "medio": "Los Primeros",
+     "titulo": "El Gobierno de Tucumán defendió el proyecto de Presupuesto 2027 ante la oposición en la Legislatura",
+     "medio": "El Tucumano",
      "fecha": "19/11/2026",
-     "url": "https://www.losprimeros.tv/politica/-las-paso-se-suspenden--ya-es-un-hecho---bullrich-confirmo-que-el-proyecto-deja-afuera-las-colectoras_a6afed46dcd25aee288321b80",
-     "tag": "También en Contexto"
+     "url": "https://www.eltucumano.com/noticia/actualidad/328048/el-gobierno-de-tucuman-defendio-el-proyecto-de-presupuesto-2027-ante-la-oposicion-en-la-legislatura?dnd=slider&src=tit&pos=2&dis=desk"
     },
     {
-     "titulo": "El oficialismo quedó a tres diputados del quórum y crecen las tensiones internas por la Ley Malvinas",
-     "medio": "Los Primeros",
+     "titulo": "Malvinas: Tucumán entregó a la Cancillería el documento de 1833 que respalda el reclamo argentino de soberanía",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "19/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-oficialismo-quedo-a-tres-diputados-del-quorum-y-crecen-las-tensiones-internas-por-la-ley-malvinas_a6afed4b9cd25aee2883222a0"
+     "url": "https://www.lagaceta.com.ar/nota/1163276/politica/malvinas-tucuman-entrego-cancilleria-documento-1833-respalda-reclamo-argentino-soberania.html",
+     "tag": "También en Contexto, El Tucumano y 2 más"
     },
     {
-     "titulo": "Tras el fracaso de la sesión en Diputados, el Gobierno enfrenta tensiones internas y evalúa retomar la ley Malvinas la próxima semana",
-     "medio": "Tucumán Despierta",
+     "titulo": "Presupuesto 2027: Abad presentó en la Legislatura las prioridades de gasto de Tucumán",
+     "medio": "Los Primeros",
      "fecha": "19/11/2026",
-     "url": "https://tucumandespierta.com/tras-el-fracaso-de-la-sesion-en-diputados-el-gobierno-enfrenta-tensiones-internas-y-evalua-retomar-la-ley-malvinas-la-proxima-semana/"
+     "url": "https://www.losprimeros.tv/actualidad/presupuesto-2027--abad-presento-en-la-legislatura-las-prioridades-de-gasto-de-tucuman-_a6aff2032cd25aee2883bc42d",
+     "tag": "También en Tucumán Despierta"
     }
    ],
    "imagen": []
