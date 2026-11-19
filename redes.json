@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 02:51",
+ "actualizado": "19/11 03:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -51,26 +51,14 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#SolPersonajeDelAÃ±o",
    "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olivia",
-   "url": "https://x.com/search?q=olivia",
+   "tema": "Olivia",
+   "url": "https://x.com/search?q=Olivia",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MurioFlorPeÃ±a",
-   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -111,14 +99,26 @@
    "temas": []
   },
   {
+   "tema": "Haymitch",
+   "url": "https://x.com/search?q=Haymitch",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Pichetto",
    "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA 5",
-   "url": "https://x.com/search?q=GTA%205",
+   "tema": "#MurioFlorPeÃ±a",
+   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   }
@@ -127,9 +127,18 @@
   {
    "tema": "trucos gta 6",
    "busquedas": "100+",
-   "nota": "Un truco para ganar 1.000 dólares fácilmente en GTA 6",
-   "nota_url": "https://www.tycsports.com/gaming/el-truco-para-ganar-1000-dolares-facilmente-en-gta-6-id771995.html",
-   "medio": "TyC Sports",
+   "nota": "GTA 6 has 61 cheats, but you'll have to beat the story before using any of them",
+   "nota_url": "https://www.tweaktown.com/news/114769/gta-6-has-61-cheats-but-youll-have-to-beat-the-story-before-using-any-of-them/index.html",
+   "medio": "TweakTown",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "puerto",
+   "busquedas": "200+",
+   "nota": "Forja: “Exigimos respeto a la autonomía de Tierra del Fuego”",
+   "nota_url": "https://www.notitdf.com/forja-exigimos-respeto-a-la-autonomia-de-tierra-del-fuego/",
+   "medio": "Notitdf",
    "relevante": false,
    "temas": []
   },
@@ -145,9 +154,9 @@
   {
    "tema": "gta san andreas",
    "busquedas": "100+",
-   "nota": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev",
-   "nota_url": "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
-   "medio": "Eurogamer.net",
+   "nota": "GTA 6 easter eggs so far: fan finds from the trailers and what Rockstar has confirmed",
+   "nota_url": "https://egamers.io/gta-6-easter-eggs-so-far-fan-finds-from-the-trailers-and-what-rockstar-has-confirmed/",
+   "medio": "eGamers.io",
    "relevante": false,
    "temas": []
   },
@@ -163,18 +172,18 @@
   {
    "tema": "cavaliers - grizzlies",
    "busquedas": "100+",
-   "nota": "GRIZZLIES POSTCAST: Memphis Stays Perfect On The Road 8-0",
-   "nota_url": "https://www.wkyc.com/video/sports/locked-on/lo-tennessee/grizzlies-postcast/grizzlies-postcast-memphis-stays-perfect-on-the-road-8-0/535-bd553255-64b6-4321-94cb-16a13b11424e",
-   "medio": "WKYC",
+   "nota": "Memphis Grizzlies at Cleveland Cavaliers - NBA Game Summary - Nov 18, 2026",
+   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018359/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=7",
+   "medio": "USA Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - celtics",
    "busquedas": "500+",
-   "nota": "Celtics star Jayson Tatum called for technical after throwing ball toward official late in loss to Nuggets",
-   "nota_url": "https://uk.sports.yahoo.com/news/celtics-star-jayson-tatum-called-for-technical-after-throwing-ball-toward-official-late-in-loss-to-nuggets-053023894.html",
-   "medio": "Yahoo",
+   "nota": "Jamal Murray's jumper and Jayson Tatum's late tech seal Denver's comeback win",
+   "nota_url": "https://www.espn.com.sg/video/clip/_/id/50528416/jamal-murray-jumper-jayson-tatum-late-tech-seal-denver-comeback-win",
+   "medio": "ESPN Singapore",
    "relevante": false,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "Grêmio vs. Bahia por el Brasileirao Serie A, 2026: día, hora y cómo seguir online",
    "nota_url": "https://www.lanacion.com.ar/deportes/futbol/gremio-vs-bahia-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid17112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "los juegos del hambre",
-   "busquedas": "500+",
-   "nota": "Watch Jennifer Lawrence Gets Her Flowers at the New York Premiere of The Hunger Games | Last Looks",
-   "nota_url": "https://www.vogue.com/video/watch/last-looks-jennifer-lawrence",
-   "medio": "Vogue",
    "relevante": false,
    "temas": []
   }
