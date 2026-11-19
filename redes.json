@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 05:15",
+ "actualizado": "19/11 06:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,14 +27,20 @@
    "temas": []
   },
   {
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Nico Paz",
    "url": "https://x.com/search?q=Nico%20Paz",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +51,8 @@
    "temas": []
   },
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
+   "tema": "#somosasi",
+   "url": "https://x.com/search?q=%23somosasi",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "GOTY",
    "url": "https://x.com/search?q=GOTY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
@@ -99,20 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Taylor",
-   "url": "https://x.com/search?q=Taylor",
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#MurioFlorPeÃ±a",
    "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
    "relevante": false,
    "temas": []
   },
@@ -125,20 +125,65 @@
  ],
  "google": [
   {
+   "tema": "lotería de santa fe",
+   "busquedas": "100+",
+   "nota": "Quiniela de Santa Fe: resultado del sorteo de la Matutina de hoy, miércoles 18 de noviembre",
+   "nota_url": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-matutina-hoy-miercoles-18-noviembre_0_C4LMhncyEB.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "quiniela",
+   "busquedas": "500+",
+   "nota": "Resultados de la Quiniela Nacional ronda Primera de hoy, 18 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/loterias/quiniela-nacional/resultados-de-la-quiniela-nacional-ronda-primera-de-hoy-18-de-noviembre-nid18112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo en cordoba",
+   "busquedas": "1000+",
+   "nota": "Lluvias en Córdoba: los acumulados superaron los 90 milímetros en distintos puntos de la provincia",
+   "nota_url": "https://www.cba.gov.ar/lluvias-en-cordoba-los-acumulados-superaron-los-90-milimetros-en-distintos-puntos-de-la-provincia/",
+   "medio": "· Gobierno de Córdoba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "quini 6: controlar",
+   "busquedas": "1000+",
+   "nota": "Un apostador acertó los seis números del Quini 6 y se llevó más de $3.200 millones. ¡El domingo se pondrán en juego nuevos millones!",
+   "nota_url": "https://www.reconquistahoy.com/93640-un-apostador-acerto-los-seis-numeros-del-quini-6-y-se-llevo-mas-de-3200-millones-el-domingo-se-pondran-en-juego-nuevos-millones",
+   "medio": "ReconquistaHOY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "desinflación",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "trucos gta 6",
    "busquedas": "200+",
-   "nota": "Guía definitiva sobre GTA VI: trucos, códigos, misiones, el mapa completo y todo lo que necesitas saber para jugar",
-   "nota_url": "https://tn.com.ar/tecno/juegos/2026/11/18/guia-definitiva-sobre-gta-vi-trucos-codigos-misiones-el-mapa-completo-y-todo-lo-que-necesitas-saber-para-jugar/",
-   "medio": "TN",
+   "nota": "Robos en GTA 6: cómo hacerlos y cuándo se desbloquea cada uno",
+   "nota_url": "https://culturageek.com.ar/robos-gta-6/",
+   "medio": "Cultura Geek",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "puerto",
-   "busquedas": "200+",
-   "nota": "Forja: “Exigimos respeto a la autonomía de Tierra del Fuego”",
-   "nota_url": "https://www.notitdf.com/forja-exigimos-respeto-a-la-autonomia-de-tierra-del-fuego/",
-   "medio": "Notitdf",
+   "busquedas": "500+",
+   "nota": "“Los trabajadores no tienen más tiempo”",
+   "nota_url": "https://www.airelibre.com.ar/los-trabajadores-no-tienen-mas-tiempo/",
+   "medio": "Aire Libre FM 96.3",
    "relevante": false,
    "temas": []
   },
@@ -146,72 +191,27 @@
    "tema": "thunder - hawks",
    "busquedas": "100+",
    "nota": "Thunder’s Jared McCain sends love to ‘great people’ Lu Dort, Aaron Wiggins after beating Hawks",
-   "nota_url": "https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-jared-mccain-sends-love-great-people-lu-dort-aaron-wiggins-beating-hawks",
-   "medio": "ClutchPoints",
+   "nota_url": "https://sports.yahoo.com/articles/thunder-jared-mccain-sends-love-045942809.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gta san andreas",
    "busquedas": "100+",
-   "nota": "GTA 6 easter eggs so far: fan finds from the trailers and what Rockstar has confirmed",
-   "nota_url": "https://egamers.io/gta-6-easter-eggs-so-far-fan-finds-from-the-trailers-and-what-rockstar-has-confirmed/",
-   "medio": "eGamers.io",
+   "nota": "Turns out, Rockstar teased GTA 6 back in 2021 with GTA San Andreas re-release",
+   "nota_url": "https://www.notebookcheck.net/Turns-out-Rockstar-teased-GTA-6-back-in-2021-with-GTA-San-Andreas-re-release.1453634.0.html",
+   "medio": "Notebookcheck",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lakers - jazz",
    "busquedas": "1000+",
-   "nota": "Jazz vs. Lakers Injury Report Delivers Big Jaxson Hayes Update",
-   "nota_url": "https://www.si.com/nba/jazz/onsi/jazz-vs-lakers-injury-report-delivers-big-jaxson-hayes-update",
-   "medio": "Sports Illustrated",
+   "nota": "Lakers player grades: L.A.'s winning streak ends in shocking fashion",
+   "nota_url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/11/18/lakers-player-grades-l-a-s-winning-streak-ends-in-shocking-fashion/92856300007/",
+   "medio": "Lakers Wire",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cavaliers - grizzlies",
-   "busquedas": "100+",
-   "nota": "Memphis Grizzlies at Cleveland Cavaliers - NBA Game Summary - Nov 18, 2026",
-   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018359/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=7",
-   "medio": "USA Today",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - celtics",
-   "busquedas": "500+",
-   "nota": "LNN: Denver Nuggets earn best win of season in comeback victory over Boston Celtics",
-   "nota_url": "https://milehighsports.com/lnn-denver-nuggets-earn-best-win-of-season-in-comeback-victory-over-boston-celtics/",
-   "medio": "Mile High Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olé",
-   "busquedas": "200+",
-   "nota": "Los rayos X de los playoffs: la \"maldición\" de ser el mejor y los antecedentes que favorecen llegar de punto",
-   "nota_url": "https://www.fmalpina.com.ar/articulo/los-rayos-x-de-los-playoffs-la-maldicion-de-ser-el-mejor-y-los-antecedentes-que-favorecen-llegar-de-punto.php",
-   "medio": "FM Alpina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brian fernández",
-   "busquedas": "100+",
-   "nota": "Brian Fernández reveló que jugará en Gimnasia de Chivilcoy",
-   "nota_url": "https://www.soloascenso.com.ar/notas/gimnasia-chivilcoy/brian-fernandez-revelo-que-jugara-en-gimnasia-de-chivilcoy/234544",
-   "medio": "Solo Ascenso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "congreso",
-   "busquedas": "100+",
-   "nota": "El Senado sesiona mañana para sancionar las leyes de discapacidad, propiedad privada y el Tratado sobre Patentes",
-   "nota_url": "https://www.infobae.com/politica/2026/11/18/el-senado-sesiona-manana-para-sancionar-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-sobre-patentes/",
-   "medio": "Infobae",
-   "relevante": true,
    "temas": []
   }
  ],
