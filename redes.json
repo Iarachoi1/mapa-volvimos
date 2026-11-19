@@ -1,28 +1,10 @@
 {
- "actualizado": "19/11 00:45",
+ "actualizado": "19/11 01:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SKZEnArgentina",
-   "url": "https://x.com/search?q=%23SKZEnArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
@@ -33,62 +15,20 @@
    "temas": []
   },
   {
-   "tema": "#SKZRUNITenArgentina",
-   "url": "https://x.com/search?q=%23SKZRUNITenArgentina",
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lizy",
-   "url": "https://x.com/search?q=Lizy",
-   "relevante": false,
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MamarrachoInstitucional",
-   "url": "https://x.com/search?q=%23MamarrachoInstitucional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#CMAawards",
-   "url": "https://x.com/search?q=%23CMAawards",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RocÃ­o",
-   "url": "https://x.com/search?q=Roc%C3%83%C2%ADo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Illojuan",
-   "url": "https://x.com/search?q=Illojuan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DAIA",
-   "url": "https://x.com/search?q=DAIA",
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
    "relevante": false,
    "temas": []
   },
@@ -99,26 +39,86 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "Axel",
+   "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Flamengo",
-   "url": "https://x.com/search?q=Flamengo",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rodrigo de la Serna",
-   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
+   "tema": "Taylor",
+   "url": "https://x.com/search?q=Taylor",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Cipaya",
-   "url": "https://x.com/search?q=Cipaya",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olivia",
+   "url": "https://x.com/search?q=olivia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lizy",
+   "url": "https://x.com/search?q=Lizy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Toty",
+   "url": "https://x.com/search?q=Toty",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MurioFlorPeÃ±a",
+   "url": "https://x.com/search?q=%23MurioFlorPe%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Luis Fonsi",
+   "url": "https://x.com/search?q=Luis%20Fonsi",
    "relevante": false,
    "temas": []
   }
@@ -127,9 +127,9 @@
   {
    "tema": "thunder - hawks",
    "busquedas": "100+",
-   "nota": "“It’ll be fun. It’ll be good to see them. For me, I …",
-   "nota_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/18/itll-be-fun-itll-be-good-to-see-them-for-me-i/92845385007/",
-   "medio": "HoopsHype",
+   "nota": "Licensable picture: NBA: Atlanta Hawks at Oklahoma City Thunder",
+   "nota_url": "https://www.reutersconnect.com/item/nba-atlanta-hawks-at-oklahoma-city-thunder/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzNjk1MzM",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
@@ -145,27 +145,36 @@
   {
    "tema": "lakers - jazz",
    "busquedas": "500+",
-   "nota": "Kalshi code “SYRACUSE” $55 bonus enhanced for NBA basketball tonight",
-   "nota_url": "https://www.syracuse.com/betting/2026/11/kalshi-code-syracuse-55-bonus-enhanced-for-nba-basketball-tonight.html",
-   "medio": "Syracuse.com",
+   "nota": "Is Luka Doncic Playing Tonight? (Injury Update, Betting Impact for Jazz vs. Lakers)",
+   "nota_url": "https://www.si.com/betting/luka-doncic-injury-update-betting-impact-for-jazz-vs-lakers-nov-18",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "cavaliers - grizzlies",
    "busquedas": "100+",
-   "nota": "Grizzlies Cavaliers Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/grizzlies-cavaliers-basketball/image_7468f5a4-122e-5494-b5fc-a2dbfd072126.html",
-   "medio": "Corsicana Daily Sun",
+   "nota": "GRIZZLIES POSTCAST: Memphis Stays Perfect On The Road 8-0",
+   "nota_url": "https://www.wkyc.com/video/sports/locked-on/lo-tennessee/grizzlies-postcast/grizzlies-postcast-memphis-stays-perfect-on-the-road-8-0/535-bd553255-64b6-4321-94cb-16a13b11424e",
+   "medio": "WKYC",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - celtics",
    "busquedas": "500+",
-   "nota": "Celtics Face Difficult Defensive Examination Against Nikola Jokic After First Home Loss",
-   "nota_url": "https://sports.yahoo.com/articles/celtics-face-difficult-defensive-examination-115310092.html",
-   "medio": "Yahoo Sports",
+   "nota": "Celtics defense gets major test in Nikola Jokic and Jamal Murray",
+   "nota_url": "https://hardwoodhoudini.com/celtics-defense-gets-major-test-nikola-jokic-jamal-murray",
+   "medio": "Hardwood Houdini",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olé",
+   "busquedas": "200+",
+   "nota": "En medio de una crisis económica, Argentinos Juniors podría rematar dos figuras a Boca y River",
+   "nota_url": "https://bolavip.com/ar/futbolargentino/en-medio-de-una-crisis-economica-argentinos-juniors-podria-rematar-dos-figuras-a-boca-y-river",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
@@ -181,9 +190,9 @@
   {
    "tema": "congreso",
    "busquedas": "100+",
-   "nota": "Paris Hilton reclamó al Congreso de EE.UU. una ley contra la difusión de imágenes sexuales falsas creadas con IA",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/18/paris-hilton-reclamo-al-congreso-de-eeuu-una-ley-contra-la-difusion-de-imagenes-sexuales-falsas-creadas-con-ia/",
-   "medio": "Infobae",
+   "nota": "El Senado confirmó la sesión para este jueves para aprobar más fondos para la discapacidad",
+   "nota_url": "https://www.ambito.com/politica/el-senado-confirmo-la-sesion-este-jueves-aprobar-una-mejora-la-discapacidad-n6346833",
+   "medio": "Ambito",
    "relevante": true,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "La Argentina lidera un ranking de 30 países por los impuestos que aplica a los préstamos personales",
    "nota_url": "https://tn.com.ar/economia/2026/11/18/la-argentina-lidera-un-ranking-de-30-paises-por-los-impuestos-que-aplica-a-los-prestamos-personales/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "los juegos del hambre",
-   "busquedas": "500+",
-   "nota": "Watch Jennifer Lawrence Gets Her Flowers at the New York Premiere of The Hunger Games | Last Looks",
-   "nota_url": "https://www.vogue.com/video/watch/last-looks-jennifer-lawrence",
-   "medio": "Vogue",
    "relevante": false,
    "temas": []
   }
