@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 11:12",
+ "actualizado": "19/11 12:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,15 +21,21 @@
    "temas": []
   },
   {
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "#nadiedicenada",
    "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
+   "relevante": false,
    "temas": []
   },
   {
@@ -45,38 +51,14 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEFINALSTAGE",
-   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LOVE MYSELF",
-   "url": "https://x.com/search?q=LOVE%20MYSELF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Axel",
    "url": "https://x.com/search?q=Axel",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nico Paz",
-   "url": "https://x.com/search?q=Nico%20Paz",
+   "tema": "Love Myself",
+   "url": "https://x.com/search?q=Love%20Myself",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +69,8 @@
    "temas": []
   },
   {
-   "tema": "#FoolInLoveEP13",
-   "url": "https://x.com/search?q=%23FoolInLoveEP13",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$45.000 OFF",
-   "url": "https://x.com/search?q=%2445.000%20OFF",
+   "tema": "#DUOONEFINALSTAGE",
+   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
    "relevante": false,
    "temas": []
   },
@@ -105,113 +81,137 @@
    "temas": []
   },
   {
+   "tema": "Nico Paz",
+   "url": "https://x.com/search?q=Nico%20Paz",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Putin",
    "url": "https://x.com/search?q=Putin",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "SOON YOU ARE MINE",
-   "url": "https://x.com/search?q=SOON%20YOU%20ARE%20MINE",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "tema": "$45.000 OFF",
+   "url": "https://x.com/search?q=%2445.000%20OFF",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#FoolInLoveEP13",
+   "url": "https://x.com/search?q=%23FoolInLoveEP13",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rodrigo de la Serna",
+   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "anthropic acciones",
+   "busquedas": "100+",
+   "nota": "Anthropic sale a la Bolsa hoy: cómo se puede invertir desde la Argentina, paso a paso",
+   "nota_url": "https://www.lanacion.com.ar/economia/anthropic-sale-a-la-bolsa-hoy-como-se-puede-invertir-desde-la-argentina-paso-a-paso-nid19112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "argentina sub-17 - australia sub-17",
+   "busquedas": "2000+",
+   "nota": "Selección Argentina Sub 17 vs. Australia, hoy EN VIVO por el Mundial: horario y por dónde ver",
+   "nota_url": "https://www.ole.com.ar/seleccion/seleccion-argentina-vs-australia-partido-mundial-sub-17-vivo_0_1OjM8xmwsV.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "prófugo",
+   "busquedas": "100+",
+   "nota": "La Justicia investiga a una mujer paraguaya que habría ayudado en la fuga del terrorista italiano",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/18/la-justicia-investiga-a-una-mujer-paraguaya-que-habria-ayudado-en-la-fuga-del-terrorista-italiano/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ashton kutcher",
+   "busquedas": "100+",
+   "nota": "Major A-list actor set to become billionaire thanks to Claude",
+   "nota_url": "https://www.yahoo.com/lifestyle/videos/major-list-actor-set-become-183106181.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "oliver bearman",
+   "busquedas": "200+",
+   "nota": "F1 Q&A: Bearman and Ferrari, Williams, Racing Bulls, overtaking and renaming of grands prix",
+   "nota_url": "https://www.bbc.com/sport/formula1/articles/c9vg2l8240emo",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mar del plata",
+   "busquedas": "1000+",
+   "nota": "Jueves algo lluvioso en la previa de la tormenta: rige un alerta meteorológico para Mar del Plata",
+   "nota_url": "https://www.0223.com.ar/nota/2026-11-19-8-27-0-jueves-algo-lluvioso-en-la-previa-de-la-tormenta-rige-un-alerta-meteorologico-para-mar-del-plata",
+   "medio": "0223.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de la mujer",
+   "busquedas": "200+",
+   "nota": "Las cosas pasan en algún lugar",
+   "nota_url": "https://www.thenewbarcelonapost.com/cosas-pasan-en-algun-lugar-opinion-beatriz-vicente/",
+   "medio": "The New Barcelona Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "black friday",
+   "busquedas": "200+",
+   "nota": "How to save on electronics this holiday shopping season",
+   "nota_url": "https://www.mercurynews.com/2026/11/19/how-to-save-on-electronics-this-holiday-shopping-season/",
+   "medio": "The Mercury News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rafael jódar",
+   "busquedas": "200+",
+   "nota": "Resumen, resultado y ganador del Shelton - Jódar: última hora de las ATP Finals, hoy en vivo",
+   "nota_url": "https://as.com/tenis/final_atp/shelton-jodar-en-directo-ultima-hora-de-las-atp-finals-hoy-en-vivo-f202611-d/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "cronista",
    "busquedas": "100+",
-   "nota": "Advierten que el consumo sigue frenado: \"La gente necesita crédito para llegar a fin de mes\"",
-   "nota_url": "https://www.cadena3.com/noticia/radioinforme-3-rosario/advierten-que-el-consumo-sigue-frenado-la-gente-necesita-credito-para-llegar-a-fin-de-mes_612382",
-   "medio": "Cadena 3 Argentina",
+   "nota": "Bruno Incicco se sinceró tras el cachetazo por la espalda de la chica trans: “Al azar, canalizó en mi todo su enojo”",
+   "nota_url": "https://www.canalnet.tv/programas/bruno-incicco-se-sincero-tras-el-cachetazo-por-la-espalda-de-la-chica-trans-al-azar-canalizo-en-mi-todo-su-enojo_20261118/",
+   "medio": "Net tv | Aire Fresco",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "larry poindexter",
-   "busquedas": "200+",
-   "nota": "Larry Poindexter, ‘Station 19’ and Soap Star, Dead at 66",
-   "nota_url": "https://parade.com/news/larry-poindexter-station-19-and-soap-star-dead-at-66",
-   "medio": "Parade Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ben shelton",
-   "busquedas": "500+",
-   "nota": "How Rafa Jódar can qualify for the ATP Finals semifinals: scenarios and final day schedule",
-   "nota_url": "https://www.mundodeportivo.com/en/20261118/1004252520/how-rafa-jodar-can-qualify-for-the-atp-finals-semifinals-scenarios-and-final-day-schedule.html",
-   "medio": "Mundo Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolar blue",
-   "busquedas": "1000+",
-   "nota": "Dólar blue hoy: a cuánto opera este jueves 19 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-19-noviembre-n6346956",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa sudamericana 2026",
-   "busquedas": "100+",
-   "nota": "El cambio de planificación de Boca para combatir el calor de Barranquilla",
-   "nota_url": "https://www.tycsports.com/boca-juniors/boca-cambio-su-logistica-en-barranquilla-para-combatir-el-calor-antes-de-la-final-de-la-copa-sudamericana-id772091.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cerebro",
-   "busquedas": "2000+",
-   "nota": "Se conoció el parte médico del Instituto Fleni sobre la cirugía de Mariano Chihade: “Evoluciona favorablemente”",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/18/se-conocio-el-parte-medico-del-instituto-fleni-sobre-la-cirugia-de-mariano-chihade-evoluciona-favorablemente/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alexander haskin",
-   "busquedas": "500+",
-   "nota": "Man who was pulled from the water off Santa Monica Pier dies despite rescue effort",
-   "nota_url": "https://smmirror.com/man-dies-after-ocean-rescue-near-santa-monica-pier/",
-   "medio": "Santa Monica Mirror",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "entradas don omar",
-   "busquedas": "2000+",
-   "nota": "Don Omar en Vélez 2027: precios de entradas y cómo acceder a la preventa para fans (Web)",
-   "nota_url": "https://viapais.com.ar/urbano/don-omar-velez-2027-precios-entradas-acceder-preventa-fans_0_RNVpDc450A.html",
-   "medio": "Vía País",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "mario pergolini",
-   "busquedas": "500+",
-   "nota": "Luis Fonsi reveló cómo se le declaró a su esposa y sorprendió a Pergolini: “¡Lo dijiste como argentino!”",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/19/luis-fonsi-revelo-como-se-le-declaro-a-su-esposa-y-sorprendio-a-pergolini-lo-dijiste-en-argentino/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "presupuesto",
-   "busquedas": "200+",
-   "nota": "Presupuesto 2026: el Gobierno aumentó los fondos para salarios y prestaciones sociales",
-   "nota_url": "https://www.ellitoral.com/politica/presupuesto2026-decreto13912026-javiermilei-anses-seguridadsocial-incluirsalud-pami-plan1000dias-pensiones-arca-ministeriodesalud_0_gQlzTHmYjw.html",
-   "medio": "El Litoral",
-   "relevante": true,
    "temas": []
   }
  ],
