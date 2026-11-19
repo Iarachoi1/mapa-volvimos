@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 16:54",
+ "actualizado": "19/11 17:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,20 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Placente",
-   "url": "https://x.com/search?q=Placente",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Jason",
    "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -57,12 +51,6 @@
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Axel",
    "url": "https://x.com/search?q=Axel",
    "relevante": false,
@@ -75,20 +63,14 @@
    "temas": []
   },
   {
-   "tema": "#PatriaYFamilia",
-   "url": "https://x.com/search?q=%23PatriaYFamilia",
+   "tema": "Gonzalo Montiel",
+   "url": "https://x.com/search?q=Gonzalo%20Montiel",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Don Omar",
    "url": "https://x.com/search?q=Don%20Omar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +87,26 @@
    "temas": []
   },
   {
-   "tema": "Australia",
-   "url": "https://x.com/search?q=Australia",
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Martita",
+   "url": "https://x.com/search?q=Martita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Luccianos",
+   "url": "https://x.com/search?q=Luccianos",
    "relevante": false,
    "temas": []
   },
@@ -125,6 +125,51 @@
  ],
  "google": [
   {
+   "tema": "arthur fils",
+   "busquedas": "100+",
+   "nota": "Alexander Zverev - Arthur Fils EN DIRECT",
+   "nota_url": "https://www.eurosport.fr/tennis/atp-finals/2026/alexander-zverev-arthur-fils_mtc22079877/live-commentary.shtml",
+   "medio": "Eurosport",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético independiente",
+   "busquedas": "500+",
+   "nota": "¡El Rojo es Campeón de Liga!",
+   "nota_url": "https://www.ligaprofesional.ar/notas/proyeccion/2026/11/18/el-rojo-es-campeon-de-liga/",
+   "medio": "Liga Profesional de Fútbol",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "epicentro",
+   "busquedas": "200+",
+   "nota": "Temblor en México: últimos reportes de sismos hoy jueves 19 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-mexico-ultimos-reportes-de-sismos-hoy-jueves-19-de-noviembre-nid19112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alexander zverev",
+   "busquedas": "1000+",
+   "nota": "World number one prepares to fight fresh legal action",
+   "nota_url": "https://novanews.co.za/alexander-zverev-defends-against-brenda-patea-lawsuit/",
+   "medio": "https://novanews.co.za/",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "zverev",
+   "busquedas": "2000+",
+   "nota": "Shelton beats Jodar and now needs help from Zverev to advance at the ATP Finals",
+   "nota_url": "https://abcnews.com/Sports/wireStory/shelton-beats-jodar-now-zverev-advance-atp-finals-138290994",
+   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "fragata",
    "busquedas": "200+",
    "nota": "Encuentro entre los ministros de Defensa de Italia y la Argentina",
@@ -135,7 +180,7 @@
   },
   {
    "tema": "aston martin f1",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Crawford gets ‘special’ first U.S. F1 outing with Las Vegas FP1",
    "nota_url": "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1",
    "medio": "RACER - Racing News",
@@ -144,74 +189,27 @@
   },
   {
    "tema": "daniel rafecas",
-   "busquedas": "200+",
-   "nota": "El fiscal pidió que la causa por la mansión de Pilar quede definitivamente en CABA",
-   "nota_url": "https://tn.com.ar/videos/politica/2026/11/19/la-corte-suprema-le-saco-la-causa-de-la-mansion-de-pilar-al-juez-cercano-a-la-afa-y-resolvio-que-sea-investigada-por-rafecas/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
+   "busquedas": "500+",
+   "nota": "La Corte Suprema ordenó que la causa por lavado de la AFA y la mansión de Pilar vaya a Comodoro Py",
+   "nota_url": "https://www.perfil.com/politica/la-corte-suprema-ordeno-que-la-causa-por-lavado-de-la-afa-y-la-mansion-de-pilar-vaya-a-comodoro-py-a3id96b9M7xK",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
   },
   {
    "tema": "clima junin",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "busquedas": "200+",
+   "nota": "Clima en Junín hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/junin/clima-en-junin-hoy-cual-es-el-pronostico-del-tiempo-para-el-18-de-noviembre-de-2026-nid17112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ypf",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "¿Hasta cuánto aguanta el buffer de YPF para los precios de combustibles?",
    "nota_url": "https://www.ambito.com/energia/hasta-cuanto-aguanta-el-buffer-ypf-los-precios-combustibles-n6346804",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "peñarol - cerro largo",
-   "busquedas": "500+",
-   "nota": "La peor racha del siglo: el récord negativo que Peñarol podría romper si no le gana a Cerro Largo",
-   "nota_url": "https://www.directvsports.com/futbol/la-peor-racha-del-siglo-el-record-negativo-que-penarol-podria-romper-si-no-le-gana-a-cerro-largo-20261117-0027.html",
-   "medio": "DSports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "esteban ocon",
-   "busquedas": "500+",
-   "nota": "La reacción de Gasly a la abrupta salida de Ocon de la F1: \"Me parece bastante extraña\"",
-   "nota_url": "https://www.tycsports.com/automovilismo/la-reaccion-de-gasly-a-la-abrupta-salida-de-ocon-de-la-f1-me-parece-bastante-extrana-id771428.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima neuquen",
-   "busquedas": "500+",
-   "nota": "Hay alerta amarilla por tormentas en 8 provincias para hoy, jueves 19 de noviembre",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/19/hay-alerta-amarilla-por-tormentas-en-8-provincias-para-hoy-jueves-19-de-noviembre/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "andrea del boca",
-   "busquedas": "500+",
-   "nota": "Andrea del Boca vuelve al teatro con la obra Votemos en Villa Carlos Paz",
-   "nota_url": "https://elecos.com.ar/andrea-del-boca-vuelve-al-teatro-con-la-obra-votemos-en-villa-carlos-paz",
-   "medio": "Ecos Diarios Necochea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "don omar concierto entradas",
-   "busquedas": "2000+",
-   "nota": "Don Omar vuelve a la Argentina: cómo y dónde comprar las entradas para el show",
-   "nota_url": "https://www.ambito.com/espectaculos/don-omar-vuelve-la-argentina-como-y-donde-comprar-las-entradas-el-show-n6347051",
    "medio": "Ambito",
    "relevante": false,
    "temas": []
