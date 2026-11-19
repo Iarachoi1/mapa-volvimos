@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 08:47",
+ "actualizado": "19/11 09:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,20 @@
    "temas": []
   },
   {
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#BuenJueves",
    "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +39,14 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#DUOONEFINALSTAGE",
    "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +69,14 @@
    "temas": []
   },
   {
-   "tema": "#SomosAsi",
-   "url": "https://x.com/search?q=%23SomosAsi",
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "#SomosAsi",
+   "url": "https://x.com/search?q=%23SomosAsi",
    "relevante": false,
    "temas": []
   },
@@ -87,20 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Olivia",
-   "url": "https://x.com/search?q=Olivia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GOTY",
-   "url": "https://x.com/search?q=GOTY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Costa Rica",
-   "url": "https://x.com/search?q=Costa%20Rica",
+   "tema": "Falcone",
+   "url": "https://x.com/search?q=Falcone",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +99,97 @@
    "temas": []
   },
   {
-   "tema": "Falcone",
-   "url": "https://x.com/search?q=Falcone",
+   "tema": "Costa Rica",
+   "url": "https://x.com/search?q=Costa%20Rica",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Toty",
-   "url": "https://x.com/search?q=Toty",
+   "tema": "Xi Jinping",
+   "url": "https://x.com/search?q=Xi%20Jinping",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GOTY",
+   "url": "https://x.com/search?q=GOTY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Olivia",
+   "url": "https://x.com/search?q=Olivia",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "david bisbal",
+   "tema": "hoy es el dia de",
    "busquedas": "100+",
+   "nota": "La historia al día: efemérides del 16 de noviembre",
+   "nota_url": "https://chubutline.com/la-historia-al-dia-efemerides-del-16-de-noviembre-3/",
+   "medio": "Chubutline",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alexander haskin",
+   "busquedas": "500+",
+   "nota": "Man who was pulled from the water off Santa Monica Pier dies despite rescue effort",
+   "nota_url": "https://smmirror.com/man-dies-after-ocean-rescue-near-santa-monica-pier/",
+   "medio": "Santa Monica Mirror",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mario pergolini",
+   "busquedas": "200+",
+   "nota": "Telenoche: de qué se trata la terapia alternativa que practica Graciela Alfano en un jacuzzi a los 73 años",
+   "nota_url": "https://www.eltrecetv.com.ar/telenoche/2026/11/17/telenoche-de-que-se-trata-la-terapia-alternativa-que-practica-graciela-alfano-en-un-jacuzzi-a-los-73-anos/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "presupuesto",
+   "busquedas": "100+",
+   "nota": "Presupuesto 2026: el Gobierno aumentó los fondos para salarios y prestaciones sociales",
+   "nota_url": "https://www.ellitoral.com/politica/presupuesto2026-decreto13912026-javiermilei-anses-seguridadsocial-incluirsalud-pami-plan1000dias-pensiones-arca-ministeriodesalud_0_gQlzTHmYjw.html",
+   "medio": "El Litoral",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "efemerides de hoy",
+   "busquedas": "100+",
+   "nota": "Efemérides de hoy 19 de noviembre de 2026: ¿Qué pasó el 19 de noviembre?",
+   "nota_url": "https://www.antena3.com/noticias/sociedad/efemerides-hoy-19-noviembre-2026-que-paso-19-noviembre_202611196afe8269103a0e0a474fcf59.html",
+   "medio": "Antena 3 Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "crédito",
+   "busquedas": "200+",
+   "nota": "Crédito en jaque: por qué Argentina es el país que más impuestos cobra sobre los préstamos bancarios",
+   "nota_url": "https://www.cronista.com/economia-politica/creditos-en-jaque-argentina-es-el-pais-que-mas-impuestos-cobra-sobre-los-prestamos-bancarios/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "anthropic",
+   "busquedas": "200+",
+   "nota": "Nasdaq futures jump 2% as Anthropic’s successful IPO revives AI trade: Live updates",
+   "nota_url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "medio": "CNBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "david bisbal",
+   "busquedas": "200+",
    "nota": "David Bisbal sufre triste pérdida: “Nunca imaginé que, después de aquel concierto nos tocaría despedirnos para siempre”",
    "nota_url": "https://es-us.vida-estilo.yahoo.com/david-bisbal-sufre-triste-p%C3%A9rdida-132940530.html",
    "medio": "Yahoo en Español Vida y Estilo",
@@ -136,81 +199,18 @@
   {
    "tema": "dia de la soberania nacional",
    "busquedas": "200+",
-   "nota": "Feriados 2026: cuántos quedan en el año y qué días caen Navidad y Año Nuevo",
-   "nota_url": "https://www.cronista.com/informacion-gral/feriados-2026-cuantos-quedan-en-el-ano-y-que-dias-caen-navidad-y-ano-nuevo/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "apagón eléctrico",
-   "busquedas": "100+",
-   "nota": "Los Simpson y el 17 de noviembre: el episodio que predijo un apagón mundial que, según las redes, ocurre hoy",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/17/los-simpson-y-el-17-de-noviembre-el-episodio-que-predijo-un-apagon-mundial-que-segun-las-redes-ocurre-hoy/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "roberto cachanosky",
-   "busquedas": "100+",
-   "nota": "Cachanosky: \"Mantener dólar bajo es subsidiar importaciones, no conviene producir\"",
-   "nota_url": "https://urgente24.com/dinero/cachanosky-mantener-dolar-es-subsidiar-importaciones-no-conviene-producir-n636765",
-   "medio": "Urgente24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mundial sub 17",
-   "busquedas": "500+",
-   "nota": "La Selección debuta contra Australia en el Mundial Sub 17: el registro sin precedentes que es un reflejo de la actualidad del fútbol argentino",
-   "nota_url": "https://www.clarin.com/deportes/seleccion-debuta-australia-mundial-sub-17-registro-precedentes-reflejo-actualidad-futbol-argentino_0_x3M5qvjNq3.html",
+   "nota": "Por qué es feriado el lunes 23 de noviembre en Argentina y qué pasa con el viernes 20",
+   "nota_url": "https://www.clarin.com/informacion-general/feriado-lunes-23-noviembre-argentina-pasa-viernes-20_0_a5HXX4f0ux.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "19 de noviembre",
-   "busquedas": "5000+",
-   "nota": "Buenos Aires tendrá cielo despejado y una máxima de 27 grados",
-   "nota_url": "https://www.radionacional.com.ar/buenos-aires-tendra-cielo-despejado-y-una-maxima-de-27-grados/",
-   "medio": "Radio Nacional Rock",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima san luis",
-   "busquedas": "500+",
-   "nota": "Hay alerta amarilla por tormentas para este jueves 19 de noviembre en San Luis: las zonas afectadas",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/19/hay-alerta-amarilla-por-tormentas-para-este-jueves-19-de-noviembre-en-san-luis-las-zonas-afectadas/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "insecto",
+   "tema": "apagón eléctrico",
    "busquedas": "200+",
-   "nota": "Hallan un misterioso insecto junto a un glaciar en la Patagonia",
-   "nota_url": "https://es.euronews.com/2026/11/18/descubren-misterioso-nuevo-insecto-glaciar-hielos-patagonia-chilena",
-   "medio": "Euronews.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo en cordoba",
-   "busquedas": "1000+",
-   "nota": "Lluvias en Córdoba: los acumulados superaron los 90 milímetros en distintos puntos de la provincia",
-   "nota_url": "https://www.cba.gov.ar/lluvias-en-cordoba-los-acumulados-superaron-los-90-milimetros-en-distintos-puntos-de-la-provincia/",
-   "medio": "· Gobierno de Córdoba",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela",
-   "busquedas": "2000+",
-   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este jueves, 19 de noviembre",
-   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-jueves-19-de-noviembre-202611195012",
-   "medio": "El Destape",
+   "nota": "Los Simpson y el 17 de noviembre: el episodio que predijo un apagón mundial que, según las redes, ocurre hoy",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/17/los-simpson-y-el-17-de-noviembre-el-episodio-que-predijo-un-apagon-mundial-que-segun-las-redes-ocurre-hoy/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
