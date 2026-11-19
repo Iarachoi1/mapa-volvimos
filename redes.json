@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 14:46",
+ "actualizado": "19/11 15:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,8 +33,20 @@
    "temas": []
   },
   {
+   "tema": "Placente",
+   "url": "https://x.com/search?q=Placente",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Jason",
    "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Australia",
+   "url": "https://x.com/search?q=Australia",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
+   "tema": "Rodrigo de la Serna",
+   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +75,8 @@
    "temas": []
   },
   {
-   "tema": "Rodrigo de la Serna",
-   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +93,26 @@
    "temas": []
   },
   {
-   "tema": "$ANT",
-   "url": "https://x.com/search?q=%24ANT",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Xi Jinping",
+   "url": "https://x.com/search?q=Xi%20Jinping",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DUOONEFINALSTAGE",
+   "url": "https://x.com/search?q=%23DUOONEFINALSTAGE",
    "relevante": false,
    "temas": []
   },
@@ -97,36 +121,57 @@
    "url": "https://x.com/search?q=Shenzhen",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "congreso",
+   "tema": "clima neuquen",
    "busquedas": "200+",
+   "nota": "Hay alerta amarilla por tormentas en 8 provincias para hoy, jueves 19 de noviembre",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/19/hay-alerta-amarilla-por-tormentas-en-8-provincias-para-hoy-jueves-19-de-noviembre/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "don omar concierto entradas",
+   "busquedas": "2000+",
+   "nota": "Don Omar vuelve a la Argentina: cómo y dónde comprar las entradas para el show",
+   "nota_url": "https://www.ambito.com/espectaculos/don-omar-vuelve-la-argentina-como-y-donde-comprar-las-entradas-el-show-n6347051",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "andrea del boca",
+   "busquedas": "200+",
+   "nota": "Salió a la luz el nuevo trabajo de Andrea del Boca y un detalle se robó todas las miradas",
+   "nota_url": "https://la100.cienradios.com/espectaculos/salio-a-la-luz-el-nuevo-trabajo-de-andrea-del-boca-y-un-detalle-se-robo-todas-las-miradas/",
+   "medio": "La 100",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alperovich",
+   "busquedas": "200+",
+   "nota": "La Justicia le redujo la condena a José Alperovich por abuso sexual",
+   "nota_url": "https://www.lanacion.com.ar/politica/la-justicia-le-redujo-la-condena-a-jose-alperovich-por-abuso-sexual-nid18112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiziana sabatini",
+   "busquedas": "200+",
+   "nota": "Tiziana Sabatini, la hija de Catherine Fulop, mostró su negocio: diseño de marcas, proyectos internacionales y la portada del libro de Oriana",
+   "nota_url": "https://www.losandes.com.ar/espectaculos/tiziana-sabatini-la-hija-catherine-fulop-mostro-su-negocio-diseno-marcas-proyectos-internacionales-y-la-portada-del-libro-oriana-n6010429",
+   "medio": "Los Andes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "congreso",
+   "busquedas": "1000+",
    "nota": "EE.UU. también pone la lupa en Jujuy: El Congreso pidió enviar auditores a la Argentina para contrarrestar la influencia de China",
    "nota_url": "https://las24horasdejujuy.com.ar/ee-uu-tambien-pone-la-lupa-en-jujuy-el-congreso-pidio-enviar-auditores-a-la-argentina-para-contrarrestar-la-influencia-de-china/",
    "medio": "las 24 horas de jujuy",
@@ -135,7 +180,7 @@
   },
   {
    "tema": "20 de noviembre",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "A minutos de CABA: fue escenario de una batalla por la soberanía y se reconvirtió como polo turístico",
    "nota_url": "https://www.eldestapeweb.com/sociedad/minutos-caba-fue-escenario-batalla-soberania-reconvirtio-polo-turistico-2026111912162",
    "medio": "El Destape",
@@ -147,7 +192,7 @@
   {
    "tema": "julio iglesias",
    "busquedas": "100+",
-   "nota": "La Justicia de España investigará a Julio Iglesias por presuntas agresiones sexuales",
+   "nota": "La justicia de España investigará a Julio Iglesias por presuntas agresiones sexuales",
    "nota_url": "https://www.ambito.com/espectaculos/la-justicia-espana-investigara-julio-iglesias-presuntas-agresiones-sexuales-n6346648",
    "medio": "Ambito",
    "relevante": false,
@@ -156,9 +201,9 @@
   {
    "tema": "amalia granata",
    "busquedas": "100+",
-   "nota": "Uma contó cómo le afectó en su niñez que Amalia Granata y el Ogro Fabbiani se pelearan en los medios",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/18/la-hija-de-amalia-granata-y-el-ogro-fabbiani-conto-como-le-afecto-en-su-ninez-que-sus-padres-se-pelearan-en-tv-me-dolio/",
-   "medio": "TN",
+   "nota": "El emotivo mensaje que Amalia Granata le dedicó a su hija Uma luego de ser entrevistada por Flor de la Ve",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/19/el-emotivo-mensaje-que-amalia-granata-le-dedico-a-su-hija-uma-luego-de-ser-entrevistada-por-flor-de-la-ve/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
@@ -172,51 +217,6 @@
    "temas": [
     "Ciudad"
    ]
-  },
-  {
-   "tema": "depósito",
-   "busquedas": "100+",
-   "nota": "Subieron las tasas de los plazos fijos: qué bancos pagan más y cuánto rinde invertir $10 millones hoy, 18 de noviembre",
-   "nota_url": "https://www.rionegro.com.ar/economia/subieron-las-tasas-de-los-plazos-fijos-que-bancos-pagan-mas-y-cuanto-rinde-invertir-10-millones-hoy-18-de-noviembre-4803100/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estoico",
-   "busquedas": "100+",
-   "nota": "Javier Milei recibió el título de Doctor Honoris Causa y afirmó que “la justicia social nos hunde”",
-   "nota_url": "https://www.infobae.com/politica/2026/11/18/javier-milei-recibio-el-titulo-de-doctor-honoris-causa-y-afirmo-que-la-justicia-social-nos-hunde/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "que se festeja hoy",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "anthropic acciones",
-   "busquedas": "200+",
-   "nota": "Las acciones de Anthropic empiezan a cotizar con alza de 26% en Wall Street después de una salida récord a la bolsa",
-   "nota_url": "https://www.infobae.com/economia/2026/11/19/las-acciones-de-anthropic-empiezan-a-cotizar-en-wall-street-despues-de-una-salida-record-a-la-bolsa/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "argentina sub-17 - australia sub-17",
-   "busquedas": "10000+",
-   "nota": "Mundial Sub 17: Quiénes son los jugadores de Argentina a los que prestarles atención",
-   "nota_url": "https://www.espn.com.ar/futbol/nota/_/id/17523549/mundial-sub-17-quienes-son-los-jugadores-de-argentina-a-los-que-prestarles-atencion",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
   }
  ],
  "youtube": [],
