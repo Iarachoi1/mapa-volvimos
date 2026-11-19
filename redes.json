@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 13:52",
+ "actualizado": "19/11 14:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,8 +39,8 @@
    "temas": []
   },
   {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "Putin",
+   "url": "https://x.com/search?q=Putin",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +51,8 @@
    "temas": []
   },
   {
-   "tema": "Putin",
-   "url": "https://x.com/search?q=Putin",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#BuenJueves",
    "url": "https://x.com/search?q=%23BuenJueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Don Omar",
-   "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
   },
@@ -75,32 +63,32 @@
    "temas": []
   },
   {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rodrigo de la Serna",
    "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nico Paz",
-   "url": "https://x.com/search?q=Nico%20Paz",
+   "tema": "Don Omar",
+   "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
+   "tema": "DUOONE FINAL MATCH",
+   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$ANT",
+   "url": "https://x.com/search?q=%24ANT",
    "relevante": false,
    "temas": []
   },
@@ -111,34 +99,86 @@
    "temas": []
   },
   {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asia",
+   "url": "https://x.com/search?q=Asia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "PerÃ³n",
    "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#FoolInLoveEP13",
-   "url": "https://x.com/search?q=%23FoolInLoveEP13",
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "dolar",
-   "busquedas": "2000+",
-   "nota": "Dólar hoy: a cuánto operan todas las cotizaciones tras la caída del real brasileño y el récord del contado con liqui",
-   "nota_url": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
-   "medio": "Infobae",
+   "tema": "congreso",
+   "busquedas": "200+",
+   "nota": "EE.UU. también pone la lupa en Jujuy: El Congreso pidió enviar auditores a la Argentina para contrarrestar la influencia de China",
+   "nota_url": "https://las24horasdejujuy.com.ar/ee-uu-tambien-pone-la-lupa-en-jujuy-el-congreso-pidio-enviar-auditores-a-la-argentina-para-contrarrestar-la-influencia-de-china/",
+   "medio": "las 24 horas de jujuy",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "20 de noviembre",
+   "busquedas": "200+",
+   "nota": "A minutos de CABA: fue escenario de una batalla por la soberanía y se reconvirtió como polo turístico",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/minutos-caba-fue-escenario-batalla-soberania-reconvirtio-polo-turistico-2026111912162",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "julio iglesias",
+   "busquedas": "100+",
+   "nota": "La Justicia de España investigará a Julio Iglesias por presuntas agresiones sexuales",
+   "nota_url": "https://www.ambito.com/espectaculos/la-justicia-espana-investigara-julio-iglesias-presuntas-agresiones-sexuales-n6346648",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "amalia granata",
+   "busquedas": "100+",
+   "nota": "Uma contó cómo le afectó en su niñez que Amalia Granata y el Ogro Fabbiani se pelearan en los medios",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/18/la-hija-de-amalia-granata-y-el-ogro-fabbiani-conto-como-le-afecto-en-su-ninez-que-sus-padres-se-pelearan-en-tv-me-dolio/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tapir americano",
+   "busquedas": "200+",
+   "nota": "Video: el Ecoparque porteño celebra el nacimiento de una tapir en peligro de extinción",
+   "nota_url": "https://www.ellitoral.com/informacion-general/tapiramericano-ecoparque-yunga-conservacion-sudamerica-ecosistemas_0_RdtdajSkLZ.html",
+   "medio": "El Litoral",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
    "tema": "depósito",
    "busquedas": "100+",
-   "nota": "Depósitos al 3,40% a un año: SME Bank y Mano Bank suben y WiZink activa un 3,30% a 18 meses por Black Friday",
-   "nota_url": "https://www.rankia.com/blog/mejores-depositos/7554802-depositos-12-meses-sme-bank-mano-wizink",
-   "medio": "Rankia",
+   "nota": "Subieron las tasas de los plazos fijos: qué bancos pagan más y cuánto rinde invertir $10 millones hoy, 18 de noviembre",
+   "nota_url": "https://www.rionegro.com.ar/economia/subieron-las-tasas-de-los-plazos-fijos-que-bancos-pagan-mas-y-cuanto-rinde-invertir-10-millones-hoy-18-de-noviembre-4803100/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   },
@@ -162,55 +202,19 @@
   },
   {
    "tema": "anthropic acciones",
-   "busquedas": "100+",
-   "nota": "Anthropic sale a la Bolsa hoy: cómo se puede invertir desde la Argentina, paso a paso",
-   "nota_url": "https://www.lanacion.com.ar/economia/anthropic-sale-a-la-bolsa-hoy-como-se-puede-invertir-desde-la-argentina-paso-a-paso-nid19112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "argentina sub-17 - australia sub-17",
-   "busquedas": "5000+",
-   "nota": "Juan Policella, el “pibe de las rabonas” que rechazó Chile, hizo historia en Vélez y va por el Mundial Sub 17",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/juan-policella-el-pibe-de-las-rabonas-que-rechazo-chile-hizo-historia-en-velez-y-va-por-el-mundial-nid18112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "prófugo",
-   "busquedas": "100+",
-   "nota": "Hoy indagan a la pareja del ex terrorista italiano que escapó: el insólito desliz del prófugo que llevó a la prueba clave en su contra",
-   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/19/hoy-indagan-a-la-pareja-del-ex-terrorista-italiano-que-escapo-el-insolito-error-del-ex-terrorista-que-llevo-a-la-prueba-clave-en-su-contra/",
+   "busquedas": "200+",
+   "nota": "Las acciones de Anthropic empiezan a cotizar con alza de 26% en Wall Street después de una salida récord a la bolsa",
+   "nota_url": "https://www.infobae.com/economia/2026/11/19/las-acciones-de-anthropic-empiezan-a-cotizar-en-wall-street-despues-de-una-salida-record-a-la-bolsa/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ashton kutcher",
-   "busquedas": "100+",
-   "nota": "Major A-list actor set to become billionaire thanks to Claude",
-   "nota_url": "https://www.yahoo.com/lifestyle/videos/major-list-actor-set-become-183106181.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "oliver bearman",
-   "busquedas": "500+",
-   "nota": "F1 Q&A: Bearman and Ferrari, Williams, Racing Bulls, overtaking and renaming of grands prix",
-   "nota_url": "https://www.bbc.com/sport/formula1/articles/c9vg2l8240emo",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mar del plata",
-   "busquedas": "1000+",
-   "nota": "Paralizada. Por falta de materia prima, cierra definitivamente La Campagnola en Mar del Plata",
-   "nota_url": "https://www.lavoz.com.ar/negocios/falta-materia-prima-cierra-definitivamente-campagnola-mar-plata_0_6L3hSKagcw.html",
-   "medio": "La Voz del Interior",
+   "tema": "argentina sub-17 - australia sub-17",
+   "busquedas": "10000+",
+   "nota": "Mundial Sub 17: Quiénes son los jugadores de Argentina a los que prestarles atención",
+   "nota_url": "https://www.espn.com.ar/futbol/nota/_/id/17523549/mundial-sub-17-quienes-son-los-jugadores-de-argentina-a-los-que-prestarles-atencion",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
