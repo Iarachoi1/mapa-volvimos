@@ -1,7 +1,13 @@
 {
- "actualizado": "20/11 18:36",
+ "actualizado": "20/11 19:35",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "DÃ­a de la SoberanÃ­a Nacional",
    "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
@@ -17,12 +23,6 @@
   {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ARMYONMNET",
-   "url": "https://x.com/search?q=%23ARMYONMNET",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Eni y XRG",
-   "url": "https://x.com/search?q=Eni%20y%20XRG",
+   "tema": "Riesgo PaÃ­s",
+   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cristian DÃ­az",
+   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +99,118 @@
    "temas": []
   },
   {
-   "tema": "Riesgo PaÃ­s",
-   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ARMYONMNET",
+   "url": "https://x.com/search?q=%23ARMYONMNET",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "estafa",
-   "busquedas": "500+",
-   "nota": "Cositorto y miembros de Generación Zoe procesados por más de 1.000 estafas millonarias",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/cositorto-y-miembros-de-generacion-zoe-procesados-por-mas-de-1000-estafas-millonarias_615157",
-   "medio": "Cadena 3 Argentina",
+   "tema": "cambio climático",
+   "busquedas": "200+",
+   "nota": "Cómo dos palabras podrían descarrilar la mayor conferencia mundial sobre el clima",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/20/clima-y-tiempo/palabras-descarrilar-conferencia-clima-trax",
+   "medio": "CNN en Español",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "velez hoy",
+   "tema": "mauricio pochettino",
    "busquedas": "100+",
-   "nota": "Vélez y Belgrano abren los Octavos de Final",
-   "nota_url": "https://www.afa.com.ar/es/posts/velez-y-belgrano-abren-los-octavos-de-final",
-   "medio": "AFA",
+   "nota": "Five European teams to watch as Mauricio Pochettino begins Manchester United era",
+   "nota_url": "https://www.cbssports.com/soccer/news/five-european-teams-to-watch-as-mauricio-pochettino-begins-manchester-united-era/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pena de muerte",
-   "busquedas": "200+",
-   "nota": "Florida ejecutará a un hombre condenado por asesinar a una pareja que esperaba su primer hijo hace 35 años",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/19/florida-ejecutara-a-un-hombre-condenado-por-asesinar-a-una-pareja-que-esperaba-su-primer-hijo-hace-35-anos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "medellín - santa fe",
-   "busquedas": "200+",
-   "nota": "¿Vuelve la magia al Atanasio? Quintero y Martegani apuntan a reaparecer al inicio de cuadrangulares | El Colombiano",
-   "nota_url": "https://www.elcolombiano.com/deportes/futbol/juanfer-quintero-agustin-martegani-reaparecen-cuadrangulares-dim-BG43762614",
-   "medio": "El Colombiano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "boca mineiro",
+   "tema": "vélez - belgrano",
    "busquedas": "2000+",
-   "nota": "Un alivio para Boca y Atlético Mineiro por una tecnología aplicada en el Metropolitano de Barranquilla",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17537025/boca-vs-atletico-mineiro-estadio-supermetro-tecnologia",
+   "nota": "Vélez y Belgrano inauguran los playoffs del Torneo Clausura",
+   "nota_url": "https://www.ole.com.ar/futbol-primera/belgrano-velez-torneo-clausura-playoffs-ricardo-zielinski-guillermo-barros-schelotto_0_YTralsBUQ8.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
+   "busquedas": "500+",
+   "nota": "Athletic line up Yeray, Prados and Sancet vs Espanyol",
+   "nota_url": "https://www.tufutbolero.com/en/news/athletic-line-up-yeray-prados-and-sancet-vs-espanyol-93d4c1",
+   "medio": "Tu Futbolero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "conmebol sudamericana",
+   "busquedas": "2000+",
+   "nota": "Boca tuvo su primer entrenamiento en Barranquilla de cara a la final de la Sudamericana",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17536490/boca-primer-entrenamiento-barranquilla-arruabarrena-final-atletico-mineiro-sudamericana",
    "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "frío",
+   "tema": "alexander haskin actor",
    "busquedas": "500+",
-   "nota": "¡Saca la cobija del tigre! Activan Alerta Amarilla por bajas temperaturas en 6 alcaldías de CDMX",
-   "nota_url": "https://lopezdoriga.com/nacional/mexico/saca-la-cobija-del-tigre-activan-alerta-amarilla-por-bajas-temperaturas-en-6-alcaldias-de-cdmx/",
-   "medio": "López-Dóriga Digital",
+   "nota": "Alexander Haskin: el actor de You y The Rookie murió ahogado tras saltar de un muelle en California",
+   "nota_url": "https://www.lavoz.com.ar/espectaculos/alexander-haskin-actor-you-the-rookie-murio-ahogado-saltar-muelle-california_0_OTPqJx0Fng.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "inversión",
+   "tema": "gasto",
    "busquedas": "200+",
-   "nota": "El Gobierno aprobó el RIGI de YPF para exportar gas licuado: con US$ 50.750 millones, será \"la mayor inversión de la historia\"",
-   "nota_url": "https://www.clarin.com/energia-y-mineria/gobierno-aprobo-rigi-ypf-exportar-gas-licuado-us-50750-millones-mayor-inversion-historia_0_8Yx4O90clj.html",
-   "medio": "Clarin.com",
+   "nota": "Gobierno argentino aprueba proyecto Argentina LNG por 50.750 mln dlrs para régimen incentivos",
+   "nota_url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L2N4710TX:0/",
+   "medio": "TradingView",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "máximo kirchner",
-   "busquedas": "200+",
-   "nota": "\"Hay que hacer un frente político que tenga como eje la recuperación de la soberanía económica\", dijo Máximo Kirchner.",
-   "nota_url": "http://www.fenix951.com.ar/noticia.php?id=361086",
-   "medio": "Fenix951",
+   "tema": "legislador",
+   "busquedas": "500+",
+   "nota": "Tras romper con los libertarios en Diputados, Mariano Campero pidió que Bullrich compita por la presidencia",
+   "nota_url": "https://www.eltucumano.com/amp/noticia/actualidad/328084/tras-romper-con-los-libertarios-en-diputados-mariano-campero-pidio-que-bullrich-compita-por-la-presidencia",
+   "medio": "El Tucumano",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "portaviones",
+   "tema": "juan fernando quintero",
+   "busquedas": "200+",
+   "nota": "Juanfer Quintero: respondió su representante por salida del DIM para volver a River Plate",
+   "nota_url": "https://www.semana.com/deportes/articulo/juanfer-quintero-respondio-su-representante-por-salida-del-dim-para-volver-a-river-plate/202608/",
+   "medio": "Revista Semana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "columbus crew",
    "busquedas": "100+",
-   "nota": "La Armada de EE.UU. autorizó las operaciones de cazas furtivos F-35C en toda su flota de portaaviones nucleares",
-   "nota_url": "https://www.zona-militar.com/2026/11/20/la-armada-de-ee-uu-autorizo-las-operaciones-de-cazas-furtivos-f-35c-en-toda-su-flota-de-portaaviones-nucleares/",
-   "medio": "Zona Militar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "porto - usc paredes",
-   "busquedas": "200+",
-   "nota": "Notícias - O onze do FC Porto para a estreia na Taça de Portugal",
-   "nota_url": "https://www.fcporto.pt/pt/noticias/20261120-pt-o-onze-do-fc-porto-para-a-estreia-na-taca-de-portugal",
-   "medio": "FC Porto",
+   "nota": "November 22, 2026: Nashville vs Cincinnati: First Half Winner Prediction Market",
+   "nota_url": "https://robinhood.com/us/en/prediction-markets/soccer/events/nashville-vs-cincinnati-first-half-winner-nov-22-2026/",
+   "medio": "Robinhood",
    "relevante": false,
    "temas": []
   }
