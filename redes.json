@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 02:52",
+ "actualizado": "20/11 03:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -63,6 +63,12 @@
    "temas": []
   },
   {
+   "tema": "#NAYEON_NAsty",
+   "url": "https://x.com/search?q=%23NAYEON_NAsty",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Malena",
    "url": "https://x.com/search?q=Malena",
    "relevante": false,
@@ -75,26 +81,8 @@
    "temas": []
   },
   {
-   "tema": "XCRY EN GQ",
-   "url": "https://x.com/search?q=XCRY%20EN%20GQ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#LasVegasGP",
    "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Martita",
-   "url": "https://x.com/search?q=Martita",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Mandy",
-   "url": "https://x.com/search?q=Mandy",
+   "tema": "Niko",
+   "url": "https://x.com/search?q=Niko",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marta Fort",
+   "url": "https://x.com/search?q=Marta%20Fort",
    "relevante": false,
    "temas": []
   },
@@ -117,8 +111,14 @@
    "temas": []
   },
   {
-   "tema": "Niko",
-   "url": "https://x.com/search?q=Niko",
+   "tema": "Mandy",
+   "url": "https://x.com/search?q=Mandy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MLBS7Spoilers",
+   "url": "https://x.com/search?q=%23MLBS7Spoilers",
    "relevante": false,
    "temas": []
   }
@@ -152,15 +152,6 @@
    "temas": []
   },
   {
-   "tema": "humedad",
-   "busquedas": "500+",
-   "nota": "Clima en Los Angeles, California hoy: cuál es el pronóstico del tiempo para hoy 18 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/california/clima-en-los-angeles-california-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-18-de-noviembre-nid18112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "tesla argentina",
    "busquedas": "100+",
    "nota": "ELON MUSK, ¿LA ÚLTIMA ESPERANZA DE MILEI? | El editorial de Ari Lijalad",
@@ -181,9 +172,9 @@
   {
    "tema": "villa maria ya",
    "busquedas": "200+",
-   "nota": "El alerta por tormentas EN VIVO: inestabilidad, viento, granizo en Córdoba",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/19/vivo-l-inestabilidad-viento-y-granizo-el-avance-de-la-tormenta-en-cordoba/",
-   "medio": "eldoce",
+   "nota": "¿Se viene? Alertan sobre posibles tormentas en Villa María y zona",
+   "nota_url": "https://villamariaya.com/el-tiempo/se-viene-alertan-sobre-posibles-tormentas-en-villa-maria-y-zona_1795122788",
+   "medio": "Villa Maria Ya",
    "relevante": false,
    "temas": []
   },
@@ -199,9 +190,9 @@
   {
    "tema": "temblor",
    "busquedas": "200+",
-   "nota": "Sismo de magnitud 4.1 sacude Oaxaca y activa monitoreo del SSN",
-   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/46297_sismo-de-magnitud-41-sacude-oaxaca-y-activa-monitoreo-del-ssn.htm",
-   "medio": "Identidad Correntina",
+   "nota": "Temblor en EEUU: los reportes de sismos el domingo 15 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-domingo-15-de-noviembre-nid15112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
@@ -212,6 +203,15 @@
    "nota_url": "https://www.paparazzi.com.ar/romances/se-separaron-despues-de-20-anos-juntos-tienen-dos-hijos-en-comun-y-ella-ahora-presento-a-su-nuevo-novio-a-los-50/",
    "medio": "Revista Paparazzi",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "domingo cavallo",
+   "busquedas": "100+",
+   "nota": "Alerta de Domingo Cavallo: \"Si el Gobierno no toma medidas, hay riesgo de que se destartale todo antes de las elecciones\"",
+   "nota_url": "https://www.ambito.com/economia/alerta-domingo-cavallo-si-el-gobierno-no-toma-medidas-hay-riesgo-que-se-destartale-todo-antes-las-elecciones-n6346515",
+   "medio": "Ambito",
+   "relevante": true,
    "temas": []
   }
  ],
