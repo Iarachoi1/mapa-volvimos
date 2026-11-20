@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 05:10",
+ "actualizado": "20/11 06:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,14 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -69,26 +69,14 @@
    "temas": []
   },
   {
-   "tema": "#NAYEON_NAsty",
-   "url": "https://x.com/search?q=%23NAYEON_NAsty",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Rodrigo de la Serna",
    "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#í¸ìì´ì¤",
-   "url": "https://x.com/search?q=%23%C3%AD%C2%8A%C2%B8%C3%AC%C2%99%C2%80%C3%AC%C2%9D%C2%B4%C3%AC%C2%8A%C2%A4",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Niko",
-   "url": "https://x.com/search?q=Niko",
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +93,124 @@
    "temas": []
   },
   {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Mandy",
    "url": "https://x.com/search?q=Mandy",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "elise",
-   "url": "https://x.com/search?q=elise",
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ley de Discapacidad",
+   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Don Omar",
+   "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "pronostico",
+   "tema": "allanamiento",
+   "busquedas": "200+",
+   "nota": "Cayó “La Orco” en La Plata: tiene 19 años, está acusada de apuñalar a un hombre y vendía droga junto a una cantera",
+   "nota_url": "https://www.laplata1.com/2026-11-19/cayo-la-orco-en-la-plata-tiene-19-anos-esta-acusada-de-apunalar-a-un-hombre-y-vendia-droga-junto-a-una-cantera-127242/",
+   "medio": "La Plata 1",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "masterchef",
    "busquedas": "1000+",
-   "nota": "Hay alerta amarilla por tormentas para este viernes 20 de noviembre en Corrientes: las zonas afectadas",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/20/hay-alerta-amarilla-por-tormentas-para-este-viernes-20-de-noviembre-en-corrientes-las-zonas-afectadas/",
+   "nota": "En Intrusos contaron lo que no se vio del cruce entre Rocío Robles y Karina Mazzocco en Masterchef: «Detrás de cámara…",
+   "nota_url": "https://moskitamuerta.com/2026/11/19/en-intrusos-contaron-lo-que-no-se-vio-del-cruce-entre-rocio-robles-y-karina-mazzocco-en-masterchef-detras-de-camara/",
+   "medio": "Moskita Muerta",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "tiempo de hoy",
+   "busquedas": "200+",
+   "nota": "Persisten las lluvias en Tucumán y el viernes podrían darse tormentas intensas en el este bonaerense",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/persisten-las-lluvias-en-tucuman-y-el-viernes-podrian-darse-tormentas-intensas-en-el-este-bonaerense.html",
+   "medio": "Meteored Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima posadas",
+   "busquedas": "200+",
+   "nota": "Tiempo: Nubosidad variable y cálido. Chaparrones por la tarde",
+   "nota_url": "https://noticiasdel6.com/tiempo-nubosidad-variable-y-calido-chaparrones-por-la-tarde-3/",
+   "medio": "Noticiasdel6.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club deportivo maipú",
+   "busquedas": "200+",
+   "nota": "Polémica en el ascenso: le dieron por ganado el partido a Deportivo Madryn contra Maipú",
+   "nota_url": "https://www.rionegro.com.ar/deportes/futbol/polemica-en-el-ascenso-le-dieron-por-ganado-el-partido-a-deportivo-madryn-contra-maipu-4805349/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "discapacidad",
+   "busquedas": "1000+",
+   "nota": "El Senado sancionó por unanimidad la nueva ley de Discapacidad",
+   "nota_url": "https://www.clarin.com/politica/senado-sanciono-unanimidad-nueva-ley-discapacidad_0_Ylvom4hFlv.html",
+   "medio": "Clarín",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "clima santa fe",
+   "busquedas": "200+",
+   "nota": "Clima en Santa Fe hoy jueves 19 de noviembre: cielo cubierto y temperatura cálida",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/19/clima-en-santa-fe-hoy-jueves-19-de-noviembre-cielo-cubierto-y-temperatura-calida/",
    "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islas malvinas",
+   "busquedas": "200+",
+   "nota": "El emotivo homenaje de los excombatientes del CECIM La Plata que regresaron a las Islas Malvinas",
+   "nota_url": "https://www.0221.com.ar/la-plata/el-emotivo-homenaje-los-excombatientes-del-cecim-la-plata-que-regresaron-las-islas-malvinas-n137494",
+   "medio": "0221",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima parana",
    "busquedas": "200+",
-   "nota": "Persiste la situación meteorológica verde en Entre Ríos",
-   "nota_url": "https://portal.entrerios.gov.ar/noticias/81434",
-   "medio": "Gobierno de Entre Ríos",
+   "nota": "Llueve en Paraná con intensa actividad eléctrica y fuertes truenos: cómo seguirá la jornada",
+   "nota_url": "https://www.elonce.com/parana/una-tormenta-con-intensa-actividad-electrica-llego-a-parana-durante-la-madrugada.htm",
+   "medio": "Elonce.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima plata",
-   "busquedas": "200+",
-   "nota": "Aniversario de La Plata con sol y buen tiempo: cómo estará el clima este jueves",
-   "nota_url": "https://www.eldia.com/la-ciudad/aniversario-de-la-plata-con-sol-y-buen-tiempo-como-estara-el-clima-este-jueves-la-ciudad_1795085400",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el tiempo",
-   "busquedas": "200+",
-   "nota": "Hay alerta naranja y amarilla por tormentas y lluvias para este viernes 20 de noviembre: las provincias afectadas",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-viernes-20-de-noviembre-las-nid20112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fin de semana",
-   "busquedas": "500+",
-   "nota": "Calor, lluvias y tormentas: cómo estará el tiempo en el AMBA durante los próximos días",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/19/calor-lluvias-y-tormentas-como-estara-el-tiempo-en-el-amba-durante-los-proximos-dias/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jesica cirio",
-   "busquedas": "200+",
-   "nota": "Yategate: solicitaron nuevamente a la Justicia que se incorporen como prueba los videos de Jesica Cirio en el vestidor",
-   "nota_url": "https://tn.com.ar/politica/2026/11/16/yategate-solicitaron-nuevamente-a-la-justicia-que-se-incorporen-como-prueba-los-videos-de-jesica-cirio-en-el-vestidor/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "humedad",
-   "busquedas": "500+",
-   "nota": "Traducción de qué es saber jugar finales, Arruabarrena dixit",
-   "nota_url": "https://www.ole.com.ar/opinion/arruabarrena-boca-final-copa-sudamericana_0_XfxD0IqwAK.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tesla argentina",
+   "tema": "clima rafaela",
    "busquedas": "100+",
-   "nota": "Tesla llega a la Argentina: cómo venderá sus autos y por qué desafía a los concesionarios tradicionales",
-   "nota_url": "https://www.ambito.com/autos/tesla-llega-la-argentina-como-vendera-sus-y-que-desafia-los-concesionarios-tradicionales-n6346632",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "loan",
-   "busquedas": "200+",
-   "nota": "Man City to be hit with Premier League sanctions next year if appeal fails",
-   "nota_url": "https://www.ft.com/content/a7e0f7f2-d98c-4888-b211-00c1383d1b8c?syn-25a6b1a6=1",
-   "medio": "Financial Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "villa maria ya",
-   "busquedas": "200+",
-   "nota": "¿Se viene? Alertan sobre posibles tormentas en Villa María y zona",
-   "nota_url": "https://villamariaya.com/el-tiempo/se-viene-alertan-sobre-posibles-tormentas-en-villa-maria-y-zona_1795122788",
-   "medio": "Villa Maria Ya",
+   "nota": "Clima en Rafaela hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/santa-fe/rafaela/clima-en-rafaela-hoy-cual-es-el-pronostico-del-tiempo-para-el-18-de-noviembre-de-2026-nid17112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
