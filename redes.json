@@ -1,13 +1,7 @@
 {
- "actualizado": "20/11 11:07",
+ "actualizado": "20/11 12:45",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
@@ -15,14 +9,8 @@
    "temas": []
   },
   {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ARMYONMNET",
-   "url": "https://x.com/search?q=%23ARMYONMNET",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
@@ -39,26 +27,20 @@
    "temas": []
   },
   {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "#DaesangForBTS",
+   "url": "https://x.com/search?q=%23DaesangForBTS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "#ARMYONMNET",
+   "url": "https://x.com/search?q=%23ARMYONMNET",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +51,20 @@
    "temas": []
   },
   {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Malvinas",
    "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
    "relevante": false,
    "temas": []
   },
@@ -99,6 +93,12 @@
    "temas": []
   },
   {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
    "relevante": false,
@@ -111,106 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Cada 20",
-   "url": "https://x.com/search?q=Cada%2020",
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Juan Manuel de Rosas",
-   "url": "https://x.com/search?q=Juan%20Manuel%20de%20Rosas",
-   "relevante": false,
+   "tema": "Ley de Discapacidad",
+   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
+   "relevante": true,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "carlos alcaraz",
-   "busquedas": "1000+",
-   "nota": "Alcaraz retrasa su entrenamiento y calentará una hora antes de su partido",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/20/alcaraz-retrasa-su-entrenamiento-y-calentara-una-hora-antes-de-su-partido/",
+   "tema": "dolar blue",
+   "busquedas": "2000+",
+   "nota": "Dólar hoy: todas las cotizaciones alcanzaron nuevos máximos y el real brasileño profundizó su baja",
+   "nota_url": "https://www.infobae.com/economia/2026/11/19/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-tras-la-caida-del-real-brasileno-y-el-record-del-contado-con-liqui/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lance broadway",
-   "busquedas": "100+",
-   "nota": "Ex-MLB pitcher and actor found dead in apartment stairwell. Here’s what we know",
-   "nota_url": "https://sports.yahoo.com/articles/ex-mlb-pitcher-actor-found-100159515.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bo derek",
-   "busquedas": "100+",
-   "nota": "Bo Derek turns 70 – see her today 47 years on from iconic '10' beach moment",
-   "nota_url": "https://www.hellomagazine.com/us/936185/bo-derek-turns-70-see-her-today-47-years-on-from-iconic-10-beach-moment/",
-   "medio": "HELLO!",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sequía",
-   "busquedas": "100+",
-   "nota": "La sequía deja a miles de centroamericanos en inseguridad alimentaria en el Corredor Seco",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/18/la-sequia-deja-a-miles-de-centroamericanos-en-inseguridad-alimentaria-en-el-corredor-seco/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clube atlético mineiro",
+   "tema": "calchín oeste",
    "busquedas": "200+",
-   "nota": "Atlético-MG tenta transformar trauma de 2025 em combustível por título",
-   "nota_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-tenta-transformar-trauma-de-2025-em-combustivel-por-titulo/",
-   "medio": "CNN Brasil",
+   "nota": "Fuerte tormenta en Córdoba: ráfagas de 90 km/h, lluvias de más de 110 milímetros, evacuados y cortes de luz",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/20/fuerte-tormenta-en-cordoba-rafagas-de-90-kmh-lluvias-de-mas-de-110-milimetros-evacuados-y-cortes-de-luz/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pity alvarez",
-   "busquedas": "200+",
-   "nota": "Hoy se conocerá la sentencia contra Pity Álvarez: podría recibir hasta 18 años y seis meses de prisión por el crimen de su vecino en Villa Lugano",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/20/hoy-se-conocera-la-sentencia-contra-pity-alvarez-podria-recibir-hasta-18-anos-y-seis-meses-de-prision-por-el-crimen-de-su-vecino/",
+   "tema": "fabián vargas",
+   "busquedas": "100+",
+   "nota": "El gesto de Leandro Paredes con un histórico de Boca antes del primer entrenamiento en Colombia",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/19/video-leandro-paredes-se-bajo-del-micro-y-fue-a-saludar-a-un-historico-de-boca-antes-del-primer-entrenamiento-en-barranquilla/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "entierro",
-   "busquedas": "1000+",
-   "nota": "Ceremonia conmemorativa y entierro de los restos del mártir Nguyen Van Don en el cementerio de los mártires de Thanh Son.",
-   "nota_url": "https://www.vietnam.vn/es/truy-dieu-va-an-tang-hai-cot-liet-si-nguyen-van-don-tai-nghia-trang-liet-si-thanh-son",
-   "medio": "Vietnam.vn",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "actor de you",
+   "tema": "año escolar",
    "busquedas": "200+",
-   "nota": "Alexander Haskin: el actor de You y The Rookie murió ahogado tras saltar de un muelle en California",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/alexander-haskin-actor-you-the-rookie-murio-ahogado-saltar-muelle-california_0_OTPqJx0Fng.html",
-   "medio": "La Voz del Interior",
+   "nota": "Aprueban el calendario escolar 2027 en Córdoba: las fechas, inicio de clases y vacaciones",
+   "nota_url": "https://www.cba24n.com.ar/cordoba/aprueban-el-calendario-escolar-2027-en-cordoba--las-fechas--inicio-de-clases-y-vacaciones_a6b001960f4e774be059e2161",
+   "medio": "Cba24n",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa sudamericana",
+   "busquedas": "1000+",
+   "nota": "Aranda o Velasco, ¿quién debe ser titular en Boca para la final de la Sudamericana?",
+   "nota_url": "https://www.tycsports.com/boca-juniors/tomas-aranda-o-alan-velasco-boca-final-copa-sudamericana-id772299.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pronostico corrientes",
-   "busquedas": "100+",
-   "nota": "Rige una doble alerta por tormentas fuertes en Corrientes",
-   "nota_url": "https://www.diarioepoca.com/1395638-rige-una-doble-alerta-por-tormentas-fuertes-en-corrientes",
-   "medio": "Diario Época Corrientes",
+   "tema": "riesgo pais",
+   "busquedas": "5000+",
+   "nota": "El riesgo país contagia al dólar: crece la brecha cambiaria y amenaza con encarecer las tasas y golpear a la actividad",
+   "nota_url": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-contagia-al-dolar-crece-la-brecha-cambiaria-y-amenaza-con-encarecer-las-tasas-y-golpear-a-la-actividad/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "saturnino",
+   "tema": "pablo alabarces",
+   "busquedas": "200+",
+   "nota": "Emotiva despedida en la UBA: un reconocido profesor terminó su última clase con una canción de The Beatles y recibió una ovación",
+   "nota_url": "https://www.ambito.com/informacion-general/emotiva-despedida-la-uba-un-reconocido-profesor-termino-su-ultima-clase-una-cancion-the-beatles-y-recibio-una-ovacion-n6347479",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "basura",
+   "busquedas": "200+",
+   "nota": "San Isidro: la campaña del intendente Ramón Lanús que provocó críticas y memes",
+   "nota_url": "https://www.diariopopular.com.ar/politica/san-isidro-la-campana-del-intendente-ramon-lanus-que-provoco-criticas-y-memes-n930012",
+   "medio": "Diario Popular",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "rodrigo atencio",
    "busquedas": "100+",
-   "nota": "De estrella de la playa a explorador del mar: Saturnino cumple un mes",
-   "nota_url": "https://www.lu22.com.ar/2026/11/17/de-estrella-de-la-playa-a-explorador-del-mar-saturnino-cumple-un-mes",
-   "medio": "LU22 Radio Tandil",
+   "nota": "Jugó en Independiente, y su actual club analiza pagar su cláusula para quedárselo",
+   "nota_url": "https://elintransigente.com/2026/11/20/rodrigo-atencio-jugo-independiente-actual-club-analiza-pagar-clausula-quedarselo/",
+   "medio": "El Intransigente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos alcaraz",
+   "busquedas": "2000+",
+   "nota": "Incógnita despejada: Alcaraz saltará a la cancha contra Cobolli",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/19/incognita-despejada-alcaraz-saltara-a-la-cancha-contra-cobolli/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
