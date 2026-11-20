@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 09:51",
+ "actualizado": "20/11 11:07",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,18 +11,6 @@
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -39,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#BTSMAMAVOTE",
-   "url": "https://x.com/search?q=%23BTSMAMAVOTE",
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
    "relevante": false,
    "temas": []
   },
@@ -69,15 +63,15 @@
    "temas": []
   },
   {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
    "temas": []
   },
   {
@@ -105,14 +99,14 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -121,33 +115,75 @@
    "url": "https://x.com/search?q=Cada%2020",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Juan Manuel de Rosas",
+   "url": "https://x.com/search?q=Juan%20Manuel%20de%20Rosas",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clube atlético mineiro",
+   "tema": "carlos alcaraz",
+   "busquedas": "1000+",
+   "nota": "Alcaraz retrasa su entrenamiento y calentará una hora antes de su partido",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/20/alcaraz-retrasa-su-entrenamiento-y-calentara-una-hora-antes-de-su-partido/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lance broadway",
    "busquedas": "100+",
-   "nota": "Atlético-MG viaja com elenco completo para a final da Sul-Americana com apoio da torcida",
-   "nota_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/18/atletico-mg-viaja-com-elenco-completo-para-a-final-da-sul-americana-com-apoio-da-torcida.ghtml",
-   "medio": "ge",
+   "nota": "Ex-MLB pitcher and actor found dead in apartment stairwell. Here’s what we know",
+   "nota_url": "https://sports.yahoo.com/articles/ex-mlb-pitcher-actor-found-100159515.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bo derek",
+   "busquedas": "100+",
+   "nota": "Bo Derek turns 70 – see her today 47 years on from iconic '10' beach moment",
+   "nota_url": "https://www.hellomagazine.com/us/936185/bo-derek-turns-70-see-her-today-47-years-on-from-iconic-10-beach-moment/",
+   "medio": "HELLO!",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sequía",
+   "busquedas": "100+",
+   "nota": "La sequía deja a miles de centroamericanos en inseguridad alimentaria en el Corredor Seco",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/18/la-sequia-deja-a-miles-de-centroamericanos-en-inseguridad-alimentaria-en-el-corredor-seco/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "clube atlético mineiro",
+   "busquedas": "200+",
+   "nota": "Atlético-MG tenta transformar trauma de 2025 em combustível por título",
+   "nota_url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-tenta-transformar-trauma-de-2025-em-combustivel-por-titulo/",
+   "medio": "CNN Brasil",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pity alvarez",
-   "busquedas": "100+",
-   "nota": "Juicio a Pity Álvarez: luego de tres meses y 20 audiencias, se conocerá la sentencia por el homicidio que cometió en 2018",
-   "nota_url": "https://www.lanacion.com.ar/seguridad/juicio-a-pity-alvarez-luego-de-tres-meses-y-20-audiencias-se-conocera-la-sentencia-por-el-homicidio-nid20112026/",
-   "medio": "La Nación",
+   "busquedas": "200+",
+   "nota": "Hoy se conocerá la sentencia contra Pity Álvarez: podría recibir hasta 18 años y seis meses de prisión por el crimen de su vecino en Villa Lugano",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/20/hoy-se-conocera-la-sentencia-contra-pity-alvarez-podria-recibir-hasta-18-anos-y-seis-meses-de-prision-por-el-crimen-de-su-vecino/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "entierro",
-   "busquedas": "200+",
-   "nota": "El jefe del Pentágono anunció un acuerdo de cooperación militar con Venezuela",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/18/el-jefe-del-pentagono-anuncio-un-acuerdo-de-cooperacion-militar-con-venezuela/",
-   "medio": "Página|12",
+   "busquedas": "1000+",
+   "nota": "Ceremonia conmemorativa y entierro de los restos del mártir Nguyen Van Don en el cementerio de los mártires de Thanh Son.",
+   "nota_url": "https://www.vietnam.vn/es/truy-dieu-va-an-tang-hai-cot-liet-si-nguyen-van-don-tai-nghia-trang-liet-si-thanh-son",
+   "medio": "Vietnam.vn",
    "relevante": false,
    "temas": []
   },
@@ -175,42 +211,6 @@
    "nota": "De estrella de la playa a explorador del mar: Saturnino cumple un mes",
    "nota_url": "https://www.lu22.com.ar/2026/11/17/de-estrella-de-la-playa-a-explorador-del-mar-saturnino-cumple-un-mes",
    "medio": "LU22 Radio Tandil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafaela noticias",
-   "busquedas": "200+",
-   "nota": "La tormenta pasó en una noche, el operativo sigue en la calle: Rafaela trabaja para volver a la normalidad",
-   "nota_url": "https://rafaelainforma.com/contenido/34035/la-tormenta-paso-en-una-noche-el-operativo-sigue-en-la-calle-rafaela-trabaja-par",
-   "medio": "Rafaela Informa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima tandil",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gran premio de las vegas",
-   "busquedas": "2000+",
-   "nota": "¿Cómo le fue a Checo Pérez en la segunda práctica del GP de Las Vegas?",
-   "nota_url": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/17537056/como-le-fue-checo-practicas-clasificacion-gp-las-vegas",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dia de la soberania nacional",
-   "busquedas": "1000+",
-   "nota": "El Cabildo se ilumina por el Día de la Soberanía Nacional",
-   "nota_url": "https://prensa.municipalidadsalta.gob.ar/el-cabildo-se-ilumina-por-el-dia-de-la-soberania-nacional/",
-   "medio": "Municipalidad de Salta",
    "relevante": false,
    "temas": []
   }
