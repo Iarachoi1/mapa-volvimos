@@ -1,7 +1,31 @@
 {
- "actualizado": "20/11 06:49",
+ "actualizado": "20/11 07:49",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ARMYONMNET",
+   "url": "https://x.com/search?q=%23ARMYONMNET",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
@@ -17,6 +41,12 @@
   {
    "tema": "Jason",
    "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -39,15 +69,21 @@
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
+   "tema": "#ENHYPEN",
+   "url": "https://x.com/search?q=%23ENHYPEN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "la campagnola",
+   "url": "https://x.com/search?q=la%20campagnola",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
@@ -57,9 +93,9 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
    "temas": []
   },
   {
@@ -75,18 +111,6 @@
    "temas": []
   },
   {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MLBS7Spoilers",
-   "url": "https://x.com/search?q=%23MLBS7Spoilers",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Marta Fort",
    "url": "https://x.com/search?q=Marta%20Fort",
    "relevante": false,
@@ -97,36 +121,57 @@
    "url": "https://x.com/search?q=Mandy",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ley de Discapacidad",
-   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Don Omar",
-   "url": "https://x.com/search?q=Don%20Omar",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "allanamiento",
+   "tema": "clima tandil",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gran premio de las vegas",
+   "busquedas": "1000+",
+   "nota": "Corre Franco Colapinto en la Fórmula 1: días y horarios del GP de Las Vegas",
+   "nota_url": "https://www.filo.news/noticia/2026/11/19/corre-franco-colapinto-en-la-formula-1-dias-y-horarios-del-gp-de-las-vegas",
+   "medio": "Filo News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "patrick stewart",
    "busquedas": "200+",
+   "nota": "Sir Patrick Stewart had water cremation as cause of death confirmed",
+   "nota_url": "https://www.thepinknews.com/2026/11/20/patrick-stewart-death-certificate-2026/",
+   "medio": "PinkNews",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de la soberania nacional",
+   "busquedas": "200+",
+   "nota": "La soberanía nacional",
+   "nota_url": "https://www.lanacion.com.ar/opinion/la-soberania-nacional-nid20112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tito speranza",
+   "busquedas": "500+",
+   "nota": "“Sin querer, le saqué lo que él más quería”: Tito Speranza recuerda su historia con Ricardo Fort y cuenta su presente lejos de la tele",
+   "nota_url": "https://www.infobae.com/reportajes/2026/11/20/sin-querer-le-saque-lo-que-el-mas-queria-tito-speranza-recuerda-su-historia-con-ricardo-fort-y-cuenta-su-presente-lejos-de-la-tele/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "allanamiento",
+   "busquedas": "500+",
    "nota": "Cayó “La Orco” en La Plata: tiene 19 años, está acusada de apuñalar a un hombre y vendía droga junto a una cantera",
    "nota_url": "https://www.laplata1.com/2026-11-19/cayo-la-orco-en-la-plata-tiene-19-anos-esta-acusada-de-apunalar-a-un-hombre-y-vendia-droga-junto-a-una-cantera-127242/",
    "medio": "La Plata 1",
@@ -134,83 +179,38 @@
    "temas": []
   },
   {
-   "tema": "masterchef",
-   "busquedas": "1000+",
-   "nota": "En Intrusos contaron lo que no se vio del cruce entre Rocío Robles y Karina Mazzocco en Masterchef: «Detrás de cámara…",
-   "nota_url": "https://moskitamuerta.com/2026/11/19/en-intrusos-contaron-lo-que-no-se-vio-del-cruce-entre-rocio-robles-y-karina-mazzocco-en-masterchef-detras-de-camara/",
-   "medio": "Moskita Muerta",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "tiempo de hoy",
-   "busquedas": "200+",
-   "nota": "Persisten las lluvias en Tucumán y el viernes podrían darse tormentas intensas en el este bonaerense",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/persisten-las-lluvias-en-tucuman-y-el-viernes-podrian-darse-tormentas-intensas-en-el-este-bonaerense.html",
-   "medio": "Meteored Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima posadas",
-   "busquedas": "200+",
-   "nota": "Tiempo: Nubosidad variable y cálido. Chaparrones por la tarde",
-   "nota_url": "https://noticiasdel6.com/tiempo-nubosidad-variable-y-calido-chaparrones-por-la-tarde-3/",
-   "medio": "Noticiasdel6.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club deportivo maipú",
-   "busquedas": "200+",
-   "nota": "Polémica en el ascenso: le dieron por ganado el partido a Deportivo Madryn contra Maipú",
-   "nota_url": "https://www.rionegro.com.ar/deportes/futbol/polemica-en-el-ascenso-le-dieron-por-ganado-el-partido-a-deportivo-madryn-contra-maipu-4805349/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "discapacidad",
-   "busquedas": "1000+",
-   "nota": "El Senado sancionó por unanimidad la nueva ley de Discapacidad",
-   "nota_url": "https://www.clarin.com/politica/senado-sanciono-unanimidad-nueva-ley-discapacidad_0_Ylvom4hFlv.html",
-   "medio": "Clarín",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima santa fe",
-   "busquedas": "200+",
-   "nota": "Clima en Santa Fe hoy jueves 19 de noviembre: cielo cubierto y temperatura cálida",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/19/clima-en-santa-fe-hoy-jueves-19-de-noviembre-cielo-cubierto-y-temperatura-calida/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "islas malvinas",
-   "busquedas": "200+",
-   "nota": "El emotivo homenaje de los excombatientes del CECIM La Plata que regresaron a las Islas Malvinas",
-   "nota_url": "https://www.0221.com.ar/la-plata/el-emotivo-homenaje-los-excombatientes-del-cecim-la-plata-que-regresaron-las-islas-malvinas-n137494",
-   "medio": "0221",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima parana",
-   "busquedas": "200+",
-   "nota": "Llueve en Paraná con intensa actividad eléctrica y fuertes truenos: cómo seguirá la jornada",
-   "nota_url": "https://www.elonce.com/parana/una-tormenta-con-intensa-actividad-electrica-llego-a-parana-durante-la-madrugada.htm",
-   "medio": "Elonce.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima rafaela",
+   "tema": "mastercard",
    "busquedas": "100+",
-   "nota": "Clima en Rafaela hoy: cuál es el pronóstico del tiempo para el 18 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/santa-fe/rafaela/clima-en-rafaela-hoy-cual-es-el-pronostico-del-tiempo-para-el-18-de-noviembre-de-2026-nid17112026/",
-   "medio": "La Nación",
+   "nota": "JPMorganChase, Mastercard, Visa report cyberattack on third-party service providers",
+   "nota_url": "https://abcnews.com/US/jpmorgan-chase-reports-cyberattack-party-service-providers/story?id=138287705",
+   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "masterchef",
+   "busquedas": "500+",
+   "nota": "El comentario sin filtro de Lizy Tagliani en MasterChef que dejó a Wanda Nara sin palabras",
+   "nota_url": "https://www.noticiasdebariloche.com.ar/el-comentario-sin-filtro-de-lizy-tagliani-en-masterchef-que-dejo-a-wanda-nara-sin-palabras/",
+   "medio": "Noticias de Bariloche",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jose luis choque",
+   "busquedas": "200+",
+   "nota": "Repechaje Cuestión de peso: José Luis Choque no esperaba el veredicto del público y se sorprendió al quedar eliminado",
+   "nota_url": "https://www.eltrecetv.com.ar/cuestion-de-peso/2026/11/19/repechaje-cuestion-de-peso-jose-luis-choque-no-esperaba-el-veredicto-del-publico-y-se-sorprendio-al-quedar-eliminado/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima formosa",
+   "busquedas": "100+",
+   "nota": "Llega una fuerte ola de calor a Formosa con máximas de hasta 43°C",
+   "nota_url": "https://www.noticiasformosa.com.ar/2026/11/12/llega-una-fuerte-ola-de-calor-a-formosa-con-maximas-de-hasta-43c/",
+   "medio": "NoticiasFormosa",
    "relevante": false,
    "temas": []
   }
