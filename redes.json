@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 19:35",
+ "actualizado": "20/11 20:36",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,20 +39,26 @@
    "temas": []
   },
   {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "#DAESANGFORBTS",
    "url": "https://x.com/search?q=%23DAESANGFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riesgo PaÃ­s",
+   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Pity Ãlvarez",
-   "url": "https://x.com/search?q=Pity%20%C3%83%C2%81lvarez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riesgo PaÃ­s",
-   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pity Ãlvarez",
+   "url": "https://x.com/search?q=Pity%20%C3%83%C2%81lvarez",
    "relevante": false,
    "temas": []
   },
@@ -99,20 +99,8 @@
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "#VOTEFORBTS",
    "url": "https://x.com/search?q=%23VOTEFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
@@ -121,96 +109,108 @@
    "url": "https://x.com/search?q=%23ARMYONMNET",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "cambio climático",
+   "tema": "bucaramanga - américa",
    "busquedas": "200+",
-   "nota": "Cómo dos palabras podrían descarrilar la mayor conferencia mundial sobre el clima",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/20/clima-y-tiempo/palabras-descarrilar-conferencia-clima-trax",
-   "medio": "CNN en Español",
+   "nota": "América inicia el camino hacia su segunda final del año",
+   "nota_url": "https://leanotas.com/america-inicia-el-camino-hacia-su-segunda-final-del-ano/",
+   "medio": "leanotas.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mauricio pochettino",
+   "tema": "cinco saltos",
    "busquedas": "100+",
-   "nota": "Five European teams to watch as Mauricio Pochettino begins Manchester United era",
-   "nota_url": "https://www.cbssports.com/soccer/news/five-european-teams-to-watch-as-mauricio-pochettino-begins-manchester-united-era/",
-   "medio": "CBS Sports",
+   "nota": "Cinco Saltos: terminó el segundo día de búsqueda del hombre que cayó al canal de riego",
+   "nota_url": "https://www.rionegro.com.ar/sociedad/cinco-saltos-termino-el-segundo-dia-de-busqueda-del-hombre-que-cayo-al-canal-de-riego-4805857/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "vélez - belgrano",
-   "busquedas": "2000+",
-   "nota": "Vélez y Belgrano inauguran los playoffs del Torneo Clausura",
-   "nota_url": "https://www.ole.com.ar/futbol-primera/belgrano-velez-torneo-clausura-playoffs-ricardo-zielinski-guillermo-barros-schelotto_0_YTralsBUQ8.html",
+   "tema": "2030",
+   "busquedas": "100+",
+   "nota": "F1 will return to V8 engines in 2030 after unanimous deal with manufacturers",
+   "nota_url": "https://www.nytimes.com/athletic/7798528/2026/11/20/f1-v8-engine-return-2030-announcement-fia/",
+   "medio": "The New York Times",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "levent alpöge",
+   "busquedas": "500+",
+   "nota": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+   "nota_url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b",
+   "medio": "WSJ",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vix index",
+   "busquedas": "100+",
+   "nota": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
+   "nota_url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90",
+   "medio": "Barron's",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "china",
+   "busquedas": "200+",
+   "nota": "New images emerge of suspected Chinese intelligence asset linked to Nvidia's ex-boss",
+   "nota_url": "https://www.cnn.com/2026/11/16/business/video/ebof-will-ripley-alice-huang-affair-nvidia-jensen-huang-hnk-digvid",
+   "medio": "CNN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "s&p 500",
+   "busquedas": "200+",
+   "nota": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+   "nota_url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "medio": "CNBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lucas martínez quarta",
+   "busquedas": "200+",
+   "nota": "Martínez Quarta puede irse de River: los tres clubes que lo buscan en el mercado de pases",
+   "nota_url": "https://www.eldestapeweb.com/centroatras/futbol/martinez-quarta-puede-irse-river-tres-clubes-buscan-mercado-pases-2026112193244",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "promedio industrial dow jones",
+   "busquedas": "100+",
+   "nota": "S&P 500 entra en corrección tras caída de Anthropic y dudas por la IA, mientras el oro se hunde",
+   "nota_url": "https://www.bloomberglinea.com/mercados/sp-500-y-nasdaq-caen-tras-retroceso-de-anthropic-y-temor-a-nuevas-alzas-de-tasas-de-la-fed/",
+   "medio": "Bloomberg Línea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "frank darío kudelka",
+   "busquedas": "200+",
+   "nota": "Le redujeron la sanción a Kudelka y podrá dirigir los octavos del Clausura ante Gimnasia",
+   "nota_url": "https://www.ole.com.ar/newells-old-boys/redujeron-sancion-kudelka-podra-dirigir-vs-gimnasia_0_Js9mxhi0Np.html",
    "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de athletic club contra rcd espanyol de barcelona",
-   "busquedas": "500+",
-   "nota": "Athletic line up Yeray, Prados and Sancet vs Espanyol",
-   "nota_url": "https://www.tufutbolero.com/en/news/athletic-line-up-yeray-prados-and-sancet-vs-espanyol-93d4c1",
-   "medio": "Tu Futbolero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "conmebol sudamericana",
-   "busquedas": "2000+",
-   "nota": "Boca tuvo su primer entrenamiento en Barranquilla de cara a la final de la Sudamericana",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17536490/boca-primer-entrenamiento-barranquilla-arruabarrena-final-atletico-mineiro-sudamericana",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alexander haskin actor",
-   "busquedas": "500+",
-   "nota": "Alexander Haskin: el actor de You y The Rookie murió ahogado tras saltar de un muelle en California",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/alexander-haskin-actor-you-the-rookie-murio-ahogado-saltar-muelle-california_0_OTPqJx0Fng.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gasto",
-   "busquedas": "200+",
-   "nota": "Gobierno argentino aprueba proyecto Argentina LNG por 50.750 mln dlrs para régimen incentivos",
-   "nota_url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L2N4710TX:0/",
-   "medio": "TradingView",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "legislador",
-   "busquedas": "500+",
-   "nota": "Tras romper con los libertarios en Diputados, Mariano Campero pidió que Bullrich compita por la presidencia",
-   "nota_url": "https://www.eltucumano.com/amp/noticia/actualidad/328084/tras-romper-con-los-libertarios-en-diputados-mariano-campero-pidio-que-bullrich-compita-por-la-presidencia",
-   "medio": "El Tucumano",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "juan fernando quintero",
-   "busquedas": "200+",
-   "nota": "Juanfer Quintero: respondió su representante por salida del DIM para volver a River Plate",
-   "nota_url": "https://www.semana.com/deportes/articulo/juanfer-quintero-respondio-su-representante-por-salida-del-dim-para-volver-a-river-plate/202608/",
-   "medio": "Revista Semana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "columbus crew",
-   "busquedas": "100+",
-   "nota": "November 22, 2026: Nashville vs Cincinnati: First Half Winner Prediction Market",
-   "nota_url": "https://robinhood.com/us/en/prediction-markets/soccer/events/nashville-vs-cincinnati-first-half-winner-nov-22-2026/",
-   "medio": "Robinhood",
    "relevante": false,
    "temas": []
   }
