@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 21:40",
+ "actualizado": "19/11 22:57",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "#JuanicarPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23JuanicarPersonajeDelA%C3%83%C2%B1o",
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +57,20 @@
    "temas": []
   },
   {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
    "temas": []
   },
   {
    "tema": "Rodrigo de la Serna",
    "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Ley de Discapacidad",
-   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "#JuanicarPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23JuanicarPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -105,14 +99,14 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "tema": "#ruidoxnicki",
+   "url": "https://x.com/search?q=%23ruidoxnicki",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Diego Iglesias",
-   "url": "https://x.com/search?q=Diego%20Iglesias",
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
@@ -121,96 +115,102 @@
    "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Ley de Discapacidad",
+   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
+   "relevante": true,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "joaquín freitas",
+   "tema": "tini stoessel",
    "busquedas": "200+",
-   "nota": "River confirmó en reunión de Comisión Directiva el monto oficial de la venta de Joaquín Freitas a Flamengo",
-   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/river-confirmo-en-reunion-de-comision-directiva-el-monto-oficial-de-la-venta-de-joaquin-freitas-a-flamengo",
-   "medio": "La Página Millonaria",
+   "nota": "Rodrigo De Paul mostró cómo se prepara para su boda con Tini Stoessel: “En un mes me caso”",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/19/rodrigo-de-paul-mostro-como-se-prepara-para-su-boda-con-tini-stoessel-en-un-mes-me-caso/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mercado negro de divisas",
+   "tema": "club atlético talleres",
+   "busquedas": "200+",
+   "nota": "Proyección. Talleres quiere llegar a los playoffs como puntero de Reserva: qué necesita",
+   "nota_url": "https://www.lavoz.com.ar/deportes/talleres-quiere-llegar-playoffs-puntero-reserva-necesita_0_carkGhjsp4.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "barranquilla",
    "busquedas": "2000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 19 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-19-noviembre-n6346965",
-   "medio": "Ambito",
+   "nota": "El pasto de la final: cómo es el nuevo césped híbrido del Metropolitano, la cancha donde Boca buscará volver a gritar campeón",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/el-pasto-de-la-final-como-es-el-nuevo-cesped-hibrido-del-metropolitano-la-cancha-donde-boca-buscara-nid19112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "robo",
-   "busquedas": "500+",
-   "nota": "Video: múltiples allanamientos en Mar del Plata permitieron esclarecer dos entraderas",
-   "nota_url": "https://noticiasmardelplata.com/video-multiples-allanamientos-en-mar-del-plata-permitieron-esclarecer-dos-entraderas/",
-   "medio": "noticiasmardelplata.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "orlando city - cincinnati",
-   "busquedas": "200+",
-   "nota": "Expert Picks and Predictions for Tonight's Matches",
-   "nota_url": "https://www.bettingnews.com/articles/soccer/the-mls-playoffs-kick-off-tonight-with-two-elimination-matches-expert-picks-for-both-games/",
-   "medio": "Betting News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "emergencia",
+   "tema": "ganadería",
    "busquedas": "100+",
-   "nota": "Las 3 noticias para empezar este jueves 19 en Santa Fe: violencia de género en la Legislatura, la milanesa y el Paraná",
-   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-este-jueves-19-violencia-genero-la-legislatura-la-milanesa-y-el-parana-n677341",
-   "medio": "Aire de Santa Fe",
+   "nota": "Santa Fe Produce Sustentable ya suma 330 establecimientos",
+   "nota_url": "https://lasrosasdigital.com.ar/contenido/23439/santa-fe-produce-sustentable-ya-suma-330-establecimientos",
+   "medio": "Las Rosas Digital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "leandro paredes",
+   "busquedas": "500+",
+   "nota": "Ángel Di María se recibió de director técnico ya tiene en carpeta a un excompañero con el que espera trabajar",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/rosario-central/angel-di-maria-se-recibio-de-director-tecnico-ya-tiene-en-carpeta-a-un-excompanero-con-el-que-espera-nid17112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "las vegas",
+   "busquedas": "200+",
+   "nota": "F1 Las Vegas GP: Follow FP1 from Las Vegas with live timing",
+   "nota_url": "https://www.motorsport.com/f1/live-text/f1-las-vegas-gp-follow-fp1-from-las-vegas-with-live-timing-/1128331/",
+   "medio": "Motorsport.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cnu",
+   "busquedas": "100+",
+   "nota": "Concurso PRF Administrativo: novo edital pode sair em 2027?",
+   "nota_url": "https://folha.qconcursos.com/n/concurso-prf-administrativo-ministra-fala-sobre-edital-em-2027",
+   "medio": "Qconcursos Folha Dirigida",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "são paulo - fluminense",
-   "busquedas": "2000+",
-   "nota": "São Paulo terá Danielzinho contra Flu desfalcado por Data Fifa; veja times",
-   "nota_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/19/brasileirao-2026-sao-paulo-fluminense-escalacoes-35-rodada.ghtm",
-   "medio": "UOL",
+   "tema": "timberwolves - knicks",
+   "busquedas": "200+",
+   "nota": "Knicks vs. Timberwolves prediction, odds, line: Proven model reveals NBA picks for Thursday, Nov. 19",
+   "nota_url": "https://www.sportsline.com/insiders/knicks-vs-timberwolves-prediction-odds-line-proven-model-reveals-nba-picks-for-thursday-nov-19/",
+   "medio": "SportsLine",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cuerpo técnico",
+   "tema": "fuego",
+   "busquedas": "200+",
+   "nota": "Alcalde de Cusco alerta que incendio forestal podría alcanzar comunidades campesinas",
+   "nota_url": "https://canaln.pe/peru/alcalde-cusco-alerta-que-incendio-forestal-podria-alcanzar-comunidades-campesinas-n496342",
+   "medio": "Canal N",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "felipe fort",
    "busquedas": "100+",
-   "nota": "Quién es la primera mujer de la historia parte de un cuerpo técnico de Manchester United, de la mano de Mauricio Pochettino",
-   "nota_url": "https://www.tycsports.com/premier-league/quien-es-primera-mujer-historia-parte-cuerpo-tecnico-manchester-united-mano-mauricio-pochettino-id772258.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "racing talleres",
-   "busquedas": "100+",
-   "nota": "Racing sufrió una histórica goleada en Reserva ante Talleres: perdió ¡7-1!",
-   "nota_url": "https://www.ole.com.ar/racing/racing-talleres-reserva_0_kQ5QY66kAy.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo de mañana",
-   "busquedas": "200000+",
-   "nota": "El clima en Rosario: aire veraniego antes de más lluvia",
-   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-aire-veraniego-antes-de-mas-lluvia-20261119-0001.html",
-   "medio": "Rosario3",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lotería",
-   "busquedas": "500+",
-   "nota": "Quini 6: un apostador de Victoria se llevó más de $3.294 millones en La Segunda",
-   "nota_url": "https://www.clarin.com/brandstudio/quini-6-apostador-victoria-llevo-3294-millones-segunda_0_VHWcLr1Klz.html",
-   "medio": "Clarin.com",
+   "nota": "Felipe Fort sufrió un accidente en la ruta mientras viajaba con su novia: “Estaban en shock\"",
+   "nota_url": "https://caras.perfil.com/noticias/actualidad/felipe-fort-sufrio-accidente-ruta-mientras-viajaba-novia-tuvieron-volantear-banquina.phtml",
+   "medio": "Caras",
    "relevante": false,
    "temas": []
   }
