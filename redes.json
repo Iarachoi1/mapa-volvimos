@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 14:48",
+ "actualizado": "20/11 15:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Cristian DÃ­az",
-   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
+   "tema": "Pity Ãlvarez",
+   "url": "https://x.com/search?q=Pity%20%C3%83%C2%81lvarez",
    "relevante": false,
    "temas": []
   },
@@ -39,12 +39,6 @@
    "temas": []
   },
   {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "El Senado",
    "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
@@ -57,14 +51,20 @@
    "temas": []
   },
   {
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "OUR CHOICE IS BTS AT MAMA",
    "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +75,14 @@
    "temas": []
   },
   {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "La Campagnola",
    "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
@@ -111,25 +105,76 @@
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Villa Lugano",
-   "url": "https://x.com/search?q=Villa%20Lugano",
+   "tema": "Riesgo PaÃ­s",
+   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "loan peña laudelina",
+   "busquedas": "200+",
+   "nota": "Caso Loan: José Fernández Codazzi deberá declarar el 26 de noviembre",
+   "nota_url": "https://www.diarioepoca.com/1395587-caso-loan-jose-fernandez-codazzi-debera-declarar-el-26-de-noviembre",
+   "medio": "Diario Época Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "río neuquén",
+   "busquedas": "100+",
+   "nota": "Cipolletti en alerta: especialistas advierten sobre el riesgo de una crecida histórica del río Neuquén",
+   "nota_url": "https://diarioneuquino.com.ar/cipolletti-en-alerta-especialistas-advierten-sobre-el-riesgo-de-una-crecida-historica-del-rio-neuquen/",
+   "medio": "Diario Neuquino",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "festival",
+   "busquedas": "100+",
+   "nota": "Se presentó la 26° edición del Festival Provincial de Nuestro Canto",
+   "nota_url": "https://avellaneda.gob.ar/se-presento-la-26-edicion-del-festival-provincial-de-nuestro-canto/",
+   "medio": "Gobierno de Avellaneda",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima bahia blanca",
+   "busquedas": "500+",
+   "nota": "Se anticipa un martes con viento del sur y descenso de temperatura",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/16/se-anticipa-un-martes-con-viento-del-sur-y-descenso-de-temperatura-n531094/",
+   "medio": "La Brújula 24",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "leonardo ponzio",
    "busquedas": "200+",
    "nota": "River, hoy EN VIVO: los números de la reunión de CD, el 11 vs. Lanús y más noticias del viernes 20 de noviembre",
    "nota_url": "https://www.ole.com.ar/river-plate/river-vivo-ultimas-noticias-novedades-viernes-20-noviembre-lanus-clausura_0_MuZTvCY8pd.html",
    "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "al nassr",
+   "busquedas": "500+",
+   "nota": "Cristiano Ronaldo vuelve a jugar para Al-Nassr tras su retiro de Portugal",
+   "nota_url": "https://www.vermouth-deportivo.com.ar/cristiano-ronaldo-titular-en-al-nassr-tras-retirarse-de-portugal/",
+   "medio": "Vermouth Deportivo",
    "relevante": false,
    "temas": []
   },
@@ -144,7 +189,7 @@
   },
   {
    "tema": "al-ahli saudi - al-nassr",
-   "busquedas": "2000+",
+   "busquedas": "5000+",
    "nota": "Surprise decision: Roshn Saudi League shocks Al-Ahli fans before the Clasico",
    "nota_url": "https://www.yardbarker.com/soccer/articles/surprise_decision_roshn_saudi_league_shocks_al_ahli_fans_before_the_clasico/s1_17790_44581973",
    "medio": "Yardbarker",
@@ -153,64 +198,19 @@
   },
   {
    "tema": "dolar hoy",
-   "busquedas": "10000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 20 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-20-noviembre-n6347436",
-   "medio": "Ambito",
+   "busquedas": "20000+",
+   "nota": "El dólar vuelve a subir y se vende a $1590, un nuevo máximo",
+   "nota_url": "https://tn.com.ar/economia/2026/11/20/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-20-de-noviembre/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "riemann hypothesis",
-   "busquedas": "100+",
-   "nota": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
-   "nota_url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b",
-   "medio": "WSJ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "independiente del valle - macará",
-   "busquedas": "1000+",
-   "nota": "La pelea por Libertadores tiene a Liga y Aucas empatados y a Barcelona contra el reloj",
-   "nota_url": "https://www.elcomercio.com/deportes/futbol/libertadores-barcelona-liga-aucas-cupos-ecuador/",
-   "medio": "El Comercio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "enelsubte",
    "busquedas": "200+",
-   "nota": "Contradicciones del proyecto de la Línea F",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/15/contradicciones-del-proyecto-de-la-linea-f/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cronista",
-   "busquedas": "200+",
-   "nota": "Morgan Stanley recomienda dos acciones argentinas con potencial mayor al 80%",
-   "nota_url": "https://flipr.com.ar/nacionales/economia/finanzas/iprofesional/morgan-stanley-recomienda-dos-acciones-argentinas-con-potencial-mayor-al-80/",
-   "medio": "Flipr.news",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kevin vallejos",
-   "busquedas": "200+",
-   "nota": "Quién es el argentino que va por una pelea histórica en la UFC",
-   "nota_url": "https://www.tycsports.com/polideportivo/quien-es-el-argentino-que-va-por-una-pelea-historica-en-la-ufc-id772328.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "boca mañana",
-   "busquedas": "1000+",
-   "nota": "El gesto de Leandro Paredes con un histórico de Boca antes del primer entrenamiento en Colombia",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/19/video-leandro-paredes-se-bajo-del-micro-y-fue-a-saludar-a-un-historico-de-boca-antes-del-primer-entrenamiento-en-barranquilla/",
-   "medio": "TN",
+   "nota": "Anthropic’s Alpoge claims Claude found Riemann proof",
+   "nota_url": "https://thecondia.com/anthropic-alpoge-claude-riemann-proof/",
+   "medio": "Condia",
    "relevante": false,
    "temas": []
   }
