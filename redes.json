@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 00:42",
+ "actualizado": "20/11 01:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,27 +21,15 @@
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "Jason",
    "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
    "temas": []
   },
   {
@@ -51,14 +39,20 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "la campagnola",
+   "url": "https://x.com/search?q=la%20campagnola",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "#telemetrico",
-   "url": "https://x.com/search?q=%23telemetrico",
+   "tema": "XCRY EN GQ",
+   "url": "https://x.com/search?q=XCRY%20EN%20GQ",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +93,14 @@
    "temas": []
   },
   {
-   "tema": "XCRY EN GQ",
-   "url": "https://x.com/search?q=XCRY%20EN%20GQ",
+   "tema": "Niko Bellic",
+   "url": "https://x.com/search?q=Niko%20Bellic",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marta Fort",
+   "url": "https://x.com/search?q=Marta%20Fort",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +111,49 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "tema": "Mandy",
+   "url": "https://x.com/search?q=Mandy",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ley de Discapacidad",
-   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
-   "relevante": true,
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "humedad",
+   "tema": "fin de semana",
    "busquedas": "200+",
+   "nota": "Vuelven las lluvias: a qué hora se esperan las tormentas este viernes 20, según el Servicio Meteorológico Nacional",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/19/vuelven-las-lluvias-a-que-hora-se-esperan-las-tormentas-este-viernes-20-segun-el-servicio-meteorologico-nacional/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jesica cirio",
+   "busquedas": "100+",
+   "nota": "Yategate: solicitaron nuevamente a la Justicia que se incorporen como prueba los videos de Jesica Cirio en el vestidor",
+   "nota_url": "https://tn.com.ar/politica/2026/11/16/yategate-solicitaron-nuevamente-a-la-justicia-que-se-incorporen-como-prueba-los-videos-de-jesica-cirio-en-el-vestidor/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cotización dólar oficial dólar blue hoy",
+   "busquedas": "2000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 19 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-19-noviembre-n6346965",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "humedad",
+   "busquedas": "500+",
    "nota": "Clima en Los Angeles, California hoy: cuál es el pronóstico del tiempo para hoy 18 de noviembre",
    "nota_url": "https://www.lanacion.com.ar/estados-unidos/california/clima-en-los-angeles-california-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-18-de-noviembre-nid18112026/",
    "medio": "La Nación",
@@ -144,7 +171,7 @@
   },
   {
    "tema": "loan",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Juicio por Loan: desnudan graves irregularidades en la investigación y citan al \"abogado del diablo\"",
    "nota_url": "https://www.clarin.com/policiales/juicio-loan-desnudan-graves-irregularidades-investigacion-citan-abogado-diablo_0_WvK0Cx4F0d.html",
    "medio": "Clarin.com",
@@ -163,24 +190,15 @@
   {
    "tema": "temblor en san juan",
    "busquedas": "2000+",
-   "nota": "Fuerte temblor en San Juan antes de la medianoche: fue de 4.8",
-   "nota_url": "https://www.tiempodesanjuan.com/san-juan/fuerte-temblor-en-san-juan-antes-de-la-medianoche-fue-de-4-8_1795144082",
-   "medio": "Tiempo de San Juan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "temblor",
-   "busquedas": "200+",
-   "nota": "Temblor en México: los reportes de sismos el martes 17 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-mexico-ultimos-reportes-de-sismos-hoy-martes-17-de-noviembre-nid17112026/",
-   "medio": "La Nación",
+   "nota": "Sismo de magnitud 4.9 se percibe en el norte del país: epicentro fue en Argentina",
+   "nota_url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/20/sismo-de-magnitud-4-9-se-percibe-en-el-norte-del-pais-epicentro-fue-en-argentina.shtml",
+   "medio": "BioBioChile",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "matías martin",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Se separaron después de 20 años juntos, tienen dos hijos en común y ella ahora presentó a su nuevo novio a los 50",
    "nota_url": "https://www.paparazzi.com.ar/romances/se-separaron-despues-de-20-anos-juntos-tienen-dos-hijos-en-comun-y-ella-ahora-presento-a-su-nuevo-novio-a-los-50/",
    "medio": "Revista Paparazzi",
@@ -194,24 +212,6 @@
    "nota_url": "https://eleconomista.com.ar/economia/cavallo-prendio-alarmas-uba-grave-error-milei-dolar-podria-complicar-elecciones-2027-n99743",
    "medio": "El Economista - Últimas noticias económicas y financieras",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "fiona",
-   "busquedas": "100+",
-   "nota": "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo",
-   "nota_url": "https://www.cnn.com/2026/11/19/us/fiona-hippo-dies-cincinnati-zoo",
-   "medio": "CNN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "las vegas f1 horarios",
-   "busquedas": "100+",
-   "nota": "F1 GP de Las Vegas con Franco Colapinto, EN VIVO: resultados de la FP1 y dónde ver la FP2",
-   "nota_url": "https://www.clarin.com/deportes/f1-gp-vegas-colapinto-vivo-horario-primera-practica-libre-ver-formula-1-hoy_0_dGNOscuzqc.html",
-   "medio": "Clarin.com",
-   "relevante": false,
    "temas": []
   }
  ],
