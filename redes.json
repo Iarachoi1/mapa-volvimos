@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 23:45",
+ "actualizado": "20/11 00:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,8 +33,14 @@
    "temas": []
   },
   {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +57,8 @@
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rodrigo de la Serna",
-   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "Rockstar",
+   "url": "https://x.com/search?q=Rockstar",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +69,38 @@
    "temas": []
   },
   {
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rodrigo de la Serna",
+   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Putin",
    "url": "https://x.com/search?q=Putin",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#RiesgoMilei",
-   "url": "https://x.com/search?q=%23RiesgoMilei",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "#ruidoxnicki",
-   "url": "https://x.com/search?q=%23ruidoxnicki",
+   "tema": "XCRY EN GQ",
+   "url": "https://x.com/search?q=XCRY%20EN%20GQ",
    "relevante": false,
    "temas": []
   },
@@ -99,37 +111,97 @@
    "temas": []
   },
   {
-   "tema": "Ley de Discapacidad",
-   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "#DUOONEXFreenBecky",
    "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Asia",
-   "url": "https://x.com/search?q=Asia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Don Omar",
-   "url": "https://x.com/search?q=Don%20Omar",
-   "relevante": false,
+   "tema": "Ley de Discapacidad",
+   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
+   "relevante": true,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "humedad",
+   "busquedas": "200+",
+   "nota": "Clima en Los Angeles, California hoy: cuál es el pronóstico del tiempo para hoy 18 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/california/clima-en-los-angeles-california-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-18-de-noviembre-nid18112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tesla argentina",
+   "busquedas": "100+",
+   "nota": "ELON MUSK, ¿LA ÚLTIMA ESPERANZA DE MILEI? | El editorial de Ari Lijalad",
+   "nota_url": "https://www.eldestapeweb.com/multimedia/o33n4auOC3U/elon-musk-la-ultima-esperanza-de-milei-el-editorial-de-ari-lijalad",
+   "medio": "El Destape",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "loan",
+   "busquedas": "100+",
+   "nota": "Juicio por Loan: desnudan graves irregularidades en la investigación y citan al \"abogado del diablo\"",
+   "nota_url": "https://www.clarin.com/policiales/juicio-loan-desnudan-graves-irregularidades-investigacion-citan-abogado-diablo_0_WvK0Cx4F0d.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "villa maria ya",
+   "busquedas": "200+",
+   "nota": "El alerta por tormentas EN VIVO: inestabilidad, viento, granizo en Córdoba",
+   "nota_url": "https://eldoce.tv/actualidad/2026/11/19/vivo-l-inestabilidad-viento-y-granizo-el-avance-de-la-tormenta-en-cordoba/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "temblor en san juan",
+   "busquedas": "2000+",
+   "nota": "Fuerte temblor en San Juan antes de la medianoche: fue de 4.8",
+   "nota_url": "https://www.tiempodesanjuan.com/san-juan/fuerte-temblor-en-san-juan-antes-de-la-medianoche-fue-de-4-8_1795144082",
+   "medio": "Tiempo de San Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "temblor",
+   "busquedas": "200+",
+   "nota": "Temblor en México: los reportes de sismos el martes 17 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-mexico-ultimos-reportes-de-sismos-hoy-martes-17-de-noviembre-nid17112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "matías martin",
+   "busquedas": "100+",
+   "nota": "Se separaron después de 20 años juntos, tienen dos hijos en común y ella ahora presentó a su nuevo novio a los 50",
+   "nota_url": "https://www.paparazzi.com.ar/romances/se-separaron-despues-de-20-anos-juntos-tienen-dos-hijos-en-comun-y-ella-ahora-presento-a-su-nuevo-novio-a-los-50/",
+   "medio": "Revista Paparazzi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "domingo cavallo",
+   "busquedas": "100+",
+   "nota": "CAVALLO PRENDIÓ LAS ALARMAS EN LA UBA: el grave error de Milei con el dólar que podría complicar las elecciones de 2027",
+   "nota_url": "https://eleconomista.com.ar/economia/cavallo-prendio-alarmas-uba-grave-error-milei-dolar-podria-complicar-elecciones-2027-n99743",
+   "medio": "El Economista - Últimas noticias económicas y financieras",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "fiona",
    "busquedas": "100+",
-   "nota": "Fiona’s death gives parents a chance to teach kids about grief — and life",
-   "nota_url": "https://www.washingtonpost.com/national/2026/11/19/hippo-fiona-kids-death-cope-experts/b1ba1fe6-e46f-11f1-a99e-b3e3805c6b8b_story.html",
-   "medio": "The Washington Post",
+   "nota": "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo",
+   "nota_url": "https://www.cnn.com/2026/11/19/us/fiona-hippo-dies-cincinnati-zoo",
+   "medio": "CNN",
    "relevante": false,
    "temas": []
   },
@@ -139,78 +211,6 @@
    "nota": "F1 GP de Las Vegas con Franco Colapinto, EN VIVO: resultados de la FP1 y dónde ver la FP2",
    "nota_url": "https://www.clarin.com/deportes/f1-gp-vegas-colapinto-vivo-horario-primera-practica-libre-ver-formula-1-hoy_0_dGNOscuzqc.html",
    "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "karina mazzocco",
-   "busquedas": "1000+",
-   "nota": "La escandalosa pelea que protagonizaron dos famosas de MasterChef y nadie vio: \"Detrás de cámara...\"",
-   "nota_url": "https://www.elesquiu.com/espectaculos/2026/11/19/la-escandalosa-pelea-que-protagonizaron-dos-famosas-de-masterchef-y-nadie-vio-detras-de-camara-604003.html",
-   "medio": "El Esquiu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "josé mansur",
-   "busquedas": "200+",
-   "nota": "Pablo De Muner, del sueño cumplido al deseo de ir por más con Godoy Cruz",
-   "nota_url": "https://www.mendozapost.com/deportes/de-muner-sueno-cumplido-deseo-ir-por-mas-godoy-cruz/",
-   "medio": "Mendoza Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "niko bellic gta 6",
-   "busquedas": "100+",
-   "nota": "Glamorous actress behind GTA 6’s Lucia is unmasked after years of secrecy, ‘scary’ NDAs",
-   "nota_url": "https://pagesix.com/2026/11/18/celebrity-news/actress-manni-l-perez-revealed-as-performer-behind-gta-6s-leading-character/",
-   "medio": "Page Six",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aníbal gordon",
-   "busquedas": "100+",
-   "nota": "Gordon es un thriller político a la vieja usanza, con una narrativa sólida y un personaje tan siniestro como fascinante",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/gordon-es-un-thriller-politico-a-la-vieja-usanza-con-una-narrativa-solida-y-un-personaje-tan-nid19112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "musiala",
-   "busquedas": "100+",
-   "nota": "Musiala and Davies reportedly have special injury clauses in their Bayern contracts",
-   "nota_url": "https://bulinews.com/musiala-and-davies-reportedly-special-injury-clauses-their-bayern-contracts",
-   "medio": "Bulinews",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucks - trail blazers",
-   "busquedas": "100+",
-   "nota": "Licensable picture: NBA: Portland Trail Blazers at Milwaukee Bucks",
-   "nota_url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-milwaukee-bucks/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODA1NjY",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sao paulo vs",
-   "busquedas": "100+",
-   "nota": "La agenda del Brasileirão de hoy: Vasco y São Paulo cierran la fecha 35",
-   "nota_url": "https://informatesalta.com.ar/deportes/la-agenda-del-brasileirao-de-hoy--vasco-y-sao-paulo-cierran-la-fecha-35_a6afec6d1fde8ae76f833de43",
-   "medio": "Informate Salta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "san salvador de jujuy",
-   "busquedas": "100+",
-   "nota": "Agua Potable de Jujuy programó una interrupción de emergencia en el suministro",
-   "nota_url": "https://viapais.com.ar/jujuy/agua-potable-jujuy-programo-interrupcion-emergencia-suministro_0_MpOxCvBRvu.html",
-   "medio": "Vía País",
    "relevante": false,
    "temas": []
   }
