@@ -1,10 +1,28 @@
 {
- "actualizado": "20/11 08:46",
+ "actualizado": "20/11 09:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#DAESANGFORBTS",
    "url": "https://x.com/search?q=%23DAESANGFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -21,44 +39,26 @@
    "temas": []
   },
   {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#BuenViernes",
    "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BTSMAMAVOTE",
-   "url": "https://x.com/search?q=%23BTSMAMAVOTE",
+   "tema": "Vuelta de Obligado",
+   "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Vuelta de Obligado",
-   "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BTSMAMAVOTE",
+   "url": "https://x.com/search?q=%23BTSMAMAVOTE",
    "relevante": false,
    "temas": []
   },
@@ -75,26 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "BTS BRING BACK THE DAESANG",
-   "url": "https://x.com/search?q=BTS%20BRING%20BACK%20THE%20DAESANG",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +99,8 @@
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
@@ -121,42 +115,75 @@
    "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Cada 20",
+   "url": "https://x.com/search?q=Cada%2020",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "clube atlético mineiro",
+   "busquedas": "100+",
+   "nota": "Atlético-MG viaja com elenco completo para a final da Sul-Americana com apoio da torcida",
+   "nota_url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/18/atletico-mg-viaja-com-elenco-completo-para-a-final-da-sul-americana-com-apoio-da-torcida.ghtml",
+   "medio": "ge",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pity alvarez",
+   "busquedas": "100+",
+   "nota": "Juicio a Pity Álvarez: luego de tres meses y 20 audiencias, se conocerá la sentencia por el homicidio que cometió en 2018",
+   "nota_url": "https://www.lanacion.com.ar/seguridad/juicio-a-pity-alvarez-luego-de-tres-meses-y-20-audiencias-se-conocera-la-sentencia-por-el-homicidio-nid20112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "entierro",
    "busquedas": "200+",
-   "nota": "Ceremonia conmemorativa y entierro de los restos del mártir Nguyen Van Don en el cementerio de los mártires de Thanh Son.",
-   "nota_url": "https://www.vietnam.vn/es/truy-dieu-va-an-tang-hai-cot-liet-si-nguyen-van-don-tai-nghia-trang-liet-si-thanh-son",
-   "medio": "Vietnam.vn",
+   "nota": "El jefe del Pentágono anunció un acuerdo de cooperación militar con Venezuela",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/18/el-jefe-del-pentagono-anuncio-un-acuerdo-de-cooperacion-militar-con-venezuela/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "actor de you",
+   "busquedas": "200+",
+   "nota": "Alexander Haskin: el actor de You y The Rookie murió ahogado tras saltar de un muelle en California",
+   "nota_url": "https://www.lavoz.com.ar/espectaculos/alexander-haskin-actor-you-the-rookie-murio-ahogado-saltar-muelle-california_0_OTPqJx0Fng.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pronostico corrientes",
    "busquedas": "100+",
-   "nota": "Corrientes: el SMN emitió un alerta amarilla por tormentas fuertes y ráfagas",
-   "nota_url": "https://www.radiodos.com.ar/217409-corrientes-el-smn-emitio-un-alerta-amarilla-por-tormentas-fuertes-y-rafagas",
-   "medio": "Radio Dos Corrientes",
+   "nota": "Rige una doble alerta por tormentas fuertes en Corrientes",
+   "nota_url": "https://www.diarioepoca.com/1395638-rige-una-doble-alerta-por-tormentas-fuertes-en-corrientes",
+   "medio": "Diario Época Corrientes",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "saturnino",
    "busquedas": "100+",
-   "nota": "\"Saturnino\" comenzó una nueva etapa: desplazamientos más frecuentes y por períodos más prolongados",
-   "nota_url": "https://www.mardelplata.gob.ar/Noticias/saturnino-comenz%C3%B3-una-nueva-etapa-desplazamientos-m%C3%A1s-frecuentes-y-por-per%C3%ADodos-m%C3%A1s",
-   "medio": "Municipalidad de General Pueyrredón",
+   "nota": "De estrella de la playa a explorador del mar: Saturnino cumple un mes",
+   "nota_url": "https://www.lu22.com.ar/2026/11/17/de-estrella-de-la-playa-a-explorador-del-mar-saturnino-cumple-un-mes",
+   "medio": "LU22 Radio Tandil",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "rafaela noticias",
    "busquedas": "200+",
-   "nota": "Pronóstico de chaparrones y tormentas para este jueves en Rafaela",
-   "nota_url": "https://www.rafaelanoticias.com/locales/pronostico-de-chaparrones-y-tormentas-para-este-jueves-en-rafaela.htm",
-   "medio": "Rafaela Noticias",
+   "nota": "La tormenta pasó en una noche, el operativo sigue en la calle: Rafaela trabaja para volver a la normalidad",
+   "nota_url": "https://rafaelainforma.com/contenido/34035/la-tormenta-paso-en-una-noche-el-operativo-sigue-en-la-calle-rafaela-trabaja-par",
+   "medio": "Rafaela Informa",
    "relevante": false,
    "temas": []
   },
@@ -180,37 +207,10 @@
   },
   {
    "tema": "dia de la soberania nacional",
-   "busquedas": "500+",
-   "nota": "El día que la Argentina frenó a Inglaterra y Francia con tres cadenas cruzadas en el Paraná: la hazaña de la Vuelta de Obligado",
-   "nota_url": "https://www.clarin.com/informacion-general/dia-argentina-freno-inglaterra-francia-cadenas-cruzadas-parana-hazana-vuelta-obligado_0_LhKiwsEa24.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "patrick stewart",
-   "busquedas": "500+",
-   "nota": "Sir Patrick Stewart had water cremation as cause of death confirmed",
-   "nota_url": "https://www.thepinknews.com/2026/11/20/patrick-stewart-death-certificate-2026/",
-   "medio": "PinkNews",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tito speranza",
    "busquedas": "1000+",
-   "nota": "\"Tito\" Speranza reveló cómo su repentina fama afectó a Ricardo Fort y contó cómo vive hoy en día",
-   "nota_url": "https://www.minutouno.com/espectaculos/tito-speranza-revelo-como-su-repentina-fama-afecto-ricardo-fort-y-conto-como-vive-hoy-dia-n6347440",
-   "medio": "Minutouno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mastercard",
-   "busquedas": "200+",
-   "nota": "Cyberattack may have exposed Chase Bank and Mastercard customer data",
-   "nota_url": "https://www.washingtonpost.com/nation/2026/11/19/cyberattack-may-have-exposed-chase-bank-mastercard-customer-data/",
-   "medio": "The Washington Post",
+   "nota": "El Cabildo se ilumina por el Día de la Soberanía Nacional",
+   "nota_url": "https://prensa.municipalidadsalta.gob.ar/el-cabildo-se-ilumina-por-el-dia-de-la-soberania-nacional/",
+   "medio": "Municipalidad de Salta",
    "relevante": false,
    "temas": []
   }
