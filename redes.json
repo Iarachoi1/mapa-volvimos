@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 17:39",
+ "actualizado": "20/11 18:36",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -17,6 +17,12 @@
   {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
    "temas": []
   },
@@ -45,15 +51,21 @@
    "temas": []
   },
   {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#VOTEFORBTS",
    "url": "https://x.com/search?q=%23VOTEFORBTS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
+   "tema": "#ARMYONMNET",
+   "url": "https://x.com/search?q=%23ARMYONMNET",
+   "relevante": false,
    "temas": []
   },
   {
@@ -69,14 +81,26 @@
    "temas": []
   },
   {
-   "tema": "#ARMYONMNET",
-   "url": "https://x.com/search?q=%23ARMYONMNET",
+   "tema": "Massa",
+   "url": "https://x.com/search?q=Massa",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Pity Ãlvarez",
+   "url": "https://x.com/search?q=Pity%20%C3%83%C2%81lvarez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Eni y XRG",
+   "url": "https://x.com/search?q=Eni%20y%20XRG",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#BuenViernes",
    "url": "https://x.com/search?q=%23BuenViernes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cristian DÃ­az",
-   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "frances tiafoe",
-   "busquedas": "100+",
-   "nota": "Alcaraz: Felt Like I Was Playing PlayStation",
-   "nota_url": "https://tennisnow.com/alcaraz-felt-like-i-was-playing-playstation/",
-   "medio": "Tennis Now",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético newell's old boys",
-   "busquedas": "200+",
-   "nota": "Se define la edición 2026 de la Copa Santa Fe de handball",
-   "nota_url": "https://www.ellitoral.com/deportes/copasantafe-handball-ilperetz-estadioinvenciblesantafe_0_cmOxEVL1kf.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima mar del plata",
-   "busquedas": "1000+",
-   "nota": "Cómo estará el clima este jueves en Mar del Plata",
-   "nota_url": "https://www.lacapitalmdp.com/como-estara-el-clima-este-jueves-en-mar-del-plata-167/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico mar del plata",
+   "tema": "estafa",
    "busquedas": "500+",
-   "nota": "Se viene feo: el Servicio Meteorológico extendió el alerta amarillo del viernes en Mar del Plata",
-   "nota_url": "https://www.0223.com.ar/nota/2026-11-19-19-11-0-se-viene-feo-el-servicio-meteorologico-extendio-el-alerta-amarillo-del-viernes-en-mar-del-plata",
-   "medio": "0223.com.ar",
+   "nota": "Cositorto y miembros de Generación Zoe procesados por más de 1.000 estafas millonarias",
+   "nota_url": "https://www.cadena3.com/noticia/sociedad/cositorto-y-miembros-de-generacion-zoe-procesados-por-mas-de-1000-estafas-millonarias_615157",
+   "medio": "Cadena 3 Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "medvedev",
+   "tema": "velez hoy",
    "busquedas": "100+",
-   "nota": "LIVE RANKINGS. Medvedev’s rankings prior to playing against Tiafoe in Turin",
-   "nota_url": "https://tennistonic.com/tennis-news/1083116/live-rankings-medvedevs-rankings-prior-to-playing-against-tiafoe-in-turin/",
-   "medio": "Tennis Tonic",
+   "nota": "Vélez y Belgrano abren los Octavos de Final",
+   "nota_url": "https://www.afa.com.ar/es/posts/velez-y-belgrano-abren-los-octavos-de-final",
+   "medio": "AFA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ruta nacional 40",
+   "tema": "pena de muerte",
    "busquedas": "200+",
-   "nota": "Derrumbe en la Ruta 40: rocas de gran tamaño cayeron sobre el camino entre Bariloche y El Bolsón",
-   "nota_url": "https://www.elcordillerano.com.ar/noticias/2026/11/19/274164-derrumbe-en-la-ruta-40-rocas-de-gran-tamano-cayeron-sobre-el-camino-entre-bariloche-y-el-bolson",
-   "medio": "Diario El Cordillerano",
+   "nota": "Florida ejecutará a un hombre condenado por asesinar a una pareja que esperaba su primer hijo hace 35 años",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/19/florida-ejecutara-a-un-hombre-condenado-por-asesinar-a-una-pareja-que-esperaba-su-primer-hijo-hace-35-anos/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "daniil medvédev",
+   "tema": "medellín - santa fe",
+   "busquedas": "200+",
+   "nota": "¿Vuelve la magia al Atanasio? Quintero y Martegani apuntan a reaparecer al inicio de cuadrangulares | El Colombiano",
+   "nota_url": "https://www.elcolombiano.com/deportes/futbol/juanfer-quintero-agustin-martegani-reaparecen-cuadrangulares-dim-BG43762614",
+   "medio": "El Colombiano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "boca mineiro",
+   "busquedas": "2000+",
+   "nota": "Un alivio para Boca y Atlético Mineiro por una tecnología aplicada en el Metropolitano de Barranquilla",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17537025/boca-vs-atletico-mineiro-estadio-supermetro-tecnologia",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "frío",
    "busquedas": "500+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "¡Saca la cobija del tigre! Activan Alerta Amarilla por bajas temperaturas en 6 alcaldías de CDMX",
+   "nota_url": "https://lopezdoriga.com/nacional/mexico/saca-la-cobija-del-tigre-activan-alerta-amarilla-por-bajas-temperaturas-en-6-alcaldias-de-cdmx/",
+   "medio": "López-Dóriga Digital",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "joaquín cottani",
-   "busquedas": "100+",
-   "nota": "El exviceministro de Caputo advirtió por el dólar y pidió un giro: el “reseteo” que propone para sincerar la divisa",
-   "nota_url": "https://www.cronista.com/finanzas-mercados/el-exviceministro-de-caputo-advirtio-por-el-dolar-y-pidio-un-giro-el-reseteo-que-propone-para-sincerar-la-divisa/",
-   "medio": "El Cronista",
+   "tema": "inversión",
+   "busquedas": "200+",
+   "nota": "El Gobierno aprobó el RIGI de YPF para exportar gas licuado: con US$ 50.750 millones, será \"la mayor inversión de la historia\"",
+   "nota_url": "https://www.clarin.com/energia-y-mineria/gobierno-aprobo-rigi-ypf-exportar-gas-licuado-us-50750-millones-mayor-inversion-historia_0_8Yx4O90clj.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "posiciones de al-ahli saudi contra al-nassr",
-   "busquedas": "2000+",
-   "nota": "Decisión inesperada: la Liga Roshn sacude a la afición del Al Ahli antes del Clásico",
-   "nota_url": "https://es-us.noticias.yahoo.com/deportes/decisi%C3%B3n-inesperada-liga-roshn-sacude-181624832.html",
-   "medio": "Yahoo",
+   "tema": "máximo kirchner",
+   "busquedas": "200+",
+   "nota": "\"Hay que hacer un frente político que tenga como eje la recuperación de la soberanía económica\", dijo Máximo Kirchner.",
+   "nota_url": "http://www.fenix951.com.ar/noticia.php?id=361086",
+   "medio": "Fenix951",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "portaviones",
+   "busquedas": "100+",
+   "nota": "La Armada de EE.UU. autorizó las operaciones de cazas furtivos F-35C en toda su flota de portaaviones nucleares",
+   "nota_url": "https://www.zona-militar.com/2026/11/20/la-armada-de-ee-uu-autorizo-las-operaciones-de-cazas-furtivos-f-35c-en-toda-su-flota-de-portaaviones-nucleares/",
+   "medio": "Zona Militar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayern",
-   "busquedas": "1000+",
-   "nota": "Bayern heute mit 44% Rabatt live streamen: So klappt es",
-   "nota_url": "https://www.dslweb.de/news/tv/bayern-heute-mit-44-prozent-rabatt-live-streamen-so-klappt-es.php",
-   "medio": "dslweb",
+   "tema": "porto - usc paredes",
+   "busquedas": "200+",
+   "nota": "Notícias - O onze do FC Porto para a estreia na Taça de Portugal",
+   "nota_url": "https://www.fcporto.pt/pt/noticias/20261120-pt-o-onze-do-fc-porto-para-a-estreia-na-taca-de-portugal",
+   "medio": "FC Porto",
    "relevante": false,
    "temas": []
   }
