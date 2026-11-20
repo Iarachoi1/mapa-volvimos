@@ -1,16 +1,16 @@
 {
- "actualizado": "20/11 16:51",
+ "actualizado": "20/11 17:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Cristian DÃ­az",
-   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
    "relevante": false,
    "temas": []
   },
@@ -57,32 +57,8 @@
    "temas": []
   },
   {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ARMYONMNET",
-   "url": "https://x.com/search?q=%23ARMYONMNET",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "La Campagnola",
    "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +69,26 @@
    "temas": []
   },
   {
+   "tema": "#ARMYONMNET",
+   "url": "https://x.com/search?q=%23ARMYONMNET",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +99,118 @@
    "temas": []
   },
   {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "tema": "Cristian DÃ­az",
+   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Diego Iglesias",
-   "url": "https://x.com/search?q=Diego%20Iglesias",
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riesgo PaÃ­s",
+   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "athletic - rcd espanyol",
-   "busquedas": "500+",
-   "nota": "Motivación extra en rojiblanco",
-   "nota_url": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253173/motivacion-extra-rojiblanco.html",
-   "medio": "Mundo Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bayern munich",
-   "busquedas": "200+",
-   "nota": "How to watch Bayern Munich vs Köln match in the USA: Live stream and TV for 2026-27 Bundesliga",
-   "nota_url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-bayern-munich-vs-koln-match-in-the-usa-live-stream-and-tv-for-2026-27-bundesliga/",
-   "medio": "World Soccer Talk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bayern - colonia",
-   "busquedas": "5000+",
-   "nota": "Dónde y cómo ver en vivo y gratis Bayern Múnich vs. Colonia hoy: TV y streaming online del partido de la Bundesliga 2026",
-   "nota_url": "https://www.sportingnews.com/ar/futbol/news/donde-como-ver-en-vivo-gratis-bayern-munich-colonia-bundesliga-2026/b59b26ba6a8c83cc85e2eada",
-   "medio": "Sporting News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "río neuquén",
-   "busquedas": "200+",
-   "nota": "Cipolletti en alerta: especialistas advierten sobre el riesgo de una crecida histórica del río Neuquén",
-   "nota_url": "https://diarioneuquino.com.ar/cipolletti-en-alerta-especialistas-advierten-sobre-el-riesgo-de-una-crecida-historica-del-rio-neuquen/",
-   "medio": "Diario Neuquino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "loan peña laudelina",
-   "busquedas": "200+",
-   "nota": "Laudelina, la tía de Loan, se quebró en el juicio y confesó todo: \"Su cuerpo está en una...\"",
-   "nota_url": "https://www.a24.com/policiales/laudelina-la-tia-loan-se-quebro-el-juicio-y-confeso-todo-su-cuerpo-esta-una-n1618557",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "festival",
+   "tema": "frances tiafoe",
    "busquedas": "100+",
-   "nota": "Gran festival de boxeo en Trelew el 4 de diciembre",
-   "nota_url": "https://cholilaonline.ar/2026/11/festival-de-boxeo-en-trelew-noche-de-guerreros.html",
-   "medio": "» Cholila Online",
+   "nota": "Alcaraz: Felt Like I Was Playing PlayStation",
+   "nota_url": "https://tennisnow.com/alcaraz-felt-like-i-was-playing-playstation/",
+   "medio": "Tennis Now",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima bahia blanca",
-   "busquedas": "500+",
-   "nota": "Se anticipa un martes con viento del sur y descenso de temperatura",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/16/se-anticipa-un-martes-con-viento-del-sur-y-descenso-de-temperatura-n531094/",
-   "medio": "La Brújula 24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "volcán",
-   "busquedas": "500+",
-   "nota": "Volcán Sangay: aviso de ceniza volcánica",
-   "nota_url": "https://www.volcanodiscovery.com/es/sangay/news/417875/aviso-ceniza-volcanica-2026-813.html",
-   "medio": "Volcano Discovery",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leonardo ponzio",
+   "tema": "club atlético newell's old boys",
    "busquedas": "200+",
-   "nota": "El probable equipo de River para recibir a Lanús en el Monumental",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17532071/river-formacion-vs-lanus-octavos-de-final-torneo-clausura-2026-titulares-once",
-   "medio": "ESPN Argentina",
+   "nota": "Se define la edición 2026 de la Copa Santa Fe de handball",
+   "nota_url": "https://www.ellitoral.com/deportes/copasantafe-handball-ilperetz-estadioinvenciblesantafe_0_cmOxEVL1kf.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "al nassr",
+   "tema": "clima mar del plata",
    "busquedas": "1000+",
-   "nota": "Cristiano Ronaldo abrió el marcador ante Al-Ahli y quedó a 14 goles de los 1.000",
-   "nota_url": "https://elintransigente.com/2026/11/20/cristiano-ronaldo-abrio-marcador-ahli-quedo-14-goles-1-000/",
-   "medio": "El Intransigente",
+   "nota": "Cómo estará el clima este jueves en Mar del Plata",
+   "nota_url": "https://www.lacapitalmdp.com/como-estara-el-clima-este-jueves-en-mar-del-plata-167/",
+   "medio": "Diario La Capital de Mar del Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico mar del plata",
+   "busquedas": "500+",
+   "nota": "Se viene feo: el Servicio Meteorológico extendió el alerta amarillo del viernes en Mar del Plata",
+   "nota_url": "https://www.0223.com.ar/nota/2026-11-19-19-11-0-se-viene-feo-el-servicio-meteorologico-extendio-el-alerta-amarillo-del-viernes-en-mar-del-plata",
+   "medio": "0223.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "medvedev",
+   "busquedas": "100+",
+   "nota": "LIVE RANKINGS. Medvedev’s rankings prior to playing against Tiafoe in Turin",
+   "nota_url": "https://tennistonic.com/tennis-news/1083116/live-rankings-medvedevs-rankings-prior-to-playing-against-tiafoe-in-turin/",
+   "medio": "Tennis Tonic",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ruta nacional 40",
+   "busquedas": "200+",
+   "nota": "Derrumbe en la Ruta 40: rocas de gran tamaño cayeron sobre el camino entre Bariloche y El Bolsón",
+   "nota_url": "https://www.elcordillerano.com.ar/noticias/2026/11/19/274164-derrumbe-en-la-ruta-40-rocas-de-gran-tamano-cayeron-sobre-el-camino-entre-bariloche-y-el-bolson",
+   "medio": "Diario El Cordillerano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "daniil medvédev",
+   "busquedas": "500+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "joaquín cottani",
+   "busquedas": "100+",
+   "nota": "El exviceministro de Caputo advirtió por el dólar y pidió un giro: el “reseteo” que propone para sincerar la divisa",
+   "nota_url": "https://www.cronista.com/finanzas-mercados/el-exviceministro-de-caputo-advirtio-por-el-dolar-y-pidio-un-giro-el-reseteo-que-propone-para-sincerar-la-divisa/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de al-ahli saudi contra al-nassr",
+   "busquedas": "2000+",
+   "nota": "Decisión inesperada: la Liga Roshn sacude a la afición del Al Ahli antes del Clásico",
+   "nota_url": "https://es-us.noticias.yahoo.com/deportes/decisi%C3%B3n-inesperada-liga-roshn-sacude-181624832.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bayern",
+   "busquedas": "1000+",
+   "nota": "Bayern heute mit 44% Rabatt live streamen: So klappt es",
+   "nota_url": "https://www.dslweb.de/news/tv/bayern-heute-mit-44-prozent-rabatt-live-streamen-so-klappt-es.php",
+   "medio": "dslweb",
    "relevante": false,
    "temas": []
   }
