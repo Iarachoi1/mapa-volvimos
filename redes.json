@@ -1,16 +1,10 @@
 {
- "actualizado": "20/11 13:49",
+ "actualizado": "20/11 14:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +15,14 @@
    "temas": []
   },
   {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cristian DÃ­az",
+   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
    "relevante": false,
    "temas": []
   },
@@ -33,21 +33,21 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "#DaesangForBTS",
-   "url": "https://x.com/search?q=%23DaesangForBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Vuelta de Obligado",
    "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DAESANGFORBTS",
+   "url": "https://x.com/search?q=%23DAESANGFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
+   "relevante": true,
    "temas": []
   },
   {
@@ -75,6 +75,12 @@
    "temas": []
   },
   {
+   "tema": "#VOTEFORBTS",
+   "url": "https://x.com/search?q=%23VOTEFORBTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "La Campagnola",
    "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
@@ -87,14 +93,8 @@
    "temas": []
   },
   {
-   "tema": "Riesgo PaÃ­s",
-   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malena",
-   "url": "https://x.com/search?q=Malena",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
@@ -105,37 +105,91 @@
    "temas": []
   },
   {
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#BuenViernes",
    "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rockstar",
-   "url": "https://x.com/search?q=Rockstar",
+   "tema": "Villa Lugano",
+   "url": "https://x.com/search?q=Villa%20Lugano",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "independiente del valle - macará",
+   "tema": "leonardo ponzio",
    "busquedas": "200+",
-   "nota": "La Liga Pro premiará de forma anticipada a Independiente del Valle como campeón de Ecuador",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/18/la-liga-pro-premiara-de-forma-anticipada-a-independiente-del-valle-como-campeon-de-ecuador/",
-   "medio": "Infobae",
+   "nota": "River, hoy EN VIVO: los números de la reunión de CD, el 11 vs. Lanús y más noticias del viernes 20 de noviembre",
+   "nota_url": "https://www.ole.com.ar/river-plate/river-vivo-ultimas-noticias-novedades-viernes-20-noviembre-lanus-clausura_0_MuZTvCY8pd.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "julio iglesias",
+   "busquedas": "100+",
+   "nota": "Julio Iglesias será investigado en España por las denuncias de agresión sexual de dos exempleadas: fue citado a declarar en febrero",
+   "nota_url": "https://www.clarin.com/espectaculos/justicia-espana-abrio-investigacion-julio-iglesias-denuncias-agresion-sexual_0_FVgoWXwB98.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "al-ahli saudi - al-nassr",
+   "busquedas": "2000+",
+   "nota": "Surprise decision: Roshn Saudi League shocks Al-Ahli fans before the Clasico",
+   "nota_url": "https://www.yardbarker.com/soccer/articles/surprise_decision_roshn_saudi_league_shocks_al_ahli_fans_before_the_clasico/s1_17790_44581973",
+   "medio": "Yardbarker",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar hoy",
+   "busquedas": "10000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 20 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-20-noviembre-n6347436",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riemann hypothesis",
+   "busquedas": "100+",
+   "nota": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+   "nota_url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b",
+   "medio": "WSJ",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "independiente del valle - macará",
+   "busquedas": "1000+",
+   "nota": "La pelea por Libertadores tiene a Liga y Aucas empatados y a Barcelona contra el reloj",
+   "nota_url": "https://www.elcomercio.com/deportes/futbol/libertadores-barcelona-liga-aucas-cupos-ecuador/",
+   "medio": "El Comercio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "enelsubte",
+   "busquedas": "200+",
+   "nota": "Contradicciones del proyecto de la Línea F",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/15/contradicciones-del-proyecto-de-la-linea-f/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "cronista",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Morgan Stanley recomienda dos acciones argentinas con potencial mayor al 80%",
    "nota_url": "https://flipr.com.ar/nacionales/economia/finanzas/iprofesional/morgan-stanley-recomienda-dos-acciones-argentinas-con-potencial-mayor-al-80/",
    "medio": "Flipr.news",
@@ -144,7 +198,7 @@
   },
   {
    "tema": "kevin vallejos",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Quién es el argentino que va por una pelea histórica en la UFC",
    "nota_url": "https://www.tycsports.com/polideportivo/quien-es-el-argentino-que-va-por-una-pelea-historica-en-la-ufc-id772328.html",
    "medio": "TyC Sports",
@@ -152,65 +206,11 @@
    "temas": []
   },
   {
-   "tema": "serpiente",
-   "busquedas": "100+",
-   "nota": "Las 3 noticias para empezar este viernes 20 de noviembre en Santa Fe: serpiente en la Costanera, tormentas y desvíos de colectivos",
-   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-este-viernes-20-noviembre-santa-fe-serpiente-la-costanera-tormentas-y-desvios-colectivos-n677471",
-   "medio": "Aire de Santa Fe",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "benavidez",
-   "busquedas": "100+",
-   "nota": "Tensión, tiros y un detenido en Tigre: vecinos robaron un supermercado tras acusar al dueño de haber manoseado a un nene de 11 años",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/20/tension-en-tigre-vecinos-robaron-mercaderia-de-un-supermercado-tras-acusar-al-dueno-de-haber-manoseado-a-un-nene-de-11-anos/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bitcoin",
-   "busquedas": "200+",
-   "nota": "Capitulation Meets Support",
-   "nota_url": "https://research.glassnode.com/the-week-onchain-week-46-2026/",
-   "medio": "Glassnode Research",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luis juez",
+   "tema": "boca mañana",
    "busquedas": "1000+",
-   "nota": "Cómo votaron los senadores de Neuquén, Río Negro y la Patagonia las leyes de Discapacidad y Propiedad Privada",
-   "nota_url": "https://www.rionegro.com.ar/politica/como-votaron-los-senadores-de-neuquen-rio-negro-y-la-patagonia-las-leyes-de-discapacidad-y-propiedad-privada-4805997/",
-   "medio": "Diario Río Negro",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "pronostico bahia blanca",
-   "busquedas": "100+",
-   "nota": "Se anticipa un martes con viento del sur y descenso de temperatura",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/16/se-anticipa-un-martes-con-viento-del-sur-y-descenso-de-temperatura-n531094/",
-   "medio": "La Brújula 24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "denuncia",
-   "busquedas": "500+",
-   "nota": "Gastronómicos de Paraná advierten que irán a la Justicia si el Gobierno no homologa sus paritarias",
-   "nota_url": "https://fmlitoral.com.ar/gastronomicos-de-parana-advierten-que-iran-a-la-justicia-si-el-gobierno-no-homologa-sus-paritarias/",
-   "medio": "fm litoral",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "calchín oeste",
-   "busquedas": "500+",
-   "nota": "Fuerte temporal en General Cabrera y General Deheza: hubo inundaciones y personas evacuadas",
-   "nota_url": "https://www.cba24n.com.ar/cordoba/fuerte-temporal-en-general-cabrera-y-general-deheza--hubo-inundaciones-y-personas-evacuadas_a6b002d16f4e774be059ef675",
-   "medio": "Cba24n",
+   "nota": "El gesto de Leandro Paredes con un histórico de Boca antes del primer entrenamiento en Colombia",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/19/video-leandro-paredes-se-bajo-del-micro-y-fue-a-saludar-a-un-historico-de-boca-antes-del-primer-entrenamiento-en-barranquilla/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   }
