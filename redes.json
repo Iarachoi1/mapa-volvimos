@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 01:49",
+ "actualizado": "20/11 02:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,26 +33,26 @@
    "temas": []
   },
   {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "la campagnola",
-   "url": "https://x.com/search?q=la%20campagnola",
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +87,20 @@
    "temas": []
   },
   {
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Martita",
+   "url": "https://x.com/search?q=Martita",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Putin",
    "url": "https://x.com/search?q=Putin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Niko Bellic",
-   "url": "https://x.com/search?q=Niko%20Bellic",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Marta Fort",
-   "url": "https://x.com/search?q=Marta%20Fort",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
    "relevante": false,
    "temas": []
   },
@@ -117,8 +111,14 @@
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "tema": "Taiwan",
+   "url": "https://x.com/search?q=Taiwan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Niko",
+   "url": "https://x.com/search?q=Niko",
    "relevante": false,
    "temas": []
   }
@@ -126,16 +126,16 @@
  "google": [
   {
    "tema": "fin de semana",
-   "busquedas": "200+",
-   "nota": "Vuelven las lluvias: a qué hora se esperan las tormentas este viernes 20, según el Servicio Meteorológico Nacional",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/19/vuelven-las-lluvias-a-que-hora-se-esperan-las-tormentas-este-viernes-20-segun-el-servicio-meteorologico-nacional/",
-   "medio": "TN",
+   "busquedas": "500+",
+   "nota": "Calor, lluvias y tormentas: cómo estará el tiempo en el AMBA durante los próximos días",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/19/calor-lluvias-y-tormentas-como-estara-el-tiempo-en-el-amba-durante-los-proximos-dias/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jesica cirio",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Yategate: solicitaron nuevamente a la Justicia que se incorporen como prueba los videos de Jesica Cirio en el vestidor",
    "nota_url": "https://tn.com.ar/politica/2026/11/16/yategate-solicitaron-nuevamente-a-la-justicia-que-se-incorporen-como-prueba-los-videos-de-jesica-cirio-en-el-vestidor/",
    "medio": "TN",
@@ -145,9 +145,9 @@
   {
    "tema": "cotización dólar oficial dólar blue hoy",
    "busquedas": "2000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 19 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-19-noviembre-n6346965",
-   "medio": "Ambito",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este viernes 20 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/20/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-20-de-noviembre/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -172,9 +172,9 @@
   {
    "tema": "loan",
    "busquedas": "200+",
-   "nota": "Juicio por Loan: desnudan graves irregularidades en la investigación y citan al \"abogado del diablo\"",
-   "nota_url": "https://www.clarin.com/policiales/juicio-loan-desnudan-graves-irregularidades-investigacion-citan-abogado-diablo_0_WvK0Cx4F0d.html",
-   "medio": "Clarin.com",
+   "nota": "Cuarto intermedio definirán si convocan a Codazzi a declarar",
+   "nota_url": "https://www.cadenaderadios.com.ar/noticia/88579_cuarto-intermedio-definirn-si-convocan-a-codazzi-a-declarar.htm",
+   "medio": "Cadena de Radios",
    "relevante": false,
    "temas": []
   },
@@ -197,21 +197,21 @@
    "temas": []
   },
   {
+   "tema": "temblor",
+   "busquedas": "200+",
+   "nota": "Sismo de magnitud 4.1 sacude Oaxaca y activa monitoreo del SSN",
+   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/46297_sismo-de-magnitud-41-sacude-oaxaca-y-activa-monitoreo-del-ssn.htm",
+   "medio": "Identidad Correntina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "matías martin",
    "busquedas": "200+",
    "nota": "Se separaron después de 20 años juntos, tienen dos hijos en común y ella ahora presentó a su nuevo novio a los 50",
    "nota_url": "https://www.paparazzi.com.ar/romances/se-separaron-despues-de-20-anos-juntos-tienen-dos-hijos-en-comun-y-ella-ahora-presento-a-su-nuevo-novio-a-los-50/",
    "medio": "Revista Paparazzi",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "domingo cavallo",
-   "busquedas": "100+",
-   "nota": "CAVALLO PRENDIÓ LAS ALARMAS EN LA UBA: el grave error de Milei con el dólar que podría complicar las elecciones de 2027",
-   "nota_url": "https://eleconomista.com.ar/economia/cavallo-prendio-alarmas-uba-grave-error-milei-dolar-podria-complicar-elecciones-2027-n99743",
-   "medio": "El Economista - Últimas noticias económicas y financieras",
-   "relevante": true,
    "temas": []
   }
  ],
