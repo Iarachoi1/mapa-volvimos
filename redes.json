@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11 20:33",
+ "actualizado": "19/11 21:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,32 +33,14 @@
    "temas": []
   },
   {
+   "tema": "#RiesgoMilei",
+   "url": "https://x.com/search?q=%23RiesgoMilei",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "Rockstar",
    "url": "https://x.com/search?q=Rockstar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Putin",
-   "url": "https://x.com/search?q=Putin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rodrigo de la Serna",
-   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   },
@@ -69,38 +51,50 @@
    "temas": []
   },
   {
-   "tema": "Luccianos",
-   "url": "https://x.com/search?q=Luccianos",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bill Gates",
-   "url": "https://x.com/search?q=Bill%20Gates",
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "La Campagnola",
+   "url": "https://x.com/search?q=La%20Campagnola",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DUOONEXFreenBecky",
-   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
+   "tema": "Rodrigo de la Serna",
+   "url": "https://x.com/search?q=Rodrigo%20de%20la%20Serna",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Axel",
-   "url": "https://x.com/search?q=Axel",
+   "tema": "Putin",
+   "url": "https://x.com/search?q=Putin",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Don Omar",
-   "url": "https://x.com/search?q=Don%20Omar",
+   "tema": "Ley de Discapacidad",
+   "url": "https://x.com/search?q=Ley%20de%20Discapacidad",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Malena",
+   "url": "https://x.com/search?q=Malena",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "VivirÃ­a",
-   "url": "https://x.com/search?q=Vivir%C3%83%C2%ADa",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +105,112 @@
    "temas": []
   },
   {
-   "tema": "DUOONE FINAL MATCH",
-   "url": "https://x.com/search?q=DUOONE%20FINAL%20MATCH",
+   "tema": "#DUOONEXFreenBecky",
+   "url": "https://x.com/search?q=%23DUOONEXFreenBecky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Diego Iglesias",
+   "url": "https://x.com/search?q=Diego%20Iglesias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Don Omar",
+   "url": "https://x.com/search?q=Don%20Omar",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ley de discapacidad",
+   "tema": "joaquín freitas",
    "busquedas": "200+",
-   "nota": "Nueva ley de discapacidad: qué propone el proyecto que debate el Senado y cuál es la situación del sector",
-   "nota_url": "https://chequeado.com/el-explicador/nueva-ley-de-discapacidad-que-propone-el-proyecto-que-debate-el-senado-y-cual-es-la-situacion-del-sector/",
-   "medio": "Chequeado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "superávit económico",
-   "busquedas": "200+",
-   "nota": "El Gobierno amplió el Presupuesto 2026 en $15,6 billones y resigna parte del superávit previsto para fin de año",
-   "nota_url": "https://www.infobae.com/economia/2026/11/19/el-gobierno-amplio-el-presupuesto-2026-en-156-billones-y-resigna-parte-del-superavit-previsto-para-fin-de-ano/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "causa por presuntas coimas en la andis",
-   "busquedas": "200+",
-   "nota": "Tras el favor de Gendarmería, Spagnuolo pidió excluir los audios de la causa ANDIS",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/17/tras-el-favor-de-gendarmeria-spagnuolo-pidio-excluir-los-audios-de-la-causa-andis/",
-   "medio": "Página|12",
+   "nota": "River confirmó en reunión de Comisión Directiva el monto oficial de la venta de Joaquín Freitas a Flamengo",
+   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/river-confirmo-en-reunion-de-comision-directiva-el-monto-oficial-de-la-venta-de-joaquin-freitas-a-flamengo",
+   "medio": "La Página Millonaria",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "obra pública",
-   "busquedas": "200+",
-   "nota": "Axel Kicillof, en modo campaña: “Cuatro años más de Milei serían una calamidad”",
-   "nota_url": "https://www.lanacion.com.ar/politica/axel-kicillof-en-modo-campana-cuatro-anos-mas-de-milei-serian-una-calamidad-nid19112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cotización dolar hoy",
+   "tema": "mercado negro de divisas",
    "busquedas": "2000+",
-   "nota": "El riesgo país supera los 900 puntos y el dólar alcanza su valor más alto del año",
-   "nota_url": "https://www.lanacion.com.ar/economia/el-dolar-volvio-a-subir-hasta-su-valor-mas-alto-del-ano-y-el-riesgo-pais-roza-los-900-puntos-nid19112026/",
-   "medio": "La Nación",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 19 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-19-noviembre-n6346965",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "fátima flórez",
-   "busquedas": "1000+",
-   "nota": "Preocupación por la salud de Norberto Marcos",
-   "nota_url": "https://www.eltrecetv.com.ar/videos/la-manana-con-moria/2026/11/19/preocupacion-por-la-salud-de-norberto-marcos/",
-   "medio": "eltrecetv",
+   "tema": "robo",
+   "busquedas": "500+",
+   "nota": "Video: múltiples allanamientos en Mar del Plata permitieron esclarecer dos entraderas",
+   "nota_url": "https://noticiasmardelplata.com/video-multiples-allanamientos-en-mar-del-plata-permitieron-esclarecer-dos-entraderas/",
+   "medio": "noticiasmardelplata.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "carburando",
+   "tema": "orlando city - cincinnati",
    "busquedas": "200+",
-   "nota": "Hay mucha falsedad por parte de los pilotos del TC",
-   "nota_url": "https://www.carburando.com/turismo-carretera/di-meglio-hay-mucha-falsedad-por-parte-de-los-pilotos-del-tc-id201177",
-   "medio": "Carburando",
+   "nota": "Expert Picks and Predictions for Tonight's Matches",
+   "nota_url": "https://www.bettingnews.com/articles/soccer/the-mls-playoffs-kick-off-tonight-with-two-elimination-matches-expert-picks-for-both-games/",
+   "medio": "Betting News",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "aguinaldo estatales",
-   "busquedas": "200+",
-   "nota": "ATE denuncia que el gobierno planea postergar el aguinaldo de estatales",
-   "nota_url": "https://www.eleco.com.ar/politica/ate-denuncia-que-el-gobierno-planea-postergar-el-aguinaldo-de-estatales",
-   "medio": "El Eco",
+   "tema": "emergencia",
+   "busquedas": "100+",
+   "nota": "Las 3 noticias para empezar este jueves 19 en Santa Fe: violencia de género en la Legislatura, la milanesa y el Paraná",
+   "nota_url": "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-este-jueves-19-violencia-genero-la-legislatura-la-milanesa-y-el-parana-n677341",
+   "medio": "Aire de Santa Fe",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "vitória - bragantino",
+   "tema": "são paulo - fluminense",
    "busquedas": "2000+",
-   "nota": "Novo técnico, Rafael Lacerda estreia pelo Vitória nesta quinta",
-   "nota_url": "https://www.metro1.com.br/noticias/esportes/191652,novo-tecnico-rafael-lacerda-estreia-pelo-vitoria-nesta-quinta",
-   "medio": "Rádio Metrópole",
+   "nota": "São Paulo terá Danielzinho contra Flu desfalcado por Data Fifa; veja times",
+   "nota_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/19/brasileirao-2026-sao-paulo-fluminense-escalacoes-35-rodada.ghtm",
+   "medio": "UOL",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "vasco da gama - internacional",
-   "busquedas": "5000+",
-   "nota": "Escalação do Internacional: Alan Patrick volta ao time",
-   "nota_url": "https://www.terra.com.br/esportes/internacional/escalacao-do-internacional-alan-patrick-volta-ao-time,d1a7e17c7cc3c4646e390af18125b1b6di7grhn3.html",
-   "medio": "Terra",
+   "tema": "cuerpo técnico",
+   "busquedas": "100+",
+   "nota": "Quién es la primera mujer de la historia parte de un cuerpo técnico de Manchester United, de la mano de Mauricio Pochettino",
+   "nota_url": "https://www.tycsports.com/premier-league/quien-es-primera-mujer-historia-parte-cuerpo-tecnico-manchester-united-mano-mauricio-pochettino-id772258.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "racing talleres",
+   "busquedas": "100+",
+   "nota": "Racing sufrió una histórica goleada en Reserva ante Talleres: perdió ¡7-1!",
+   "nota_url": "https://www.ole.com.ar/racing/racing-talleres-reserva_0_kQ5QY66kAy.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiempo de mañana",
+   "busquedas": "200000+",
+   "nota": "El clima en Rosario: aire veraniego antes de más lluvia",
+   "nota_url": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-aire-veraniego-antes-de-mas-lluvia-20261119-0001.html",
+   "medio": "Rosario3",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lotería",
+   "busquedas": "500+",
+   "nota": "Quini 6: un apostador de Victoria se llevó más de $3.294 millones en La Segunda",
+   "nota_url": "https://www.clarin.com/brandstudio/quini-6-apostador-victoria-llevo-3294-millones-segunda_0_VHWcLr1Klz.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
