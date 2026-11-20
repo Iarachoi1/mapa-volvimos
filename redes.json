@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 03:54",
+ "actualizado": "20/11 05:10",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Malvinas",
-   "url": "https://x.com/search?q=Malvinas",
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "Malvinas",
+   "url": "https://x.com/search?q=Malvinas",
    "relevante": false,
    "temas": []
   },
@@ -36,12 +36,6 @@
    "tema": "Lucia",
    "url": "https://x.com/search?q=Lucia",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
    "temas": []
   },
   {
@@ -63,14 +57,20 @@
    "temas": []
   },
   {
-   "tema": "#NAYEON_NAsty",
-   "url": "https://x.com/search?q=%23NAYEON_NAsty",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Malena",
    "url": "https://x.com/search?q=Malena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#NAYEON_NAsty",
+   "url": "https://x.com/search?q=%23NAYEON_NAsty",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +81,8 @@
    "temas": []
   },
   {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Putin",
-   "url": "https://x.com/search?q=Putin",
+   "tema": "#í¸ìì´ì¤",
+   "url": "https://x.com/search?q=%23%C3%AD%C2%8A%C2%B8%C3%AC%C2%99%C2%80%C3%AC%C2%9D%C2%B4%C3%AC%C2%8A%C2%A4",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +93,20 @@
    "temas": []
   },
   {
+   "tema": "#MLBS7Spoilers",
+   "url": "https://x.com/search?q=%23MLBS7Spoilers",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Marta Fort",
    "url": "https://x.com/search?q=Marta%20Fort",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Taiwan",
-   "url": "https://x.com/search?q=Taiwan",
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
    "relevante": false,
    "temas": []
   },
@@ -117,13 +117,49 @@
    "temas": []
   },
   {
-   "tema": "#MLBS7Spoilers",
-   "url": "https://x.com/search?q=%23MLBS7Spoilers",
+   "tema": "elise",
+   "url": "https://x.com/search?q=elise",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "pronostico",
+   "busquedas": "1000+",
+   "nota": "Hay alerta amarilla por tormentas para este viernes 20 de noviembre en Corrientes: las zonas afectadas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/20/hay-alerta-amarilla-por-tormentas-para-este-viernes-20-de-noviembre-en-corrientes-las-zonas-afectadas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima parana",
+   "busquedas": "200+",
+   "nota": "Persiste la situación meteorológica verde en Entre Ríos",
+   "nota_url": "https://portal.entrerios.gov.ar/noticias/81434",
+   "medio": "Gobierno de Entre Ríos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima plata",
+   "busquedas": "200+",
+   "nota": "Aniversario de La Plata con sol y buen tiempo: cómo estará el clima este jueves",
+   "nota_url": "https://www.eldia.com/la-ciudad/aniversario-de-la-plata-con-sol-y-buen-tiempo-como-estara-el-clima-este-jueves-la-ciudad_1795085400",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el tiempo",
+   "busquedas": "200+",
+   "nota": "Hay alerta naranja y amarilla por tormentas y lluvias para este viernes 20 de noviembre: las provincias afectadas",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-lluvias-para-este-viernes-20-de-noviembre-las-nid20112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "fin de semana",
    "busquedas": "500+",
@@ -143,29 +179,29 @@
    "temas": []
   },
   {
-   "tema": "cotización dólar oficial dólar blue hoy",
-   "busquedas": "2000+",
-   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este viernes 20 de noviembre",
-   "nota_url": "https://tn.com.ar/economia/2026/11/20/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-viernes-20-de-noviembre/",
-   "medio": "TN",
+   "tema": "humedad",
+   "busquedas": "500+",
+   "nota": "Traducción de qué es saber jugar finales, Arruabarrena dixit",
+   "nota_url": "https://www.ole.com.ar/opinion/arruabarrena-boca-final-copa-sudamericana_0_XfxD0IqwAK.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tesla argentina",
    "busquedas": "100+",
-   "nota": "ELON MUSK, ¿LA ÚLTIMA ESPERANZA DE MILEI? | El editorial de Ari Lijalad",
-   "nota_url": "https://www.eldestapeweb.com/multimedia/o33n4auOC3U/elon-musk-la-ultima-esperanza-de-milei-el-editorial-de-ari-lijalad",
-   "medio": "El Destape",
-   "relevante": true,
+   "nota": "Tesla llega a la Argentina: cómo venderá sus autos y por qué desafía a los concesionarios tradicionales",
+   "nota_url": "https://www.ambito.com/autos/tesla-llega-la-argentina-como-vendera-sus-y-que-desafia-los-concesionarios-tradicionales-n6346632",
+   "medio": "Ambito",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "loan",
    "busquedas": "200+",
-   "nota": "Cuarto intermedio definirán si convocan a Codazzi a declarar",
-   "nota_url": "https://www.cadenaderadios.com.ar/noticia/88579_cuarto-intermedio-definirn-si-convocan-a-codazzi-a-declarar.htm",
-   "medio": "Cadena de Radios",
+   "nota": "Man City to be hit with Premier League sanctions next year if appeal fails",
+   "nota_url": "https://www.ft.com/content/a7e0f7f2-d98c-4888-b211-00c1383d1b8c?syn-25a6b1a6=1",
+   "medio": "Financial Times",
    "relevante": false,
    "temas": []
   },
@@ -176,42 +212,6 @@
    "nota_url": "https://villamariaya.com/el-tiempo/se-viene-alertan-sobre-posibles-tormentas-en-villa-maria-y-zona_1795122788",
    "medio": "Villa Maria Ya",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "temblor en san juan",
-   "busquedas": "2000+",
-   "nota": "Sismo de magnitud 4.9 se percibe en el norte del país: epicentro fue en Argentina",
-   "nota_url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/20/sismo-de-magnitud-4-9-se-percibe-en-el-norte-del-pais-epicentro-fue-en-argentina.shtml",
-   "medio": "BioBioChile",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "temblor",
-   "busquedas": "200+",
-   "nota": "Temblor en EEUU: los reportes de sismos el domingo 15 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-domingo-15-de-noviembre-nid15112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "matías martin",
-   "busquedas": "200+",
-   "nota": "Se separaron después de 20 años juntos, tienen dos hijos en común y ella ahora presentó a su nuevo novio a los 50",
-   "nota_url": "https://www.paparazzi.com.ar/romances/se-separaron-despues-de-20-anos-juntos-tienen-dos-hijos-en-comun-y-ella-ahora-presento-a-su-nuevo-novio-a-los-50/",
-   "medio": "Revista Paparazzi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "domingo cavallo",
-   "busquedas": "100+",
-   "nota": "Alerta de Domingo Cavallo: \"Si el Gobierno no toma medidas, hay riesgo de que se destartale todo antes de las elecciones\"",
-   "nota_url": "https://www.ambito.com/economia/alerta-domingo-cavallo-si-el-gobierno-no-toma-medidas-hay-riesgo-que-se-destartale-todo-antes-las-elecciones-n6346515",
-   "medio": "Ambito",
-   "relevante": true,
    "temas": []
   }
  ],
