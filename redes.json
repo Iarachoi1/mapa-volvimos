@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 02:45",
+ "actualizado": "21/11 03:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -45,20 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#telemetrico",
-   "url": "https://x.com/search?q=%23telemetrico",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#LasVegasGP",
    "url": "https://x.com/search?q=%23LasVegasGP",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
    "relevante": false,
    "temas": []
   },
@@ -69,26 +63,14 @@
    "temas": []
   },
   {
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "VÃ©lez",
    "url": "https://x.com/search?q=V%C3%83%C2%A9lez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ES HOY",
-   "url": "https://x.com/search?q=ES%20HOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Marchiori",
-   "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Leclerc",
-   "url": "https://x.com/search?q=Leclerc",
+   "tema": "Marchiori",
+   "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
@@ -117,8 +99,26 @@
    "temas": []
   },
   {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
+   "tema": "ES HOY",
+   "url": "https://x.com/search?q=ES%20HOY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Leclerc",
+   "url": "https://x.com/search?q=Leclerc",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   }
@@ -154,18 +154,18 @@
   {
    "tema": "nuggets - rockets",
    "busquedas": "500+",
-   "nota": "Nuggets host Rockets in second Emirates NBA Cup game",
-   "nota_url": "https://nuggets.com/news/nuggets-host-rockets-second-emirates-nba-cup-game",
-   "medio": "NBA.com",
+   "nota": "Rockets Eye NBA Cup Match Up With Nuggets",
+   "nota_url": "https://www.thedreamshake.com/rockets-schedule/42647/rockets-eye-nba-cup-matchup-with-nuggets",
+   "medio": "The Dream Shake",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jazz - suns",
    "busquedas": "200+",
-   "nota": "11/20/2026 Suns vs Jazz Game Preview",
-   "nota_url": "https://www.nba.com/suns/news/11-20-2026-suns-vs-jazz-game-preview",
-   "medio": "NBA.com",
+   "nota": "Devin Booker 23 points on 22 shot attempts in win",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/devin-booker-23-points-on-22-shot-attempts-in-win",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
@@ -182,7 +182,7 @@
    "tema": "lakers - kings",
    "busquedas": "1000+",
    "nota": "Kings Lakers Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/kings-lakers-basketball/image_a6d906b3-419c-5348-a718-b88fcb960e67.html",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/kings-lakers-basketball/image_41ebb051-3dbd-57de-968c-8628aa2ba1b4.html",
    "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
@@ -208,9 +208,9 @@
   {
    "tema": "clasificacion f1",
    "busquedas": "20000+",
-   "nota": "Notable Top5 de Colapinto en la última práctica de F1 en Las Vegas",
-   "nota_url": "https://campeones.com.ar/notable-top5-de-colapinto-en-la-ultima-practica-de-las-vegas/",
-   "medio": "Campeones",
+   "nota": "Colapinto terminó décimo y Antonelli consiguió la pole en la clasificación del GP de Las Vegas de F1",
+   "nota_url": "https://www.carburando.com/formula-1/colapinto-termino-decimo-y-antonelli-consiguio-la-pole-en-la-clasificacion-del-gp-de-las-vegas-de-f1-id201053",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   }
