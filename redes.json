@@ -1,7 +1,13 @@
 {
- "actualizado": "21/11 08:35",
+ "actualizado": "21/11 09:39",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Franco",
    "url": "https://x.com/search?q=Franco",
@@ -9,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "#estefinde",
+   "url": "https://x.com/search?q=%23estefinde",
    "relevante": false,
    "temas": []
   },
@@ -39,26 +45,14 @@
    "temas": []
   },
   {
+   "tema": "#BuenSÃ¡bado",
+   "url": "https://x.com/search?q=%23BuenS%C3%83%C2%A1bado",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +63,26 @@
    "temas": []
   },
   {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#telemetrico",
    "url": "https://x.com/search?q=%23telemetrico",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ronaldo MartÃ­nez",
-   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +99,8 @@
    "temas": []
   },
   {
-   "tema": "#VamosNene",
-   "url": "https://x.com/search?q=%23VamosNene",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#masterchefjunior",
-   "url": "https://x.com/search?q=%23masterchefjunior",
+   "tema": "Ronaldo MartÃ­nez",
+   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +111,76 @@
    "temas": []
   },
   {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "takata",
+   "tema": "world rugby nations championship",
    "busquedas": "100+",
+   "nota": "‘Township tackle’ under the spotlight as Stormers stars weigh in on World Rugby crackdown",
+   "nota_url": "https://iol.co.za/sport/rugby/2026-11-20-township-tackle-under-the-spotlight-as-stormers-stars-weigh-in-on-world-rugby-crackdown/",
+   "medio": "IOL",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "21 de noviembre que se celebra",
+   "busquedas": "100+",
+   "nota": "¿Qué santo se celebra hoy? Consulta el santoral del sábado 21 de noviembre",
+   "nota_url": "https://www.elmundo.es/como/2026/11/21/6afc55aefc6c831c728b45b9.html",
+   "medio": "El Mundo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "manchester city - fulham",
+   "busquedas": "5000+",
+   "nota": "Man City vs. Fulham: Preview, Predictions, Talking Points",
+   "nota_url": "https://forzafootball.com/news/man-city-vs-fulham-preview-predictions-talking-points-159487299",
+   "medio": "Forza Football",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "coronavirus",
+   "busquedas": "1000+",
+   "nota": "COVID-19 cases in Africa surpass 70,000",
+   "nota_url": "https://en.yenisafak.com/world/covid-19-cases-in-africa-surpass-70000-3519478",
+   "medio": "Yeni Safak English",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "21 de noviembre",
+   "busquedas": "100+",
+   "nota": "Horóscopo de hoy 21 de noviembre de 2026",
+   "nota_url": "https://www.ellitoral.com/informacion-general/horoscopo-21-noviembre-predicciones-aries-tauro-geminis-leo-virgo-libra-sagitario-escorpio-acuario-piscis-capricornio_0_FrtzJitrxs.html",
+   "medio": "El Litoral",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grand theft auto vi",
+   "busquedas": "200+",
+   "nota": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+   "nota_url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+   "medio": "Take-Two Interactive Software, Inc.",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "takata",
+   "busquedas": "200+",
    "nota": "Toyota is recalling over 300,000 vehicles. See affected models",
    "nota_url": "https://www.usatoday.com/story/cars/recalls/2026/11/19/toyota-recalls-vehicles-lexus-models/92860583007/",
    "medio": "USA Today",
@@ -135,7 +189,7 @@
   },
   {
    "tema": "clima neuquen",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Clima hoy en Neuquén, el pronóstico del tiempo para este 21 noviembre 2026",
    "nota_url": "https://www.infocampo.com.ar/clima-hoy-en-neuquen-el-pronostico-del-tiempo-para-este-21-noviembre-2026/",
    "medio": "Infocampo",
@@ -144,73 +198,19 @@
   },
   {
    "tema": "club deportivo maipú",
-   "busquedas": "500+",
-   "nota": "El mensaje de Deportivo Maipú tras el fallo del Tribunal",
-   "nota_url": "https://www.soloascenso.com.ar/notas/deportivo-maipu/el-mensaje-de-deportivo-maipu-tras-el-fallo-del-tribunal/234593",
-   "medio": "Solo Ascenso",
+   "busquedas": "1000+",
+   "nota": "Polémica en el ascenso: le dieron por ganado el partido a Deportivo Madryn contra Maipú",
+   "nota_url": "https://www.rionegro.com.ar/deportes/futbol/polemica-en-el-ascenso-le-dieron-por-ganado-el-partido-a-deportivo-madryn-contra-maipu-4805349/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mario pergolini",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "“No te lo quería decir”: la confesión de Nicki Nicole que hizo enojar a Pergolini en Otro Día Perdido",
    "nota_url": "https://eldoce.tv/show/2026/11/21/no-te-lo-queria-decir-la-confesion-de-nicki-nicole-que-hizo-enojar-a-pergolini-en-otro-dia-perdido/",
    "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "epicentro",
-   "busquedas": "2000+",
-   "nota": "El terremoto sorprendió a una periodista durante un programa en vivo en Perú: el video",
-   "nota_url": "https://tn.com.ar/internacional/2026/11/21/el-terremoto-sorprendio-a-una-periodista-durante-un-programa-en-vivo-en-peru-el-video/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "francisco moura",
-   "busquedas": "2000+",
-   "nota": "Farioli: «Temos de agradecer ao Cláudio, é o herói da noite»",
-   "nota_url": "https://cnnportugal.iol.pt/fc-porto/francesco-farioli/farioli-temos-de-agradecer-ao-claudio-e-o-heroi-da-noite",
-   "medio": "CNN Portugal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tormenta",
-   "busquedas": "2000+",
-   "nota": "Ciclón extratropical: cuándo llegará y qué zonas podría afectar",
-   "nota_url": "https://www.eldia.com/informacion-general/ciclon-extratropical-cuando-llegara-y-que-zonas-podria-afectar-informacion-general_1795090970",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "allanamiento",
-   "busquedas": "1000+",
-   "nota": "Cómo ingresarían drogas a la U15 de Río Gallegos y la sospecha sobre personal penitenciario",
-   "nota_url": "https://www.eldiarionuevodia.com.ar/locales/como-ingresarian-drogas-a-la-u15-de-rio-gallegos-y-la-sospecha-sobre-personal-penitenciario-8168/",
-   "medio": "Diario Nuevo Día",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gabriel felix influencer",
-   "busquedas": "2000+",
-   "nota": "Murió Gabriel Félix, el reconocido influencer brasileño: tenía 29 años",
-   "nota_url": "https://la100.cienradios.com/mundo/murio-gabriel-felix-el-reconocido-influencer-brasileno-tenia-29-anos/",
-   "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estrella gigante",
-   "busquedas": "200+",
-   "nota": "Observaron una estrella que engulle a su compañera en las afueras de la galaxia de Andrómeda",
-   "nota_url": "https://www.clarin.com/internacional/observaron-estrella-engulle-companera-afueras-galaxia-andromeda_0_YRhHXmeP7k.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
