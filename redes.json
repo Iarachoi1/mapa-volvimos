@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 16:38",
+ "actualizado": "21/11 17:29",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,20 +27,14 @@
    "temas": []
   },
   {
+   "tema": "#UFCQatar",
+   "url": "https://x.com/search?q=%23UFCQatar",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Alpine",
    "url": "https://x.com/search?q=Alpine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#telemetrico",
-   "url": "https://x.com/search?q=%23telemetrico",
    "relevante": false,
    "temas": []
   },
@@ -57,6 +51,24 @@
    "temas": []
   },
   {
+   "tema": "Norberto Briasco",
+   "url": "https://x.com/search?q=Norberto%20Briasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Topuria",
    "url": "https://x.com/search?q=Topuria",
    "relevante": false,
@@ -69,14 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Arsenal",
-   "url": "https://x.com/search?q=Arsenal",
+   "tema": "Raya",
+   "url": "https://x.com/search?q=Raya",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +105,8 @@
    "temas": []
   },
   {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "tema": "Arsenal",
+   "url": "https://x.com/search?q=Arsenal",
    "relevante": false,
    "temas": []
   },
@@ -117,101 +117,101 @@
    "temas": []
   },
   {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "new england - philadelphia",
-   "busquedas": "100+",
-   "nota": "XI Notes presented by BIMBO | Union at New England Revolution | Game 1",
-   "nota_url": "https://www.philadelphiaunion.com/news/xi-notes-presented-bimbo-union-at-new-england-revolution-112126",
-   "medio": "Philadelphia Union",
+   "tema": "brasileirão serie a",
+   "busquedas": "200+",
+   "nota": "Pep Guardiola curte roda de samba em Salvador",
+   "nota_url": "https://correiodopovopenedo.com.br/noticia/2026/11/21/pep-guardiola-curte-roda-de-samba-em-salvador",
+   "medio": "Correio do Povo Penedo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "francia - argentina",
-   "busquedas": "2000+",
-   "nota": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
-   "nota_url": "https://www.clarin.com/deportes/rubiolo-veinteanero-experimentado-pumas-creo-francia-ve-equipo-intenso-creo-dejen-librado-azar_0_jHZHoblke9.html",
+   "tema": "france vs argentina",
+   "busquedas": "200+",
+   "nota": "Licensable picture: Nations Championship - France v Argentina",
+   "nota_url": "https://www.reutersconnect.com/item/nations-championship-france-v-argentina/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxSjVQNDY",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jesus de miguel",
+   "busquedas": "200+",
+   "nota": "Piqué criticó los 12 partidos a Owono, el arquero involucrado en la muerte del futbolista de Tenerife: \"La sanción tiene que ser por la acción, no por las consecuencias\"",
+   "nota_url": "https://www.clarin.com/deportes/pique-critico-12-partidos-owono-arquero-involucrado-muerte-futbolista-tenerife-sancion-accion-consecuencias_0_U48TFe6cKf.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "real madrid - celta de vigo",
-   "busquedas": "1000+",
-   "nota": "Vinícius espera en el banquillo y el Celta remueve medio equipo",
-   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/21/vinicius-espera-en-el-banquillo-y-el-celta-remueve-medio-equipo/",
-   "medio": "Infobae",
+   "tema": "alexander zverev",
+   "busquedas": "500+",
+   "nota": "Medvedev venció a Tiafoe y jugará contra Zverev en las ATP Finals",
+   "nota_url": "https://www.vermouth-deportivo.com.ar/medvedev-vencio-a-tiafoe-y-jugara-contra-zverev-en-las-atp-finals/",
+   "medio": "Vermouth Deportivo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "barracas",
+   "tema": "posiciones de sevilla fc contra betis",
    "busquedas": "200+",
-   "nota": "Defensa y Justicia vs Barracas Central Prediction, Betting Tips, Lineups & Odds | 21 Nov 2026",
-   "nota_url": "https://www.sportsgambler.com/betting-tips/football/defensa-y-justicia-vs-barracas-central-prediction-lineups-odds-2026-11-21/",
-   "medio": "Sportsgambler",
+   "nota": "Watch: Milan loanee Fofana enjoying life at Sevilla as fans show their appreciation",
+   "nota_url": "https://sempremilan.com/watch-milan-loanee-fofana-sevilla-fans",
+   "medio": "SempreMilan",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "diego placente",
-   "busquedas": "100+",
-   "nota": "Qué necesita Argentina para clasificar en el Mundial Sub 17",
-   "nota_url": "https://www.tycsports.com/seleccion-argentina/que-necesita-argentina-para-clasificar-en-el-mundial-sub-17-op-id772150.html",
-   "medio": "TyC Sports",
+   "tema": "talleres de escalada",
+   "busquedas": "200+",
+   "nota": "Real Pilar busca el pase a las semifinales",
+   "nota_url": "https://www.pilaradiario.com/la-liga/real-pilar-busca-el-pase-las-semifinales-n5473664",
+   "medio": "Pilar a Diario",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "doue",
-   "busquedas": "100+",
-   "nota": "Another serious injury at PSG? Desire Doue appears to suffer serious injury",
-   "nota_url": "https://www.goal.com/en/news/another-nightmare-diagnosis-for-psg-attacking-star-appears-to-suffer-serious-injury/blt5498456e0f0cfd93",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan román riquelme",
-   "busquedas": "100+",
-   "nota": "El conmovedor encuentro de Riquelme con un hincha colombiano de Boca que llamó Juan Román a su hijo en su honor",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/21/el-conmovedor-encuentro-de-riquelme-con-un-hincha-colombiano-de-boca-que-llamo-juan-roman-a-su-hijo-en-su-honor/",
+   "tema": "colón - deportivo morón",
+   "busquedas": "2000+",
+   "nota": "Colón vs Morón, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/21/colon-vs-moron-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "napoli - torino",
+   "tema": "losc - lyon",
    "busquedas": "200+",
-   "nota": "NAPOLI-TORINO, METROPOLITANA PROLUNGA IL SERVIZIO: ULTIMA CORSA STRAORDINARIA ALLE 23:50",
-   "nota_url": "https://www.napolicalcionews.it/news-calcio-napoli/Napoli-Torino--metropolitana-prolunga-il-servizio--ultima-corsa-straordinaria-alle-23-50-151461.aspx",
-   "medio": "Napolicalcionews.it",
+   "nota": "Multiplex Ligue 1 : à quelle heure et sur quelle chaîne voir les matchs du samedi soir ?",
+   "nota_url": "https://news.footeo.com/2026/11/21/multiplex-ligue-1-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-du-samedi-soir-18172",
+   "medio": "Footeo News",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "claudio úbeda",
+   "tema": "palmeiras vs flamengo",
    "busquedas": "200+",
-   "nota": "Tras su paso por Boca, Claudio Ubeda es nuevo DT de Central Córdoba",
-   "nota_url": "https://bolavip.com/ar/futbolargentino/tras-su-paso-por-boca-claudio-ubeda-es-nuevo-dt-de-central-cordoba",
-   "medio": "Bolavip Argentina",
+   "nota": "Palmeiras x Flamengo: onde assistir ao vivo, horário e escalações",
+   "nota_url": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/11/21/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+   "medio": "ge",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "accidente panamericana",
-   "busquedas": "200+",
-   "nota": "Así fue el choque fatal en Panamericana entre dos autos y un colectivo",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/asi-fue-el-choque-en-panamericana-entre-dos-autos-y-un-colectivo-nid21112026/",
-   "medio": "La Nación",
-   "relevante": true,
+   "tema": "donyell malen",
+   "busquedas": "100+",
+   "nota": "Goed nieuws voor Oranje, spitsen stelen de show met vierklapper in Italië en droommoment bij Chelsea",
+   "nota_url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/goed-nieuws-voor-oranje-spitsen-stelen-de-show-met-vierklapper-in-italie-en-droommoment-bij-chelsea-2026112119053874749/",
+   "medio": "Sportnieuws.nl",
+   "relevante": false,
    "temas": []
   }
  ],
