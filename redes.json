@@ -1,13 +1,7 @@
 {
- "actualizado": "21/11 10:47",
+ "actualizado": "21/11 11:41",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "#unsabadomejor",
-   "url": "https://x.com/search?q=%23unsabadomejor",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
@@ -17,6 +11,18 @@
   {
    "tema": "Franco",
    "url": "https://x.com/search?q=Franco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bearman",
+   "url": "https://x.com/search?q=Bearman",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#unsabadomejor",
+   "url": "https://x.com/search?q=%23unsabadomejor",
    "relevante": false,
    "temas": []
   },
@@ -33,32 +39,14 @@
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Belgrano",
    "url": "https://x.com/search?q=Belgrano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Marchiori",
-   "url": "https://x.com/search?q=Marchiori",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
@@ -69,26 +57,32 @@
    "temas": []
   },
   {
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marchiori",
+   "url": "https://x.com/search?q=Marchiori",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Anderson",
+   "url": "https://x.com/search?q=Anderson",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Jason",
    "url": "https://x.com/search?q=Jason",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la EnfermerÃ­a",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Enfermer%C3%83%C2%ADa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +93,8 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ronaldo MartÃ­nez",
-   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +105,112 @@
    "temas": []
   },
   {
-   "tema": "EscupiÃ³",
-   "url": "https://x.com/search?q=Escupi%C3%83%C2%B3",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ronaldo MartÃ­nez",
+   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "como - cagliari",
+   "tema": "alcaraz",
+   "busquedas": "200+",
+   "nota": "\"El mundo sigue\": Nadal analiza la ruptura Alcaraz-Ferrero y el ascenso de Jódar",
+   "nota_url": "https://www.tennisworldes.com/tenis/news/Carlos_Alcaraz/94286/-el-mundo-sigue-nadal-analiza-la-ruptura-alcarazferrero-y-el-ascenso-de-jodar/",
+   "medio": "Tennis World ES",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "como",
+   "busquedas": "200+",
+   "nota": "Bryan Ruiz tras el 7-0: \"La equivocación más grande fue aceptar el amistoso\"",
+   "nota_url": "https://www.espn.com.ar/futbol/costa-rica/nota/_/id/17533913/bryan-ruiz-error-argentina",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chelsea - leeds",
+   "busquedas": "1000+",
+   "nota": "How to watch Chelsea vs Leeds United soccer for free today: English Premier League live stream, TV channel, o",
+   "nota_url": "https://www.oregonlive.com/tv/2026/11/how-to-watch-chelsea-vs-leeds-united-soccer-for-free-today-english-premier-league-live-stream-tv-channel-odds.html",
+   "medio": "OregonLive.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aston villa - sunderland afc",
    "busquedas": "500+",
-   "nota": "Como 1907 vs Cagliari: Pronóstico, Cuotas y Apuestas - Serie A",
-   "nota_url": "https://www.casasdeapuestas.com/pronosticos/como-1907-cagliari-20261121-private-45063675/",
-   "medio": "Casasdeapuestas.com",
+   "nota": "Juventus vs Venezia betting offers: The best free bets for Sunday's early Serie A game",
+   "nota_url": "https://www.squawka.com/en/betting-offers/juventus-vs-venezia-betting-offers-free-bets-22-11-2026/",
+   "medio": "Squawka",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "city vs",
+   "tema": "lazio - lecce",
    "busquedas": "200+",
-   "nota": "Ver EN VIVO Manchester City vs. Fulham: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/premier-league/manchester-city-vs-fulham-en-vivo-donde-ver-por-tv-y-online-id771644.html",
-   "medio": "TyC Sports",
+   "nota": "Serie A: prove di fuga con il Lecce per la Lazio capolista",
+   "nota_url": "https://stream24.ilsole24ore.com/video/sport24/serie-a-prove-fuga-il-lecce-la-lazio-capolista/AJDvpSOC",
+   "medio": "Il Sole 24 ORE",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "max verstappen",
+   "tema": "como fc",
    "busquedas": "200+",
-   "nota": "Después de sacarse chispas en Las Vegas, Russell liquidó a Verstappen: \"Se cree superior, alguien tiene que pararlo\"",
-   "nota_url": "https://www.tycsports.com/automovilismo/despues-de-sacarse-chispas-en-las-vegas-russell-liquido-a-verstappen-se-cree-superior-alguien-tiene-que-pararlo-id772469.html",
-   "medio": "TyC Sports",
+   "nota": "Kean is now a mystery, surprise revelation about the striker",
+   "nota_url": "https://onefootball.com/en/news/kean-is-now-a-mystery-surprise-revelation-about-the-striker-43802686",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "galatasaray - samsunspor",
+   "tema": "carlos alcaraz",
+   "busquedas": "1000+",
+   "nota": "Así quedó el cuadro de semifinales del ATP Finals 2026",
+   "nota_url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-el-cuadro-de-semifinales-del-atp-finals-2026-nid20112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mönchengladbach - dortmund",
    "busquedas": "200+",
-   "nota": "CANLI | Amed SK - Rizespor maçı başladı",
-   "nota_url": "https://www.canligaste.com/canli-amed-sk-rizespor-maci-basladi/954001/",
-   "medio": "Canlı Gaste",
+   "nota": "Bundesliga: Kann der BVB im Borussen-Duell den Patzer der Bayern nutzen?",
+   "nota_url": "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
+   "medio": "WELT",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "grilla de partida f1",
-   "busquedas": "5000+",
-   "nota": "Hasta Toto Wolff se sorprendió con la pole de Kimi Antonelli en Las Vegas",
-   "nota_url": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/17541451/hasta-toto-wolff-se-sorprendio-con-la-pole-de-kimi-antonelli-en-las-vegas",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "world rugby nations championship",
-   "busquedas": "200+",
-   "nota": "Facundo Isa y el duelo de Los Pumas ante Francia en París: \"Va a ser un partido increíble para mí\"",
-   "nota_url": "https://www.espn.com.ar/rugby/nota/_/id/17538730/rugby-los-pumas-francia-nations-championship-facundo-isa-entrevista-scrum",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "teams",
-   "busquedas": "100+",
-   "nota": "College football Week 12 top 10 games: Georgia-South Carolina, LSU-Tennessee and more",
-   "nota_url": "https://www.nytimes.com/athletic/7795512/2026/11/20/college-football-week-12-top-10-games-georgia-south-carolina-lsu-tennessee-and-more/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "21 de noviembre que se celebra",
-   "busquedas": "200+",
-   "nota": "La Presentación de Nuestra Señora",
-   "nota_url": "https://oracionyliturgia.archimadrid.org/2026/11/21/la-presentacion-de-nuestra-senora-2026/",
-   "medio": "Archidiocesis de Madrid",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "manchester city - fulham",
-   "busquedas": "20000+",
-   "nota": "O'Reilly, Bouaddi, Foden start as City make three changes",
-   "nota_url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
-   "medio": "Manchester City FC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "coronavirus",
+   "tema": "abogado",
    "busquedas": "2000+",
-   "nota": "Salud. Llegó a Argentina una nueva variante de Covid: qué se sabe y por qué aumentan los casos",
-   "nota_url": "https://www.lavoz.com.ar/salud/llego-argentina-nueva-variante-covid-sabe-aumentan-casos_0_RRXareZh0b.html",
-   "medio": "La Voz del Interior",
+   "nota": "El veredicto contra Cristian Pity Álvarez por el asesinato de su amigo",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/20/el-veredicto-contra-cristian-pity-alvarez-por-el-asesinato-de-su-amigo/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ben shelton",
+   "busquedas": "500+",
+   "nota": "ATP Finals",
+   "nota_url": "https://www.reutersconnect.com/item/atp-finals/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxMlBOQUc",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   }

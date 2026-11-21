@@ -1,8 +1,32 @@
 {
  "semana": "21 de noviembre de 2026",
  "fecha": "2026-11-21",
- "actualizado": "21/11 06:38",
+ "actualizado": "21/11 11:41",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "Milei empata con Kicillof en primera vuelta y tiene el piso más alto",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "21/11/2026",
+     "url": "https://bardeo.news/politica/milei-empata-con-kicillof-en-primera-vuelta-y-tiene-el-piso-mas-alto_a6b019840cd25aee288639415"
+    },
+    {
+     "titulo": "Tesla ya vende autos eléctricos en Argentina: precios y qué dijo Milei",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "21/11/2026",
+     "url": "https://bardeo.news/politica/tesla-ya-vende-autos-electricos-en-argentina--precios-y-que-dijo-milei_a6b0194e8cd25aee288635fd3"
+    },
+    {
+     "titulo": "El canto de una vedette: la historia de Erótica de Jorgelina Aranda",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "21/11/2026",
+     "url": "https://cenital.com/el-canto-de-una-vedette-la-historia-de-erotica-de-jorgelina-aranda/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    }
+   ],
+   "imagen": []
+  },
   "CABA": {
    "top3": [
     {
@@ -13,10 +37,17 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Crece el ruido libertario tras la caída de la sesión en diputados Los reclamos llegan hasta Luis Caputo por los desacuerdos con los gobernadores Juan Pablo Kavanagh",
+     "titulo": "Del Congreso a la Rosada Crece el ruido libertario: los reclamos en LLA llegan hasta Luis Caputo por los desacuerdos con los gobernadores Juan Pablo Kavanagh",
      "medio": "Perfil",
      "fecha": "21/11/2026",
-     "url": "https://www.perfil.com/politica/los-reclamos-llegan-hasta-luis-caputo-por-los-desacuerdos-con-los-gobernadores-aDWHp1Q4oqVs",
+     "url": "https://www.perfil.com/politica/crece-el-ruido-libertario-los-reclamos-en-lla-llegan-hasta-luis-caputo-por-los-desacuerdos-con-los-gobernadores-aLvoS3y6f9EK",
+     "tag": "Política"
+    },
+    {
+     "titulo": "ELECCIONES 2027 Los tres cierres de año de Milei: presentación de libro, congreso partidario y cumbre de la juventud Por Pablo Lapuente",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/politica/los-tres-cierres-ano-javier-milei-presentacion-libro-congreso-partidario-y-cumbre-la-juventud-n5428394",
      "tag": "Política"
     },
     {
@@ -62,17 +93,10 @@
      "tag": "Política"
     },
     {
-     "titulo": "\"No sé bien qué decir\". El confuso mensaje de Musk tras el discurso de Milei en el lanzamiento de Tesla en la Argentina",
-     "medio": "La Nación",
+     "titulo": "COMBATIENDO EN CAPITAL Quiénes asoman en el semillero de la UCR para la pelea en la Ciudad de Buenos Aires Por Francisco Basualdo",
+     "medio": "Letra P",
      "fecha": "21/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/elon-musk-dejo-un-confuso-mensaje-por-videollamada-tras-el-discurso-de-milei-en-el-lanzamiento-de-nid21112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
-     "medio": "Perfil",
-     "fecha": "21/11/2026",
-     "url": "https://www.perfil.com/columnistas/javier-milei-inicia-este-martes-una-nueva-etapa-vivir-en-recesion-aGqdT1G1LGOd",
+     "url": "https://www.letrap.com.ar/politica/quienes-asoman-el-semillero-la-ucr-la-pelea-la-ciudad-buenos-aires-n5428399",
      "tag": "Política"
     }
    ],
@@ -81,10 +105,22 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Alerta en el conurbano: intervinieron la fábrica que provee luminarias LED e investigan un faltante millonario",
-     "medio": "Infobae",
+     "titulo": "Presupuesto bonaerense: desde la oposición cuestionan que PBA ate los fondos al endeudamiento CRÍTICAS",
+     "medio": "La Tecla",
      "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/alerta-en-el-conurbano-intervinieron-la-fabrica-que-provee-luminarias-led-e-investigan-un-faltante-millonario/"
+     "url": "https://www.latecla.info/171341-presupuesto-bonaerense-desde-la-oposicion-cuestionan-que-pba-ate-los-fondos-al-endeudamiento"
+    },
+    {
+     "titulo": "Los gobernadores alambran sus provincias y se despegan de Milei: Torres adelantó las elecciones en Chubut",
+     "medio": "Diagonales",
+     "fecha": "21/11/2026",
+     "url": "https://www.diagonales.com/nacion/los-gobernadores-alambran-sus-provincias-y-se-despegan-de-milei--torres-adelanto-las-elecciones-en-chubut_a6b0198d8cd25aee288639e0e"
+    },
+    {
+     "titulo": "La Plata recibe el congreso para administrar la tregua en el PJ bonaerense",
+     "medio": "Info Cielo",
+     "fecha": "21/11/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/la-plata-recibe-el-congreso-para-administrar-la-tregua-en-el-pj-bonaerense"
     }
    ],
    "imagen": []
@@ -92,16 +128,22 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Previo a su tratamiento en el Senado La UCR rechazó la suspensión de las PASO que impulsa Nación para 2027",
-     "medio": "El Ancasti",
+     "titulo": "Jalil ya avisó que Catamarca elegirá gobernador en octubre, pero Saadi intenta convencerlo de votar en marzo Por Lucio Di Giuseppe",
+     "medio": "Letra P",
      "fecha": "21/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-ucr-rechazo-la-suspension-las-paso-que-impulsa-nacion-2027-n626486"
+     "url": "https://www.letrap.com.ar/politica/jalil-ya-aviso-que-catamarca-elegira-gobernador-octubre-pero-saadi-intenta-convencerlo-votar-marzo-n5428379"
     },
     {
-     "titulo": "Destacó que es gracias a sus políticas Milei inauguró operaciones de Tesla en Argentina",
+     "titulo": "Polémica por sus declaraciones sobre el atentado \"Es mentira, no daba clases en la UBA\": desmienten que Milei haya podido ser víctima de la AMIA",
      "medio": "El Ancasti",
      "fecha": "21/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/milei-inauguro-operaciones-tesla-argentina-n626488"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/es-mentira-no-daba-clases-la-uba-desmienten-que-milei-haya-podido-ser-victima-la-amia-n626498"
+    },
+    {
+     "titulo": "De YPF junto a Eni y XRG Aprueban ingreso al RIGI del proyecto Argentina LNG",
+     "medio": "El Ancasti",
+     "fecha": "21/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/aprueban-ingreso-al-rigi-del-proyecto-argentina-lng-n626489"
     }
    ],
    "imagen": []
@@ -109,10 +151,65 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "El martes 24 comienza el pago anticipado de impuestos 2027",
+     "titulo": "Massa engrosa apoyos para la paritaria del PJ y Kicillof confía en sus chances",
      "medio": "Diario Jornada",
      "fecha": "21/11/2026",
-     "url": "https://www.diariojornada.com.ar/427469/economia/el_martes_24_comienza_el_pago_anticipado_de_impuestos_2027"
+     "url": "https://www.diariojornada.com.ar/427481/politica/massa_engrosa_apoyos_para_la_paritaria_del_pj_y_kicillof_confia_en_sus_chances"
+    },
+    {
+     "titulo": "El día que Rawson fue capital del Chubut y que hoy parece que nadie se acuerda",
+     "medio": "Diario Jornada",
+     "fecha": "21/11/2026",
+     "url": "https://www.diariojornada.com.ar/427484/politica/el_dia_que_rawson_fue_capital_del_chubut_y_que_hoy_parece_que_nadie_se_acuerda"
+    },
+    {
+     "titulo": "Trelew es sede del 13° Encuentro Nacional de Mujeres Radicales",
+     "medio": "El Chubut",
+     "fecha": "21/11/2026",
+     "url": "https://www.elchubut.com.ar/politica/2026-11-21-11-15-0-trelew-es-sede-del-13-encuentro-nacional-de-mujeres-radicales"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "El proyecto TRAMA, oriundo de Córdoba, fue destacado en el Ideatón Federal del CFI",
+     "medio": "CBA24N",
+     "fecha": "21/11/2026",
+     "url": "https://www.cba24n.com.ar/cordoba/el-proyecto-trama--oriundo-de-cordoba--fue-destacado-en-el-ideaton-federal-del-cfi_a6b00c467ed48c54b77c22d68"
+    },
+    {
+     "titulo": "Tragedia en Buenos Aires. Explosión en Lanús: murieron otras dos personas y ya son cuatro las víctimas fatales",
+     "medio": "Cadena3",
+     "fecha": "21/11/2026",
+     "url": "https://www.cadena3.com/noticia/una-manana-para-todos/explosion-en-lanus-murieron-otras-dos-personas-y-ya-son-cuatro-las-victimas-fatales_615377",
+     "tag": "También en ElDoce"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "Fondos para rutas de Entre Ríos: la Justicia federal le exige explicaciones al gobierno nacional",
+     "medio": "AFP Digital",
+     "fecha": "21/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/21/480192-fondos-para-rutas-de-entre-rios-la-justicia-federal-le-exige-explicaciones-al-gobierno-nacional",
+     "tag": "También en UNO ER"
+    },
+    {
+     "titulo": "TEMPORADA DE ROSCA La UCR rebelde de Entre Ríos arma un acto con Storani y le hace un guiño al kicillofismo Por Exequiel Flesler",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-ucr-rebelde-rios-arma-un-acto-storani-y-le-hace-un-guino-al-kicillofismo-n5428384"
+    },
+    {
+     "titulo": "Renuevan el alerta por tormentas para varios departamentos de Entre Ríos",
+     "medio": "Ahora",
+     "fecha": "21/11/2026",
+     "url": "https://ahora.com.ar/sociedad/renuevan-el-alerta-por-tormentas-para-varios-departamentos-de-entre-rios",
+     "tag": "También en El Once"
     }
    ],
    "imagen": []
@@ -120,16 +217,50 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Presupuesto prevé recursos y gastos por $252 mil millones",
+     "titulo": "Ingreso a primer año 2027 en Jujuy: cómo sigue el cronograma tras la publicación de los listados de escuelas con y sin sobredemanda",
+     "medio": "Somos Jujuy",
+     "fecha": "21/11/2026",
+     "url": "https://www.somosjujuy.com.ar/jujuy/ingreso-primer-ano-2027-jujuy-como-sigue-cronograma-tras-publicacion-listados-escuelas-sobredemanda-n127549",
+     "tag": "También en Todo Jujuy, El Tribuno"
+    },
+    {
+     "titulo": "TEMPORADA DE ROSCA La pelea por el voto evangélico en Jujuy: el radicalismo busca recuperar terreno ante el crecimiento de LLA Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-pelea-el-voto-evangelico-jujuy-el-radicalismo-busca-recuperar-terreno-el-crecimiento-lla-n5428406"
+    },
+    {
+     "titulo": "Agenda cultural de Jujuy: hasta el 25 de noviembre",
      "medio": "El Tribuno",
      "fecha": "21/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-21-0-0-0-presupuesto-preve-recursos-y-gastos-por-252-mil-millones"
+     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-21-10-57-0-agenda-cultural-de-jujuy-hasta-el-25-de-noviembre",
+     "tag": "También en Jujuy al día, Somos Jujuy"
     }
    ],
    "imagen": []
   },
   "La Pampa": {
-   "top3": [],
+   "top3": [
+    {
+     "titulo": "La Juventud libertaria realizó su Congreso Federal en Santa Rosa",
+     "medio": "El Diario de La Pampa",
+     "fecha": "21/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83461/la-juventud-libertaria-realizo-su-congreso-federal-en-santa-rosa"
+    },
+    {
+     "titulo": "Efectivos policiales de la Seccional Tercera recuperaron una motocicleta robada el viernes por la noche en el barrio Villa Santillán de Santa Rosa. Pasadas las ...",
+     "medio": "La Arena",
+     "fecha": "21/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/recuperaron-una-moto-robada-20261121830",
+     "tag": "También en La Pampa 24"
+    },
+    {
+     "titulo": "Otra reunión del frente anti-PJ y pocas certezas sobre el acuerdo",
+     "medio": "El Diario de La Pampa",
+     "fecha": "21/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83457/otra-reunion-del-frente-anti-pj-y-pocas-certezas-sobre-el-acuerdo"
+    }
+   ],
    "imagen": [
     {
      "titulo": "La imagen positiva de Milei es de las más bajas del país",
@@ -139,27 +270,85 @@
     }
    ]
   },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "Milei valoró la llegada de Tesla en Argentina",
+     "medio": "Nueva Rioja",
+     "fecha": "21/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/milei-valoro-la-llegada-de-tesla-en-argentina.htm"
+    }
+   ],
+   "imagen": []
+  },
+  "Mendoza": {
+   "top3": [
+    {
+     "titulo": "Las escuelas cerraron el cronograma 2026 de simulacros de sismo",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "21/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/las-escuelas-cerraron-el-cronograma-2026-de-simulacros-de-sismo/"
+    },
+    {
+     "titulo": "Educación Superior distinguió producciones académicas de los postítulos docentes",
+     "medio": "Prensa oficial de Mendoza",
+     "fecha": "21/11/2026",
+     "url": "https://prensa.mendoza.gob.ar/educacion-superior-distinguio-producciones-academicas-de-los-postitulos-docentes/"
+    },
+    {
+     "titulo": "Mendoza consolidó una alianza regional para impulsar la minería",
+     "medio": "Memo",
+     "fecha": "21/11/2026",
+     "url": "https://www.memo.com.ar/poder/mendoza-consolido-una-alianza-regional-para-impulsar-la-mineria/"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "“No es la Luna ni otro planeta”: el particular spot de un candidato en Neuquén vestido de astronauta",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/no-es-la-luna-ni-otro-planeta-el-particular-spot-de-un-candidato-en-neuquen-vestido-de-astronauta/"
+    },
+    {
+     "titulo": "Letra P | El peronismo de Neuquén puso fecha para definir su estrategia electoral rumbo al 14 de febrero",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/el-peronismo-neuquen-puso-fecha-definir-su-estrategia-electoral-rumbo-al-14-febrero-n5428397"
+    },
+    {
+     "titulo": "Servicio esencial Tarifa Neuquina: más de 50.000 usuarios del EPEN tendrán el descuento en la próxima factura",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "21/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/21/267654-tarifa-neuquina-mas-de-50000-usuarios-del-epen-tendran-el-descuento-en-la-proxima-factura",
+     "tag": "También en Noticias NQN"
+    }
+   ],
+   "imagen": []
+  },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Esto es en Off: cambios y expectativas compartidas en el Ente de Conesa",
+     "titulo": "Se elevó el presupuesto de Viedma para el 2027, con un incremento del 31%",
      "medio": "Diario Rio Negro",
      "fecha": "21/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/esto-es-en-off-cambios-y-expectativas-compartidas-en-el-ente-de-conesa/"
+     "url": "https://www.rionegro.com.ar/politica/se-elevo-el-presupuesto-de-viedma-para-el-2027-con-un-incremento-del-31-4807500/"
     },
     {
-     "titulo": "Estos signos del zodiaco no pueden seguir fingiendo que todo está bien",
-     "medio": "AN Roca",
+     "titulo": "“Que no se vayan nuestros hijos”: Sierra Grande crece con el VMOS y proyecta con Argentina LNG",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "21/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/21/233601-estos-signos-del-zodiaco-no-pueden-seguir-fingiendo-que-todo-esta-bien",
-     "tag": "También en Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63027/que-no-se-vayan-nuestros-hijos-sierra-grande-crece-con-el-vmos-y-proyecta-con-argentina-lng",
+     "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Empeoraron las expectativas sobre demanda y producción en la industria",
-     "medio": "AN Roca",
+     "titulo": "Conocé la experiencia del médico Patricio Pazzi y su trabajo en la Medicina General de Río Negro",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "21/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/21/233592-empeoraron-las-expectativas-sobre-demanda-y-produccion-en-la-industria",
-     "tag": "También en Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63015/conoce-la-experiencia-del-medico-patricio-pazzi-y-su-trabajo-en-la-medicina-general-de-rio-negro",
+     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": []
@@ -167,22 +356,22 @@
   "Salta": {
    "top3": [
     {
+     "titulo": "Más de 3700 enfermeros se desempeñan en los servicios públicos de la provincia",
+     "medio": "Prensa oficial de Salta",
+     "fecha": "21/11/2026",
+     "url": "https://www.salta.gob.ar/prensa/noticias/mas-de-3700-enfermeros-se-desempenian-en-los-servicios-publicos-de-la-provincia-111242"
+    },
+    {
+     "titulo": "Alerta amarilla por tormentas acompañadas de lluvias para hoy",
+     "medio": "Prensa oficial de Salta",
+     "fecha": "21/11/2026",
+     "url": "https://www.salta.gob.ar/prensa/noticias/alerta-amarilla-por-tormentas-acompaniadas-de-lluvias-para-hoy-111215"
+    },
+    {
      "titulo": "Máximo Kirchner apuntó contra el RIGI y el Gobierno",
      "medio": "El Tribuno",
      "fecha": "21/11/2026",
      "url": "https://www.eltribuno.com/nacionales/2026-11-21-0-0-0-maximo-kirchner-apunto-contra-el-rigi-y-el-gobierno"
-    },
-    {
-     "titulo": "Kicillof profundiza su perfil presidencial de cara a 2027",
-     "medio": "El Tribuno",
-     "fecha": "21/11/2026",
-     "url": "https://www.eltribuno.com/nacionales/2026-11-21-0-0-0-kicillof-profundiza-su-perfil-presidencial-de-cara-a-2027"
-    },
-    {
-     "titulo": "De satélites a calefones solares: Salta lleva proyectos a feria nacional de tecnolñogía",
-     "medio": "Nuevo Diario de Salta",
-     "fecha": "21/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/de-satelites-a-calefones-solares-salta-lleva-proyectos-a-feria-nacional-de-tecnolnogia/"
     }
    ],
    "imagen": []
@@ -190,23 +379,23 @@
   "San Juan": {
    "top3": [
     {
+     "titulo": "04 Casi 70 mil personas asistieron a la primera noche de la FNS",
+     "medio": "El Zonda",
+     "fecha": "21/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/locales/casi-70-mil-personas-asistieron-a-la-primera-noche-de-la-fns",
+     "tag": "También en Huarpe, San Juan 8 y 1 más"
+    },
+    {
      "titulo": "Achem planteó la chance de separar las elecciones provinciales de las nacionales en 2027",
      "medio": "Huarpe",
      "fecha": "21/11/2026",
      "url": "https://www.diariohuarpe.com/nota/achem-abrio-la-puerta-a-desdoblar-las-elecciones-en-san-juan-en-2027-20261121010"
     },
     {
-     "titulo": "El ministro Perea, en el stand de DIARIO DE CUYO en la FNS: \"La minería es una locomotora que debe empujar al resto de los sectores productivos\" Por Fernando Ortiz",
-     "medio": "Diario de Cuyo",
+     "titulo": "Mendoza: siguen los dardos venenosos contra Luis Petri por bloquear el endeudamiento en la Legislatura",
+     "medio": "Tiempo de San Juan",
      "fecha": "21/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/san-juan/el-ministro-perea-el-stand-diario-cuyo-la-fns-la-mineria-es-una-locomotora-que-debe-empujar-al-resto-los-sectores-productivos-n6589214"
-    },
-    {
-     "titulo": "Casi 70.000 personas vivieron la primera noche de la Fiesta del Sol",
-     "medio": "Huarpe",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/la-fiesta-del-sol-2026-reunio-a-casi-70-mil-personas-en-su-primera-noche-202611210190",
-     "tag": "También en Tiempo de San Juan"
+     "url": "https://www.tiempodesanjuan.com/mendoza/mendoza-siguen-los-dardos-venenosos-contra-luis-petri-por-bloquear-el-endeudamiento-en-la-legislatura_1795214771"
     }
    ],
    "imagen": []
@@ -214,10 +403,16 @@
   "San Luis": {
    "top3": [
     {
-     "titulo": "Desde las 00:00 de este sábado está habilitado el tercer módulo para los emprendedores",
+     "titulo": "“El Gobernador dijo que este año se pasa la Navidad en casa propia y acá estamos”",
      "medio": "Prensa oficial de San Luis",
      "fecha": "21/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/21/1234214-desde-las-0000-de-este-sabado-esta-habilitado-el-tercer-modulo-para-los-emprendedores/"
+     "url": "https://agenciasanluis.com/2026/11/21/1234221-el-gobernador-dijo-que-este-ano-se-pasa-la-navidad-en-casa-propia-y-aca-estamos/"
+    },
+    {
+     "titulo": "Seis sueños cumplidos y una navidad prospera: Poggi entregó nuevas viviendas en San Gerónimo",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "21/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/21/1234229-seis-suenos-cumplidos-y-una-navidad-prospera-poggi-entrego-nuevas-viviendas-en-san-geronimo/"
     }
    ],
    "imagen": []
@@ -225,10 +420,46 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Compartir SERVICIOS PÚBLICOS. Caleta Olivia: pusieron en marcha un cargadero de agua para abastecer a los vecinos y frenar las extracciones ilegales",
-     "medio": "Winfo",
+     "titulo": "Ley electoral, presupuesto y fondos para municipios: qué le queda por resolver a Diputados de Santa Cruz",
+     "medio": "El Diario Nuevo Día",
      "fecha": "21/11/2026",
-     "url": "https://winfo.ar/politica/2026/11/caleta-olivia-pusieron-en-marcha-un-cargadero-de-agua-para-abastecer-a-los-vecinos-y-frenar-las-extracciones-ilegales"
+     "url": "https://www.eldiarionuevodia.com.ar/locales/ley-electoral-presupuesto-y-fondos-para-municipios-que-le-queda-por-resolver-a-diputados-de-santa-cruz-6158/"
+    },
+    {
+     "titulo": "Un terreno de Lázaro Báez en Santa Cruz terminó en manos de un juez designado por Vidal Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/politica/un-terreno-lazaro-baez-santa-cruz-termino-manos-un-juez-designado-claudio-vidal-n5428269"
+    },
+    {
+     "titulo": "Santa Cruz participó del Congreso Nacional de Asesorías Letradas Policiales en Tucumán",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "21/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/seguridad/policia-de-santa-cruz/santa-cruz-participo-del-congreso-nacional-de-asesorias-letradas-policiales-en-tucuman"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Fe": {
+   "top3": [
+    {
+     "titulo": "TEMPORADA DE ROSCA Michlig descarta las PASO para la vicegobernación y agita la fórmula Pullaro-Scaglia en Santa Fe Por Gabriela Albanesi",
+     "medio": "Letra P",
+     "fecha": "21/11/2026",
+     "url": "https://www.letrap.com.ar/politica/felipe-michlig-descarta-las-paso-la-vicegobernacion-y-agita-la-formula-pullaro-scaglia-santa-fe-n5428389"
+    },
+    {
+     "titulo": "Nueva Oportunidad: Pullaro anunció la elaboración de un proyecto de ley para la instauración definitiva del programa inclusión social",
+     "medio": "Agencia Fe",
+     "fecha": "21/11/2026",
+     "url": "https://agenciafe.com/nota/404304-Nueva-Oportunidad-Pullaro-anuncio-la-elaboracion-de-un-proyecto-de-ley-para-la-instauracion-definitiva-del-programa-inclusion-social"
+    },
+    {
+     "titulo": "Emitieron un alerta meteorológica en Rosario por tormentas fuertes para este sábado",
+     "medio": "La Capital",
+     "fecha": "21/11/2026",
+     "url": "https://www.lacapital.com.ar/la-ciudad/emitieron-un-alerta-meteorologica-rosario-tormentas-fuertes-este-sabado-n10293458.html",
+     "tag": "También en Rosario3"
     }
    ],
    "imagen": []
@@ -243,16 +474,39 @@
      "tag": "También en Nuevo Diario Web, El Liberal"
     },
     {
+     "titulo": "Ley Malvinas: Bullrich impulsa nuevas modificaciones y profundiza las diferencias con Caputo",
+     "medio": "El Liberal",
+     "fecha": "21/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/98665/2026/11/ley-malvinas--bullrich-impulsa-nuevas-modificaciones-y-profundiza-las-diferencias-con-santiago-caputo"
+    },
+    {
      "titulo": "Se viene el fin de semana largo: Javier Milei ratificó por decreto que el Día de la Virgen es inamovible",
      "medio": "El Liberal",
      "fecha": "21/11/2026",
      "url": "https://www.elliberal.com.ar/nota/98637/2026/11/se-viene-el-fin-de-semana-largo--javier-milei-ratifico-por-decreto-que-el-dia-de-la-virgen-es-inamovible"
+    }
+   ],
+   "imagen": []
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "Santilli dejó su candidatura en Buenos Aires en manos de Milei: “Voy a estar donde el Presidente me necesite”",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "21/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1163541/politica/santilli-dejo-candidatura-buenos-aires-manos-milei-voy-estar-donde-presidente-me-necesite.html"
     },
     {
-     "titulo": "Libres del Sur busca construir una alternativa política a Milei de cara a 2027",
-     "medio": "El Liberal",
+     "titulo": "Un joven libertario cruzó al secretario de Gobierno de Yerba Buena: “No seas tan calentón, muchachín”",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "21/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98641/2026/11/libres-del-sur-busca-construir-una-alternativa-politica-a-milei-de-cara-a-2027"
+     "url": "https://www.lagaceta.com.ar/nota/1163551/politica/joven-libertario-cruzo-al-secretario-gobierno-yerba-buena-no-seas-tan-calenton-muchachin.html"
+    },
+    {
+     "titulo": "Karina Milei retomó el vínculo con Macri, pero la interna del PRO no permite destrabar el acuerdo en CABA",
+     "medio": "Tucumán Despierta",
+     "fecha": "21/11/2026",
+     "url": "https://tucumandespierta.com/karina-milei-retomo-el-vinculo-con-macri-pero-la-interna-del-pro-no-permite-destrabar-el-acuerdo-en-caba/"
     }
    ],
    "imagen": []
