@@ -1,13 +1,7 @@
 {
- "actualizado": "20/11 22:59",
+ "actualizado": "20/11 23:46",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Ronaldo MartÃ­nez",
-   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Belgrano",
    "url": "https://x.com/search?q=Belgrano",
@@ -15,32 +9,8 @@
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Uvita",
-   "url": "https://x.com/search?q=Uvita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Marchiori",
+   "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
@@ -51,14 +21,68 @@
    "temas": []
   },
   {
+   "tema": "Godoy",
+   "url": "https://x.com/search?q=Godoy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ronaldo MartÃ­nez",
+   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Uvita",
+   "url": "https://x.com/search?q=Uvita",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Feler",
    "url": "https://x.com/search?q=Feler",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sporle",
+   "url": "https://x.com/search?q=Sporle",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Zelarayan",
+   "url": "https://x.com/search?q=Zelarayan",
    "relevante": false,
    "temas": []
   },
@@ -75,94 +99,106 @@
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "Liniers",
+   "url": "https://x.com/search?q=Liniers",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Vuelta de Obligado",
-   "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
+   "tema": "FortÃ­n",
+   "url": "https://x.com/search?q=Fort%C3%83%C2%ADn",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DAESANGFORBTS",
-   "url": "https://x.com/search?q=%23DAESANGFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Bill Gates",
-   "url": "https://x.com/search?q=Bill%20Gates",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Passerini",
-   "url": "https://x.com/search?q=Passerini",
+   "tema": "Qualy",
+   "url": "https://x.com/search?q=Qualy",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "marchiori",
-   "busquedas": "200+",
-   "nota": "Vélez vs Belgrano, por los playoffs del Torneo Clausura, EN VIVO: cómo va, resultado y minuto a minuto del partido",
-   "nota_url": "https://www.clarin.com/deportes/velez-vs-belgrano-playoffs-torneo-clausura-vivo-hora-ver-partido-octavos-final_0_Xe8SVIwU07.html",
+   "tema": "selección de rugby de francia",
+   "busquedas": "100+",
+   "nota": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
+   "nota_url": "https://www.clarin.com/deportes/rubiolo-veinteanero-experimentado-pumas-creo-francia-ve-equipo-intenso-creo-dejen-librado-azar_0_jHZHoblke9.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "la joaqui",
+   "tema": "gordon anibal",
    "busquedas": "100+",
-   "nota": "La insólita publicación de Luck Ra que varios usuarios interpretaron como una indirecta para La Joaqui",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/12/la-insolita-publicacion-de-luck-ra-que-varios-usuarios-interpretaron-como-una-indirecta-para-la-joaqui/",
-   "medio": "TN",
+   "nota": "Gordon es un thriller político a la vieja usanza, con una narrativa sólida y un personaje tan siniestro como fascinante",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/gordon-es-un-thriller-politico-a-la-vieja-usanza-con-una-narrativa-solida-y-un-personaje-tan-nid19112026/",
+   "medio": "La Nación",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calor",
+   "busquedas": "100+",
+   "nota": "Las llamativas medias negras que usaron los jugadores de Boca al llegar a Barranquilla: para qué sirven y cuánto cuestan",
+   "nota_url": "https://www.clarin.com/deportes/llamativas-medias-negras-usaron-jugadores-boca-llegar-barranquilla-sirven-cuestan_0_jGI4YQ8RgA.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "victoria villarruel",
+   "busquedas": "100+",
+   "nota": "Villarruel volvió a marcar distancia del Gobierno tras el cierre de La Campagnola en Mar Del Plata: “Sin industria no hay trabajo”",
+   "nota_url": "https://www.perfil.com/politica/villarruel-volvio-a-marcar-distancia-del-gobierno-tras-el-cierre-de-la-campagnola-en-mar-del-plata-sin-industria-no-hay-trabajo-a74aA1n1kCdo",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pistons - raptors",
+   "busquedas": "100+",
+   "nota": "Final Injury Report for Raptors-Pistons: Will Cade Cunningham, Scottie Barnes Play?",
+   "nota_url": "https://sports.yahoo.com/articles/final-injury-report-raptors-pistons-203000089.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "deportivo cali - millonarios",
+   "busquedas": "200+",
+   "nota": "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
+   "nota_url": "https://colombia.as.com/futbol/renuncio-en-plena-rueda-de-prensa-y-ahora-vuelve-a-palmaseca-gamero-abre-los-cuadrangulares-ante-el-cali-que-dejo-en-marzo-f202611-n/",
+   "medio": "AS Colombia",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "thunder - pelicans",
    "busquedas": "200+",
-   "nota": "Pelicans Thunder Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/pelicans-thunder-basketball/image_3960f117-8b27-546c-a062-5067d066adc2.html",
-   "medio": "Corsicana Daily Sun",
+   "nota": "Oklahoma City Thunder host New Orleans Pelicans in NBA Cup at Paycom Center",
+   "nota_url": "https://www.koco.com/article/sports-oklahoma-city-thunder-host-new-orleans-pelicans-nba-cup/74494377",
+   "medio": "KOCO",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "play off liga argentina",
    "busquedas": "200+",
-   "nota": "El equipo de Lanús para visitar a River por los octavos de final del Torneo Clausura",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/equipo-lanus-visitar-river-octavos-final-torneo-clausura-id772386.html",
-   "medio": "TyC Sports",
+   "nota": "Por otra hazaña en el Monumental: Lanús busca estirar su racha histórica ante River, en los Octavos del Clausura",
+   "nota_url": "https://fortalezagranate.com.ar/por-otra-hazana-en-el-monumental-lanus-busca-estirar-su-racha-historica-ante-river-en-los-octavos-del-clausura/",
+   "medio": "Fortaleza Granate",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "choque frontal",
-   "busquedas": "500+",
+   "busquedas": "2000+",
    "nota": "Una persona murió tras el choque frontal entre un auto y un camión en Corrientes",
    "nota_url": "https://www.ellitoral.com.ar/policiales/2026-11-20-18-25-0-una-persona-murio-tras-el-choque-frontal-entre-un-auto-y-un-camion-en-corrientes",
    "medio": "El Litoral | Novedades de Corrientes",
@@ -170,47 +206,11 @@
    "temas": []
   },
   {
-   "tema": "bulls - wizards",
+   "tema": "nicolás fernández",
    "busquedas": "200+",
-   "nota": "Polymarket Promo Code WSN: $25 Bonus for Wizards vs. Bulls (November 20)",
-   "nota_url": "https://www.wsn.com/promos/polymarket-promo-code-nba-wizards-vs-bulls-11-20-2026/",
-   "medio": "WSN.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cavaliers - pacers",
-   "busquedas": "100+",
-   "nota": "Pacers Cavaliers Basketball",
-   "nota_url": "https://www.couriernews.com/sports/pacers-cavaliers-basketball/image_fd0ea3bb-4806-55a0-9a06-9625c2e6183a.html",
-   "medio": "couriernews.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "los juegos del hambre",
-   "busquedas": "500+",
-   "nota": "Does Maysilee Die in ‘Sunrise on the Reaping’? Her Tragic Fate Explained",
-   "nota_url": "https://www.imdb.com/news/ni66115356/?ref_=ttnw_art_perm",
-   "medio": "IMDb",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inmueble",
-   "busquedas": "1000+",
-   "nota": "Quilmes: Señó una propiedad por US$63.000, descubrió que seguía ocupada y la Justicia rechazó devolverle el dinero",
-   "nota_url": "https://diarioconurbano.com.ar/principal/quilmes-seno-una-propiedad-por-us63-000-descubrio-que-seguia-ocupada-y-la-justicia-rechazo-devolverle-el-dinero/",
-   "medio": "Diario Conurbano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bloomberg línea",
-   "busquedas": "100+",
-   "nota": "El desplome de la IA lleva al Nasdaq a su peor semana en año y medio con Anthropic hundiéndose un 8,5%",
-   "nota_url": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
-   "medio": "EL PAÍS",
+   "nota": "Video. Uvita Fernández volvió a vestirse de héroe y puso el 2-1 de Belgrano",
+   "nota_url": "https://www.lavoz.com.ar/deportes/uvita-fernandez-volvio-vestirse-heroe-puso-2-1-belgrano_0_t9hsb51H8d.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
