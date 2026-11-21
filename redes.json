@@ -1,7 +1,31 @@
 {
- "actualizado": "21/11 18:27",
+ "actualizado": "21/11 19:28",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Meza",
+   "url": "https://x.com/search?q=Meza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Morales",
+   "url": "https://x.com/search?q=Morales",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marcone",
+   "url": "https://x.com/search?q=Marcone",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Palais",
+   "url": "https://x.com/search?q=Palais",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Mele",
    "url": "https://x.com/search?q=Mele",
@@ -15,26 +39,56 @@
    "temas": []
   },
   {
-   "tema": "Palais",
-   "url": "https://x.com/search?q=Palais",
+   "tema": "Arias",
+   "url": "https://x.com/search?q=Arias",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Maxi Meza",
-   "url": "https://x.com/search?q=Maxi%20Meza",
+   "tema": "Banegas",
+   "url": "https://x.com/search?q=Banegas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#UFCQatar",
-   "url": "https://x.com/search?q=%23UFCQatar",
+   "tema": "Independiente",
+   "url": "https://x.com/search?q=Independiente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nico Diez",
+   "url": "https://x.com/search?q=Nico%20Diez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#integracionlouie",
+   "url": "https://x.com/search?q=%23integracionlouie",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pumas",
+   "url": "https://x.com/search?q=Pumas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#louistomlinson",
+   "url": "https://x.com/search?q=%23louistomlinson",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Sterling",
    "url": "https://x.com/search?q=Sterling",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#UFCQatar",
+   "url": "https://x.com/search?q=%23UFCQatar",
    "relevante": false,
    "temas": []
   },
@@ -51,32 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Nico Diez",
-   "url": "https://x.com/search?q=Nico%20Diez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Marcone",
-   "url": "https://x.com/search?q=Marcone",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#Independiente",
-   "url": "https://x.com/search?q=%23Independiente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sabrina",
-   "url": "https://x.com/search?q=Sabrina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Arsenal",
-   "url": "https://x.com/search?q=Arsenal",
+   "tema": "Argentinos Juniors",
+   "url": "https://x.com/search?q=Argentinos%20Juniors",
    "relevante": false,
    "temas": []
   },
@@ -87,130 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Barracas Central",
-   "url": "https://x.com/search?q=Barracas%20Central",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Arias",
-   "url": "https://x.com/search?q=Arias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Topuria",
-   "url": "https://x.com/search?q=Topuria",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Sharia",
    "url": "https://x.com/search?q=Sharia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Congreso del PJ",
-   "url": "https://x.com/search?q=Congreso%20del%20PJ",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Briatore",
-   "url": "https://x.com/search?q=Briatore",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "u. católica - barcelona sc",
+   "tema": "chicho serna",
    "busquedas": "200+",
-   "nota": "Universidad Catolica - Barcelona | pronósticos + mejores cuotas | 21.11.2026",
-   "nota_url": "https://www.futbol24.com/es/pronosticos-deportivos/previa/21-11-2026-universidad-catolica-barcelona-pronostico/",
-   "medio": "Futbol24",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima tandil",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "Chicho Serna: el \"honor\" por su rol en la final y el jugador que le recomendó a Riquelme",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17538039/boca-vs-atletico-mineiro-final-chicho-serna-espn-f12",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "napoli vs",
-   "busquedas": "100+",
-   "nota": "Allegri explains Napoli changes and De Bruyne benching: ‘We always look vulnerable’",
-   "nota_url": "https://onefootball.com/en/news/allegri-explains-napoli-changes-and-de-bruyne-benching-we-always-look-vulnerable-43815243",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "o'higgins - u. de chile",
+   "tema": "inter miami - columbus crew",
    "busquedas": "200+",
-   "nota": "Con cortes de tránsito y Ley Seca: Así serán las medidas de seguridad para O’Higgins vs U de Chile",
-   "nota_url": "https://eltipografo.cl/2026/11/con-cortes-de-transito-y-ley-seca-asi-seran-las-medidas-de-seguridad-para-ohiggins-vs-u-de-chile",
-   "medio": "El Tipógrafo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima olavarria",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atlanta",
-   "busquedas": "500+",
-   "nota": "Ciudad de Bolívar vs. Atlanta, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/primera-nacional/ciudad-de-bolivar-vs-atlanta-en-vivo-donde-ver-por-tv-y-online-id772131.html",
+   "nota": "Kily González y el secreto de Inter Miami en torno a Messi para poder ganar los playoffs de la MLS",
+   "nota_url": "https://www.tycsports.com/estados-unidos/mls/kily-gonzalez-y-el-secreto-de-inter-miami-en-torno-a-messi-para-poder-ganar-los-playoffs-de-la-mls-id772415.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "estudiantes vs palmeiras",
+   "tema": "golfo pérsico",
+   "busquedas": "200+",
+   "nota": "La economía global tras el fin de la guerra de Irán",
+   "nota_url": "https://www.eleconomista.com.mx/opinion/economia-global-guerra-iran-20261119-844722.html",
+   "medio": "El Economista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa libertadores",
+   "busquedas": "200+",
+   "nota": "Boca va por un premio millonario en la Copa Sudamericana 2026: cuánta plata ganará si sale campeón",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/21/boca-va-por-un-premio-millonario-en-la-copa-sudamericana-2026-cuanta-plata-ganara-si-sale-campeon/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima barranquilla",
    "busquedas": "100+",
-   "nota": "Aquel insólito antecedente del árbitro de la final de la Libertadores con Palmeiras y ante River: polémica, VAR y extraña explicación",
-   "nota_url": "https://www.infocielo.com/deportes/el-insolito-momento-de-valenzuela-en-el-monumental-polemica-var-y-extrana-explicacion",
-   "medio": "Infocielo",
+   "nota": "Clima en Barranquilla: conoce el pronóstico y prepárate antes de salir",
+   "nota_url": "https://www.infobae.com/colombia/2026/11/20/clima-en-barranquilla-conoce-el-pronostico-y-preparate-antes-de-salir/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "alianza lima - fc cajamarca",
-   "busquedas": "200+",
-   "nota": "Predicción Liga 1 2026: resultado exacto de Alianza Lima vs. FC Cajamarca, según la IA",
-   "nota_url": "https://bolavip.com/pe/liga-1/prediccion-liga-1-2026-resultado-exacto-de-alianza-lima-vs-fc-cajamarca-segun-la-ia",
-   "medio": "Bolavip Perú",
+   "tema": "tomás cuello",
+   "busquedas": "500+",
+   "nota": "De cruzar la frontera a pie con valijas a jugar la final contra Boca: la increíble historia del argentino de Atlético Mineiro",
+   "nota_url": "https://viapais.com.ar/deportes/emotiva-historia-tomas-cuello-argentino-atletico-mineiro-jugara-final-boca_0_GsUAjIVFC7.html",
+   "medio": "Vía País",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bahía - coritiba",
-   "busquedas": "200+",
-   "nota": "Everton Ribeiro, Gilberto Gil, charuto e samba: detalhes da visita de Pep Guardiola em Salvador",
-   "nota_url": "https://www.terra.com.br/esportes/futebol/everton-ribeiro-gilberto-gil-charuto-e-samba-detalhes-da-visita-de-pep-guardiola-em-salvador,5f6e8b65b7c4409098b153d779e606aczivoakib.html",
-   "medio": "Terra",
+   "tema": "kevin castaño",
+   "busquedas": "500+",
+   "nota": "Finalista de Sudamericana: Kevin Castaño se redimió en Mineiro de un 2026 complejo",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17532967/kevin-castano-se-redimio-en-mineiro-de-una-temporada-2026-compleja",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "monaco fc",
+   "tema": "fred",
    "busquedas": "200+",
-   "nota": "Monaco Start Brunner and Abline Against Auxerre",
-   "nota_url": "https://cwibc.co.id/en/monaco-brunner-abline-auxerre-lineup",
-   "medio": "cwibc.co.id",
+   "nota": "Warner thrilled to rep 49ers, Mexican heritage in another international showcase",
+   "nota_url": "https://www.mercurynews.com/2026/11/21/fred-warner-mexican-heritage-49ers-mexico-city-vikings/",
+   "medio": "The Mercury News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santiago mele",
+   "busquedas": "100+",
+   "nota": "Independiente vence a Argentinos Juniors en La Paternal por los octavos de final del Torneo Clausura",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/21/argentinos-juniors-e-independiente-se-enfrentaran-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bernard",
+   "busquedas": "500+",
+   "nota": "Bernard Laporte le respondió a Felipe Contepomi: \"No hay necesidad de crear conflictos donde no los hay\"",
+   "nota_url": "https://www.espn.com.ar/rugby/nota/_/id/17537629/rugby-los-pumas-felipe-contepomi-contra-clubes-bajas-francia-formacion",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   }
