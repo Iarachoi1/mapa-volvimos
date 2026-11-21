@@ -1,22 +1,10 @@
 {
- "actualizado": "21/11 05:01",
+ "actualizado": "21/11 06:38",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Franco",
    "url": "https://x.com/search?q=Franco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Antonelli",
-   "url": "https://x.com/search?q=Antonelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
    "relevante": false,
    "temas": []
   },
@@ -27,32 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Gasly",
    "url": "https://x.com/search?q=Gasly",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +27,14 @@
    "temas": []
   },
   {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Piastri",
-   "url": "https://x.com/search?q=Piastri",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +45,20 @@
    "temas": []
   },
   {
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +69,20 @@
    "temas": []
   },
   {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
    "relevante": false,
    "temas": []
   },
@@ -117,19 +93,79 @@
    "temas": []
   },
   {
-   "tema": "Qualy",
-   "url": "https://x.com/search?q=Qualy",
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ronaldo MartÃ­nez",
+   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vuelta de obligado",
+   "url": "https://x.com/search?q=vuelta%20de%20obligado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "gabriel felix influencer",
+   "tema": "francisco moura",
+   "busquedas": "2000+",
+   "nota": "Farioli: «Temos de agradecer ao Cláudio, é o herói da noite»",
+   "nota_url": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-temos-de-agradecer-ao-claudio-e-o-heroi-da-noite",
+   "medio": "Maisfutebol",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tormenta",
+   "busquedas": "500+",
+   "nota": "Ciclón extratropical: cuándo llegará y qué zonas podría afectar",
+   "nota_url": "https://www.eldia.com/informacion-general/ciclon-extratropical-cuando-llegara-y-que-zonas-podria-afectar-informacion-general_1795090970",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "allanamiento",
    "busquedas": "200+",
+   "nota": "Caso Lázaro Báez: realizaron 11 allanamientos en Santa Cruz, hubo tres detenidos y otros tres imputados quedaron con restricciones",
+   "nota_url": "https://www.eldiarionuevodia.com.ar/locales/caso-lazaro-baez-realizaron-11-allanamientos-en-santa-cruz-hubo-tres-detenidos-y-otros-tres-imputados-quedaron-con-restricciones-4815/",
+   "medio": "Diario Nuevo Día",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gabriel felix influencer",
+   "busquedas": "500+",
    "nota": "Murió Gabriel Félix, el reconocido influencer brasileño: tenía 29 años",
    "nota_url": "https://la100.cienradios.com/mundo/murio-gabriel-felix-el-reconocido-influencer-brasileno-tenia-29-anos/",
    "medio": "La 100",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estrella gigante",
+   "busquedas": "100+",
+   "nota": "Observaron una estrella que engulle a su compañera en las afueras de la galaxia de Andrómeda",
+   "nota_url": "https://www.clarin.com/internacional/observaron-estrella-engulle-companera-afueras-galaxia-andromeda_0_YRhHXmeP7k.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
@@ -163,54 +199,18 @@
   {
    "tema": "nuggets - rockets",
    "busquedas": "500+",
-   "nota": "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "nota_url": "https://www.washingtonpost.com/sports/nba/2026/11/21/rockets-nuggets-score-jokic-sengun/f907acca-e572-11f1-a99e-b3e3805c6b8b_story.html",
-   "medio": "The Washington Post",
+   "nota": "The Nuggets host the Rockets",
+   "nota_url": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd/iK3hEymTGnJC/",
+   "medio": "The New York Times",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jazz - suns",
    "busquedas": "200+",
-   "nota": "INEVITABLE: Suns WIN Despite Ugly Night, Collin Gillespie DEMANDS Starting Job OVER Jalen Green",
-   "nota_url": "https://www.wtol.com/video/sports/locked-on/lo-arizona/suns-show/inevitable-suns-win-despite-ugly-night-collin-gillespie-demands-starting-job-over-jalen-green/535-012f6885-171b-461a-b1e8-02ec1a5d387d",
-   "medio": "WTOL",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "terremoto sismo temblor hoy epicentro",
-   "busquedas": "1000+",
-   "nota": "El terremoto sorprendió a una periodista durante un programa en vivo en Perú: el video",
-   "nota_url": "https://tn.com.ar/internacional/2026/11/21/el-terremoto-sorprendio-a-una-periodista-durante-un-programa-en-vivo-en-peru-el-video/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lakers - kings",
-   "busquedas": "1000+",
-   "nota": "Lakers' NBA Cup chances require them to beat Kings — and by a lot",
-   "nota_url": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd/iYoYsOifeuk2/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de rugby de francia",
-   "busquedas": "100+",
-   "nota": "Francia vs. Los Pumas, por el Nations Championship: dónde ver en vivo, formaciones y horario",
-   "nota_url": "https://www.tycsports.com/rugby/francia-vs-los-pumas-por-el-nations-championship-donde-ver-en-vivo-formaciones-y-horario-id772260.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gordon anibal",
-   "busquedas": "200+",
-   "nota": "Gordon es un thriller político a la vieja usanza, con una narrativa sólida y un personaje tan siniestro como fascinante",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/gordon-es-un-thriller-politico-a-la-vieja-usanza-con-una-narrativa-solida-y-un-personaje-tan-nid19112026/",
-   "medio": "La Nación",
+   "nota": "Suns Jazz Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/suns-jazz-basketball/image_f3f67467-25e3-5dea-8f02-41208fd5e214.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   }

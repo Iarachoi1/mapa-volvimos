@@ -1,164 +1,107 @@
 {
- "semana": "20 de noviembre de 2026",
- "fecha": "2026-11-20",
- "actualizado": "20/11 21:44",
+ "semana": "21 de noviembre de 2026",
+ "fecha": "2026-11-21",
+ "actualizado": "21/11 06:38",
  "items": {
-  "NACIONAL": {
+  "CABA": {
    "top3": [
     {
-     "titulo": "Las llamadas de Karina por las PASO, la tensión con Bullrich y el escenario electoral 2027",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "20/11/2026",
-     "url": "https://cenital.com/las-llamadas-de-karina-por-las-paso-la-tension-con-bullrich-y-el-escenario-electoral-2027/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+     "titulo": "Reforma electoral. El Gobierno admite que tiene los votos justos para aprobar la suspensión de las PASO en el Senado",
+     "medio": "La Nación",
+     "fecha": "21/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/",
+     "tag": "Calendario electoral"
     },
     {
-     "titulo": "El Senado aprobó la Ley de Discapacidad",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "20/11/2026",
-     "url": "https://cenital.com/el-senado-aprobo-la-ley-de-discapacidad/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+     "titulo": "Crece el ruido libertario tras la caída de la sesión en diputados Los reclamos llegan hasta Luis Caputo por los desacuerdos con los gobernadores Juan Pablo Kavanagh",
+     "medio": "Perfil",
+     "fecha": "21/11/2026",
+     "url": "https://www.perfil.com/politica/los-reclamos-llegan-hasta-luis-caputo-por-los-desacuerdos-con-los-gobernadores-aDWHp1Q4oqVs",
+     "tag": "Política"
     },
     {
-     "titulo": "Máximo Kirchner apuntó contra la “verdadera casta” y pidió auditar el RIGI",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "20/11/2026",
-     "url": "https://bardeo.news/politica/maximo-kirchner-apunto-contra-la--verdadera-casta--y-pidio-auditar-el-rigi_a6b00be32cd25aee2885a0656"
+     "titulo": "Karina Milei retomó el vínculo con Macri, pero la interna del PRO no permite destrabar el acuerdo en CABA",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/karina-milei-retomo-el-vinculo-con-macri-pero-la-interna-del-pro-no-permite-destrabar-el-acuerdo-en-caba/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El incómodo conflicto de intereses que enfrenta el Gobierno y traba dos proyectos clave en Diputados",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/el-incomodo-conflicto-de-intereses-que-enfrenta-el-gobierno-y-traba-dos-proyectos-clave-en-diputados/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Ley Malvinas: Bullrich pretende hacerle más cambios al texto y tensiona su vínculo con Santiago Caputo",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/ley-malvinas-bullrich-pretende-hacerle-mas-cambios-al-texto-y-tensiona-su-vinculo-con-santiago-caputo/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Las incongruencias que muestra el Gobierno y una estrategia electoral que no termina de tomar forma",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/las-incongruencias-que-muestra-el-gobierno-y-una-estrategia-electoral-que-no-termina-de-tomar-forma/",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "La Corte y los DNU. Milei perdió un rasgo que compartía con Cristina Kirchner y entró en un grupo reducido de presidentes",
+     "medio": "La Nación",
+     "fecha": "21/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/la-corte-y-los-dnu-milei-perdio-un-rasgo-que-compartia-con-cristina-kirchner-y-entro-en-un-grupo-nid21112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Qué son las acefalías gremiales de facto y por qué se convirtieron en el gran conflicto que divide hoy al Gobierno y la CGT",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/que-son-las-acefalias-gremiales-de-facto-y-por-que-se-convirtieron-en-el-gran-conflicto-que-divide-hoy-al-gobierno-y-la-cgt/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "\"No sé bien qué decir\". El confuso mensaje de Musk tras el discurso de Milei en el lanzamiento de Tesla en la Argentina",
+     "medio": "La Nación",
+     "fecha": "21/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/elon-musk-dejo-un-confuso-mensaje-por-videollamada-tras-el-discurso-de-milei-en-el-lanzamiento-de-nid21112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
+     "medio": "Perfil",
+     "fecha": "21/11/2026",
+     "url": "https://www.perfil.com/columnistas/javier-milei-inicia-este-martes-una-nueva-etapa-vivir-en-recesion-aGqdT1G1LGOd",
+     "tag": "Política"
     }
    ],
    "imagen": []
   },
-  "CABA": {
-   "top3": [
-    {
-     "titulo": "Neuquén. Nadia Márquez busca ser la candidata a gobernadora de Milei, pero la ley de ficha limpia le impediría competir",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/nadia-marquez-busca-ser-la-candidata-a-gobernadora-de-milei-en-neuquen-pero-la-ley-de-ficha-limpia-nid20112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Qué son las PASO, los comicios que el gobierno de Milei busca suspender en las elecciones 2027",
-     "medio": "El Destape",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/paso-comicios-gobierno-milei-busca-suspender-elecciones-2027-2026112094842",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "La CGT hará un paro de dos horas en diciembre para protestar contra Milei",
-     "medio": "El Destape",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/paro-general-dos-horas-medida-fuerza-cgt-prepara-diciembre-2026112012510",
-     "tag": "Ciudad"
-    },
-    {
-     "titulo": "El Gobierno aprobó el ingreso al RIGI del proyecto de GNL de YPF por u$s 50.750 millones",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/letrae/energia-mineria/el-gobierno-aprobo-el-ingreso-al-rigi-del-proyecto-gnl-ypf-us-50750-millones-n5428411",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "Cuatro gobernadores debatieron federalismo y dejaron definiciones sobre las PASO, Milei y la interna peronista",
-     "medio": "Infobae",
-     "fecha": "20/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/20/cuatro-gobernadores-debatieron-federalismo-y-dejaron-definiciones-sobre-las-paso-milei-y-la-interna-peronista/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Qué son las \"colectoras\" que impulsa el gobierno de Javier Milei para las elecciones 2027",
-     "medio": "El Destape",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/colectoras-impulsa-gobierno-javier-milei-elecciones-2027-2026112094610",
-     "tag": "Política"
-    },
-    {
-     "titulo": "\"El plan no se toca\". El Gobierno adjudica la turbulencia financiera a factores externos y a las dudas sobre la reelección de Milei",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-adjudica-la-turbulencia-financiera-a-factores-externos-y-a-las-dudas-del-mercado-sobre-nid20112026/",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "NO ES LA ECONOMÍA Riesgo país: la Casa Rosada culpa al \"riesgo kuka\" y apuesta a los gobernadores para calmar a los mercados Por Pablo Lapuente",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/riesgo-pais-la-casa-rosada-culpa-al-riesgo-kuka-y-apuesta-los-gobernadores-calmar-los-mercados-n5428396",
-     "tag": "Política"
-    },
-    {
-     "titulo": "En medio de la corrida, le piden cambios urgentes a Milei para no perder las elecciones",
-     "medio": "La Politica Online",
-     "fecha": "20/11/2026",
-     "url": "https://www.lapoliticaonline.com/politica/los-propios-le-piden-cambios-urgentes-a-milei-para-no-perder-las-elecciones/",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "Turbulencia de fin de año Pese a la hiperactividad de Javier y Karina Milei, la Casa Rosada no logra frenar la crisis y se agrava la tensión financiera Pablo Varela",
-     "medio": "Perfil",
-     "fecha": "20/11/2026",
-     "url": "https://www.perfil.com/politica/pese-a-la-hiperactividad-de-javier-y-karina-milei-la-casa-rosada-no-logra-frenar-la-crisis-y-se-agrava-la-tension-financiera-aDwrS3P6N72G",
-     "tag": "Política"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Milei, atrapado en el laberinto de 2027: las certezas de la reelección chocan con las dudas económicas",
-     "medio": "Infobae",
-     "fecha": "20/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/20/milei-atrapado-en-el-laberinto-de-2027-las-certezas-de-la-reeleccion-chocan-con-las-dudas-economicas/"
-    },
-    {
-     "titulo": "Milei quedó tercero en imagen positiva y crece el rechazo: la encuesta que expone el desgaste del Presidente",
-     "medio": "El Destape",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/milei-sigue-cayendo-encuestas-conocio-ultimo-ranking-imagen-20261120165830"
-    }
-   ]
-  },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "¿Blanqueó candidatura? Kicillof y un mensaje para los jovenes en clave electoral",
-     "medio": "Info Cielo",
-     "fecha": "20/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/blanqueo-candidatura-kicillof-y-un-mensaje-para-los-jovenes-en-clave-electoral"
-    },
-    {
-     "titulo": "ESCENARIOS 2027 PASO, ¡afuera!: el peronismo y el plan B de cara a las definiciones electorales",
-     "medio": "La Tecla",
-     "fecha": "20/11/2026",
-     "url": "https://www.latecla.info/171315-paso-afuera-el-peronismo-y-el-plan-b-de-cara-a-las-definiciones-electorales"
-    },
-    {
-     "titulo": "\"Los argentinos no somos empanadas\". Kicillof nombró a Cristina Kirchner en un acto con intendentes de La Cámpora",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/kicillof-nombro-a-cristina-kirchner-en-un-acto-con-intendentes-de-la-campora-nid20112026/"
+     "titulo": "Alerta en el conurbano: intervinieron la fábrica que provee luminarias LED e investigan un faltante millonario",
+     "medio": "Infobae",
+     "fecha": "21/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/21/alerta-en-el-conurbano-intervinieron-la-fabrica-que-provee-luminarias-led-e-investigan-un-faltante-millonario/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "El 60% de los argentinos reprueba la gestión de Milei y el peronismo ganaría en ballotage ENCUESTA",
-     "medio": "La Tecla",
-     "fecha": "20/11/2026",
-     "url": "https://www.latecla.info/171325-el-60-de-los-argentinos-reprueba-la-gestion-de-milei-y-el-peronismo-se-impone-en-ballotage"
-    }
-   ]
+   "imagen": []
   },
   "Catamarca": {
    "top3": [
     {
-     "titulo": "Habrá sesiones extraordinarias El Presupuesto 2027 ingresará la semana que viene a la Cámara de Diputados",
+     "titulo": "Previo a su tratamiento en el Senado La UCR rechazó la suspensión de las PASO que impulsa Nación para 2027",
      "medio": "El Ancasti",
-     "fecha": "20/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/el-presupuesto-2027-ingresara-la-semana-que-viene-la-camara-diputados-n626467"
+     "fecha": "21/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-ucr-rechazo-la-suspension-las-paso-que-impulsa-nacion-2027-n626486"
     },
     {
-     "titulo": "Previo a su tratamiento en el Senado La UCR rechazó la suspensión de las PASO para 2027",
+     "titulo": "Destacó que es gracias a sus políticas Milei inauguró operaciones de Tesla en Argentina",
      "medio": "El Ancasti",
-     "fecha": "20/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-ucr-rechazo-la-suspension-las-paso-2027-n626458"
+     "fecha": "21/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/milei-inauguro-operaciones-tesla-argentina-n626488"
     }
    ],
    "imagen": []
@@ -166,118 +109,10 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Confirmado: las elecciones en Chubut serán en marzo",
+     "titulo": "El martes 24 comienza el pago anticipado de impuestos 2027",
      "medio": "Diario Jornada",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariojornada.com.ar/427439/politica/confirmado_las_elecciones_en_chubut_seran_en_marzo",
-     "tag": "También en Letra P, El Chubut"
-    },
-    {
-     "titulo": "El calendario electoral 2027. Torres confirmó que adelanta los comicios en Chubut y se extiende la ola de desdoblamientos",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/ignacio-torres-confirmo-que-adelanta-las-elecciones-en-chubut-y-se-extiende-la-ola-de-nid20112026/"
-    },
-    {
-     "titulo": "\"Torres tiene un cagazo bárbaro“: Bowen confirmó que quiere ser candidato a gobernador de Chubut",
-     "medio": "ADN Sur",
-     "fecha": "20/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/-torres-tiene-un-cagazo-barbaro---bowen-confirmo-que-quiere-ser-candidato-a-gobernador-de-chubut_a6b00b400fd7203bb62435c37"
-    }
-   ],
-   "imagen": []
-  },
-  "Córdoba": {
-   "top3": [
-    {
-     "titulo": "La Comisión de Relaciones Internacionales de la Legislatura recibió al senador italiano Fabio Porta",
-     "medio": "Legislatura de Córdoba",
-     "fecha": "20/11/2026",
-     "url": "https://legislaturacba.gob.ar/la-comision-de-relaciones-internacionales-de-la-legislatura-recibio-al-senador-italiano-fabio-porta/"
-    },
-    {
-     "titulo": "La Justicia que viene Llaryora negocia con Macri y le ofrece una silla al PRO en el Consejo de la Magistratura Por Luis Zegarra",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/martin-llaryora-negocia-mauricio-macri-y-le-ofrece-una-silla-al-pro-el-consejo-la-magistratura-n5428381"
-    },
-    {
-     "titulo": "Ciclo lectivo. Córdoba ya tiene calendario escolar para 2027: las fechas clave del próximo ciclo lectivo",
-     "medio": "Cadena3",
-     "fecha": "20/11/2026",
-     "url": "https://www.cadena3.com/noticia/sociedad/cordoba-ya-tiene-calendario-escolar-para-2027-las-fechas-clave-del-proximo-ciclo-lectivo_615134",
-     "tag": "También en ElDoce"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Clima adverso. Las impactantes imágenes de los destrozos en Calchín Oeste tras el paso de \"un tornado\"",
-     "medio": "Cadena3",
-     "fecha": "20/11/2026",
-     "url": "https://www.cadena3.com/noticia/juntos/las-impactantes-imagenes-de-los-destrozos-en-calchin-oeste-tras-el-paso-de-un-tornado_615099"
-    }
-   ]
-  },
-  "Corrientes": {
-   "top3": [
-    {
-     "titulo": "19:29 Suman cinco las provincias que desdoblan sus elecciones de la presidencial",
-     "medio": "El Litoral",
-     "fecha": "20/11/2026",
-     "url": "https://www.ellitoral.com.ar/nacional/2026-11-20-19-29-0-suman-cinco-las-provincias-que-desdoblan-sus-elecciones-de-la-presidencial"
-    },
-    {
-     "titulo": "El Gobierno de Corrientes anunció el cronograma de pago de sueldos para estatales",
-     "medio": "El Litoral",
-     "fecha": "20/11/2026",
-     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-20-9-21-0-el-gobierno-de-corrientes-anuncio-el-cronograma-de-pago-de-sueldos-de-noviembre-para-estatales"
-    }
-   ],
-   "imagen": []
-  },
-  "Entre Ríos": {
-   "top3": [
-    {
-     "titulo": "AMET también convocó al paro docente de 48 horas y sumó reclamos por salarios y jubilaciones",
-     "medio": "El Once",
-     "fecha": "20/11/2026",
-     "url": "https://www.elonce.com/politica/amet-tambien-convoco-al-paro-docente-de-48-horas-y-sumo-reclamos-por-salarios-y-jubilaciones.htm",
-     "tag": "También en AFP Digital, Ahora"
-    },
-    {
-     "titulo": "Chubut elegirá gobernador el 21 de marzo de 2027 con nuevas reglas electorales",
-     "medio": "AFP Digital",
-     "fecha": "20/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/20/480171-chubut-elegira-gobernador-el-21-de-marzo-de-2027-con-nuevas-reglas-electorales"
-    },
-    {
-     "titulo": "Los puntos principales de la Reforma Electoral que propone el gobierno nacional",
-     "medio": "Ahora",
-     "fecha": "20/11/2026",
-     "url": "https://ahora.com.ar/politica/los-puntos-principales-de-la-reforma-electoral-que-propone-el-gobierno-nacional"
-    }
-   ],
-   "imagen": []
-  },
-  "Formosa": {
-   "top3": [
-    {
-     "titulo": "Sobre tablas. Una sobrina del gobernador Gildo Insfrán fue designada en el Superior Tribunal de Formosa",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/una-sobrina-del-gobernador-gildo-insfran-fue-designada-en-el-superior-tribunal-de-formosa-nid20112026/"
-    },
-    {
-     "titulo": "Villaggi cuestionó la designación en el STJ y advirtió sobre la falta de independencia judicial en Formosa",
-     "medio": "La Mañana",
-     "fecha": "20/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108878/villaggi-cuestion-la-designacin-en-el-stj-y-advirti-sobre-la-falta-de-independencia-judicial-en-formosa/"
-    },
-    {
-     "titulo": "La Asociación de Trabajadores del Estado de Formosa pidió al Gobernador un bono de $ 1.200.000 a pagar en dos tramos",
-     "medio": "La Mañana",
-     "fecha": "20/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108883/la-asociacin-de-trabajadores-del-estado-de-formosa-pidi-al-gobernador-un-bono-de-1200000-a-pagar-en-dos-tramos/"
+     "fecha": "21/11/2026",
+     "url": "https://www.diariojornada.com.ar/427469/economia/el_martes_24_comienza_el_pago_anticipado_de_impuestos_2027"
     }
    ],
    "imagen": []
@@ -285,177 +120,46 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "RUIDOS EN LA PUNA Jujuy: Bernis contraataca desde la Legislatura tras saber que Sadir no lo quiere de vice en 2027 Por Lucio Di Giuseppe",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/jujuy-bernis-contraataca-la-legislatura-saber-que-sadir-no-lo-quiere-vice-2027-n5428348"
-    },
-    {
-     "titulo": "El Tren Solar de la Quebrada fue elegido como el mejor tren turístico de Argentina",
-     "medio": "Prensa oficial de Jujuy",
-     "fecha": "20/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/tren-solar/el-tren-solar-la-quebrada-fue-elegido-como-el-mejor-tren-turistico-argentina-n126047",
-     "tag": "También en Todo Jujuy, Jujuy al día y 1 más"
-    },
-    {
-     "titulo": "El presupuesto municipal de San Salvador de Jujuy rondará los $252 mil millones para 2027",
-     "medio": "Somos Jujuy",
-     "fecha": "20/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/el-presupuesto-municipal-san-salvador-jujuy-rondara-252-mil-millones-2027-n127444"
+     "titulo": "Presupuesto prevé recursos y gastos por $252 mil millones",
+     "medio": "El Tribuno",
+     "fecha": "21/11/2026",
+     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-21-0-0-0-presupuesto-preve-recursos-y-gastos-por-252-mil-millones"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Todo Jujuy | Lo que dejó la histórica cumbre trilateral entre Donald Trump, Xi Jinping y Putin en imágenes",
-     "medio": "Todo Jujuy",
-     "fecha": "20/11/2026",
-     "url": "https://www.todojujuy.com/lo-que-dejo-la-historica-cumbre-trilateral-donald-trump-xi-jinping-y-putin-imagenes-n299108"
-    }
-   ]
+   "imagen": []
   },
   "La Pampa": {
-   "top3": [
-    {
-     "titulo": "DISCUSIÓN 2027 La Pampa: el voto de Mayoral para aprobar el presupuesto sumó otra señal de distensión entre Ziliotto y Verna Por Juan Pablo Gavazza",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/la-pampa-el-voto-mayoral-aprobar-el-presupuesto-sumo-otra-senal-distension-ziliotto-y-verna-n5428370"
-    },
-    {
-     "titulo": "Con déficit cero: Diputados aprobó el Presupuesto 2027",
-     "medio": "La Arena",
-     "fecha": "20/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/con-deficit-cero-diputados-aprobo-el-presupuesto-2027-20261120040"
-    },
-    {
-     "titulo": "Chubut elegirá gobernador el 21 de marzo de 2027 con nuevas reglas electorales",
-     "medio": "La Pampa 24",
-     "fecha": "20/11/2026",
-     "url": "https://lapampa24.com.ar/nacionales/chubut-elegira-gobernador-el-21-de-marzo-de-2027-con-nuevas-reglas-electorales/"
-    }
-   ],
+   "top3": [],
    "imagen": [
     {
-     "titulo": "La imagen negativa de Milei en La Pampa supera el 62%",
-     "medio": "El Diario de La Pampa",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83425/la-imagen-negativa-de-milei-en-la-pampa-supera-el-62-en-porciento-"
+     "titulo": "La imagen positiva de Milei es de las más bajas del país",
+     "medio": "La Arena",
+     "fecha": "21/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/la-imagen-positiva-de-milei-es-de-las-mas-bajas-del-pais-20261121040"
     }
    ]
-  },
-  "La Rioja": {
-   "top3": [
-    {
-     "titulo": "Se aprobó la Ley Joaquín, el proyecto que nació tras una trágica muerte en Neuquén",
-     "medio": "Nueva Rioja",
-     "fecha": "20/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/se-aprobo-la-ley-joaquin-el-proyecto-que-nacio-tras-una-tragica-muerte-en-neuquen.htm"
-    },
-    {
-     "titulo": "Caputo celebró la propuesta para eliminar el Impuesto de Sellos: “Proponemos reembolsar el 50% a las provincias que adhieran\"",
-     "medio": "Nueva Rioja",
-     "fecha": "20/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/caputo-celebro-la-propuesta-para-eliminar-el-impuesto-de-sellos-proponemos-reembolsar-el-50-a-las-provincias-que-adhieran.htm"
-    },
-    {
-     "titulo": "INTENDENTE RIOJANO ADVIRTIÓ A VICUÑA CON LLEVARLA A LA JUSTICIA",
-     "medio": "Rioja Virtual",
-     "fecha": "20/11/2026",
-     "url": "https://riojavirtual.com.ar/intendente-riojano-advirtio-a-vicuna-con-llevarla-a-la-justicia/"
-    }
-   ],
-   "imagen": []
-  },
-  "Mendoza": {
-   "top3": [
-    {
-     "titulo": "El Senado sancionó la Ley de Discapacidad y se extienden beneficios que Milei había vetado",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/el-senado-sanciono-la-ley-discapacidad-y-se-extienden-beneficios-que-milei-habia-vetado-n1618423"
-    },
-    {
-     "titulo": "SIN EL PAN Y SIN LA TORTA Perdió Cornejo: sin colectoras y con Petri activo, no logró sus objetivos en la rosca por las PASO Por Lucio Di Giuseppe",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/perdio-alfredo-cornejo-colectoras-y-petri-activo-no-logro-sus-objetivos-la-rosca-las-paso-n5428372"
-    },
-    {
-     "titulo": "Luis Caputo propuso a las provincias que eliminen el Impuesto a los Sellos y reembolsarles el 50%",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/luis-caputo-propuso-las-provincias-que-eliminen-el-impuesto-los-sellos-y-reembolsarles-el-50-n1618637"
-    }
-   ],
-   "imagen": []
-  },
-  "Misiones": {
-   "top3": [
-    {
-     "titulo": "Misiones bajará el impuesto automotor en 2027 y ofrecerá descuentos de hasta el 35% para los vehículos sin deuda",
-     "medio": "El Destape",
-     "fecha": "20/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/misiones-bajara-impuesto-automotor-2027-ofrecera-descuentos-35-vehiculos-deuda-20261120165949"
-    },
-    {
-     "titulo": "Santo Tomé aprobó un presupuesto de más de $17.600 millones y renovó el reclamo por la ruta 14",
-     "medio": "El Territorio",
-     "fecha": "20/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/20/928464-santo-tome-aprobo-un-presupuesto-de-mas-de-17600-millones-y-renovo-el-reclamo-por-la-ruta-14"
-    },
-    {
-     "titulo": "Passalacqua anunció una baja del 5% en la valuación de los vehículos y bonificaciones de hasta el 35% en 2027",
-     "medio": "El Territorio",
-     "fecha": "20/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/20/928416-passalacqua-anuncio-una-baja-del-5por_ciento-en-la-valuacion-de-los-vehiculos-y-bonificaciones-de-hasta-el-35por_ciento-en-2027"
-    }
-   ],
-   "imagen": []
-  },
-  "Neuquén": {
-   "top3": [
-    {
-     "titulo": "Neuquén. Nadia Márquez busca ser la candidata a gobernadora de Milei, pero la ley de ficha limpia le impediría competir",
-     "medio": "La Nación",
-     "fecha": "20/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/nadia-marquez-busca-ser-la-candidata-a-gobernadora-de-milei-en-neuquen-pero-la-ley-de-ficha-limpia-nid20112026/"
-    },
-    {
-     "titulo": "Gaido y Rioseco sellaron una alianza electoral para las elecciones 2027",
-     "medio": "Noticias NQN",
-     "fecha": "20/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/20/361713-gaido-y-rioseco-sellaron-una-alianza-electoral-para-las-elecciones-2027"
-    },
-    {
-     "titulo": "Legislatura Neuquina Buscan impedir que los candidatos a intendente que pierdan puedan asumir como concejales",
-     "medio": "Noticias NQN",
-     "fecha": "20/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/20/361770-buscan-impedir-que-los-candidatos-a-intendente-que-pierdan-puedan-asumir-como-concejales"
-    }
-   ],
-   "imagen": []
   },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Argentina LNG: una oportunidad de empleo y formación para los trabajadores rionegrinos",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "20/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/63022/argentina-lng-una-oportunidad-de-empleo-y-formacion-para-los-trabajadores-rionegrinos",
-     "tag": "También en AN Roca, LCR y 1 más"
-    },
-    {
-     "titulo": "El gobernador Torres firmó el decreto y Chubut votará el 21 de marzo",
+     "titulo": "Esto es en Off: cambios y expectativas compartidas en el Ente de Conesa",
      "medio": "Diario Rio Negro",
-     "fecha": "20/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/el-gobernador-torres-firmo-el-decreto-y-chubut-votara-el-21-de-marzo-4807296/"
+     "fecha": "21/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/esto-es-en-off-cambios-y-expectativas-compartidas-en-el-ente-de-conesa/"
     },
     {
-     "titulo": "Punta Bermeja: hallaron un fósil de 4,5 millones de años",
-     "medio": "Prensa oficial de Río Negro",
-     "fecha": "20/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/63033/punta-bermeja-hallaron-un-fosil-de-45-millones-de-anos",
-     "tag": "También en Diario Rio Negro, Noticias Net"
+     "titulo": "Estos signos del zodiaco no pueden seguir fingiendo que todo está bien",
+     "medio": "AN Roca",
+     "fecha": "21/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/21/233601-estos-signos-del-zodiaco-no-pueden-seguir-fingiendo-que-todo-esta-bien",
+     "tag": "También en Noticias Net"
+    },
+    {
+     "titulo": "Empeoraron las expectativas sobre demanda y producción en la industria",
+     "medio": "AN Roca",
+     "fecha": "21/11/2026",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/21/233592-empeoraron-las-expectativas-sobre-demanda-y-produccion-en-la-industria",
+     "tag": "También en Noticias Net"
     }
    ],
    "imagen": []
@@ -463,87 +167,57 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Feria Nacional de Ciencias: Salta llevará 9 proyectos del eje Ciencias, Tecnología e Ingeniería",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "20/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/feria-nacional-de-ciencias-salta-llevara-9-proyectos-del-eje-ciencias-tecnologia-e-ingenieria-111213"
+     "titulo": "Máximo Kirchner apuntó contra el RIGI y el Gobierno",
+     "medio": "El Tribuno",
+     "fecha": "21/11/2026",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-21-0-0-0-maximo-kirchner-apunto-contra-el-rigi-y-el-gobierno"
     },
     {
-     "titulo": "Presidenciales 2027 | Los números de Axel Kicillof entre los salteños",
-     "medio": "Cuarto",
-     "fecha": "20/11/2026",
-     "url": "https://www.cuarto.com.ar/presidenciales-2027-los-numeros-de-axel-kicillof-entre-los-saltenos/"
+     "titulo": "Kicillof profundiza su perfil presidencial de cara a 2027",
+     "medio": "El Tribuno",
+     "fecha": "21/11/2026",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-21-0-0-0-kicillof-profundiza-su-perfil-presidencial-de-cara-a-2027"
     },
     {
-     "titulo": "Diputados avanzó con el proyecto que promueve la Economía Circular del Plástico en Salta",
-     "medio": "Informate Salta",
-     "fecha": "20/11/2026",
-     "url": "https://informatesalta.com.ar/legislativa/diputados-avanzo-con-el-proyecto-que-promueve-la-economia-circular-del-plastico-en-salta_a6b008809cd25aee2885591a0"
+     "titulo": "De satélites a calefones solares: Salta lleva proyectos a feria nacional de tecnolñogía",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "21/11/2026",
+     "url": "https://nuevodiariodesalta.com.ar/de-satelites-a-calefones-solares-salta-lleva-proyectos-a-feria-nacional-de-tecnolnogia/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Al león se le escapa un pato | Patricia Bullrich tiene entre los salteños mejor imagen que Javier Milei",
-     "medio": "Cuarto",
-     "fecha": "20/11/2026",
-     "url": "https://www.cuarto.com.ar/al-leon-se-le-escapa-un-pato-patricia-bullrich-tiene-entre-los-saltenos-mejor-imagen-que-javier-milei/"
-    }
-   ]
+   "imagen": []
   },
   "San Juan": {
    "top3": [
     {
-     "titulo": "Chubut convocó a elecciones para el 21 de marzo de 2027: se vota sin PASO y con nuevo Código Electoral",
-     "medio": "Diario de Cuyo",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/chubut-convoco-elecciones-el-21-marzo-2027-se-vota-paso-y-nuevo-codigo-electoral-n6589187",
-     "tag": "También en El Zonda"
+     "titulo": "Achem planteó la chance de separar las elecciones provinciales de las nacionales en 2027",
+     "medio": "Huarpe",
+     "fecha": "21/11/2026",
+     "url": "https://www.diariohuarpe.com/nota/achem-abrio-la-puerta-a-desdoblar-las-elecciones-en-san-juan-en-2027-20261121010"
     },
     {
-     "titulo": "Qué cambia con la nueva Ley de Discapacidad que aprobó el Senado",
+     "titulo": "El ministro Perea, en el stand de DIARIO DE CUYO en la FNS: \"La minería es una locomotora que debe empujar al resto de los sectores productivos\" Por Fernando Ortiz",
      "medio": "Diario de Cuyo",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/que-cambia-la-nueva-ley-discapacidad-que-aprobo-el-senado-n6589126",
-     "tag": "También en El Zonda"
+     "fecha": "21/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/san-juan/el-ministro-perea-el-stand-diario-cuyo-la-fns-la-mineria-es-una-locomotora-que-debe-empujar-al-resto-los-sectores-productivos-n6589214"
     },
     {
-     "titulo": "Máximo Kirchner pidió auditar el RIGI y cuestionó el modelo de Milei",
-     "medio": "El Zonda",
-     "fecha": "20/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/maximo-kirchner-pidio-auditar-el-rigi-y-cuestiono-el-modelo-de-milei",
-     "tag": "También en Diario de Cuyo"
+     "titulo": "Casi 70.000 personas vivieron la primera noche de la Fiesta del Sol",
+     "medio": "Huarpe",
+     "fecha": "21/11/2026",
+     "url": "https://www.diariohuarpe.com/nota/la-fiesta-del-sol-2026-reunio-a-casi-70-mil-personas-en-su-primera-noche-202611210190",
+     "tag": "También en Tiempo de San Juan"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Hicieron una encuesta entre votantes libertarios: mirá cómo terminó Javier Milei",
-     "medio": "Tiempo de San Juan",
-     "fecha": "20/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/hicieron-una-encuesta-entre-votantes-libertarios-mira-como-termino-javier-milei_1795211643"
-    }
-   ]
+   "imagen": []
   },
   "San Luis": {
    "top3": [
     {
-     "titulo": "Diputados, senadores y personal de la Legislatura Provincial se capacitaron en perspectiva de género",
+     "titulo": "Desde las 00:00 de este sábado está habilitado el tercer módulo para los emprendedores",
      "medio": "Prensa oficial de San Luis",
-     "fecha": "20/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/20/1233922-diputados-senadores-y-personal-de-la-legislatura-provincial-se-capacitaron-en-perspectiva-de-genero/"
-    },
-    {
-     "titulo": "“Hoy dimos un paso más para la conformación del Fondo de Garantía Provincial”.",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "20/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/20/1233903-poggi-hoy-dimos-un-paso-mas-para-la-conformacion-del-fondo-de-garantia-provincial/",
-     "tag": "También en La Gaceta Digital"
-    },
-    {
-     "titulo": "ATE realizó una jornada contra la violencia de género en San Luis y reclamó medidas al Gobierno provincial",
-     "medio": "La Gaceta Digital",
-     "fecha": "20/11/2026",
-     "url": "https://lagacetadigital.com.ar/2026/11/20/ate-realizo-una-jornada-contra-la-violencia-de-genero-en-san-luis-y-reclamo-medidas-al-gobierno-provincial/",
-     "tag": "También en El Diario de la República"
+     "fecha": "21/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/21/1234214-desde-las-0000-de-este-sabado-esta-habilitado-el-tercer-modulo-para-los-emprendedores/"
     }
    ],
    "imagen": []
@@ -551,48 +225,10 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Rumbo a 2027 La UCR busca reorganizar su estructura y definir su estrategia electoral",
-     "medio": "Tiempo Sur",
-     "fecha": "20/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/la-ucr-busca-reorganizar-su-estructura-y-definir-su-estrategia-electoral"
-    },
-    {
-     "titulo": "Senado El Senado aprobó por unanimidad una ley permanente de discapacidad",
-     "medio": "Tiempo Sur",
-     "fecha": "20/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-senado-aprobo-por-unanimidad-una-ley-permanente-de-discapacidad"
-    },
-    {
-     "titulo": "Claudio Vidal: “Se terminó el currito de unos pocos que perjudican a todos”",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "20/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/claudio-vidal-se-termino-el-currito-de-unos-pocos-que-perjudican-a-todos",
-     "tag": "También en Tiempo Sur, Mediatíca"
-    }
-   ],
-   "imagen": []
-  },
-  "Santa Fe": {
-   "top3": [
-    {
-     "titulo": "Es ley: la Legislatura de Santa Fe sancionó la reforma de seguridad impulsada por Pullaro",
-     "medio": "Agencia Fe",
-     "fecha": "20/11/2026",
-     "url": "https://agenciafe.com/nota/404275-Es-ley-la-Legislatura-de-Santa-Fe-sanciono-la-reforma-de-seguridad-impulsada-por-Pullaro",
-     "tag": "También en Rosario Plus"
-    },
-    {
-     "titulo": "Reforma de seguridad en Santa Fe: qué cambia con las nuevas medidas",
-     "medio": "La Capital",
-     "fecha": "20/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/reforma-seguridad-santa-fe-que-cambia-las-nuevas-medidas-n10293261.html",
-     "tag": "También en UNO - SF"
-    },
-    {
-     "titulo": "TEMPORADA DE ROSCA Santa Fe: el PJ de la capital se prometió unidad y acordó armar un frente amplio para pelear la intendencia Por Agustín Vissio",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/santa-fe-el-pj-la-capital-se-prometio-unidad-y-acordo-armar-un-frente-amplio-pelear-la-intendencia-n5428368"
+     "titulo": "Compartir SERVICIOS PÚBLICOS. Caleta Olivia: pusieron en marcha un cargadero de agua para abastecer a los vecinos y frenar las extracciones ilegales",
+     "medio": "Winfo",
+     "fecha": "21/11/2026",
+     "url": "https://winfo.ar/politica/2026/11/caleta-olivia-pusieron-en-marcha-un-cargadero-de-agua-para-abastecer-a-los-vecinos-y-frenar-las-extracciones-ilegales"
     }
    ],
    "imagen": []
@@ -600,59 +236,23 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Alumnos de Salavina visitaron Casa de Gobierno",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "20/11/2026",
-     "url": "https://sde.gob.ar/2026/11/20/alumnos-de-salavina-visitaron-casa-de-gobierno-2/",
-     "tag": "También en Diario Panorama, El Liberal y 2 más"
-    },
-    {
-     "titulo": "Suárez participó de la apertura del 5to Congreso Internacional de Seguridad Vial y Formación Ciudadana en el Fórum",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "20/11/2026",
-     "url": "https://sde.gob.ar/2026/11/20/suarez-participo-de-la-apertura-del-5to-congreso-internacional-de-seguridad-vial-y-formacion-ciudadana-en-el-forum/",
-     "tag": "También en Diario Panorama, Nuevo Diario Web y 1 más"
-    },
-    {
-     "titulo": "Chubut adelantó las elecciones provinciales para marzo de 2027 y estrenará un nuevo sistema electoral",
+     "titulo": "El intendente Benavente visitó la Feria de emprendedores del Parque Oeste y entregó reconocimientos",
      "medio": "Diario Panorama",
-     "fecha": "20/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/573663/chubut-adelanto-elecciones-provinciales-para-marzo-2027-estrenara-nuevo-sistema-electoral"
-    }
-   ],
-   "imagen": []
-  },
-  "Tierra del Fuego": {
-   "top3": [
-    {
-     "titulo": "Milei prorrogó por tiempo indeterminado la intervención del puerto de Ushuaia",
-     "medio": "La Politica Online",
-     "fecha": "20/11/2026",
-     "url": "https://www.lapoliticaonline.com/politica/milei-prorrogo-por-tiempo-indeterminado-la-intervencion-del-puerto-de-ushuaia/"
-    }
-   ],
-   "imagen": []
-  },
-  "Tucumán": {
-   "top3": [
-    {
-     "titulo": "Gremios estatales de Tucumán suman otro pedido de aumento salarial al Gobierno",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "20/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1163435/politica/gremios-estatales-tucuman-suman-otro-pedido-aumento-salarial-al-gobierno.html",
-     "tag": "También en Contexto"
+     "fecha": "21/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573701/intendente-benavente-visito-feria-emprendedores-parque-oeste-entrego-reconocimientos",
+     "tag": "También en Nuevo Diario Web, El Liberal"
     },
     {
-     "titulo": "Chubut confirmó la fecha de las elecciones de 2027: cuándo se votará y qué cambios habrá",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "20/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1163477/politica/chubut-confirmo-fecha-elecciones-2027-cuando-se-votara-cambios-habra.html"
+     "titulo": "Se viene el fin de semana largo: Javier Milei ratificó por decreto que el Día de la Virgen es inamovible",
+     "medio": "El Liberal",
+     "fecha": "21/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/98637/2026/11/se-viene-el-fin-de-semana-largo--javier-milei-ratifico-por-decreto-que-el-dia-de-la-virgen-es-inamovible"
     },
     {
-     "titulo": "LIBERTARIOS & FEDERALES Causa Malvinas: Jaldo le entregó a Quirno un documento histórico sobre la ocupación de las islas Por Letra P | Periodismo Político",
-     "medio": "Letra P",
-     "fecha": "20/11/2026",
-     "url": "https://www.letrap.com.ar/politica/causa-malvinas-osvaldo-jaldo-le-entrego-pablo-quirno-un-documento-historico-la-ocupacion-las-islas-n5428376"
+     "titulo": "Libres del Sur busca construir una alternativa política a Milei de cara a 2027",
+     "medio": "El Liberal",
+     "fecha": "21/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/98641/2026/11/libres-del-sur-busca-construir-una-alternativa-politica-a-milei-de-cara-a-2027"
     }
    ],
    "imagen": []
