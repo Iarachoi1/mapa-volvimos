@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11 23:46",
+ "actualizado": "21/11 00:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +39,8 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Uvita",
-   "url": "https://x.com/search?q=Uvita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Feler",
-   "url": "https://x.com/search?q=Feler",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Uvita",
+   "url": "https://x.com/search?q=Uvita",
    "relevante": false,
    "temas": []
   },
@@ -81,26 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Zelarayan",
-   "url": "https://x.com/search?q=Zelarayan",
+   "tema": "Feler",
+   "url": "https://x.com/search?q=Feler",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "FalcÃ³n PÃ©rez",
-   "url": "https://x.com/search?q=Falc%C3%83%C2%B3n%20P%C3%83%C2%A9rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#CampanitaPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23CampanitaPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Liniers",
-   "url": "https://x.com/search?q=Liniers",
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +87,32 @@
    "temas": []
   },
   {
+   "tema": "Zelarayan",
+   "url": "https://x.com/search?q=Zelarayan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Liniers",
+   "url": "https://x.com/search?q=Liniers",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "FalcÃ³n PÃ©rez",
+   "url": "https://x.com/search?q=Falc%C3%83%C2%B3n%20P%C3%83%C2%A9rez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "FortÃ­n",
    "url": "https://x.com/search?q=Fort%C3%83%C2%ADn",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cristaldo",
+   "url": "https://x.com/search?q=Cristaldo",
    "relevante": false,
    "temas": []
   },
@@ -125,6 +125,42 @@
  ],
  "google": [
   {
+   "tema": "nuggets - rockets",
+   "busquedas": "200+",
+   "nota": "TST Best Bets: November 20, 2026",
+   "nota_url": "https://www.thesportingtribune.com/2026/11/20/tst-best-bets-november-20-2026",
+   "medio": "The Sporting Tribune",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jazz - suns",
+   "busquedas": "100+",
+   "nota": "Phoenix vs Utah NBA Odds, Pick and Preview for Friday Night",
+   "nota_url": "https://www.predictem.com/nba/phoenix-vs-utah-nba-odds-pick-and-preview-for-friday-night/",
+   "medio": "Predictem",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "terremoto sismo temblor hoy epicentro",
+   "busquedas": "500+",
+   "nota": "Un terremoto de magnitud 6,7 golpeó el centro de Perú",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/20/un-terremoto-de-magnitud-67-golpeo-el-centro-de-peru/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lakers - kings",
+   "busquedas": "500+",
+   "nota": "Is Austin Reaves playing tonight? Latest NBA injury report for Lakers vs. Kings",
+   "nota_url": "https://sports.yahoo.com/articles/austin-reaves-playing-tonight-latest-160252842.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "selección de rugby de francia",
    "busquedas": "100+",
    "nota": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
@@ -135,7 +171,7 @@
   },
   {
    "tema": "gordon anibal",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Gordon es un thriller político a la vieja usanza, con una narrativa sólida y un personaje tan siniestro como fascinante",
    "nota_url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/gordon-es-un-thriller-politico-a-la-vieja-usanza-con-una-narrativa-solida-y-un-personaje-tan-nid19112026/",
    "medio": "La Nación",
@@ -143,8 +179,17 @@
    "temas": []
   },
   {
+   "tema": "fp3 las vegas",
+   "busquedas": "200+",
+   "nota": "\"It was scary at 100km/h\" - F1 drivers shocked by Las Vegas 'ice rink'",
+   "nota_url": "https://www.motorsport.com/f1/news/it-was-scary-at-100km-h-f1-drivers-shocked-by-las-vegas-ice-rink/10875954/",
+   "medio": "Motorsport.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "calor",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Las llamativas medias negras que usaron los jugadores de Boca al llegar a Barranquilla: para qué sirven y cuánto cuestan",
    "nota_url": "https://www.clarin.com/deportes/llamativas-medias-negras-usaron-jugadores-boca-llegar-barranquilla-sirven-cuestan_0_jGI4YQ8RgA.html",
    "medio": "Clarin.com",
@@ -152,66 +197,21 @@
    "temas": []
   },
   {
+   "tema": "pistons - raptors",
+   "busquedas": "200+",
+   "nota": "NBA Prediction Market Apps: Get Top Offers For Friday Night",
+   "nota_url": "https://www.amny.com/sports/nba-prediction-market-apps-get-top-offers-for-friday-night/",
+   "medio": "amNewYork",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "victoria villarruel",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Villarruel volvió a marcar distancia del Gobierno tras el cierre de La Campagnola en Mar Del Plata: “Sin industria no hay trabajo”",
    "nota_url": "https://www.perfil.com/politica/villarruel-volvio-a-marcar-distancia-del-gobierno-tras-el-cierre-de-la-campagnola-en-mar-del-plata-sin-industria-no-hay-trabajo-a74aA1n1kCdo",
    "medio": "Perfil",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "pistons - raptors",
-   "busquedas": "100+",
-   "nota": "Final Injury Report for Raptors-Pistons: Will Cade Cunningham, Scottie Barnes Play?",
-   "nota_url": "https://sports.yahoo.com/articles/final-injury-report-raptors-pistons-203000089.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "deportivo cali - millonarios",
-   "busquedas": "200+",
-   "nota": "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
-   "nota_url": "https://colombia.as.com/futbol/renuncio-en-plena-rueda-de-prensa-y-ahora-vuelve-a-palmaseca-gamero-abre-los-cuadrangulares-ante-el-cali-que-dejo-en-marzo-f202611-n/",
-   "medio": "AS Colombia",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "thunder - pelicans",
-   "busquedas": "200+",
-   "nota": "Oklahoma City Thunder host New Orleans Pelicans in NBA Cup at Paycom Center",
-   "nota_url": "https://www.koco.com/article/sports-oklahoma-city-thunder-host-new-orleans-pelicans-nba-cup/74494377",
-   "medio": "KOCO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "play off liga argentina",
-   "busquedas": "200+",
-   "nota": "Por otra hazaña en el Monumental: Lanús busca estirar su racha histórica ante River, en los Octavos del Clausura",
-   "nota_url": "https://fortalezagranate.com.ar/por-otra-hazana-en-el-monumental-lanus-busca-estirar-su-racha-historica-ante-river-en-los-octavos-del-clausura/",
-   "medio": "Fortaleza Granate",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "choque frontal",
-   "busquedas": "2000+",
-   "nota": "Una persona murió tras el choque frontal entre un auto y un camión en Corrientes",
-   "nota_url": "https://www.ellitoral.com.ar/policiales/2026-11-20-18-25-0-una-persona-murio-tras-el-choque-frontal-entre-un-auto-y-un-camion-en-corrientes",
-   "medio": "El Litoral | Novedades de Corrientes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nicolás fernández",
-   "busquedas": "200+",
-   "nota": "Video. Uvita Fernández volvió a vestirse de héroe y puso el 2-1 de Belgrano",
-   "nota_url": "https://www.lavoz.com.ar/deportes/uvita-fernandez-volvio-vestirse-heroe-puso-2-1-belgrano_0_t9hsb51H8d.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
    "temas": []
   }
  ],
