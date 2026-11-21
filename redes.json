@@ -1,28 +1,28 @@
 {
- "actualizado": "21/11 17:29",
+ "actualizado": "21/11 18:27",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Mele",
+   "url": "https://x.com/search?q=Mele",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Franco",
-   "url": "https://x.com/search?q=Franco",
+   "tema": "Vallejos",
+   "url": "https://x.com/search?q=Vallejos",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bearman",
-   "url": "https://x.com/search?q=Bearman",
+   "tema": "Palais",
+   "url": "https://x.com/search?q=Palais",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
+   "tema": "Maxi Meza",
+   "url": "https://x.com/search?q=Maxi%20Meza",
    "relevante": false,
    "temas": []
   },
@@ -33,74 +33,44 @@
    "temas": []
   },
   {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
+   "tema": "Sterling",
+   "url": "https://x.com/search?q=Sterling",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
+   "tema": "Romo",
+   "url": "https://x.com/search?q=Romo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "Tempone",
+   "url": "https://x.com/search?q=Tempone",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Norberto Briasco",
-   "url": "https://x.com/search?q=Norberto%20Briasco",
+   "tema": "Nico Diez",
+   "url": "https://x.com/search?q=Nico%20Diez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "tema": "Marcone",
+   "url": "https://x.com/search?q=Marcone",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "#Independiente",
+   "url": "https://x.com/search?q=%23Independiente",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Topuria",
-   "url": "https://x.com/search?q=Topuria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gasly",
-   "url": "https://x.com/search?q=Gasly",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Raya",
-   "url": "https://x.com/search?q=Raya",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Marchiori",
-   "url": "https://x.com/search?q=Marchiori",
+   "tema": "Sabrina",
+   "url": "https://x.com/search?q=Sabrina",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +81,136 @@
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "La Paternal",
+   "url": "https://x.com/search?q=La%20Paternal",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "tema": "Barracas Central",
+   "url": "https://x.com/search?q=Barracas%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Arias",
+   "url": "https://x.com/search?q=Arias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Topuria",
+   "url": "https://x.com/search?q=Topuria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sharia",
+   "url": "https://x.com/search?q=Sharia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Congreso del PJ",
+   "url": "https://x.com/search?q=Congreso%20del%20PJ",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Briatore",
+   "url": "https://x.com/search?q=Briatore",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "brasileirão serie a",
+   "tema": "u. católica - barcelona sc",
    "busquedas": "200+",
-   "nota": "Pep Guardiola curte roda de samba em Salvador",
-   "nota_url": "https://correiodopovopenedo.com.br/noticia/2026/11/21/pep-guardiola-curte-roda-de-samba-em-salvador",
-   "medio": "Correio do Povo Penedo",
-   "relevante": false,
+   "nota": "Universidad Catolica - Barcelona | pronósticos + mejores cuotas | 21.11.2026",
+   "nota_url": "https://www.futbol24.com/es/pronosticos-deportivos/previa/21-11-2026-universidad-catolica-barcelona-pronostico/",
+   "medio": "Futbol24",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "france vs argentina",
+   "tema": "clima tandil",
    "busquedas": "200+",
-   "nota": "Licensable picture: Nations Championship - France v Argentina",
-   "nota_url": "https://www.reutersconnect.com/item/nations-championship-france-v-argentina/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxSjVQNDY",
-   "medio": "Reuters Connect",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "jesus de miguel",
-   "busquedas": "200+",
-   "nota": "Piqué criticó los 12 partidos a Owono, el arquero involucrado en la muerte del futbolista de Tenerife: \"La sanción tiene que ser por la acción, no por las consecuencias\"",
-   "nota_url": "https://www.clarin.com/deportes/pique-critico-12-partidos-owono-arquero-involucrado-muerte-futbolista-tenerife-sancion-accion-consecuencias_0_U48TFe6cKf.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alexander zverev",
-   "busquedas": "500+",
-   "nota": "Medvedev venció a Tiafoe y jugará contra Zverev en las ATP Finals",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/medvedev-vencio-a-tiafoe-y-jugara-contra-zverev-en-las-atp-finals/",
-   "medio": "Vermouth Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de sevilla fc contra betis",
-   "busquedas": "200+",
-   "nota": "Watch: Milan loanee Fofana enjoying life at Sevilla as fans show their appreciation",
-   "nota_url": "https://sempremilan.com/watch-milan-loanee-fofana-sevilla-fans",
-   "medio": "SempreMilan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "talleres de escalada",
-   "busquedas": "200+",
-   "nota": "Real Pilar busca el pase a las semifinales",
-   "nota_url": "https://www.pilaradiario.com/la-liga/real-pilar-busca-el-pase-las-semifinales-n5473664",
-   "medio": "Pilar a Diario",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "colón - deportivo morón",
-   "busquedas": "2000+",
-   "nota": "Colón vs Morón, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/21/colon-vs-moron-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "losc - lyon",
-   "busquedas": "200+",
-   "nota": "Multiplex Ligue 1 : à quelle heure et sur quelle chaîne voir les matchs du samedi soir ?",
-   "nota_url": "https://news.footeo.com/2026/11/21/multiplex-ligue-1-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-du-samedi-soir-18172",
-   "medio": "Footeo News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "palmeiras vs flamengo",
-   "busquedas": "200+",
-   "nota": "Palmeiras x Flamengo: onde assistir ao vivo, horário e escalações",
-   "nota_url": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/11/21/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "medio": "ge",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "donyell malen",
+   "tema": "napoli vs",
    "busquedas": "100+",
-   "nota": "Goed nieuws voor Oranje, spitsen stelen de show met vierklapper in Italië en droommoment bij Chelsea",
-   "nota_url": "https://sportnieuws.nl/buitenlands-voetbal/nieuws/goed-nieuws-voor-oranje-spitsen-stelen-de-show-met-vierklapper-in-italie-en-droommoment-bij-chelsea-2026112119053874749/",
-   "medio": "Sportnieuws.nl",
+   "nota": "Allegri explains Napoli changes and De Bruyne benching: ‘We always look vulnerable’",
+   "nota_url": "https://onefootball.com/en/news/allegri-explains-napoli-changes-and-de-bruyne-benching-we-always-look-vulnerable-43815243",
+   "medio": "OneFootball",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "o'higgins - u. de chile",
+   "busquedas": "200+",
+   "nota": "Con cortes de tránsito y Ley Seca: Así serán las medidas de seguridad para O’Higgins vs U de Chile",
+   "nota_url": "https://eltipografo.cl/2026/11/con-cortes-de-transito-y-ley-seca-asi-seran-las-medidas-de-seguridad-para-ohiggins-vs-u-de-chile",
+   "medio": "El Tipógrafo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "clima olavarria",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlanta",
+   "busquedas": "500+",
+   "nota": "Ciudad de Bolívar vs. Atlanta, EN VIVO: dónde ver por TV y ONLINE",
+   "nota_url": "https://www.tycsports.com/primera-nacional/ciudad-de-bolivar-vs-atlanta-en-vivo-donde-ver-por-tv-y-online-id772131.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estudiantes vs palmeiras",
+   "busquedas": "100+",
+   "nota": "Aquel insólito antecedente del árbitro de la final de la Libertadores con Palmeiras y ante River: polémica, VAR y extraña explicación",
+   "nota_url": "https://www.infocielo.com/deportes/el-insolito-momento-de-valenzuela-en-el-monumental-polemica-var-y-extrana-explicacion",
+   "medio": "Infocielo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alianza lima - fc cajamarca",
+   "busquedas": "200+",
+   "nota": "Predicción Liga 1 2026: resultado exacto de Alianza Lima vs. FC Cajamarca, según la IA",
+   "nota_url": "https://bolavip.com/pe/liga-1/prediccion-liga-1-2026-resultado-exacto-de-alianza-lima-vs-fc-cajamarca-segun-la-ia",
+   "medio": "Bolavip Perú",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bahía - coritiba",
+   "busquedas": "200+",
+   "nota": "Everton Ribeiro, Gilberto Gil, charuto e samba: detalhes da visita de Pep Guardiola em Salvador",
+   "nota_url": "https://www.terra.com.br/esportes/futebol/everton-ribeiro-gilberto-gil-charuto-e-samba-detalhes-da-visita-de-pep-guardiola-em-salvador,5f6e8b65b7c4409098b153d779e606aczivoakib.html",
+   "medio": "Terra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "monaco fc",
+   "busquedas": "200+",
+   "nota": "Monaco Start Brunner and Abline Against Auxerre",
+   "nota_url": "https://cwibc.co.id/en/monaco-brunner-abline-auxerre-lineup",
+   "medio": "cwibc.co.id",
    "relevante": false,
    "temas": []
   }
