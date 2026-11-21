@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 13:34",
+ "actualizado": "21/11 14:31",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,26 +21,14 @@
    "temas": []
   },
   {
-   "tema": "#sabadodeplp",
-   "url": "https://x.com/search?q=%23sabadodeplp",
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#SolEnLosMartinFierroUY",
    "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Fulham",
-   "url": "https://x.com/search?q=Fulham",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
@@ -63,6 +51,24 @@
    "temas": []
   },
   {
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
@@ -75,20 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "Xabi Alonso",
+   "url": "https://x.com/search?q=Xabi%20Alonso",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "rigoni",
-   "url": "https://x.com/search?q=rigoni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Briatore",
+   "url": "https://x.com/search?q=Briatore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=Gasly",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "parma - roma",
-   "busquedas": "200+",
-   "nota": "Parma-Roma LIVE: risultato, formazioni e diretta testuale della partita",
-   "nota_url": "https://www.dazn.com/it-IT/news/calcio/parma-roma-live-diretta-risultato-formazioni/oshzrw63zfw31jtfp4dzs0q8u",
-   "medio": "DAZN",
+   "tema": "defensa y justicia - barracas central",
+   "busquedas": "2000+",
+   "nota": "Siguen los octavos de final del Torneo Clausura: Defensa-Barracas y Argentinos-Independiente",
+   "nota_url": "https://www.lanueva.com/nota/2026-11-21-5-0-0-siguen-los-octavos-de-final-del-torneo-clausura-defensa-barracas-y-argentinos-independiente",
+   "medio": "La Nueva Provincia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bono",
+   "tema": "josé coronado",
+   "busquedas": "200+",
+   "nota": "Netflix: Luis Zahera y José Coronado se lucen con la serie más exitosa y es perfecta para maratonear",
+   "nota_url": "https://www.a24.com/trends/netflix-luis-zahera-y-jose-coronado-se-lucen-la-serie-mas-exitosa-y-es-perfecta-maratonear-n1618443",
+   "medio": "A24.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "flavio briatore",
    "busquedas": "1000+",
-   "nota": "Bolsillo golpeado y fin de año: el Gobierno confirmó el haber, el aguinaldo y el bono de ANSES para diciembre",
-   "nota_url": "https://www.ambito.com/informacion-general/bolsillo-golpeado-y-fin-ano-el-gobierno-confirmo-el-haber-el-aguinaldo-y-el-bono-anses-diciembre-n6347021",
-   "medio": "Ambito",
+   "nota": "F1 en Las Vegas: el ambicioso plan de Briatore para 2027 con Colapinto y Gasly :: Olé - ole.com.ar",
+   "nota_url": "https://www.ole.com.ar/autos/formula-1-gp-vegas-dijo-flavio-briatore-franco-colapinto-alpine_0_XYgnZjZQq1.html",
+   "medio": "Olé",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "rosario",
-   "busquedas": "200+",
-   "nota": "Susto en el centro: un ascensor del Shopping del Siglo se prendió fuego",
-   "nota_url": "https://www.rosarionuestro.com/susto-en-el-centro-un-ascensor-del-shopping-del-siglo-se-prendio-fuego",
-   "medio": "Rosario Nuestro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "borussia dortmund",
-   "busquedas": "200+",
-   "nota": "Vor der Mitgliederversammlung: Chronologie des Missbrauchsskandals bei Borussia Dortmund",
-   "nota_url": "https://www.rnd.de/sport/missbrauchsskandal-bei-borussia-dortmund-chronologie-eines-falls-der-den-deutschen-fussball-AEWAPLCYCVCJRLG27GCI76R43U.html",
-   "medio": "RND.de",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ufc",
-   "busquedas": "1000+",
-   "nota": "MMA Parlay of the Week: UFC Qatar",
-   "nota_url": "https://www.sportsgamblingpodcast.com/2026/11/20/mma-parlay-of-the-week-ufc-qatar-2/",
-   "medio": "Sports Gambling Podcast",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos sainz jr.",
-   "busquedas": "500+",
-   "nota": "“Lo tienen que penalizar”: Franco Colapinto explotó contra Carlos Sainz en plena práctica del GP de Las Vegas",
-   "nota_url": "https://tn.com.ar/deportes/formula-1/2026/11/20/lo-tienen-que-penalizar-el-enojo-de-franco-colapinto-con-carlos-sainz-tras-dos-cruces-en-la-pista-durante-la-tercera-practica/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico cordoba",
-   "busquedas": "200+",
-   "nota": "Clima en Córdoba Observatorio hoy: cuál es el pronóstico del tiempo para el 21 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/cordoba/clima-en-cordoba-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-21-de-noviembre-de-2026-nid20112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo en cordoba",
-   "busquedas": "200+",
-   "nota": "Córdoba: Advierten por tormentas fuertes, intensas lluvias y posible caída de granizo durante el fin de semana",
-   "nota_url": "https://prensa.cba.gov.ar/cordoba-advierten-por-tormentas-fuertes-intensas-lluvias-y-posible-caida-de-granizo-durante-el-fin-de-semana/",
-   "medio": "Prensa Cba",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ufc hoy",
-   "busquedas": "500+",
-   "nota": "Kevin Vallejos enfrentará a Aljamain Sterling en la UFC en Qatar y vaticinó otra coronación de gloria argentina en Doha",
-   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/21/kevin-vallejos-palpito-su-pelea-ante-aljamain-sterling-en-la-ufc-y-se-ilusiono-con-otra-consagracion-argentina-en-qatar/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "niza - psg",
+   "tema": "newcastle - arsenal",
    "busquedas": "2000+",
-   "nota": "Luis Enrique warns PSG: “This is not Football Manager”",
-   "nota_url": "https://www.tufutbolero.com/en/news/luis-enrique-warns-psg-this-is-not-football-manager-4817b3",
-   "medio": "Tu Futbolero",
+   "nota": "Alan Shearer and Jamie Carragher agree on Newcastle vs Arsenal Premier League score prediction",
+   "nota_url": "https://www.football.london/arsenal-fc/news/alan-shearer-jamie-carragher-agree-34946665",
+   "medio": "Football London",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sevilla - real betis",
+   "busquedas": "500+",
+   "nota": "Dónde ver hoy en directo el Sevilla vs Real Betis: ¿quién televisa el partido y dónde verlo por streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/donde-ver-hoy-en-directo-el-sevilla-vs-real-betis-quien-televisa-el-partido-y-donde-verlo-por-streaming/blt849ffebcff471d78",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de borussia mönchengladbach contra borussia dortmund",
+   "busquedas": "200+",
+   "nota": "BVB news: Key player apparently back against Gladbach",
+   "nota_url": "https://www.goal.com/en/news/bvb-news-and-rumours-good-news-for-niko-kovac-key-player-apparently-back-for-gladbach-match/blt8d3c8fa576314446",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aljamain sterling",
+   "busquedas": "100+",
+   "nota": "“There Is No Question”: Merab Dvalishvili Declares Aljamain Sterling Next in Line for UFC Title Shot",
+   "nota_url": "https://mmasucka.com/news/there-is-no-question-merab-dvalishvili-declares-aljamain-sterling-next-in-line-for-ufc-title-shot/",
+   "medio": "MMA Sucka",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "psg",
+   "busquedas": "1000+",
+   "nota": "Pronostic Nice - Paris Saint-Germain : Un choc entre deux équipes en pleine forme.",
+   "nota_url": "https://www.vietnam.vn/fr/nhan-dinh-nice-vs-paris-saint-germain-man-so-tai-cua-hai-doi-vao-phom",
+   "medio": "Vietnam.vn",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sylvester stallone",
+   "busquedas": "100+",
+   "nota": "The Wrong Boxer Shorts, a Real Dog, and Three Oscars: 7 Incredible \"Rocky\" Facts",
+   "nota_url": "https://www.bluewin.ch/en/people/the-wrong-boxer-shorts-a-real-dog-and-three-oscars-7-incredible-rocky-facts-li.3681944",
+   "medio": "blue News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "parma - roma",
+   "busquedas": "1000+",
+   "nota": "Parma-Roma LIVE: risultato, formazioni e diretta testuale della partita",
+   "nota_url": "https://www.dazn.com/it-IT/news/calcio/parma-roma-live-diretta-risultato-formazioni/oshzrw63zfw31jtfp4dzs0q8u",
+   "medio": "DAZN",
    "relevante": false,
    "temas": []
   }
