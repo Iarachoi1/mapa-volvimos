@@ -1,10 +1,16 @@
 {
- "actualizado": "20/11 21:44",
+ "actualizado": "20/11 22:59",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Ronaldo MartÃ­nez",
    "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +33,26 @@
    "temas": []
   },
   {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
+   "tema": "Uvita",
+   "url": "https://x.com/search?q=Uvita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Feler",
+   "url": "https://x.com/search?q=Feler",
    "relevante": false,
    "temas": []
   },
@@ -39,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "FalcÃ³n PÃ©rez",
+   "url": "https://x.com/search?q=Falc%C3%83%C2%B3n%20P%C3%83%C2%A9rez",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Passerini",
-   "url": "https://x.com/search?q=Passerini",
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
    "relevante": false,
    "temas": []
   },
@@ -75,15 +99,15 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
-   "relevante": false,
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
+   "relevante": true,
    "temas": []
   },
   {
@@ -93,124 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riesgo PaÃ­s",
-   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pity Ãlvarez",
-   "url": "https://x.com/search?q=Pity%20%C3%83%C2%81lvarez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cristian DÃ­az",
-   "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
+   "tema": "Passerini",
+   "url": "https://x.com/search?q=Passerini",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "metacritic gta 6",
+   "tema": "marchiori",
    "busquedas": "200+",
-   "nota": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
-   "nota_url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
-   "medio": "Variety",
+   "nota": "Vélez vs Belgrano, por los playoffs del Torneo Clausura, EN VIVO: cómo va, resultado y minuto a minuto del partido",
+   "nota_url": "https://www.clarin.com/deportes/velez-vs-belgrano-playoffs-torneo-clausura-vivo-hora-ver-partido-octavos-final_0_Xe8SVIwU07.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lavado de dinero",
+   "tema": "la joaqui",
+   "busquedas": "100+",
+   "nota": "La insólita publicación de Luck Ra que varios usuarios interpretaron como una indirecta para La Joaqui",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/12/la-insolita-publicacion-de-luck-ra-que-varios-usuarios-interpretaron-como-una-indirecta-para-la-joaqui/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "thunder - pelicans",
    "busquedas": "200+",
-   "nota": "Sur Finanzas: allanaron cuatro sedes bancarias por la causa de lavado de dinero contra Ariel Vallejo",
-   "nota_url": "https://www.infobae.com/judiciales/2026/11/20/sur-finanzas-allanaron-cuatro-sedes-bancarias-por-la-causa-de-lavado-de-dinero-contra-ariel-vallejo/",
-   "medio": "Infobae",
+   "nota": "Pelicans Thunder Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/pelicans-thunder-basketball/image_3960f117-8b27-546c-a062-5067d066adc2.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "hawks - hornets",
+   "tema": "play off liga argentina",
    "busquedas": "200+",
-   "nota": "Deni Avdija (foot) questionable vs. New York",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-20/deni-avdija-foot-questionable-vs-new-york",
-   "medio": "NBC Sports",
+   "nota": "El equipo de Lanús para visitar a River por los octavos de final del Torneo Clausura",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/equipo-lanus-visitar-river-octavos-final-torneo-clausura-id772386.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pilar smith",
-   "busquedas": "100+",
-   "nota": "El Chato Prada contó toda la verdad sobre su supuesto affaire con Pilar Smith: el revelador posteo",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/chato-prada-conto-toda-la-verdad-sobre-su-supuesto-affaire-con-pilar-smith-el-revelador-posteo/",
-   "medio": "Radio Mitre",
+   "tema": "choque frontal",
+   "busquedas": "500+",
+   "nota": "Una persona murió tras el choque frontal entre un auto y un camión en Corrientes",
+   "nota_url": "https://www.ellitoral.com.ar/policiales/2026-11-20-18-25-0-una-persona-murio-tras-el-choque-frontal-entre-un-auto-y-un-camion-en-corrientes",
+   "medio": "El Litoral | Novedades de Corrientes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sofía jiménez",
-   "busquedas": "100+",
-   "nota": "Quién es Gustavo Qüerio Hormaechea, el misterioso empresario que será papá junto a Sofía Jujuy Jiménez",
-   "nota_url": "https://www.a24.com/trends/quien-es-gustavo-querio-hormaechea-el-misterioso-empresario-que-sera-papa-junto-sofia-jujuy-jimenez-n1617296",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "frederike pon",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "porto vs",
-   "busquedas": "100+",
-   "nota": "Farioli warns FC Porto: “A tier apart, but status won’t win games”",
-   "nota_url": "https://onefootball.com/en/news/farioli-warns-fc-porto-a-tier-apart-but-status-wont-win-games-43805263",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafael grossi",
-   "busquedas": "100+",
-   "nota": "Rafael Grossi sumó nuevos respaldos y sigue abierta la carrera por liderar la ONU",
-   "nota_url": "https://www.conclusion.com.ar/politica/rafael-grossi-sumo-nuevos-respaldos-y-sigue-abierta-la-carrera-por-liderar-la-onu/11/2026/",
-   "medio": "Diario Digital Conclusión",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "octavos de final liga argentina",
-   "busquedas": "100+",
-   "nota": "Playoffs del Clausura de la Liga del Torneo Proyección",
-   "nota_url": "https://www.afa.com.ar/es/posts/playoffs-del-clausura-de-la-liga-del-torneo-proyeccion",
-   "medio": "AFA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "transportista",
+   "tema": "bulls - wizards",
    "busquedas": "200+",
-   "nota": "Evacuaron la sucursal de OCA por una amenaza de suicidio",
-   "nota_url": "https://www.eldiariodetandil.com/nota-evacuaron-la-sucursal-de-oca-por-una-amenaza-de-suicidio-105376",
-   "medio": "El diario de Tandil",
+   "nota": "Polymarket Promo Code WSN: $25 Bonus for Wizards vs. Bulls (November 20)",
+   "nota_url": "https://www.wsn.com/promos/polymarket-promo-code-nba-wizards-vs-bulls-11-20-2026/",
+   "medio": "WSN.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cavaliers - pacers",
+   "busquedas": "100+",
+   "nota": "Pacers Cavaliers Basketball",
+   "nota_url": "https://www.couriernews.com/sports/pacers-cavaliers-basketball/image_fd0ea3bb-4806-55a0-9a06-9625c2e6183a.html",
+   "medio": "couriernews.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "los juegos del hambre",
+   "busquedas": "500+",
+   "nota": "Does Maysilee Die in ‘Sunrise on the Reaping’? Her Tragic Fate Explained",
+   "nota_url": "https://www.imdb.com/news/ni66115356/?ref_=ttnw_art_perm",
+   "medio": "IMDb",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inmueble",
+   "busquedas": "1000+",
+   "nota": "Quilmes: Señó una propiedad por US$63.000, descubrió que seguía ocupada y la Justicia rechazó devolverle el dinero",
+   "nota_url": "https://diarioconurbano.com.ar/principal/quilmes-seno-una-propiedad-por-us63-000-descubrio-que-seguia-ocupada-y-la-justicia-rechazo-devolverle-el-dinero/",
+   "medio": "Diario Conurbano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bloomberg línea",
+   "busquedas": "100+",
+   "nota": "El desplome de la IA lleva al Nasdaq a su peor semana en año y medio con Anthropic hundiéndose un 8,5%",
+   "nota_url": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
+   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   }
