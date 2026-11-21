@@ -1,10 +1,10 @@
 {
- "actualizado": "20/11 20:36",
+ "actualizado": "20/11 21:44",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "tema": "Ronaldo MartÃ­nez",
+   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +15,20 @@
    "temas": []
   },
   {
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Vuelta de Obligado",
-   "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CampanitaPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23CampanitaPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -39,15 +57,15 @@
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Passerini",
+   "url": "https://x.com/search?q=Passerini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
+   "tema": "Vuelta de Obligado",
+   "url": "https://x.com/search?q=Vuelta%20de%20Obligado",
+   "relevante": false,
    "temas": []
   },
   {
@@ -57,8 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Riesgo PaÃ­s",
-   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bill Gates",
+   "url": "https://x.com/search?q=Bill%20Gates",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +99,8 @@
    "temas": []
   },
   {
-   "tema": "La Campagnola",
-   "url": "https://x.com/search?q=La%20Campagnola",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Riesgo PaÃ­s",
+   "url": "https://x.com/search?q=Riesgo%20Pa%C3%83%C2%ADs",
    "relevante": false,
    "temas": []
   },
@@ -87,130 +111,106 @@
    "temas": []
   },
   {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Cristian DÃ­az",
    "url": "https://x.com/search?q=Cristian%20D%C3%83%C2%ADaz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#VOTEFORBTS",
-   "url": "https://x.com/search?q=%23VOTEFORBTS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ARMYONMNET",
-   "url": "https://x.com/search?q=%23ARMYONMNET",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Massa",
-   "url": "https://x.com/search?q=Massa",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "OUR CHOICE IS BTS AT MAMA",
-   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "bucaramanga - américa",
+   "tema": "metacritic gta 6",
    "busquedas": "200+",
-   "nota": "América inicia el camino hacia su segunda final del año",
-   "nota_url": "https://leanotas.com/america-inicia-el-camino-hacia-su-segunda-final-del-ano/",
-   "medio": "leanotas.com",
+   "nota": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
+   "nota_url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
+   "medio": "Variety",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cinco saltos",
+   "tema": "lavado de dinero",
+   "busquedas": "200+",
+   "nota": "Sur Finanzas: allanaron cuatro sedes bancarias por la causa de lavado de dinero contra Ariel Vallejo",
+   "nota_url": "https://www.infobae.com/judiciales/2026/11/20/sur-finanzas-allanaron-cuatro-sedes-bancarias-por-la-causa-de-lavado-de-dinero-contra-ariel-vallejo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hawks - hornets",
+   "busquedas": "200+",
+   "nota": "Deni Avdija (foot) questionable vs. New York",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-20/deni-avdija-foot-questionable-vs-new-york",
+   "medio": "NBC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pilar smith",
    "busquedas": "100+",
-   "nota": "Cinco Saltos: terminó el segundo día de búsqueda del hombre que cayó al canal de riego",
-   "nota_url": "https://www.rionegro.com.ar/sociedad/cinco-saltos-termino-el-segundo-dia-de-busqueda-del-hombre-que-cayo-al-canal-de-riego-4805857/",
-   "medio": "Diario Río Negro",
+   "nota": "El Chato Prada contó toda la verdad sobre su supuesto affaire con Pilar Smith: el revelador posteo",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/chato-prada-conto-toda-la-verdad-sobre-su-supuesto-affaire-con-pilar-smith-el-revelador-posteo/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "2030",
+   "tema": "sofía jiménez",
    "busquedas": "100+",
-   "nota": "F1 will return to V8 engines in 2030 after unanimous deal with manufacturers",
-   "nota_url": "https://www.nytimes.com/athletic/7798528/2026/11/20/f1-v8-engine-return-2030-announcement-fia/",
-   "medio": "The New York Times",
+   "nota": "Quién es Gustavo Qüerio Hormaechea, el misterioso empresario que será papá junto a Sofía Jujuy Jiménez",
+   "nota_url": "https://www.a24.com/trends/quien-es-gustavo-querio-hormaechea-el-misterioso-empresario-que-sera-papa-junto-sofia-jujuy-jimenez-n1617296",
+   "medio": "A24.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "levent alpöge",
-   "busquedas": "500+",
-   "nota": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
-   "nota_url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b",
-   "medio": "WSJ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vix index",
+   "tema": "frederike pon",
    "busquedas": "100+",
-   "nota": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
-   "nota_url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90",
-   "medio": "Barron's",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "china",
-   "busquedas": "200+",
-   "nota": "New images emerge of suspected Chinese intelligence asset linked to Nvidia's ex-boss",
-   "nota_url": "https://www.cnn.com/2026/11/16/business/video/ebof-will-ripley-alice-huang-affair-nvidia-jensen-huang-hnk-digvid",
-   "medio": "CNN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "s&p 500",
-   "busquedas": "200+",
-   "nota": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
-   "nota_url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-   "medio": "CNBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lucas martínez quarta",
-   "busquedas": "200+",
-   "nota": "Martínez Quarta puede irse de River: los tres clubes que lo buscan en el mercado de pases",
-   "nota_url": "https://www.eldestapeweb.com/centroatras/futbol/martinez-quarta-puede-irse-river-tres-clubes-buscan-mercado-pases-2026112193244",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "promedio industrial dow jones",
+   "tema": "porto vs",
    "busquedas": "100+",
-   "nota": "S&P 500 entra en corrección tras caída de Anthropic y dudas por la IA, mientras el oro se hunde",
-   "nota_url": "https://www.bloomberglinea.com/mercados/sp-500-y-nasdaq-caen-tras-retroceso-de-anthropic-y-temor-a-nuevas-alzas-de-tasas-de-la-fed/",
-   "medio": "Bloomberg Línea",
+   "nota": "Farioli warns FC Porto: “A tier apart, but status won’t win games”",
+   "nota_url": "https://onefootball.com/en/news/farioli-warns-fc-porto-a-tier-apart-but-status-wont-win-games-43805263",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "frank darío kudelka",
+   "tema": "rafael grossi",
+   "busquedas": "100+",
+   "nota": "Rafael Grossi sumó nuevos respaldos y sigue abierta la carrera por liderar la ONU",
+   "nota_url": "https://www.conclusion.com.ar/politica/rafael-grossi-sumo-nuevos-respaldos-y-sigue-abierta-la-carrera-por-liderar-la-onu/11/2026/",
+   "medio": "Diario Digital Conclusión",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "octavos de final liga argentina",
+   "busquedas": "100+",
+   "nota": "Playoffs del Clausura de la Liga del Torneo Proyección",
+   "nota_url": "https://www.afa.com.ar/es/posts/playoffs-del-clausura-de-la-liga-del-torneo-proyeccion",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "transportista",
    "busquedas": "200+",
-   "nota": "Le redujeron la sanción a Kudelka y podrá dirigir los octavos del Clausura ante Gimnasia",
-   "nota_url": "https://www.ole.com.ar/newells-old-boys/redujeron-sancion-kudelka-podra-dirigir-vs-gimnasia_0_Js9mxhi0Np.html",
-   "medio": "Olé",
+   "nota": "Evacuaron la sucursal de OCA por una amenaza de suicidio",
+   "nota_url": "https://www.eldiariodetandil.com/nota-evacuaron-la-sucursal-de-oca-por-una-amenaza-de-suicidio-105376",
+   "medio": "El diario de Tandil",
    "relevante": false,
    "temas": []
   }
