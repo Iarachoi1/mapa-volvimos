@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 00:41",
+ "actualizado": "21/11 01:45",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,50 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "HOY JUEGA BOCA",
+   "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Rigoni",
    "url": "https://x.com/search?q=Rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ES HOY",
+   "url": "https://x.com/search?q=ES%20HOY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
@@ -39,26 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Verstappen",
    "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Uvita",
-   "url": "https://x.com/search?q=Uvita",
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +93,20 @@
    "temas": []
   },
   {
-   "tema": "Feler",
-   "url": "https://x.com/search?q=Feler",
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "tema": "Uvita",
+   "url": "https://x.com/search?q=Uvita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "VAMOS NOSOTROS",
+   "url": "https://x.com/search?q=VAMOS%20NOSOTROS",
    "relevante": false,
    "temas": []
   },
@@ -87,55 +117,52 @@
    "temas": []
   },
   {
-   "tema": "Zelarayan",
-   "url": "https://x.com/search?q=Zelarayan",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Liniers",
    "url": "https://x.com/search?q=Liniers",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "FalcÃ³n PÃ©rez",
-   "url": "https://x.com/search?q=Falc%C3%83%C2%B3n%20P%C3%83%C2%A9rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "FortÃ­n",
-   "url": "https://x.com/search?q=Fort%C3%83%C2%ADn",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cristaldo",
-   "url": "https://x.com/search?q=Cristaldo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Qualy",
-   "url": "https://x.com/search?q=Qualy",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "disney",
+   "busquedas": "500+",
+   "nota": "Walt Disney (NYSE:DIS) Director Sells $39,510,457.08 in Stock",
+   "nota_url": "https://www.marketbeat.com/instant-alerts/insider-walt-disney-nyse-dis-director-sells-3951045708-in-stock-2026-11-20/",
+   "medio": "MarketBeat",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juárez - atlas",
+   "busquedas": "100+",
+   "nota": "El mediocampista Denzell García dijo que FC Juárez buscará cerrar el Apertura 2026 con un triunfo",
+   "nota_url": "https://889noticias.mx/espacio-deportivo/el-mediocampista-denzell-garcia-dijo-que-fc-juarez-buscara-cerrar-el-apertura-2026-con-un-triunfo/",
+   "medio": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mckenna grace",
+   "busquedas": "100+",
+   "nota": "Mckenna Grace ‘Wept’ After Landing ‘Sunrise on the Reaping’ Role (Exclusive)",
+   "nota_url": "https://people.com/mckenna-grace-wept-after-landing-sunrise-on-the-reaping-role-exclusive-12264875",
+   "medio": "People.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "nuggets - rockets",
    "busquedas": "200+",
-   "nota": "TST Best Bets: November 20, 2026",
-   "nota_url": "https://www.thesportingtribune.com/2026/11/20/tst-best-bets-november-20-2026",
-   "medio": "The Sporting Tribune",
+   "nota": "Nuggets host Rockets in second Emirates NBA Cup game",
+   "nota_url": "https://nuggets.com/news/nuggets-host-rockets-second-emirates-nba-cup-game",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jazz - suns",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Phoenix vs Utah NBA Odds, Pick and Preview for Friday Night",
    "nota_url": "https://www.predictem.com/nba/phoenix-vs-utah-nba-odds-pick-and-preview-for-friday-night/",
    "medio": "Predictem",
@@ -144,19 +171,19 @@
   },
   {
    "tema": "terremoto sismo temblor hoy epicentro",
-   "busquedas": "500+",
-   "nota": "Un terremoto de magnitud 6,7 golpeó el centro de Perú",
-   "nota_url": "https://tn.com.ar/internacional/2026/11/20/un-terremoto-de-magnitud-67-golpeo-el-centro-de-peru/",
-   "medio": "TN",
+   "busquedas": "1000+",
+   "nota": "Fuerte sismo de magnitud 6.7 interrumpe un concurso escolar en Chaclacayo: estudiantes y padres pasaron susto",
+   "nota_url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-de-magnitud-67-interrumpe-un-concurso-escolar-en-chaclacayo-estudiantes-y-padres-pasaron-susto/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lakers - kings",
-   "busquedas": "500+",
-   "nota": "Is Austin Reaves playing tonight? Latest NBA injury report for Lakers vs. Kings",
-   "nota_url": "https://sports.yahoo.com/articles/austin-reaves-playing-tonight-latest-160252842.html",
-   "medio": "Yahoo Sports",
+   "busquedas": "1000+",
+   "nota": "Prediction and betting odds for Lakers vs. Kings",
+   "nota_url": "https://www.vcstar.com/story/sports/nba/lakers/2026/11/20/lakers-kings-odds-picks-predictions-nba/92878969007/",
+   "medio": "Ventura County Star",
    "relevante": false,
    "temas": []
   },
@@ -179,39 +206,12 @@
    "temas": []
   },
   {
-   "tema": "fp3 las vegas",
-   "busquedas": "200+",
-   "nota": "\"It was scary at 100km/h\" - F1 drivers shocked by Las Vegas 'ice rink'",
-   "nota_url": "https://www.motorsport.com/f1/news/it-was-scary-at-100km-h-f1-drivers-shocked-by-las-vegas-ice-rink/10875954/",
-   "medio": "Motorsport.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "calor",
-   "busquedas": "200+",
-   "nota": "Las llamativas medias negras que usaron los jugadores de Boca al llegar a Barranquilla: para qué sirven y cuánto cuestan",
-   "nota_url": "https://www.clarin.com/deportes/llamativas-medias-negras-usaron-jugadores-boca-llegar-barranquilla-sirven-cuestan_0_jGI4YQ8RgA.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "pistons - raptors",
    "busquedas": "200+",
-   "nota": "NBA Prediction Market Apps: Get Top Offers For Friday Night",
-   "nota_url": "https://www.amny.com/sports/nba-prediction-market-apps-get-top-offers-for-friday-night/",
-   "medio": "amNewYork",
+   "nota": "Predicting the Raptors Starting Lineup With RJ Barrett, Collin Murray-Boyles Injured",
+   "nota_url": "https://www.si.com/nba/raptors/onsi/predicting-the-raptors-starting-lineup-with-rj-barrett-collin-murray-boyles-injured",
+   "medio": "Sports Illustrated",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "victoria villarruel",
-   "busquedas": "200+",
-   "nota": "Villarruel volvió a marcar distancia del Gobierno tras el cierre de La Campagnola en Mar Del Plata: “Sin industria no hay trabajo”",
-   "nota_url": "https://www.perfil.com/politica/villarruel-volvio-a-marcar-distancia-del-gobierno-tras-el-cierre-de-la-campagnola-en-mar-del-plata-sin-industria-no-hay-trabajo-a74aA1n1kCdo",
-   "medio": "Perfil",
-   "relevante": true,
    "temas": []
   }
  ],
