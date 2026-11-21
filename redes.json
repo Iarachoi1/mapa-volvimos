@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 11:41",
+ "actualizado": "21/11 12:34",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,20 +21,14 @@
    "temas": []
   },
   {
-   "tema": "#unsabadomejor",
-   "url": "https://x.com/search?q=%23unsabadomejor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenSabado",
-   "url": "https://x.com/search?q=%23BuenSabado",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#SolEnLosMartinFierroUY",
    "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Fulham",
+   "url": "https://x.com/search?q=Fulham",
    "relevante": false,
    "temas": []
   },
@@ -57,26 +51,26 @@
    "temas": []
   },
   {
-   "tema": "#LasVegasGP",
-   "url": "https://x.com/search?q=%23LasVegasGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA VI",
-   "url": "https://x.com/search?q=GTA%20VI",
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Anderson",
-   "url": "https://x.com/search?q=Anderson",
+   "tema": "#lasvegasgp",
+   "url": "https://x.com/search?q=%23lasvegasgp",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Maresca",
+   "url": "https://x.com/search?q=Maresca",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +81,32 @@
    "temas": []
   },
   {
-   "tema": "Fulham",
-   "url": "https://x.com/search?q=Fulham",
+   "tema": "GTA VI",
+   "url": "https://x.com/search?q=GTA%20VI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenSabado",
+   "url": "https://x.com/search?q=%23BuenSabado",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Rigoni",
    "url": "https://x.com/search?q=Rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Anderson",
+   "url": "https://x.com/search?q=Anderson",
    "relevante": false,
    "temas": []
   },
@@ -109,108 +121,96 @@
    "url": "https://x.com/search?q=Lucia",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ronaldo MartÃ­nez",
-   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "alcaraz",
-   "busquedas": "200+",
-   "nota": "\"El mundo sigue\": Nadal analiza la ruptura Alcaraz-Ferrero y el ascenso de Jódar",
-   "nota_url": "https://www.tennisworldes.com/tenis/news/Carlos_Alcaraz/94286/-el-mundo-sigue-nadal-analiza-la-ruptura-alcarazferrero-y-el-ascenso-de-jodar/",
-   "medio": "Tennis World ES",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "como",
-   "busquedas": "200+",
-   "nota": "Bryan Ruiz tras el 7-0: \"La equivocación más grande fue aceptar el amistoso\"",
-   "nota_url": "https://www.espn.com.ar/futbol/costa-rica/nota/_/id/17533913/bryan-ruiz-error-argentina",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chelsea - leeds",
-   "busquedas": "1000+",
-   "nota": "How to watch Chelsea vs Leeds United soccer for free today: English Premier League live stream, TV channel, o",
-   "nota_url": "https://www.oregonlive.com/tv/2026/11/how-to-watch-chelsea-vs-leeds-united-soccer-for-free-today-english-premier-league-live-stream-tv-channel-odds.html",
-   "medio": "OregonLive.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aston villa - sunderland afc",
-   "busquedas": "500+",
-   "nota": "Juventus vs Venezia betting offers: The best free bets for Sunday's early Serie A game",
-   "nota_url": "https://www.squawka.com/en/betting-offers/juventus-vs-venezia-betting-offers-free-bets-22-11-2026/",
-   "medio": "Squawka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lazio - lecce",
-   "busquedas": "200+",
-   "nota": "Serie A: prove di fuga con il Lecce per la Lazio capolista",
-   "nota_url": "https://stream24.ilsole24ore.com/video/sport24/serie-a-prove-fuga-il-lecce-la-lazio-capolista/AJDvpSOC",
-   "medio": "Il Sole 24 ORE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "como fc",
-   "busquedas": "200+",
-   "nota": "Kean is now a mystery, surprise revelation about the striker",
-   "nota_url": "https://onefootball.com/en/news/kean-is-now-a-mystery-surprise-revelation-about-the-striker-43802686",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos alcaraz",
-   "busquedas": "1000+",
-   "nota": "Así quedó el cuadro de semifinales del ATP Finals 2026",
-   "nota_url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-el-cuadro-de-semifinales-del-atp-finals-2026-nid20112026/",
+   "tema": "pumas vs francia",
+   "busquedas": "100+",
+   "nota": "Francia vs. los Pumas: recuperar la soberanía sobre su juego, la misión argentina ante la armada tricolor",
+   "nota_url": "https://www.lanacion.com.ar/deportes/rugby/francia-vs-los-pumas-recuperar-la-soberania-sobre-su-juego-la-mision-argentina-ante-la-armada-nid21112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mönchengladbach - dortmund",
+   "tema": "coventry city - crystal palace",
    "busquedas": "200+",
-   "nota": "Bundesliga: Kann der BVB im Borussen-Duell den Patzer der Bayern nutzen?",
-   "nota_url": "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
-   "medio": "WELT",
+   "nota": "Crystal Palace injury news: Thomas Frank update on Ismaila Sarr, Takehiro Tomiyasu before Coventry clash",
+   "nota_url": "https://www.sportsmole.co.uk/football/crystal-palace/injury-news/news/need-to-be-careful-frank-gives-first-injury-update-as-crystal-palace-manager_609429.html",
+   "medio": "Sports Mole",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "abogado",
-   "busquedas": "2000+",
-   "nota": "El veredicto contra Cristian Pity Álvarez por el asesinato de su amigo",
-   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/20/el-veredicto-contra-cristian-pity-alvarez-por-el-asesinato-de-su-amigo/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ben shelton",
+   "tema": "clima santa fe",
    "busquedas": "500+",
-   "nota": "ATP Finals",
-   "nota_url": "https://www.reutersconnect.com/item/atp-finals/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxMlBOQUc",
-   "medio": "Reuters Connect",
+   "nota": "Clima en ciudad de Santa Fe hoy: cuál es el pronóstico del tiempo para el 21 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/santa-fe/clima-en-ciudad-de-santa-fe-hoy-cual-es-el-pronostico-del-tiempo-para-el-21-de-noviembre-de-2026-nid20112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "remedios de escalada",
+   "busquedas": "200+",
+   "nota": "Explosión en Lanús: murieron otras dos personas y ya son cuatro las víctimas",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/21/explosion-en-lanus-murieron-otras-dos-personas-y-ya-son-cuatro-las-victimas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fc union berlin - rb leipzig",
+   "busquedas": "100+",
+   "nota": "Union will Heimbilanz gegen die Sachsen positiv halten",
+   "nota_url": "https://www.fc-union-berlin.de/de/meldungen/union-will-heimbilanz-gegen-die-sachsen-positiv-halten-kQK09c",
+   "medio": "1. FC Union Berlin",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "shelton",
+   "busquedas": "100+",
+   "nota": "Greg Rusedski offers Ben Shelton advice after seventh straight Zverev defeat",
+   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171657/greg-rusedski-offers-ben-shelton-advice-after-seventh-straight-zverev-defeat/",
+   "medio": "Tennis World USA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rayo vallecano - valencia c. f.",
+   "busquedas": "200+",
+   "nota": "Duelo directo por la permanencia en Vallecas",
+   "nota_url": "https://www.mundodeportivo.com/futbol/laliga/20261121/1004253522/duelo-directo-permanencia-vallecas.html",
+   "medio": "Mundo Deportivo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos sainz",
+   "busquedas": "200+",
+   "nota": "“Lo tienen que penalizar”: Franco Colapinto explotó contra Carlos Sainz en plena práctica del GP de Las Vegas",
+   "nota_url": "https://tn.com.ar/deportes/formula-1/2026/11/20/lo-tienen-que-penalizar-el-enojo-de-franco-colapinto-con-carlos-sainz-tras-dos-cruces-en-la-pista-durante-la-tercera-practica/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nitto atp finals",
+   "busquedas": "100+",
+   "nota": "ATP Finals 2026 Day 6 Recap",
+   "nota_url": "https://www.perfect-tennis.com/atp-finals-2026-day-6-recap/",
+   "medio": "Perfect Tennis",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético river plate",
+   "busquedas": "5000+",
+   "nota": "El probable equipo de River ante Lanús: dos bajas y una apuesta en el medio :: Olé - ole.com.ar",
+   "nota_url": "https://www.ole.com.ar/river-plate/river-lanus-probable-equipo-ponzio_0_rYj19MRdzL.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   }
