@@ -1,16 +1,46 @@
 {
- "actualizado": "21/11 01:45",
+ "actualizado": "21/11 02:45",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
+   "tema": "Franco",
+   "url": "https://x.com/search?q=Franco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Marchiori",
-   "url": "https://x.com/search?q=Marchiori",
+   "tema": "Antonelli",
+   "url": "https://x.com/search?q=Antonelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gasly",
+   "url": "https://x.com/search?q=Gasly",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +51,62 @@
    "temas": []
   },
   {
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#vamosnene",
    "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Piastri",
+   "url": "https://x.com/search?q=Piastri",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "VÃ©lez",
+   "url": "https://x.com/search?q=V%C3%83%C2%A9lez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ES HOY",
+   "url": "https://x.com/search?q=ES%20HOY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marchiori",
+   "url": "https://x.com/search?q=Marchiori",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Qualy",
+   "url": "https://x.com/search?q=Qualy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Leclerc",
+   "url": "https://x.com/search?q=Leclerc",
    "relevante": false,
    "temas": []
   },
@@ -37,108 +121,24 @@
    "url": "https://x.com/search?q=Rigoni",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ES HOY",
-   "url": "https://x.com/search?q=ES%20HOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Godoy",
-   "url": "https://x.com/search?q=Godoy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ronaldo MartÃ­nez",
-   "url": "https://x.com/search?q=Ronaldo%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sporle",
-   "url": "https://x.com/search?q=Sporle",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Uvita",
-   "url": "https://x.com/search?q=Uvita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "VAMOS NOSOTROS",
-   "url": "https://x.com/search?q=VAMOS%20NOSOTROS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Liniers",
-   "url": "https://x.com/search?q=Liniers",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
    "tema": "disney",
    "busquedas": "500+",
-   "nota": "Walt Disney (NYSE:DIS) Director Sells $39,510,457.08 in Stock",
-   "nota_url": "https://www.marketbeat.com/instant-alerts/insider-walt-disney-nyse-dis-director-sells-3951045708-in-stock-2026-11-20/",
-   "medio": "MarketBeat",
+   "nota": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+   "nota_url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "juárez - atlas",
    "busquedas": "100+",
-   "nota": "El mediocampista Denzell García dijo que FC Juárez buscará cerrar el Apertura 2026 con un triunfo",
-   "nota_url": "https://889noticias.mx/espacio-deportivo/el-mediocampista-denzell-garcia-dijo-que-fc-juarez-buscara-cerrar-el-apertura-2026-con-un-triunfo/",
-   "medio": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
+   "nota": "Bravos se despide del Apertura 2026 y termina en el fondo de la tabla",
+   "nota_url": "https://mexico.as.com/futbol/futbol-mexicano/bravos-se-despide-del-apertura-2026-y-termina-en-el-fondo-de-la-tabla-f202611-n/",
+   "medio": "AS México",
    "relevante": false,
    "temas": []
   },
@@ -153,7 +153,7 @@
   },
   {
    "tema": "nuggets - rockets",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Nuggets host Rockets in second Emirates NBA Cup game",
    "nota_url": "https://nuggets.com/news/nuggets-host-rockets-second-emirates-nba-cup-game",
    "medio": "NBA.com",
@@ -163,27 +163,27 @@
   {
    "tema": "jazz - suns",
    "busquedas": "200+",
-   "nota": "Phoenix vs Utah NBA Odds, Pick and Preview for Friday Night",
-   "nota_url": "https://www.predictem.com/nba/phoenix-vs-utah-nba-odds-pick-and-preview-for-friday-night/",
-   "medio": "Predictem",
+   "nota": "11/20/2026 Suns vs Jazz Game Preview",
+   "nota_url": "https://www.nba.com/suns/news/11-20-2026-suns-vs-jazz-game-preview",
+   "medio": "NBA.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "terremoto sismo temblor hoy epicentro",
    "busquedas": "1000+",
-   "nota": "Fuerte sismo de magnitud 6.7 interrumpe un concurso escolar en Chaclacayo: estudiantes y padres pasaron susto",
-   "nota_url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-de-magnitud-67-interrumpe-un-concurso-escolar-en-chaclacayo-estudiantes-y-padres-pasaron-susto/",
-   "medio": "Infobae",
+   "nota": "El terremoto sorprendió a una periodista durante un programa en vivo en Perú: el video",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/21/el-terremoto-sorprendio-a-una-periodista-durante-un-programa-en-vivo-en-peru-el-video/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "lakers - kings",
    "busquedas": "1000+",
-   "nota": "Prediction and betting odds for Lakers vs. Kings",
-   "nota_url": "https://www.vcstar.com/story/sports/nba/lakers/2026/11/20/lakers-kings-odds-picks-predictions-nba/92878969007/",
-   "medio": "Ventura County Star",
+   "nota": "Kings Lakers Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/kings-lakers-basketball/image_a6d906b3-419c-5348-a718-b88fcb960e67.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
@@ -206,11 +206,11 @@
    "temas": []
   },
   {
-   "tema": "pistons - raptors",
-   "busquedas": "200+",
-   "nota": "Predicting the Raptors Starting Lineup With RJ Barrett, Collin Murray-Boyles Injured",
-   "nota_url": "https://www.si.com/nba/raptors/onsi/predicting-the-raptors-starting-lineup-with-rj-barrett-collin-murray-boyles-injured",
-   "medio": "Sports Illustrated",
+   "tema": "clasificacion f1",
+   "busquedas": "20000+",
+   "nota": "Notable Top5 de Colapinto en la última práctica de F1 en Las Vegas",
+   "nota_url": "https://campeones.com.ar/notable-top5-de-colapinto-en-la-ultima-practica-de-las-vegas/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   }
