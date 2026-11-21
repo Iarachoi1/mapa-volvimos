@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 12:34",
+ "actualizado": "21/11 13:34",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,6 +21,12 @@
    "temas": []
   },
   {
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#SolEnLosMartinFierroUY",
    "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
@@ -33,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
    "relevante": false,
    "temas": []
   },
@@ -51,26 +57,20 @@
    "temas": []
   },
   {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#sabadodeplp",
-   "url": "https://x.com/search?q=%23sabadodeplp",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#lasvegasgp",
-   "url": "https://x.com/search?q=%23lasvegasgp",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Maresca",
-   "url": "https://x.com/search?q=Maresca",
+   "tema": "#LasVegasGP",
+   "url": "https://x.com/search?q=%23LasVegasGP",
    "relevante": false,
    "temas": []
   },
@@ -81,38 +81,38 @@
    "temas": []
   },
   {
+   "tema": "rigoni",
+   "url": "https://x.com/search?q=rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA VI",
    "url": "https://x.com/search?q=GTA%20VI",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenSabado",
-   "url": "https://x.com/search?q=%23BuenSabado",
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Anderson",
-   "url": "https://x.com/search?q=Anderson",
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gasly",
+   "url": "https://x.com/search?q=Gasly",
    "relevante": false,
    "temas": []
   },
@@ -125,71 +125,53 @@
  ],
  "google": [
   {
-   "tema": "pumas vs francia",
-   "busquedas": "100+",
-   "nota": "Francia vs. los Pumas: recuperar la soberanía sobre su juego, la misión argentina ante la armada tricolor",
-   "nota_url": "https://www.lanacion.com.ar/deportes/rugby/francia-vs-los-pumas-recuperar-la-soberania-sobre-su-juego-la-mision-argentina-ante-la-armada-nid21112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "coventry city - crystal palace",
+   "tema": "parma - roma",
    "busquedas": "200+",
-   "nota": "Crystal Palace injury news: Thomas Frank update on Ismaila Sarr, Takehiro Tomiyasu before Coventry clash",
-   "nota_url": "https://www.sportsmole.co.uk/football/crystal-palace/injury-news/news/need-to-be-careful-frank-gives-first-injury-update-as-crystal-palace-manager_609429.html",
-   "medio": "Sports Mole",
+   "nota": "Parma-Roma LIVE: risultato, formazioni e diretta testuale della partita",
+   "nota_url": "https://www.dazn.com/it-IT/news/calcio/parma-roma-live-diretta-risultato-formazioni/oshzrw63zfw31jtfp4dzs0q8u",
+   "medio": "DAZN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima santa fe",
+   "tema": "bono",
+   "busquedas": "1000+",
+   "nota": "Bolsillo golpeado y fin de año: el Gobierno confirmó el haber, el aguinaldo y el bono de ANSES para diciembre",
+   "nota_url": "https://www.ambito.com/informacion-general/bolsillo-golpeado-y-fin-ano-el-gobierno-confirmo-el-haber-el-aguinaldo-y-el-bono-anses-diciembre-n6347021",
+   "medio": "Ambito",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "rosario",
+   "busquedas": "200+",
+   "nota": "Susto en el centro: un ascensor del Shopping del Siglo se prendió fuego",
+   "nota_url": "https://www.rosarionuestro.com/susto-en-el-centro-un-ascensor-del-shopping-del-siglo-se-prendio-fuego",
+   "medio": "Rosario Nuestro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "borussia dortmund",
+   "busquedas": "200+",
+   "nota": "Vor der Mitgliederversammlung: Chronologie des Missbrauchsskandals bei Borussia Dortmund",
+   "nota_url": "https://www.rnd.de/sport/missbrauchsskandal-bei-borussia-dortmund-chronologie-eines-falls-der-den-deutschen-fussball-AEWAPLCYCVCJRLG27GCI76R43U.html",
+   "medio": "RND.de",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ufc",
+   "busquedas": "1000+",
+   "nota": "MMA Parlay of the Week: UFC Qatar",
+   "nota_url": "https://www.sportsgamblingpodcast.com/2026/11/20/mma-parlay-of-the-week-ufc-qatar-2/",
+   "medio": "Sports Gambling Podcast",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos sainz jr.",
    "busquedas": "500+",
-   "nota": "Clima en ciudad de Santa Fe hoy: cuál es el pronóstico del tiempo para el 21 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/santa-fe/clima-en-ciudad-de-santa-fe-hoy-cual-es-el-pronostico-del-tiempo-para-el-21-de-noviembre-de-2026-nid20112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "remedios de escalada",
-   "busquedas": "200+",
-   "nota": "Explosión en Lanús: murieron otras dos personas y ya son cuatro las víctimas",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/21/explosion-en-lanus-murieron-otras-dos-personas-y-ya-son-cuatro-las-victimas/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fc union berlin - rb leipzig",
-   "busquedas": "100+",
-   "nota": "Union will Heimbilanz gegen die Sachsen positiv halten",
-   "nota_url": "https://www.fc-union-berlin.de/de/meldungen/union-will-heimbilanz-gegen-die-sachsen-positiv-halten-kQK09c",
-   "medio": "1. FC Union Berlin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "shelton",
-   "busquedas": "100+",
-   "nota": "Greg Rusedski offers Ben Shelton advice after seventh straight Zverev defeat",
-   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171657/greg-rusedski-offers-ben-shelton-advice-after-seventh-straight-zverev-defeat/",
-   "medio": "Tennis World USA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rayo vallecano - valencia c. f.",
-   "busquedas": "200+",
-   "nota": "Duelo directo por la permanencia en Vallecas",
-   "nota_url": "https://www.mundodeportivo.com/futbol/laliga/20261121/1004253522/duelo-directo-permanencia-vallecas.html",
-   "medio": "Mundo Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos sainz",
-   "busquedas": "200+",
    "nota": "“Lo tienen que penalizar”: Franco Colapinto explotó contra Carlos Sainz en plena práctica del GP de Las Vegas",
    "nota_url": "https://tn.com.ar/deportes/formula-1/2026/11/20/lo-tienen-que-penalizar-el-enojo-de-franco-colapinto-con-carlos-sainz-tras-dos-cruces-en-la-pista-durante-la-tercera-practica/",
    "medio": "TN",
@@ -197,20 +179,38 @@
    "temas": []
   },
   {
-   "tema": "nitto atp finals",
-   "busquedas": "100+",
-   "nota": "ATP Finals 2026 Day 6 Recap",
-   "nota_url": "https://www.perfect-tennis.com/atp-finals-2026-day-6-recap/",
-   "medio": "Perfect Tennis",
+   "tema": "pronostico cordoba",
+   "busquedas": "200+",
+   "nota": "Clima en Córdoba Observatorio hoy: cuál es el pronóstico del tiempo para el 21 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/cordoba/clima-en-cordoba-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-21-de-noviembre-de-2026-nid20112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club atlético river plate",
-   "busquedas": "5000+",
-   "nota": "El probable equipo de River ante Lanús: dos bajas y una apuesta en el medio :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/river-plate/river-lanus-probable-equipo-ponzio_0_rYj19MRdzL.html",
-   "medio": "Olé",
+   "tema": "tiempo en cordoba",
+   "busquedas": "200+",
+   "nota": "Córdoba: Advierten por tormentas fuertes, intensas lluvias y posible caída de granizo durante el fin de semana",
+   "nota_url": "https://prensa.cba.gov.ar/cordoba-advierten-por-tormentas-fuertes-intensas-lluvias-y-posible-caida-de-granizo-durante-el-fin-de-semana/",
+   "medio": "Prensa Cba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ufc hoy",
+   "busquedas": "500+",
+   "nota": "Kevin Vallejos enfrentará a Aljamain Sterling en la UFC en Qatar y vaticinó otra coronación de gloria argentina en Doha",
+   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/21/kevin-vallejos-palpito-su-pelea-ante-aljamain-sterling-en-la-ufc-y-se-ilusiono-con-otra-consagracion-argentina-en-qatar/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "niza - psg",
+   "busquedas": "2000+",
+   "nota": "Luis Enrique warns PSG: “This is not Football Manager”",
+   "nota_url": "https://www.tufutbolero.com/en/news/luis-enrique-warns-psg-this-is-not-football-manager-4817b3",
+   "medio": "Tu Futbolero",
    "relevante": false,
    "temas": []
   }
