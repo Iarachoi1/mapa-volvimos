@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 06:38",
+ "actualizado": "21/11 07:37",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,12 +11,6 @@
   {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gasly",
-   "url": "https://x.com/search?q=Gasly",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Belgrano",
    "url": "https://x.com/search?q=Belgrano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
    "relevante": false,
    "temas": []
   },
@@ -57,26 +39,20 @@
    "temas": []
   },
   {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Marchiori",
    "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jason",
-   "url": "https://x.com/search?q=Jason",
+   "tema": "GTA 6",
+   "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GTA 6",
-   "url": "https://x.com/search?q=GTA%206",
+   "tema": "Jason",
+   "url": "https://x.com/search?q=Jason",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +69,20 @@
    "temas": []
   },
   {
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#telemetrico",
    "url": "https://x.com/search?q=%23telemetrico",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "antonelli",
+   "url": "https://x.com/search?q=antonelli",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +93,26 @@
    "temas": []
   },
   {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "vuelta de obligado",
    "url": "https://x.com/search?q=vuelta%20de%20obligado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#masterchefjunior",
+   "url": "https://x.com/search?q=%23masterchefjunior",
    "relevante": false,
    "temas": []
   },
@@ -125,17 +125,35 @@
  ],
  "google": [
   {
+   "tema": "club deportivo maipú",
+   "busquedas": "200+",
+   "nota": "Polémica en el ascenso: le dieron por ganado el partido a Deportivo Madryn contra Maipú",
+   "nota_url": "https://www.rionegro.com.ar/deportes/futbol/polemica-en-el-ascenso-le-dieron-por-ganado-el-partido-a-deportivo-madryn-contra-maipu-4805349/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mario pergolini",
+   "busquedas": "200+",
+   "nota": "“No te lo quería decir”: la confesión de Nicki Nicole que hizo enojar a Pergolini en Otro Día Perdido",
+   "nota_url": "https://eldoce.tv/show/2026/11/21/no-te-lo-queria-decir-la-confesion-de-nicki-nicole-que-hizo-enojar-a-pergolini-en-otro-dia-perdido/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "francisco moura",
    "busquedas": "2000+",
-   "nota": "Farioli: «Temos de agradecer ao Cláudio, é o herói da noite»",
-   "nota_url": "https://maisfutebol.iol.pt/fc-porto/francesco-farioli/farioli-temos-de-agradecer-ao-claudio-e-o-heroi-da-noite",
-   "medio": "Maisfutebol",
+   "nota": "Treinador do Paredes: «Sou hoje um treinador muito, muito feliz»",
+   "nota_url": "https://www.abola.pt/noticias/treinador-do-paredes-sou-hoje-um-treinador-muito-muito-feliz-2026112020514596236",
+   "medio": "A Bola",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tormenta",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Ciclón extratropical: cuándo llegará y qué zonas podría afectar",
    "nota_url": "https://www.eldia.com/informacion-general/ciclon-extratropical-cuando-llegara-y-que-zonas-podria-afectar-informacion-general_1795090970",
    "medio": "Diario El Día de La Plata",
@@ -144,16 +162,16 @@
   },
   {
    "tema": "allanamiento",
-   "busquedas": "200+",
-   "nota": "Caso Lázaro Báez: realizaron 11 allanamientos en Santa Cruz, hubo tres detenidos y otros tres imputados quedaron con restricciones",
-   "nota_url": "https://www.eldiarionuevodia.com.ar/locales/caso-lazaro-baez-realizaron-11-allanamientos-en-santa-cruz-hubo-tres-detenidos-y-otros-tres-imputados-quedaron-con-restricciones-4815/",
-   "medio": "Diario Nuevo Día",
+   "busquedas": "500+",
+   "nota": "Allanaron un terreno y secuestraron documentacion clave que complica a “Budín” Ibáñez",
+   "nota_url": "https://laopinionaustral.com.ar/videos/allanaron-un-terreno-y-secuestraron-documentacion-clave-que-complica-a-budn-ibez-734563.html",
+   "medio": "La Opinión Austral",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gabriel felix influencer",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Murió Gabriel Félix, el reconocido influencer brasileño: tenía 29 años",
    "nota_url": "https://la100.cienradios.com/mundo/murio-gabriel-felix-el-reconocido-influencer-brasileno-tenia-29-anos/",
    "medio": "La 100",
@@ -161,8 +179,17 @@
    "temas": []
   },
   {
+   "tema": "f1",
+   "busquedas": "2000+",
+   "nota": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap",
+   "nota_url": "https://racingnews365.com/toto-wolff-has-no-clue-how-kimi-antonelli-was-able-to-pull-off-impossible-f1-lap",
+   "medio": "RacingNews365",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "estrella gigante",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Observaron una estrella que engulle a su compañera en las afueras de la galaxia de Andrómeda",
    "nota_url": "https://www.clarin.com/internacional/observaron-estrella-engulle-companera-afueras-galaxia-andromeda_0_YRhHXmeP7k.html",
    "medio": "Clarin.com",
@@ -184,33 +211,6 @@
    "nota": "Bravos se despide del Apertura 2026 y termina en el fondo de la tabla",
    "nota_url": "https://mexico.as.com/futbol/futbol-mexicano/bravos-se-despide-del-apertura-2026-y-termina-en-el-fondo-de-la-tabla-f202611-n/",
    "medio": "AS México",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mckenna grace",
-   "busquedas": "100+",
-   "nota": "Mckenna Grace’s stylist breaks down her best ‘Hunger Games’ method dressing moments [Exclusive]",
-   "nota_url": "https://www.cosmopolitan.com/uk/fashion/celebrity/a74491487/mckenna-grace-method-dressing-stylist-molly-dickson/",
-   "medio": "Cosmopolitan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - rockets",
-   "busquedas": "500+",
-   "nota": "The Nuggets host the Rockets",
-   "nota_url": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd/iK3hEymTGnJC/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jazz - suns",
-   "busquedas": "200+",
-   "nota": "Suns Jazz Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/suns-jazz-basketball/image_f3f67467-25e3-5dea-8f02-41208fd5e214.html",
-   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   }
