@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 07:37",
+ "actualizado": "21/11 08:35",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "tema": "DÃ­a de la SoberanÃ­a Nacional",
+   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DÃ­a de la SoberanÃ­a Nacional",
-   "url": "https://x.com/search?q=D%C3%83%C2%ADa%20de%20la%20Soberan%C3%83%C2%ADa%20Nacional",
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
    "relevante": false,
    "temas": []
   },
@@ -45,6 +45,12 @@
    "temas": []
   },
   {
+   "tema": "Rigoni",
+   "url": "https://x.com/search?q=Rigoni",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GTA 6",
    "url": "https://x.com/search?q=GTA%206",
    "relevante": false,
@@ -63,26 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Rigoni",
-   "url": "https://x.com/search?q=Rigoni",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#telemetrico",
    "url": "https://x.com/search?q=%23telemetrico",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "antonelli",
-   "url": "https://x.com/search?q=antonelli",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +81,20 @@
    "temas": []
   },
   {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "vuelta de obligado",
    "url": "https://x.com/search?q=vuelta%20de%20obligado",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#VamosNene",
+   "url": "https://x.com/search?q=%23VamosNene",
    "relevante": false,
    "temas": []
   },
@@ -121,21 +109,51 @@
    "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "OUR CHOICE IS BTS AT MAMA",
+   "url": "https://x.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "takata",
+   "busquedas": "100+",
+   "nota": "Toyota is recalling over 300,000 vehicles. See affected models",
+   "nota_url": "https://www.usatoday.com/story/cars/recalls/2026/11/19/toyota-recalls-vehicles-lexus-models/92860583007/",
+   "medio": "USA Today",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima neuquen",
+   "busquedas": "100+",
+   "nota": "Clima hoy en Neuquén, el pronóstico del tiempo para este 21 noviembre 2026",
+   "nota_url": "https://www.infocampo.com.ar/clima-hoy-en-neuquen-el-pronostico-del-tiempo-para-este-21-noviembre-2026/",
+   "medio": "Infocampo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "club deportivo maipú",
-   "busquedas": "200+",
-   "nota": "Polémica en el ascenso: le dieron por ganado el partido a Deportivo Madryn contra Maipú",
-   "nota_url": "https://www.rionegro.com.ar/deportes/futbol/polemica-en-el-ascenso-le-dieron-por-ganado-el-partido-a-deportivo-madryn-contra-maipu-4805349/",
-   "medio": "Diario Río Negro",
+   "busquedas": "500+",
+   "nota": "El mensaje de Deportivo Maipú tras el fallo del Tribunal",
+   "nota_url": "https://www.soloascenso.com.ar/notas/deportivo-maipu/el-mensaje-de-deportivo-maipu-tras-el-fallo-del-tribunal/234593",
+   "medio": "Solo Ascenso",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mario pergolini",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "“No te lo quería decir”: la confesión de Nicki Nicole que hizo enojar a Pergolini en Otro Día Perdido",
    "nota_url": "https://eldoce.tv/show/2026/11/21/no-te-lo-queria-decir-la-confesion-de-nicki-nicole-que-hizo-enojar-a-pergolini-en-otro-dia-perdido/",
    "medio": "eldoce",
@@ -143,17 +161,26 @@
    "temas": []
   },
   {
+   "tema": "epicentro",
+   "busquedas": "2000+",
+   "nota": "El terremoto sorprendió a una periodista durante un programa en vivo en Perú: el video",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/21/el-terremoto-sorprendio-a-una-periodista-durante-un-programa-en-vivo-en-peru-el-video/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "francisco moura",
    "busquedas": "2000+",
-   "nota": "Treinador do Paredes: «Sou hoje um treinador muito, muito feliz»",
-   "nota_url": "https://www.abola.pt/noticias/treinador-do-paredes-sou-hoje-um-treinador-muito-muito-feliz-2026112020514596236",
-   "medio": "A Bola",
+   "nota": "Farioli: «Temos de agradecer ao Cláudio, é o herói da noite»",
+   "nota_url": "https://cnnportugal.iol.pt/fc-porto/francesco-farioli/farioli-temos-de-agradecer-ao-claudio-e-o-heroi-da-noite",
+   "medio": "CNN Portugal",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tormenta",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Ciclón extratropical: cuándo llegará y qué zonas podría afectar",
    "nota_url": "https://www.eldia.com/informacion-general/ciclon-extratropical-cuando-llegara-y-que-zonas-podria-afectar-informacion-general_1795090970",
    "medio": "Diario El Día de La Plata",
@@ -162,28 +189,19 @@
   },
   {
    "tema": "allanamiento",
-   "busquedas": "500+",
-   "nota": "Allanaron un terreno y secuestraron documentacion clave que complica a “Budín” Ibáñez",
-   "nota_url": "https://laopinionaustral.com.ar/videos/allanaron-un-terreno-y-secuestraron-documentacion-clave-que-complica-a-budn-ibez-734563.html",
-   "medio": "La Opinión Austral",
+   "busquedas": "1000+",
+   "nota": "Cómo ingresarían drogas a la U15 de Río Gallegos y la sospecha sobre personal penitenciario",
+   "nota_url": "https://www.eldiarionuevodia.com.ar/locales/como-ingresarian-drogas-a-la-u15-de-rio-gallegos-y-la-sospecha-sobre-personal-penitenciario-8168/",
+   "medio": "Diario Nuevo Día",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "gabriel felix influencer",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Murió Gabriel Félix, el reconocido influencer brasileño: tenía 29 años",
    "nota_url": "https://la100.cienradios.com/mundo/murio-gabriel-felix-el-reconocido-influencer-brasileno-tenia-29-anos/",
    "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "f1",
-   "busquedas": "2000+",
-   "nota": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap",
-   "nota_url": "https://racingnews365.com/toto-wolff-has-no-clue-how-kimi-antonelli-was-able-to-pull-off-impossible-f1-lap",
-   "medio": "RacingNews365",
    "relevante": false,
    "temas": []
   },
@@ -193,24 +211,6 @@
    "nota": "Observaron una estrella que engulle a su compañera en las afueras de la galaxia de Andrómeda",
    "nota_url": "https://www.clarin.com/internacional/observaron-estrella-engulle-companera-afueras-galaxia-andromeda_0_YRhHXmeP7k.html",
    "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "disney",
-   "busquedas": "500+",
-   "nota": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-   "nota_url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juárez - atlas",
-   "busquedas": "100+",
-   "nota": "Bravos se despide del Apertura 2026 y termina en el fondo de la tabla",
-   "nota_url": "https://mexico.as.com/futbol/futbol-mexicano/bravos-se-despide-del-apertura-2026-y-termina-en-el-fondo-de-la-tabla-f202611-n/",
-   "medio": "AS México",
    "relevante": false,
    "temas": []
   }
