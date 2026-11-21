@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 15:30",
+ "actualizado": "21/11 16:38",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,26 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Bearman",
    "url": "https://x.com/search?q=Bearman",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#SolEnLosMartinFierroUY",
-   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Briatore",
-   "url": "https://x.com/search?q=Briatore",
    "relevante": false,
    "temas": []
   },
@@ -45,20 +27,26 @@
    "temas": []
   },
   {
-   "tema": "#telemetrico",
-   "url": "https://x.com/search?q=%23telemetrico",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Alpine",
    "url": "https://x.com/search?q=Alpine",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Belgrano",
-   "url": "https://x.com/search?q=Belgrano",
+   "tema": "#SolEnLosMartinFierroUY",
+   "url": "https://x.com/search?q=%23SolEnLosMartinFierroUY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +57,44 @@
    "temas": []
   },
   {
-   "tema": "Leeds",
-   "url": "https://x.com/search?q=Leeds",
+   "tema": "Topuria",
+   "url": "https://x.com/search?q=Topuria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gasly",
+   "url": "https://x.com/search?q=Gasly",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lucia",
+   "url": "https://x.com/search?q=Lucia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Arsenal",
+   "url": "https://x.com/search?q=Arsenal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belgrano",
+   "url": "https://x.com/search?q=Belgrano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marchiori",
+   "url": "https://x.com/search?q=Marchiori",
    "relevante": false,
    "temas": []
   },
@@ -87,130 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Marchiori",
-   "url": "https://x.com/search?q=Marchiori",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#sabadodeplp",
-   "url": "https://x.com/search?q=%23sabadodeplp",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gasly",
-   "url": "https://x.com/search?q=Gasly",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Xabi Alonso",
-   "url": "https://x.com/search?q=Xabi%20Alonso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lucia",
-   "url": "https://x.com/search?q=Lucia",
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "arsenal vs",
-   "busquedas": "200+",
-   "nota": "Saliba, Saka, Zubimendi: Arsenal injury latest for FPL Gameweek 11",
-   "nota_url": "https://www.fantasyfootballscout.co.uk/2026/11/20/saliba-saka-zubimendi-arsenal-injury-latest-for-fpl-gameweek-11/",
-   "medio": "www.fantasyfootballscout.co.uk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "feyenoord - excelsior",
+   "tema": "new england - philadelphia",
    "busquedas": "100+",
-   "nota": "LIVE eredivisie | Feyenoord schiet uit startblokken in stadsderby: Givairo Read opent score op aangeven van Jerayno Schaken",
-   "nota_url": "https://www.ad.nl/voetbal/live-eredivisie-feyenoord-schiet-uit-startblokken-in-stadsderby-givairo-read-opent-score-op-aangeven-van-jerayno-schaken~aac6c445/",
-   "medio": "AD.nl",
+   "nota": "XI Notes presented by BIMBO | Union at New England Revolution | Game 1",
+   "nota_url": "https://www.philadelphiaunion.com/news/xi-notes-presented-bimbo-union-at-new-england-revolution-112126",
+   "medio": "Philadelphia Union",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "76ers - bucks",
-   "busquedas": "200+",
-   "nota": "Tyrese Maxey (foot) returns to lineup Saturday",
-   "nota_url": "https://www.fantasypros.com/nba/news/621678/tyrese-maxey-foot-returns-to-lineup-saturday.php",
-   "medio": "FantasyPros",
+   "tema": "francia - argentina",
+   "busquedas": "2000+",
+   "nota": "Rubiolo, el veinteañero más experimentado de Los Pumas: \"Creo que Francia nos ve como un equipo muy intenso, no creo que dejen nada librado al azar\"",
+   "nota_url": "https://www.clarin.com/deportes/rubiolo-veinteanero-experimentado-pumas-creo-francia-ve-equipo-intenso-creo-dejen-librado-azar_0_jHZHoblke9.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tallison teixeira",
-   "busquedas": "200+",
-   "nota": "Jiri Prochazka promete deixar 'emoções' de fora durante luta no UFC Catar",
-   "nota_url": "https://www.terra.com.br/esportes/jiri-prochazka-promete-deixar-emocoes-de-fora-durante-luta-no-ufc-catar,ed4f8894bc5acc7498ea52143287db70bs61pqh1.html",
-   "medio": "Terra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "independiente",
+   "tema": "real madrid - celta de vigo",
    "busquedas": "1000+",
-   "nota": "Argentinos Juniors e Independiente se enfrentarán por los octavos de final del Torneo Clausura: hora, TV y posibles formaciones",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/21/argentinos-juniors-e-independiente-se-enfrentaran-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+   "nota": "Vinícius espera en el banquillo y el Celta remueve medio equipo",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/21/vinicius-espera-en-el-banquillo-y-el-celta-remueve-medio-equipo/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cartelera ufc",
+   "tema": "barracas",
+   "busquedas": "200+",
+   "nota": "Defensa y Justicia vs Barracas Central Prediction, Betting Tips, Lineups & Odds | 21 Nov 2026",
+   "nota_url": "https://www.sportsgambler.com/betting-tips/football/defensa-y-justicia-vs-barracas-central-prediction-lineups-odds-2026-11-21/",
+   "medio": "Sportsgambler",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego placente",
    "busquedas": "100+",
-   "nota": "Jiří Procházka y Navajo Stirling, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/polideportivo/jiri-prochazka-y-navajo-stirling-en-vivo-donde-ver-por-tv-y-online-id772264.html",
+   "nota": "Qué necesita Argentina para clasificar en el Mundial Sub 17",
+   "nota_url": "https://www.tycsports.com/seleccion-argentina/que-necesita-argentina-para-clasificar-en-el-mundial-sub-17-op-id772150.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "kocaelispor - fenerbahçe",
+   "tema": "doue",
    "busquedas": "100+",
-   "nota": "Recep Durul: \"Fenerbahçe maçında favori biziz\" Kocaelispor Kulüp Başkanı Recep Durul: \"Taraftarımızla birlikte kazanacağız\" \"Ligde Avrupa için oynuyoruz\"",
-   "nota_url": "https://yerel-haberler.haberturk.com/kocaeli-haberleri/recep-durul-fenerbahce-macinda-favori-biziz-kocaelispor-kulup-baskani-recep-durul-119528810",
-   "medio": "Habertürk",
+   "nota": "Another serious injury at PSG? Desire Doue appears to suffer serious injury",
+   "nota_url": "https://www.goal.com/en/news/another-nightmare-diagnosis-for-psg-attacking-star-appears-to-suffer-serious-injury/blt5498456e0f0cfd93",
+   "medio": "Goal.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "defensa y justicia - barracas central",
-   "busquedas": "10000+",
-   "nota": "Siguen los octavos de final del Torneo Clausura: Defensa-Barracas y Argentinos-Independiente",
-   "nota_url": "https://www.lanueva.com/nota/2026-11-21-5-0-0-siguen-los-octavos-de-final-del-torneo-clausura-defensa-barracas-y-argentinos-independiente",
-   "medio": "La Nueva Provincia",
+   "tema": "juan román riquelme",
+   "busquedas": "100+",
+   "nota": "El conmovedor encuentro de Riquelme con un hincha colombiano de Boca que llamó Juan Román a su hijo en su honor",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/21/el-conmovedor-encuentro-de-riquelme-con-un-hincha-colombiano-de-boca-que-llamo-juan-roman-a-su-hijo-en-su-honor/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "josé coronado",
-   "busquedas": "500+",
-   "nota": "Netflix: Luis Zahera y José Coronado se lucen con la serie más exitosa y es perfecta para maratonear",
-   "nota_url": "https://www.a24.com/trends/netflix-luis-zahera-y-jose-coronado-se-lucen-la-serie-mas-exitosa-y-es-perfecta-maratonear-n1618443",
-   "medio": "A24.com",
+   "tema": "napoli - torino",
+   "busquedas": "200+",
+   "nota": "NAPOLI-TORINO, METROPOLITANA PROLUNGA IL SERVIZIO: ULTIMA CORSA STRAORDINARIA ALLE 23:50",
+   "nota_url": "https://www.napolicalcionews.it/news-calcio-napoli/Napoli-Torino--metropolitana-prolunga-il-servizio--ultima-corsa-straordinaria-alle-23-50-151461.aspx",
+   "medio": "Napolicalcionews.it",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "flavio briatore",
-   "busquedas": "2000+",
-   "nota": "F1 en Las Vegas: el ambicioso plan de Briatore para 2027 con Colapinto y Gasly :: Olé - ole.com.ar",
-   "nota_url": "https://www.ole.com.ar/autos/formula-1-gp-vegas-dijo-flavio-briatore-franco-colapinto-alpine_0_XYgnZjZQq1.html",
-   "medio": "Olé",
+   "tema": "claudio úbeda",
+   "busquedas": "200+",
+   "nota": "Tras su paso por Boca, Claudio Ubeda es nuevo DT de Central Córdoba",
+   "nota_url": "https://bolavip.com/ar/futbolargentino/tras-su-paso-por-boca-claudio-ubeda-es-nuevo-dt-de-central-cordoba",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "accidente panamericana",
+   "busquedas": "200+",
+   "nota": "Así fue el choque fatal en Panamericana entre dos autos y un colectivo",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/asi-fue-el-choque-en-panamericana-entre-dos-autos-y-un-colectivo-nid21112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   }
