@@ -1,16 +1,10 @@
 {
- "actualizado": "22/11 18:31",
+ "actualizado": "22/11 19:33",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Robertito",
    "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +15,20 @@
    "temas": []
   },
   {
+   "tema": "Souto",
+   "url": "https://x.com/search?q=Souto",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rosca Floja",
    "url": "https://x.com/search?q=Rosca%20Floja",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -39,20 +45,8 @@
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Gimnasia de Mendoza",
    "url": "https://x.com/search?q=Gimnasia%20de%20Mendoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Liverpool",
-   "url": "https://x.com/search?q=Liverpool",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Pochettino",
-   "url": "https://x.com/search?q=Pochettino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Zverev",
-   "url": "https://x.com/search?q=Zverev",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#RosarioCentral",
-   "url": "https://x.com/search?q=%23RosarioCentral",
+   "tema": "GalvÃ¡n",
+   "url": "https://x.com/search?q=Galv%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +69,20 @@
    "temas": []
   },
   {
+   "tema": "Vamos River",
+   "url": "https://x.com/search?q=Vamos%20River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#RosarioCentral",
+   "url": "https://x.com/search?q=%23RosarioCentral",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#GimnasiaMza",
    "url": "https://x.com/search?q=%23GimnasiaMza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Manchester United",
-   "url": "https://x.com/search?q=Manchester%20United",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alcaraz",
-   "url": "https://x.com/search?q=Alcaraz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gigante de Arroyito",
-   "url": "https://x.com/search?q=Gigante%20de%20Arroyito",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +93,124 @@
    "temas": []
   },
   {
-   "tema": "Yoro",
-   "url": "https://x.com/search?q=Yoro",
+   "tema": "Pochettino",
+   "url": "https://x.com/search?q=Pochettino",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alcaraz",
+   "url": "https://x.com/search?q=Alcaraz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Joaco",
+   "url": "https://x.com/search?q=Joaco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Zverev",
+   "url": "https://x.com/search?q=Zverev",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "victoria villarruel",
+   "tema": "posiciones de getafe cf contra atlético de madrid",
+   "busquedas": "2000+",
+   "nota": "Club Atlético de Madrid - Atleti return to action at the Coliseum",
+   "nota_url": "https://en.atleticodemadrid.com/noticias/atleti-return-to-action-at-the-coliseum",
+   "medio": "Club Atlético de Madrid",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "scott bessent",
    "busquedas": "100+",
-   "nota": "“Fuimos votados para ser austeros”: Villarruel apuntó contra Quirno por los gastos en Cancillería",
-   "nota_url": "https://www.lavoz.com.ar/politica/votados-austeros-villarruel-apunto-quirno-gastos-cancilleria_0_EA1XN4nJdJ.html",
-   "medio": "La Voz del Interior",
+   "nota": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+   "nota_url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "caputo",
+   "busquedas": "100+",
+   "nota": "Riesgo de hundirse",
+   "nota_url": "https://www.elcohetealaluna.com/riesgo-de-hundirse/",
+   "medio": "El Cohete a la Luna",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "fluminense - mirassol",
-   "busquedas": "500+",
-   "nota": "Jovem atacante Wesley Natã, do Fluminense, teria sido oferecido ao Vasco",
-   "nota_url": "https://netvasco.com.br/n/396955/jovem-atacante-wesley-nata-do-fluminense-teria-sido-oferecido-ao-vasco",
-   "medio": "NETVASCO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rubio ñu - libertad",
-   "busquedas": "500+",
-   "nota": "Libertad se la juega en La Arboleda",
-   "nota_url": "https://rcc.com.py/deporte/libertad-se-la-juega-en-la-arboleda/",
-   "medio": "Red Chaqueña de Comunicaciones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "colo-colo - u. católica",
-   "busquedas": "500+",
-   "nota": "Colo Colo pierde a Arturo Vidal para el clásico ante Universidad Católica: esta es la razón de su ausencia",
-   "nota_url": "https://bolavip.com/cl/colocolo/colo-colo-pierde-a-arturo-vidal-para-el-clasico-ante-universidad-catolica-esta-es-la-razon-de-su-ausencia",
-   "medio": "Bolavip Chile",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "soledad silveyra",
+   "tema": "santiago espindola",
    "busquedas": "200+",
-   "nota": "“Me crié en un charco de sangre”: el crudo relato de Soledad Silveyra sobre su infancia y cómo logró sanar",
-   "nota_url": "https://la100.cienradios.com/todas-las-demas-tambien/me-crie-en-un-charco-de-sangre-el-crudo-relato-de-soledad-silveyra-sobre-su-infancia-y-como-logro-sanar/",
-   "medio": "La 100",
+   "nota": "Tras las lesiones de Vera y Moreno, River selló a un nuevo 5",
+   "nota_url": "https://elintransigente.com/2026/11/20/santiago-espindola-lesiones-vera-moreno-river-sello-nuevo-5/",
+   "medio": "El Intransigente",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "hawks - pistons",
+   "tema": "gta6",
    "busquedas": "200+",
-   "nota": "Pistons vs. Hawks Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 22",
-   "nota_url": "https://www.si.com/betting/pistons-vs-hawks-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-22-2026",
-   "medio": "Sports Illustrated",
+   "nota": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
+   "nota_url": "https://www.videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax/",
+   "medio": "Video Games Chronicle",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "olimpo",
+   "tema": "mirtha legrand",
    "busquedas": "200+",
-   "nota": "Olimpo y Tiro Federal juegan una final clave por el Clausura",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/21/olimpo-y-tiro-federal-juegan-una-final-clave-por-el-clausura-n531849/",
-   "medio": "La Brújula 24",
+   "nota": "Del look en rojo de Juana Viale a las observaciones que le hace Mirtha Legrand",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/personajes/del-look-en-rojo-de-juana-viale-a-las-observaciones-que-le-hace-mirtha-legrand-nid22112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "torneo argentino",
-   "busquedas": "200+",
-   "nota": "Los puntajes de Clarín de los octavos de final del Torneo Clausura 2026 de la Liga Profesional de Fútbol",
-   "nota_url": "https://www.clarin.com/deportes/puntajes-clarin-cuartos-final-torneo-clausura-2026-liga-profesional-futbol_0_1uDPtOM0qe.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sport clube união torreense - benfica",
-   "busquedas": "200+",
-   "nota": "What Benfica can reveal before Torreense v Celtic",
-   "nota_url": "https://vitalfootball.co.uk/torreense-face-benfica-and-celtic-in-four-days/",
-   "medio": "Vital Football",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "douglas haig",
+   "tema": "marte",
    "busquedas": "100+",
-   "nota": "AFA: La programación de las semifinales de la Reválida",
-   "nota_url": "https://www.soloascenso.com.ar/notas/atenas-de-rio-cuarto/la-programacion-de-las-semifinales-de-la-revalida/234557",
-   "medio": "Solo Ascenso",
+   "nota": "New MLB Trade Rumors on Nolan Arenado, Ketel Marte as D-Backs Eye Major Decisions in Free Agency",
+   "nota_url": "https://bleacherreport.com/articles/25536052-new-mlb-trade-rumors-nolan-arenado-ketel-marte-d-backs-eye-major-decisions-free-agency",
+   "medio": "Bleacher Report",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de atalanta contra inter milan",
+   "busquedas": "5000+",
+   "nota": "Serie A: Inter held in Bergamo after a breathtaking clash",
+   "nota_url": "https://onefootball.com/en/news/serie-a-inter-held-in-bergamo-after-a-breathtaking-clash-43821737",
+   "medio": "OneFootball",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fluminense vs",
+   "busquedas": "200+",
+   "nota": "Fluminense vs. Mirassol por el Brasileirao Serie A 2026: día, hora y cómo seguir online",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/fluminense-vs-mirassol-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid21112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bragantino - vasco da gama",
+   "busquedas": "1000+",
+   "nota": "Red Bull Bragantino intensifica preparação para enfrentar o Vitória e mira vaga na Libertadores",
+   "nota_url": "https://jornalmaisbraganca.com.br/2026/11/16/red-bull-bragantino-intensifica-preparacao-para-enfrentar-o-vitoria-e-mira-vaga-na-libertadores/",
+   "medio": "Jornal + Bragança",
    "relevante": false,
    "temas": []
   }
