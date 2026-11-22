@@ -1,10 +1,16 @@
 {
- "actualizado": "22/11 00:42",
+ "actualizado": "22/11 01:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Paredes",
    "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +69,26 @@
    "temas": []
   },
   {
-   "tema": "Gracias Vasco",
-   "url": "https://x.com/search?q=Gracias%20Vasco",
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gracias Boca",
-   "url": "https://x.com/search?q=Gracias%20Boca",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Vasco",
+   "url": "https://x.com/search?q=Gracias%20Vasco",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
+   "tema": "#BocaJuniors",
+   "url": "https://x.com/search?q=%23BocaJuniors",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Boca Juniors",
-   "url": "https://x.com/search?q=Boca%20Juniors",
+   "tema": "Ganen",
+   "url": "https://x.com/search?q=Ganen",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -97,39 +121,69 @@
    "url": "https://x.com/search?q=Arruabarrena",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "DomÃ­nguez",
-   "url": "https://x.com/search?q=Dom%C3%83%C2%ADnguez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Di Carlo",
-   "url": "https://x.com/search?q=Di%20Carlo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Aranda",
-   "url": "https://x.com/search?q=Aranda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Vasco",
-   "url": "https://x.com/search?q=El%20Vasco",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "tigres - américa",
+   "tema": "wanda nara",
    "busquedas": "200+",
-   "nota": "DUELO DE FIGURAS EN EL VOLCÁN! Juan Brunetta y Henry Martín frente a frente en el Tigres vs América.",
-   "nota_url": "https://www.tvazteca.com/aztecadeportes/duelo-de-figuras-en-el-volcan-juan-brunetta-y-henry-martin-frente-a-frente-en-el-tigres-vs-america/",
-   "medio": "TV Azteca",
+   "nota": "Cómo hizo Wanda Nara para bajar de peso",
+   "nota_url": "https://labandadiario.com/como-hizo-wanda-nara-para-bajar-de-peso/",
+   "medio": "La Banda Diario",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "formula 1",
+   "busquedas": "10000+",
+   "nota": "Colapinto, con bronca pese a la buena clasificación: “Estábamos para mucho más”",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/21/colapinto-con-bronca-pese-a-la-buena-clasificacion-estabamos-para-mucho-mas/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "maxx morando",
+   "busquedas": "100+",
+   "nota": "Miley Cyrus and Maxx Morando Are Married",
+   "nota_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
+   "medio": "The Hollywood Reporter",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "f1",
+   "busquedas": "5000+",
+   "nota": "Catch up on qualifying for Las Vegas GP as Antonelli qualifies fastest but Verstappen will start on pole",
+   "nota_url": "https://www.bbc.com/sport/formula1/live/cdj7dy87rmkt",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "kim kardashian",
+   "busquedas": "100+",
+   "nota": "#TSRBeauty: #KimKardashian pulls up to her man’s races lookin like that girllllll chileeee 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
+   "nota_url": "https://www.instagram.com/p/DgBTptwAfoD/",
+   "medio": "Instagram",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islas malvinas",
+   "busquedas": "200+",
+   "nota": "Alertan sobre el avance de la explotación petrolera en Malvinas",
+   "nota_url": "https://diariohoy.net/politica/alertan-sobre-el-avance-de-la-explotacion-petrolera-en-malvinas-290462",
+   "medio": "Diario Hoy En la noticia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tigres - américa",
+   "busquedas": "500+",
+   "nota": "Es baja 'Memote' ante América",
+   "nota_url": "https://www.elnorte.com/es-baja-memote-ante-america/ar3319034",
+   "medio": "El Norte",
    "relevante": false,
    "temas": []
   },
@@ -144,73 +198,19 @@
   },
   {
    "tema": "mavericks - clippers",
-   "busquedas": "100+",
-   "nota": "Clippers Mavericks Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-mavericks-basketball/image_914ddeb2-6f60-55ef-83a4-7ba4d5fb8106.html",
-   "medio": "Corsicana Daily Sun",
+   "busquedas": "200+",
+   "nota": "Los Angeles Clippers at Dallas Mavericks - NBA Game Summary - Nov 21, 2026",
+   "nota_url": "https://www.usatoday.com/sports/nba/event/2026/3018370/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=4",
+   "medio": "USA Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "kings - celtics",
-   "busquedas": "200+",
-   "nota": "Derrick White (shoulder) ruled out Saturday",
-   "nota_url": "https://www.fantasypros.com/nba/news/621717/derrick-white-shoulder-ruled-out-saturday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "a que hora es la carrera de f1",
    "busquedas": "500+",
-   "nota": "Alex Palou, invitado de honor en el box de Aston Martin: no te pierdas nada del GP de Las Vegas F1 2026",
-   "nota_url": "https://soymotor.com/f1/noticias/no-te-pierdas-nada-del-gp-de-las-vegas-f1-2026",
-   "medio": "SoyMotor.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "desierto",
-   "busquedas": "1000+",
-   "nota": "Nuevo inventario botánico UC documenta floración histórica en Alto Patache, al sur de Iquique",
-   "nota_url": "https://www.uc.cl/noticias/nuevo-inventario-botanico-uc-documenta-floracion-historica-en-alto-patache-al-sur-de-iquique/",
-   "medio": "Pontificia Universidad Católica de Chile",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pilar smith",
-   "busquedas": "200+",
-   "nota": "Luis Ventura y Pilar Smith protagonizaron un picante cruce en los Martín Fierro de Uruguay: la versión que desató la polémica",
-   "nota_url": "https://www.a24.com/primiciasya/luis-ventura-y-pilar-smith-protagonizaron-un-picante-cruce-los-martin-fierro-uruguay-la-version-que-desato-la-polemica-n1618676",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "policía del chaco",
-   "busquedas": "200+",
-   "nota": "La madre de Axel González denuncia a la policía del Chaco por la desaparición de su hijo",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/la-madre-de-axel-gonzalez-denuncia-a-la-policia-del-chaco-por-la-desaparicion-de-su-hijo_615289",
-   "medio": "Cadena 3 Argentina",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - grizzlies",
-   "busquedas": "200+",
-   "nota": "Grizzlies hope to keep road record perfect despite Cam Boozer injury",
-   "nota_url": "https://www.galvnews.com/news_reuters/sports/grizzlies-hope-to-keep-road-record-perfect-despite-cam-boozer-injury/article_e4d89e96-cb8c-51b7-a4ce-2436dd208c3c.html",
-   "medio": "The Daily News | Texas' Oldest Newspaper",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "laurita fernández",
-   "busquedas": "100+",
-   "nota": "¡Horrible! Laurita Fernández reveló la asquerosa experiencia que tuvo en las primeras citas con Matías Busquet, su novio",
-   "nota_url": "https://www.paparazzi.com.ar/teve/horrible-laurita-fernandez-revelo-la-asquerosa-experiencia-que-tuvo-en-las-primeras-citas-con-matias-busquet-su-novio/",
-   "medio": "Revista Paparazzi",
+   "nota": "BOS starts Pritchard, Hugo, George, Hauser, Queta",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/bos-starts-pritchard-hugo-george-hauser-queta",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   }
