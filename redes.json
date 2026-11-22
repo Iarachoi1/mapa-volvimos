@@ -1,7 +1,19 @@
 {
- "actualizado": "22/11 19:33",
+ "actualizado": "22/11 20:31",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Izquierdoz",
+   "url": "https://x.com/search?q=Izquierdoz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Galvan",
+   "url": "https://x.com/search?q=Galvan",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Robertito",
    "url": "https://x.com/search?q=Robertito",
@@ -9,8 +21,20 @@
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
+   "tema": "Otamendi",
+   "url": "https://x.com/search?q=Otamendi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AcuÃ±a",
+   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
   },
@@ -21,14 +45,62 @@
    "temas": []
   },
   {
+   "tema": "BeltrÃ¡n",
+   "url": "https://x.com/search?q=Beltr%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Andrada",
+   "url": "https://x.com/search?q=Andrada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Rosca Floja",
    "url": "https://x.com/search?q=Rosca%20Floja",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "EspÃ­ndola",
+   "url": "https://x.com/search?q=Esp%C3%83%C2%ADndola",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#SolPersonajeDelAÃ±o",
    "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Thiago Almada",
+   "url": "https://x.com/search?q=Thiago%20Almada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pereyra",
+   "url": "https://x.com/search?q=Pereyra",
    "relevante": false,
    "temas": []
   },
@@ -45,172 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Gimnasia de Mendoza",
-   "url": "https://x.com/search?q=Gimnasia%20de%20Mendoza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ledesma",
-   "url": "https://x.com/search?q=Ledesma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GalvÃ¡n",
-   "url": "https://x.com/search?q=Galv%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Vamos River",
-   "url": "https://x.com/search?q=Vamos%20River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#RosarioCentral",
-   "url": "https://x.com/search?q=%23RosarioCentral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#GimnasiaMza",
-   "url": "https://x.com/search?q=%23GimnasiaMza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Islam",
-   "url": "https://x.com/search?q=Islam",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pochettino",
-   "url": "https://x.com/search?q=Pochettino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alcaraz",
-   "url": "https://x.com/search?q=Alcaraz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Joaco",
-   "url": "https://x.com/search?q=Joaco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Zverev",
-   "url": "https://x.com/search?q=Zverev",
+   "tema": "Cali",
+   "url": "https://x.com/search?q=Cali",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "heat - thunder",
+   "busquedas": "200+",
+   "nota": "Thunder vs Heat Prediction, Pick, NBA Odds for Sunday, November 22",
+   "nota_url": "https://sports.yahoo.com/articles/thunder-vs-heat-prediction-pick-142610669.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cipolletti club",
+   "busquedas": "100+",
+   "nota": "Sarmiento de La Banda vs. Cipolletti, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
+   "nota_url": "https://www.tycsports.com/primera-nacional/sarmiento-de-la-banda-vs-cipolletti-en-vivo-donde-ver-por-tv-y-online-id772148.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego milito",
+   "busquedas": "200+",
+   "nota": "Tras su salida de la Selección Argentina, Walter Samuel fue contactado por Diego Milito: cuáles son las chances de dirigir a Racing",
+   "nota_url": "https://www.dobleamarilla.com.ar/liga-/tras-su-salida-de-la-seleccion-argentina--walter-samuel-fue-contactado-por-diego-milito--cuales-son-las-chances-de-dirigir-a-racing_a6afd8378403a6d1023ed132d",
+   "medio": "Doble Amarilla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fluminense vs. mirassol",
+   "busquedas": "100+",
+   "nota": "Fluminense Host Mirassol in Libertadores Race at Maracana",
+   "nota_url": "https://www.limapagi.id/en/fluminense-host-mirassol-maracana",
+   "medio": "Limapagi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guillermo francella",
+   "busquedas": "200+",
+   "nota": "Los hinchas de Boca festejaron la Copa Sudamericana y Guillermo Francella la ligó de rebote",
+   "nota_url": "https://www.tycsports.com/video/boca-juniors/los-hinchas-de-boca-festejaron-la-copa-sudamericana-y-guillermo-francella-la-ligo-de-rebote-id1006744.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "daiana pereyra",
+   "busquedas": "500+",
+   "nota": "Miss Universo 2026: la misionera Daiana Pereyra lució un traje inspirado en la Argentina",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101162633/miss-universo-2026-la-misionera-daiana-pereyra-lucio-un-traje-inspirado-en-la-argentina/",
+   "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ramiro carrera",
+   "busquedas": "500+",
+   "nota": "Así relató Gabriel Anello el gol de penal de Thiago Almada para el 1 a 0 de River ante Lanús",
+   "nota_url": "https://radiomitre.cienradios.com/videos/asi-relato-gabriel-anello-el-gol-de-penal-de-thiago-almada-para-el-1-a-0-de-river-ante-lanus/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "delta",
+   "busquedas": "100+",
+   "nota": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+   "nota_url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+   "medio": "ABC News - Breaking News, Latest News and Videos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luna llena noviembre 2026",
+   "busquedas": "200+",
+   "nota": "Luna llena de noviembre 2026: fecha y hora exacta para verla en México",
+   "nota_url": "https://www.infobae.com/mexico/2026/11/22/luna-llena-de-noviembre-2026-fecha-y-hora-exacta-para-verla-en-mexico/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "posiciones de getafe cf contra atlético de madrid",
-   "busquedas": "2000+",
-   "nota": "Club Atlético de Madrid - Atleti return to action at the Coliseum",
-   "nota_url": "https://en.atleticodemadrid.com/noticias/atleti-return-to-action-at-the-coliseum",
-   "medio": "Club Atlético de Madrid",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "scott bessent",
-   "busquedas": "100+",
-   "nota": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
-   "nota_url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "caputo",
-   "busquedas": "100+",
-   "nota": "Riesgo de hundirse",
-   "nota_url": "https://www.elcohetealaluna.com/riesgo-de-hundirse/",
-   "medio": "El Cohete a la Luna",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "santiago espindola",
-   "busquedas": "200+",
-   "nota": "Tras las lesiones de Vera y Moreno, River selló a un nuevo 5",
-   "nota_url": "https://elintransigente.com/2026/11/20/santiago-espindola-lesiones-vera-moreno-river-sello-nuevo-5/",
-   "medio": "El Intransigente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gta6",
-   "busquedas": "200+",
-   "nota": "GTA 6 Dubious Provenance walkthrough: Should you trust Halifax?",
-   "nota_url": "https://www.videogameschronicle.com/guide/gta-6-dubious-provenance-walkthrough-should-you-trust-halifax/",
-   "medio": "Video Games Chronicle",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mirtha legrand",
-   "busquedas": "200+",
-   "nota": "Del look en rojo de Juana Viale a las observaciones que le hace Mirtha Legrand",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/personajes/del-look-en-rojo-de-juana-viale-a-las-observaciones-que-le-hace-mirtha-legrand-nid22112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marte",
-   "busquedas": "100+",
-   "nota": "New MLB Trade Rumors on Nolan Arenado, Ketel Marte as D-Backs Eye Major Decisions in Free Agency",
-   "nota_url": "https://bleacherreport.com/articles/25536052-new-mlb-trade-rumors-nolan-arenado-ketel-marte-d-backs-eye-major-decisions-free-agency",
-   "medio": "Bleacher Report",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de atalanta contra inter milan",
    "busquedas": "5000+",
-   "nota": "Serie A: Inter held in Bergamo after a breathtaking clash",
-   "nota_url": "https://onefootball.com/en/news/serie-a-inter-held-in-bergamo-after-a-breathtaking-clash-43821737",
+   "nota": "Atleti make their best-ever away start in La Liga",
+   "nota_url": "https://onefootball.com/en/news/atleti-make-their-best-ever-away-start-in-la-liga-43821962",
    "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fluminense vs",
-   "busquedas": "200+",
-   "nota": "Fluminense vs. Mirassol por el Brasileirao Serie A 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/fluminense-vs-mirassol-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid21112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bragantino - vasco da gama",
-   "busquedas": "1000+",
-   "nota": "Red Bull Bragantino intensifica preparação para enfrentar o Vitória e mira vaga na Libertadores",
-   "nota_url": "https://jornalmaisbraganca.com.br/2026/11/16/red-bull-bragantino-intensifica-preparacao-para-enfrentar-o-vitoria-e-mira-vaga-na-libertadores/",
-   "medio": "Jornal + Bragança",
    "relevante": false,
    "temas": []
   }
