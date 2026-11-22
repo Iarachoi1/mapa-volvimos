@@ -1,58 +1,10 @@
 {
- "actualizado": "21/11 21:35",
+ "actualizado": "21/11 22:57",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Mineiro",
    "url": "https://x.com/search?q=Mineiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Aranda",
-   "url": "https://x.com/search?q=Aranda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Valencia",
-   "url": "https://x.com/search?q=Valencia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +15,62 @@
    "temas": []
   },
   {
-   "tema": "Cavani",
-   "url": "https://x.com/search?q=Cavani",
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Meza",
-   "url": "https://x.com/search?q=Meza",
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Miguel",
-   "url": "https://x.com/search?q=Miguel",
+   "tema": "Delgado",
+   "url": "https://x.com/search?q=Delgado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Vasco",
+   "url": "https://x.com/search?q=Gracias%20Vasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BOCA CAMPEÃN",
+   "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sudamericana",
+   "url": "https://x.com/search?q=Sudamericana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
    "relevante": false,
    "temas": []
   },
@@ -87,130 +81,136 @@
    "temas": []
   },
   {
-   "tema": "Nico Diez",
-   "url": "https://x.com/search?q=Nico%20Diez",
+   "tema": "Aranda",
+   "url": "https://x.com/search?q=Aranda",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Independiente",
-   "url": "https://x.com/search?q=Independiente",
+   "tema": "Arruabarrena",
+   "url": "https://x.com/search?q=Arruabarrena",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "CastaÃ±o",
-   "url": "https://x.com/search?q=Casta%C3%83%C2%B1o",
+   "tema": "Coudet",
+   "url": "https://x.com/search?q=Coudet",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Sudamericana",
-   "url": "https://x.com/search?q=%23Sudamericana",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Everson",
-   "url": "https://x.com/search?q=Everson",
+   "tema": "Aguante Boca",
+   "url": "https://x.com/search?q=Aguante%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Marcone",
-   "url": "https://x.com/search?q=Marcone",
+   "tema": "Valencia",
+   "url": "https://x.com/search?q=Valencia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "SIGAN VIENDO",
+   "url": "https://x.com/search?q=SIGAN%20VIENDO",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "knicks - trail blazers",
-   "busquedas": "200+",
-   "nota": "Karl-Anthony Towns to miss first game of the season due to illness",
-   "nota_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/21/karl-anthony-towns-to-miss-first-game-of-the-season-due-to-illness/92904069007/",
-   "medio": "HoopsHype",
+   "tema": "clima mar del plata",
+   "busquedas": "500+",
+   "nota": "Clima en Pinamar hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/pinamar/clima-en-pinamar-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de club deportivo o'higgins contra u. de chile",
-   "busquedas": "500+",
-   "nota": "Fernando Gago se florea con este logro en la Universidad de Chile: “Somos uno de los equipos…”",
-   "nota_url": "https://bolavip.com/cl/udechile/fernando-gago-se-florea-con-este-logro-en-la-universidad-de-chile-somos-uno-de-los-equipos",
-   "medio": "Bolavip Chile",
+   "tema": "alberto ades",
+   "busquedas": "100+",
+   "nota": "Reapareció Alberto Ades, habló de Riesgo País y evitó las críticas al plan de Caputo",
+   "nota_url": "https://www.perfil.com/economia/reaparecio-alberto-ades-hablo-de-riesgo-pais-y-evito-las-criticas-al-plan-de-caputo-af6OR9m0P7R2",
+   "medio": "Perfil",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "boa",
-   "busquedas": "100+",
-   "nota": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-   "nota_url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-   "medio": "Ars Technica",
+   "tema": "cruzeiro",
+   "busquedas": "200+",
+   "nota": "Athletico-PR x Remo: onde assistir ao vivo e horário (22/11)",
+   "nota_url": "https://gameoverdrive.com.br/athletico-pr-x-remo-onde-assistir-22-11-2026/",
+   "medio": "Game Overdrive",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "boca vs independiente rivadavia",
-   "busquedas": "100+",
-   "nota": "Boca jugará ante Independiente Rivadavia por los octavos: día, hora y árbitro",
-   "nota_url": "https://elintransigente.com/2026/11/17/boca-jugara-independiente-rivadavia-octavos-dia-hora-arbitro/",
-   "medio": "El Intransigente",
+   "tema": "parque lezama",
+   "busquedas": "200+",
+   "nota": "Boca campeón de la Copa Sudamericana 2026: llegó a las 76 estrellas, cortó 18 años de sequía internacional y superó a Independiente",
+   "nota_url": "https://www.clarin.com/deportes/boca-campeon-copa-sudamericana-2026-llego-76-estrellas-corto-18-anos-sequia-internacional-supero-independiente_0_WOZ8vhhBqn.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "enner valencia",
-   "busquedas": "1000+",
-   "nota": "Boca, EN VIVO: última práctica en Ezeiza, el viaje a Colombia y más noticias de este miércoles 18 de noviembre",
-   "nota_url": "https://www.ole.com.ar/boca-juniors/boca-ultima-practica-predio-viaje-colombia-partido-final-copa-sudamericana_0_UybsZo5HQS.html",
+   "tema": "boca proximos partidos",
+   "busquedas": "100+",
+   "nota": "Boca y una chance histórica: los caminos que lo conducen a ganar hasta nueve títulos",
+   "nota_url": "https://www.ole.com.ar/boca-juniors/boca-titulos-2026-2027-historico-arruabarrena_0_XnRExdN9HV.html",
    "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "milton delgado",
-   "busquedas": "500+",
-   "nota": "Alarma en Boca: una figura clave no pudo terminar la práctica a días de la final de la Copa Sudamericana",
-   "nota_url": "https://radiomitre.cienradios.com/deportes/alarma-en-boca-una-figura-clave-no-pudo-terminar-la-practica-a-dias-de-la-final-de-la-copa-sudamericana/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ultimo titulo internacional de boca",
-   "busquedas": "200+",
-   "nota": "Fue campeón internacional con Boca y Mineiro y aseguró que: \"Va a ser una final muy linda\"",
-   "nota_url": "https://www.diariouno.com.ar/ovacion/futbol/fue-campeon-internacional-boca-y-mineiro-y-aseguro-que-va-ser-una-final-muy-linda-n1618208",
-   "medio": "Diario UNO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "flores boca",
-   "busquedas": "200+",
-   "nota": "El ídolo de Boca que elogió a Flores: \"Tiene cosas mías\"",
-   "nota_url": "https://elcrackdeportivo.com.ar/boca/el-idolo-de-boca-que-elogio-a-flores-tiene-cosas-mias-20261121-0043.html",
-   "medio": "El Crack Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leonel flores",
-   "busquedas": "200+",
-   "nota": "Tevez comparó a Leonel Flores con sus inicios en Boca y le dio un consejo: “Ojalá que lo sepa”",
-   "nota_url": "https://bolavip.com/ar/boca/tevez-comparo-a-leonel-flores-con-sus-inicios-en-boca-y-le-dio-un-consejo-ojala-que-lo-sepa",
-   "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rodrigo battaglia",
-   "busquedas": "500+",
-   "nota": "Rodolfo Arruabarrena define los últimos detalles en Boca para la final de la Copa Sudamericana",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/20/rodolfo-arruabarrena-define-los-ultimos-detalles-en-boca-para-la-final-de-la-copa-sudamericana/",
+   "tema": "miss universo 2026",
+   "busquedas": "100+",
+   "nota": "Una ex Miss Universo será la presentadora del concurso de este año en Puerto Rico",
+   "nota_url": "https://tn.com.ar/estilo/moda/2026/11/18/una-ex-miss-universo-sera-la-presentadora-del-concurso-de-este-ano-en-puerto-rico/",
    "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "river",
+   "busquedas": "2000+",
+   "nota": "Ver River Plate vs Lanús en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/ver-river-plate-vs-lanus-en-directo-hoy-quien-retransmite-el-partido-por-television-y-en-streaming/blt89ca1b856d99f0cb",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "desierto de atacama",
+   "busquedas": "200+",
+   "nota": "Nuevo inventario botánico UC documenta floración histórica en Alto Patache, al sur de Iquique",
+   "nota_url": "https://www.uc.cl/noticias/nuevo-inventario-botanico-uc-documenta-floracion-historica-en-alto-patache-al-sur-de-iquique/",
+   "medio": "Pontificia Universidad Católica de Chile",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pumas - monterrey",
+   "busquedas": "200+",
+   "nota": "¡A ciegas! Pumas no sabrá de otros resultados previo a J17",
+   "nota_url": "https://www.tudn.com/futbol/liga-mx/pumas-buscara-milagro-de-liguilla-sin-saber-si-ya-esta-eliminado",
+   "medio": "TUDN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "scuderia ferrari",
+   "busquedas": "100+",
+   "nota": "Charles Leclerc admits major Ferrari oversight due to 'weakness' and miscalculation",
+   "nota_url": "https://racingnews365.com/ferrari-did-not-discuss-vital-las-vegas-tactic-due-to-weakness-and-miscalculation",
+   "medio": "RacingNews365",
    "relevante": false,
    "temas": []
   }
