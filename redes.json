@@ -1,10 +1,10 @@
 {
- "actualizado": "22/11 15:31",
+ "actualizado": "22/11 16:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +33,14 @@
    "temas": []
   },
   {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Herrera",
-   "url": "https://x.com/search?q=Herrera",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +51,32 @@
    "temas": []
   },
   {
+   "tema": "Herrera",
+   "url": "https://x.com/search?q=Herrera",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Paredes",
    "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Liverpool",
+   "url": "https://x.com/search?q=Liverpool",
    "relevante": false,
    "temas": []
   },
@@ -69,18 +93,6 @@
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Delgado",
    "url": "https://x.com/search?q=Delgado",
    "relevante": false,
@@ -89,18 +101,6 @@
   {
    "tema": "Las Vegas",
    "url": "https://x.com/search?q=Las%20Vegas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "De Ligt",
-   "url": "https://x.com/search?q=De%20Ligt",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Yoro",
-   "url": "https://x.com/search?q=Yoro",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "asignación universal por hijo",
-   "busquedas": "2000+",
-   "nota": "AUH de ANSES en diciembre: cuánto se cobra por hijo tras el descuento del 20%",
-   "nota_url": "https://www.ambito.com/informacion-general/auh-anses-diciembre-cuanto-se-cobra-hijo-el-descuento-del-20-n6346973",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barcelona - athletic club",
+   "tema": "josé chatruc",
    "busquedas": "200+",
-   "nota": "Alineaciones confirmadas del FC Barcelona – Athletic Club de Liga F",
-   "nota_url": "https://lasfutbolistas.com/alineaciones-confirmadas-fc-barcelona-athletic-club-liga-f-22-noviembre-2026/",
-   "medio": "Las Futbolistas",
+   "nota": "“Soñé con vos”: la confesión de Sabrina Rojas que hizo sonrojar a José Chatruc en medio de un móvil",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/sone-con-vos-la-confesion-de-sabrina-rojas-que-hizo-sonrojar-a-jose-chatruc-en-medio-de-un-movil/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "zaira nara",
+   "tema": "getafe - atlético madrid",
+   "busquedas": "5000+",
+   "nota": "Getafe - Atlético, en directo | Última hora de LaLiga EA Sports hoy en vivo",
+   "nota_url": "https://www.marca.com/futbol/laliga-ea-sports/getafe-atletico/2026/11/22/01_0101_20261122_1450_175-directo.html",
+   "medio": "MARCA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "víctor muñoz",
+   "busquedas": "100+",
+   "nota": "Liverpool le hizo vivir una pesadilla a Pochettino en su debut en el Manchester United: expulsión a los 7 minutos y goleada en Anfield",
+   "nota_url": "https://www.clarin.com/deportes/liverpool-vs-manchester-united-debut-pochettino-vivo-hora-ver-partido-premier-league_0_JJb5GDA3AC.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hinchada",
    "busquedas": "200+",
-   "nota": "Andrés Nara inauguró su propio streaming junto a su familia y en ausencia de Alejandra, su exnovia cordobesa",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/andres-nara-inauguro-propio-streaming-junto-familia-ausencia-alejandra-exnovia-cordobesa_0_L9yH3mzrXd.html",
-   "medio": "La Voz del Interior",
+   "nota": "Un hincha de River con síndrome de Down en la hinchada de Boca: el abrazo que ganó a la violencia",
+   "nota_url": "https://prensalibreonline.com.ar/sociedad/un-hincha-de-river-con-sindrome-de-down-en-la-hinchada-de-boca-el-abrazo",
+   "medio": "Prensa Libre Online",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "copa potrero",
-   "busquedas": "500+",
-   "nota": "Brian Fernández, cerca de volver a jugar: el club argentino que lo espera",
-   "nota_url": "https://www.a24.com/deportes/brian-fernandez-cerca-volver-jugar-el-club-argentino-que-lo-espera-n1618080",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos alcaraz",
+   "tema": "atalanta - inter",
    "busquedas": "2000+",
-   "nota": "¿A qué hora jugarán Alcaraz y Zverev la final de las Nitto ATP Finals?",
-   "nota_url": "https://www.atptour.com/es/news/nitto-atp-finals-2026-final-schedule",
-   "medio": "ATP Tour",
+   "nota": "Atalanta-Inter, ufficiali: Esposito e Thuram titolari, Lautaro in panchina",
+   "nota_url": "https://www.eurosport.it/calcio/serie-a/2026-2027/le-formazioni-ufficiali-di-atalanta-inter-francesco-pio-esposito-e-marcus-thuram-coppia-dattacco-per-chivu-panchina-per-lautaro-martinez_sto23357776/story.shtml",
+   "medio": "Eurosport.it",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "atp finals",
-   "busquedas": "2000+",
-   "nota": "Nitto ATP Finals 2026 Andrea Bocelli Performance | Nitto ATP Finals | Tennis",
-   "nota_url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-andrea-bocelli-performance",
-   "medio": "Nitto ATP Finals",
+   "tema": "ridley scott",
+   "busquedas": "100+",
+   "nota": "Hunter Schafer Bares Major Skin in Clear Plastic Coat at ‘Blade Runner 2099’ Photocall with Michelle Yeoh",
+   "nota_url": "https://www.imdb.com/it/news/ni66121472/?ref_=nwc_art_perm",
+   "medio": "IMDb",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "zverev",
+   "tema": "juana viale",
    "busquedas": "200+",
-   "nota": "Greg Rusedski offers Ben Shelton advice after seventh straight Zverev defeat",
-   "nota_url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171657/greg-rusedski-offers-ben-shelton-advice-after-seventh-straight-zverev-defeat/",
-   "medio": "Tennis World USA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nitto atp finals",
-   "busquedas": "100+",
-   "nota": "What time is Alexander Zverev v Carlos Alcaraz final on Sunday at ATP Finals and how can you watch in the UK, USA and Australia",
-   "nota_url": "https://tennisuptodate.com/atp/what-time-is-alexander-zverev-v-carlos-alcaraz-final-on-sunday-at-atp-finals-and-how-can-you-watch-in-the-uk-usa-and-australia",
-   "medio": "Tennisuptodate.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olimpia",
-   "busquedas": "100+",
-   "nota": "\"Glory Has No Price\": Olimpia Chases 49th Title Under A Phrase That Never Faded",
-   "nota_url": "https://asunciontimes.com/sport/local-sport/glory-has-no-price-olimpia-chases-49th-title-under-a-phrase-that-never-faded/",
-   "medio": "The Asunción Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima rio gallegos",
-   "busquedas": "100+",
-   "nota": "Clima en Río Gallegos hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/santa-cruz/rio-gallegos/clima-en-rio-gallegos-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
+   "nota": "Del look en rojo de Juana Viale a las observaciones que le hace Mirtha Legrand",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/personajes/del-look-en-rojo-de-juana-viale-a-las-observaciones-que-le-hace-mirtha-legrand-nid22112026/",
    "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gran premio de catar",
+   "busquedas": "1000+",
+   "nota": "Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el Gran Premio de Las Vegas",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/22/cuando-volvera-a-correr-franco-colapinto-en-la-formula-1-tras-su-gran-actuacion-en-el-gran-premio-de-las-vegas/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de liverpool fc contra manchester united",
+   "busquedas": "5000+",
+   "nota": "(Crónica) Anfield amarga el debut a Pochettino y McBurnie se la lía al Brighton",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/22/cronica-anfield-amarga-el-debut-a-pochettino-y-mcburnie-se-la-lia-al-brighton/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "paranaense - remo",
+   "busquedas": "500+",
+   "nota": "Após susto em avião, Carpini revela bastidores da viagem do Remo: “Pensa em tanta coisa ruim”",
+   "nota_url": "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/22/apos-susto-em-aviao-carpini-revela-bastidores-da-viagem-do-remo-pensa-em-tanta-coisa-ruim.ghtml",
+   "medio": "ge",
    "relevante": false,
    "temas": []
   }
