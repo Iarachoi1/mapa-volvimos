@@ -1,28 +1,15 @@
 {
- "semana": "21 de noviembre de 2026",
- "fecha": "2026-11-21",
- "actualizado": "21/11 21:35",
+ "semana": "22 de noviembre de 2026",
+ "fecha": "2026-11-22",
+ "actualizado": "22/11 06:39",
  "items": {
   "NACIONAL": {
    "top3": [
     {
-     "titulo": "Máximo Kirchner insistió con Cristina candidata y disparó contra Macri",
+     "titulo": "El futuro sin PASO, la teoría de los cuartos y la llamada entre Massa y Kicillof",
      "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "21/11/2026",
-     "url": "https://bardeo.news/politica/maximo-kirchner-insistio-con-cristina-candidata-y-disparo-contra-macri_a6b01d7e6cd25aee2886719f3"
-    },
-    {
-     "titulo": "Máximo Kirchner preside el PJ bonaerense tras un pacto con Kicillof",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "21/11/2026",
-     "url": "https://bardeo.news/politica/maximo-kirchner-preside-el-pj-bonaerense-tras-un-pacto-con-kicillof_a6b01f013cd25aee28868506e"
-    },
-    {
-     "titulo": "El canto de una vedette: la historia de Erótica de Jorgelina Aranda",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
-     "fecha": "21/11/2026",
-     "url": "https://cenital.com/el-canto-de-una-vedette-la-historia-de-erotica-de-jorgelina-aranda/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+     "fecha": "22/11/2026",
+     "url": "https://bardeo.news/politica/el-futuro-sin-paso--la-teoria-de-los-cuartos-y-la-llamada-entre-massa-y-kicillof_a6b025bbfcd25aee2886f283d"
     }
    ],
    "imagen": []
@@ -30,157 +17,78 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "Reforma electoral. El Gobierno admite que tiene los votos justos para aprobar la suspensión de las PASO en el Senado",
-     "medio": "La Nación",
-     "fecha": "21/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/",
+     "titulo": "Karina Milei gana autonomía y asume un rol directo en el armado oficialista mientras se multiplican las internas",
+     "medio": "Infobae",
+     "fecha": "22/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/22/karina-milei-gana-autonomia-y-asume-un-rol-directo-en-el-armado-oficialista-mientras-se-multiplican-las-internas/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "La paradoja de Milei: cuanto más cerca está de voltear las PASO, más sube el riesgo país",
+     "medio": "El Parlamentario",
+     "fecha": "22/11/2026",
+     "url": "https://www.parlamentario.com/2026/11/22/la-paradoja-de-milei-cuanto-mas-cerca-esta-de-voltear-las-paso-mas-sube-el-riesgo-pais/",
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "ELECCIONES 2027 Los tres cierres de año de Milei: presentación de libro, congreso partidario y cumbre de la juventud Por Pablo Lapuente",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/politica/los-tres-cierres-ano-javier-milei-presentacion-libro-congreso-partidario-y-cumbre-la-juventud-n5428394",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Karina Milei retomó el vínculo con Macri, pero la interna del PRO no permite destrabar el acuerdo en CABA",
+     "titulo": "El Gobierno encara la última semana legislativa con agenda inconclusa y dudas por el temario de extraordinarias",
      "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/karina-milei-retomo-el-vinculo-con-macri-pero-la-interna-del-pro-no-permite-destrabar-el-acuerdo-en-caba/",
-     "tag": "Política"
+     "fecha": "22/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/22/el-gobierno-encara-la-ultima-semana-legislativa-con-agenda-inconclusa-y-dudas-por-el-temario-de-extraordinarias/",
+     "tag": "Gestión"
     },
     {
-     "titulo": "Semana clave: Karina Milei volvió a convocar a la Mesa Política y se definen los proyectos que va a priorizar la Casa Rosada",
+     "titulo": "La turbulencia financiera antes de tiempo: qué números mira Milei y los planes políticos de la Casa Rosada",
      "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/semana-clave-karina-milei-volvio-a-convocar-a-la-mesa-politica-y-se-definen-los-proyectos-que-va-a-priorizar-la-casa-rosada/",
+     "fecha": "22/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/22/la-turbulencia-financiera-antes-de-tiempo-que-numeros-mira-milei-y-los-planes-politicos-de-la-casa-rosada/",
      "tag": "Política"
     },
     {
-     "titulo": "El incómodo conflicto de intereses que enfrenta el Gobierno y traba dos proyectos clave en Diputados",
+     "titulo": "Milei en su trampa: el desorden político y una economía en recesión apuntalan la desconfianza",
      "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/el-incomodo-conflicto-de-intereses-que-enfrenta-el-gobierno-y-traba-dos-proyectos-clave-en-diputados/",
+     "fecha": "22/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/22/milei-en-su-trampa-el-desorden-politico-y-una-economia-en-recesion-apuntalan-la-desconfianza/",
      "tag": "Política"
     },
     {
-     "titulo": "\"Mal desempeño de sus funciones\" En su cruzada contra LLA, Marcela Pagano pidió el juicio político de Luis Caputo",
+     "titulo": "Dogma vs. pragmatismo. La disputa dentro del gobierno ortodoxo de Milei que se exacerba con los últimos ruidos del plan",
+     "medio": "La Nación",
+     "fecha": "22/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/dogma-vs-pragmatismo-la-disputa-dentro-del-gobierno-ortodoxo-de-milei-que-se-exacerba-con-los-nid22112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Milei y el peronismo: tiempo de descuento para un choque en la montaña rusa",
+     "medio": "El Destape",
+     "fecha": "22/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Caputo necesita US$ 24.900 millones:le faltaban 5.000, y ahora ya son 10.000",
      "medio": "Perfil",
-     "fecha": "21/11/2026",
-     "url": "https://www.perfil.com/politica/en-su-cruzada-contra-lla-marcela-pagano-pidio-el-juicio-politico-de-luis-caputo-ai0fm5q8HZyT",
-     "tag": "Política · También en El Destape, El Parlamentario"
-    },
-    {
-     "titulo": "Ley Malvinas: Bullrich pretende hacerle más cambios al texto y tensiona su vínculo con Santiago Caputo",
-     "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/ley-malvinas-bullrich-pretende-hacerle-mas-cambios-al-texto-y-tensiona-su-vinculo-con-santiago-caputo/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Las incongruencias que muestra el Gobierno y una estrategia electoral que no termina de tomar forma",
-     "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/las-incongruencias-que-muestra-el-gobierno-y-una-estrategia-electoral-que-no-termina-de-tomar-forma/",
-     "tag": "Calendario electoral"
-    },
-    {
-     "titulo": "La Corte y los DNU. Milei perdió un rasgo que compartía con Cristina Kirchner y entró en un grupo reducido de presidentes",
-     "medio": "La Nación",
-     "fecha": "21/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/la-corte-y-los-dnu-milei-perdio-un-rasgo-que-compartia-con-cristina-kirchner-y-entro-en-un-grupo-nid21112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "COMBATIENDO EN CAPITAL Quiénes asoman en el semillero de la UCR para la pelea en la Ciudad de Buenos Aires Por Francisco Basualdo",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/politica/quienes-asoman-el-semillero-la-ucr-la-pelea-la-ciudad-buenos-aires-n5428399",
-     "tag": "Política"
+     "fecha": "22/11/2026",
+     "url": "https://www.perfil.com/columnistas/caputo-necesita-us-24.900-millonesle-faltaban-5.000-y-ahora-ya-son-10.000-awfnE9K8HXSF",
+     "tag": "Gestión"
     }
    ],
    "imagen": [
     {
-     "titulo": "Rumbo a 2027 Sin primarias, LLA no tiene cómo ordenar a sus candidatos y la Casa Rosada negocia con los gobernadores Pablo Varela",
+     "titulo": "Duelo de gestiones Una encuesta comparó a Milei con Macri y Alberto Fernández en este mismo momento del mandato: cómo le fue Leonardo Torresi",
      "medio": "Perfil",
-     "fecha": "21/11/2026",
-     "url": "https://www.perfil.com/politica/sin-primarias-lla-no-tiene-como-ordenar-a-sus-candidatos-y-la-casa-rosada-negocia-con-los-gobernadores-aXPMm6F5Ua7X"
-    },
-    {
-     "titulo": "Quince encuestas, un mismo patrón: el dato que se repite rumbo a 2027 y que en la Casa Rosada nadie quiere mirar",
-     "medio": "El Destape",
-     "fecha": "21/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339"
+     "fecha": "22/11/2026",
+     "url": "https://www.perfil.com/politica/una-encuesta-comparo-a-milei-con-macri-y-alberto-fernandez-en-este-mismo-momento-del-mandato-como-le-fue-aHVll0d85rT9"
     }
    ]
   },
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "Máximo asumió al frente del Congreso del PJ bonaerense y repartió el poder con Kicillof e intendentes",
-     "medio": "Diagonales",
-     "fecha": "21/11/2026",
-     "url": "https://www.diagonales.com/provincia/maximo-asumio-al-frente-del-congreso-del-pj-bonaerense-y-repartio-el-poder-con-kicillof-e-intendentes_a6b01b18ecd25aee288650edf",
-     "tag": "También en Infobae, La Nación y 2 más"
-    },
-    {
-     "titulo": "Pulseda en el peronismo. Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Axel Kicillof",
-     "medio": "La Nación",
-     "fecha": "21/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-nid21112026/"
-    },
-    {
-     "titulo": "TEMPORADA DE ROSCA Salven al PJ: en acuerdo con Kicillof, Máximo Kirchner asumió la presidencia del Congreso partidario Por Macarena Ramírez",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/politica/salven-al-pj-acuerdo-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-partidario-n5428427"
-    }
-   ],
-   "imagen": []
-  },
-  "Catamarca": {
-   "top3": [
-    {
-     "titulo": "Jalil ya avisó que Catamarca elegirá gobernador en octubre, pero Saadi intenta convencerlo de votar en marzo Por Lucio Di Giuseppe",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/politica/jalil-ya-aviso-que-catamarca-elegira-gobernador-octubre-pero-saadi-intenta-convencerlo-votar-marzo-n5428379"
-    },
-    {
-     "titulo": "Elecciones en la UNCA Arellano se desligó de la polémica en Exactas y dijo que la Justicia debe resolver el conflicto",
-     "medio": "El Ancasti",
-     "fecha": "21/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/arellano-se-desligo-la-polemica-exactas-y-dijo-que-la-justicia-debe-resolver-el-conflicto-n626506"
-    },
-    {
-     "titulo": "Santa María Militantes de San José expresaron su apoyo a Gustavo Saadi de cara al 2027",
-     "medio": "El Ancasti",
-     "fecha": "21/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/militantes-san-jose-expresaron-su-apoyo-gustavo-saadi-cara-al-2027-n626509"
-    }
-   ],
-   "imagen": []
-  },
-  "Chubut": {
-   "top3": [
-    {
-     "titulo": "Editorial / Futaleufú, apuro electoral y crisis social",
-     "medio": "Diario Jornada",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariojornada.com.ar/427487/politica/editorial__futaleufu_apuro_electoral_y_crisis_social"
-    },
-    {
-     "titulo": "Massa engrosa apoyos para la paritaria del PJ y Kicillof confía en sus chances",
-     "medio": "Diario Jornada",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariojornada.com.ar/427481/politica/massa_engrosa_apoyos_para_la_paritaria_del_pj_y_kicillof_confia_en_sus_chances"
-    },
-    {
-     "titulo": "Más de 400 adultos mayores participaron de los Juegos Chubutenses y ya están definidos los representantes para 2027",
-     "medio": "ADN Sur",
-     "fecha": "21/11/2026",
-     "url": "https://www.adnsur.com.ar/sociedad/mas-de-400-adultos-mayores-participaron-de-los-juegos-chubutenses-y-ya-estan-definidos-los-representantes-para-2027_a6b02055dfd7203bb626235c3"
+     "titulo": "Cristina Kirchner expone su acuerdo con Massa, el camino paralelo de Kicillof y un futuro incierto sin las PASO",
+     "medio": "Infobae",
+     "fecha": "22/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/"
     }
    ],
    "imagen": []
@@ -188,162 +96,10 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Gobierno. Karina Milei convocó a la Mesa Política: el Gobierno define su agenda legislativa para diciembre",
-     "medio": "Cadena3",
-     "fecha": "21/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/karina-milei-convoco-a-la-mesa-politica-el-gobierno-define-su-agenda-legislativa-para-diciembre_615445"
-    },
-    {
-     "titulo": "Pagano presentó un pedido de juicio político contra Caputo por “mal desempeño”",
-     "medio": "Hoy Dia",
-     "fecha": "21/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/pagano-presento-un-pedido-de-juicio-politico-contra-caputo-por-mal-desempeno-de-sus-funciones/"
-    },
-    {
-     "titulo": "Llaryora participó de una misa para agradecer la visita del Papa a Córdoba",
-     "medio": "Hoy Dia",
-     "fecha": "21/11/2026",
-     "url": "https://hoydia.com.ar/politica/llaryora-participo-de-una-misa-para-agradecer-la-visita-del-papa-a-cordoba/"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Movilización. La Marcha del Orgullo vuelve a Córdoba con reclamos contra la discriminación y la violencia",
-     "medio": "Cadena3",
-     "fecha": "21/11/2026",
-     "url": "https://www.cadena3.com/noticia/sociedad/la-marcha-del-orgullo-vuelve-a-cordoba-con-reclamos-contra-la-discriminacion-y-la-violencia_615424",
-     "tag": "También en ElDoce, Hoy Dia"
-    }
-   ]
-  },
-  "Corrientes": {
-   "top3": [
-    {
-     "titulo": "Karina Milei retomó el vínculo con Mauricio Macri",
-     "medio": "El Litoral",
-     "fecha": "21/11/2026",
-     "url": "https://www.ellitoral.com.ar/nacional/2026-11-21-19-27-0-karina-milei-retomo-el-vinculo-con-mauricio-macri"
-    }
-   ],
-   "imagen": []
-  },
-  "Entre Ríos": {
-   "top3": [
-    {
-     "titulo": "Laner cuestionó el paro de AGMER y advirtió que perjudica a alumnos, familias y docentes",
-     "medio": "Ahora",
-     "fecha": "21/11/2026",
-     "url": "https://ahora.com.ar/politica/laner-cuestiono-el-paro-de-agmer-y-advirtio-que-perjudica-a-alumnos-familias-y-docentes",
-     "tag": "También en El Once, UNO ER"
-    },
-    {
-     "titulo": "La UCR rebelde de Entre Ríos arma un acto con Storani y le hace un guiño al kicillofismo",
-     "medio": "AFP Digital",
-     "fecha": "21/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/21/480225-la-ucr-rebelde-de-entre-rios-arma-un-acto-con-storani-y-le-hace-un-guino-al-kicillofismo",
-     "tag": "También en Letra P"
-    },
-    {
-     "titulo": "Fondos para rutas de Entre Ríos: la Justicia federal le exige explicaciones al gobierno nacional",
-     "medio": "AFP Digital",
-     "fecha": "21/11/2026",
-     "url": "https://www.apfdigital.com.ar/noticias/2026/11/21/480192-fondos-para-rutas-de-entre-rios-la-justicia-federal-le-exige-explicaciones-al-gobierno-nacional",
-     "tag": "También en UNO ER"
-    }
-   ],
-   "imagen": []
-  },
-  "Formosa": {
-   "top3": [
-    {
-     "titulo": "“A las apuradas”: una sobrina de Insfrán fue designada en el Superior Tribunal de Formosa y la oposición denuncia irregularidades",
-     "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/a-las-apuradas-una-sobrina-de-insfran-fue-designada-en-el-superior-tribunal-de-formosa-y-la-oposicion-denuncia-irregularidades/"
-    },
-    {
-     "titulo": "Grissel Mabel Insfrán jurará este martes como nueva ministra del Superior Tribunal de Justicia",
-     "medio": "La Mañana",
-     "fecha": "21/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108898/grissel-mabel-insfrn-jurar-este-martes-como-nueva-ministra-del-superior-tribunal-de-justicia/"
-    },
-    {
-     "titulo": "Ley Malvinas: Bullrich pretende hacerle más cambios al texto y tensiona su vínculo con Santiago Caputo",
-     "medio": "La Mañana",
-     "fecha": "21/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108893/ley-malvinas-bullrich-pretende-hacerle-ms-cambios-al-texto-y-tensiona-su-vnculo-con-santiago-caputo/"
-    }
-   ],
-   "imagen": []
-  },
-  "Jujuy": {
-   "top3": [
-    {
-     "titulo": "Acuerdo entre Kicillof y La Cámpora: Máximo Kirchner quedó al frente del Congreso del PJ bonaerense",
-     "medio": "Somos Jujuy",
-     "fecha": "21/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/acuerdo-kicillof-campora-maximo-kirchner-quedo-frente-congreso-pj-bonaerense-n127563"
-    },
-    {
-     "titulo": "Ingreso a primer año 2027 en Jujuy: cómo sigue el cronograma tras la publicación de los listados de escuelas con y sin sobredemanda",
-     "medio": "Somos Jujuy",
-     "fecha": "21/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/ingreso-primer-ano-2027-jujuy-como-sigue-cronograma-tras-publicacion-listados-escuelas-sobredemanda-n127549",
-     "tag": "También en Todo Jujuy"
-    },
-    {
-     "titulo": "TEMPORADA DE ROSCA La pelea por el voto evangélico en Jujuy: el radicalismo busca recuperar terreno ante el crecimiento de LLA Por Lucio Di Giuseppe",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/politica/la-pelea-el-voto-evangelico-jujuy-el-radicalismo-busca-recuperar-terreno-el-crecimiento-lla-n5428406"
-    }
-   ],
-   "imagen": []
-  },
-  "La Pampa": {
-   "top3": [
-    {
-     "titulo": "Máximo Kirchner asumió la conducción del Congreso del PJ bonaerense tras un acuerdo",
-     "medio": "El Diario de La Pampa",
-     "fecha": "21/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/pais/83475/maximo-kirchner-asumio-la-conduccion-del-congreso-del-pj-bonaerense-tras-un-acuerdo",
-     "tag": "También en La Arena, La Pampa 24"
-    },
-    {
-     "titulo": "Una sobrina de Gildo Insfrán fue designada en el Superior Tribunal de Justicia de Formosa",
-     "medio": "El Diario de La Pampa",
-     "fecha": "21/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/pais/83471/una-sobrina-de-gildo-insfran-fue-designada-en-el-superior-tribunal-de-justicia-de-formosa"
-    },
-    {
-     "titulo": "El PRO marca la cancha a la estrategia radical",
-     "medio": "La Arena",
-     "fecha": "21/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/el-pro-marca-la-cancha-a-la-estrategia-radical-202611210140"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "La imagen positiva de Milei es de las más bajas del país",
-     "medio": "La Arena",
-     "fecha": "21/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/la-imagen-positiva-de-milei-es-de-las-mas-bajas-del-pais-20261121040"
-    }
-   ]
-  },
-  "La Rioja": {
-   "top3": [
-    {
-     "titulo": "Acuerdo entre Kicillof y La Cámpora: Máximo Kirchner asumió al frente del Congreso del PJ bonaerense",
-     "medio": "Nueva Rioja",
-     "fecha": "21/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/acuerdo-entre-kicillof-y-la-campora-maximo-kirchner-asumio-al-frente-del-congreso-del-pj-bonaerense.htm"
-    },
-    {
-     "titulo": "Una sobrina de Gildo Insfrán fue designada en el Superior Tribunal de Justicia de Formosa",
-     "medio": "Nueva Rioja",
-     "fecha": "21/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/una-sobrina-de-gildo-insfran-fue-designada-en-el-superior-tribunal-de-justicia-de-formosa.htm"
+     "titulo": "Tensión en Córdoba Una burla de Juez y Bornoroni a De Loredo enojó a la UCR J.G.",
+     "medio": "Perfil",
+     "fecha": "22/11/2026",
+     "url": "https://www.perfil.com/politica/una-burla-de-juez-y-bornoroni-a-de-loredo-enojo-a-la-ucr-a8m5c3C3jBYT"
     }
    ],
    "imagen": []
@@ -351,22 +107,10 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027: continúan las diferencias entre Cornejo y Petri y no hay certezas sobre un acuerdo",
-     "medio": "Diario UNO - MDZ",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/presupuesto-2027-continuan-las-diferencias-cornejo-y-petri-y-no-hay-certezas-un-acuerdo-n1618796"
-    },
-    {
-     "titulo": "Tras acordar con Kicillof, Máximo asumió en el Congreso del PJ bonaerense",
+     "titulo": "El rechazo a Milei ronda el 60% y el bolsillo es la mayor preocupación",
      "medio": "Mendoza Post",
-     "fecha": "21/11/2026",
-     "url": "https://www.mendozapost.com/politica/acuerdo-entre-kicillof-y-la-campora-maximo-kirchner-asumio-al-frente-del-congreso-del-pj-bonaerense/"
-    },
-    {
-     "titulo": "Las escuelas cerraron el cronograma 2026 de simulacros de sismo",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "21/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/las-escuelas-cerraron-el-cronograma-2026-de-simulacros-de-sismo/"
+     "fecha": "22/11/2026",
+     "url": "https://www.mendozapost.com/politica/encuestas-gestion-milei-60-por-ciento-desaprueba/"
     }
    ],
    "imagen": []
@@ -374,78 +118,27 @@
   "Misiones": {
    "top3": [
     {
-     "titulo": "Briatore le puso presión a Colapinto para 2027: “Debe crecer”",
-     "medio": "Primera Edición",
-     "fecha": "21/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101162402/briatore-le-puso-presion-a-colapinto-para-2027-debe-crecer/"
-    },
-    {
-     "titulo": "Jair Bolsonaro está internado en terapia intensiva por una obstrucción intestinal y podría ser operado",
+     "titulo": "Votantes de Milei y del PRO admiten economía estancada",
      "medio": "El Territorio",
-     "fecha": "21/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/21/928695-jair-bolsonaro-esta-internado-en-terapia-intensiva-por-una-obstruccion-intestinal-y-podria-ser-operado",
-     "tag": "También en Primera Edición"
-    },
-    {
-     "titulo": "Interceptaron a un adolescente de 15 años vendiendo cocaína en Puerto Iguazú",
-     "medio": "El Territorio",
-     "fecha": "21/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/21/928644-interceptaron-a-un-adolescente-de-15-anos-vendiendo-cocaina-en-puerto-iguazu",
-     "tag": "También en Primera Edición"
+     "fecha": "22/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/22/928515-votantes-de-milei-y-del-pro-admiten-economia-estancada"
     }
    ],
    "imagen": []
   },
-  "Neuquén": {
-   "top3": [
-    {
-     "titulo": "“No es la Luna ni otro planeta”: el particular spot de un candidato en Neuquén vestido de astronauta",
-     "medio": "Infobae",
-     "fecha": "21/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/21/no-es-la-luna-ni-otro-planeta-el-particular-spot-de-un-candidato-en-neuquen-vestido-de-astronauta/"
-    },
-    {
-     "titulo": "El kirchnerismo neuquino se fragmenta: Parrilli evalúa aliarse con Sobisch y Rioseco ya juega con Figueroa",
-     "medio": "La Politica Online",
-     "fecha": "21/11/2026",
-     "url": "https://www.lapoliticaonline.com/politica/el-kirchnerismo-neuquino-se-fragmenta-parrilli-evalua-aliarse-con-sobisch-y-rioseco-ya-juega-con-figueroa/"
-    },
-    {
-     "titulo": "Letra P | El peronismo de Neuquén puso fecha para definir su estrategia electoral rumbo al 14 de febrero",
-     "medio": "Letra P",
-     "fecha": "21/11/2026",
-     "url": "https://www.letrap.com.ar/el-peronismo-neuquen-puso-fecha-definir-su-estrategia-electoral-rumbo-al-14-febrero-n5428397"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "San Martín de los Andes Adolfo Vilouta anunció la baja a su postulación a intendente en 2027",
-     "medio": "Noticias NQN",
-     "fecha": "21/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/21/361866-adolfo-vilouta-anuncio-la-baja-a-su-postulacion-a-intendente-en-2027"
-    }
-   ]
-  },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Acuerdo comercial entre Milei y Trump: el Gobierno lo enviará al Congreso en diciembre y hay impacto clave para Vaca Muerta",
+     "titulo": "El avión comprado por Río Negro: una causa sin cierre, cuatro años de denuncia y dos de investigación",
      "medio": "Diario Rio Negro",
-     "fecha": "21/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/acuerdo-comercial-entre-milei-y-trump-el-gobierno-lo-enviara-al-congreso-en-diciembre-y-hay-impacto-clave-para-vaca-muerta-4808086/"
+     "fecha": "22/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/el-avion-comprado-por-rio-negro-una-causa-sin-cierre-cuatro-anos-de-denuncia-y-dos-de-investigacion/"
     },
     {
-     "titulo": "Weretilneck descartó marzo para las elecciones de Río Negro",
+     "titulo": "El peso del personal y la masa salarial en los grandes municipios de Río Negro",
      "medio": "Diario Rio Negro",
-     "fecha": "21/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/weretilneck-descarto-marzo-para-las-elecciones-de-rio-negro-4807932/"
-    },
-    {
-     "titulo": "Weretilneck: “El RIGI aprobó la mayor inversión de la historia, y es rionegrina”",
-     "medio": "AN Roca",
-     "fecha": "21/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/21/233685-weretilneck-el-rigi-aprobo-la-mayor-inversion-de-la-historia-y-es-rionegrina",
-     "tag": "También en LCR, Noticias Net"
+     "fecha": "22/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/el-peso-del-personal-y-la-masa-salarial-en-los-grandes-municipios-de-rio-negro/"
     }
    ],
    "imagen": []
@@ -453,98 +146,22 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "¿Se va Caputo el martes? Con el riesgo país arriba de los 1.000 puntos, se agota el plan oficial y alertan por un bache de US$7.750 millones para 2027",
-     "medio": "Informate Salta",
-     "fecha": "21/11/2026",
-     "url": "https://informatesalta.com.ar/economia/-se-va-caputo-el-martes--con-el-riesgo-pais-arriba-de-los-1-000-puntos--se-agota-el-plan-oficial-y-alertan-por-un-bache-de-us-7-750-millones-para-2027_a6b022e1acd25aee2886cb869"
-    },
-    {
-     "titulo": "Alarma por el riesgo país: las medidas que analiza el mercado para que Milei consiga dólares",
-     "medio": "Que Pasa Salta",
-     "fecha": "21/11/2026",
-     "url": "https://www.quepasasalta.com.ar/politica/alarma-por-el-riesgo-pais-medidas-gobierno-javier-milei/"
-    },
-    {
-     "titulo": "Habilitaron el nuevo Centro Emisor de Licencias en Rivadavia Banda Sur",
+     "titulo": "Hoy se brindará asesoramiento sobre capacitación, empleo y cooperativismo en Cafayate",
      "medio": "Prensa oficial de Salta",
-     "fecha": "21/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/habilitaron-el-nuevo-centro-emisor-de-licencias-en-rivadavia-banda-sur-111246"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Sorpresa en la última encuesta del consultor más anti K: Bullrich y Kicillof empatan en la cima y desplazan a Milei",
-     "medio": "Informate Salta",
-     "fecha": "21/11/2026",
-     "url": "https://informatesalta.com.ar/politica/sorpresa-en-la-ultima-encuesta-del-consultor-mas-anti-k--bullrich-y-kicillof-empatan-en-la-cima-y-desplazan-a-milei_a6b01f38ecd25aee2886886ad"
-    }
-   ]
-  },
-  "San Juan": {
-   "top3": [
-    {
-     "titulo": "Acuerdo entre Kicillof y La Cámpora: Máximo Kirchner fue designado presidente del Congreso del PJ provincial",
-     "medio": "Diario de Cuyo",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/acuerdo-kicillof-y-la-campora-maximo-kirchner-fue-designado-presidente-del-congreso-del-pj-provincial-n6589244"
+     "fecha": "22/11/2026",
+     "url": "https://www.salta.gob.ar/prensa/noticias/hoy-se-brindara-asesoramiento-sobre-capacitacion-empleo-y-cooperativismo-en-cafayate-111208"
     },
     {
-     "titulo": "Karina Milei y Macri reabrieron el diálogo, pero la pelea interna del PRO frena el acuerdo en CABA Por Redacción Diario de Cuyo",
-     "medio": "Diario de Cuyo",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/karina-milei-y-macri-reabrieron-el-dialogo-pero-la-pelea-interna-del-pro-frena-el-acuerdo-caba-n6589258"
+     "titulo": "Con las Paso casi afuera, Massa engrosa apoyos dentro del PJ",
+     "medio": "El Tribuno",
+     "fecha": "22/11/2026",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-con-las-paso-casi-afuera-massa-engrosa-apoyos-dentro-del-pj"
     },
     {
-     "titulo": "En San Juan estudian una ley para abordar el TEL: qué es este trastorno que afecta a uno de cada 15 niños",
-     "medio": "Tiempo de San Juan",
-     "fecha": "21/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/en-san-juan-estudian-una-ley-para-abordar-el-tel-que-es-este-trastorno-que-afecta-a-uno-de-cada-15-ninos_1795207930"
-    }
-   ],
-   "imagen": []
-  },
-  "San Luis": {
-   "top3": [
-    {
-     "titulo": "El Gobierno negocia con gobernadores: candidaturas nacionales primero, provincias después",
-     "medio": "San Luis 24",
-     "fecha": "21/11/2026",
-     "url": "https://sanluis24.com.ar/el-gobierno-negocia-con-gobernadores-candidaturas-nacionales-primero-provincias-despues/"
-    },
-    {
-     "titulo": "En la ciudad de San Luis, el Gobernador entregó viviendas a 280 familias",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "21/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/21/1234303-en-la-ciudad-de-san-luis-el-gobernador-entrego-viviendas-a-280-familias/"
-    },
-    {
-     "titulo": "“El Gobernador dijo que este año se pasa la Navidad en casa propia y acá estamos”",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "21/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/21/1234221-el-gobernador-dijo-que-este-ano-se-pasa-la-navidad-en-casa-propia-y-aca-estamos/"
-    }
-   ],
-   "imagen": []
-  },
-  "Santa Cruz": {
-   "top3": [
-    {
-     "titulo": "Ley electoral, presupuesto y fondos para municipios: qué le queda por resolver a Diputados de Santa Cruz",
-     "medio": "El Diario Nuevo Día",
-     "fecha": "21/11/2026",
-     "url": "https://www.eldiarionuevodia.com.ar/locales/ley-electoral-presupuesto-y-fondos-para-municipios-que-le-queda-por-resolver-a-diputados-de-santa-cruz-6158/"
-    },
-    {
-     "titulo": "Elecciones 2027 Jairo Guzmán: “Voy a ser Gobernador”",
-     "medio": "Tiempo Sur",
-     "fecha": "21/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/jairo-guzman-voy-a-ser-gobernador"
-    },
-    {
-     "titulo": "Acuerdo entre Kicillof y La Cámpora Máximo Kirchner asumió al frente del Congreso del PJ bonaerense",
-     "medio": "Tiempo Sur",
-     "fecha": "21/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/maximo-kirchner-asumio-al-frente-del-congreso-del-pj-bonaerense"
+     "titulo": "La economía estancada y la tensión electoral empujaron el riesgo país",
+     "medio": "El Tribuno",
+     "fecha": "22/11/2026",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-la-economia-estancada-y-la-tension-electoral-empujaron-el-riesgo-pais"
     }
    ],
    "imagen": []
@@ -552,23 +169,10 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Máximo Kirchner asumió como titular del congreso del PJ bonaerense",
+     "titulo": "El Niño se hace sentir fuerte en la isla frente a Rosario",
      "medio": "La Capital",
-     "fecha": "21/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/maximo-kirchner-asumio-como-titular-del-congreso-del-pj-bonaerense-n10293521.html"
-    },
-    {
-     "titulo": "Máximo Kirchner quedó al frente del Congreso del PJ bonaerense tras un acuerdo con Kicillof",
-     "medio": "Rosario3",
-     "fecha": "21/11/2026",
-     "url": "https://www.rosario3.com/politica/maximo-kirchner-quedo-al-frente-del-congreso-del-pj-bonaerense-tras-un-acuerdo-con-kicillof-20261121-0024.html"
-    },
-    {
-     "titulo": "Protocolo ante El Niño: por qué la EPE corta la energía en zonas anegadas y cómo la repone",
-     "medio": "Agencia Fe",
-     "fecha": "21/11/2026",
-     "url": "https://agenciafe.com/nota/404311-Protocolo-ante-El-Nio-por-que-la-EPE-corta-la-energia-en-zonas-anegadas-y-como-la-repone",
-     "tag": "También en Aire, La Capital y 1 más"
+     "fecha": "22/11/2026",
+     "url": "https://www.lacapital.com.ar/la-ciudad/el-nino-se-hace-sentir-fuerte-la-isla-frente-rosario-n10293549.html"
     }
    ],
    "imagen": []
@@ -576,64 +180,21 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "El PRO y La Libertad Avanza acercan posiciones, pero la alianza electoral para 2027 sigue sin definirse",
+     "titulo": "Domingo con alivio térmico y probabilidades de lluvias en Santiago del Estero: cómo seguirá el tiempo",
      "medio": "Diario Panorama",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/573759/pro-libertad-avanza-acercan-posiciones-pero-alianza-electoral-para-2027-sigue-sin-definirse",
-     "tag": "También en Nuevo Diario Web"
+     "fecha": "22/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573787/tiempo-santiago-estero-para-este-domingo-22-noviembre-anuncian-tormentas-aisladas-maxima-26c",
+     "tag": "También en El Liberal"
     },
     {
-     "titulo": "El Senador Gerardo Zamora lanzó su canal oficial de Tik Tok",
-     "medio": "Prensa oficial de Santiago del Estero",
-     "fecha": "21/11/2026",
-     "url": "https://sde.gob.ar/2026/11/21/el-senador-gerardo-zamora-lanzo-su-canal-oficial-de-tik-tok/",
-     "tag": "También en Info del Estero"
-    },
-    {
-     "titulo": "Elecciones en La Bancaria: la Lista Verde presentó sus propuestas gremiales",
-     "medio": "Diario Panorama",
-     "fecha": "21/11/2026",
-     "url": "https://www.diariopanorama.com/video/27269/elecciones-bancaria-lista-verde-presento-sus-propuestas-gremiales"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Por qué subió el riesgo país: consultoras apuntan a la falta de dólares, la recesión y las elecciones de 2027",
+     "titulo": "VIDEO | Boca campeón de la Sudamericana: los santiagueños coparon plaza Libertad para celebrar el título",
      "medio": "El Liberal",
-     "fecha": "21/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98696/2026/11/por-que-subio-el-riesgo-pais--consultoras-apuntan-a-la-falta-de-dolares-la-recesion-y-las-elecciones-de-2027"
-    }
-   ]
-  },
-  "Tucumán": {
-   "top3": [
-    {
-     "titulo": "Karina Milei retomó el vínculo con Macri, pero la interna del PRO traba el acuerdo electoral",
-     "medio": "Los Primeros",
-     "fecha": "21/11/2026",
-     "url": "https://www.losprimeros.tv/politica/karina-milei-retomo-el-vinculo-con-macri--pero-la-interna-del-pro-traba-el-acuerdo-electoral_a6b020902cd25aee28869e4b5"
-    },
-    {
-     "titulo": "El giro de Kicillof para enfrentar a Massa y a Cristina Kirchner en una elección interna",
-     "medio": "Tucumán Despierta",
-     "fecha": "21/11/2026",
-     "url": "https://tucumandespierta.com/el-giro-de-kicillof-para-enfrentar-a-massa-y-a-cristina-kirchner-en-una-eleccion-interna/"
-    },
-    {
-     "titulo": "El peso político de Bullrich obliga a Milei a cuidar la alianza, mientras el Riesgo País nunca se acaba",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "21/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1163568/opinion/peso-politico-bullrich-obliga-milei-cuidar-alianza-mientras-riesgo-pais-nunca-se-acaba.html"
+     "fecha": "22/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/98708/2026/11/boca-campeon-de-la-sudamericana--los-santiaguenos-coparon-plaza-libertad-para-celebrar-el-titulo",
+     "tag": "También en Diario Panorama"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Nuevas encuestas: crecen las críticas por la economía; los salarios y el empleo lideran las preocupaciones",
-     "medio": "Los Primeros",
-     "fecha": "21/11/2026",
-     "url": "https://www.losprimeros.tv/politica/nuevas-encuestas--crecen-las-criticas-por-la-economia--los-salarios-y-el-empleo-lideran-las-preocupaciones_a6b020401cd25aee2886983e6"
-    }
-   ]
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [
@@ -643,12 +204,10 @@
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
   "https://prensa.cba.gov.ar/",
-  "https://prensa.rionegro.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
   "https://grupolaprovincia.com/",
-  "https://www.latecla.info/",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
