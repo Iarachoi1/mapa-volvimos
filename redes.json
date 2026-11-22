@@ -1,5 +1,5 @@
 {
- "actualizado": "22/11 08:35",
+ "actualizado": "22/11 09:37",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,26 +21,26 @@
    "temas": []
   },
   {
-   "tema": "Herrera",
-   "url": "https://x.com/search?q=Herrera",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Verstappen",
    "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
+   "tema": "Herrera",
+   "url": "https://x.com/search?q=Herrera",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Russell",
    "url": "https://x.com/search?q=Russell",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "Las Vegas",
+   "url": "https://x.com/search?q=Las%20Vegas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Las Vegas",
-   "url": "https://x.com/search?q=Las%20Vegas",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +93,8 @@
    "temas": []
   },
   {
-   "tema": "BOCA CAMPEÃN",
-   "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
+   "tema": "Boca CampeÃ³n",
+   "url": "https://x.com/search?q=Boca%20Campe%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +105,112 @@
    "temas": []
   },
   {
+   "tema": "#BuenDomingo",
+   "url": "https://x.com/search?q=%23BuenDomingo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "GRACIAS VASCO",
    "url": "https://x.com/search?q=GRACIAS%20VASCO",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
+   "tema": "#LENAMIUBDParty",
+   "url": "https://x.com/search?q=%23LENAMIUBDParty",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "barcelona - villarreal",
+   "busquedas": "2000+",
+   "nota": "Barcelona vs Villarreal, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/22/barcelona-vs-villarreal-en-vivo-por-la-fecha-13-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atp finals 2026",
+   "busquedas": "5000+",
+   "nota": "The battle for the number 1 spot in 2027 between Alcaraz and Zverev begins at the ATP Finals",
+   "nota_url": "https://www.puntodebreak.com/en/2026/11/21/the-battle-for-the-number-1-spot-in-2027-between-alcaraz-and-zverev-begins-at-the-atp",
+   "medio": "Punto de Break",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "fraude",
+   "busquedas": "200+",
+   "nota": "Melincué: acusan al intendente libertario de estafa y fraude por más de $300 millones",
+   "nota_url": "https://epicarosario.com.ar/melincue-acusan-al-intendente-libertario-de-estafa-y-fraude-por-mas-de-300-millones",
+   "medio": "https://epicarosario.com.ar/",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa libertadores 2027",
+   "busquedas": "10000+",
+   "nota": "Con Boca campeón, así quedó el mapa de los clasificados a la Copa Libertadores y Sudamericana",
+   "nota_url": "https://www.ole.com.ar/futbol-primera/clasificados-copas-internacionales-boca-cupos-copalibertadores-copasudamericana_0_gD7BiNm6SC.html",
+   "medio": "Olé",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "agustín aristarán",
+   "busquedas": "100+",
+   "nota": "Nicki Nicole intentó descubrir el truco de magia de Agustín Rada en vivo y su reacción se volvió viral",
+   "nota_url": "https://www.lavoz.com.ar/espectaculos/nicki-nicole-intento-descubrir-truco-magia-agustin-rada-vivo-reaccion-volvio-viral_0_AWyiSlphWd.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ministro",
+   "busquedas": "200+",
+   "nota": "Una búsqueda de tramposos en los exámenes con alertas telefónicas y controles de anteojos",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/una-busqueda-de-tramposos-en-los-examenes-con-alertas-telefonicas-y-controles-de-anteojos-nid19112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "finanzas",
+   "busquedas": "100+",
+   "nota": "Causa Sur Finanzas: allanaron cuatro sucursales bancarias en el AMBA en una investigación por estafa",
+   "nota_url": "https://www.elliberal.com.ar/nota/98744/2026/11/causa-sur-finanzas--allanaron-cuatro-sucursales-bancarias-en-el-amba-en-una-investigacion-por-estafa",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "juventus - venezia",
-   "busquedas": "500+",
-   "nota": "Diretta Juve-Venezia, oggi Serie A. Live risultato e classifica",
-   "nota_url": "https://www.adnkronos.com/sport/diretta-juve-venezia-oggi-serie-a-live_4USL95axNzKKgMLdzfcVGo",
-   "medio": "Adnkronos",
+   "busquedas": "1000+",
+   "nota": "Serie A | Juventus-Venezia | Le formazioni ufficiali",
+   "nota_url": "https://www.juventus.com/it/news/articoli/serie-a-juventus-venezia-le-formazioni-ufficiali",
+   "medio": "Juventus.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "película",
+   "busquedas": "200+",
+   "nota": "\"Matapanki\": Estereotipado discurso narrativo",
+   "nota_url": "https://cinemagavia.es/matapanki-pelicula-critica/",
+   "medio": "Cinemagavia",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "2026",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Iran’s Regime Deploys 60,000 Security Forces in Tehran Amid Fears of Renewed Uprising",
    "nota_url": "https://irannewsupdate.com/news/insider/irans-regime-deploys-60000-security-forces-in-tehran-amid-fears-of-renewed-uprising/",
    "medio": "Iran News Update",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sensacine",
-   "busquedas": "100+",
-   "nota": "Almodóvar dudó del fichaje de Guitarricadelafuente para 'La bola negra': «No basta con la imagen»",
-   "nota_url": "https://www.que.es/2026/11/22/guitarricadelafuente-bola-negra-almodovar-casting/",
-   "medio": "Qué.es",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "página/12",
-   "busquedas": "100+",
-   "nota": "El Gobierno sin control de la crisis financiera",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/20/el-gobierno-sin-control-de-la-crisis-financiera/",
-   "medio": "Página|12",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "recesión",
-   "busquedas": "200+",
-   "nota": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
-   "nota_url": "https://www.perfil.com/columnistas/javier-milei-inicia-este-martes-una-nueva-etapa-vivir-en-recesion-aGqdT1G1LGOd",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "diario ole",
-   "busquedas": "10000+",
-   "nota": "Kevin Vallejos enfrentará a Aljamain Sterling en la UFC en Qatar y vaticinó otra coronación de gloria argentina en Doha",
-   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/21/kevin-vallejos-palpito-su-pelea-ante-aljamain-sterling-en-la-ufc-y-se-ilusiono-con-otra-consagracion-argentina-en-qatar/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rafael grossi",
-   "busquedas": "100+",
-   "nota": "Grossi sumó un tercer veto de las potencias y la carrera por liderar la ONU sigue muy trabada",
-   "nota_url": "https://qpaso.ar/noticias/la-nacion/estados-unidos/grossi-sumo-un-tercer-veto-de-las-potencias-y-la-carrera-por-liderar-la-onu-sigue-muy-trabada-nid20112026",
-   "medio": "qpasó",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima cordoba",
-   "busquedas": "500+",
-   "nota": "Clima en Córdoba hoy domingo 22 de noviembre: cielo parcialmente nublado y temperatura agradable",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/22/clima-en-cordoba-hoy-domingo-22-de-noviembre-cielo-parcialmente-nublado-y-temperatura-agradable/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "campeonato de constructores f1 2026",
-   "busquedas": "5000+",
-   "nota": "F1: Verstappen apostó fuerte y ganó en Las Vegas; Colapinto terminó sexto",
-   "nota_url": "https://campeones.com.ar/f1-verstappen-aposto-fuerte-y-gano-en-las-vegas-colapinto-termino-sexto/",
-   "medio": "Campeones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "campeonato de constructores f1",
-   "busquedas": "200+",
-   "nota": "Alpine sueña con el top 5: así quedó el campeonato de constructores de la F1 tras Las Vegas",
-   "nota_url": "https://www.carburando.com/formula-1/alpine-suena-con-el-top-5-asi-quedo-el-campeonato-de-constructores-de-la-f1-tras-las-vegas-id201278",
-   "medio": "Carburando",
    "relevante": false,
    "temas": []
   }
