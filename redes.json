@@ -1,5 +1,5 @@
 {
- "actualizado": "22/11 09:37",
+ "actualizado": "22/11 10:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,26 +21,26 @@
    "temas": []
   },
   {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Herrera",
    "url": "https://x.com/search?q=Herrera",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Paredes",
    "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
+   "tema": "#BuenDomingo",
+   "url": "https://x.com/search?q=%23BuenDomingo",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +75,20 @@
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -105,31 +111,52 @@
    "temas": []
   },
   {
-   "tema": "#BuenDomingo",
-   "url": "https://x.com/search?q=%23BuenDomingo",
+   "tema": "Gracias Vasco",
+   "url": "https://x.com/search?q=Gracias%20Vasco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GRACIAS VASCO",
-   "url": "https://x.com/search?q=GRACIAS%20VASCO",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#LENAMIUBDParty",
-   "url": "https://x.com/search?q=%23LENAMIUBDParty",
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "miley cyrus",
+   "busquedas": "200+",
+   "nota": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
+   "nota_url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/",
+   "medio": "Rolling Stone",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juventus vs",
+   "busquedas": "100+",
+   "nota": "[LIVESTREAMs] Burnley vs BR Blackburn Rovers Live Free Championship Soccer November 22, 2026",
+   "nota_url": "https://www.tallahatchienews.ms/node/457156",
+   "medio": "Charleston Sun-Sentinel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hull city - brighton",
+   "busquedas": "500+",
+   "nota": "bet365 bonus code: Get £30 in Bet Credits ahead of Hull vs Brighton – Using code ‘TSPORT’",
+   "nota_url": "https://talksport.com/betting/4711218/hull-vs-brighton-bet365-offers/",
+   "medio": "talkSPORT",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "barcelona - villarreal",
-   "busquedas": "2000+",
-   "nota": "Barcelona vs Villarreal, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/22/barcelona-vs-villarreal-en-vivo-por-la-fecha-13-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
+   "busquedas": "20000+",
+   "nota": "Al Barça se le indigestan los partidos a las 14:00 y frente al Villarreal en casa",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/21/al-barca-se-le-indigestan-los-partidos-a-las-1400-y-frente-al-villarreal-en-casa/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -144,74 +171,47 @@
   },
   {
    "tema": "fraude",
-   "busquedas": "200+",
-   "nota": "Melincué: acusan al intendente libertario de estafa y fraude por más de $300 millones",
-   "nota_url": "https://epicarosario.com.ar/melincue-acusan-al-intendente-libertario-de-estafa-y-fraude-por-mas-de-300-millones",
-   "medio": "https://epicarosario.com.ar/",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "copa libertadores 2027",
-   "busquedas": "10000+",
-   "nota": "Con Boca campeón, así quedó el mapa de los clasificados a la Copa Libertadores y Sudamericana",
-   "nota_url": "https://www.ole.com.ar/futbol-primera/clasificados-copas-internacionales-boca-cupos-copalibertadores-copasudamericana_0_gD7BiNm6SC.html",
-   "medio": "Olé",
-   "relevante": true,
+   "busquedas": "500+",
+   "nota": "Escándalo en Argentina: gigante naviera denunció a exdirectivos por un presunto fraude millonario",
+   "nota_url": "https://diarioneuquino.com.ar/escandalo-en-argentina-gigante-naviera-denuncio-a-exdirectivos-por-un-presunto-fraude-millonario/",
+   "medio": "Diario Neuquino",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "agustín aristarán",
+   "busquedas": "200+",
+   "nota": "Agustín Aristarán se despide de su obra Chanta y prepara nuevos desafíos profesionales",
+   "nota_url": "https://elecos.com.ar/agustin-aristaran-se-despide-de-su-obra-chanta-y-prepara-nuevos-desafios-profesionales",
+   "medio": "Ecos Diarios Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa libertadores 2027",
+   "busquedas": "200+",
+   "nota": "Con Alianza Lima y Universitario: se confirman 25 equipos clasificados a la Copa Libertadores 2027",
+   "nota_url": "https://libero.pe/futbol-internacional/copa-libertadores/2026/11/16/alianza-lima-universitario-se-confirman-25-equipos-clasificados-copa-libertadores-2027-826928",
+   "medio": "Diario Libero",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "resultado f1 hoy",
    "busquedas": "100+",
-   "nota": "Nicki Nicole intentó descubrir el truco de magia de Agustín Rada en vivo y su reacción se volvió viral",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/nicki-nicole-intento-descubrir-truco-magia-agustin-rada-vivo-reaccion-volvio-viral_0_AWyiSlphWd.html",
-   "medio": "La Voz del Interior",
+   "nota": "Ferrari estalla tras el toque de Leclerc a Hamilton y estudia tomar medidas disciplinarias",
+   "nota_url": "https://www.marca.com/motor/formula1/gp-las-vegas/2026/11/22/ferrari-estalla-toque-leclerc-hamilton-estudia-tomar-medidas-disciplinarias.html",
+   "medio": "MARCA",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ministro",
-   "busquedas": "200+",
-   "nota": "Una búsqueda de tramposos en los exámenes con alertas telefónicas y controles de anteojos",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/una-busqueda-de-tramposos-en-los-examenes-con-alertas-telefonicas-y-controles-de-anteojos-nid19112026/",
-   "medio": "La Nación",
+   "busquedas": "500+",
+   "nota": "Hasta un botón puede levantar sospechas en el examen de selección universitaria de Corea del Sur",
+   "nota_url": "https://es-us.vida-estilo.yahoo.com/bot%C3%B3n-levantar-sospechas-examen-selecci%C3%B3n-181308233.html",
+   "medio": "Yahoo en Español Vida y Estilo",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "finanzas",
-   "busquedas": "100+",
-   "nota": "Causa Sur Finanzas: allanaron cuatro sucursales bancarias en el AMBA en una investigación por estafa",
-   "nota_url": "https://www.elliberal.com.ar/nota/98744/2026/11/causa-sur-finanzas--allanaron-cuatro-sucursales-bancarias-en-el-amba-en-una-investigacion-por-estafa",
-   "medio": "El Liberal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juventus - venezia",
-   "busquedas": "1000+",
-   "nota": "Serie A | Juventus-Venezia | Le formazioni ufficiali",
-   "nota_url": "https://www.juventus.com/it/news/articoli/serie-a-juventus-venezia-le-formazioni-ufficiali",
-   "medio": "Juventus.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "película",
-   "busquedas": "200+",
-   "nota": "\"Matapanki\": Estereotipado discurso narrativo",
-   "nota_url": "https://cinemagavia.es/matapanki-pelicula-critica/",
-   "medio": "Cinemagavia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "2026",
-   "busquedas": "2000+",
-   "nota": "Iran’s Regime Deploys 60,000 Security Forces in Tehran Amid Fears of Renewed Uprising",
-   "nota_url": "https://irannewsupdate.com/news/insider/irans-regime-deploys-60000-security-forces-in-tehran-amid-fears-of-renewed-uprising/",
-   "medio": "Iran News Update",
-   "relevante": false,
    "temas": []
   }
  ],
