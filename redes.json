@@ -1,13 +1,7 @@
 {
- "actualizado": "22/11 02:46",
+ "actualizado": "22/11 03:50",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Franco",
    "url": "https://x.com/search?q=Franco",
@@ -15,98 +9,14 @@
    "temas": []
   },
   {
-   "tema": "#telemetrico",
-   "url": "https://x.com/search?q=%23telemetrico",
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Delgado",
-   "url": "https://x.com/search?q=Delgado",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Herrera",
-   "url": "https://x.com/search?q=Herrera",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "McLaren",
-   "url": "https://x.com/search?q=McLaren",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sudamericana",
-   "url": "https://x.com/search?q=Sudamericana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gracias Boca",
-   "url": "https://x.com/search?q=Gracias%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "BOCA CAMPEÃN",
-   "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lando",
-   "url": "https://x.com/search?q=Lando",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Hadjar",
-   "url": "https://x.com/search?q=Hadjar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Aguante Boca",
-   "url": "https://x.com/search?q=Aguante%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lindblad",
-   "url": "https://x.com/search?q=Lindblad",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
@@ -117,34 +27,142 @@
    "temas": []
   },
   {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
+   "tema": "Leclerc",
+   "url": "https://x.com/search?q=Leclerc",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Oscar",
+   "url": "https://x.com/search?q=Oscar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lando",
+   "url": "https://x.com/search?q=Lando",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "McLaren",
+   "url": "https://x.com/search?q=McLaren",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Antonelli",
+   "url": "https://x.com/search?q=Antonelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gasly",
+   "url": "https://x.com/search?q=Gasly",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Carreron",
+   "url": "https://x.com/search?q=Carreron",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#telemetrico",
+   "url": "https://x.com/search?q=%23telemetrico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Keanu Reeves",
+   "url": "https://x.com/search?q=Keanu%20Reeves",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Hadjar",
+   "url": "https://x.com/search?q=Hadjar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "FÃ³rmula 1",
+   "url": "https://x.com/search?q=F%C3%83%C2%B3rmula%201",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Franquito",
+   "url": "https://x.com/search?q=Franquito",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "bandera de las islas malvinas",
+   "busquedas": "1000+",
+   "nota": "Rodrigo Battaglia se acordó de las Islas Malvinas durante la coronación internacional de Boca",
+   "nota_url": "https://elcrackdeportivo.com.ar/boca/rodrigo-battaglia-se-acordo-de-las-islas-malvinas-durante-la-coronacion-internacional-de-boca-20261121-0061.html",
+   "medio": "El Crack Deportivo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "keanu reeves",
+   "busquedas": "500+",
+   "nota": "#TSRBeauty: #KimKardashian pulls up to her man’s races lookin like that girllllll chileeee 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
+   "nota_url": "https://www.instagram.com/p/DgBTptwAfoD/",
+   "medio": "Instagram",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "chris pratt",
    "busquedas": "200+",
-   "nota": "Jennifer Lawrence Ranks Chris Pratt Last on Her On-Screen Kiss List",
-   "nota_url": "https://www.tmz.com/2026/11/20/jennifer-lawrence-says-chris-pratt-worst-on-screen-kiss/",
-   "medio": "TMZ",
+   "nota": "Chris Pratt Was Jennifer Lawrence’s Unfavorite Onscreen Kiss",
+   "nota_url": "https://www.vulture.com/article/jennifer-lawrence-chris-pratt-worst-kiss.html",
+   "medio": "Vulture",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "f1 vote",
    "busquedas": "200+",
-   "nota": "F1 bosses reach agreement to introduce V8 engines in 2030",
-   "nota_url": "https://www.espn.com/f1/story/_/id/50472097/v8-engine-confirmed-formula-1",
-   "medio": "ESPN",
+   "nota": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+   "nota_url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "verstappen",
-   "busquedas": "2000+",
+   "busquedas": "1000+",
    "nota": "Insólito toque entre Russell y Verstappen en la FP3 de la F1 en Las Vegas",
    "nota_url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-las-vegas-fp3-insolito-toque-george-russell-max-verstappen-id772445.html",
    "medio": "TyC Sports",
@@ -161,6 +179,15 @@
    "temas": []
   },
   {
+   "tema": "f1 hoy",
+   "busquedas": "2000+",
+   "nota": "Recta final al rojo vivo: las cinco grandes incógnitas que quedan por resolver en la Fórmula 1",
+   "nota_url": "https://www.eldestapeweb.com/deportes/recta-final-rojo-vivo-cinco-grandes-incognitas-quedan-resolver-formula-1-20261119161824",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "wanda nara",
    "busquedas": "200+",
    "nota": "Cómo hizo Wanda Nara para bajar de peso",
@@ -171,46 +198,19 @@
   },
   {
    "tema": "formula 1",
-   "busquedas": "10000+",
-   "nota": "Franco Colapinto lamenta última vuelta pese a clasificar noveno en Las Vegas",
-   "nota_url": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/17541392/franco-colapinto-clasifico-noveno-en-gp-las-vegas",
-   "medio": "ESPN Argentina",
+   "busquedas": "20000+",
+   "nota": "F1 GP de Las Vegas, EN VIVO: cómo terminó Colapinto, quién ganó la carrera y las posiciones finales de la Fórmula 1",
+   "nota_url": "https://www.clarin.com/deportes/f1-gp-vegas-franco-colapinto-vivo-horario-carrera-ver-formula-1-hoy_0_6NCF3MAs8G.html",
+   "medio": "Clarín",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "maxx morando",
    "busquedas": "100+",
-   "nota": "Miley Cyrus and Maxx Morando Joined by Loved Ones for a Rehearsal Dinner Ahead of Their Reported Wedding",
-   "nota_url": "https://people.com/miley-cyrus-maxx-morando-host-rehearsal-dinner-ahead-of-their-wedding-12269456",
-   "medio": "People.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "f1",
-   "busquedas": "10000+",
-   "nota": "Las Vegas F1 GP Auto Racing",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/las-vegas-f1-gp-auto-racing/image_83a6eaf1-f577-56f3-b055-796a027da05e.html",
-   "medio": "Corsicana Daily Sun",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "joseph zada",
-   "busquedas": "100+",
-   "nota": "Every Hunger Games Movie, Ranked by Book-To-Screen Adaptation",
-   "nota_url": "https://fandomwire.com/every-hunger-games-movie-ranked/",
-   "medio": "FandomWire",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "kim kardashian",
-   "busquedas": "100+",
-   "nota": "#TSRBeauty: #KimKardashian pulls up to her man’s races lookin like that girllllll chileeee 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
-   "nota_url": "https://www.instagram.com/p/DgBTptwAfoD/",
-   "medio": "Instagram",
+   "nota": "Miley Cyrus and Maxx Morando Are Married",
+   "nota_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
+   "medio": "The Hollywood Reporter",
    "relevante": false,
    "temas": []
   }
