@@ -1,5 +1,5 @@
 {
- "actualizado": "21/11 23:48",
+ "actualizado": "22/11 00:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
+   "tema": "Delgado",
+   "url": "https://x.com/search?q=Delgado",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Delgado",
-   "url": "https://x.com/search?q=Delgado",
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Gracias Vasco",
-   "url": "https://x.com/search?q=Gracias%20Vasco",
+   "tema": "Sudamericana",
+   "url": "https://x.com/search?q=Sudamericana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
@@ -57,26 +63,14 @@
    "temas": []
   },
   {
+   "tema": "Gracias Vasco",
+   "url": "https://x.com/search?q=Gracias%20Vasco",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gracias Boca",
    "url": "https://x.com/search?q=Gracias%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sudamericana",
-   "url": "https://x.com/search?q=Sudamericana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -87,20 +81,26 @@
    "temas": []
   },
   {
-   "tema": "#BocaJuniors",
-   "url": "https://x.com/search?q=%23BocaJuniors",
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "DomÃ­nguez",
-   "url": "https://x.com/search?q=Dom%C3%83%C2%ADnguez",
+   "tema": "Boca Juniors",
+   "url": "https://x.com/search?q=Boca%20Juniors",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Arruabarrena",
    "url": "https://x.com/search?q=Arruabarrena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "DomÃ­nguez",
+   "url": "https://x.com/search?q=Dom%C3%83%C2%ADnguez",
    "relevante": false,
    "temas": []
   },
@@ -125,19 +125,64 @@
  ],
  "google": [
   {
-   "tema": "las vegas f1",
+   "tema": "tigres - américa",
+   "busquedas": "200+",
+   "nota": "DUELO DE FIGURAS EN EL VOLCÁN! Juan Brunetta y Henry Martín frente a frente en el Tigres vs América.",
+   "nota_url": "https://www.tvazteca.com/aztecadeportes/duelo-de-figuras-en-el-volcan-juan-brunetta-y-henry-martin-frente-a-frente-en-el-tigres-vs-america/",
+   "medio": "TV Azteca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "raphael",
    "busquedas": "100+",
-   "nota": "Antonelli says he made the decision to run at the back of the field in qualifying",
-   "nota_url": "https://www.racefans.net/2026/11/21/antonelli-says-he-made-the-decision-to-run-at-the-back-of-the-field-in-qualifying/",
-   "medio": "RaceFans",
+   "nota": "Karlos Arguiñano presentó un libro con 495 recetas y habló de su retiro",
+   "nota_url": "https://impactocastex.com.ar/internacionales/19494/karlos-arguinano-presento-un-libro-con-495-recetas-y-hablo-de-su-retiro",
+   "medio": "Impacto Castex",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mavericks - clippers",
+   "busquedas": "100+",
+   "nota": "Clippers Mavericks Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/clippers-mavericks-basketball/image_914ddeb2-6f60-55ef-83a4-7ba4d5fb8106.html",
+   "medio": "Corsicana Daily Sun",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "kings - celtics",
+   "busquedas": "200+",
+   "nota": "Derrick White (shoulder) ruled out Saturday",
+   "nota_url": "https://www.fantasypros.com/nba/news/621717/derrick-white-shoulder-ruled-out-saturday.php",
+   "medio": "FantasyPros",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "a que hora es la carrera de f1",
+   "busquedas": "500+",
+   "nota": "Alex Palou, invitado de honor en el box de Aston Martin: no te pierdas nada del GP de Las Vegas F1 2026",
+   "nota_url": "https://soymotor.com/f1/noticias/no-te-pierdas-nada-del-gp-de-las-vegas-f1-2026",
+   "medio": "SoyMotor.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "desierto",
+   "busquedas": "1000+",
+   "nota": "Nuevo inventario botánico UC documenta floración histórica en Alto Patache, al sur de Iquique",
+   "nota_url": "https://www.uc.cl/noticias/nuevo-inventario-botanico-uc-documenta-floracion-historica-en-alto-patache-al-sur-de-iquique/",
+   "medio": "Pontificia Universidad Católica de Chile",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pilar smith",
    "busquedas": "200+",
-   "nota": "Pilar Smith confirmó que está conociendo a alguien tras su separación: quién es el misterioso hombre que conquistó su corazón",
-   "nota_url": "https://www.a24.com/primiciasya/pilar-smith-confirmo-que-esta-conociendo-alguien-su-separacion-quien-es-el-misterioso-hombre-que-conquisto-su-corazon-n1618123",
+   "nota": "Luis Ventura y Pilar Smith protagonizaron un picante cruce en los Martín Fierro de Uruguay: la versión que desató la polémica",
+   "nota_url": "https://www.a24.com/primiciasya/luis-ventura-y-pilar-smith-protagonizaron-un-picante-cruce-los-martin-fierro-uruguay-la-version-que-desato-la-polemica-n1618676",
    "medio": "A24.com",
    "relevante": false,
    "temas": []
@@ -152,65 +197,20 @@
    "temas": []
   },
   {
+   "tema": "timberwolves - grizzlies",
+   "busquedas": "200+",
+   "nota": "Grizzlies hope to keep road record perfect despite Cam Boozer injury",
+   "nota_url": "https://www.galvnews.com/news_reuters/sports/grizzlies-hope-to-keep-road-record-perfect-despite-cam-boozer-injury/article_e4d89e96-cb8c-51b7-a4ce-2436dd208c3c.html",
+   "medio": "The Daily News | Texas' Oldest Newspaper",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "laurita fernández",
    "busquedas": "100+",
-   "nota": "Laurita Fernández contó cómo fue su primera cita fallida con Matías Busquet",
-   "nota_url": "https://elintransigente.com/2026/11/21/laurita-fernandez-conto-como-fue-primera-cita-fallida-matias-busquet/",
-   "medio": "El Intransigente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - grizzlies",
-   "busquedas": "100+",
-   "nota": "Cameron Boozer to Miss First Game of the Season - NBA News | Fantasy Basketball",
-   "nota_url": "https://www.rotoballer.com/player-news/cameron-boozer-to-miss-first-game-of-the-season/1999929",
-   "medio": "RotoBaller",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gordon anibal",
-   "busquedas": "200+",
-   "nota": "El día que todo el país conoció a Aníbal Gordon: el secuestro de Guillermo Patricio Kelly y el comienzo del fin de un hombre tenebroso",
-   "nota_url": "https://tn.com.ar/politica/2026/11/21/el-dia-que-todo-el-pais-conocio-a-anibal-gordon-el-secuestro-de-guillermo-kelly-y-el-comienzo-del-fin-de-un-hombre-tenebroso/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alberto ades",
-   "busquedas": "200+",
-   "nota": "Reapareció Alberto Ades, habló de Riesgo País y evitó las críticas al plan de Caputo",
-   "nota_url": "https://www.perfil.com/economia/reaparecio-alberto-ades-hablo-de-riesgo-pais-y-evito-las-criticas-al-plan-de-caputo-af6OR9m0P7R2",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "clima mar del plata",
-   "busquedas": "500+",
-   "nota": "Clima en Pinamar hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/buenos-aires/pinamar/clima-en-pinamar-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cruzeiro",
-   "busquedas": "200+",
-   "nota": "Chapecoense é superada pelo Cruzeiro",
-   "nota_url": "https://chapecoense.com/2026/11/21/chapecoense-e-superada-pelo-cruzeiro/",
-   "medio": "chapecoense.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miss universo 2026",
-   "busquedas": "200+",
-   "nota": "Una ex Miss Universo será la presentadora del concurso de este año en Puerto Rico",
-   "nota_url": "https://tn.com.ar/estilo/moda/2026/11/18/una-ex-miss-universo-sera-la-presentadora-del-concurso-de-este-ano-en-puerto-rico/",
-   "medio": "TN",
+   "nota": "¡Horrible! Laurita Fernández reveló la asquerosa experiencia que tuvo en las primeras citas con Matías Busquet, su novio",
+   "nota_url": "https://www.paparazzi.com.ar/teve/horrible-laurita-fernandez-revelo-la-asquerosa-experiencia-que-tuvo-en-las-primeras-citas-con-matias-busquet-su-novio/",
+   "medio": "Revista Paparazzi",
    "relevante": false,
    "temas": []
   }
