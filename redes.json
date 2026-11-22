@@ -1,5 +1,5 @@
 {
- "actualizado": "22/11 07:37",
+ "actualizado": "22/11 08:35",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
+   "tema": "Herrera",
+   "url": "https://x.com/search?q=Herrera",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Herrera",
-   "url": "https://x.com/search?q=Herrera",
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Las Vegas",
+   "url": "https://x.com/search?q=Las%20Vegas",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Las Vegas",
-   "url": "https://x.com/search?q=Las%20Vegas",
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
    "relevante": false,
    "temas": []
   },
@@ -93,43 +93,61 @@
    "temas": []
   },
   {
-   "tema": "Gracias Boca",
-   "url": "https://x.com/search?q=Gracias%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "BOCA CAMPEÃN",
    "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lando",
-   "url": "https://x.com/search?q=Lando",
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Leclerc",
-   "url": "https://x.com/search?q=Leclerc",
+   "tema": "GRACIAS VASCO",
+   "url": "https://x.com/search?q=GRACIAS%20VASCO",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Oscar",
-   "url": "https://x.com/search?q=Oscar",
+   "tema": "Ferrari",
+   "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "juventus - venezia",
+   "busquedas": "500+",
+   "nota": "Diretta Juve-Venezia, oggi Serie A. Live risultato e classifica",
+   "nota_url": "https://www.adnkronos.com/sport/diretta-juve-venezia-oggi-serie-a-live_4USL95axNzKKgMLdzfcVGo",
+   "medio": "Adnkronos",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "2026",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "Iran’s Regime Deploys 60,000 Security Forces in Tehran Amid Fears of Renewed Uprising",
    "nota_url": "https://irannewsupdate.com/news/insider/irans-regime-deploys-60000-security-forces-in-tehran-amid-fears-of-renewed-uprising/",
    "medio": "Iran News Update",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sensacine",
+   "busquedas": "100+",
+   "nota": "Almodóvar dudó del fichaje de Guitarricadelafuente para 'La bola negra': «No basta con la imagen»",
+   "nota_url": "https://www.que.es/2026/11/22/guitarricadelafuente-bola-negra-almodovar-casting/",
+   "medio": "Qué.es",
    "relevante": false,
    "temas": []
   },
@@ -144,7 +162,7 @@
   },
   {
    "tema": "recesión",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
    "nota_url": "https://www.perfil.com/columnistas/javier-milei-inicia-este-martes-una-nueva-etapa-vivir-en-recesion-aGqdT1G1LGOd",
    "medio": "Perfil",
@@ -161,6 +179,15 @@
    "temas": []
   },
   {
+   "tema": "rafael grossi",
+   "busquedas": "100+",
+   "nota": "Grossi sumó un tercer veto de las potencias y la carrera por liderar la ONU sigue muy trabada",
+   "nota_url": "https://qpaso.ar/noticias/la-nacion/estados-unidos/grossi-sumo-un-tercer-veto-de-las-potencias-y-la-carrera-por-liderar-la-onu-sigue-muy-trabada-nid20112026",
+   "medio": "qpasó",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "clima cordoba",
    "busquedas": "500+",
    "nota": "Clima en Córdoba hoy domingo 22 de noviembre: cielo parcialmente nublado y temperatura agradable",
@@ -172,45 +199,18 @@
   {
    "tema": "campeonato de constructores f1 2026",
    "busquedas": "5000+",
-   "nota": "Así quedaron las posiciones de la Fórmula 1 tras el GP de Las Vegas",
-   "nota_url": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-vegas_0_9HgA2MAhOE.html",
-   "medio": "Olé",
+   "nota": "F1: Verstappen apostó fuerte y ganó en Las Vegas; Colapinto terminó sexto",
+   "nota_url": "https://campeones.com.ar/f1-verstappen-aposto-fuerte-y-gano-en-las-vegas-colapinto-termino-sexto/",
+   "medio": "Campeones",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bandera de las islas malvinas",
-   "busquedas": "1000+",
-   "nota": "Rodrigo Battaglia se acordó de las Islas Malvinas durante la coronación internacional de Boca",
-   "nota_url": "https://elcrackdeportivo.com.ar/boca/rodrigo-battaglia-se-acordo-de-las-islas-malvinas-durante-la-coronacion-internacional-de-boca-20261121-0061.html",
-   "medio": "El Crack Deportivo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "keanu reeves",
-   "busquedas": "500+",
-   "nota": "#TSRBeauty: #KimKardashian pulls up to her man’s races lookin like that girllllll chileeee 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
-   "nota_url": "https://www.instagram.com/p/DgBTptwAfoD/",
-   "medio": "Instagram",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chris pratt",
+   "tema": "campeonato de constructores f1",
    "busquedas": "200+",
-   "nota": "Chris Pratt Admits Avoiding One Awkward Conversation With Kids",
-   "nota_url": "https://www.aol.com/articles/chris-pratt-admits-avoiding-one-221637000.html",
-   "medio": "AOL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mckenna grace",
-   "busquedas": "100+",
-   "nota": "Interview: Mckenna Grace on the quiet rebellion of Maysilee Donner in The Hunger Games: Sunrise on the Reaping; \"Her anger and her morals don’t dissipate\"",
-   "nota_url": "https://www.theaureview.com/watch/interview-mckenna-grace-hunger-games/",
-   "medio": "The AU Review",
+   "nota": "Alpine sueña con el top 5: así quedó el campeonato de constructores de la F1 tras Las Vegas",
+   "nota_url": "https://www.carburando.com/formula-1/alpine-suena-con-el-top-5-asi-quedo-el-campeonato-de-constructores-de-la-f1-tras-las-vegas-id201278",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   }
