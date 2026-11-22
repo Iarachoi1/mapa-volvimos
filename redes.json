@@ -1,10 +1,22 @@
 {
- "actualizado": "22/11 06:39",
+ "actualizado": "22/11 07:37",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Franco",
    "url": "https://x.com/search?q=Franco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
@@ -15,14 +27,86 @@
    "temas": []
   },
   {
+   "tema": "Herrera",
+   "url": "https://x.com/search?q=Herrera",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Russell",
    "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sudamericana",
+   "url": "https://x.com/search?q=Sudamericana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Las Vegas",
    "url": "https://x.com/search?q=Las%20Vegas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Delgado",
+   "url": "https://x.com/search?q=Delgado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BOCA CAMPEÃN",
+   "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lando",
+   "url": "https://x.com/search?q=Lando",
    "relevante": false,
    "temas": []
   },
@@ -37,93 +121,45 @@
    "url": "https://x.com/search?q=Oscar",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Lando",
-   "url": "https://x.com/search?q=Lando",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Hamilton",
-   "url": "https://x.com/search?q=Hamilton",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ferrari",
-   "url": "https://x.com/search?q=Ferrari",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "McLaren",
-   "url": "https://x.com/search?q=McLaren",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Norris",
-   "url": "https://x.com/search?q=Norris",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Antonelli",
-   "url": "https://x.com/search?q=Antonelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gasly",
-   "url": "https://x.com/search?q=Gasly",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "FÃ³rmula 1",
-   "url": "https://x.com/search?q=F%C3%83%C2%B3rmula%201",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "CARRERÃN",
-   "url": "https://x.com/search?q=CARRER%C3%83%C2%93N",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Charles",
-   "url": "https://x.com/search?q=Charles",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Hadjar",
-   "url": "https://x.com/search?q=Hadjar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Franquito",
-   "url": "https://x.com/search?q=Franquito",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "2026",
+   "busquedas": "200+",
+   "nota": "Iran’s Regime Deploys 60,000 Security Forces in Tehran Amid Fears of Renewed Uprising",
+   "nota_url": "https://irannewsupdate.com/news/insider/irans-regime-deploys-60000-security-forces-in-tehran-amid-fears-of-renewed-uprising/",
+   "medio": "Iran News Update",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "página/12",
+   "busquedas": "100+",
+   "nota": "El Gobierno sin control de la crisis financiera",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/20/el-gobierno-sin-control-de-la-crisis-financiera/",
+   "medio": "Página|12",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "recesión",
+   "busquedas": "100+",
+   "nota": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
+   "nota_url": "https://www.perfil.com/columnistas/javier-milei-inicia-este-martes-una-nueva-etapa-vivir-en-recesion-aGqdT1G1LGOd",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "diario ole",
+   "busquedas": "10000+",
+   "nota": "Kevin Vallejos enfrentará a Aljamain Sterling en la UFC en Qatar y vaticinó otra coronación de gloria argentina en Doha",
+   "nota_url": "https://tn.com.ar/deportes/polideportivo/2026/11/21/kevin-vallejos-palpito-su-pelea-ante-aljamain-sterling-en-la-ufc-y-se-ilusiono-con-otra-consagracion-argentina-en-qatar/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "clima cordoba",
    "busquedas": "500+",
@@ -135,16 +171,16 @@
   },
   {
    "tema": "campeonato de constructores f1 2026",
-   "busquedas": "1000+",
-   "nota": "Recta final al rojo vivo: las cinco grandes incógnitas que quedan por resolver en la Fórmula 1",
-   "nota_url": "https://www.eldestapeweb.com/centroatras/motor/recta-final-rojo-vivo-cinco-grandes-incognitas-quedan-resolver-formula-1-20261119161824",
-   "medio": "El Destape",
+   "busquedas": "5000+",
+   "nota": "Así quedaron las posiciones de la Fórmula 1 tras el GP de Las Vegas",
+   "nota_url": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-vegas_0_9HgA2MAhOE.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bandera de las islas malvinas",
-   "busquedas": "2000+",
+   "busquedas": "1000+",
    "nota": "Rodrigo Battaglia se acordó de las Islas Malvinas durante la coronación internacional de Boca",
    "nota_url": "https://elcrackdeportivo.com.ar/boca/rodrigo-battaglia-se-acordo-de-las-islas-malvinas-durante-la-coronacion-internacional-de-boca-20261121-0061.html",
    "medio": "El Crack Deportivo",
@@ -163,18 +199,9 @@
   {
    "tema": "chris pratt",
    "busquedas": "200+",
-   "nota": "Disney and F1 are Teaming Up for the 2026 Las Vegas Grand Prix",
-   "nota_url": "https://www.soleretriever.com/news/articles/disney-f1-las-vegas-grand-prix-collabs",
-   "medio": "Sole Retriever",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "f1 vote",
-   "busquedas": "200+",
-   "nota": "F1 bosses reach agreement to introduce V8 engines in 2030",
-   "nota_url": "https://www.espn.com/f1/story/_/id/50472097/v8-engine-confirmed-formula-1",
-   "medio": "ESPN",
+   "nota": "Chris Pratt Admits Avoiding One Awkward Conversation With Kids",
+   "nota_url": "https://www.aol.com/articles/chris-pratt-admits-avoiding-one-221637000.html",
+   "medio": "AOL.com",
    "relevante": false,
    "temas": []
   },
@@ -184,33 +211,6 @@
    "nota": "Interview: Mckenna Grace on the quiet rebellion of Maysilee Donner in The Hunger Games: Sunrise on the Reaping; \"Her anger and her morals don’t dissipate\"",
    "nota_url": "https://www.theaureview.com/watch/interview-mckenna-grace-hunger-games/",
    "medio": "The AU Review",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "f1 hoy",
-   "busquedas": "2000+",
-   "nota": "Así quedaron las posiciones de la Fórmula 1 tras el GP de Las Vegas",
-   "nota_url": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-vegas_0_9HgA2MAhOE.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "wanda nara",
-   "busquedas": "200+",
-   "nota": "De la luna de miel al escándalo judicial: la mala noticia que recibieron Mauro Icardi y la China Suárez en su escapada a Uruguay",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/19/de-la-luna-de-miel-al-escandalo-judicial-la-mala-noticia-que-recibieron-mauro-icardi-y-la-china-suarez-en-su-escapada-a-uruguay/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "formula 1",
-   "busquedas": "20000+",
-   "nota": "La satisfacción de Colapinto por el resultado obtenido en el GP de Las Vegas",
-   "nota_url": "https://campeones.com.ar/la-satisfaccion-de-colapinto-por-el-resultado-obtenido-en-el-gp-de-las-vegas/",
-   "medio": "Campeones",
    "relevante": false,
    "temas": []
   }
