@@ -1,5 +1,5 @@
 {
- "actualizado": "22/11 11:40",
+ "actualizado": "22/11 12:35",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Paredes",
-   "url": "https://x.com/search?q=Paredes",
+   "tema": "Villa",
+   "url": "https://x.com/search?q=Villa",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Villa",
-   "url": "https://x.com/search?q=Villa",
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
   },
@@ -69,20 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tesla",
    "url": "https://x.com/search?q=Tesla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ascacibar",
-   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Boca CampeÃ³n",
-   "url": "https://x.com/search?q=Boca%20Campe%C3%83%C2%B3n",
+   "tema": "Ascacibar",
+   "url": "https://x.com/search?q=Ascacibar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenDomingo",
-   "url": "https://x.com/search?q=%23BuenDomingo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Gracias Boca",
-   "url": "https://x.com/search?q=Gracias%20Boca",
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +99,118 @@
    "temas": []
   },
   {
+   "tema": "Boca CampeÃ³n",
+   "url": "https://x.com/search?q=Boca%20Campe%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Ferrari",
    "url": "https://x.com/search?q=Ferrari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gracias Vasco",
+   "url": "https://x.com/search?q=Gracias%20Vasco",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "barca",
-   "busquedas": "200+",
-   "nota": "Liga, il Barcellona ospita il Villarreal, in serata l'Atletico Madrid visita il Getafe",
-   "nota_url": "https://www.diretta.it/news/calcio-laliga-liga-il-barcellona-ospita-il-villarreal-in-serata-l-atletico-madrid-visita-il-getafe/tSJUoWLs/",
-   "medio": "Diretta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sassuolo - genoa",
+   "tema": "luz veronica estrada holguin",
    "busquedas": "100+",
-   "nota": "✅ Sassuolo-Genoa, Bologna-Udinese: official XIs, Berardi, Davis, Odgaard 👀",
-   "nota_url": "https://onefootball.com/en/news/sassuolo-genoa-bologna-udinese-official-xis-berardi-davis-odgaard-43819099",
-   "medio": "OneFootball",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "poceada chaqueña",
-   "busquedas": "100+",
-   "nota": "La Poceada Chaqueña vuelve a sortearse este martes: ¿cuánto hay en juego?",
-   "nota_url": "https://www.diariochaco.com/700452-la-poceada-chaquena-vuelve-a-sortearse-este-martes-cuanto-hay-en-juego",
-   "medio": "Diario Chaco",
+   "tema": "posiciones de fc barcelona contra villarreal club de fútbol",
+   "busquedas": "5000+",
+   "nota": "How to watch Barcelona vs. Villarreal online for free",
+   "nota_url": "https://mashable.com/entertainment/barcelona-villarreal-la-liga-2026-live-stream-for-free",
+   "medio": "Mashable",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "temporal",
+   "tema": "moria casán",
    "busquedas": "200+",
-   "nota": "Clima hoy en Mar del Plata: el pronóstico del tiempo para este 21 noviembre 2026",
-   "nota_url": "https://www.infocampo.com.ar/clima-hoy-en-mar-del-plata-el-pronostico-del-tiempo-para-este-21-noviembre-2026/",
-   "medio": "Infocampo",
+   "nota": "Moria recordó su primera noche con Pato Galmarini y la frase que ayudó a distender el encuentro",
+   "nota_url": "https://www.contextotucuman.com/nota/429088/moria-recordo-su-primera-noche-con-pato-galmarini-y-la-frase-que-ayudo-a-distender-el-encuentro.html",
+   "medio": "Contexto Tucumán",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "motogp",
-   "busquedas": "200+",
-   "nota": "ARCHIVE: Marquez taking cautious approach in Portugal as he chases MotoGP history",
-   "nota_url": "https://www.reutersconnect.com/collection/archive-marquez-taking-cautious-approach-in-portugal-as-he-chases-motogp-history/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNjQ1NjA2MTEyMDI2UlAx",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marc márquez",
+   "tema": "paris fc",
    "busquedas": "100+",
-   "nota": "Marc Márquez deja atrás a Valentino Rossi y solo tiene a Nieto y Agostini por delante",
-   "nota_url": "https://lat.motorsport.com/motogp/news/marc-marquez-deja-atras-a-valentino-rossi-y-solo-tiene-a-nieto-y-agostini-por-delante/10876975/",
-   "medio": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
+   "nota": "Paris FC vs Angers tickets: Ligue 1 in Paris 2026/27",
+   "nota_url": "https://karlobag.eu/en/sports/news/paris-fc-vs-angers-tickets-ligue-1-in-paris-2026-27-gldf0/",
+   "medio": "KarloBag.eu",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de juventus contra venezia football club",
+   "tema": "feriado 23 de noviembre",
+   "busquedas": "100+",
+   "nota": "Calendario 2026: cuándo es el feriado por el Día de la Soberanía Nacional",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/20/calendario-2026-cuando-es-el-feriado-por-el-dia-de-la-soberania-nacional/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero hoy",
+   "busquedas": "100+",
+   "nota": "VIDEO: resumen goles repechaje de la Copa Potrero 2026",
+   "nota_url": "https://www.espn.com.mx/futbol/argentina/nota/_/id/17533143/video-copa-potrero-2026-resumen-goles-repechaje",
+   "medio": "ESPN México",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "argentina sub-17 - selección de fútbol sub-17 de mozambique",
+   "busquedas": "5000+",
+   "nota": "Argentina vs. Mozambique, por el Mundial Sub 17: horario, formaciones y dónde ver en vivo",
+   "nota_url": "https://www.tycsports.com/competencias-y-deportes/fifa-mundial-sub-17-qatar-2026-argentina-vs-mozambique-grupo-c-fecha-2-id772506.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rosario central",
    "busquedas": "500+",
-   "nota": "[LIVESTREAMs] Paris FC VS Angers Live Free Soccer Football November 22, 2026",
-   "nota_url": "https://www.tallahatchienews.ms/node/457161",
-   "medio": "Charleston Sun-Sentinel",
+   "nota": "Volver a la final, la meta de Rosario Central de cara a los playoff",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/la-meta-de-rosario-central-de-cara-a-los-playoff-id772477.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "miley cyrus",
+   "tema": "bolonia - udinese",
+   "busquedas": "100+",
+   "nota": "Bologna vs Udinese predictions today (2pm KO): Ekkelenkamp shots and a 13/5 Bologna win with BTTS",
+   "nota_url": "https://www.squawka.com/en/news/previews/bologna-vs-udinese-predictions-today-22-11-2026/",
+   "medio": "Squawka",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "depósito a plazo fijo",
    "busquedas": "200+",
-   "nota": "Miley Cyrus Marries Maxx Morando in Palm Springs Wedding",
-   "nota_url": "https://people.com/miley-cyrus-marries-maxx-morando-11877139",
-   "medio": "People.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hull city - brighton",
-   "busquedas": "1000+",
-   "nota": "Hull vs Brighton predictions: 8-1 Bet Builder tip, team news and odds",
-   "nota_url": "https://www.racingpost.com/sport/football-tips/premier-league/hull-vs-brighton-betting-tips-predictions-team-news-odds-bet-builder-aJVMB1b3Gq0l/",
-   "medio": "Racing Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barcelona - villarreal",
-   "busquedas": "50000+",
-   "nota": "Barcelona - Villarreal en directo | Gerard Martín y Fermín empatan el partido en cuatro minutos",
-   "nota_url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
-   "medio": "EL PAÍS",
+   "nota": "Cuánto ganás con $2 millones en plazo fijo Banco Santander tras suba de tasa",
+   "nota_url": "https://www.iprofesional.com/finanzas/469465-cuanto-ganas-con-2-millones-de-pesos-en-plazo-fijo-banco-santander-tras-suba-de-tasa",
+   "medio": "iProfesional",
    "relevante": false,
    "temas": []
   }
