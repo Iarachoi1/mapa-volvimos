@@ -1,10 +1,10 @@
 {
- "actualizado": "21/11 22:57",
+ "actualizado": "21/11 23:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
+   "tema": "Paredes",
+   "url": "https://x.com/search?q=Paredes",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Delgado",
+   "url": "https://x.com/search?q=Delgado",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Delgado",
-   "url": "https://x.com/search?q=Delgado",
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
@@ -45,20 +51,14 @@
    "temas": []
   },
   {
-   "tema": "Gracias Boca",
-   "url": "https://x.com/search?q=Gracias%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "BOCA CAMPEÃN",
    "url": "https://x.com/search?q=BOCA%20CAMPE%C3%83%C2%93N",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Vamos Boca",
-   "url": "https://x.com/search?q=Vamos%20Boca",
+   "tema": "Gracias Boca",
+   "url": "https://x.com/search?q=Gracias%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -75,32 +75,8 @@
    "temas": []
   },
   {
-   "tema": "DomÃ­nguez",
-   "url": "https://x.com/search?q=Dom%C3%83%C2%ADnguez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Aranda",
-   "url": "https://x.com/search?q=Aranda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Arruabarrena",
-   "url": "https://x.com/search?q=Arruabarrena",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Coudet",
-   "url": "https://x.com/search?q=Coudet",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
+   "tema": "Vamos Boca",
+   "url": "https://x.com/search?q=Vamos%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -111,19 +87,106 @@
    "temas": []
   },
   {
-   "tema": "Valencia",
-   "url": "https://x.com/search?q=Valencia",
+   "tema": "#BocaJuniors",
+   "url": "https://x.com/search?q=%23BocaJuniors",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "SIGAN VIENDO",
-   "url": "https://x.com/search?q=SIGAN%20VIENDO",
+   "tema": "DomÃ­nguez",
+   "url": "https://x.com/search?q=Dom%C3%83%C2%ADnguez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Arruabarrena",
+   "url": "https://x.com/search?q=Arruabarrena",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Di Carlo",
+   "url": "https://x.com/search?q=Di%20Carlo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Aranda",
+   "url": "https://x.com/search?q=Aranda",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Vasco",
+   "url": "https://x.com/search?q=El%20Vasco",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "las vegas f1",
+   "busquedas": "100+",
+   "nota": "Antonelli says he made the decision to run at the back of the field in qualifying",
+   "nota_url": "https://www.racefans.net/2026/11/21/antonelli-says-he-made-the-decision-to-run-at-the-back-of-the-field-in-qualifying/",
+   "medio": "RaceFans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pilar smith",
+   "busquedas": "200+",
+   "nota": "Pilar Smith confirmó que está conociendo a alguien tras su separación: quién es el misterioso hombre que conquistó su corazón",
+   "nota_url": "https://www.a24.com/primiciasya/pilar-smith-confirmo-que-esta-conociendo-alguien-su-separacion-quien-es-el-misterioso-hombre-que-conquisto-su-corazon-n1618123",
+   "medio": "A24.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "policía del chaco",
+   "busquedas": "200+",
+   "nota": "La madre de Axel González denuncia a la policía del Chaco por la desaparición de su hijo",
+   "nota_url": "https://www.cadena3.com/noticia/sociedad/la-madre-de-axel-gonzalez-denuncia-a-la-policia-del-chaco-por-la-desaparicion-de-su-hijo_615289",
+   "medio": "Cadena 3 Argentina",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "laurita fernández",
+   "busquedas": "100+",
+   "nota": "Laurita Fernández contó cómo fue su primera cita fallida con Matías Busquet",
+   "nota_url": "https://elintransigente.com/2026/11/21/laurita-fernandez-conto-como-fue-primera-cita-fallida-matias-busquet/",
+   "medio": "El Intransigente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - grizzlies",
+   "busquedas": "100+",
+   "nota": "Cameron Boozer to Miss First Game of the Season - NBA News | Fantasy Basketball",
+   "nota_url": "https://www.rotoballer.com/player-news/cameron-boozer-to-miss-first-game-of-the-season/1999929",
+   "medio": "RotoBaller",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gordon anibal",
+   "busquedas": "200+",
+   "nota": "El día que todo el país conoció a Aníbal Gordon: el secuestro de Guillermo Patricio Kelly y el comienzo del fin de un hombre tenebroso",
+   "nota_url": "https://tn.com.ar/politica/2026/11/21/el-dia-que-todo-el-pais-conocio-a-anibal-gordon-el-secuestro-de-guillermo-kelly-y-el-comienzo-del-fin-de-un-hombre-tenebroso/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alberto ades",
+   "busquedas": "200+",
+   "nota": "Reapareció Alberto Ades, habló de Riesgo País y evitó las críticas al plan de Caputo",
+   "nota_url": "https://www.perfil.com/economia/reaparecio-alberto-ades-hablo-de-riesgo-pais-y-evito-las-criticas-al-plan-de-caputo-af6OR9m0P7R2",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
   {
    "tema": "clima mar del plata",
    "busquedas": "500+",
@@ -134,83 +197,20 @@
    "temas": []
   },
   {
-   "tema": "alberto ades",
-   "busquedas": "100+",
-   "nota": "Reapareció Alberto Ades, habló de Riesgo País y evitó las críticas al plan de Caputo",
-   "nota_url": "https://www.perfil.com/economia/reaparecio-alberto-ades-hablo-de-riesgo-pais-y-evito-las-criticas-al-plan-de-caputo-af6OR9m0P7R2",
-   "medio": "Perfil",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "cruzeiro",
    "busquedas": "200+",
-   "nota": "Athletico-PR x Remo: onde assistir ao vivo e horário (22/11)",
-   "nota_url": "https://gameoverdrive.com.br/athletico-pr-x-remo-onde-assistir-22-11-2026/",
-   "medio": "Game Overdrive",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "parque lezama",
-   "busquedas": "200+",
-   "nota": "Boca campeón de la Copa Sudamericana 2026: llegó a las 76 estrellas, cortó 18 años de sequía internacional y superó a Independiente",
-   "nota_url": "https://www.clarin.com/deportes/boca-campeon-copa-sudamericana-2026-llego-76-estrellas-corto-18-anos-sequia-internacional-supero-independiente_0_WOZ8vhhBqn.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "boca proximos partidos",
-   "busquedas": "100+",
-   "nota": "Boca y una chance histórica: los caminos que lo conducen a ganar hasta nueve títulos",
-   "nota_url": "https://www.ole.com.ar/boca-juniors/boca-titulos-2026-2027-historico-arruabarrena_0_XnRExdN9HV.html",
-   "medio": "Olé",
+   "nota": "Chapecoense é superada pelo Cruzeiro",
+   "nota_url": "https://chapecoense.com/2026/11/21/chapecoense-e-superada-pelo-cruzeiro/",
+   "medio": "chapecoense.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "miss universo 2026",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Una ex Miss Universo será la presentadora del concurso de este año en Puerto Rico",
    "nota_url": "https://tn.com.ar/estilo/moda/2026/11/18/una-ex-miss-universo-sera-la-presentadora-del-concurso-de-este-ano-en-puerto-rico/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "river",
-   "busquedas": "2000+",
-   "nota": "Ver River Plate vs Lanús en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/ver-river-plate-vs-lanus-en-directo-hoy-quien-retransmite-el-partido-por-television-y-en-streaming/blt89ca1b856d99f0cb",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "desierto de atacama",
-   "busquedas": "200+",
-   "nota": "Nuevo inventario botánico UC documenta floración histórica en Alto Patache, al sur de Iquique",
-   "nota_url": "https://www.uc.cl/noticias/nuevo-inventario-botanico-uc-documenta-floracion-historica-en-alto-patache-al-sur-de-iquique/",
-   "medio": "Pontificia Universidad Católica de Chile",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pumas - monterrey",
-   "busquedas": "200+",
-   "nota": "¡A ciegas! Pumas no sabrá de otros resultados previo a J17",
-   "nota_url": "https://www.tudn.com/futbol/liga-mx/pumas-buscara-milagro-de-liguilla-sin-saber-si-ya-esta-eliminado",
-   "medio": "TUDN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "scuderia ferrari",
-   "busquedas": "100+",
-   "nota": "Charles Leclerc admits major Ferrari oversight due to 'weakness' and miscalculation",
-   "nota_url": "https://racingnews365.com/ferrari-did-not-discuss-vital-las-vegas-tactic-due-to-weakness-and-miscalculation",
-   "medio": "RacingNews365",
    "relevante": false,
    "temas": []
   }
