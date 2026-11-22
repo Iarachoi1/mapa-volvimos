@@ -1,5 +1,5 @@
 {
- "actualizado": "22/11 03:50",
+ "actualizado": "22/11 05:01",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -69,14 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Gasly",
-   "url": "https://x.com/search?q=Gasly",
+   "tema": "Carreron",
+   "url": "https://x.com/search?q=Carreron",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Carreron",
-   "url": "https://x.com/search?q=Carreron",
+   "tema": "Gasly",
+   "url": "https://x.com/search?q=Gasly",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +87,14 @@
    "temas": []
   },
   {
-   "tema": "#vamosnene",
-   "url": "https://x.com/search?q=%23vamosnene",
+   "tema": "Alpine",
+   "url": "https://x.com/search?q=Alpine",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Keanu Reeves",
-   "url": "https://x.com/search?q=Keanu%20Reeves",
+   "tema": "#vamosnene",
+   "url": "https://x.com/search?q=%23vamosnene",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +105,34 @@
    "temas": []
   },
   {
-   "tema": "Alpine",
-   "url": "https://x.com/search?q=Alpine",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "FÃ³rmula 1",
    "url": "https://x.com/search?q=F%C3%83%C2%B3rmula%201",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Franquito",
-   "url": "https://x.com/search?q=Franquito",
+   "tema": "Keanu Reeves",
+   "url": "https://x.com/search?q=Keanu%20Reeves",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Charles",
+   "url": "https://x.com/search?q=Charles",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "clima cordoba",
+   "busquedas": "500+",
+   "nota": "Clima en Córdoba Observatorio hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/cordoba/clima-en-cordoba-observatorio-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "bandera de las islas malvinas",
    "busquedas": "1000+",
@@ -134,11 +143,29 @@
    "temas": []
   },
   {
+   "tema": "piastri",
+   "busquedas": "200+",
+   "nota": "'I want to fight for the victory' in Las Vegas – Russell",
+   "nota_url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
+   "medio": "Formula 1",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "keanu reeves",
    "busquedas": "500+",
    "nota": "#TSRBeauty: #KimKardashian pulls up to her man’s races lookin like that girllllll chileeee 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
    "nota_url": "https://www.instagram.com/p/DgBTptwAfoD/",
    "medio": "Instagram",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones f1",
+   "busquedas": "1000+",
+   "nota": "Así quedaron las posiciones de la Fórmula 1 tras el GP de Las Vegas",
+   "nota_url": "https://www.ole.com.ar/autos/quedaron-posiciones-formula-1-gp-vegas_0_9HgA2MAhOE.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
@@ -154,18 +181,9 @@
   {
    "tema": "f1 vote",
    "busquedas": "200+",
-   "nota": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
-   "nota_url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
-   "medio": "The Guardian",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "verstappen",
-   "busquedas": "1000+",
-   "nota": "Insólito toque entre Russell y Verstappen en la FP3 de la F1 en Las Vegas",
-   "nota_url": "https://www.tycsports.com/automovilismo/formula-1-gran-premio-de-las-vegas-fp3-insolito-toque-george-russell-max-verstappen-id772445.html",
-   "medio": "TyC Sports",
+   "nota": "F1 bosses reach agreement to introduce V8 engines in 2030",
+   "nota_url": "https://www.espn.com/f1/story/_/id/50472097/v8-engine-confirmed-formula-1",
+   "medio": "ESPN",
    "relevante": false,
    "temas": []
   },
@@ -182,7 +200,7 @@
    "tema": "f1 hoy",
    "busquedas": "2000+",
    "nota": "Recta final al rojo vivo: las cinco grandes incógnitas que quedan por resolver en la Fórmula 1",
-   "nota_url": "https://www.eldestapeweb.com/deportes/recta-final-rojo-vivo-cinco-grandes-incognitas-quedan-resolver-formula-1-20261119161824",
+   "nota_url": "https://www.eldestapeweb.com/centroatras/motor/recta-final-rojo-vivo-cinco-grandes-incognitas-quedan-resolver-formula-1-20261119161824",
    "medio": "El Destape",
    "relevante": false,
    "temas": []
@@ -193,24 +211,6 @@
    "nota": "Cómo hizo Wanda Nara para bajar de peso",
    "nota_url": "https://labandadiario.com/como-hizo-wanda-nara-para-bajar-de-peso/",
    "medio": "La Banda Diario",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "formula 1",
-   "busquedas": "20000+",
-   "nota": "F1 GP de Las Vegas, EN VIVO: cómo terminó Colapinto, quién ganó la carrera y las posiciones finales de la Fórmula 1",
-   "nota_url": "https://www.clarin.com/deportes/f1-gp-vegas-franco-colapinto-vivo-horario-carrera-ver-formula-1-hoy_0_6NCF3MAs8G.html",
-   "medio": "Clarín",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maxx morando",
-   "busquedas": "100+",
-   "nota": "Miley Cyrus and Maxx Morando Are Married",
-   "nota_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
-   "medio": "The Hollywood Reporter",
    "relevante": false,
    "temas": []
   }
