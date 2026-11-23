@@ -1,10 +1,10 @@
 {
- "actualizado": "22/11 21:41",
+ "actualizado": "22/11 23:06",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Izquierdoz",
-   "url": "https://x.com/search?q=Izquierdoz",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
@@ -15,26 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Galvan",
-   "url": "https://x.com/search?q=Galvan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AcuÃ±a",
-   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
    "relevante": false,
    "temas": []
   },
@@ -45,26 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Otamendi",
-   "url": "https://x.com/search?q=Otamendi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "LanÃºs",
    "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Pereyra",
-   "url": "https://x.com/search?q=Pereyra",
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -75,26 +45,8 @@
    "temas": []
   },
   {
-   "tema": "BeltrÃ¡n",
-   "url": "https://x.com/search?q=Beltr%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ortega",
-   "url": "https://x.com/search?q=Ortega",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
+   "tema": "Izquierdoz",
+   "url": "https://x.com/search?q=Izquierdoz",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +57,56 @@
    "temas": []
   },
   {
-   "tema": "Rosca Floja",
-   "url": "https://x.com/search?q=Rosca%20Floja",
+   "tema": "Galvan",
+   "url": "https://x.com/search?q=Galvan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AcuÃ±a",
+   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ortega",
+   "url": "https://x.com/search?q=Ortega",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Besozzi",
+   "url": "https://x.com/search?q=Besozzi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Valois",
+   "url": "https://x.com/search?q=Valois",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Otamendi",
+   "url": "https://x.com/search?q=Otamendi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BeltrÃ¡n",
+   "url": "https://x.com/search?q=Beltr%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Salvio",
+   "url": "https://x.com/search?q=Salvio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Souto",
+   "url": "https://x.com/search?q=Souto",
    "relevante": false,
    "temas": []
   },
@@ -117,101 +117,101 @@
    "temas": []
   },
   {
-   "tema": "#integracionformulera",
-   "url": "https://x.com/search?q=%23integracionformulera",
+   "tema": "Pereyra",
+   "url": "https://x.com/search?q=Pereyra",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "jornada laboral",
+   "tema": "ricardo fort",
+   "busquedas": "100+",
+   "nota": "El polémico gesto de Pablo Migliore que provocó rumores de romance con Marta Fort",
+   "nota_url": "https://exitoina.perfil.com/noticias/corazon/gesto-pablo-migliore-rumores-romance-con-marta-fort.phtml",
+   "medio": "Exitoina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "detención",
+   "busquedas": "100+",
+   "nota": "Gobernador de Washington afirma que ICE está \"fuera de control\" tras arrestos en un aeropuerto",
+   "nota_url": "https://www.lanacion.com.ar/estados-unidos/gobernador-de-washington-afirma-que-ice-esta-fuera-de-control-tras-arrestos-en-un-aeropuerto-nid22112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "juan bautista mahiques",
    "busquedas": "200+",
-   "nota": "Los trabajadores brasileños tendrán dos días de descanso semanal remunerado y una jornada máxima de 40 horas.",
-   "nota_url": "https://diariochilecito.com/los-trabajadores-brasilenos-tendran-dos-dias-de-descanso-semanal-remunerado-y-una-jornada-maxima-de-40-horas/",
-   "medio": "Diario Chilecito",
+   "nota": "Mahiques presentó ante la OEA las políticas de la Argentina para fortalecer la lucha contra el narcotráfico",
+   "nota_url": "https://www.argentina.gob.ar/noticias/mahiques-presento-ante-la-oea-las-politicas-de-la-argentina-para-fortalecer-la-lucha-contra",
+   "medio": "Argentina.gob.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "knicks - pacers",
+   "busquedas": "200+",
+   "nota": "Jaxson Hayes (knee) questionable to return Sunday",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/jaxson-hayes-knee-questionable-to-return-sunday",
+   "medio": "NBC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sofia jujuy",
+   "busquedas": "200+",
+   "nota": "Quién es Gustavo Qüerio Hormaechea, el misterioso empresario que será papá junto a Sofía Jujuy Jiménez",
+   "nota_url": "https://www.a24.com/trends/quien-es-gustavo-querio-hormaechea-el-misterioso-empresario-que-sera-papa-junto-sofia-jujuy-jimenez-n1617296",
+   "medio": "A24.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "warriors - celtics",
+   "busquedas": "1000+",
+   "nota": "Jayson Tatum (rest) back in lineup Sunday",
+   "nota_url": "https://www.fantasypros.com/nba/news/621894/jayson-tatum-rest-back-lineup-sunday.php",
+   "medio": "FantasyPros",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "telekino",
+   "busquedas": "2000+",
+   "nota": "Telekino 2455: todos los premios del sorteo de este domingo 22 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/loterias/telekino-2455-todos-los-premios-del-sorteo-de-este-domingo-22-de-noviembre-nid22112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jazz - mavericks",
+   "busquedas": "100+",
+   "nota": "Mavericks vs. Jazz Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 22",
+   "nota_url": "https://www.si.com/betting/mavericks-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-22-2026",
+   "medio": "Sports Illustrated",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jornada laboral",
+   "busquedas": "500+",
+   "nota": "Brasil: Lula reglamentó la eliminación de la jornada laboral 6x1",
+   "nota_url": "https://www.politicargentina.com/notas/202611/77228-brasil-lula-reglamento-la-eliminacion-de-la-jornada-laboral-6x1.html",
+   "medio": "Política Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "demanda colectiva",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Proceso judicial colectivo por el show que Shakira cortó antes de tiempo",
    "nota_url": "https://villamariaya.com/judiciales/proceso-judicial-colectivo-por-el-show-que-shakira-corto-antes-de-tiempo_1795335884",
    "medio": "Villa Maria Ya",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "racing club",
-   "busquedas": "500+",
-   "nota": "Racing iría en busca de un lateral del Brasileirao",
-   "nota_url": "https://www.racingdealma.com.ar/racing-braian-aguirre-inter-porto-alegre/",
-   "medio": "Racing de Alma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bulls - nuggets",
-   "busquedas": "200+",
-   "nota": "Denver Nuggets Injury Report: Every Status vs. Chicago Bulls",
-   "nota_url": "https://sports.yahoo.com/articles/denver-nuggets-injury-report-every-172412138.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sorteo telekino",
-   "busquedas": "200+",
-   "nota": "Resultados del Telekino de hoy: controlá tu boleta del Domingo, 22 de noviembre",
-   "nota_url": "https://www.eldestapeweb.com/atr/resultados-del-telekino-de-hoy-controla-tu-boleta-del-domingo-22-de-noviembre-2026112216011",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pro",
-   "busquedas": "100+",
-   "nota": "Hernán Lacunza: “El Gobierno cambia el sistema electoral porque la paciencia social no le va a alcanzar”",
-   "nota_url": "https://www.infobae.com/politica/2026/11/22/hernan-lacunza-el-gobierno-cambia-el-sistema-electoral-porque-la-paciencia-social-no-le-va-a-alcanzar/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de liga de quito contra aucas",
-   "busquedas": "200+",
-   "nota": "LDU Quito - Aucas | Pronóstico y cuotas 22.11.2026",
-   "nota_url": "https://as.com/apuestas/pronosticos/ldu-quito-vs-aucas-pronostico-22-11-2026/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "instituto",
-   "busquedas": "5000+",
-   "nota": "Instituto vs. Huracán por los octavos de final de la Liga Profesional: a qué hora juegan y cómo seguir el partido en vivo",
-   "nota_url": "https://eldoce.tv/deportes/futbol/2026/11/22/instituto-vs-huracan-por-los-octavos-de-final-de-la-liga-profesional-a-que-hora-juegan-y-como-seguir-el-partido-en-vivo/",
-   "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cruces liga argentina",
-   "busquedas": "500+",
-   "nota": "Cuartos Liga Argentina 2026: cuándo se juegan, las fechas y los cruces",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/cuartos-liga-argentina-2026-cuando-se-juegan-fecha-y-los-cruces-id772001.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "play off",
-   "busquedas": "100+",
-   "nota": "Todd Monken or Andrew Berry? Who Deserves the Most Credit for the Browns’ 6-4 Start?",
-   "nota_url": "https://www.audacy.com/923thefan/video/todd-monken-or-andrew-berry-who-deserves-the-most-credit-for-the-browns-6-4-start-xbyw2tm",
-   "medio": "Audacy",
-   "relevante": false,
    "temas": []
   }
  ],
