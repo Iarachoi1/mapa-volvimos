@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 07:53",
+ "actualizado": "23/11 08:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,26 +27,14 @@
    "temas": []
   },
   {
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "LanÃºs",
    "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Driussi",
-   "url": "https://x.com/search?q=Driussi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Ponzio",
-   "url": "https://x.com/search?q=Ponzio",
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Franco",
-   "url": "https://x.com/search?q=Franco",
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +69,20 @@
    "temas": []
   },
   {
+   "tema": "DRIUSSI",
+   "url": "https://x.com/search?q=DRIUSSI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Franco",
+   "url": "https://x.com/search?q=Franco",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Souto",
    "url": "https://x.com/search?q=Souto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -105,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Herrera",
-   "url": "https://x.com/search?q=Herrera",
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
    "relevante": false,
    "temas": []
   },
@@ -121,9 +109,39 @@
    "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tesla",
+   "url": "https://x.com/search?q=Tesla",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "irán",
+   "busquedas": "100+",
+   "nota": "Trump llama “inútiles” a las negociaciones con Irán y amenaza con reanudar bombardeos",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/22/eeuu/video/amenaza-trump-bombardeos-iran-mirador-mundial-tv",
+   "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "23 de noviembre",
+   "busquedas": "100+",
+   "nota": "Horóscopo de Mizada Mohamed de la semana del 23 al 29 de noviembre 2026: las predicciones para los 12 signos zodiacales",
+   "nota_url": "https://www.ambito.com/mexico/espiritualidad/horoscopo-mizada-mohamed-la-semana-del-23-al-29-noviembre-2026-las-predicciones-los-12-signos-zodiacales-n6348150",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "canal 13",
    "busquedas": "100+",
@@ -135,7 +153,7 @@
   },
   {
    "tema": "mala fama",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "La particular historia detrás de \"La parabronca\", la pizza de Hernán de Mala Fama que sorprendió a Martitegui",
    "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/23/la-particular-historia-detras-de-la-parabronca-la-pizza-de-hernan-de-mala-fama-que-sorprendio-a-martitegui/",
    "medio": "Ciudad Magazine",
@@ -152,17 +170,35 @@
    "temas": []
   },
   {
+   "tema": "chris rock",
+   "busquedas": "100+",
+   "nota": "From London to Paris, Berlin and Madrid, GQ Men of the Year Delivers a Menswear Mix",
+   "nota_url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/london-paris-berlin-madrid-gq-233220554.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "diego simeone",
-   "busquedas": "1000+",
-   "nota": "Simeone, técnico con más victorias en la historia de LaLiga",
-   "nota_url": "https://www.atleticodemadrid.com/noticias/simeone-tecnico-con-mas-victorias-en-la-historia-de-laliga",
-   "medio": "Página oficial del Atlético de Madrid",
+   "busquedas": "2000+",
+   "nota": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y el Cholo Simeone alcanzó un récord histórico en España",
+   "nota_url": "https://www.clarin.com/deportes/atletico-madrid-goleo-getafe-asistencias-julian-alvarez-cholo-simeone-alcanzo-record-historico-espana_0_wPYDHVZ8I7.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inversión",
+   "busquedas": "200+",
+   "nota": "La importancia del orden macro para impulsar proyectos de inversión… ¿es suficiente?",
+   "nota_url": "https://www.infobae.com/opinion/2026/11/22/la-importancia-del-orden-macro-para-impulsar-proyectos-de-inversion-es-suficiente/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "longevidad",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Longevidad: el hábito cotidiano que más pesa, según expertos",
    "nota_url": "https://www.identidadcorrentina.com.ar/noticia/46825_longevidad-el-hbito-cotidiano-que-ms-pesa-segn-expertos.htm",
    "medio": "Identidad Correntina",
@@ -172,45 +208,9 @@
   {
    "tema": "leonardo ponzio",
    "busquedas": "200+",
-   "nota": "Ponzio: \"Me gané el lugar\" y \"¿cómo no voy a querer ser DT de River?\"",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17550732/river-vs-lanus-torneo-clausura-conferencia-ponzio-futuro",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tiempo en cordoba",
-   "busquedas": "100+",
-   "nota": "🟡​ Hay alerta amarilla por tormentas y vientos de hasta 90 km/h en seis provincias para hoy",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/23/hay-alerta-amarilla-por-tormentas-y-vientos-de-hasta-90-kmh-en-seis-provincias-para-hoy/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "giuliano cerato",
-   "busquedas": "100+",
-   "nota": "Instituto, del festejo a las lágrimas: salieron lesionados Lázaro y Luna; qué dijo el DT",
-   "nota_url": "https://viapais.com.ar/cordoba/instituto-festejo-lagrimas-salieron-lesionados-lazaro-luna-figuras_0_pcNDe1EJWr.html",
-   "medio": "Vía País",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sorteo quini 6",
-   "busquedas": "2000+",
-   "nota": "Cuál es el pozo del Quini 6 para el sorteo de este domingo 22 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/loterias/cual-es-el-pozo-del-quini-6-para-el-sorteo-de-este-domingo-22-de-noviembre-nid22112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fiesta nacional del sol",
-   "busquedas": "200+",
-   "nota": "Ya llega la Fiesta Nacional del Sol 2026 con importantes shows: dónde y cuándo será",
-   "nota_url": "https://radiomitre.cienradios.com/sociedad/ya-llega-la-fiesta-nacional-del-sol-2026-con-importantes-shows-donde-y-cuando-sera/",
-   "medio": "Radio Mitre",
+   "nota": "El contundente mensaje de Ponzio tras el triunfo de River ante Lanús: “Me gané el lugar que tengo, quiero ser el entrenador”",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/23/el-contundente-mensaje-de-ponzio-tras-el-triunfo-de-river-ante-lanus-me-gane-el-lugar-que-tengo-quiero-ser-el-entrenador/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
