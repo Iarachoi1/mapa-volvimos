@@ -1,10 +1,16 @@
 {
- "actualizado": "22/11 20:31",
+ "actualizado": "22/11 21:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Izquierdoz",
    "url": "https://x.com/search?q=Izquierdoz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Andrada",
+   "url": "https://x.com/search?q=Andrada",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Otamendi",
-   "url": "https://x.com/search?q=Otamendi",
+   "tema": "AcuÃ±a",
+   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +39,38 @@
    "temas": []
   },
   {
-   "tema": "AcuÃ±a",
-   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
+   "tema": "Driussi",
+   "url": "https://x.com/search?q=Driussi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
+   "tema": "Otamendi",
+   "url": "https://x.com/search?q=Otamendi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pereyra",
+   "url": "https://x.com/search?q=Pereyra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +87,14 @@
    "temas": []
   },
   {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
+   "tema": "Ortega",
+   "url": "https://x.com/search?q=Ortega",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Rosca Floja",
-   "url": "https://x.com/search?q=Rosca%20Floja",
+   "tema": "Souto",
+   "url": "https://x.com/search?q=Souto",
    "relevante": false,
    "temas": []
   },
@@ -81,136 +105,112 @@
    "temas": []
   },
   {
-   "tema": "Ponzio",
-   "url": "https://x.com/search?q=Ponzio",
+   "tema": "Rosca Floja",
+   "url": "https://x.com/search?q=Rosca%20Floja",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Marcelino",
+   "url": "https://x.com/search?q=Marcelino",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Thiago Almada",
-   "url": "https://x.com/search?q=Thiago%20Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pereyra",
-   "url": "https://x.com/search?q=Pereyra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Copetti",
-   "url": "https://x.com/search?q=Copetti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Campaz",
-   "url": "https://x.com/search?q=Campaz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cali",
-   "url": "https://x.com/search?q=Cali",
+   "tema": "#integracionformulera",
+   "url": "https://x.com/search?q=%23integracionformulera",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "heat - thunder",
+   "tema": "jornada laboral",
    "busquedas": "200+",
-   "nota": "Thunder vs Heat Prediction, Pick, NBA Odds for Sunday, November 22",
-   "nota_url": "https://sports.yahoo.com/articles/thunder-vs-heat-prediction-pick-142610669.html",
+   "nota": "Los trabajadores brasileños tendrán dos días de descanso semanal remunerado y una jornada máxima de 40 horas.",
+   "nota_url": "https://diariochilecito.com/los-trabajadores-brasilenos-tendran-dos-dias-de-descanso-semanal-remunerado-y-una-jornada-maxima-de-40-horas/",
+   "medio": "Diario Chilecito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "demanda colectiva",
+   "busquedas": "100+",
+   "nota": "Proceso judicial colectivo por el show que Shakira cortó antes de tiempo",
+   "nota_url": "https://villamariaya.com/judiciales/proceso-judicial-colectivo-por-el-show-que-shakira-corto-antes-de-tiempo_1795335884",
+   "medio": "Villa Maria Ya",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "racing club",
+   "busquedas": "500+",
+   "nota": "Racing iría en busca de un lateral del Brasileirao",
+   "nota_url": "https://www.racingdealma.com.ar/racing-braian-aguirre-inter-porto-alegre/",
+   "medio": "Racing de Alma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bulls - nuggets",
+   "busquedas": "200+",
+   "nota": "Denver Nuggets Injury Report: Every Status vs. Chicago Bulls",
+   "nota_url": "https://sports.yahoo.com/articles/denver-nuggets-injury-report-every-172412138.html",
    "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cipolletti club",
-   "busquedas": "100+",
-   "nota": "Sarmiento de La Banda vs. Cipolletti, EN VIVO: dónde verlo por TV y cómo seguirlo ONLINE",
-   "nota_url": "https://www.tycsports.com/primera-nacional/sarmiento-de-la-banda-vs-cipolletti-en-vivo-donde-ver-por-tv-y-online-id772148.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diego milito",
+   "tema": "sorteo telekino",
    "busquedas": "200+",
-   "nota": "Tras su salida de la Selección Argentina, Walter Samuel fue contactado por Diego Milito: cuáles son las chances de dirigir a Racing",
-   "nota_url": "https://www.dobleamarilla.com.ar/liga-/tras-su-salida-de-la-seleccion-argentina--walter-samuel-fue-contactado-por-diego-milito--cuales-son-las-chances-de-dirigir-a-racing_a6afd8378403a6d1023ed132d",
-   "medio": "Doble Amarilla",
+   "nota": "Resultados del Telekino de hoy: controlá tu boleta del Domingo, 22 de noviembre",
+   "nota_url": "https://www.eldestapeweb.com/atr/resultados-del-telekino-de-hoy-controla-tu-boleta-del-domingo-22-de-noviembre-2026112216011",
+   "medio": "El Destape",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "fluminense vs. mirassol",
+   "tema": "pro",
    "busquedas": "100+",
-   "nota": "Fluminense Host Mirassol in Libertadores Race at Maracana",
-   "nota_url": "https://www.limapagi.id/en/fluminense-host-mirassol-maracana",
-   "medio": "Limapagi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "guillermo francella",
-   "busquedas": "200+",
-   "nota": "Los hinchas de Boca festejaron la Copa Sudamericana y Guillermo Francella la ligó de rebote",
-   "nota_url": "https://www.tycsports.com/video/boca-juniors/los-hinchas-de-boca-festejaron-la-copa-sudamericana-y-guillermo-francella-la-ligo-de-rebote-id1006744.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "daiana pereyra",
-   "busquedas": "500+",
-   "nota": "Miss Universo 2026: la misionera Daiana Pereyra lució un traje inspirado en la Argentina",
-   "nota_url": "https://www.primeraedicion.com.ar/nota/101162633/miss-universo-2026-la-misionera-daiana-pereyra-lucio-un-traje-inspirado-en-la-argentina/",
-   "medio": "Primera Edición",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ramiro carrera",
-   "busquedas": "500+",
-   "nota": "Así relató Gabriel Anello el gol de penal de Thiago Almada para el 1 a 0 de River ante Lanús",
-   "nota_url": "https://radiomitre.cienradios.com/videos/asi-relato-gabriel-anello-el-gol-de-penal-de-thiago-almada-para-el-1-a-0-de-river-ante-lanus/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "delta",
-   "busquedas": "100+",
-   "nota": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-   "nota_url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
-   "medio": "ABC News - Breaking News, Latest News and Videos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luna llena noviembre 2026",
-   "busquedas": "200+",
-   "nota": "Luna llena de noviembre 2026: fecha y hora exacta para verla en México",
-   "nota_url": "https://www.infobae.com/mexico/2026/11/22/luna-llena-de-noviembre-2026-fecha-y-hora-exacta-para-verla-en-mexico/",
+   "nota": "Hernán Lacunza: “El Gobierno cambia el sistema electoral porque la paciencia social no le va a alcanzar”",
+   "nota_url": "https://www.infobae.com/politica/2026/11/22/hernan-lacunza-el-gobierno-cambia-el-sistema-electoral-porque-la-paciencia-social-no-le-va-a-alcanzar/",
    "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de liga de quito contra aucas",
+   "busquedas": "200+",
+   "nota": "LDU Quito - Aucas | Pronóstico y cuotas 22.11.2026",
+   "nota_url": "https://as.com/apuestas/pronosticos/ldu-quito-vs-aucas-pronostico-22-11-2026/",
+   "medio": "Diario AS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de getafe cf contra atlético de madrid",
+   "tema": "instituto",
    "busquedas": "5000+",
-   "nota": "Atleti make their best-ever away start in La Liga",
-   "nota_url": "https://onefootball.com/en/news/atleti-make-their-best-ever-away-start-in-la-liga-43821962",
-   "medio": "OneFootball",
+   "nota": "Instituto vs. Huracán por los octavos de final de la Liga Profesional: a qué hora juegan y cómo seguir el partido en vivo",
+   "nota_url": "https://eldoce.tv/deportes/futbol/2026/11/22/instituto-vs-huracan-por-los-octavos-de-final-de-la-liga-profesional-a-que-hora-juegan-y-como-seguir-el-partido-en-vivo/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cruces liga argentina",
+   "busquedas": "500+",
+   "nota": "Cuartos Liga Argentina 2026: cuándo se juegan, las fechas y los cruces",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/cuartos-liga-argentina-2026-cuando-se-juegan-fecha-y-los-cruces-id772001.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "play off",
+   "busquedas": "100+",
+   "nota": "Todd Monken or Andrew Berry? Who Deserves the Most Credit for the Browns’ 6-4 Start?",
+   "nota_url": "https://www.audacy.com/923thefan/video/todd-monken-or-andrew-berry-who-deserves-the-most-credit-for-the-browns-6-4-start-xbyw2tm",
+   "medio": "Audacy",
    "relevante": false,
    "temas": []
   }

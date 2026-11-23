@@ -1,7 +1,7 @@
 {
  "semana": "22 de noviembre de 2026",
  "fecha": "2026-11-22",
- "actualizado": "22/11 16:42",
+ "actualizado": "22/11 21:41",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -13,16 +13,16 @@
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     },
     {
+     "titulo": "Cristina contra Clarín por una supuesta frase suya contra Kicillof",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "22/11/2026",
+     "url": "https://bardeo.news/politica/cristina-contra-clarin-por-una-supuesta-frase-suya-contra-kicillof_a6b0353c4cd25aee28878cce1"
+    },
+    {
      "titulo": "Irán amenazó a Rafael Grossi y el Gobierno salió a respaldarlo",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "22/11/2026",
      "url": "https://bardeo.news/politica/iran-amenazo-a-rafael-grossi-y-el-gobierno-salio-a-respaldarlo_a6b03338dcd25aee28877a8e6"
-    },
-    {
-     "titulo": "El futuro sin PASO, la teoría de los cuartos y la llamada entre Massa y Kicillof",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "22/11/2026",
-     "url": "https://bardeo.news/politica/el-futuro-sin-paso--la-teoria-de-los-cuartos-y-la-llamada-entre-massa-y-kicillof_a6b025bbfcd25aee2886f283d"
     }
    ],
    "imagen": []
@@ -30,10 +30,10 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "Interna peronista Urtubey pidió renovar el peronismo y advirtió que discutir una candidatura de Cristina Kirchner es \"hacerle el juego al Gobierno\"",
-     "medio": "Perfil",
+     "titulo": "Karina Milei gana autonomía y asume un rol directo en el armado oficialista mientras se multiplican las internas",
+     "medio": "Infobae",
      "fecha": "22/11/2026",
-     "url": "https://www.perfil.com/politica/urtubey-pidio-renovar-el-peronismo-y-advirtio-que-discutir-una-candidatura-de-cristina-kirchner-es-hacerle-el-juego-al-gobierno-ac8JW9w0J8uR",
+     "url": "https://www.infobae.com/politica/2026/11/22/karina-milei-gana-autonomia-y-asume-un-rol-directo-en-el-armado-oficialista-mientras-se-multiplican-las-internas/",
      "tag": "Política"
     },
     {
@@ -56,13 +56,6 @@
      "fecha": "22/11/2026",
      "url": "https://www.letrap.com.ar/letrae/economia-finanzas/toto-caputo-borro-los-incentivos-economicos-incorporar-colectivos-gnc-y-electricos-el-amba-n5428401",
      "tag": "Ciudad"
-    },
-    {
-     "titulo": "Karina Milei gana autonomía y asume un rol directo en el armado oficialista mientras se multiplican las internas",
-     "medio": "Infobae",
-     "fecha": "22/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/22/karina-milei-gana-autonomia-y-asume-un-rol-directo-en-el-armado-oficialista-mientras-se-multiplican-las-internas/",
-     "tag": "Política"
     },
     {
      "titulo": "Fuerte advertencia. Hernán Lacunza dijo que si el Pro se une a Milei “desaparece” como partido político",
@@ -97,6 +90,13 @@
      "medio": "Letra P",
      "fecha": "22/11/2026",
      "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Urtubey fulminó el RIGI de Milei: \"Revoleo para ver cuáles son los amigos de turno que no van a pagar impuestos\"",
+     "medio": "El Destape",
+     "fecha": "22/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/juan-manuel-urtubey-critico-rigi-suspension-paso-javier-milei-nuevas-inversiones-estan-hablando-20261122163225",
      "tag": "Política"
     }
    ],
@@ -134,10 +134,10 @@
      "url": "https://www.elancasti.com.ar/politica-y-economia/maximo-kirchner-fue-designado-presidente-del-congreso-del-pj-n626545"
     },
     {
-     "titulo": "Protesta frente a un supermercado La UTEP reclamó justicia por la jubilada que estuvo 35 días detenida por intentar llevarse alimentos",
+     "titulo": "Puna catamarqueña Jalil celebró el título de Boca desde el Campo de Piedra Pómez",
      "medio": "El Ancasti",
      "fecha": "22/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/la-utep-reclamo-justicia-la-jubilada-que-estuvo-35-dias-detenida-intentar-llevarse-alimentos-n626537"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/jalil-celebro-el-titulo-boca-el-campo-piedra-pomez-n626548"
     }
    ],
    "imagen": []
@@ -145,10 +145,11 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Dante Bowen se postuló como el “mejor candidato de la unidad del peronismo” y volvió a marcarle la cancha a la conducción del PJ",
-     "medio": "ADN Sur",
+     "titulo": "Torres confirmó que Corcovado se conectará al Interconectado Nacional",
+     "medio": "Diario Jornada",
      "fecha": "22/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/dante-bowen-se-postulo-como-el--mejor-candidato-de-la-unidad-del-peronismo--y-volvio-a-marcarle-la-cancha-a-la-conduccion-del-pj_a6b02d4fefd7203bb62729496"
+     "url": "https://www.diariojornada.com.ar/427547/politica/torres_confirmo_que_corcovado_se_conectara_al_interconectado_nacional",
+     "tag": "También en ADN Sur, El Chubut"
     },
     {
      "titulo": "Chubut, el mejor lugar del mundo para observar el eclipse solar anular de 2027",
@@ -158,10 +159,10 @@
      "tag": "También en El Chubut"
     },
     {
-     "titulo": "Glinski apuntó contra el Gobierno por la concesión de Hidroeléctrica Futaleufú",
-     "medio": "Diario Jornada",
+     "titulo": "ZONA DESFAVORABLE Un verano político en Chubut Por Juan Pablo Gavazza",
+     "medio": "Letra P",
      "fecha": "22/11/2026",
-     "url": "https://www.diariojornada.com.ar/427530/politica/glinski_apunto_contra_el_gobierno_por_la_concesion_de_hidroelectrica_futaleufu"
+     "url": "https://www.letrap.com.ar/politica/un-verano-politico-chubut-n5428425"
     }
    ],
    "imagen": []
@@ -196,12 +197,6 @@
      "medio": "El Litoral",
      "fecha": "22/11/2026",
      "url": "https://www.ellitoral.com.ar/sociedad/2026-11-22-11-57-0-corrientes-abrira-las-preinscripciones-online-para-los-cdi-del-ciclo-2027"
-    },
-    {
-     "titulo": "Todo listo para el III Congreso Regional de Derecho Ambiental en Corrientes",
-     "medio": "El Litoral",
-     "fecha": "22/11/2026",
-     "url": "https://www.ellitoral.com.ar/sociedad/2026-11-22-10-57-0-todo-listo-para-el-iii-congreso-regional-de-derecho-ambiental"
     }
    ],
    "imagen": []
@@ -222,10 +217,22 @@
      "tag": "También en El Once, AFP Digital y 1 más"
     },
     {
-     "titulo": "Malvinas: Argentina exige frenar proyecto petrolero antes del fallo internacional",
-     "medio": "El Once",
+     "titulo": "De la infraestructura a la asistencia: El plan de Entre Ríos frente a El Niño",
+     "medio": "AFP Digital",
      "fecha": "22/11/2026",
-     "url": "https://www.elonce.com/politica/malvinas-argentina-exige-frenar-el-proyecto-sea-lion.htm"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/22/480246-de-la-infraestructura-a-la-asistencia-el-plan-de-entre-rios-frente-a-el-nino",
+     "tag": "También en UNO ER"
+    }
+   ],
+   "imagen": []
+  },
+  "Formosa": {
+   "top3": [
+    {
+     "titulo": "La Universidad de la Cuenca del Plata mantiene abiertas las inscripciones 2027 en Formosa",
+     "medio": "La Mañana",
+     "fecha": "22/11/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108923/la-universidad-de-la-cuenca-del-plata-mantiene-abiertas-las-inscripciones-2027-en-formosa/"
     }
    ],
    "imagen": []
@@ -240,16 +247,16 @@
      "tag": "También en Somos Jujuy"
     },
     {
+     "titulo": "Educación: realizarán la segunda asignación de momentos para el ingreso a primer año 2027",
+     "medio": "Prensa oficial de Jujuy",
+     "fecha": "22/11/2026",
+     "url": "https://prensa.jujuy.gob.ar/educacion/educacion-realizaran-la-segunda-asignacion-momentos-el-ingreso-primer-ano-2027-n126076"
+    },
+    {
      "titulo": "Jujuy. Ingreso a primer año 2027 en Jujuy: cómo sigue el cronograma y cuándo se asignarán los bancos Por Maria Eugenia Burgos",
      "medio": "Todo Jujuy",
      "fecha": "22/11/2026",
      "url": "https://www.todojujuy.com/ingreso-primer-ano-2027-jujuy-como-sigue-el-cronograma-y-cuando-se-asignaran-los-bancos-n299180"
-    },
-    {
-     "titulo": "Música, danza y gastronomía regional en el Parque Xibi Xibi.",
-     "medio": "Prensa oficial de Jujuy",
-     "fecha": "22/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/palma-sola/la-embajada-cultural-palma-sola-brillo-la-capital-jujena-n126075"
     }
    ],
    "imagen": []
@@ -257,23 +264,23 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Senado: con los votos asegurados, el Gobierno busca aprobar el jueves la suspensión de las PASO",
-     "medio": "La Arena",
-     "fecha": "22/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/senado-con-los-votos-asegurados-el-gobierno-busca-aprobar-el-jueves-la-suspension-de-las-paso-202611221140",
-     "tag": "También en La Pampa 24"
-    },
-    {
      "titulo": "La reforma electoral, el puente entre Ziliotto y Verna y la pulseada reglamentaria en Diputados",
      "medio": "El Diario de La Pampa",
      "fecha": "22/11/2026",
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83501/la-reforma-electoral-el-puente-entre-ziliotto-y-verna-y-la-pulseada-reglamentaria-en-diputados"
     },
     {
-     "titulo": "Máximo asumió presidencia del Congreso del PJ",
+     "titulo": "Urtubey pidió renovar el PJ y advirtió que CFK no podrá liderar el armado electoral",
      "medio": "La Arena",
      "fecha": "22/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/maximo-asumio-presidencia-del-congreso-del-pj-202611220300"
+     "url": "https://www.laarena.com.ar/el-pais/urtubey-pidio-renovar-el-pj-y-advirtio-que-cfk-no-podra-liderar-el-armado-electoral-2026112220420"
+    },
+    {
+     "titulo": "Jornada Hortícola 2026 en el CERET: 28 años de tecnología aplicada al territorio pampeano",
+     "medio": "El Diario de La Pampa",
+     "fecha": "22/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83505/jornada-horticola-2026-en-el-ceret--28-anos-de-tecnologia-aplicada-al-territorio-pampeano",
+     "tag": "También en La Pampa 24, La Arena"
     }
    ],
    "imagen": []
@@ -281,16 +288,16 @@
   "La Rioja": {
    "top3": [
     {
-     "titulo": "Quintela llamó a la militancia a trabajar casa por casa en La Rioja",
+     "titulo": "Suspensión de las PASO: el Gobierno asegura tener los votos",
      "medio": "Nueva Rioja",
      "fecha": "22/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/quintela-llamo-a-la-militancia-a-trabajar-casa-por-casa-en-la-rioja.htm"
+     "url": "https://nuevarioja.com.ar/politica/suspension-de-las-paso-el-gobierno-asegura-tener-los-votos.htm"
     },
     {
-     "titulo": "A días de un fallo internacional, las sanciones argentinas afectan la operación de Sea Lion en Malvinas",
+     "titulo": "Cumbre peronista: Quintela se reúne con Capitanich y Uñac",
      "medio": "Nueva Rioja",
      "fecha": "22/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/a-dias-de-un-fallo-internacional-las-sanciones-argentinas-afectan-la-operacion-de-sea-lion-en-malvinas.htm"
+     "url": "https://nuevarioja.com.ar/politica/cumbre-peronista-quintela-se-reune-con-capitanich-y-uniac.htm"
     }
    ],
    "imagen": []
@@ -310,10 +317,10 @@
      "url": "https://www.diariouno.com.ar/opinion/se-rompe-el-oficialismo-la-legislatura-y-petri-no-vota-lo-que-pide-cornejo-n1618807"
     },
     {
-     "titulo": "La Garrafa en tu Barrio: cronograma del 24 al 28 de noviembre",
+     "titulo": "Aprehendieron en Guaymallén a un motociclista armado",
      "medio": "Prensa oficial de Mendoza",
      "fecha": "22/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/la-garrafa-en-tu-barrio-cronograma-del-24-al-28-de-noviembre/"
+     "url": "https://prensa.mendoza.gob.ar/aprehendieron-en-guaymallen-a-un-motociclista-armado/"
     }
    ],
    "imagen": []
@@ -327,16 +334,17 @@
      "url": "https://www.eldestapeweb.com/politica/misiones-apuesta-capacitacion-gratuita-herramienta-generar-trabajo-202611229026"
     },
     {
-     "titulo": "Votantes de Milei y del PRO admiten economía estancada",
+     "titulo": "Falleció el motociclista que había despistado en el puente del Acceso Sur en Posadas",
      "medio": "El Territorio",
      "fecha": "22/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/22/928515-votantes-de-milei-y-del-pro-admiten-economia-estancada"
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/22/928809-fallecio-el-motociclista-que-habia-despistado-en-el-puente-del-acceso-sur-en-posadas",
+     "tag": "También en Primera Edición"
     },
     {
-     "titulo": "Perdió el control al cruzar un espejo de agua y terminó despistando sobre la Ruta Provincial 5 en Panambí",
+     "titulo": "Miss Universo 2026: la misionera deslumbró en el desfile con su traje típico",
      "medio": "El Territorio",
      "fecha": "22/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/22/928800-perdio-el-control-al-cruzar-un-espejo-de-agua-y-termino-despistando-sobre-la-ruta-provincial-5-en-panambi",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/22/928803-miss-universo-2026-la-misionera-deslumbro-en-el-desfile-con-su-traje-tipico",
      "tag": "También en Primera Edición"
     }
    ],
@@ -351,6 +359,12 @@
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/22/267726-a-partir-del-lunes-estara-habilitado-el-paso-pichachen"
     },
     {
+     "titulo": "Deporte y exhibición Neuquén recibirá el 10 de enero a una exhibición a grandes figuras del pádel en el IN CUP 2027",
+     "medio": "Noticias NQN",
+     "fecha": "22/11/2026",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/22/361944-neuquen-recibira-el-10-de-enero-a-una-exhibicion-a-grandes-figuras-del-padel-en-el-in-cup-2027"
+    },
+    {
      "titulo": "Carrera El Gran Fondo Siete Lagos reunió a miles de ciclistas en una edición histórica para Neuquén",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "22/11/2026",
@@ -362,23 +376,22 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027 y PASO: el Gobierno apura las negociaciones antes del cierre de las sesiones ordinarias",
+     "titulo": "Crece la interna en el PJ: Urtubey descartó una candidatura de Cristina Kirchner y pidió dejar atrás el «hiperpersonalismo»",
      "medio": "Diario Rio Negro",
      "fecha": "22/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/ultima-semana-en-el-congreso-el-gobierno-apura-el-presupuesto-2027-y-las-paso-mientras-define-que-leyes-deja-para-extraordinarias-4808718/"
+     "url": "https://www.rionegro.com.ar/politica/crece-la-interna-en-el-pj-urtubey-descarto-una-candidatura-de-cristina-kirchner-y-pidio-dejar-atras-el-hiperpersonalismo-4808949/"
     },
     {
-     "titulo": "Fullone: “Milei impulsa inversiones históricas en Río Negro mientras Weretilneck es socio del kirchnerismo desde hace años”",
-     "medio": "AN Roca",
+     "titulo": "Un sector de la UCR rionegrina cuestiona la alianza con Weretilneck",
+     "medio": "Diario Rio Negro",
      "fecha": "22/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/22/233787-fullone-milei-impulsa-inversiones-historicas-en-rio-negro-mientras-weretilneck-es-socio-del-kirchnerismo-desde-hace-anos",
-     "tag": "También en LCR, Noticias Net"
+     "url": "https://www.rionegro.com.ar/politica/un-sector-de-la-ucr-rionegrina-cuestiona-la-alianza-con-weretilneck-4808237/"
     },
     {
-     "titulo": "Calendario de Anses: qué prestaciones se cobran la semana que viene",
+     "titulo": "Escándalo en Suecia: renunció el intendente tras salir a la luz que era actor porno",
      "medio": "AN Roca",
      "fecha": "22/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/22/233730-calendario-de-anses-que-prestaciones-se-cobran-la-semana-que-viene",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/22/233832-escandalo-en-suecia-renuncio-el-intendente-tras-salir-a-la-luz-que-era-actor-porno",
      "tag": "También en LCR, Noticias Net"
     }
    ],
@@ -387,23 +400,23 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Cómo funcionarán los servicios de salud en Salta durante el feriado por el Día de la Soberanía Nacional",
-     "medio": "Informate Salta",
+     "titulo": "¿Chau a la veda? Qué cambiará para las elecciones si se aprueba la reforma de Bullrich",
+     "medio": "Que Pasa Salta",
      "fecha": "22/11/2026",
-     "url": "https://informatesalta.com.ar/salud/como-funcionaran-los-servicios-de-salud-en-salta-durante-el-feriado-por-el-dia-de-la-soberania-nacional_a6b030456cd25aee28875715e",
-     "tag": "También en Nuevo Diario de Salta"
+     "url": "https://www.quepasasalta.com.ar/politica/chau-a-la-veda-que-cambiara-para-las-elecciones-si-se-aprueba-la-reforma-de-bullrich/"
+    },
+    {
+     "titulo": "Feriado por la Soberanía Nacional: cómo funcionarán los servicios en Salta",
+     "medio": "El Tribuno",
+     "fecha": "22/11/2026",
+     "url": "https://www.eltribuno.com/salta/2026-11-22-17-2-0-feriado-por-la-soberania-nacional-como-funcionaran-los-servicios-en-salta",
+     "tag": "También en Informate Salta, Nuevo Diario de Salta"
     },
     {
      "titulo": "Vecinos del barrio Jesús María accedieron a servicios y asesoramiento gratuito con el programa Estado Presente",
      "medio": "Prensa oficial de Salta",
      "fecha": "22/11/2026",
      "url": "https://www.salta.gob.ar/prensa/noticias/vecinos-del-barrio-jesus-maria-accedieron-a-servicios-y-asesoramiento-gratuito-con-el-programa-estado-presente-111248"
-    },
-    {
-     "titulo": "Salud Pública lanza la campaña provincial de \"Puesta al Día\" para completar los esquemas del Calendario Nacional de Vacunación",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "22/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/salud-publica-lanza-la-campania-provincial-de-puesta-al-dia-para-completar-los-esquemas-del-calendario-nacional-de-vacunacion-111247"
     }
    ],
    "imagen": []
@@ -423,15 +436,16 @@
      "url": "https://www.tiempodesanjuan.com/politica/partidos-departamentales-y-pases-al-oficialismo-la-jugada-de-algunos-caciques-peronistas-para-volver-al-poder_1795190607"
     },
     {
-     "titulo": "Las perlitas de la rosca de San Juan: stand by en la ruptura del Chimbas Te Quiero; la bloquista que se \"coló\" en la foto del PJ; y sunset y café para la Magistratura Por Fernando Ortiz",
+     "titulo": "Milei volvió a defender la gestión del oro del Banco Central y cruzó a sus críticos",
      "medio": "Diario de Cuyo",
      "fecha": "22/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/las-perlitas-la-rosca-san-juan-stand-by-la-ruptura-del-chimbas-te-quiero-la-bloquista-que-se-colo-la-foto-del-pj-y-sunset-y-cafe-la-magistratura-n6589262"
+     "url": "https://www.diariodecuyo.com.ar/politica/milei-volvio-defender-la-gestion-del-oro-del-banco-central-y-cruzo-sus-criticos-n6589300",
+     "tag": "También en El Zonda"
     }
    ],
    "imagen": [
     {
-     "titulo": "Urtubey rechazó una candidatura de Cristina Kirchner para 2027",
+     "titulo": "05 Urtubey rechazó una candidatura de Cristina Kirchner para 2027",
      "medio": "El Zonda",
      "fecha": "22/11/2026",
      "url": "https://www.diarioelzondasj.com.ar/politica/urtubey-rechazo-una-candidatura-de-cristina-kirchner-para-2027"
@@ -441,29 +455,34 @@
   "San Luis": {
    "top3": [
     {
+     "titulo": "Caputo y la ecuación electoral de Milei para llegar competitivo a 2027",
+     "medio": "San Luis 24",
+     "fecha": "22/11/2026",
+     "url": "https://sanluis24.com.ar/caputo-y-la-ecuacion-electoral-de-milei-para-llegar-competitivo-a-2027/"
+    },
+    {
+     "titulo": "Accedió a la Beca al Mérito y ganó una competencia con un proyecto de inteligencia artificial",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "22/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/22/1233496-accedio-a-la-beca-al-merito-y-gano-una-competencia-con-un-proyecto-de-inteligencia-artificial/"
+    },
+    {
      "titulo": "De los proyectos al aula: la Técnica Nº33 de Candelaria compartió su trabajo con la comunidad",
      "medio": "Prensa oficial de San Luis",
      "fecha": "22/11/2026",
      "url": "https://agenciasanluis.com/2026/11/22/1234021-de-los-proyectos-al-aula-la-tecnica-no33-de-candelaria-compartio-su-trabajo-con-la-comunidad/"
-    },
-    {
-     "titulo": "“Durante mucho tiempo estuvimos alquilando y viviendo con familiares, eso hoy se terminó”",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "22/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/22/1234600-durante-mucho-tiempo-estuvimos-alquilando-y-viviendo-con-familiares-eso-hoy-se-termino/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Una encuesta muestra que los opositores a Milei superan por primera vez a los indefinidos",
-     "medio": "San Luis 24",
-     "fecha": "22/11/2026",
-     "url": "https://sanluis24.com.ar/una-encuesta-muestra-que-los-opositores-a-milei-superan-por-primera-vez-a-los-indefinidos/"
-    }
-   ]
+   "imagen": []
   },
   "Santa Cruz": {
    "top3": [
+    {
+     "titulo": "El calendario electoral 2027 empieza a tomar forma en la Patagonia",
+     "medio": "La Opinión Austral",
+     "fecha": "22/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/el-calendario-electoral-2027-empieza-a-tomar-forma-en-la-patagonia-734867.html"
+    },
     {
      "titulo": "Luego de que Eduardo Feinmann arrinconara a Luis Caputo, Baby Etchecopar increpó al ministro: \"Renunciá y andate\"",
      "medio": "El Diario Nuevo Día",
@@ -471,18 +490,10 @@
      "url": "https://www.eldiarionuevodia.com.ar/nacionales/luego-de-que-eduardo-feinmann-arrinconara-a-luis-caputo-baby-etchecopar-increpo-al-ministro-renuncia-y-andate-9711/"
     },
     {
-     "titulo": "El Hospital Regional Río Gallegos recibió una nueva partida de medicamentos e insumos médicos",
+     "titulo": "Interconectado a Perito: “La decisión del gobernador fue terminarla y ya estamos con un 98 % de avance”, dijo Cortijo",
      "medio": "Prensa oficial de Santa Cruz",
      "fecha": "22/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/salud/hospitales-provinciales/el-hospital-regional-rio-gallegos-recibio-una-nueva-partida-de-medicamentos-e-insumos-medicos",
-     "tag": "También en El Diario Nuevo Día, Tiempo Sur"
-    },
-    {
-     "titulo": "El Gobierno de Santa Cruz fortalece la prevención de la violencia de género con acciones de sensibilización comunitaria",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "22/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/seguridad/el-gobierno-de-santa-cruz-fortalece-la-prevencion-de-la-violencia-de-genero-con-acciones-de-sensibilizacion-comunitaria",
-     "tag": "También en El Diario Nuevo Día"
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/interconectado-a-perito-la-decision-del-gobernador-fue-terminarla-y-ya-estamos-con-un-98-de-avance-dijo-cortijo"
     }
    ],
    "imagen": [
@@ -497,6 +508,13 @@
   "Santa Fe": {
    "top3": [
     {
+     "titulo": "Santilli debuta con su primer informe de gestión como jefe de Gabinete",
+     "medio": "La Capital",
+     "fecha": "22/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/santilli-debuta-su-primer-informe-gestion-como-jefe-gabinete-n10293657.html",
+     "tag": "También en Rosario3"
+    },
+    {
      "titulo": "Agenda caliente Las \"tres finales\" que le quedan al Gobierno y el debate sobre las alternativas del peronismo sin las PASO",
      "medio": "Aire",
      "fecha": "22/11/2026",
@@ -507,24 +525,12 @@
      "medio": "Agencia Fe",
      "fecha": "22/11/2026",
      "url": "https://agenciafe.com/nota/404330-Seguridad-rural-Provincia-destaco-la-designacion-del-MPA-de-siete-fiscales-para-investigar-delitos-del-ambito-rural"
-    },
-    {
-     "titulo": "Senado: con los votos asegurados, el Gobierno busca aprobar este jueves la suspensión de las PASO",
-     "medio": "Agencia Fe",
-     "fecha": "22/11/2026",
-     "url": "https://agenciafe.com/nota/404340-Senado-con-los-votos-asegurados-el-Gobierno-busca-aprobar-este-jueves-la-suspension-de-las-PASO"
     }
    ],
    "imagen": []
   },
   "Santiago del Estero": {
    "top3": [
-    {
-     "titulo": "País El Gobierno negocia los votos en el Senado para suspender las PASO de 2027: qué cambios incluye la reforma electoral Hace 6 horas",
-     "medio": "Info del Estero",
-     "fecha": "22/11/2026",
-     "url": "https://infodelestero.com/2026/11/22/el-gobierno-negocia-los-votos-en-el-senado-para-suspender-las-paso-de-2027-que-cambios-incluye"
-    },
     {
      "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna",
      "medio": "Diario Panorama",
@@ -536,6 +542,12 @@
      "medio": "Diario Panorama",
      "fecha": "22/11/2026",
      "url": "https://www.diariopanorama.com/noticia/573804/gobierno-busca-generar-confianza-mercados-suspension-paso-presupuesto-2027"
+    },
+    {
+     "titulo": "Ley Permanente de Discapacidad: la reglamentación abre un nuevo frente de tensión entre Caputo y Bullrich",
+     "medio": "El Liberal",
+     "fecha": "22/11/2026",
+     "url": "https://www.elliberal.com.ar/nota/98748/2026/11/ley-permanente-de-discapacidad--la-reglamentacion-abre-un-nuevo-frente-de-tension-entre-caputo-y-bullrich"
     }
    ],
    "imagen": []
@@ -549,10 +561,11 @@
      "url": "https://www.lagaceta.com.ar/nota/1163707/politica/urtubey-pidio-renovar-al-peronismo-advirtio-cristina-kirchner-no-podra-encabezar-armado-electoral.html"
     },
     {
-     "titulo": "Una sobrina del gobernador Gildo Insfrán fue designada en la Corte Suprema de Formosa",
-     "medio": "Los Primeros",
+     "titulo": "¿Tormentas? Así estará el tiempo este domingo en Tucumán",
+     "medio": "El Tucumano",
      "fecha": "22/11/2026",
-     "url": "https://www.losprimeros.tv/politica/una-sobrina-del-gobernador-gildo-insfran-fue-designada-en-la-corte-suprema-de-formosa_a6b02fa34cd25aee28874b561"
+     "url": "https://www.eltucumano.com/noticia/libre/328163/tormentas-asi-estara-el-tiempo-este-domingo-en-tucuman?dnd=slider&src=tit&pos=4&dis=desk",
+     "tag": "También en La Gaceta - Tucumán, Tucumán Despierta y 1 más"
     },
     {
      "titulo": "El escandaloso caso Ortiz: sueldo millonario, antecedentes omitidos y una designación bajo sospecha en la Caja Popular",
@@ -562,6 +575,12 @@
     }
    ],
    "imagen": [
+    {
+     "titulo": "El peronismo empieza a delinear su armado electoral para 2027: qué opciones tiene para definir candidato sin PASO",
+     "medio": "Tucumán Despierta",
+     "fecha": "22/11/2026",
+     "url": "https://tucumandespierta.com/el-peronismo-empieza-a-delinear-su-armado-electoral-para-2027-que-opciones-tiene-para-definir-candidato-sin-paso/"
+    },
     {
      "titulo": "Tras su paso por Argentina, León XIV alcanzó una imagen positiva casi plena",
      "medio": "LV12",
@@ -587,7 +606,6 @@
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
-  "https://www.xn--lamaanaonline-lkb.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
   "https://www.mdzol.com/mendoza",
