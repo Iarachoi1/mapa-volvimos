@@ -1,22 +1,10 @@
 {
- "actualizado": "23/11 12:53",
+ "actualizado": "23/11 13:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jensen Huang",
-   "url": "https://x.com/search?q=Jensen%20Huang",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -27,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "bucky",
-   "url": "https://x.com/search?q=bucky",
+   "tema": "Jensen Huang",
+   "url": "https://x.com/search?q=Jensen%20Huang",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
+   "tema": "bucky",
+   "url": "https://x.com/search?q=bucky",
    "relevante": false,
    "temas": []
   },
@@ -45,20 +33,20 @@
    "temas": []
   },
   {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#AvengersDoomsday",
    "url": "https://x.com/search?q=%23AvengersDoomsday",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nvidia",
-   "url": "https://x.com/search?q=Nvidia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Izquierdoz",
-   "url": "https://x.com/search?q=Izquierdoz",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +57,32 @@
    "temas": []
   },
   {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
+   "tema": "connor",
+   "url": "https://x.com/search?q=connor",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nvidia",
+   "url": "https://x.com/search?q=Nvidia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Thor",
+   "url": "https://x.com/search?q=Thor",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Loki",
+   "url": "https://x.com/search?q=Loki",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$NVDA",
+   "url": "https://x.com/search?q=%24NVDA",
    "relevante": false,
    "temas": []
   },
@@ -87,46 +99,70 @@
    "temas": []
   },
   {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
+   "tema": "JoaquÃ­n",
+   "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "tema": "Ezpeleta",
+   "url": "https://x.com/search?q=Ezpeleta",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ponzio",
-   "url": "https://x.com/search?q=Ponzio",
+   "tema": "Olga",
+   "url": "https://x.com/search?q=Olga",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$NVDA",
-   "url": "https://x.com/search?q=%24NVDA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sudamericana",
-   "url": "https://x.com/search?q=Sudamericana",
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "hernan lopez",
+   "busquedas": "200+",
+   "nota": "Mientras suena en River, Francisco Álvarez contra la dirigencia de Argentinos Juniors: “Los chicos no puede...",
+   "nota_url": "https://bolavip.com/ar/futbolargentino/francisco-alvarez-contra-la-dirigencia-de-argentinos-juniors-los-chicos-no-pueden-pagar-el-alquiler",
+   "medio": "Bolavip Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "al-shamal - al-ahli saudi",
+   "busquedas": "200+",
+   "nota": "check headline: Al Ahli boss Pušić demands ‘maximum effort’ ahead of Al Shamal clash",
+   "nota_url": "https://www.thechronicle.com.au/sport/check-headline-al-ahli-boss-pui-demands-maximum-effort-ahead-of-al-shamal-clash/video/2d8409bd443d0c5f80595214e900782e",
+   "medio": "Toowoomba Chronicle",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero final",
+   "busquedas": "100+",
+   "nota": "Las Diablas convocadas para cerrar el 2026",
+   "nota_url": "https://espndeportes.espn.com/hockey-sobre-cesped/nota/_/id/17523694/las-diablas-convocadas-para-cerrar-el-2026",
+   "medio": "ESPN Deportes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hernan lopez muñoz",
+   "busquedas": "500+",
+   "nota": "Bombazo: aseguran que un ex River será el primer refuerzo de Boca",
+   "nota_url": "https://nuevodiarioweb.com.ar/deportes/bombazo-aseguran-que-un-ex-river-sera-el-primer-refuerzo-de-boca.htm",
+   "medio": "Nuevo Diario Web",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "newells",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
    "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
    "medio": "TyC Sports",
@@ -144,7 +180,7 @@
   },
   {
    "tema": "clase turista",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Franco Colapinto volvió a sorprender en las redes: lo filmaron viajando en clase turista después del GP de Las Vegas",
    "nota_url": "https://tn.com.ar/deportes/automovilismo/2026/11/23/franco-colapinto-volvio-a-sorprender-en-las-redes-lo-filmaron-viajando-en-clase-turista-despues-del-gp-de-las-vegas/",
    "medio": "TN",
@@ -153,7 +189,7 @@
   },
   {
    "tema": "tini stoessel",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Rodrigo De Paul confirmó cuándo se casa con Tini Stoessel: la fecha y los detalles de la boda",
    "nota_url": "https://www.somosjujuy.com.ar/espectaculos/rodrigo-paul-confirmo-cuando-casa-tini-stoessel-fecha-detalles-boda-n127522",
    "medio": "Somos Jujuy",
@@ -161,56 +197,20 @@
    "temas": []
   },
   {
-   "tema": "anthropic",
+   "tema": "leonida",
    "busquedas": "200+",
-   "nota": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
-   "nota_url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
-   "medio": "The Guardian",
+   "nota": "Players are coming to ‘GTA VI’ for the car chases, but staying for the wildlife",
+   "nota_url": "https://www.fastcompany.com/91645754/players-are-coming-to-gta-vi-for-the-car-chases-but-staying-for-the-wildlife",
+   "medio": "Fast Company",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "línea sarmiento",
-   "busquedas": "200+",
-   "nota": "Transporte público por el feriado: dos líneas de trenes estarán limitadas durante el fin de semana largo",
-   "nota_url": "https://www.perfil.com/sociedad/transporte-publico-por-el-feriado-dos-lineas-de-trenes-estaran-limitadas-durante-el-fin-de-semana-largo-a50-jsm-aJESO6G43mEe",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "investing",
+   "tema": "adolescencia",
    "busquedas": "100+",
-   "nota": "After Another Frustrating Reversal, Let’s Recall a Different Buffett Quote",
-   "nota_url": "https://pro.thestreet.com/portfolio/after-another-frustrating-reversal-lets-recall-a-different-buffett-quote",
-   "medio": "RealMoney Pro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avengers doomsday",
-   "busquedas": "200+",
-   "nota": "Avengers: Doomsday Trailer: The MCU Assembles For Its Biggest Battle Yet",
-   "nota_url": "https://www.imdb.com/es/news/ni66124438/?ref_=nwc_art_perm",
-   "medio": "IMDb",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tradingview",
-   "busquedas": "500+",
-   "nota": "Nvidia shares soar 30% after board reinstates Jensen Huang",
-   "nota_url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-   "medio": "Financial Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "telekino 2455 resultados",
-   "busquedas": "2000+",
-   "nota": "Telekino: el pozo millonario sigue vacante y se sorteará el próximo domingo 29 de noviembre 2026",
-   "nota_url": "https://www.rionegro.com.ar/servicios/telekino-pozo-mayor-vacante-rumbo-al-cierre-de-noviembre-2026-4809580/",
-   "medio": "Diario Río Negro",
+   "nota": "Crecer con las cuentas en rojo",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/20/la-chicos-tambien-pagan-las-deudas/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   }
