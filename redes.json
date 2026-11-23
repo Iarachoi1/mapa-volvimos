@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 06:08",
+ "actualizado": "23/11 07:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "izquierdoz",
-   "url": "https://x.com/search?q=izquierdoz",
+   "tema": "Izquierdoz",
+   "url": "https://x.com/search?q=Izquierdoz",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
+   "tema": "ANDRADA",
+   "url": "https://x.com/search?q=ANDRADA",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,32 @@
    "temas": []
   },
   {
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Driussi",
+   "url": "https://x.com/search?q=Driussi",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Sudamericana",
    "url": "https://x.com/search?q=Sudamericana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
    "relevante": false,
    "temas": []
   },
@@ -51,32 +75,8 @@
    "temas": []
   },
   {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Driussi",
-   "url": "https://x.com/search?q=Driussi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ponzio",
-   "url": "https://x.com/search?q=Ponzio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Galvan",
-   "url": "https://x.com/search?q=Galvan",
+   "tema": "GALVAN",
+   "url": "https://x.com/search?q=GALVAN",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +87,14 @@
    "temas": []
   },
   {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
+   "tema": "Verstappen",
+   "url": "https://x.com/search?q=Verstappen",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Merentiel",
-   "url": "https://x.com/search?q=Merentiel",
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +105,14 @@
    "temas": []
   },
   {
-   "tema": "Verstappen",
-   "url": "https://x.com/search?q=Verstappen",
+   "tema": "Merentiel",
+   "url": "https://x.com/search?q=Merentiel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Herrera",
+   "url": "https://x.com/search?q=Herrera",
    "relevante": false,
    "temas": []
   },
@@ -115,21 +121,69 @@
    "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "canal 13",
+   "busquedas": "100+",
+   "nota": "Problemas en El Trece: importante conductora decidió irse y hubo fuertes discusiones",
+   "nota_url": "https://www.eldestapeweb.com/espectaculos/problemas-trece-importante-conductora-decidio-irse-hubo-fuertes-discusiones-20261121133838",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mala fama",
+   "busquedas": "100+",
+   "nota": "La particular historia detrás de \"La parabronca\", la pizza de Hernán de Mala Fama que sorprendió a Martitegui",
+   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/23/la-particular-historia-detras-de-la-parabronca-la-pizza-de-hernan-de-mala-fama-que-sorprendio-a-martitegui/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "casa rosada",
+   "busquedas": "1000+",
+   "nota": "Riesgo de hundirse",
+   "nota_url": "https://www.elcohetealaluna.com/riesgo-de-hundirse/",
+   "medio": "El Cohete a la Luna",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego simeone",
+   "busquedas": "1000+",
+   "nota": "Simeone, técnico con más victorias en la historia de LaLiga",
+   "nota_url": "https://www.atleticodemadrid.com/noticias/simeone-tecnico-con-mas-victorias-en-la-historia-de-laliga",
+   "medio": "Página oficial del Atlético de Madrid",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "longevidad",
+   "busquedas": "200+",
+   "nota": "Longevidad: el hábito cotidiano que más pesa, según expertos",
+   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/46825_longevidad-el-hbito-cotidiano-que-ms-pesa-segn-expertos.htm",
+   "medio": "Identidad Correntina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "leonardo ponzio",
+   "busquedas": "200+",
+   "nota": "Ponzio: \"Me gané el lugar\" y \"¿cómo no voy a querer ser DT de River?\"",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17550732/river-vs-lanus-torneo-clausura-conferencia-ponzio-futuro",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "tiempo en cordoba",
    "busquedas": "100+",
-   "nota": "Córdoba en alerta por tormentas: las zonas que puede ser afectadas este lunes",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/22/cordoba-en-alerta-por-tormentas-las-zonas-que-puede-ser-afectadas-este-lunes/",
-   "medio": "eldoce",
+   "nota": "🟡​ Hay alerta amarilla por tormentas y vientos de hasta 90 km/h en seis provincias para hoy",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/23/hay-alerta-amarilla-por-tormentas-y-vientos-de-hasta-90-kmh-en-seis-provincias-para-hoy/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -157,60 +211,6 @@
    "nota": "Ya llega la Fiesta Nacional del Sol 2026 con importantes shows: dónde y cuándo será",
    "nota_url": "https://radiomitre.cienradios.com/sociedad/ya-llega-la-fiesta-nacional-del-sol-2026-con-importantes-shows-donde-y-cuando-sera/",
    "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "valentina salezzi",
-   "busquedas": "100+",
-   "nota": "El rol especial de Fabián Medina Flores en la historia de amor de Valentina Salezzi y Marcos Bozzolasco: \"Para...",
-   "nota_url": "https://caras.perfil.com/noticias/celebridades/fabian-medina-flores-compartio-su-emocion-tras-casar-a-valentina-salezzi-soy-afortunado.phtml",
-   "medio": "Caras",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "casa",
-   "busquedas": "1000+",
-   "nota": "Del Gaiso ampliará la denuncia contra Beligoy por lavado de dinero",
-   "nota_url": "https://www.ole.com.ar/informacion-general/facundodelgaiso-federicobeligoy-lavadodeactivos-direccionnacionaldearbitraje-danielrafecas_0_z6CfEAaon2.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mario massaccesi",
-   "busquedas": "1000+",
-   "nota": "Mario Massaccesi reveló por qué necesita escapar del ruido y encontrar silencio en sus viajes",
-   "nota_url": "https://www.eltrecetv.com.ar/almorzando-con-juana/2026/11/22/almorzando-con-juana-mario-massaccesi-conto-por-que-busca-el-silencio-en-su-vida-y-que-descubrio-en-sus-viajes-por-el-mundo/",
-   "medio": "eltrecetv",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "niebla",
-   "busquedas": "200+",
-   "nota": "Nieblas por la mañana y descenso de temperaturas mínimas con algunas heladas en la provincia de León",
-   "nota_url": "https://www.leonoticias.com/leon/nieblas-manana-descenso-temperaturas-minimas-heladas-provincia-20261123083554-nt.html",
-   "medio": "Leonoticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nazareno casero",
-   "busquedas": "500+",
-   "nota": "¿Alfredo Casero se presentará al casting de Marta Fort? El inesperado coqueteo que despertó rumores de romance",
-   "nota_url": "https://www.canalnet.tv/espectaculos/video_alfredo-casero-se-presentara-al-casting-de-marta-fort-el-inesperado-coqueteo-que-desperto-rumores-de-romance_20261120/",
-   "medio": "Net tv | Aire Fresco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "china ansa",
-   "busquedas": "200+",
-   "nota": "¿Qué dijo la China Ansa sobre las duras críticas que recibe en MasterChef Celebrity? “De repente soy quejosa, mala compañera e infumable”",
-   "nota_url": "https://elnueve.com/contenidos/que-dijo-la-china-ansa-sobre-las-duras-criticas-que-recibe-en-masterchef-celebrity-de-repente-soy-quejosa-mala-companera-e-infumable_20261113/",
-   "medio": "Canal 9 Televida",
    "relevante": false,
    "temas": []
   }
