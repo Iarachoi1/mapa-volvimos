@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 11:17",
+ "actualizado": "23/11 12:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,62 +15,8 @@
    "temas": []
   },
   {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Izquierdoz",
-   "url": "https://x.com/search?q=Izquierdoz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ezpeleta",
-   "url": "https://x.com/search?q=Ezpeleta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sudamericana",
-   "url": "https://x.com/search?q=Sudamericana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Riquelme",
-   "url": "https://x.com/search?q=Riquelme",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ponzio",
-   "url": "https://x.com/search?q=ponzio",
+   "tema": "Jensen Huang",
+   "url": "https://x.com/search?q=Jensen%20Huang",
    "relevante": false,
    "temas": []
   },
@@ -81,136 +27,190 @@
    "temas": []
   },
   {
-   "tema": "DRIUSSI",
-   "url": "https://x.com/search?q=DRIUSSI",
+   "tema": "bucky",
+   "url": "https://x.com/search?q=bucky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Galvan",
-   "url": "https://x.com/search?q=Galvan",
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
+   "tema": "#AvengersDoomsday",
+   "url": "https://x.com/search?q=%23AvengersDoomsday",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rosca Floja",
-   "url": "https://x.com/search?q=Rosca%20Floja",
+   "tema": "Nvidia",
+   "url": "https://x.com/search?q=Nvidia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Franco",
-   "url": "https://x.com/search?q=Franco",
+   "tema": "Izquierdoz",
+   "url": "https://x.com/search?q=Izquierdoz",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
+   "tema": "peggy",
+   "url": "https://x.com/search?q=peggy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Andrada",
+   "url": "https://x.com/search?q=Andrada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cyclops",
+   "url": "https://x.com/search?q=Cyclops",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "TO ME",
+   "url": "https://x.com/search?q=TO%20ME",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Souto",
+   "url": "https://x.com/search?q=Souto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riquelme",
+   "url": "https://x.com/search?q=Riquelme",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$NVDA",
+   "url": "https://x.com/search?q=%24NVDA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sudamericana",
+   "url": "https://x.com/search?q=Sudamericana",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "pago",
+   "tema": "newells",
    "busquedas": "1000+",
-   "nota": "Tarjetas, débito y billeteras virtuales: los medios de pago más usados en los supermercados argentinos",
-   "nota_url": "https://www.eltribuno.com/nacionales/2026-11-22-16-38-0-tarjetas-debito-y-billeteras-virtuales-los-medios-de-pago-mas-usados-en-los-supermercados-argentinos",
-   "medio": "El Tribuno",
+   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
+   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "jensen huang",
+   "tema": "infoeme",
+   "busquedas": "100+",
+   "nota": "Olavarría cumple 159 años: el acto protocolar será en la Plaza Coronel Olavarría",
+   "nota_url": "https://enlineanoticias.com.ar/ciudad/olavarria-cumple-159-anos-el-acto-protocolar-sera-en-la-plaza-coronel-olavarria/",
+   "medio": "En Linea Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clase turista",
    "busquedas": "200+",
-   "nota": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
-   "nota_url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
-   "medio": "The New York Times",
+   "nota": "Franco Colapinto volvió a sorprender en las redes: lo filmaron viajando en clase turista después del GP de Las Vegas",
+   "nota_url": "https://tn.com.ar/deportes/automovilismo/2026/11/23/franco-colapinto-volvio-a-sorprender-en-las-redes-lo-filmaron-viajando-en-clase-turista-despues-del-gp-de-las-vegas/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "quiniela chaqueña",
+   "tema": "tini stoessel",
+   "busquedas": "100+",
+   "nota": "Rodrigo De Paul confirmó cuándo se casa con Tini Stoessel: la fecha y los detalles de la boda",
+   "nota_url": "https://www.somosjujuy.com.ar/espectaculos/rodrigo-paul-confirmo-cuando-casa-tini-stoessel-fecha-detalles-boda-n127522",
+   "medio": "Somos Jujuy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "anthropic",
+   "busquedas": "200+",
+   "nota": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+   "nota_url": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+   "medio": "The Guardian",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "línea sarmiento",
+   "busquedas": "200+",
+   "nota": "Transporte público por el feriado: dos líneas de trenes estarán limitadas durante el fin de semana largo",
+   "nota_url": "https://www.perfil.com/sociedad/transporte-publico-por-el-feriado-dos-lineas-de-trenes-estaran-limitadas-durante-el-fin-de-semana-largo-a50-jsm-aJESO6G43mEe",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "investing",
+   "busquedas": "100+",
+   "nota": "After Another Frustrating Reversal, Let’s Recall a Different Buffett Quote",
+   "nota_url": "https://pro.thestreet.com/portfolio/after-another-frustrating-reversal-lets-recall-a-different-buffett-quote",
+   "medio": "RealMoney Pro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "avengers doomsday",
+   "busquedas": "200+",
+   "nota": "Avengers: Doomsday Trailer: The MCU Assembles For Its Biggest Battle Yet",
+   "nota_url": "https://www.imdb.com/es/news/ni66124438/?ref_=nwc_art_perm",
+   "medio": "IMDb",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tradingview",
    "busquedas": "500+",
-   "nota": "La Poceada quedó vacante y el nuevo pozo supera los $262 millones",
-   "nota_url": "https://www.datachaco.com/654855-la-poceada-quedo-vacante-y-el-nuevo-pozo-supera-los-262-millones",
-   "medio": "DataChaco",
+   "nota": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+   "nota_url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+   "medio": "Financial Times",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "quiniela",
-   "busquedas": "1000+",
-   "nota": "Resultados de la Quiniela de la Provincia ronda Nocturna de hoy, 21 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/loterias/quiniela-provincia/resultados-de-la-quiniela-de-la-provincia-ronda-nocturna-de-hoy-21-de-noviembre-nid21112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela de hoy",
+   "tema": "telekino 2455 resultados",
    "busquedas": "2000+",
-   "nota": "Telekino 2455: todos los premios del sorteo de este domingo 22 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/loterias/telekino-2455-todos-los-premios-del-sorteo-de-este-domingo-22-de-noviembre-nid22112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fk neftchi fergana - al hilal",
-   "busquedas": "200+",
-   "nota": "Uzbek clubs to face Saudi teams today",
-   "nota_url": "https://qalampir.uz/en/news/bugun-uzbekiston-klublari-saudiya-zhamoalariga-k-arshi-uynaydi-146791",
-   "medio": "Qalampir.uz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quinielas de hoy",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cyberleek",
-   "busquedas": "500+",
-   "nota": "GTA 6 Leaker Returns to Allegedly Release a Near-Complete Xbox Build, but Is Holding a Crucial File Back for Now",
-   "nota_url": "https://www.ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
-   "medio": "IGN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "embargo",
-   "busquedas": "200+",
-   "nota": "El embargo era un reloj y la Inteligencia Artificial lo adelantó",
-   "nota_url": "https://criptotendencia.com/2026/11/22/el-embargo-era-un-reloj-bitcoin-core/",
-   "medio": "CriptoTendencia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "final copa potrero 2026",
-   "busquedas": "500+",
-   "nota": "VIDEO: resumen de la fecha 5 de la Copa Potrero 2026",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17529916/video-copa-potrero-2026-resumen-goles-fecha-5",
-   "medio": "ESPN Argentina",
+   "nota": "Telekino: el pozo millonario sigue vacante y se sorteará el próximo domingo 29 de noviembre 2026",
+   "nota_url": "https://www.rionegro.com.ar/servicios/telekino-pozo-mayor-vacante-rumbo-al-cierre-de-noviembre-2026-4809580/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   }
