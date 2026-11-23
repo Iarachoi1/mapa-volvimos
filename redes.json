@@ -1,16 +1,10 @@
 {
- "actualizado": "23/11 14:49",
+ "actualizado": "23/11 15:45",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -21,44 +15,14 @@
    "temas": []
   },
   {
+   "tema": "Tato",
+   "url": "https://x.com/search?q=Tato",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Steve Rogers",
    "url": "https://x.com/search?q=Steve%20Rogers",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jensen Huang",
-   "url": "https://x.com/search?q=Jensen%20Huang",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bucky",
-   "url": "https://x.com/search?q=bucky",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Peggy",
-   "url": "https://x.com/search?q=Peggy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thor",
-   "url": "https://x.com/search?q=Thor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#AvengersDoomsday",
-   "url": "https://x.com/search?q=%23AvengersDoomsday",
    "relevante": false,
    "temas": []
   },
@@ -69,8 +33,26 @@
    "temas": []
   },
   {
-   "tema": "Loki",
-   "url": "https://x.com/search?q=Loki",
+   "tema": "Jensen Huang",
+   "url": "https://x.com/search?q=Jensen%20Huang",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bucky",
+   "url": "https://x.com/search?q=Bucky",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Peggy",
+   "url": "https://x.com/search?q=Peggy",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +63,26 @@
    "temas": []
   },
   {
+   "tema": "Loki",
+   "url": "https://x.com/search?q=Loki",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Thor",
+   "url": "https://x.com/search?q=Thor",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "JoaquÃ­n",
    "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Doom",
+   "url": "https://x.com/search?q=Doom",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +93,26 @@
    "temas": []
   },
   {
+   "tema": "Olga",
+   "url": "https://x.com/search?q=Olga",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Natasha",
+   "url": "https://x.com/search?q=Natasha",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "$NVDA",
    "url": "https://x.com/search?q=%24NVDA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ezpeleta",
-   "url": "https://x.com/search?q=Ezpeleta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Olga",
-   "url": "https://x.com/search?q=Olga",
+   "tema": "Tony",
+   "url": "https://x.com/search?q=Tony",
    "relevante": false,
    "temas": []
   },
@@ -115,102 +121,96 @@
    "url": "https://x.com/search?q=Cyclops",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "TO ME",
-   "url": "https://x.com/search?q=TO%20ME",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "jamie lee curtis",
+   "tema": "guido kaczka",
    "busquedas": "100+",
-   "nota": "In photos: Award-winning actress Jamie Lee Curtis turns 68 - All Photos",
-   "nota_url": "https://www.upi.com/Entertainment_News/Photos/Award-winning-actress-Jamie-Lee-Curtis-turns-68/16397/",
-   "medio": "UPI.com",
+   "nota": "Guido Kaczka se quebró al aire al anunciar la muerte de su madre: \"¿Cómo puede ser así la vida?\"",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/23/guido-kaczka-se-quebro-al-aire-al-anunciar-la-muerte-de-su-madre-como-puede-ser-asi-la-vida/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "elecciones españa",
-   "busquedas": "100+",
-   "nota": "Cómo se elige presidente en España y cuándo son las elecciones anticipadas",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/como-se-elige-presidente-en-espana-y-cuando-son-las-elecciones-anticipadas-nid16112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "nob",
-   "busquedas": "200+",
-   "nota": "Almirón y Kudelka, frente al espejo o al costado del camino",
-   "nota_url": "https://www.cadena3.com/noticia/estadio-3/almiron-y-kudelka-frente-al-espejo-o-al-costado-del-camino_614194",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa potrero",
-   "busquedas": "1000+",
-   "nota": "Racing: Luis Fariña recordó su paso por Racing",
-   "nota_url": "https://www.racingdealma.com.ar/racing-farina-recordo-su-paso-por-el-club/",
-   "medio": "Racing de Alma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hernan lopez",
-   "busquedas": "500+",
-   "nota": "El duro testimonio de un referente de Argentinos Juniors sobre la crisis económica del club: “Hay chicos que no pueden pagar el alquiler”",
-   "nota_url": "https://tn.com.ar/deportes/2026/11/23/el-duro-testimonio-de-un-referente-de-argentinos-juniors-sobre-la-crisis-del-club-hay-chicos-que-no-pueden-pagar-el-alquiler/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gimnasia",
+   "tema": "clima mar del plata",
    "busquedas": "2000+",
-   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
+   "nota": "Asoma el verano en Mar del Plata: anticipan una máxima de 27 grados para la próxima semana",
+   "nota_url": "https://ahoramardelplata.com.ar/sociedad/asoma-el-verano-en-mar-del-plata-anticipan-una-maxima-de-27-grados-para-la-proxima-semana",
+   "medio": "AHORA Mar del Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "boxeo",
+   "busquedas": "100+",
+   "nota": "Sorpresa mundial: Tyson Fury reveló que sufre esquizofrenia, a días de su combate con Joshua",
+   "nota_url": "https://www.tycsports.com/boxeo/sorpresa-mundial-tyson-fury-revelo-que-sufre-esquizofrenia-a-dias-de-su-combate-con-anthony-joshua-id772655.html",
    "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "copa potrero final",
-   "busquedas": "500+",
-   "nota": "VIDEO: resumen de octavos de final de la Copa Potrero 2026",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17537817/video-copa-potrero-2026-resumen-goles-octavos-de-final",
-   "medio": "ESPN Argentina",
+   "tema": "fluminense - mirassol",
+   "busquedas": "2000+",
+   "nota": "Quem cai e quem vai à Libertadores? Veja as projeções matemáticas do Brasileirão",
+   "nota_url": "https://gpsbrasilia.com.br/quem-cai-e-quem-vai-a-libertadores-veja-as-projecoes-matematicas-do-brasileirao/",
+   "medio": "GPS Brasília Portal de Notícias do DF",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "al-shamal - al-ahli saudi",
+   "tema": "jamie lee curtis",
    "busquedas": "200+",
-   "nota": "Al-Shamal vs Al Ahli: Confirmed starting lineups AFC Champions League Elite 2026-27 clash",
-   "nota_url": "https://khelnow.com/football/al-shamal-vs-al-ahli-live-starting-lineups-afc-champions-league-elite-202611",
-   "medio": "Khel Now",
+   "nota": "Why did Jamie Lee Curtis call herself 'the last in the line'? Her sister Kelly died this year",
+   "nota_url": "https://www.nacionale.com/en/articles/why-jamie-lee-curtis-last-in-the-line-68th-birthday-sister-kelly-curtis-died",
+   "medio": "Nacionale",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "hernan lopez muñoz",
+   "tema": "atraso cambiario",
+   "busquedas": "200+",
+   "nota": "El dólar comenzó a moverse",
+   "nota_url": "https://www.mendozapost.com/memo/perspectivas-cavagnaro-dolar-movimiento/",
+   "medio": "Mendoza Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "elecciones españa",
+   "busquedas": "200+",
+   "nota": "Ganador del debate Cara a cara Sánchez - Feijóo, en directo: reacciones y últimas noticias de las eleccione...",
+   "nota_url": "https://www.abc.es/espana/debate-pedro-sanchez-feijoo-directo-resultado-ganador-20261119200902-di.html",
+   "medio": "ABC",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero",
+   "busquedas": "2000+",
+   "nota": "De Paul lo llenó de elogios años atrás y ahora juega en la Copa Potrero",
+   "nota_url": "https://www.dobleamarilla.com.ar/mas-alla-del-futbol/de-paul-lo-lleno-de-elogios-anos-atras-y-ahora-juega-en-la-copa-potrero_a6b019eb233700c6ffa21c4b3",
+   "medio": "Doble Amarilla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "toyota",
    "busquedas": "1000+",
-   "nota": "Bombazo: aseguran que un ex River será el primer refuerzo de Boca",
-   "nota_url": "https://nuevodiarioweb.com.ar/deportes/bombazo-aseguran-que-un-ex-river-sera-el-primer-refuerzo-de-boca.htm",
-   "medio": "Nuevo Diario Web",
+   "nota": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+   "nota_url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+   "medio": "NBC News",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "infoeme",
-   "busquedas": "100+",
-   "nota": "Olavarría cumple 159 años: el acto protocolar será en la Plaza Coronel Olavarría",
-   "nota_url": "https://enlineanoticias.com.ar/ciudad/olavarria-cumple-159-anos-el-acto-protocolar-sera-en-la-plaza-coronel-olavarria/",
-   "medio": "En Linea Noticias",
+   "tema": "gimnasia",
+   "busquedas": "5000+",
+   "nota": "Gimnasia (LP) se enfrenta a Newell's",
+   "nota_url": "https://www.afa.com.ar/es/posts/gimnasia-lp-se-enfrenta-a-newell-s",
+   "medio": "AFA",
    "relevante": false,
    "temas": []
   }
