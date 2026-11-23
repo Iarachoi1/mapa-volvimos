@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 00:50",
+ "actualizado": "23/11 02:01",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Ponzio",
-   "url": "https://x.com/search?q=Ponzio",
+   "tema": "Luna",
+   "url": "https://x.com/search?q=Luna",
    "relevante": false,
    "temas": []
   },
@@ -33,38 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Luna",
-   "url": "https://x.com/search?q=Luna",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Driussi",
-   "url": "https://x.com/search?q=Driussi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LÃ¡zaro",
-   "url": "https://x.com/search?q=L%C3%83%C2%A1zaro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cerato",
-   "url": "https://x.com/search?q=Cerato",
+   "tema": "Alta CÃ³rdoba",
+   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
    "relevante": false,
    "temas": []
   },
@@ -75,26 +45,62 @@
    "temas": []
   },
   {
+   "tema": "Ponzio",
+   "url": "https://x.com/search?q=Ponzio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cerato",
+   "url": "https://x.com/search?q=Cerato",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Andrada",
+   "url": "https://x.com/search?q=Andrada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Driussi",
+   "url": "https://x.com/search?q=Driussi",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "KATE BISHOP",
    "url": "https://x.com/search?q=KATE%20BISHOP",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Besozzi",
-   "url": "https://x.com/search?q=Besozzi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "IbaÃ±ez",
    "url": "https://x.com/search?q=Iba%C3%83%C2%B1ez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "MaÃ±anita",
+   "url": "https://x.com/search?q=Ma%C3%83%C2%B1anita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caicedo",
+   "url": "https://x.com/search?q=Caicedo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +117,25 @@
    "temas": []
   },
   {
-   "tema": "Caicedo",
-   "url": "https://x.com/search?q=Caicedo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Alta CÃ³rdoba",
-   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
+   "tema": "Rosamonte",
+   "url": "https://x.com/search?q=Rosamonte",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "giuliano cerato",
+   "busquedas": "100+",
+   "nota": "Instituto, del festejo a las lágrimas: salieron lesionados Lázaro y Luna, dos de sus figuras",
+   "nota_url": "https://viapais.com.ar/cordoba/instituto-festejo-lagrimas-salieron-lesionados-lazaro-luna-figuras_0_pcNDe1EJWr.html",
+   "medio": "Vía País",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "sorteo quini 6",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "El Siempre Sale del Quini 6 tuvo siete ganadores santafesinos",
    "nota_url": "https://www.lacapital.com.ar/informacion-general/el-siempre-sale-del-quini-6-tuvo-siete-ganadores-santafesinos-n10293673.html",
    "medio": "La Capital",
@@ -135,10 +144,10 @@
   },
   {
    "tema": "fiesta nacional del sol",
-   "busquedas": "100+",
-   "nota": "EN VIVO, el capítulo III de la FNS 2026: los detalles de este domingo, con el cuarteto como epicentro",
-   "nota_url": "https://www.tiempodesanjuan.com/san-juan/en-vivo-el-capitulo-iii-de-la-fns-2026-los-detalles-de-este-domingo-con-el-cuarteto-como-epicentro_1795382945",
-   "medio": "Tiempo de San Juan",
+   "busquedas": "200+",
+   "nota": "Ya llega la Fiesta Nacional del Sol 2026 con importantes shows: dónde y cuándo será",
+   "nota_url": "https://radiomitre.cienradios.com/sociedad/ya-llega-la-fiesta-nacional-del-sol-2026-con-importantes-shows-donde-y-cuando-sera/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
@@ -153,10 +162,10 @@
   },
   {
    "tema": "casa",
-   "busquedas": "500+",
-   "nota": "Del Gaiso ampliará la denuncia contra Beligoy por lavado de dinero",
-   "nota_url": "https://www.ole.com.ar/informacion-general/facundodelgaiso-federicobeligoy-lavadodeactivos-direccionnacionaldearbitraje-danielrafecas_0_z6CfEAaon2.html",
-   "medio": "Olé",
+   "busquedas": "1000+",
+   "nota": "Vendieron su casa a los 50, se mudaron a una casa rodante y recorrieron 30 estados en 4 años",
+   "nota_url": "https://www.losandes.com.ar/por-las-redes/vendieron-su-casa-los-50-se-mudaron-una-casa-rodante-y-recorrieron-30-estados-4-anos-n6015204",
+   "medio": "Los Andes",
    "relevante": false,
    "temas": []
   },
@@ -172,9 +181,9 @@
   {
    "tema": "niebla",
    "busquedas": "200+",
-   "nota": "Un mallorquín gana el concurso a mejor fotografía meteorológica del mundo",
-   "nota_url": "https://www.ultimahora.es/noticias/sociedad/2026/11/21/2751601/mallorquin-gana-concurso-mejor-fotografia-meteorologica-del-mundo.html",
-   "medio": "Ultima Hora",
+   "nota": "Desde Bariloche, el hijo del docente desaparecido en Tucumán pidió no frenar su búsqueda: \"Se va alejando la gente\"",
+   "nota_url": "https://www.rionegro.com.ar/sociedad/desde-bariloche-el-hijo-del-docente-desaparecido-en-tucuman-pidio-no-frenar-su-busqueda-se-va-alejando-la-gente-4809189/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "Marta Fort y Pablo Migliore se mostraron juntos en un boliche: el gesto que llamó la atención y generó polémica",
    "nota_url": "https://tn.com.ar/show/famosos/2026/11/22/marta-fort-y-pablo-migliore-se-mostraron-juntos-en-un-boliche-el-gesto-que-llamo-la-atencion-y-genero-polemica/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "detención",
-   "busquedas": "100+",
-   "nota": "Agentes del ICE causan terror al detener a dos personas en el embarque de un vuelo en Seattle",
-   "nota_url": "https://elpais.com/us/migracion/2026-11-22/agentes-del-ice-causan-terror-al-detener-a-dos-personas-en-el-embarque-de-un-vuelo-en-seattle.html",
-   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   }
