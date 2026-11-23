@@ -1,16 +1,10 @@
 {
- "actualizado": "23/11 15:45",
+ "actualizado": "23/11 16:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   },
@@ -21,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nvidia",
-   "url": "https://x.com/search?q=Nvidia",
+   "tema": "JoaquÃ­n",
+   "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +33,38 @@
    "temas": []
   },
   {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Bucky",
    "url": "https://x.com/search?q=Bucky",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nvidia",
+   "url": "https://x.com/search?q=Nvidia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Loki",
+   "url": "https://x.com/search?q=Loki",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Loki",
-   "url": "https://x.com/search?q=Loki",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thor",
-   "url": "https://x.com/search?q=Thor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "JoaquÃ­n",
-   "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
+   "tema": "Marvel",
+   "url": "https://x.com/search?q=Marvel",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +93,8 @@
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Thor",
+   "url": "https://x.com/search?q=Thor",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +105,14 @@
    "temas": []
   },
   {
-   "tema": "Natasha",
-   "url": "https://x.com/search?q=Natasha",
+   "tema": "Tony",
+   "url": "https://x.com/search?q=Tony",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Endgame",
+   "url": "https://x.com/search?q=Endgame",
    "relevante": false,
    "temas": []
   },
@@ -109,108 +121,96 @@
    "url": "https://x.com/search?q=%24NVDA",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Tony",
-   "url": "https://x.com/search?q=Tony",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cyclops",
-   "url": "https://x.com/search?q=Cyclops",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "brentford - everton",
+   "busquedas": "200+",
+   "nota": "bet365 bonus code: Get £30 in Premier League free bets",
+   "nota_url": "https://mybettingsites.co.uk/news/bet365-bonus-code-get-30-in-premier-league-free-bets-23rd-nov/",
+   "medio": "MyBettingSites.co.uk",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fiorentina",
+   "busquedas": "200+",
+   "nota": "Monza-Fiorentina, formazioni ufficiali: Viery in coppia con Dragusin. A metà campo Oulai e Ndour. Poi Goncalves e Gnonto",
+   "nota_url": "https://www.firenzepost.it/2026/11/23/monza-fiorentina-formazioni-ufficiali-viery-in-coppia-con-dragusin-a-meta-campo-oulai-e-ndour-poi-goncalves-e-gnonto/",
+   "medio": "Firenze Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lavado de dinero",
+   "busquedas": "200+",
+   "nota": "Del Gaiso ampliará la denuncia contra Beligoy por lavado de dinero",
+   "nota_url": "https://www.ole.com.ar/informacion-general/facundodelgaiso-federicobeligoy-lavadodeactivos-direccionnacionaldearbitraje-danielrafecas_0_z6CfEAaon2.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "levante - elche c. f.",
+   "busquedas": "200+",
+   "nota": "Ver Levante vs Elche en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/ver-levante-vs-elche-en-directo-hoy-quien-retransmite-el-partido-por-television-y-en-streaming/blt4e16cd73ed8d0311",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gimnasia - newell's",
+   "busquedas": "10000+",
+   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "monza - fiorentina",
+   "busquedas": "2000+",
+   "nota": "Monza vs Fiorentina: Lineups and how to watch",
+   "nota_url": "https://www.violanation.com/fiorentina-match-coverage/23300/monza-vs-fiorentina-lineups-and-how-to-watch",
+   "medio": "Viola Nation",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tallulah willis",
+   "busquedas": "2000+",
+   "nota": "Bruce Willis' Health Timeline: From Aphasia in 2022 to the Family Updates Fans Are Reading Today",
+   "nota_url": "https://www.jubileecast.com/articles/41262/20261122/bruce-willis-health-timeline-aphasia-2022-frontotemporal-dementia-family-updates.htm",
+   "medio": "JubileeCast",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corte de luz bahia blanca",
+   "busquedas": "200+",
+   "nota": "Edes interrumpirá el servicio en algunos sectores de Bahía y de Laprida",
+   "nota_url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-algunos-sectores-de-bahia-y-de-laprida/",
+   "medio": "BVC Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "guido kaczka",
-   "busquedas": "100+",
-   "nota": "Guido Kaczka se quebró al aire al anunciar la muerte de su madre: \"¿Cómo puede ser así la vida?\"",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/23/guido-kaczka-se-quebro-al-aire-al-anunciar-la-muerte-de-su-madre-como-puede-ser-asi-la-vida/",
-   "medio": "Infobae",
+   "busquedas": "200+",
+   "nota": "El conmovedor mensaje de Guido Kaczka en su programa de radio tras la muerte de su mamá",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/23/el-conmovedor-mensaje-de-guido-kaczka-tras-la-muerte-de-su-mama-ella-me-enseno-un-monton-de-cosas/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "clima mar del plata",
    "busquedas": "2000+",
-   "nota": "Asoma el verano en Mar del Plata: anticipan una máxima de 27 grados para la próxima semana",
-   "nota_url": "https://ahoramardelplata.com.ar/sociedad/asoma-el-verano-en-mar-del-plata-anticipan-una-maxima-de-27-grados-para-la-proxima-semana",
+   "nota": "Del calor a la lluvia: el cambio de tiempo sorprendió a quienes disfrutaban de la playa",
+   "nota_url": "https://ahoramardelplata.com.ar/1/del-calor-a-la-lluvia-cambio-de-tiempo-playa-mar-del-plata",
    "medio": "AHORA Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "boxeo",
-   "busquedas": "100+",
-   "nota": "Sorpresa mundial: Tyson Fury reveló que sufre esquizofrenia, a días de su combate con Joshua",
-   "nota_url": "https://www.tycsports.com/boxeo/sorpresa-mundial-tyson-fury-revelo-que-sufre-esquizofrenia-a-dias-de-su-combate-con-anthony-joshua-id772655.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fluminense - mirassol",
-   "busquedas": "2000+",
-   "nota": "Quem cai e quem vai à Libertadores? Veja as projeções matemáticas do Brasileirão",
-   "nota_url": "https://gpsbrasilia.com.br/quem-cai-e-quem-vai-a-libertadores-veja-as-projecoes-matematicas-do-brasileirao/",
-   "medio": "GPS Brasília Portal de Notícias do DF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jamie lee curtis",
-   "busquedas": "200+",
-   "nota": "Why did Jamie Lee Curtis call herself 'the last in the line'? Her sister Kelly died this year",
-   "nota_url": "https://www.nacionale.com/en/articles/why-jamie-lee-curtis-last-in-the-line-68th-birthday-sister-kelly-curtis-died",
-   "medio": "Nacionale",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atraso cambiario",
-   "busquedas": "200+",
-   "nota": "El dólar comenzó a moverse",
-   "nota_url": "https://www.mendozapost.com/memo/perspectivas-cavagnaro-dolar-movimiento/",
-   "medio": "Mendoza Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "elecciones españa",
-   "busquedas": "200+",
-   "nota": "Ganador del debate Cara a cara Sánchez - Feijóo, en directo: reacciones y últimas noticias de las eleccione...",
-   "nota_url": "https://www.abc.es/espana/debate-pedro-sanchez-feijoo-directo-resultado-ganador-20261119200902-di.html",
-   "medio": "ABC",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "copa potrero",
-   "busquedas": "2000+",
-   "nota": "De Paul lo llenó de elogios años atrás y ahora juega en la Copa Potrero",
-   "nota_url": "https://www.dobleamarilla.com.ar/mas-alla-del-futbol/de-paul-lo-lleno-de-elogios-anos-atras-y-ahora-juega-en-la-copa-potrero_a6b019eb233700c6ffa21c4b3",
-   "medio": "Doble Amarilla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "toyota",
-   "busquedas": "1000+",
-   "nota": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
-   "nota_url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
-   "medio": "NBC News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gimnasia",
-   "busquedas": "5000+",
-   "nota": "Gimnasia (LP) se enfrenta a Newell's",
-   "nota_url": "https://www.afa.com.ar/es/posts/gimnasia-lp-se-enfrenta-a-newell-s",
-   "medio": "AFA",
    "relevante": false,
    "temas": []
   }
