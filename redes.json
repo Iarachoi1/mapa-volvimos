@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 17:40",
+ "actualizado": "23/11 18:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,26 @@
    "temas": []
   },
   {
+   "tema": "Janson",
+   "url": "https://x.com/search?q=Janson",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tato",
    "url": "https://x.com/search?q=Tato",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -27,14 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Jensen Huang",
-   "url": "https://x.com/search?q=Jensen%20Huang",
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
+   "tema": "Jensen Huang",
+   "url": "https://x.com/search?q=Jensen%20Huang",
    "relevante": false,
    "temas": []
   },
@@ -45,38 +63,14 @@
    "temas": []
   },
   {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Nvidia",
    "url": "https://x.com/search?q=Nvidia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Loki",
-   "url": "https://x.com/search?q=Loki",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Peggy",
-   "url": "https://x.com/search?q=Peggy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "connor",
-   "url": "https://x.com/search?q=connor",
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +81,26 @@
    "temas": []
   },
   {
+   "tema": "#Newells",
+   "url": "https://x.com/search?q=%23Newells",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Doom",
    "url": "https://x.com/search?q=Doom",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Loki",
+   "url": "https://x.com/search?q=Loki",
    "relevante": false,
    "temas": []
   },
@@ -99,34 +111,76 @@
    "temas": []
   },
   {
+   "tema": "connor",
+   "url": "https://x.com/search?q=connor",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Olga",
    "url": "https://x.com/search?q=Olga",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tony",
-   "url": "https://x.com/search?q=Tony",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Endgame",
-   "url": "https://x.com/search?q=Endgame",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$NVDA",
-   "url": "https://x.com/search?q=%24NVDA",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "inundación",
+   "tema": "comercio",
+   "busquedas": "100+",
+   "nota": "Falkland/Malvinas: Argentina insiste en que el \"Danstar\" requiere permiso y otra empresa chilena entra a escena",
+   "nota_url": "https://www.emol.com/noticias/Nacional/2026/11/23/1217878/argentina-danstar-permiso-falklandmalvinas-empresa.html",
+   "medio": "Emol",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "final libertadores",
    "busquedas": "200+",
+   "nota": "Conmebol arma el Fan Fest para la final: esperan 10 mil hinchas de Estudiantes sin entrada",
+   "nota_url": "https://www.eldia.com/deportes/conmebol-arma-el-fan-fest-para-la-final-esperan-10-mil-hinchas-de-estudiantes-sin-entrada-deportes_1795435928",
+   "medio": "Diario El Día de La Plata",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reino unido",
+   "busquedas": "200+",
+   "nota": "Evacuaron a más de doce mil personas de un recital en Manchester por la liberación de una sustancia desconocida",
+   "nota_url": "https://www.filo.news/noticia/2026/11/23/evacuaron-a-mas-de-doce-mil-personas-de-un-recital-en-manchester-por-la-liberacion-de-una-sustancia-desconocida",
+   "medio": "Filo News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ámbito financiero",
+   "busquedas": "100+",
+   "nota": "La confianza en el gobierno subió 4,1% en noviembre y volvió a superar los dos puntos",
+   "nota_url": "https://www.filo.news/noticia/2026/11/23/la-confianza-en-el-gobierno-subio-4-1-en-noviembre-y-volvio-a-superar-los-dos-puntos",
+   "medio": "Filo News",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "oliver bearman",
+   "busquedas": "100+",
+   "nota": "Un medio italiano desmintió que Flavio Briatore busque reemplazar a Franco Colapinto en 2027",
+   "nota_url": "https://tn.com.ar/deportes/2026/11/23/un-medio-italiano-desmintio-que-flavio-briatore-busque-reemplazar-a-franco-colapinto-en-2027/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "libertadores",
+   "busquedas": "500+",
+   "nota": "¿Quién es quién en Estudiantes?",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/23/quien-es-quien-en-estudiantes/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inundación",
+   "busquedas": "500+",
    "nota": "San Francisco se prepara para fuertes tormentas y marea alta, alcalde pide reconsiderar viajes",
    "nota_url": "https://www.clarin.com/estados-unidos/san-francisco-se-prepara-para-fuertes-tormentas-y-marea-alta-alcalde-pide-reconsiderar-viajes_0_CtqIV0EloE.html",
    "medio": "Clarin.com",
@@ -135,10 +189,19 @@
   },
   {
    "tema": "riesgo país",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Cae el riesgo país: Wall Street rebota con fuerza y contagia a las acciones argentinas que cotizan en Nueva York",
    "nota_url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
    "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "everton fc",
+   "busquedas": "200+",
+   "nota": "Everton FC and EDSA working together to improve accessibility at Hill Dickinson Stadium",
+   "nota_url": "https://explore-liverpool.com/everton-fc-and-edsa-working-together-to-improve-accessibility-at-hill-dickinson-stadium/",
+   "medio": "Explore Liverpool",
    "relevante": false,
    "temas": []
   },
@@ -148,69 +211,6 @@
    "nota": "Tiempo de descuento",
    "nota_url": "https://www.perfil.com/columnistas/tiempo-de-descuento-aBWMm4f4gjkD",
    "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima concordia",
-   "busquedas": "100+",
-   "nota": "Clima en Concordia hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brentford - everton",
-   "busquedas": "1000+",
-   "nota": "bet365 bonus code: Get £30 in Premier League free bets",
-   "nota_url": "https://mybettingsites.co.uk/news/bet365-bonus-code-get-30-in-premier-league-free-bets-23rd-nov/",
-   "medio": "MyBettingSites.co.uk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fiorentina",
-   "busquedas": "500+",
-   "nota": "Pronostico Monza-Fiorentina: Entrambe le squadre sono determinate a vincere.",
-   "nota_url": "https://www.vietnam.vn/it/nhan-dinh-monza-vs-fiorentina-ca-hai-cung-khat-thang",
-   "medio": "Vietnam.vn",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lavado de dinero",
-   "busquedas": "200+",
-   "nota": "Del Gaiso ampliará la denuncia contra Beligoy por lavado de dinero",
-   "nota_url": "https://www.ole.com.ar/informacion-general/facundodelgaiso-federicobeligoy-lavadodeactivos-direccionnacionaldearbitraje-danielrafecas_0_z6CfEAaon2.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fiorentina vs",
-   "busquedas": "200+",
-   "nota": "Licensable picture: Soccer 2026: Monza Vs Fiorentina",
-   "nota_url": "https://www.reutersconnect.com/item/soccer-2026-monza-vs-fiorentina/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA0VFI4RDI",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gelp",
-   "busquedas": "200+",
-   "nota": "Un recibimiento a la altura del Lobo: la impresionante fiesta de la hinchada de Gimnasia",
-   "nota_url": "https://www.infocielo.com/deportes/un-recibimiento-a-la-altura-del-lobo-la-impresionante-fiesta-de-la-hinchada-de-gimnasia",
-   "medio": "Infocielo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "levante - elche c. f.",
-   "busquedas": "500+",
-   "nota": "Ver Levante vs Elche en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/ver-levante-vs-elche-en-directo-hoy-quien-retransmite-el-partido-por-television-y-en-streaming/blt4e16cd73ed8d0311",
-   "medio": "Goal.com",
    "relevante": false,
    "temas": []
   }
