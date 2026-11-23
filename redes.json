@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 08:43",
+ "actualizado": "23/11 09:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,8 +15,20 @@
    "temas": []
   },
   {
+   "tema": "#BuenLunes",
+   "url": "https://x.com/search?q=%23BuenLunes",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Izquierdoz",
    "url": "https://x.com/search?q=Izquierdoz",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -27,14 +39,20 @@
    "temas": []
   },
   {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
+   "tema": "Mineiro",
+   "url": "https://x.com/search?q=Mineiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GALVAN",
+   "url": "https://x.com/search?q=GALVAN",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Mineiro",
-   "url": "https://x.com/search?q=Mineiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Ponzio",
    "url": "https://x.com/search?q=Ponzio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "GALVAN",
-   "url": "https://x.com/search?q=GALVAN",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
+   "tema": "RomÃ¡n",
+   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "RomÃ¡n",
-   "url": "https://x.com/search?q=Rom%C3%83%C2%A1n",
+   "tema": "ALMADA",
+   "url": "https://x.com/search?q=ALMADA",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +111,73 @@
    "temas": []
   },
   {
-   "tema": "Russell",
-   "url": "https://x.com/search?q=Russell",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Crostita",
    "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tesla",
-   "url": "https://x.com/search?q=Tesla",
+   "tema": "Russell",
+   "url": "https://x.com/search?q=Russell",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "tormenta",
+   "busquedas": "1000+",
+   "nota": "Lunes feriado con lluvias y tormentas en Córdoba",
+   "nota_url": "https://www.cba24n.com.ar/cordoba/lunes-feriado-con-lluvias-y-tormentas-en-cordoba_a6b032f39da3507e1cabaacbd",
+   "medio": "Cba24n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "devaluación",
+   "busquedas": "200+",
+   "nota": "Efecto Brasil y brecha cambiaria: advierten por vencimientos de deuda y tensiones en el dólar",
+   "nota_url": "https://www.lavoz.com.ar/politica/efecto-brasil-brecha-cambiaria-advierten-vencimientos-deuda-tensiones-dolar_0_6oklwRbj7P.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "masterchef celebrity argentina",
+   "busquedas": "200+",
+   "nota": "Hernán de Mala Fama contó por qué bautizó “La parabronca” a su pizza y conmovió a Martitegui",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/23/hernan-de-mala-fama-conto-por-que-bautizo-la-parabronca-a-su-pizza-y-conmovio-a-martitegui/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fuego",
+   "busquedas": "200+",
+   "nota": "Dos hidroaviones del Ministerio se suman ya a las labores de extinción del fuego en Formentor",
+   "nota_url": "https://forbes.es/baleares/actualidad-baleares/1070592/dos-hidroaviones-del-ministerio-se-suman-ya-a-las-labores-de-extincion-del-fuego-en-formentor/",
+   "medio": "Forbes España",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "balcón",
+   "busquedas": "200+",
+   "nota": "¿Tenés un balcón? Estas plantas pueden atraer mariposas y picaflores",
+   "nota_url": "https://www.parati.com.ar/deco/tenes-un-balcon-como-convertirlo-en-un-refugio-para-mariposas-y-picaflores/",
+   "medio": "Revista Para Ti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de chicago fire fc contra charlotte fc",
+   "busquedas": "500+",
+   "nota": "Full-Time Clip: Pep Biel Last-Minute Winner Gives Charlotte FC 2-1 Win in Match One",
+   "nota_url": "https://www.charlottefootballclub.com/news/full-time-clip-pep-biel-last-minute-winner-gives-charlotte-fc-2-1-win-in-match-one",
+   "medio": "Charlotte FC",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "irán",
    "busquedas": "100+",
@@ -134,29 +188,20 @@
    "temas": []
   },
   {
-   "tema": "23 de noviembre",
+   "tema": "mendoza",
    "busquedas": "100+",
-   "nota": "Horóscopo de Mizada Mohamed de la semana del 23 al 29 de noviembre 2026: las predicciones para los 12 signos zodiacales",
-   "nota_url": "https://www.ambito.com/mexico/espiritualidad/horoscopo-mizada-mohamed-la-semana-del-23-al-29-noviembre-2026-las-predicciones-los-12-signos-zodiacales-n6348150",
-   "medio": "Ambito",
+   "nota": "Lunes feriado con leve ascenso de la temperatura y posibles tormentas por la noche",
+   "nota_url": "https://www.elcucodigital.com/lunes-feriado-con-leve-ascenso-de-la-temperatura-y-posibles-tormentas-por-la-noche/",
+   "medio": "El Cuco Digital",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "canal 13",
    "busquedas": "100+",
-   "nota": "Problemas en El Trece: importante conductora decidió irse y hubo fuertes discusiones",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/problemas-trece-importante-conductora-decidio-irse-hubo-fuertes-discusiones-20261121133838",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mala fama",
-   "busquedas": "200+",
-   "nota": "La particular historia detrás de \"La parabronca\", la pizza de Hernán de Mala Fama que sorprendió a Martitegui",
-   "nota_url": "https://www.ciudad.com.ar/videos/espectaculos/2026/11/23/la-particular-historia-detras-de-la-parabronca-la-pizza-de-hernan-de-mala-fama-que-sorprendio-a-martitegui/",
-   "medio": "Ciudad Magazine",
+   "nota": "Juana Viale dejó todo grabado y se espera la despedida de Mirtha",
+   "nota_url": "https://laubfal.com/juana-viale-dejo-todo-grabado-y-se-espera-la-despedida-de-mirtha/",
+   "medio": "laubfal",
    "relevante": false,
    "temas": []
   },
@@ -166,51 +211,6 @@
    "nota": "Riesgo de hundirse",
    "nota_url": "https://www.elcohetealaluna.com/riesgo-de-hundirse/",
    "medio": "El Cohete a la Luna",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chris rock",
-   "busquedas": "100+",
-   "nota": "From London to Paris, Berlin and Madrid, GQ Men of the Year Delivers a Menswear Mix",
-   "nota_url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/london-paris-berlin-madrid-gq-233220554.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diego simeone",
-   "busquedas": "2000+",
-   "nota": "Atlético de Madrid goleó al Getafe con dos asistencias de Julián Álvarez y el Cholo Simeone alcanzó un récord histórico en España",
-   "nota_url": "https://www.clarin.com/deportes/atletico-madrid-goleo-getafe-asistencias-julian-alvarez-cholo-simeone-alcanzo-record-historico-espana_0_wPYDHVZ8I7.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inversión",
-   "busquedas": "200+",
-   "nota": "La importancia del orden macro para impulsar proyectos de inversión… ¿es suficiente?",
-   "nota_url": "https://www.infobae.com/opinion/2026/11/22/la-importancia-del-orden-macro-para-impulsar-proyectos-de-inversion-es-suficiente/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "longevidad",
-   "busquedas": "500+",
-   "nota": "Longevidad: el hábito cotidiano que más pesa, según expertos",
-   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/46825_longevidad-el-hbito-cotidiano-que-ms-pesa-segn-expertos.htm",
-   "medio": "Identidad Correntina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leonardo ponzio",
-   "busquedas": "200+",
-   "nota": "El contundente mensaje de Ponzio tras el triunfo de River ante Lanús: “Me gané el lugar que tengo, quiero ser el entrenador”",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/23/el-contundente-mensaje-de-ponzio-tras-el-triunfo-de-river-ante-lanus-me-gane-el-lugar-que-tengo-quiero-ser-el-entrenador/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
