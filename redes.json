@@ -1,7 +1,19 @@
 {
- "actualizado": "23/11 18:40",
+ "actualizado": "23/11 19:41",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Newell",
+   "url": "https://x.com/search?q=Newell",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
@@ -9,14 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Janson",
-   "url": "https://x.com/search?q=Janson",
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tato",
-   "url": "https://x.com/search?q=Tato",
+   "tema": "Gimnasia",
+   "url": "https://x.com/search?q=Gimnasia",
    "relevante": false,
    "temas": []
   },
@@ -27,62 +39,74 @@
    "temas": []
   },
   {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
+   "tema": "Guch",
+   "url": "https://x.com/search?q=Guch",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
+   "tema": "Russo",
+   "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "JoaquÃ­n",
-   "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
+   "tema": "Miramon",
+   "url": "https://x.com/search?q=Miramon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
+   "tema": "Kudelka",
+   "url": "https://x.com/search?q=Kudelka",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jensen Huang",
-   "url": "https://x.com/search?q=Jensen%20Huang",
+   "tema": "#IntegracionLivie",
+   "url": "https://x.com/search?q=%23IntegracionLivie",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bucky",
-   "url": "https://x.com/search?q=Bucky",
+   "tema": "Janson",
+   "url": "https://x.com/search?q=Janson",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nvidia",
-   "url": "https://x.com/search?q=Nvidia",
+   "tema": "Solari",
+   "url": "https://x.com/search?q=Solari",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
+   "tema": "#GELP",
+   "url": "https://x.com/search?q=%23GELP",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Marvel",
-   "url": "https://x.com/search?q=Marvel",
+   "tema": "Mazzanti",
+   "url": "https://x.com/search?q=Mazzanti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Newells",
-   "url": "https://x.com/search?q=%23Newells",
+   "tema": "Tato",
+   "url": "https://x.com/search?q=Tato",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Coccaro",
+   "url": "https://x.com/search?q=Coccaro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bosque",
+   "url": "https://x.com/search?q=Bosque",
    "relevante": false,
    "temas": []
   },
@@ -93,124 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Doom",
-   "url": "https://x.com/search?q=Doom",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Loki",
-   "url": "https://x.com/search?q=Loki",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thor",
-   "url": "https://x.com/search?q=Thor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "connor",
-   "url": "https://x.com/search?q=connor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Olga",
-   "url": "https://x.com/search?q=Olga",
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "comercio",
-   "busquedas": "100+",
-   "nota": "Falkland/Malvinas: Argentina insiste en que el \"Danstar\" requiere permiso y otra empresa chilena entra a escena",
-   "nota_url": "https://www.emol.com/noticias/Nacional/2026/11/23/1217878/argentina-danstar-permiso-falklandmalvinas-empresa.html",
-   "medio": "Emol",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "final libertadores",
+   "tema": "botafogo - são paulo",
    "busquedas": "200+",
-   "nota": "Conmebol arma el Fan Fest para la final: esperan 10 mil hinchas de Estudiantes sin entrada",
-   "nota_url": "https://www.eldia.com/deportes/conmebol-arma-el-fan-fest-para-la-final-esperan-10-mil-hinchas-de-estudiantes-sin-entrada-deportes_1795435928",
-   "medio": "Diario El Día de La Plata",
+   "nota": "Venda de Ingressos: Botafogo x São Paulo",
+   "nota_url": "https://fimdejogo.com.br/venda-de-ingressos-botafogo-x-sao-paulo-6/",
+   "medio": "Fim de Jogo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "reino unido",
-   "busquedas": "200+",
-   "nota": "Evacuaron a más de doce mil personas de un recital en Manchester por la liberación de una sustancia desconocida",
-   "nota_url": "https://www.filo.news/noticia/2026/11/23/evacuaron-a-mas-de-doce-mil-personas-de-un-recital-en-manchester-por-la-liberacion-de-una-sustancia-desconocida",
-   "medio": "Filo News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ámbito financiero",
+   "tema": "internacional",
    "busquedas": "100+",
-   "nota": "La confianza en el gobierno subió 4,1% en noviembre y volvió a superar los dos puntos",
-   "nota_url": "https://www.filo.news/noticia/2026/11/23/la-confianza-en-el-gobierno-subio-4-1-en-noviembre-y-volvio-a-superar-los-dos-puntos",
-   "medio": "Filo News",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "oliver bearman",
-   "busquedas": "100+",
-   "nota": "Un medio italiano desmintió que Flavio Briatore busque reemplazar a Franco Colapinto en 2027",
-   "nota_url": "https://tn.com.ar/deportes/2026/11/23/un-medio-italiano-desmintio-que-flavio-briatore-busque-reemplazar-a-franco-colapinto-en-2027/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "libertadores",
-   "busquedas": "500+",
-   "nota": "¿Quién es quién en Estudiantes?",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/23/quien-es-quien-en-estudiantes/",
+   "nota": "La ONU alerta de la expansión regional de la guerra en Ucrania y de un invierno crítico",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/23/la-onu-alerta-de-la-expansion-regional-de-la-guerra-en-ucrania-y-de-un-invierno-critico/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "inundación",
-   "busquedas": "500+",
-   "nota": "San Francisco se prepara para fuertes tormentas y marea alta, alcalde pide reconsiderar viajes",
-   "nota_url": "https://www.clarin.com/estados-unidos/san-francisco-se-prepara-para-fuertes-tormentas-y-marea-alta-alcalde-pide-reconsiderar-viajes_0_CtqIV0EloE.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "riesgo país",
-   "busquedas": "2000+",
-   "nota": "Cae el riesgo país: Wall Street rebota con fuerza y contagia a las acciones argentinas que cotizan en Nueva York",
-   "nota_url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "everton fc",
+   "tema": "s&p 500",
    "busquedas": "200+",
-   "nota": "Everton FC and EDSA working together to improve accessibility at Hill Dickinson Stadium",
-   "nota_url": "https://explore-liverpool.com/everton-fc-and-edsa-working-together-to-improve-accessibility-at-hill-dickinson-stadium/",
-   "medio": "Explore Liverpool",
+   "nota": "S&P 500 Surges 4.3% at Midday With Nasdaq Up 6.7%",
+   "nota_url": "https://247wallst.com/cards/half-a-session-has-handed-the-nasdaq-a-6-7-gain-the-kind-o-gspc-market-bell-01m84nr8pnk3m2dfwmcpdnm9v0",
+   "medio": "24/7 Wall St.",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "recesion economica",
+   "tema": "barco",
+   "busquedas": "500+",
+   "nota": "Ucrania golpea a la Armada rusa en Libia, a 2.000 kilómetros de la línea de frente",
+   "nota_url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+   "medio": "EL PAÍS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "todo noticias",
+   "busquedas": "500+",
+   "nota": "Una cárcel para hombres con capacidad para más de 1800 presos: cómo es el lugar donde está detenido uno de los acróbatas cordobeses en EE.UU.",
+   "nota_url": "https://tn.com.ar/sociedad/2026/11/22/una-carcel-con-capacidad-para-mas-de-1800-presos-como-es-el-lugar-donde-esta-detenido-uno-de-los-acrobatas-cordobeses-en-eeuu/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sancor",
    "busquedas": "100+",
+   "nota": "Un frente “anti” Adecoagro propone una inédita salida para la gran láctea que busca comprador",
+   "nota_url": "https://www.cronista.com/negocios/un-frente-anti-adecoagro-propone-una-inedita-salida-para-la-gran-lactea-que-busca-comprador/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gran hermano",
+   "busquedas": "200+",
+   "nota": "La polémica actitud de un participante de Gran Hermano Uruguay que generó revuelo en redes",
+   "nota_url": "https://la100.cienradios.com/espectaculos/la-polemica-actitud-de-un-participante-de-gran-hermano-uruguay-que-genero-revuelo-en-redes/",
+   "medio": "La 100",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "internacional - vitória",
+   "busquedas": "500+",
+   "nota": "Raio-X: Inter recebe o Vitória pela 36ª rodada do Brasileirão",
+   "nota_url": "https://internacional.com.br/noticias/masculino/raio-x-inter-recebe-o-vitoria-pela-36-rodada-do-brasileirao",
+   "medio": "Sport Club Internacional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recesion",
+   "busquedas": "200+",
    "nota": "Tiempo de descuento",
    "nota_url": "https://www.perfil.com/columnistas/tiempo-de-descuento-aBWMm4f4gjkD",
    "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "edwuin cetré",
+   "busquedas": "100+",
+   "nota": "El pedido de los nenes para Edwuin Cetré y la ilusión de Estudiantes por la Copa Libertadores",
+   "nota_url": "https://www.0221.com.ar/estudiantes/el-pedido-los-nenes-edwuin-cetre-y-la-ilusion-estudiantes-la-copa-libertadores-n137881",
+   "medio": "0221",
    "relevante": false,
    "temas": []
   }
