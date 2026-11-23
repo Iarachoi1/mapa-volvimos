@@ -1,7 +1,13 @@
 {
- "actualizado": "22/11 23:06",
+ "actualizado": "23/11 00:50",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "River",
    "url": "https://x.com/search?q=River",
@@ -9,32 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Andrada",
-   "url": "https://x.com/search?q=Andrada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Almada",
-   "url": "https://x.com/search?q=Almada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Driussi",
-   "url": "https://x.com/search?q=Driussi",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "LanÃºs",
-   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
+   "tema": "HuracÃ¡n",
+   "url": "https://x.com/search?q=Hurac%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +27,56 @@
    "temas": []
   },
   {
-   "tema": "Izquierdoz",
-   "url": "https://x.com/search?q=Izquierdoz",
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "EspÃ­ndola",
-   "url": "https://x.com/search?q=Esp%C3%83%C2%ADndola",
+   "tema": "Andrada",
+   "url": "https://x.com/search?q=Andrada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Galvan",
-   "url": "https://x.com/search?q=Galvan",
+   "tema": "Luna",
+   "url": "https://x.com/search?q=Luna",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "AcuÃ±a",
-   "url": "https://x.com/search?q=Acu%C3%83%C2%B1a",
+   "tema": "Driussi",
+   "url": "https://x.com/search?q=Driussi",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ortega",
-   "url": "https://x.com/search?q=Ortega",
+   "tema": "LÃ¡zaro",
+   "url": "https://x.com/search?q=L%C3%83%C2%A1zaro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Almada",
+   "url": "https://x.com/search?q=Almada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cerato",
+   "url": "https://x.com/search?q=Cerato",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Kempes",
+   "url": "https://x.com/search?q=Kempes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "KATE BISHOP",
+   "url": "https://x.com/search?q=KATE%20BISHOP",
    "relevante": false,
    "temas": []
   },
@@ -81,137 +87,131 @@
    "temas": []
   },
   {
-   "tema": "Valois",
-   "url": "https://x.com/search?q=Valois",
+   "tema": "LanÃºs",
+   "url": "https://x.com/search?q=Lan%C3%83%C2%BAs",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Otamendi",
-   "url": "https://x.com/search?q=Otamendi",
+   "tema": "IbaÃ±ez",
+   "url": "https://x.com/search?q=Iba%C3%83%C2%B1ez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BeltrÃ¡n",
-   "url": "https://x.com/search?q=Beltr%C3%83%C2%A1n",
+   "tema": "Palazzo",
+   "url": "https://x.com/search?q=Palazzo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Salvio",
-   "url": "https://x.com/search?q=Salvio",
+   "tema": "Izquierdoz",
+   "url": "https://x.com/search?q=Izquierdoz",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Souto",
-   "url": "https://x.com/search?q=Souto",
+   "tema": "Caicedo",
+   "url": "https://x.com/search?q=Caicedo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Marcelino",
-   "url": "https://x.com/search?q=Marcelino",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pereyra",
-   "url": "https://x.com/search?q=Pereyra",
+   "tema": "Alta CÃ³rdoba",
+   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ricardo fort",
+   "tema": "sorteo quini 6",
+   "busquedas": "500+",
+   "nota": "El Siempre Sale del Quini 6 tuvo siete ganadores santafesinos",
+   "nota_url": "https://www.lacapital.com.ar/informacion-general/el-siempre-sale-del-quini-6-tuvo-siete-ganadores-santafesinos-n10293673.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fiesta nacional del sol",
    "busquedas": "100+",
-   "nota": "El polémico gesto de Pablo Migliore que provocó rumores de romance con Marta Fort",
-   "nota_url": "https://exitoina.perfil.com/noticias/corazon/gesto-pablo-migliore-rumores-romance-con-marta-fort.phtml",
-   "medio": "Exitoina",
+   "nota": "EN VIVO, el capítulo III de la FNS 2026: los detalles de este domingo, con el cuarteto como epicentro",
+   "nota_url": "https://www.tiempodesanjuan.com/san-juan/en-vivo-el-capitulo-iii-de-la-fns-2026-los-detalles-de-este-domingo-con-el-cuarteto-como-epicentro_1795382945",
+   "medio": "Tiempo de San Juan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "valentina salezzi",
+   "busquedas": "100+",
+   "nota": "El rol especial de Fabián Medina Flores en la historia de amor de Valentina Salezzi y Marcos Bozzolasco: \"Para...",
+   "nota_url": "https://caras.perfil.com/noticias/celebridades/fabian-medina-flores-compartio-su-emocion-tras-casar-a-valentina-salezzi-soy-afortunado.phtml",
+   "medio": "Caras",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "casa",
+   "busquedas": "500+",
+   "nota": "Del Gaiso ampliará la denuncia contra Beligoy por lavado de dinero",
+   "nota_url": "https://www.ole.com.ar/informacion-general/facundodelgaiso-federicobeligoy-lavadodeactivos-direccionnacionaldearbitraje-danielrafecas_0_z6CfEAaon2.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mario massaccesi",
+   "busquedas": "500+",
+   "nota": "Mario Massaccesi reveló por qué necesita escapar del ruido y encontrar silencio en sus viajes",
+   "nota_url": "https://www.eltrecetv.com.ar/almorzando-con-juana/2026/11/22/almorzando-con-juana-mario-massaccesi-conto-por-que-busca-el-silencio-en-su-vida-y-que-descubrio-en-sus-viajes-por-el-mundo/",
+   "medio": "eltrecetv",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "niebla",
+   "busquedas": "200+",
+   "nota": "Un mallorquín gana el concurso a mejor fotografía meteorológica del mundo",
+   "nota_url": "https://www.ultimahora.es/noticias/sociedad/2026/11/21/2751601/mallorquin-gana-concurso-mejor-fotografia-meteorologica-del-mundo.html",
+   "medio": "Ultima Hora",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nazareno casero",
+   "busquedas": "500+",
+   "nota": "¿Alfredo Casero se presentará al casting de Marta Fort? El inesperado coqueteo que despertó rumores de romance",
+   "nota_url": "https://www.canalnet.tv/espectaculos/video_alfredo-casero-se-presentara-al-casting-de-marta-fort-el-inesperado-coqueteo-que-desperto-rumores-de-romance_20261120/",
+   "medio": "Net tv | Aire Fresco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "china ansa",
+   "busquedas": "200+",
+   "nota": "Lágrimas, escándalos y acusaciones cruzadas: la inesperada confesión de la China Ansa tras su noche más difícil en el reality",
+   "nota_url": "https://chisme.com.ar/noticia/lagrimas-escandalos-y-acusaciones-cruzadas-la-inesperada-confesion-de-la-china-ansa-tras-su-noche-mas-dificil-en-el-reality/",
+   "medio": "https://chisme.com.ar/",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ricardo fort",
+   "busquedas": "500+",
+   "nota": "Marta Fort y Pablo Migliore se mostraron juntos en un boliche: el gesto que llamó la atención y generó polémica",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/22/marta-fort-y-pablo-migliore-se-mostraron-juntos-en-un-boliche-el-gesto-que-llamo-la-atencion-y-genero-polemica/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "detención",
    "busquedas": "100+",
-   "nota": "Gobernador de Washington afirma que ICE está \"fuera de control\" tras arrestos en un aeropuerto",
-   "nota_url": "https://www.lanacion.com.ar/estados-unidos/gobernador-de-washington-afirma-que-ice-esta-fuera-de-control-tras-arrestos-en-un-aeropuerto-nid22112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "juan bautista mahiques",
-   "busquedas": "200+",
-   "nota": "Mahiques presentó ante la OEA las políticas de la Argentina para fortalecer la lucha contra el narcotráfico",
-   "nota_url": "https://www.argentina.gob.ar/noticias/mahiques-presento-ante-la-oea-las-politicas-de-la-argentina-para-fortalecer-la-lucha-contra",
-   "medio": "Argentina.gob.ar",
+   "nota": "Agentes del ICE causan terror al detener a dos personas en el embarque de un vuelo en Seattle",
+   "nota_url": "https://elpais.com/us/migracion/2026-11-22/agentes-del-ice-causan-terror-al-detener-a-dos-personas-en-el-embarque-de-un-vuelo-en-seattle.html",
+   "medio": "EL PAÍS",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "knicks - pacers",
-   "busquedas": "200+",
-   "nota": "Jaxson Hayes (knee) questionable to return Sunday",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/jaxson-hayes-knee-questionable-to-return-sunday",
-   "medio": "NBC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sofia jujuy",
-   "busquedas": "200+",
-   "nota": "Quién es Gustavo Qüerio Hormaechea, el misterioso empresario que será papá junto a Sofía Jujuy Jiménez",
-   "nota_url": "https://www.a24.com/trends/quien-es-gustavo-querio-hormaechea-el-misterioso-empresario-que-sera-papa-junto-sofia-jujuy-jimenez-n1617296",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors - celtics",
-   "busquedas": "1000+",
-   "nota": "Jayson Tatum (rest) back in lineup Sunday",
-   "nota_url": "https://www.fantasypros.com/nba/news/621894/jayson-tatum-rest-back-lineup-sunday.php",
-   "medio": "FantasyPros",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "telekino",
-   "busquedas": "2000+",
-   "nota": "Telekino 2455: todos los premios del sorteo de este domingo 22 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/loterias/telekino-2455-todos-los-premios-del-sorteo-de-este-domingo-22-de-noviembre-nid22112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jazz - mavericks",
-   "busquedas": "100+",
-   "nota": "Mavericks vs. Jazz Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 22",
-   "nota_url": "https://www.si.com/betting/mavericks-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-22-2026",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jornada laboral",
-   "busquedas": "500+",
-   "nota": "Brasil: Lula reglamentó la eliminación de la jornada laboral 6x1",
-   "nota_url": "https://www.politicargentina.com/notas/202611/77228-brasil-lula-reglamento-la-eliminacion-de-la-jornada-laboral-6x1.html",
-   "medio": "Política Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "demanda colectiva",
-   "busquedas": "200+",
-   "nota": "Proceso judicial colectivo por el show que Shakira cortó antes de tiempo",
-   "nota_url": "https://villamariaya.com/judiciales/proceso-judicial-colectivo-por-el-show-que-shakira-corto-antes-de-tiempo_1795335884",
-   "medio": "Villa Maria Ya",
-   "relevante": true,
    "temas": []
   }
  ],
