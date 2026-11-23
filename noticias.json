@@ -1,10 +1,41 @@
 {
  "semana": "23 de noviembre de 2026",
  "fecha": "2026-11-23",
- "actualizado": "23/11 06:08",
+ "actualizado": "23/11 11:17",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "NVIDIA y el capitalismo de los hombres insustituibles",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "23/11/2026",
+     "url": "https://cenital.com/nvidia-y-el-capitalismo-de-los-hombres-insustituibles/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Quién es quién en el juego online: esta semana se define todo",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "23/11/2026",
+     "url": "https://bardeo.news/sociedad/quien-es-quien-en-el-juego-online--esta-semana-se-define-todo_a6b0429b6cd25aee2887f4b6e"
+    },
+    {
+     "titulo": "Efecto Robertito: el local escrachado sumó 183 mil seguidores",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "23/11/2026",
+     "url": "https://bardeo.news/sociedad/efecto-robertito--el-local-escrachado-sumo-183-mil-seguidores_a6b0438f0cd25aee288800a8f"
+    }
+   ],
+   "imagen": []
+  },
   "CABA": {
    "top3": [
+    {
+     "titulo": "Minuto a minuto. Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
+     "medio": "La Nación",
+     "fecha": "23/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-arranca-una-semana-decisiva-para-la-suspension-de-las-paso-y-la-nid23112026/",
+     "tag": "Calendario electoral · También en Clarín"
+    },
     {
      "titulo": "Dirigentes del peronismo, del radicalismo, ex PRO y la Coalición Cívica debatirán estrategias para construir una alternativa a Milei en 2027",
      "medio": "Infobae",
@@ -13,18 +44,18 @@
      "tag": "Política"
     },
     {
-     "titulo": "Minuto a minuto. Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
-     "medio": "La Nación",
-     "fecha": "23/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-arranca-una-semana-decisiva-para-la-suspension-de-las-paso-y-la-nid23112026/",
-     "tag": "Calendario electoral"
-    },
-    {
      "titulo": "Rutas Nacionales: mientras el Gobierno busca acelerar su privatización, continúa la reducción de partidas para obras viales",
      "medio": "Infobae",
      "fecha": "23/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/23/rutas-nacionales-mientras-el-gobierno-busca-acelerar-su-privatizacion-continua-la-reduccion-de-partidas-para-obras-viales/",
      "tag": "Ciudad"
+    },
+    {
+     "titulo": "El Gobierno pidió evitar un acto en homenaje a Santucho en la UBA",
+     "medio": "El Destape",
+     "fecha": "23/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/milei-medidas-gobierno-vivo-arranca-semana-clave-futuro-paso-elecciones-2027-2026112384440",
+     "tag": "Gestión · También en Infobae"
     },
     {
      "titulo": "El Gobierno, ante una nueva prueba legislativa: el desafío por las PASO y las negociaciones con los aliados rumbo a 2027",
@@ -41,11 +72,25 @@
      "tag": "Calendario electoral"
     },
     {
+     "titulo": "Un dirigente de la UCR porteña juega en las elecciones de la comunidad italiana en Argentina Por Francisco Basualdo",
+     "medio": "Letra P",
+     "fecha": "23/11/2026",
+     "url": "https://www.letrap.com.ar/politica/un-dirigente-la-ucr-portena-juega-las-elecciones-la-comunidad-italiana-argentina-n5428375",
+     "tag": "Calendario electoral"
+    },
+    {
      "titulo": "Una etapa de más diálogo y nuevos acercamientos a la espera de cómo serán las elecciones: el Gobierno empieza a reordenarse",
      "medio": "Infobae",
      "fecha": "23/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/23/una-etapa-de-mas-dialogo-y-nuevos-acercamientos-a-la-espera-de-como-seran-las-elecciones-el-gobierno-empieza-a-reordenarse/",
      "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "LIBERTARIOS VS. FEDERALES Milei prorrogó la intervención del puerto de Tierra del Fuego y reavivó cortocircuitos entre Melella y Vuoto Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "23/11/2026",
+     "url": "https://www.letrap.com.ar/politica/milei-prorrogo-la-intervencion-del-puerto-tierra-del-fuego-y-reavivo-cortocircuitos-melella-y-vuoto-n5428422",
+     "tag": "Política"
     },
     {
      "titulo": "Solo en Off. La Casa Rosada dio la orden y el Gobierno “vació” el festejo del cumpleaños del rey Carlos en la embajada británica",
@@ -60,10 +105,131 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "El Gobierno de Milei no quiere que en la UBA se realice un homenaje a Santucho",
-     "medio": "Noticia 1",
+     "titulo": "IOMA en crisis: libertarios apuntan contra Kicillof y exigen conocer el destino de los fondos LEGISLATURA",
+     "medio": "La Tecla",
      "fecha": "23/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/el-gobierno-de-milei-no-quiere-que-en-la-uba-se-realice-un-homenaje-a-santucho"
+     "url": "https://www.latecla.info/171357-ioma-en-crisis-libertarios-apuntan-contra-kicillof-y-exigen-conocer-el-destino-de-los-fondos"
+    },
+    {
+     "titulo": "La Iglesia le mete presión al Senado para que avance con la ley contra la ludopatía",
+     "medio": "Info Cielo",
+     "fecha": "23/11/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/la-iglesia-le-mete-presion-al-senado-para-que-avance-con-la-ley-contra-la-ludopatia"
+    },
+    {
+     "titulo": "Un intendente del interior vetó una ordenanza para adherirse al RIGI que impulsó la oposición NO VA",
+     "medio": "La Tecla",
+     "fecha": "23/11/2026",
+     "url": "https://www.latecla.info/171359-un-intendente-del-interior-veto-una-ordenanza-para-adherirse-al-rigi-que-impulso-la-oposicion"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Carta abierta La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
+     "medio": "El Ancasti",
+     "fecha": "23/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-iglesia-pidio-al-senado-que-no-deje-caer-la-ley-contra-la-ludopatia-n626581"
+    },
+    {
+     "titulo": "Economía El desempleo encubierto creció durante el gobierno de Milei y llegó al 15,8%",
+     "medio": "El Ancasti",
+     "fecha": "23/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/el-desempleo-encubierto-crecio-el-gobierno-milei-y-llego-al-158-n626574"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Recuerdos que mienten un poco y otras historias olvidadas en las elecciones desdobladas de Chubut",
+     "medio": "ADN Sur",
+     "fecha": "23/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/recuerdos-que-mienten-un-poco-y-otras-historias-olvidadas-en-las-elecciones-desdobladas-de-chubut_a6b0414effd7203bb628d604a"
+    },
+    {
+     "titulo": "Polémica por un homenaje a Mario Santucho en la UBA: el Gobierno pidió sanciones",
+     "medio": "ADN Sur",
+     "fecha": "23/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/polemica-por-un-homenaje-a-mario-santucho-en-la-uba--el-gobierno-pidio-sanciones_a6b043e5dfd7203bb62912199"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Agenda legislativa. Semana clave en el Congreso: el Gobierno busca aprobar la suspensión de las PASO y el Presupuesto",
+     "medio": "Cadena3",
+     "fecha": "23/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/semana-clave-en-el-congreso-el-gobierno-busca-aprobar-la-suspension-de-las-paso-y-el-presupuesto_615692"
+    },
+    {
+     "titulo": "Discusión 2027 Bornoroni lanzó la fórmula Roca-Machado para pelear el gobierno de la ciudad de Córdoba Por Yanina Babiachuk",
+     "medio": "Letra P",
+     "fecha": "23/11/2026",
+     "url": "https://www.letrap.com.ar/politica/gabriel-bornoroni-lanzo-la-formula-roca-machado-pelear-el-gobierno-la-ciudad-cordoba-n5428431"
+    },
+    {
+     "titulo": "Carta abierta. A días del debate en el Senado, la Iglesia pidió que se apruebe la ley contra la ludopatía",
+     "medio": "Cadena3",
+     "fecha": "23/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/a-dias-del-debate-en-el-senado-la-iglesia-pidio-que-se-apruebe-la-ley-contra-la-ludopatia_615691"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "La Iglesia le pidió al Senado que se apruebe la ley contra la ludopatía",
+     "medio": "El Litoral",
+     "fecha": "23/11/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-23-10-21-0-la-iglesia-le-pidio-al-senado-que-se-apruebe-la-ley-contra-la-ludopatia"
+    }
+   ],
+   "imagen": []
+  },
+  "Entre Ríos": {
+   "top3": [
+    {
+     "titulo": "PASO en Entre Ríos: Lena anticipó que la reforma se aprobaría antes de fin de año la suspensión",
+     "medio": "AFP Digital",
+     "fecha": "23/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/23/480285-paso-en-entre-rios-lena-anticipo-que-la-reforma-se-aprobaria-antes-de-fin-de-ano-la-suspension"
+    },
+    {
+     "titulo": "Paraná será sede del encuentro de representantes de las Defensorías del Pueblo de la Región Centro",
+     "medio": "AFP Digital",
+     "fecha": "23/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/23/480273-parana-sera-sede-del-encuentro-de-representantes-de-las-defensorias-del-pueblo-de-la-region-centro",
+     "tag": "También en UNO ER"
+    },
+    {
+     "titulo": "Padrón provisorio: última semana para revisar los datos y reclamar antes del cierre del plazo",
+     "medio": "El Once",
+     "fecha": "23/11/2026",
+     "url": "https://www.elonce.com/politica/padron-provisorio-ultima-semana-para-revisar-los-datos-y-reclamar-antes-del-cierre-del-plazo.htm"
+    }
+   ],
+   "imagen": []
+  },
+  "Jujuy": {
+   "top3": [
+    {
+     "titulo": "Vinos, cultura y paisajes: Jujuy recibió más de 18 mil turistas",
+     "medio": "Prensa oficial de Jujuy",
+     "fecha": "23/11/2026",
+     "url": "https://prensa.jujuy.gob.ar/jujuy/vinos-cultura-y-paisajes-jujuy-recibio-mas-18-mil-turistas-n126077"
+    },
+    {
+     "titulo": "San Pedro abrió las preinscripciones para los CDI 2027: cuáles son los requisitos",
+     "medio": "Somos Jujuy",
+     "fecha": "23/11/2026",
+     "url": "https://www.somosjujuy.com.ar/jujuy/san-pedro-abrio-preinscripciones-cdi-2027-cuales-son-requisitos-n127609"
     }
    ],
    "imagen": []
@@ -71,16 +237,105 @@
   "La Pampa": {
    "top3": [
     {
-     "titulo": "Dudas con intendentes en el frente opositor",
-     "medio": "La Arena",
+     "titulo": "TODOS CONTRA TODOS En La Pampa, la alianza de la UCR, La Libertad Avanza y el PRO cruje antes de nacer Por Juan Pablo Gavazza",
+     "medio": "Letra P",
      "fecha": "23/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/dudas-con-intendentes-en-el-frente-opositor-20261123030"
+     "url": "https://www.letrap.com.ar/politica/en-la-pampa-la-alianza-la-ucr-la-libertad-avanza-y-el-pro-cruje-antes-nacer-n5428232"
     },
     {
-     "titulo": "Bensusán criticó a LLA por reforma: \"Oscurantismo total\"",
-     "medio": "La Arena",
+     "titulo": "Semana clave en el Congreso: reforma electoral, Presupuesto y el informe de gestión de Santilli",
+     "medio": "El Diario de La Pampa",
      "fecha": "23/11/2026",
-     "url": "https://www.laarena.com.ar/la-pampa/bensusan-critico-a-lla-por-reforma-oscurantismo-total-202611230130"
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83523/semana-clave-en-el-congreso--reforma-electoral-presupuesto-y-el-informe-de-gestion-de-santilli"
+    },
+    {
+     "titulo": "La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
+     "medio": "El Diario de La Pampa",
+     "fecha": "23/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83524/la-iglesia-pidio-al-senado-que-no-deje-caer-la-ley-contra-la-ludopatia",
+     "tag": "También en La Pampa 24"
+    }
+   ],
+   "imagen": []
+  },
+  "La Rioja": {
+   "top3": [
+    {
+     "titulo": "El Gobierno encara una semana legislativa clave con una doble sesión por el Presupuesto 2027 y la reforma electoral",
+     "medio": "Nueva Rioja",
+     "fecha": "23/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/el-gobierno-encara-una-semana-legislativa-clave-con-una-doble-sesion-por-el-presupuesto-2027-y-la-reforma-electoral-1.htm"
+    }
+   ],
+   "imagen": []
+  },
+  "Mendoza": {
+   "top3": [
+    {
+     "titulo": "Presupuesto y reforma electoral: el oficialismo sale a buscar votos en el Congreso",
+     "medio": "Memo",
+     "fecha": "23/11/2026",
+     "url": "https://www.memo.com.ar/poder/presupuesto-2027-y-reforma-electoral-milei-busca-votos/"
+    },
+    {
+     "titulo": "Referentes de la UCR, el PRO la CC y el PJ debaten una estrategia para enfrentar a Milei",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/elecciones-referentes-la-ucr-el-pro-la-cc-y-el-pj-debaten-una-estrategia-enfrentar-milei-n1619023"
+    },
+    {
+     "titulo": "Diego Santilli tiene fecha para presentar su gestión en el Senado en una semana clave para el gobierno",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/diego-santilli-tiene-fecha-presentar-su-gestion-el-senado-una-semana-clave-el-gobierno-n1619026"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "Corea del Sur: renunció el ministro de Educación tras un escándalo por fraude con IA en exámenes",
+     "medio": "Primera Edición",
+     "fecha": "23/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101162713/corea-del-sur-renuncia-ministro-fraude-inteligencia-artificial/"
+    },
+    {
+     "titulo": "Una agresión en patota dejó herido a un adolescente en Gobernador Roca",
+     "medio": "El Territorio",
+     "fecha": "23/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/23/928944-una-agresion-en-patota-dejo-herido-a-un-adolescente-en-gobernador-roca"
+    },
+    {
+     "titulo": "Santilli irá al Senado este miércoles para hacer su informe sobre la gestión de Milei",
+     "medio": "El Territorio",
+     "fecha": "23/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/23/928911-santilli-ira-al-senado-este-miercoles-para-hacer-su-informe-sobre-la-gestion-de-milei"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Hartfield sobre encuesta de la CEM: \"Misiones es una provincia antiempresa\"",
+     "medio": "La Voz - Misiones",
+     "fecha": "23/11/2026",
+     "url": "https://lavozdemisiones.com/prensa-institucional/hartfield-sobre-encuesta-de-la-cem-misiones-es-una-provincia-antiempresa"
+    }
+   ]
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Natatorios Neuquén apuesta a la natación: más piletas para aprender, competir y salvar vidas",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "23/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/23/267636-neuquen-apuesta-a-la-natacion-mas-piletas-para-aprender-competir-y-salvar-vidas",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Formación docente Finalizan los conversatorios de matemáticas con nuevas estrategias para enseñar números enteros",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "23/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/23/267693-finalizan-los-conversatorios-de-matematicas-con-nuevas-estrategias-para-ensenar-numeros-enteros"
     }
    ],
    "imagen": []
@@ -88,16 +343,23 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Río Negro proyecta medio billón de pesos en obras para 2027",
-     "medio": "Diario Rio Negro",
+     "titulo": "Cervantes: retuvieron cinco motos por circular con escapes libres",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "23/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/rio-negro-proyecta-medio-billon-de-pesos-en-obras-para-2027/"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63050/cervantes-retuvieron-cinco-motos-por-circular-con-escapes-libres",
+     "tag": "También en LCR"
     },
     {
-     "titulo": "El juego clandestino crece en Río Negro, hubo 95 reportes en octubre y refuerzan los controles",
+     "titulo": "Alquileres turísticos en Viedma: quedan pocos días para regularizar permisos y qué piden",
      "medio": "Diario Rio Negro",
      "fecha": "23/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/el-juego-clandestino-crece-en-rio-negro-hubo-95-reportes-en-octubre-y-refuerzan-los-controles/"
+     "url": "https://www.rionegro.com.ar/politica/alquileres-turisticos-en-viedma-quedan-pocos-dias-para-regularizar-permisos-y-que-piden-4809497/"
+    },
+    {
+     "titulo": "La balsa de Villa Llanquín, un cruce que forma parte de la identidad del pueblo",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "23/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/63034/la-balsa-de-villa-llanquin-un-cruce-que-forma-parte-de-la-identidad-del-pueblo"
     }
    ],
    "imagen": []
@@ -105,22 +367,110 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Importante trabajo contra el narcotráfico: más de 3 millones de dosis fuera de circulación",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "DISCUSIÓN 2027 Vicegobernador se busca en Salta: Sáenz todavía no se lanzó, pero ya le buscan compañero de fórmula Por Maira López",
+     "medio": "Letra P",
      "fecha": "23/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/importante-trabajo-contra-el-narcotrafico-mas-de-3-millones-de-dosis-fuera-de-circulacion-111251"
+     "url": "https://www.letrap.com.ar/politica/vicegobernador-se-busca-salta-gustavo-saenz-todavia-no-se-lanzo-pero-ya-le-buscan-companero-formula-n5428398"
     },
     {
-     "titulo": "Servicio de colectivos para el feriado de hoy",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "\"No dejen morir esta ley\": el fuerte reclamo de la Iglesia al Senado por el proyecto contra la ludopatía",
+     "medio": "Que Pasa Salta",
      "fecha": "23/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/servicio-de-colectivos-para-el-feriado-de-hoy-111217"
+     "url": "https://www.quepasasalta.com.ar/politica/no-dejen-morir-esta-ley-el-fuerte-reclamo-de-la-iglesia-al-senado-por-el-proyecto-contra-la-ludopatia/"
     },
     {
-     "titulo": "Senado listo para votar la suspensión de las PASO",
-     "medio": "El Tribuno",
+     "titulo": "Temporal en Coronel Cornejo: el Comité de Emergencia Climática trabaja en territorio de manera articulada asistiendo a las familias afectadas",
+     "medio": "Prensa oficial de Salta",
      "fecha": "23/11/2026",
-     "url": "https://www.eltribuno.com/nacionales/2026-11-23-0-0-0-senado-listo-para-votar-la-suspension-de-las-paso"
+     "url": "https://www.salta.gob.ar/prensa/noticias/temporal-en-coronel-cornejo-el-comite-de-emergencia-climatica-trabaja-en-territorio-de-manera-articulada-asistiendo-a-las-familias-afectadas-111253"
+    }
+   ],
+   "imagen": []
+  },
+  "San Juan": {
+   "top3": [
+    {
+     "titulo": "El Gobierno nacional busca avanzar con el Presupuesto 2027 y la reforma electoral",
+     "medio": "Huarpe",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariohuarpe.com/nota/presupuesto-2027-y-reforma-electoral-la-semana-clave-que-tendra-el-congreso-202611238220"
+    },
+    {
+     "titulo": "Emotivo homenaje de San Juan a los Héroes de Malvinas en el escenario mayor de la Fiesta Nacional del Sol 2026 Por Redacción Diario de Cuyo",
+     "medio": "Diario de Cuyo",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/san-juan/emotivo-homenaje-san-juan-los-heroes-malvinas-el-escenario-mayor-la-fiesta-nacional-del-sol-2026-n6589317",
+     "tag": "También en El Zonda, Huarpe y 2 más"
+    },
+    {
+     "titulo": "El CEO de Glencore confirmó que continúa el cronograma de EIA y obras tempranas para 2027 Por Carolina Putelli",
+     "medio": "Diario de Cuyo",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/economia/el-ceo-glencore-confirmo-que-continua-el-cronograma-eia-y-obras-tempranas-2027-n6589265"
+    }
+   ],
+   "imagen": []
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "Informaron el cronograma de entregas de diplomas y computadoras hasta fin de año",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "23/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/23/1233555-informaron-el-cronograma-de-entregas-de-diplomas-y-computadoras-hasta-fin-de-ano/"
+    },
+    {
+     "titulo": "‘Entre historias y canciones’: un proyecto que rescata las voces y memorias de la cultura sanluiseña",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "23/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/23/1233760-entre-historias-y-canciones-un-proyecto-que-rescata-las-voces-y-memorias-de-la-cultura-sanluisena/"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Semana clave del Gobierno en el Congreso: reforma electoral, Presupuesto y el informe de gestión de Santilli",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "23/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/nacionales/semana-clave-del-gobierno-en-el-congreso-reforma-electoral-presupuesto-y-el-informe-de-gestion-de-santilli-301/"
+    },
+    {
+     "titulo": "Congreso La Iglesia pidió al Senado que no deje caer la ley contra la ludopatía",
+     "medio": "Tiempo Sur",
+     "fecha": "23/11/2026",
+     "url": "https://www.tiemposur.com.ar/politica/la-iglesia-pidio-al-senado-que-no-deje-caer-la-ley-contra-la-ludopatia"
+    },
+    {
+     "titulo": "La interconexión eléctrica El Pluma–Perito Moreno llega a su etapa final: “Hacemos lo otros abandonaron”, dijo Claudio Vidal",
+     "medio": "La Opinión Austral",
+     "fecha": "23/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/la-interconexion-electrica-el-pluma-perito-moreno-llega-a-su-etapa-final-hacemos-lo-otros-abandonaron-dijo-claudio-vidal-735337.html"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Fe": {
+   "top3": [
+    {
+     "titulo": "A principio de 2027 se rematarán cinco inmuebles decomisados al delito, entre ellos, un edificio céntrico de Rosario",
+     "medio": "Rosario3",
+     "fecha": "23/11/2026",
+     "url": "https://www.rosario3.com/informaciongeneral/a-principio-de-2027-se-remataran-cinco-inmuebles-decomisados-al-delito-entre-ellos-un-edificio-centrico-de-rosario-20261123-0009.html"
+    },
+    {
+     "titulo": "Cosquín 2027: Santa Fe confirmó a los 40 bailarines que representarán a la provincia en el festival",
+     "medio": "UNO - SF",
+     "fecha": "23/11/2026",
+     "url": "https://www.unosantafe.com.ar/escenario/cosquin-2027-santa-fe-confirmo-los-40-bailarines-que-representaran-la-provincia-el-festival-n10293692.html"
+    },
+    {
+     "titulo": "El beach volley rosarino cerró su temporada con un Máster Final que reunió a los mejores del circuito",
+     "medio": "Rosario3",
+     "fecha": "23/11/2026",
+     "url": "https://www.rosario3.com/informaciongeneral/el-beach-volley-rosarino-cerro-su-temporada-con-un-master-final-que-reunio-a-los-mejores-del-circuito-20261123-0005.html",
+     "tag": "También en La Capital"
     }
    ],
    "imagen": []
@@ -128,10 +478,23 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Verano 2027 en marcha: el costo de los paquetes para vacacionar en la Costa, Carlos Paz o Brasil",
+     "titulo": "Semana clave en el Congreso: el oficialismo busca aprobar el Presupuesto 2027, la reforma política y recibe a Diego Santilli",
      "medio": "El Liberal",
      "fecha": "23/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/98801/2026/11/verano-en-marcha--el-costo-delos-paquetes-para-vacacionar-en-la-costa-carlos-paz-o-brasil"
+     "url": "https://www.elliberal.com.ar/nota/98832/2026/11/semana-clave-en-el-congreso--el-oficialismo-busca-aprobar-el-presupuesto-2027-la-reforma-politica-y-recibe-a-diego-santilli"
+    },
+    {
+     "titulo": "Polémica por el homenaje al santiagueño Mario Roberto Santucho en la UBA: el Gobierno pidió suspender el acto",
+     "medio": "Diario Panorama",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573895/polemica-homenaje-al-santiagueno-mario-roberto-santucho-uba-gobierno-pidio-suspender-acto",
+     "tag": "También en El Liberal"
+    },
+    {
+     "titulo": "Hernán Lacunza criticó los cambios electorales de Javier Milei: “La paciencia social no le va a alcanzar”",
+     "medio": "Diario Panorama",
+     "fecha": "23/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/573888/hernan-lacunza-critico-cambios-electorales-javier-milei-paciencia-social-no-les-va-alcanzar"
     }
    ],
    "imagen": [
@@ -142,6 +505,41 @@
      "url": "https://www.elliberal.com.ar/nota/98797/2026/11/el-peronismo-busca-una-estrategia-comun-para-definir-sus-candidaturas-de-cara-a-2027"
     }
    ]
+  },
+  "Tierra del Fuego": {
+   "top3": [
+    {
+     "titulo": "LIBERTARIOS VS. FEDERALES Milei prorrogó la intervención del puerto de Tierra del Fuego y reavivó cortocircuitos entre Melella y Vuoto Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "23/11/2026",
+     "url": "https://www.letrap.com.ar/politica/milei-prorrogo-la-intervencion-del-puerto-tierra-del-fuego-y-reavivo-cortocircuitos-melella-y-vuoto-n5428422"
+    }
+   ],
+   "imagen": []
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "En una semana decisiva en el Congreso, el oficialismo busca asegurar el quórum para el Presupuesto 2027 y reunir los votos para la reforma política",
+     "medio": "Tucumán Despierta",
+     "fecha": "23/11/2026",
+     "url": "https://tucumandespierta.com/en-una-semana-decisiva-en-el-congreso-el-oficialismo-busca-asegurar-el-quorum-para-el-presupuesto-2027-y-reunir-los-votos-para-la-reforma-politica/"
+    },
+    {
+     "titulo": "Con una frase del papa León XIV, la Iglesia presionó al Senado para que apruebe la ley contra la ludopatía",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "23/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1163791/politica/con-frase-papa-leon-xiv-iglesia-presiono-al-senado-para-apruebe-ley-contra-ludopatia.html",
+     "tag": "También en LV12"
+    },
+    {
+     "titulo": "Dirigentes de distintos espacios opositores debatirán cómo construir una alternativa a Milei en 2027",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "23/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1163771/politica/dirigentes-distintos-espacios-opositores-debatiran-como-construir-alternativa-milei-2027.html"
+    }
+   ],
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [
