@@ -1,13 +1,7 @@
 {
- "actualizado": "23/11 19:41",
+ "actualizado": "23/11 20:39",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Newell",
    "url": "https://x.com/search?q=Newell",
@@ -15,14 +9,8 @@
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +21,20 @@
    "temas": []
   },
   {
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Nacho FernÃ¡ndez",
    "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Guch",
-   "url": "https://x.com/search?q=Guch",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -51,32 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Miramon",
-   "url": "https://x.com/search?q=Miramon",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Kudelka",
    "url": "https://x.com/search?q=Kudelka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#IntegracionLivie",
-   "url": "https://x.com/search?q=%23IntegracionLivie",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Janson",
-   "url": "https://x.com/search?q=Janson",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Solari",
-   "url": "https://x.com/search?q=Solari",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +57,38 @@
    "temas": []
   },
   {
-   "tema": "Mazzanti",
-   "url": "https://x.com/search?q=Mazzanti",
+   "tema": "Escobar",
+   "url": "https://x.com/search?q=Escobar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tato",
-   "url": "https://x.com/search?q=Tato",
+   "tema": "Guch",
+   "url": "https://x.com/search?q=Guch",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "MiramÃ³n",
+   "url": "https://x.com/search?q=Miram%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Boero",
+   "url": "https://x.com/search?q=Boero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Solari",
+   "url": "https://x.com/search?q=Solari",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mazzanti",
+   "url": "https://x.com/search?q=Mazzanti",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +99,118 @@
    "temas": []
   },
   {
-   "tema": "Bosque",
-   "url": "https://x.com/search?q=Bosque",
+   "tema": "#IntegracionLivie",
+   "url": "https://x.com/search?q=%23IntegracionLivie",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Carrizo",
+   "url": "https://x.com/search?q=Carrizo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
+   "tema": "Ortega",
+   "url": "https://x.com/search?q=Ortega",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Regiardo",
+   "url": "https://x.com/search?q=Regiardo",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "botafogo - são paulo",
+   "tema": "salario",
    "busquedas": "200+",
-   "nota": "Venda de Ingressos: Botafogo x São Paulo",
-   "nota_url": "https://fimdejogo.com.br/venda-de-ingressos-botafogo-x-sao-paulo-6/",
-   "medio": "Fim de Jogo",
-   "relevante": false,
+   "nota": "'Absurdo': Presidenta de Acopi, gremio de empresas, lanza advertencia a trabajadores por aumento del salario mínimo 2027",
+   "nota_url": "https://redmas.com.co/economia/absurdo-presidenta-de-acopi-gremio-de-empresas-lanza-advertencia-a-trabajadores-por-aumento-del-salario-minimo-2027-20261122-0008.html",
+   "medio": "RED+ Noticias",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "internacional",
-   "busquedas": "100+",
-   "nota": "La ONU alerta de la expansión regional de la guerra en Ucrania y de un invierno crítico",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/23/la-onu-alerta-de-la-expansion-regional-de-la-guerra-en-ucrania-y-de-un-invierno-critico/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "s&p 500",
+   "tema": "dólar oficial hoy",
    "busquedas": "200+",
-   "nota": "S&P 500 Surges 4.3% at Midday With Nasdaq Up 6.7%",
-   "nota_url": "https://247wallst.com/cards/half-a-session-has-handed-the-nasdaq-a-6-7-gain-the-kind-o-gspc-market-bell-01m84nr8pnk3m2dfwmcpdnm9v0",
-   "medio": "24/7 Wall St.",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barco",
-   "busquedas": "500+",
-   "nota": "Ucrania golpea a la Armada rusa en Libia, a 2.000 kilómetros de la línea de frente",
-   "nota_url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
-   "medio": "EL PAÍS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "todo noticias",
-   "busquedas": "500+",
-   "nota": "Una cárcel para hombres con capacidad para más de 1800 presos: cómo es el lugar donde está detenido uno de los acróbatas cordobeses en EE.UU.",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/22/una-carcel-con-capacidad-para-mas-de-1800-presos-como-es-el-lugar-donde-esta-detenido-uno-de-los-acrobatas-cordobeses-en-eeuu/",
+   "nota": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este lunes 23 de noviembre",
+   "nota_url": "https://tn.com.ar/economia/2026/11/23/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-23-de-noviembre/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sancor",
-   "busquedas": "100+",
-   "nota": "Un frente “anti” Adecoagro propone una inédita salida para la gran láctea que busca comprador",
-   "nota_url": "https://www.cronista.com/negocios/un-frente-anti-adecoagro-propone-una-inedita-salida-para-la-gran-lactea-que-busca-comprador/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gran hermano",
+   "tema": "el litoral",
    "busquedas": "200+",
-   "nota": "La polémica actitud de un participante de Gran Hermano Uruguay que generó revuelo en redes",
-   "nota_url": "https://la100.cienradios.com/espectaculos/la-polemica-actitud-de-un-participante-de-gran-hermano-uruguay-que-genero-revuelo-en-redes/",
-   "medio": "La 100",
+   "nota": "El río continúa bajando y se mantiene estable la situación en Puerto Reconquista",
+   "nota_url": "https://www.reconquistahoy.com/93792-el-rio-continua-bajando-y-se-mantiene-estable-la-situacion-en-puerto-reconquista",
+   "medio": "ReconquistaHOY",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "internacional - vitória",
+   "tema": "encuesta",
+   "busquedas": "100+",
+   "nota": "Qué dicen los últimos sondeos en España y por qué Vox podría definir el futuro de Sánchez",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/que-dicen-los-ultimos-sondeos-en-espana-y-por-que-vox-podria-definir-el-futuro-de-sanchez-nid23112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club atlético san lorenzo de almagro",
+   "busquedas": "100+",
+   "nota": "Culotta dejó un mensaje al hincha de San Lorenzo: “La gente tiene que…”",
+   "nota_url": "https://mundoazulgrana.com.ar/culotta-dejo-un-mensaje-al-hincha-de-san-lorenzo-la-gente-tiene-que/",
+   "medio": "Mundo Azulgrana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "foz do iguaçu",
+   "busquedas": "200+",
+   "nota": "Eventos climáticos extremos no Paraná atingem quase mil pessoas no fim de semana",
+   "nota_url": "https://www.plural.jor.br/eventos-climaticos-extremos-no-parana-atingem-quase-mil-pessoas-no-fim-de-semana/",
+   "medio": "Jornal Plural",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de levante ud contra elche c. f.",
+   "busquedas": "200+",
+   "nota": "Requena rescues a point for Levante in 88th minute vs Elche",
+   "nota_url": "https://www.tufutbolero.com/en/news/requena-rescues-a-point-for-levante-in-88th-minute-vs-elche-9b3300",
+   "medio": "Tu Futbolero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "botafogo - são paulo",
+   "busquedas": "1000+",
+   "nota": "Emprestado pelo Botafogo, Artur desfalca o São Paulo no Rio",
+   "nota_url": "https://www.terra.com.br/esportes/sao-paulo/emprestado-pelo-botafogo-artur-desfalca-o-sao-paulo-no-rio,d37fcadc42a7c14a365824d3bc5e330cnlg43u8s.html",
+   "medio": "Terra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "internacional",
    "busquedas": "500+",
-   "nota": "Raio-X: Inter recebe o Vitória pela 36ª rodada do Brasileirão",
-   "nota_url": "https://internacional.com.br/noticias/masculino/raio-x-inter-recebe-o-vitoria-pela-36-rodada-do-brasileirao",
-   "medio": "Sport Club Internacional",
-   "relevante": false,
+   "nota": "El shock financiero complica al Gobierno: presiona al dólar y amenaza el repunte de la economía",
+   "nota_url": "https://www.infobae.com/economia/2026/11/22/el-shock-financiero-complica-al-gobierno-presiona-al-dolar-y-amenaza-el-repunte-de-la-economia/",
+   "medio": "Infobae",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "recesion",
+   "tema": "s&p 500",
    "busquedas": "200+",
-   "nota": "Tiempo de descuento",
-   "nota_url": "https://www.perfil.com/columnistas/tiempo-de-descuento-aBWMm4f4gjkD",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "edwuin cetré",
-   "busquedas": "100+",
-   "nota": "El pedido de los nenes para Edwuin Cetré y la ilusión de Estudiantes por la Copa Libertadores",
-   "nota_url": "https://www.0221.com.ar/estudiantes/el-pedido-los-nenes-edwuin-cetre-y-la-ilusion-estudiantes-la-copa-libertadores-n137881",
-   "medio": "0221",
+   "nota": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 3.01%",
+   "nota_url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476",
+   "medio": "Investing.com",
    "relevante": false,
    "temas": []
   }
