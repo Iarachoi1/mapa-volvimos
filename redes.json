@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 13:48",
+ "actualizado": "23/11 14:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,20 @@
    "temas": []
   },
   {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Crostita",
    "url": "https://x.com/search?q=Crostita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   },
@@ -27,44 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "X-Men",
    "url": "https://x.com/search?q=X-Men",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#AvengersDoomsday",
-   "url": "https://x.com/search?q=%23AvengersDoomsday",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "peggy",
-   "url": "https://x.com/search?q=peggy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "connor",
-   "url": "https://x.com/search?q=connor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nvidia",
-   "url": "https://x.com/search?q=Nvidia",
+   "tema": "Peggy",
+   "url": "https://x.com/search?q=Peggy",
    "relevante": false,
    "temas": []
   },
@@ -75,32 +57,44 @@
    "temas": []
   },
   {
+   "tema": "#AvengersDoomsday",
+   "url": "https://x.com/search?q=%23AvengersDoomsday",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nvidia",
+   "url": "https://x.com/search?q=Nvidia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Loki",
    "url": "https://x.com/search?q=Loki",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "$NVDA",
-   "url": "https://x.com/search?q=%24NVDA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cyclops",
-   "url": "https://x.com/search?q=Cyclops",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TO ME",
-   "url": "https://x.com/search?q=TO%20ME",
+   "tema": "connor",
+   "url": "https://x.com/search?q=connor",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "JoaquÃ­n",
    "url": "https://x.com/search?q=Joaqu%C3%83%C2%ADn",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$NVDA",
+   "url": "https://x.com/search?q=%24NVDA",
    "relevante": false,
    "temas": []
   },
@@ -117,55 +111,97 @@
    "temas": []
   },
   {
-   "tema": "#BuenLunes",
-   "url": "https://x.com/search?q=%23BuenLunes",
+   "tema": "Cyclops",
+   "url": "https://x.com/search?q=Cyclops",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "TO ME",
+   "url": "https://x.com/search?q=TO%20ME",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "hernan lopez",
+   "tema": "jamie lee curtis",
+   "busquedas": "100+",
+   "nota": "In photos: Award-winning actress Jamie Lee Curtis turns 68 - All Photos",
+   "nota_url": "https://www.upi.com/Entertainment_News/Photos/Award-winning-actress-Jamie-Lee-Curtis-turns-68/16397/",
+   "medio": "UPI.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "elecciones españa",
+   "busquedas": "100+",
+   "nota": "Cómo se elige presidente en España y cuándo son las elecciones anticipadas",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/como-se-elige-presidente-en-espana-y-cuando-son-las-elecciones-anticipadas-nid16112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "nob",
    "busquedas": "200+",
-   "nota": "Mientras suena en River, Francisco Álvarez contra la dirigencia de Argentinos Juniors: “Los chicos no puede...",
-   "nota_url": "https://bolavip.com/ar/futbolargentino/francisco-alvarez-contra-la-dirigencia-de-argentinos-juniors-los-chicos-no-pueden-pagar-el-alquiler",
-   "medio": "Bolavip Argentina",
+   "nota": "Almirón y Kudelka, frente al espejo o al costado del camino",
+   "nota_url": "https://www.cadena3.com/noticia/estadio-3/almiron-y-kudelka-frente-al-espejo-o-al-costado-del-camino_614194",
+   "medio": "Cadena 3 Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero",
+   "busquedas": "1000+",
+   "nota": "Racing: Luis Fariña recordó su paso por Racing",
+   "nota_url": "https://www.racingdealma.com.ar/racing-farina-recordo-su-paso-por-el-club/",
+   "medio": "Racing de Alma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hernan lopez",
+   "busquedas": "500+",
+   "nota": "El duro testimonio de un referente de Argentinos Juniors sobre la crisis económica del club: “Hay chicos que no pueden pagar el alquiler”",
+   "nota_url": "https://tn.com.ar/deportes/2026/11/23/el-duro-testimonio-de-un-referente-de-argentinos-juniors-sobre-la-crisis-del-club-hay-chicos-que-no-pueden-pagar-el-alquiler/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gimnasia",
+   "busquedas": "2000+",
+   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa potrero final",
+   "busquedas": "500+",
+   "nota": "VIDEO: resumen de octavos de final de la Copa Potrero 2026",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17537817/video-copa-potrero-2026-resumen-goles-octavos-de-final",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "al-shamal - al-ahli saudi",
    "busquedas": "200+",
-   "nota": "check headline: Al Ahli boss Pušić demands ‘maximum effort’ ahead of Al Shamal clash",
-   "nota_url": "https://www.thechronicle.com.au/sport/check-headline-al-ahli-boss-pui-demands-maximum-effort-ahead-of-al-shamal-clash/video/2d8409bd443d0c5f80595214e900782e",
-   "medio": "Toowoomba Chronicle",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "copa potrero final",
-   "busquedas": "100+",
-   "nota": "Las Diablas convocadas para cerrar el 2026",
-   "nota_url": "https://espndeportes.espn.com/hockey-sobre-cesped/nota/_/id/17523694/las-diablas-convocadas-para-cerrar-el-2026",
-   "medio": "ESPN Deportes",
+   "nota": "Al-Shamal vs Al Ahli: Confirmed starting lineups AFC Champions League Elite 2026-27 clash",
+   "nota_url": "https://khelnow.com/football/al-shamal-vs-al-ahli-live-starting-lineups-afc-champions-league-elite-202611",
+   "medio": "Khel Now",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "hernan lopez muñoz",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Bombazo: aseguran que un ex River será el primer refuerzo de Boca",
    "nota_url": "https://nuevodiarioweb.com.ar/deportes/bombazo-aseguran-que-un-ex-river-sera-el-primer-refuerzo-de-boca.htm",
    "medio": "Nuevo Diario Web",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "newells",
-   "busquedas": "2000+",
-   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
-   "medio": "TyC Sports",
    "relevante": false,
    "temas": []
   },
@@ -175,42 +211,6 @@
    "nota": "Olavarría cumple 159 años: el acto protocolar será en la Plaza Coronel Olavarría",
    "nota_url": "https://enlineanoticias.com.ar/ciudad/olavarria-cumple-159-anos-el-acto-protocolar-sera-en-la-plaza-coronel-olavarria/",
    "medio": "En Linea Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clase turista",
-   "busquedas": "500+",
-   "nota": "Franco Colapinto volvió a sorprender en las redes: lo filmaron viajando en clase turista después del GP de Las Vegas",
-   "nota_url": "https://tn.com.ar/deportes/automovilismo/2026/11/23/franco-colapinto-volvio-a-sorprender-en-las-redes-lo-filmaron-viajando-en-clase-turista-despues-del-gp-de-las-vegas/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tini stoessel",
-   "busquedas": "200+",
-   "nota": "Rodrigo De Paul confirmó cuándo se casa con Tini Stoessel: la fecha y los detalles de la boda",
-   "nota_url": "https://www.somosjujuy.com.ar/espectaculos/rodrigo-paul-confirmo-cuando-casa-tini-stoessel-fecha-detalles-boda-n127522",
-   "medio": "Somos Jujuy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leonida",
-   "busquedas": "200+",
-   "nota": "Players are coming to ‘GTA VI’ for the car chases, but staying for the wildlife",
-   "nota_url": "https://www.fastcompany.com/91645754/players-are-coming-to-gta-vi-for-the-car-chases-but-staying-for-the-wildlife",
-   "medio": "Fast Company",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adolescencia",
-   "busquedas": "100+",
-   "nota": "Crecer con las cuentas en rojo",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/20/la-chicos-tambien-pagan-las-deudas/",
-   "medio": "Página|12",
    "relevante": false,
    "temas": []
   }
