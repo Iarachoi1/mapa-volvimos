@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11 16:54",
+ "actualizado": "23/11 17:40",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -125,8 +125,44 @@
  ],
  "google": [
   {
-   "tema": "brentford - everton",
+   "tema": "inundación",
    "busquedas": "200+",
+   "nota": "San Francisco se prepara para fuertes tormentas y marea alta, alcalde pide reconsiderar viajes",
+   "nota_url": "https://www.clarin.com/estados-unidos/san-francisco-se-prepara-para-fuertes-tormentas-y-marea-alta-alcalde-pide-reconsiderar-viajes_0_CtqIV0EloE.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "riesgo país",
+   "busquedas": "1000+",
+   "nota": "Cae el riesgo país: Wall Street rebota con fuerza y contagia a las acciones argentinas que cotizan en Nueva York",
+   "nota_url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recesion economica",
+   "busquedas": "100+",
+   "nota": "Tiempo de descuento",
+   "nota_url": "https://www.perfil.com/columnistas/tiempo-de-descuento-aBWMm4f4gjkD",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima concordia",
+   "busquedas": "100+",
+   "nota": "Clima en Concordia hoy: cuál es el pronóstico del tiempo para el 22 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-22-de-noviembre-de-2026-nid21112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brentford - everton",
+   "busquedas": "1000+",
    "nota": "bet365 bonus code: Get £30 in Premier League free bets",
    "nota_url": "https://mybettingsites.co.uk/news/bet365-bonus-code-get-30-in-premier-league-free-bets-23rd-nov/",
    "medio": "MyBettingSites.co.uk",
@@ -135,10 +171,10 @@
   },
   {
    "tema": "fiorentina",
-   "busquedas": "200+",
-   "nota": "Monza-Fiorentina, formazioni ufficiali: Viery in coppia con Dragusin. A metà campo Oulai e Ndour. Poi Goncalves e Gnonto",
-   "nota_url": "https://www.firenzepost.it/2026/11/23/monza-fiorentina-formazioni-ufficiali-viery-in-coppia-con-dragusin-a-meta-campo-oulai-e-ndour-poi-goncalves-e-gnonto/",
-   "medio": "Firenze Post",
+   "busquedas": "500+",
+   "nota": "Pronostico Monza-Fiorentina: Entrambe le squadre sono determinate a vincere.",
+   "nota_url": "https://www.vietnam.vn/it/nhan-dinh-monza-vs-fiorentina-ca-hai-cung-khat-thang",
+   "medio": "Vietnam.vn",
    "relevante": false,
    "temas": []
   },
@@ -152,65 +188,29 @@
    "temas": []
   },
   {
-   "tema": "levante - elche c. f.",
+   "tema": "fiorentina vs",
    "busquedas": "200+",
+   "nota": "Licensable picture: Soccer 2026: Monza Vs Fiorentina",
+   "nota_url": "https://www.reutersconnect.com/item/soccer-2026-monza-vs-fiorentina/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA0VFI4RDI",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gelp",
+   "busquedas": "200+",
+   "nota": "Un recibimiento a la altura del Lobo: la impresionante fiesta de la hinchada de Gimnasia",
+   "nota_url": "https://www.infocielo.com/deportes/un-recibimiento-a-la-altura-del-lobo-la-impresionante-fiesta-de-la-hinchada-de-gimnasia",
+   "medio": "Infocielo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "levante - elche c. f.",
+   "busquedas": "500+",
    "nota": "Ver Levante vs Elche en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
    "nota_url": "https://www.goal.com/es-ar/noticias/ver-levante-vs-elche-en-directo-hoy-quien-retransmite-el-partido-por-television-y-en-streaming/blt4e16cd73ed8d0311",
    "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gimnasia - newell's",
-   "busquedas": "10000+",
-   "nota": "Los datos que ponen a Gimnasia como un candidato en los playoffs del Clausura",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/invicto-de-diez-partidos-y-la-fortaleza-de-local-gimnasia-va-por-un-paso-de-candidato-en-playoffs-id772624.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "monza - fiorentina",
-   "busquedas": "2000+",
-   "nota": "Monza vs Fiorentina: Lineups and how to watch",
-   "nota_url": "https://www.violanation.com/fiorentina-match-coverage/23300/monza-vs-fiorentina-lineups-and-how-to-watch",
-   "medio": "Viola Nation",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tallulah willis",
-   "busquedas": "2000+",
-   "nota": "Bruce Willis' Health Timeline: From Aphasia in 2022 to the Family Updates Fans Are Reading Today",
-   "nota_url": "https://www.jubileecast.com/articles/41262/20261122/bruce-willis-health-timeline-aphasia-2022-frontotemporal-dementia-family-updates.htm",
-   "medio": "JubileeCast",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "corte de luz bahia blanca",
-   "busquedas": "200+",
-   "nota": "Edes interrumpirá el servicio en algunos sectores de Bahía y de Laprida",
-   "nota_url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-algunos-sectores-de-bahia-y-de-laprida/",
-   "medio": "BVC Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "guido kaczka",
-   "busquedas": "200+",
-   "nota": "El conmovedor mensaje de Guido Kaczka en su programa de radio tras la muerte de su mamá",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/23/el-conmovedor-mensaje-de-guido-kaczka-tras-la-muerte-de-su-mama-ella-me-enseno-un-monton-de-cosas/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima mar del plata",
-   "busquedas": "2000+",
-   "nota": "Del calor a la lluvia: el cambio de tiempo sorprendió a quienes disfrutaban de la playa",
-   "nota_url": "https://ahoramardelplata.com.ar/1/del-calor-a-la-lluvia-cambio-de-tiempo-playa-mar-del-plata",
-   "medio": "AHORA Mar del Plata",
    "relevante": false,
    "temas": []
   }
