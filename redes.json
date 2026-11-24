@@ -1,10 +1,10 @@
 {
- "actualizado": "24/11 00:48",
+ "actualizado": "24/11 01:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
+   "tema": "#GaudioSeHunde",
+   "url": "https://x.com/search?q=%23GaudioSeHunde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#GaudioEsImprovisacion",
+   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
    "relevante": false,
    "temas": []
   },
@@ -33,20 +39,14 @@
    "temas": []
   },
   {
-   "tema": "#GaudioEsImprovisacion",
-   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Conti",
    "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#EsMiSueÃ±o",
-   "url": "https://x.com/search?q=%23EsMiSue%C3%83%C2%B1o",
+   "tema": "jaehyun",
+   "url": "https://x.com/search?q=jaehyun",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +63,14 @@
    "temas": []
   },
   {
-   "tema": "Tarzia",
-   "url": "https://x.com/search?q=Tarzia",
+   "tema": "Lista Roja",
+   "url": "https://x.com/search?q=Lista%20Roja",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#GELP",
-   "url": "https://x.com/search?q=%23GELP",
+   "tema": "Tarzia",
+   "url": "https://x.com/search?q=Tarzia",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Lista Roja",
-   "url": "https://x.com/search?q=Lista%20Roja",
+   "tema": "Mercado",
+   "url": "https://x.com/search?q=Mercado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#GELP",
+   "url": "https://x.com/search?q=%23GELP",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +99,8 @@
    "temas": []
   },
   {
-   "tema": "Mercado",
-   "url": "https://x.com/search?q=Mercado",
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -105,8 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "#DuroDeDomar",
+   "url": "https://x.com/search?q=%23DuroDeDomar",
    "relevante": false,
    "temas": []
   },
@@ -115,15 +121,36 @@
    "url": "https://x.com/search?q=Miramon",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Melluso",
-   "url": "https://x.com/search?q=Melluso",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "clima corrientes",
+   "busquedas": "200+",
+   "nota": "Clima hoy en Corrientes: el pronóstico del tiempo para este domingo 22 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-corrientes-pronostico-tiempo-domingo-22-noviembre-2026_0_btXIVQIJwz.html",
+   "medio": "Clarín",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima formosa",
+   "busquedas": "100+",
+   "nota": "Hay alerta naranja por tormentas para este martes 24 de noviembre en Formosa: las zonas afectadas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/hay-alerta-naranja-por-tormentas-para-este-martes-24-de-noviembre-en-formosa-las-zonas-afectadas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alerta amarilla",
+   "busquedas": "200+",
+   "nota": "A qué hora llega el tormentón de hielo que bajará 14 grados en 24 horas la temperatura del AMBA",
+   "nota_url": "https://www.minutouno.com/sociedad/a-que-hora-llega-el-tormenton-hielo-que-bajara-14-grados-24-horas-la-temperatura-del-amba-n6348233",
+   "medio": "Minutouno",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "hija",
    "busquedas": "100+",
@@ -135,7 +162,7 @@
   },
   {
    "tema": "lakers - jazz",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Luka Doncic just called out a difficult truth about Lakers' last three games",
    "nota_url": "https://lakeshowlife.com/luka-doncic-just-called-out-a-difficult-truth-about-lakers-last-three-games",
    "medio": "Lake Show Life",
@@ -144,8 +171,8 @@
   },
   {
    "tema": "kings - spurs",
-   "busquedas": "500+",
-   "nota": "Spurs vs Kings LIVE, Score Updates, Stats and NBA Play-by-Play (19-28)",
+   "busquedas": "1000+",
+   "nota": "Spurs vs Kings LIVE, Score Updates, Stats and NBA Play-by-Play (84-64)",
    "nota_url": "https://www.vavel.com/en-us/nba/2026/11/23/1280484-spurs-vs-kings-live-score-updates-stats-and-nba-regular-season-play-by-play.html",
    "medio": "VAVEL.com",
    "relevante": false,
@@ -172,46 +199,19 @@
   {
    "tema": "china",
    "busquedas": "200+",
-   "nota": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
-   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
-   "medio": "Bloomberg.com",
+   "nota": "Chinese AI Dominance Is Not Asia’s Destiny",
+   "nota_url": "https://chinaglobalsouth.com/analysis/chinese-ai-dominance-is-not-asias-destiny/",
+   "medio": "The China-Global South Project",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "automovilismo",
-   "busquedas": "500+",
-   "nota": "Stellantis acelera hacia 2030",
-   "nota_url": "https://www.diariodesevilla.es/motor/stellantis-acelera-2030_0_2008565954.html",
-   "medio": "Diario de Sevilla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - nets",
-   "busquedas": "200+",
-   "nota": "Wolves looking to tighten offense, finish homestand strong vs. Nets",
-   "nota_url": "https://kstp.com/minnesota-sports/wolves-looking-to-tighten-offense-finish-homestand-strong-vs-nets/",
-   "medio": "5 EYEWITNESS NEWS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "neymar",
-   "busquedas": "200+",
-   "nota": "Neymar Jr conquistó su primer título en la BSOP y Belaustegui terminó 5°.",
-   "nota_url": "https://pokerlogia.com/poker/neymar-jr-conquisto-su-primer-titulo-en-la-bsop-y-belaustegui-termino-5/",
-   "medio": "Pokerlogia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rockets - clippers",
-   "busquedas": "100+",
-   "nota": "Clippers vs. Rockets Prediction, Odds and Best NBA Prop Bets for Monday, Nov. 23",
-   "nota_url": "https://www.si.com/betting/clippers-vs-rockets-prediction-odds-and-best-nba-prop-bets-for-monday-nov-23-2026",
-   "medio": "Sports Illustrated",
-   "relevante": false,
+   "busquedas": "1000+",
+   "nota": "OFICIAL: Peugeot cierra su programa en el WEC, Citroën y Opel también abandonarán la Fórmula E en 2027",
+   "nota_url": "https://www.diariomotor.com/competicion/noticia/oficial-adios-peugeot-wec-citroen-opel-formulae/",
+   "medio": "Diariomotor",
+   "relevante": true,
    "temas": []
   }
  ],
