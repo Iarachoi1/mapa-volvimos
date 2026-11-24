@@ -1,15 +1,29 @@
 {
  "semana": "24 de noviembre de 2026",
  "fecha": "2026-11-24",
- "actualizado": "24/11 06:57",
+ "actualizado": "24/11 11:13",
  "items": {
   "NACIONAL": {
    "top3": [
     {
-     "titulo": "Delivery viajó en moto a Barranquilla para ver a Boca",
+     "titulo": "Sebastián Ceria: «El discurso violento y agresivo no es parte de nuestra cotidianeidad»",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "24/11/2026",
+     "url": "https://cenital.com/sebastian-ceria-el-discurso-violento-y-agresivo-no-es-parte-de-nuestra-cotidianeidad/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Hospital Garrahan en alerta",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "24/11/2026",
+     "url": "https://cenital.com/hospital-garrahan-en-alerta/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
+    {
+     "titulo": "Homenaje a Santucho en la UBA: el Gobierno pidió sanciones y su hijo acusó “ofensiva de la ultraderecha”",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "24/11/2026",
-     "url": "https://bardeo.news/sociedad/delivery-viajo-en-moto-a-barranquilla-para-ver-a-boca_a6b04afa7cd25aee28888d033"
+     "url": "https://bardeo.news/sociedad/homenaje-a-santucho-en-la-uba--el-gobierno-pidio-sanciones-y-su-hijo-acuso--ofensiva-de-la-ultraderecha-_a6b057be6cd25aee288903f4a"
     }
    ],
    "imagen": []
@@ -17,11 +31,39 @@
   "CABA": {
    "top3": [
     {
+     "titulo": "DISCUSIÓN 2027 Salta: con la presión de la Casa Rosada encima, La Libertad Avanza orejea tres nombres para enfrentar a Sáenz Por Maira López",
+     "medio": "Letra P",
+     "fecha": "24/11/2026",
+     "url": "https://www.letrap.com.ar/politica/salta-la-presion-la-casa-rosada-encima-la-libertad-avanza-orejea-tres-nombres-enfrentar-saenz-n5428416",
+     "tag": "Política"
+    },
+    {
      "titulo": "Cambio en la cúpula del PAMI: el Gobierno desplazó a las dos máximas autoridades y designó una nueva directora ejecutiva",
      "medio": "Infobae",
      "fecha": "24/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/24/cambio-en-la-cupula-del-pami-el-gobierno-desplazo-a-las-dos-maximas-autoridades-y-designo-una-nueva-directora-ejecutiva/",
      "tag": "Gabinete"
+    },
+    {
+     "titulo": "La Legislatura porteña expresará su pesar por el fallecimiento de Noemí Geminiani",
+     "medio": "El Parlamentario",
+     "fecha": "24/11/2026",
+     "url": "https://www.parlamentario.com/2026/11/24/la-legislatura-portena-expresara-su-pesar-por-el-fallecimiento-de-noemi-geminiani/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "El Gobierno reconoce que el 60% de las personas en situación de calle llegó a esa condición con Milei",
+     "medio": "El Destape",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/resolucion-354-2026-milei-reconoce-60-personas-situacion-calle-llego-esa-condicion-gobierno-libertario-20261124101149",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Milei recibe al presidente de Polonia y reúne a la mesa política en Casa Rosada",
+     "medio": "El Destape",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/milei-medidas-gobierno-vivo-arranca-semana-clave-futuro-paso-elecciones-2027-202611247327",
+     "tag": "Política"
     },
     {
      "titulo": "El Gobierno posterga las diferencias internas, evita confrontar con Bullrich y apuesta a ordenar la tropa",
@@ -45,31 +87,17 @@
      "tag": "Política"
     },
     {
-     "titulo": "Subió levemente la confianza en Milei, pero cayó entre las mujeres y los más jóvenes",
-     "medio": "El Destape",
+     "titulo": "Lula retira el embajador de Buenos Aires ante la falta de señal de acuerdo de Milei: \"No podemos esperar para siempre\"",
+     "medio": "La Politica Online",
      "fecha": "24/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/subio-levemente-confianza-milei-cayo-mujeres-jovenes-202611240541",
+     "url": "https://www.lapoliticaonline.com/politica/lula-retira-el-embajador-de-buenos-aires-ante-la-falta-de-senal-de-acuerdo-de-milei-no-podemos-esperar-para-siempre/",
      "tag": "Política"
     },
     {
-     "titulo": "El Gobierno encara otra reunión clave para aplacar sus conflictos y acomodarse antes de un desafiante fin de año",
-     "medio": "Infobae",
+     "titulo": "Javier Milei y sus medidas",
+     "medio": "Clarín",
      "fecha": "24/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/24/el-gobierno-encara-otra-reunion-clave-para-aplacar-sus-conflictos-y-acomodarse-antes-de-un-desafiante-fin-de-ano/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Milei El paraguas antes de la tormenta Ariel Maciel",
-     "medio": "Perfil",
-     "fecha": "24/11/2026",
-     "url": "https://www.perfil.com/politica/el-paraguas-antes-de-la-tormenta-a4cOi7S9yXQj",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Análisis. Milei ante senderos que se bifurcan",
-     "medio": "La Nación",
-     "fecha": "24/11/2026",
-     "url": "https://www.lanacion.com.ar/lnmas/milei-ante-senderos-que-se-bifurcan-nid24112026/",
+     "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-mesa-politica-gobierno-reune-semana-clave-congreso_0_flEM7R39Qj.html",
      "tag": "Política"
     }
    ],
@@ -84,16 +112,16 @@
      "url": "https://www.infobae.com/politica/2026/11/24/con-un-escenario-incierto-kicillof-buscara-avanzar-en-extraordinarias-con-las-reelecciones-indefinidas/"
     },
     {
-     "titulo": "Diputado de Fuerza Patria Juan Marino reivindicó a Santucho y las revoluciones cubana y sandinista",
-     "medio": "Noticia 1",
+     "titulo": "Milei mete mano en el PAMI y abre una nueva etapa en la interna del Gobierno RECAMBIO",
+     "medio": "La Tecla",
      "fecha": "24/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/diputado-de-fuerza-patria-juan-marino-reivindico-a-santucho-y-la-revoluciones-cubana-y-sandinista"
+     "url": "https://www.latecla.info/171374-milei-mete-mano-en-el-pami-y-abre-una-nueva-etapa-en-la-interna-del-gobierno"
     },
     {
-     "titulo": "En medio de la interna, Kicillof encabeza acto en La Plata y Guerrera trata de tender puentes desde el massismo",
-     "medio": "Noticia 1",
+     "titulo": "Eva Mieri, la candidata",
+     "medio": "El Termometro",
      "fecha": "24/11/2026",
-     "url": "https://www.lanoticia1.com/noticia/en-medio-de-la-interna-kicillof-encabeza-acto-en-la-plata-y-guerrera-trata-de-tender-puentes-con-el-massismo"
+     "url": "https://eltermometroweb.com/2026/11/eva-mieri-la-candidata/"
     }
    ],
    "imagen": []
@@ -101,10 +129,16 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "La Caja provincial tiene un rojo de $11.700 millones Para Juárez, responsabilizar a la ANSES por el déficit de AGAP \"es deshonesto\"",
+     "titulo": "Reclamo FEDUN advierte que los docentes universitarios ya perdieron 9,4 salarios durante el Gobierno de Milei",
      "medio": "El Ancasti",
      "fecha": "24/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/para-juarez-responsabilizar-la-anses-el-deficit-agap-es-deshonesto-n626620"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/fedun-advierte-que-los-docentes-universitarios-ya-perdieron-94-salarios-el-gobierno-milei-n626641"
+    },
+    {
+     "titulo": "Ministerio de Hacienda Confirman fechas de pago para la Administración Pública y docentes",
+     "medio": "El Ancasti",
+     "fecha": "24/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/confirman-fechas-pago-la-administracion-publica-y-docentes-n626649"
     }
    ],
    "imagen": []
@@ -116,6 +150,36 @@
      "medio": "Infobae",
      "fecha": "24/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/24/sergio-unac-ricardo-quintela-y-jorge-capitanich-se-reunieron-en-chaco-y-avanzaron-con-planteos-hacia-la-interna-del-pj/"
+    },
+    {
+     "titulo": "TEMPORADA DE ROSCA Uñac recorrió Chaco con Capitanich y se reunió con intendentes de toda la provincia Por Letra P | Periodismo Político",
+     "medio": "Letra P",
+     "fecha": "24/11/2026",
+     "url": "https://www.letrap.com.ar/politica/sergio-unac-recorrio-chaco-jorge-capitanich-y-se-reunio-intendentes-toda-la-provincia-n5428441"
+    }
+   ],
+   "imagen": []
+  },
+  "Chubut": {
+   "top3": [
+    {
+     "titulo": "Esquel elevó al Concejo el proyecto para convocar a elecciones el 21 de marzo de 2027",
+     "medio": "El Chubut",
+     "fecha": "24/11/2026",
+     "url": "https://www.elchubut.com.ar/esquel/2026-11-24-10-42-0-esquel-elevo-al-concejo-deliberante-el-proyecto-para-convocar-a-elecciones-el-21-de-marzo-de-2027"
+    },
+    {
+     "titulo": "El Gobierno oficializó los cambios en el PAMI",
+     "medio": "Diario Jornada",
+     "fecha": "24/11/2026",
+     "url": "https://www.diariojornada.com.ar/427589/politica/el_gobierno_oficializo_los_cambios_en_el_pami",
+     "tag": "También en El Chubut"
+    },
+    {
+     "titulo": "Fita confirmó que el PJ reunirá a los 3 precandidatos en busca de la “unidad”, pero avisó que ya hay fecha posible para la interna",
+     "medio": "ADN Sur",
+     "fecha": "24/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/fita-confirmo-que-el-pj-reunira-a-los-3-precandidatos-en-busca-de-la--unidad---pero-aviso-que-ya-hay-fecha-posible-para-la-interna_a6b058bd5fd7203bb62addbbd"
     }
    ],
    "imagen": []
@@ -123,10 +187,40 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Tras remover al directorio del Coys, el Municipio se presentará como querellante por el escándalo de las horas extras",
+     "titulo": "Torneo Clausura. Instituto y River jugarán los cuartos de final en Alta Córdoba: podría ser el sábado a las 22",
+     "medio": "Cadena3",
+     "fecha": "24/11/2026",
+     "url": "https://www.cadena3.com/noticia/instituto/instituto-y-river-jugaran-los-cuartos-de-final-en-alta-cordoba-podria-ser-el-sabado-a-las-22_615991",
+     "tag": "También en ElDoce, Hoy Dia"
+    },
+    {
+     "titulo": "El Gobierno desplazó a las máximas autoridades del PAMI en medio de una fuerte crisis",
      "medio": "ElDoce",
      "fecha": "24/11/2026",
-     "url": "https://eldoce.tv/politica/2026/11/24/tras-remover-al-directorio-del-coys-el-municipio-se-presentara-como-querellante-por-el-escandalo-de-las-horas-extras/"
+     "url": "https://eldoce.tv/politica/2026/11/24/el-gobierno-desplazo-a-las-maximas-autoridades-del-pami-en-medio-de-una-fuerte-crisis/"
+    },
+    {
+     "titulo": "El Gobierno oficializó los cambios en el Pami tras desplazar a la cúpula",
+     "medio": "Hoy Dia",
+     "fecha": "24/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/el-gobierno-oficializo-los-cambios-en-el-pami-tras-desplazar-a-la-cupula/"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Javier Milei visita Corrientes para cerrar el 13° Congreso de Economía Regional",
+     "medio": "El Litoral",
+     "fecha": "24/11/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-24-8-24-0-javier-milei-visita-corrientes-para-el-13-congreso-de-economia-regional"
+    },
+    {
+     "titulo": "Los vencimientos de 2027 que alteran al Gobierno e influyen en el Riesgo País",
+     "medio": "El Litoral",
+     "fecha": "24/11/2026",
+     "url": "https://www.ellitoral.com.ar/nacional/2026-11-24-10-39-0-los-vencimientos-de-2027-que-alteran-al-gobierno-y-el-mercado-e-influyen-en-el-riesgo-pais"
     }
    ],
    "imagen": []
@@ -144,14 +238,13 @@
      "medio": "El Once",
      "fecha": "24/11/2026",
      "url": "https://www.elonce.com/politica/el-gobierno-desplazo-a-la-cupula-del-pami-quienes-asumiran.htm",
-     "tag": "También en Ahora"
+     "tag": "También en AFP Digital, Ahora"
     },
     {
-     "titulo": "Docentes inician paro de 48 horas en Entre Ríos",
-     "medio": "Ahora",
+     "titulo": "El Senado hoy debate cambios en la Ley de Concesiones de Obras Públicas con gremios docentes y estatales",
+     "medio": "AFP Digital",
      "fecha": "24/11/2026",
-     "url": "https://ahora.com.ar/sociedad/paro-docente-entre-rios-48-horas-24-25-noviembre",
-     "tag": "También en El Once, AFP Digital"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/24/480342-el-senado-hoy-debate-cambios-en-la-ley-de-concesiones-de-obras-publicas-con-gremios-docentes-y-estatales"
     }
    ],
    "imagen": []
@@ -159,22 +252,45 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Sin las PASO, arrancó una pelea feroz entre Kicillof, Cristina y Massa para resolver las candidaturas",
-     "medio": "Jujuy al día",
+     "titulo": "País. Super semana en el Congreso: Diego Santilli, Presupuesto 2027 y las PASO Por Maria Eugenia Burgos",
+     "medio": "Todo Jujuy",
      "fecha": "24/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/24/sin-las-paso-arranco-una-pelea-feroz-entre-kicillof-cristina-y-massa-para-resolver-las-candidaturas/"
+     "url": "https://www.todojujuy.com/super-semana-el-congreso-diego-santilli-presupuesto-2027-y-las-paso-n299251"
     },
     {
-     "titulo": "Inflación y elecciones: cómo van a aumentar los precios del gas, la luz, el agua y el transporte en 2027",
+     "titulo": "Certamen Literario Provincial: Jujuy abre la convocatoria para la edición 2027",
      "medio": "Jujuy al día",
      "fecha": "24/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/24/inflacion-y-elecciones-como-van-a-aumentar-los-precios-del-gas-la-luz-el-agua-y-el-transporte-en-2027/"
+     "url": "https://www.jujuyaldia.com.ar/2026/11/24/certamen-literario-provincial-jujuy-abre-la-convocatoria-para-la-edicion-2027/"
     },
     {
-     "titulo": "Proyecto de ley brega por la estabilidad de las asociaciones",
-     "medio": "El Tribuno",
+     "titulo": "El Gobierno avanzó con cambios en el PAMI y desplazó a sus dos máximas autoridades",
+     "medio": "Somos Jujuy",
      "fecha": "24/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-24-0-0-0-proyecto-de-ley-brega-por-la-estabilidad-de-las-asociaciones"
+     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-avanzo-cambios-pami-desplazo-sus-dos-maximas-autoridades-n127636"
+    }
+   ],
+   "imagen": []
+  },
+  "La Pampa": {
+   "top3": [
+    {
+     "titulo": "El PJ pone en marcha la jugada en comisión para llevar la reforma electoral al recinto el jueves",
+     "medio": "El Diario de La Pampa",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83547/el-pj-pone-en-marcha-la-jugada-en-comision-para-llevar-la-reforma-electoral-al-recinto-el-jueves"
+    },
+    {
+     "titulo": "El tiernismo cuestiona la reforma electoral y acusó al PJ de modificar las reglas a su favor",
+     "medio": "El Diario de La Pampa",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83561/el-tiernismo-cuestiona-la-reforma-electoral-y-acuso-al-pj-de-modificar-las-reglas-a-su-favor"
+    },
+    {
+     "titulo": "El desesperado pedido del intendente de Chivilcoy a Milei por el cierre de la fábrica de calzado: \"No hay plan económico exitoso\"",
+     "medio": "La Arena",
+     "fecha": "24/11/2026",
+     "url": "https://www.laarena.com.ar/el-pais/el-desesperado-pedido-del-intendente-de-chivilcoy-a-milei-por-el-cierre-de-la-fabrica-de-calzado-no-hay-plan-economico-exitoso-2026112410440"
     }
    ],
    "imagen": []
@@ -186,6 +302,12 @@
      "medio": "Infobae",
      "fecha": "24/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/24/sergio-unac-ricardo-quintela-y-jorge-capitanich-se-reunieron-en-chaco-y-avanzaron-con-planteos-hacia-la-interna-del-pj/"
+    },
+    {
+     "titulo": "El Indec publica el dato que confirmará si la economía entró en recesión técnica",
+     "medio": "Nueva Rioja",
+     "fecha": "24/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/el-indec-publica-el-dato-que-confirmara-si-la-economia-entro-en-recesion-tecnica.htm"
     }
    ],
    "imagen": []
@@ -193,10 +315,59 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "El Niño trajo más pasturas: expectativas por la veranada 2027",
+     "titulo": "El Gobierno se encamina a destrabar el tratamiento del Presupuesto 2027",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "24/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/el-gobierno-se-encamina-destrabar-el-tratamiento-del-presupuesto-2027-n1619356"
+    },
+    {
+     "titulo": "\"Es tiempo de crecer\": Mema se lanza como candidato a gobernador",
      "medio": "Mendoza Post",
      "fecha": "24/11/2026",
-     "url": "https://www.mendozapost.com/economia/veranada-chivos-como-viene-la-temporada-lluvia-engorde/"
+     "url": "https://www.mendozapost.com/politica/natalio-mema-mendoza-candidato-gobernador/"
+    },
+    {
+     "titulo": "Natalio Mema lanzó un nuevo spot y ratificó que quiere ser gobernador de Mendoza",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "24/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/natalio-mema-lanzo-un-nuevo-spot-y-ratifico-que-quiere-ser-gobernador-mendoza-n1619312"
+    }
+   ],
+   "imagen": []
+  },
+  "Misiones": {
+   "top3": [
+    {
+     "titulo": "El Congreso tendrá una semana clave con el Presupuesto 2027 y la reforma política en agenda",
+     "medio": "El Territorio",
+     "fecha": "24/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/24/929073-el-congreso-tendra-una-semana-clave-con-el-presupuesto-2027-y-la-reforma-politica-en-agenda"
+    },
+    {
+     "titulo": "Misiones decretó asueto administrativo para el lunes 30 de noviembre por el natalicio de Andresito",
+     "medio": "El Territorio",
+     "fecha": "24/11/2026",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/24/929082-misiones-decreto-asueto-administrativo-para-el-lunes-30-de-noviembre-por-el-natalicio-de-andresito",
+     "tag": "También en La Voz - Misiones"
+    }
+   ],
+   "imagen": []
+  },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Recorrida de obras Figueroa: “Erradicar las aulas tráilers es una de las grandes obsesiones del gobierno”",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "24/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/24/267738-figueroa-erradicar-las-aulas-trailers-es-una-de-las-grandes-obsesiones-del-gobierno",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Neuquén Habita La Provincia continúa ampliando el acceso a la vivienda en Neuquén capital",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "24/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/24/267645-la-provincia-continua-ampliando-el-acceso-a-la-vivienda-en-neuquen-capital",
+     "tag": "También en Neuquén al Instante"
     }
    ],
    "imagen": []
@@ -204,23 +375,23 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Este martes, la Legislatura de Río Negro abre el debate del Presupuesto, con un aumento de la  partida salarial del 17%",
+     "titulo": "«Así no puede salir»: el cronograma día a día para destrabar las PASO, la ludopatía y el Presupuesto 2027 en el Senado",
      "medio": "Diario Rio Negro",
      "fecha": "24/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/este-martes-la-legislatura-de-rio-negro-abre-el-debate-del-presupuesto-con-un-aumento-de-la-partida-salarial-del-17/"
+     "url": "https://www.rionegro.com.ar/politica/asi-no-puede-salir-el-cronograma-dia-a-dia-para-destrabar-las-paso-la-ludopatia-y-el-presupuesto-2027-en-el-senado-4810671/"
     },
     {
-     "titulo": "Qué obras proyecta Viedma para 2027: bombeo, iluminación y servicios en nuevos loteos",
+     "titulo": "Territorio de Minerales retomó sus talleres en Viedma y la Región Sur",
+     "medio": "Prensa oficial de Río Negro",
+     "fecha": "24/11/2026",
+     "url": "https://prensa.rionegro.gov.ar/articulo/63054/territorio-de-minerales-retomo-sus-talleres-en-viedma-y-la-region-sur",
+     "tag": "También en AN Roca, LCR y 1 más"
+    },
+    {
+     "titulo": "Río Negro destacó los resultados de Argentina Alimenta y prepara una agenda con nuevas exportaciones para 2027",
      "medio": "Diario Rio Negro",
      "fecha": "24/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/que-obras-proyecta-viedma-para-2027-bombeo-iluminacion-y-servicios-en-nuevos-loteos/"
-    },
-    {
-     "titulo": "Santilli presentará su primer informe de gestión ante el Senado: deberá responder más de 1.200 consultas",
-     "medio": "AN Roca",
-     "fecha": "24/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/24/233937-santilli-presentara-su-primer-informe-de-gestion-ante-el-senado-debera-responder-mas-de-1200-consultas",
-     "tag": "También en Noticias Net"
+     "url": "https://www.rionegro.com.ar/politica/rio-negro-destaco-los-resultados-de-argentina-alimenta-y-prepara-una-agenda-para-2027-4810568/"
     }
    ],
    "imagen": []
@@ -234,16 +405,17 @@
      "url": "https://www.eltribuno.com/nacionales/2026-11-24-0-0-0-el-gobierno-y-una-semana-clave-en-el-congreso-con-eje-en-el-presupuesto-y-la-reforma-electoral"
     },
     {
-     "titulo": "Finaliza la convocatoria para los premios Deportista del Año 2026",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "DISCUSIÓN 2027 Salta: con la presión de la Casa Rosada encima, La Libertad Avanza orejea tres nombres para enfrentar a Sáenz Por Maira López",
+     "medio": "Letra P",
      "fecha": "24/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/finaliza-la-convocatoria-para-los-premios-deportista-del-anio-2026-111047"
+     "url": "https://www.letrap.com.ar/politica/salta-la-presion-la-casa-rosada-encima-la-libertad-avanza-orejea-tres-nombres-enfrentar-saenz-n5428416"
     },
     {
-     "titulo": "Rigen los nuevos valores para realizar trámites de DNI y pasaportes",
+     "titulo": "Acuerdo entre Salta y Nación para ampliar los subsidios de luz para las zonas cálidas",
      "medio": "Prensa oficial de Salta",
      "fecha": "24/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/rigen-los-nuevos-valores-para-realizar-tramites-de-dni-y-pasaportes-111220"
+     "url": "https://www.salta.gob.ar/prensa/noticias/acuerdo-entre-salta-y-nacion-para-ampliar-los-subsidios-de-luz-para-las-zonas-calidas-111264",
+     "tag": "También en El Tribuno"
     }
    ],
    "imagen": []
@@ -251,22 +423,78 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "Los avances en Nación acercan el debate electoral en San Juan",
-     "medio": "Huarpe",
+     "titulo": "Cambio en la cúpula del PAMI: el Gobierno desplazó a las dos máximas autoridades y designó una nueva directora ejecutiva",
+     "medio": "Tiempo de San Juan",
      "fecha": "24/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/reforma-electoral-nacion-avanzo-y-eso-acelera-los-plazos-en-san-juan-20261124604"
+     "url": "https://www.tiempodesanjuan.com/politica/cambio-en-la-cupula-del-pami-el-gobierno-desplazo-a-las-dos-maximas-autoridades-y-designo-una-nueva-directora-ejecutiva_1795515024",
+     "tag": "También en 0264 Noticias"
     },
     {
-     "titulo": "Chanampa pidió una lista única del orreguismo en Chimbas para 2027",
-     "medio": "Huarpe",
-     "fecha": "24/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/chanampa-quiere-a-todo-el-orreguismo-unido-para-disputar-chimbas-en-2027-20261124604"
-    },
-    {
-     "titulo": "04:00 No todo error es fraude electoral",
+     "titulo": "AquaData ya piensa en 2027: patentará la idea y busca medir el agua antes del avance de los grandes proyectos mineros Por Enzo Arrieta",
      "medio": "Diario de Cuyo",
      "fecha": "24/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/columnas-opinion/no-todo-error-es-fraude-electoral-n6589358"
+     "url": "https://www.diariodecuyo.com.ar/cuyo-minero/aquadata-ya-piensa-2027-patentara-la-idea-y-busca-medir-el-agua-antes-del-avance-los-grandes-proyectos-mineros-n6589266"
+    },
+    {
+     "titulo": "Obra pública en Rivadavia Rivadavia sostiene 20 obras activas y prepara cambios en Marquesado",
+     "medio": "El Zonda",
+     "fecha": "24/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/politica/rivadavia-sostiene-20-obras-activas-y-prepara-cambios-en-marquesado"
+    }
+   ],
+   "imagen": [
+    {
+     "titulo": "Francisco Moya, el ingeniero que fundó una aceleradora de negocios inmobiliarios y busca cambiar la imagen de los corredores en San Juan Por Celeste Roco Navea",
+     "medio": "Diario de Cuyo",
+     "fecha": "24/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/san-juan/francisco-moya-el-ingeniero-que-fundo-una-aceleradora-negocios-inmobiliarios-y-busca-cambiar-la-imagen-los-corredores-san-juan-n6588398"
+    }
+   ]
+  },
+  "San Luis": {
+   "top3": [
+    {
+     "titulo": "El ministro José Picco encabezó una reunión laboral para potenciar el turismo educativo",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "24/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/24/1234789-el-ministro-jose-picco-encabezo-una-reunion-laboral-para-potencial-el-turismo-educativo/"
+    },
+    {
+     "titulo": "Realizan un corte en el kilómetro 673 de la Autopista de las Serranías Puntanas por anegamiento",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "24/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/24/1234828-realizan-un-corte-en-el-kilometro-673-de-la-autopista-de-las-serranias-puntanas-por-anegamiento/"
+    },
+    {
+     "titulo": "Tensión diplomática: el gobierno Lula rebajó al mínimo la relación con Milei",
+     "medio": "El Diario de la República",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-24-8-1-0-tension-diplomatica-el-gobierno-lula-rebajo-al-minimo-la-relacion-con-milei"
+    }
+   ],
+   "imagen": []
+  },
+  "Santa Cruz": {
+   "top3": [
+    {
+     "titulo": "Senado: LLA busca acuerdos con sus aliados para modificar la ley de Ludopatía aprobado en Diputados",
+     "medio": "El Diario Nuevo Día",
+     "fecha": "24/11/2026",
+     "url": "https://www.eldiarionuevodia.com.ar/nacionales/senado-lla-busca-acuerdos-con-sus-aliados-para-modificar-la-ley-de-ludopatia-aprobado-en-diputados/"
+    },
+    {
+     "titulo": "PAMI: el Gobierno desplazó a las dos máximas autoridades y designó una nueva directora ejecutiva",
+     "medio": "Mediatíca",
+     "fecha": "24/11/2026",
+     "url": "https://www.mediaticadigital.com.ar/nota/39813-pami-el-gobierno-desplazo-a-las-dos-maximas-autoridades-y-designo-una-nueva-directora-ejecutiva/",
+     "tag": "También en La Opinión Austral"
+    },
+    {
+     "titulo": "Cerca de 9.500 personas en Argentina Santa Cruz tendría 41 personas que viven en situación de calle",
+     "medio": "Tiempo Sur",
+     "fecha": "24/11/2026",
+     "url": "https://www.tiemposur.com.ar/politica/santa-cruz-tendria-41-personas-que-viven-en-situacion-de-calle",
+     "tag": "También en El Diario Nuevo Día"
     }
    ],
    "imagen": []
@@ -274,16 +502,24 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "La Legislatura y los fiscales del MPA en Santa Fe: diez años de sanciones y una discusión todavía abierta",
-     "medio": "Aire",
+     "titulo": "El río Paraná quedó a un centímetro del alerta oficial por la crecida frente a Rosario",
+     "medio": "La Capital",
      "fecha": "24/11/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/la-legislatura-y-los-fiscales-del-mpa-santa-fe-diez-anos-sanciones-y-una-discusion-todavia-abierta-n677487"
+     "url": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-quedo-un-centimetro-del-alerta-oficial-la-crecida-frente-rosario-n10293838.html",
+     "tag": "También en Rosario Plus, Rosario3"
     },
     {
-     "titulo": "El Niño: Santa Fe y Paraná están en situación de evacuación y Rosario se acerca al nivel de alerta",
-     "medio": "Infobae",
+     "titulo": "Provincias Unidas aprovecha la urgencia de Milei para destrabar biocombustibles",
+     "medio": "La Capital",
      "fecha": "24/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/24/el-nino-santa-fe-y-parana-estan-en-situacion-de-evacuacion-y-rosario-se-acerca-al-nivel-de-alerta/"
+     "url": "https://www.lacapital.com.ar/politica/provincias-unidas-aprovecha-la-urgencia-milei-destrabar-biocombustibles-n10293862.html"
+    },
+    {
+     "titulo": "El río Paraná se mantiene en 5,80 metros en el Puerto de Santa Fe",
+     "medio": "Agencia Fe",
+     "fecha": "24/11/2026",
+     "url": "https://agenciafe.com/nota/404383-El-rio-Parana-se-mantiene-en-580-metros-en-el-Puerto-de-Santa-Fe",
+     "tag": "También en Aire, UNO - SF"
     }
    ],
    "imagen": []
@@ -291,10 +527,23 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Con varias reformas en juego, la mesa política de Milei se reúne para definir su estrategia legislativa",
+     "titulo": "A 11 meses de las elecciones, hoy se confirmaría el dato que ningún gobierno quiere recibir",
+     "medio": "Nuevo Diario Web",
+     "fecha": "24/11/2026",
+     "url": "https://nuevodiarioweb.com.ar/politica/a-11-meses-de-las-elecciones-hoy-se-confirmaria-el-dato-que-ningun-gobierno-quiere-recibir.htm"
+    },
+    {
+     "titulo": "Santiago del Estero conmemoró el 83° aniversario de la Independencia del Líbano",
+     "medio": "Nuevo Diario Web",
+     "fecha": "24/11/2026",
+     "url": "https://nuevodiarioweb.com.ar/provinciales/santiago-del-estero-conmemoro-el-83-aniversario-de-la-independencia-del-libano.htm",
+     "tag": "También en Diario Panorama, El Liberal"
+    },
+    {
+     "titulo": "Favores kirchneristas al gobierno de Milei",
      "medio": "Diario Panorama",
      "fecha": "24/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/573970/con-varias-reformas-juego-mesa-politica-milei-se-reune-para-definir-estrategia-legislativa"
+     "url": "https://www.diariopanorama.com/noticia/573981/favores-kirchneristas-al-gobierno-milei"
     }
    ],
    "imagen": []
@@ -313,22 +562,23 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "PAMI: desplazan a las dos máximas autoridades y designan una nueva directora ejecutiva",
+     "titulo": "ADIUNT convocó a un paro y movilización este miércoles contra el Presupuesto 2027 y la violencia de género",
+     "medio": "Los Primeros",
+     "fecha": "24/11/2026",
+     "url": "https://www.losprimeros.tv/politica/adiunt-convoco-a-un-paro-y-movilizacion-este-miercoles-contra-el-presupuesto-2027-y-la-violencia-de-genero_a6b059673cd25aee288937300"
+    },
+    {
+     "titulo": "Osvaldo Jaldo presidió el acto del Día de Defensa Civil con reconocimientos y entrega de equipamiento",
+     "medio": "Los Primeros",
+     "fecha": "24/11/2026",
+     "url": "https://www.losprimeros.tv/politica/osvaldo-jaldo-presidio-el-acto-del-dia-de-defensa-civil-con-reconocimientos-y-entrega-de-equipamiento_a6b059a94cd25aee28893d7f3",
+     "tag": "También en LV12"
+    },
+    {
+     "titulo": "Jaldo defendió el calendario electoral y marcó su postura sobre la reforma",
      "medio": "LV12",
      "fecha": "24/11/2026",
-     "url": "https://www.lv12.com.ar/pami/pami-desplazan-las-dos-maximas-autoridades-y-designan-una-nueva-directora-ejecutiva-n207032"
-    },
-    {
-     "titulo": "El Gobierno minimizó la advertencia de la Iglesia sobre la Ley de Ludopatía",
-     "medio": "Los Primeros",
-     "fecha": "24/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-gobierno-minimizo-la-advertencia-de-la-iglesia-sobre-la-ley-de-ludopatia_a6b054ffdcd25aee2888dc3c7"
-    },
-    {
-     "titulo": "El Senado inicia su última semana de sesiones ordinarias",
-     "medio": "Los Primeros",
-     "fecha": "24/11/2026",
-     "url": "https://www.losprimeros.tv/politica/el-senado-inicia-su-ultima-semana-de-sesiones-ordinarias_a6b0548f7cd25aee2888d9bfc"
+     "url": "https://www.lv12.com.ar/jaldo/jaldo-defendio-el-calendario-electoral-y-marco-su-postura-la-reforma-n207064"
     }
    ],
    "imagen": []
@@ -340,6 +590,7 @@
   "https://www.hcdiputados-ba.gov.ar/",
   "https://www.diputadosalta.gob.ar/",
   "http://www.legislaturasconectadas.gob.ar/Noticias/global/3",
+  "https://prensa.cba.gov.ar/",
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",

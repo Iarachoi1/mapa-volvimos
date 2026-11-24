@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 09:55",
+ "actualizado": "24/11 11:13",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,8 @@
    "temas": []
   },
   {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +27,14 @@
    "temas": []
   },
   {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
+   "tema": "papa Francisco",
+   "url": "https://x.com/search?q=papa%20Francisco",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Gimnasia",
    "url": "https://x.com/search?q=Gimnasia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Freddie Mercury",
-   "url": "https://x.com/search?q=Freddie%20Mercury",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +51,20 @@
    "temas": []
   },
   {
-   "tema": "Spotify",
-   "url": "https://x.com/search?q=Spotify",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Papa Francisco",
-   "url": "https://x.com/search?q=Papa%20Francisco",
+   "tema": "#antesquenadie",
+   "url": "https://x.com/search?q=%23antesquenadie",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
   },
@@ -81,26 +75,26 @@
    "temas": []
   },
   {
+   "tema": "Malamud",
+   "url": "https://x.com/search?q=Malamud",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Freddie Mercury",
+   "url": "https://x.com/search?q=Freddie%20Mercury",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Ramirez",
    "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Feliz Martes",
-   "url": "https://x.com/search?q=Feliz%20Martes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +105,112 @@
    "temas": []
   },
   {
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "El Gobierno",
    "url": "https://x.com/search?q=El%20Gobierno",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "cuando es el black friday en argentina 2026",
+   "tema": "iol",
    "busquedas": "200+",
-   "nota": "Cuándo empieza el Black Friday 2026 y qué días se mantienen las rebajas: marcas, Cyber Monday y descuento real",
-   "nota_url": "https://www.infobae.com/espana/2026/11/23/cuando-empieza-el-black-friday-2026-y-que-dias-se-mantienen-las-rebajas-marcas-cyber-monday-y-descuento-real/",
-   "medio": "Infobae",
+   "nota": "Expected petrol price for December, and a major blow for WeBuyCars",
+   "nota_url": "https://topauto.co.za/news/169296/expected-petrol-price-for-december-and-a-major-blow-for-webuycars/",
+   "medio": "TopAuto.co.za",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar ambito",
+   "busquedas": "100+",
+   "nota": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 20 de noviembre de 2026",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/20/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-20-de-noviembre-de-2026/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar mep",
+   "busquedas": "100+",
+   "nota": "¿Fin del \"carry trade\"?: la suba del dólar borra ganancias y obliga a inversores a revisar estrategias",
+   "nota_url": "https://www.clarin.com/economia/pausa-carry-trade-suba-dolar-borra-ganancias-obliga-inversores-revisar-estrategias_0_YFWJNUGf3z.html",
+   "medio": "Clarín",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calendario 2027",
+   "busquedas": "200+",
+   "nota": "Educación: CALENDARIO ESCOLAR 2027",
+   "nota_url": "https://www.multimediosmaldoni.tv/inicio/noticia/44364/CALENDARIO-ESCOLAR-2027.html",
+   "medio": "Multimedios Maldoni",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "feriado diciembre 2026",
+   "busquedas": "200+",
+   "nota": "Feriado del lunes 23 de noviembre: ¿cómo funcionarán los servicios?",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1163756/sociedad/feriado-lunes-23-noviembre-como-funcionaran-servicios.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar hoy",
+   "busquedas": "10000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 24 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-24-noviembre-n6348482",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "edith hermida",
+   "busquedas": "200+",
+   "nota": "Edith Hermida defendió su plato en MasterChef Celebrity",
+   "nota_url": "https://rosariolaciudad.com.ar/edith-hermida-defendio-su-plato-en-masterchef-celebrity/",
+   "medio": "Rosario la Ciudad",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cuando es el black friday en argentina 2026",
+   "busquedas": "100+",
+   "nota": "Todo listo para el próximo Black Friday: ¿cuánto dura?",
+   "nota_url": "https://www.tn24.com.ar/2026/11/todo-listo-para-el-proximo-black-friday-cuanto-dura/",
+   "medio": "TN24.com.ar",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bna",
-   "busquedas": "1000+",
-   "nota": "Delta automation back up after Atlanta flight delays Sunday",
-   "nota_url": "https://www.fox5atlanta.com/news/delta-air-lines-automation-issue-triggers-hundreds-thanksgiving-travel-delays-atlanta",
-   "medio": "FOX 5 Atlanta",
+   "busquedas": "2000+",
+   "nota": "Airline announces new nonstop summer flights to Grand Cayman from Nashville",
+   "nota_url": "https://www.wsmv.com/2026/11/23/airline-announces-new-nonstop-summer-flights-grand-cayman-nashville/",
+   "medio": "WSMV",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "janos",
-   "busquedas": "200+",
-   "nota": "Bóka János: „nem fogadhatjuk el a helyzetet a szájzártörvény után, de a bojkottal óvatos lennék”",
-   "nota_url": "https://infostart.hu/belfold/2026/11/24/boka-janos-nem-fogadhatjuk-el-a-helyzetet-a-szajzartorveny-utan-de-a-bojkottal-ovatos-lennek",
-   "medio": "Infostart",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ambito financiero",
-   "busquedas": "1000+",
-   "nota": "Los “mercados” le marcan la cancha a Milei: más presión devaluatoria y peligran los ingresos populares",
-   "nota_url": "https://www.laizquierdadiario.com/Los-mercados-le-marcan-la-cancha-a-Milei-mas-presion-devaluatoria-y-peligran-los-ingresos-populares",
-   "medio": "La Izquierda Diario",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "bodega",
-   "busquedas": "200+",
-   "nota": "Incendio consume bodega de madera y carbón en El Porvenir",
-   "nota_url": "https://hch.tv/incendio-consume-bodega-de-madera-y-carbon-en-el-porvenir/",
-   "medio": "HCH",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la voz del interior",
-   "busquedas": "200+",
-   "nota": "¿No le funciona Spotify? Estas son las mejores plataformas de música que puede usar hoy",
-   "nota_url": "https://www.minuto60.com/vida-moderna/no-le-funciona-spotify-estas-plataformas-musica-puede-usar/19496",
-   "medio": "Minuto60",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "reconquista hoy",
-   "busquedas": "100+",
-   "nota": "Policiales: Buscan a una mujer de 30 años que desapareció de su domicilio en Reconquista",
-   "nota_url": "https://www.villaocamposf.com.ar/inicio/noticia/40507/Buscan-a-una-mujer-de-30-aos-que-desapareci-de-su-domicilio.html",
-   "medio": ".: VillaOcampoSF :.",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "feriados diciembre 2026",
    "busquedas": "500+",
-   "nota": "Qué feriados y días no laborables quedan en Argentina hasta fin de año",
-   "nota_url": "https://www.lacapital.com.ar/informacion-general/que-feriados-y-dias-no-laborables-quedan-argentina-fin-ano-n10293841.html",
-   "medio": "La Capital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diario de cuyo",
-   "busquedas": "500+",
-   "nota": "Qué fue de la vida de....:",
-   "nota_url": "https://www.diariodecuyo.com.ar/que-fue-la-vida-de-n6589374",
-   "medio": "Diario de Cuyo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "base naval ushuaia",
-   "busquedas": "200+",
-   "nota": "Una empresa entrerriana compite por el muelle naval de Ushuaia",
-   "nota_url": "https://informedigital.com.ar/una-empresa-entrerriana-compite-por-el-muelle-naval-de-ushuaia/",
-   "medio": "Informe Digital",
+   "nota": "Felvételt hirdet két győri kollégiumába a Brenner János Hittudományi Főiskola",
+   "nota_url": "https://www.magyarkurir.hu/hazai/felvetelt-hirdet-ket-gyori-kollegiumaba-brenner-janos-hittudomanyi-foiskola",
+   "medio": "Magyar Kurír",
    "relevante": false,
    "temas": []
   }
