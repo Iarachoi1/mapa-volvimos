@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 18:45",
+ "actualizado": "24/11 19:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -45,20 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#gaudioesimprovisacion",
    "url": "https://x.com/search?q=%23gaudioesimprovisacion",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "TomÃ¡s Palacios",
+   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
    "relevante": false,
    "temas": []
   },
@@ -69,32 +63,32 @@
    "temas": []
   },
   {
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bellingham",
+   "url": "https://x.com/search?q=Bellingham",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Paloma",
    "url": "https://x.com/search?q=Paloma",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "INDEC",
-   "url": "https://x.com/search?q=INDEC",
-   "relevante": true,
-   "temas": []
-  },
-  {
    "tema": "River",
    "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Stornelli",
-   "url": "https://x.com/search?q=Stornelli",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +99,118 @@
    "temas": []
   },
   {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
+   "tema": "Stornelli",
+   "url": "https://x.com/search?q=Stornelli",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Russo",
-   "url": "https://x.com/search?q=Russo",
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
+   "tema": "#gaudiosehunde",
+   "url": "https://x.com/search?q=%23gaudiosehunde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CampanitaXMultitalent",
+   "url": "https://x.com/search?q=%23CampanitaXMultitalent",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "nadia podoroska",
-   "busquedas": "500+",
-   "nota": "WTA 125 de Buenos Aires: debutan Sierra y Podoroska",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/23/wta-125-de-buenos-aires-debutan-sierra-y-podoroska/",
-   "medio": "Página|12",
+   "tema": "papa francisco",
+   "busquedas": "2000+",
+   "nota": "El lado más oscuro del poder: las noches en las que el papa Francisco temió perder el rumbo",
+   "nota_url": "https://www.clarin.com/mundo/lado-oscuro-poder-noches-papa-francisco-temio-perder-rumbo_0_1WzFrBdGtu.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "manchester city football club",
-   "busquedas": "100+",
-   "nota": "Video: Manchester City and their fans give De Bruyne a legendary welcome at the Etihad Stadium",
-   "nota_url": "https://www.goal.com/en-za/news/video-manchester-city-and-their-fans-give-de-bruyne-a-legendary-welcome-at-the-etihad-stadium/bltc21b88b1e86a6c4c",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mauricio pochettino",
-   "busquedas": "100+",
-   "nota": "Mauricio Pochettino admits Man United’s ‘situation is fragile’ but insists he has a ‘strong team’",
-   "nota_url": "https://www.independent.co.uk/sport/football/mauricio-pochettino-man-united-sporting-champions-league-b3091015.html",
-   "medio": "The Independent",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "borussia dortmund",
-   "busquedas": "100+",
-   "nota": "Warum fehlt David Raya Arsenal gegen Borussia Dortmund?",
-   "nota_url": "https://audimax.de/sport/fussball/champions-league/warum-spielt-david-raya-nicht-fur-arsenal-gegen-dortmund/",
-   "medio": "Audimax.de",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "manchester city vs. napoli",
-   "busquedas": "500+",
-   "nota": "Licensable picture: Manchester City v SSC Napoli - UEFA Champions League 2026/27 League Phase MD5",
-   "nota_url": "https://www.reutersconnect.com/item/manchester-city-v-ssc-napoli-uefa-champions-league-202627-league-phase-md5/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMDBEQk1WTw",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ivan perišić",
+   "tema": "paulo dybala",
    "busquedas": "200+",
-   "nota": "Video: Perisic makes history, while Real Madrid sit behind Barcelona on list of VAR victims",
-   "nota_url": "https://www.goal.com/en-za/news/video-perisic-makes-history-while-real-madrid-sit-behind-barcelona-on-list-of-var-victims/blt265eddeb3e12353f",
-   "medio": "Goal.com",
+   "nota": "Paulo Dybala coqueteó con seguir en Roma y se aleja de Boca: “No me veo en ningún otro lado”",
+   "nota_url": "https://bolavip.com/ar/boca/paulo-dybala-coqueteo-con-seguir-en-roma-y-se-aleja-de-boca-no-me-veo-en-ningun-otro-lado",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "allan",
+   "tema": "quien era santucho",
    "busquedas": "100+",
-   "nota": "DOS PERSONAS DETENIDAS EN FLORENCIO VARELA POR UN ROBO BAJO LA MODALIDAD ESCRUCHE EN INGENIERO ALLAN",
-   "nota_url": "https://lamisioninforma.com.ar/dos-personas-detenidas-en-florencio-varela-por-un-robo-bajo-la-modalidad-escruche-en-ingeniero-allan/",
-   "medio": "La Misión Informa",
+   "nota": "“No tuvimos la reacción que esperábamos”: tensión en los pasillos de la Facultad de Sociales por el homenaje a Santucho",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/no-se-quien-es-entre-el-desconcierto-y-la-controversia-los-comentarios-de-los-alumnos-de-sociales-nid24112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "eduardo feinmann",
+   "tema": "fraude",
    "busquedas": "500+",
-   "nota": "“Defender el Garrahan no es delito”: trabajadores del hospital de niños reclaman por los 38 profesionales sancionados",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/24/defender-el-garrahan-no-es-delito-trabajadores-del-hospital-de-ninos-reclaman-por-los-38-profesionales-sancionados/",
-   "medio": "Página|12",
+   "nota": "Huawei fue condenada en Estados Unidos por negocios ilegales con Irán y robo de secretos comerciales",
+   "nota_url": "https://www.radiogabal.com.ar/index.php/el-mundo/huawei-fue-condenada-en-estados-unidos-por-negocios-ilegales-con-iran-y-robo-de-secretos-comerciales",
+   "medio": "Radio Gabal",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "moreno",
+   "tema": "club atlético san lorenzo de almagro",
    "busquedas": "200+",
-   "nota": "Essence Fest won't be in New Orleans in 2027",
-   "nota_url": "https://www.axios.com/local/new-orleans/2026/11/24/essence-fest-leaves-new-orleans-statement",
-   "medio": "Axios",
+   "nota": "Otro conflicto en San Lorenzo: los tres juveniles se irán libres y los dardos del club al representante",
+   "nota_url": "https://www.ole.com.ar/san-lorenzo/sanlorenzo-ramiropedroza-cristiangallardo-brancosalinardi-patriciolombilla_0_CLrEKL7ZFk.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "empleado",
+   "busquedas": "200+",
+   "nota": "Qué dice Robertito Funes Ugarte que provocó el incidente en la feria gastronómica",
+   "nota_url": "https://www.eltrecetv.com.ar/videos/la-manana-con-moria/2026/11/24/que-dice-robertito-funes-ugarte-que-provoco-el-incidente-en-la-feria-gastronomica/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fuerza aérea argentina",
+   "busquedas": "200+",
+   "nota": "La Fuerza Aérea recibirá seis nuevos cazas F-16 durante la primera mitad de 2027",
+   "nota_url": "https://www.eleco.com.ar/nacionales/la-fuerza-aerea-recibira-seis-nuevos-cazas-f-16-durante-la-primera-mitad-de-2027",
+   "medio": "El Eco",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "posiciones de al-nassr contra al-sadd",
-   "busquedas": "1000+",
-   "nota": "¿Juega Cristiano Ronaldo? Las alineaciones confirmadas de Al-Nassr vs. Al-Sadd por la AFC Champions League ...",
-   "nota_url": "https://bolavip.com/mx/futbol-internacional/juega-cristiano-ronaldo-las-alineaciones-de-al-nassr-vs-al-sadd-por-la-afc-champions-league-elite-2026-27",
-   "medio": "Bolavip México",
+   "tema": "posiciones de real madrid contra psv",
+   "busquedas": "20000+",
+   "nota": "Vinícius vuelve al once titular y Bellingham, al banquillo",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/24/vinicius-vuelve-al-once-titular-y-bellingham-al-banquillo/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de como 1907 contra aek atenas",
+   "busquedas": "5000+",
+   "nota": "Alvini criticised after Milan-Frosinone? Fabregas defends him: \"I do the same as him and want to keep hearing he's an excellent coach\"",
+   "nota_url": "https://www.goal.com/en/news/alvini-criticised-after-milan-frosinone-fabregas-defends-him-i-do-the-same-as-him-and-want-to-keep-hearing-he-s-an-excellent-coach/bltafe3b7eaa0ca6755",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de manchester city contra ssc napoli",
+   "busquedas": "5000+",
+   "nota": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+   "nota_url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   }
