@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 03:54",
+ "actualizado": "24/11 05:20",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -39,12 +39,6 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "River",
    "url": "https://x.com/search?q=River",
    "relevante": false,
@@ -63,26 +57,26 @@
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Russo",
    "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "#GELP",
    "url": "https://x.com/search?q=%23GELP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   },
@@ -121,15 +115,48 @@
    "url": "https://x.com/search?q=Rosca%20Floja",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "X-Men",
+   "url": "https://x.com/search?q=X-Men",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "copa sudamericana",
+   "busquedas": "1000+",
+   "nota": "Miguel Merentiel es el primer uruguayo en ganar dos veces la CONMEBOL Sudamericana",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17553379/miguel-merentiel-sudamericana-primer-uruguayo-dos-veces",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la joaqui",
+   "busquedas": "100+",
+   "nota": "Turistas por accidente en Esquel: La Joaqui y Tiago PZK quedaron varados y pidieron ayuda por redes",
+   "nota_url": "https://www.abcdiario.com.ar/locales/turistas-por-accidente-en-esquel-la-joaqui-y-tiago-pzk-quedaron-varados-y-pidieron-ayuda-por-redes/",
+   "medio": "abcdiario.com.ar",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "emiliano kaczka",
    "busquedas": "200+",
    "nota": "Qué es de la vida de Emiliano Kaczka, el hermano de Guido que fue un ídolo de los 80 y hoy atraviesa una dolorosa pérdida",
    "nota_url": "https://www.parati.com.ar/news/que-es-de-la-vida-de-emiliano-kaczka-el-hermano-de-guido-que-fue-un-idolo-de-los-80-y-hoy-atraviesa-una-dolorosa-perdida/",
    "medio": "Revista Para Ti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "the walking dead",
+   "busquedas": "100+",
+   "nota": "The 30 Best Zombie TV Shows, Ranked",
+   "nota_url": "https://www.ranker.com/list/best-zombie-tv-shows",
+   "medio": "Ranker",
    "relevante": false,
    "temas": []
   },
@@ -145,9 +172,9 @@
   {
    "tema": "clima formosa",
    "busquedas": "100+",
-   "nota": "Hay alertas naranja y amarilla por tormentas y vientos para este martes 24 de noviembre: las provincias afectadas",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/hay-alertas-naranja-y-amarilla-por-tormentas-y-vientos-para-este-martes-24-de-noviembre-las-nid24112026/",
-   "medio": "La Nación",
+   "nota": "Hay alerta naranja por tormentas para este martes 24 de noviembre en Formosa: las zonas afectadas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/hay-alerta-naranja-por-tormentas-para-este-martes-24-de-noviembre-en-formosa-las-zonas-afectadas/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -179,38 +206,11 @@
    "temas": []
   },
   {
-   "tema": "kings - spurs",
-   "busquedas": "1000+",
-   "nota": "Photos: Spurs vs. Sacramento Kings | 11/23/26",
-   "nota_url": "https://www.nba.com/spurs/photos/1080186",
-   "medio": "NBA.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "dólar estadounidense",
    "busquedas": "1000+",
    "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 23 de noviembre, minuto a minuto",
    "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid23112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "agustina albertario",
-   "busquedas": "200+",
-   "nota": "Entrevista a Agustina Albertario",
-   "nota_url": "https://www.ole.com.ar/hockey/entrevista-agustina-albertario_3_eLGSo95n27.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "china",
-   "busquedas": "200+",
-   "nota": "Chinese Official Sentenced to Death for Espionage",
-   "nota_url": "https://www.chosun.com/english/world-en/2026/11/24/GOXY6AKQDRDHVCFW4DKALIHDS4/",
-   "medio": "조선일보",
    "relevante": false,
    "temas": []
   }
