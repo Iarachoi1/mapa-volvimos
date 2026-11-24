@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 16:53",
+ "actualizado": "24/11 17:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "Robertito",
    "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -33,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +57,8 @@
    "temas": []
   },
   {
-   "tema": "#GaudioEsImprovisacion",
-   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
+   "tema": "#gaudioesimprovisacion",
+   "url": "https://x.com/search?q=%23gaudioesimprovisacion",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +87,20 @@
    "temas": []
   },
   {
+   "tema": "#sefuelarga",
+   "url": "https://x.com/search?q=%23sefuelarga",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#BuenMartes",
    "url": "https://x.com/search?q=%23BuenMartes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Russo",
-   "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +111,106 @@
    "temas": []
   },
   {
-   "tema": "Alta CÃ³rdoba",
-   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
+   "tema": "RamÃ­rez",
+   "url": "https://x.com/search?q=Ram%C3%83%C2%ADrez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
+   "tema": "Russo",
+   "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "slovan bratislava - real betis",
+   "tema": "chapecoense - palmeiras",
+   "busquedas": "500+",
+   "nota": "Tristeza no futebol: dez anos e uma dor",
+   "nota_url": "https://www.opresente.com.br/geral/tristeza-no-futebol-dez-anos-e-uma-dor/",
+   "medio": "O Presente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "porto",
    "busquedas": "200+",
-   "nota": "Real Betis vs Slovan Bratislava Prediction (Nov 24): Real Betis 68% — Odds & Live Score",
-   "nota_url": "https://www.accuscore.com/game/cmvo98qyg4hi9ul01ugb22gvt",
-   "medio": "AccuScore",
+   "nota": "Duas surpresas no onze de Farioli para o Feyenoord",
+   "nota_url": "https://www.abola.pt/noticias/duas-surpresas-no-onze-de-farioli-para-o-feyenoord-2026112417313197529",
+   "medio": "A Bola",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "manchester city - napoli",
-   "busquedas": "5000+",
-   "nota": "Manchester City-Napoli: Maresca fatica, per gli azzurri c'è la possibilità di fare il colpo",
-   "nota_url": "https://www.gazzetta.it/numbers/24-11-2026/man-city-napoli-de-bruyne-all-etihad-e-sfida-allegri-maresca.shtml",
-   "medio": "La Gazzetta dello Sport",
-   "relevante": false,
+   "tema": "cristina fernández de kirchner",
+   "busquedas": "200+",
+   "nota": "Atentado contra Cristina Kirchner: Casación fijó audiencia para revisar el agravante de violencia de género",
+   "nota_url": "https://www.infobae.com/politica/2026/11/23/atentado-contra-cristina-kirchner-casacion-fijo-audiencia-para-revisar-el-agravante-de-violencia-de-genero/",
+   "medio": "Infobae",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "como - aek",
+   "tema": "real madrid",
    "busquedas": "2000+",
-   "nota": "¿Alvini, criticado tras el Milan-Frosinone? Fabregas le defiende: «Hago como él, quiero que se siga diciendo que es un grandísimo entrenador»",
-   "nota_url": "https://www.goal.com/es/noticias/alvini-criticado-tras-el-milan-frosinone-fabregas-le-defiende-hago-como-el-quiero-que-se-siga-diciendo-que-es-un-grandisimo-entrenador/bltafe3b7eaa0ca6755",
-   "medio": "Goal.com",
+   "nota": "Cuándo juegan Real Madrid vs PSV por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17551278/real-madrid-vs-psv-uefa-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "jeanine grasmeijer",
-   "busquedas": "200+",
-   "nota": "Freediver Jeanine Grasmeijer overleden",
-   "nota_url": "https://duikeninbeeld.tv/freediver-jeanine-grasmeijer-overleden/",
-   "medio": "DuikeninBeeld",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cebra phone",
+   "tema": "championship",
    "busquedas": "100+",
-   "nota": "Comenzaron los alegatos de la defensa en el caso Cebra Phone",
-   "nota_url": "https://www.noticiero9.com.ar/36122-comenzaron-los-alegatos-de-la-defensa-en-el-caso-cebra-phone",
-   "medio": "https://www.noticiero9.com.ar/",
+   "nota": "SewKC Baby! Champion maker rallies family, team of sewists to win Current collab (with no added time)",
+   "nota_url": "https://startlandnews.com/2026/11/sewkc-kc-current/",
+   "medio": "Startland News",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "real madrid - psv",
-   "busquedas": "20000+",
-   "nota": "'I would have liked to play in Eindhoven!' - Thibaut Courtois makes surprise PSV confession before Real Madrid clash",
-   "nota_url": "https://www.goal.com/en/news/thibaut-courtois-psv-eindhoven-real-madrid-champions-league/bltc48c5adee8e3ddbf",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "arsenal - dortmund",
+   "tema": "posiciones de galatasaray contra aston villa",
    "busquedas": "2000+",
-   "nota": "Mikel Arteta's flawless Champions League record at Arsenal set to be tested more than ever",
-   "nota_url": "https://sports.yahoo.com/articles/mikel-artetas-flawless-champions-league-130500792.html",
-   "medio": "Yahoo Sports",
+   "nota": "Galatasaray 1-0 Aston Villa (Nov 24, 2026) Game Analysis",
+   "nota_url": "https://www.espn.com/soccer/report/_/gameId/401915300",
+   "medio": "ESPN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "liga de campeones de la afc",
-   "busquedas": "100+",
-   "nota": "El señor Polking estaba contento de haber vencido al exentrenador del Dortmund.",
-   "nota_url": "https://www.vietnam.vn/es/ong-polking-hanh-phuc-khi-thang-cuu-hlv-dortmund",
-   "medio": "Vietnam.vn",
+   "tema": "rb leipzig - lens",
+   "busquedas": "500+",
+   "nota": "Thauvin starts at Leipzig after Lens conceded nine to Como",
+   "nota_url": "https://www.tufutbolero.com/en/news/thauvin-starts-at-leipzig-after-lens-conceded-nine-to-como-1bfb79",
+   "medio": "Tu Futbolero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cartagena",
-   "busquedas": "100+",
-   "nota": "En vivo: así va el operativo en el supermercado Éxito en Cartagena",
-   "nota_url": "https://www.elespectador.com/colombia/cartagena/tension-en-cartagena-por-hombres-armados-que-se-tomaron-supermercado-exito-habria-rehenes/",
-   "medio": "El Espectador",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quinielas de hoy",
+   "tema": "como fc",
    "busquedas": "200+",
-   "nota": "Quiniela de la Provincia: resultado del sorteo de la Vespertina de hoy, martes 24 de noviembre",
-   "nota_url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-vespertina-hoy-martes-24-noviembre_0_c5q7KMZNDC.html",
-   "medio": "Clarin.com",
+   "nota": "Tonight’s starting XI, drawn by the children of Fondazione Maria Letizia Verga ETS",
+   "nota_url": "https://comofootball.com/en/tonight-s-starting-xi-drawn-by-the-children-of-fondazione-maria-letizia-verga-ets/",
+   "medio": "Como 1907",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chimy ávila",
+   "busquedas": "200+",
+   "nota": "Chimy Ávila sigue con molestias y está casi descartado en Independiente para visitar a Vélez",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1163895/deportes/chimy-vila-sigue-molestias-esta-casi-descartado-independiente-para-visitar-velez.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "psv",
+   "busquedas": "200+",
+   "nota": "🗣️ 'Hij is een geweldige coach met een mooie carrière' J...",
+   "nota_url": "https://sportnieuws.nl/short/hij-is-een-geweldige-coach-met-een-mooie-carriere-jose-mourinho-neemt-het-dinsdagavond-met-real-17983627506149424/",
+   "medio": "Sportnieuws.nl",
    "relevante": false,
    "temas": []
   }
