@@ -1,16 +1,10 @@
 {
- "actualizado": "23/11 20:39",
+ "actualizado": "23/11 21:45",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Newell",
    "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
@@ -21,20 +15,32 @@
    "temas": []
   },
   {
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Conti",
    "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
+   "tema": "#GELP",
+   "url": "https://x.com/search?q=%23GELP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
@@ -51,26 +57,14 @@
    "temas": []
   },
   {
-   "tema": "#GELP",
-   "url": "https://x.com/search?q=%23GELP",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Escobar",
    "url": "https://x.com/search?q=Escobar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Guch",
-   "url": "https://x.com/search?q=Guch",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "MiramÃ³n",
-   "url": "https://x.com/search?q=Miram%C3%83%C2%B3n",
+   "tema": "#LaMesaEstaServida",
+   "url": "https://x.com/search?q=%23LaMesaEstaServida",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +75,26 @@
    "temas": []
   },
   {
+   "tema": "Melluso",
+   "url": "https://x.com/search?q=Melluso",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "MiramÃ³n",
+   "url": "https://x.com/search?q=Miram%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Guch",
+   "url": "https://x.com/search?q=Guch",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Solari",
    "url": "https://x.com/search?q=Solari",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Mazzanti",
-   "url": "https://x.com/search?q=Mazzanti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Coccaro",
-   "url": "https://x.com/search?q=Coccaro",
    "relevante": false,
    "temas": []
   },
@@ -105,32 +105,95 @@
    "temas": []
   },
   {
-   "tema": "Carrizo",
-   "url": "https://x.com/search?q=Carrizo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ortega",
-   "url": "https://x.com/search?q=Ortega",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Regiardo",
    "url": "https://x.com/search?q=Regiardo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mazzanti",
+   "url": "https://x.com/search?q=Mazzanti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "salario",
+   "tema": "debate",
    "busquedas": "200+",
+   "nota": "El peronismo debate en Resistencia y muestra a dos de los presidenciables",
+   "nota_url": "https://www.diarionorte.com/337039-el-peronismo-debate-en-resistencia-y-muestra-a-dos-de-los-presidenciables",
+   "medio": "Diario Norte",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "máxima de los países bajos",
+   "busquedas": "100+",
+   "nota": "Últimas noticias de Máxima Zorreguietta",
+   "nota_url": "https://www.ciudad.com.ar/tags/maxima-zorreguietta/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "76ers - trail blazers",
+   "busquedas": "200+",
+   "nota": "Jaylen Brown's Potential Return Could Prove To Be Deciding Factor Against Trail Blazers",
+   "nota_url": "https://sports.yahoo.com/articles/jaylen-browns-potential-return-could-181116694.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lisandro martínez",
+   "busquedas": "200+",
+   "nota": "La crítica de Schmeichel a Lisandro Martínez tras el 0-4 vs. Liverpool",
+   "nota_url": "https://www.ole.com.ar/futbol-internacional/inglaterra/critica-schmeichel-lisandro-martinez-0-4-vs-liverpool_3_KNbPYBq5BA.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santos - grêmio",
+   "busquedas": "2000+",
+   "nota": "Parças platinados: Neymar, Arthur, Cebolinha e outros jogadores do Santos adotam novo estilo para enfrentar o Grêmio",
+   "nota_url": "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2026/11/parcas-platinados-neymar-arthur-cebolinha-e-outros-jogadores-do-santos-adotam-novo-estilo-para-enfrentar-o-gremio-cmwtxhrem00c1016mnei4gmzo.html",
+   "medio": "GZH",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luna llena noviembre 2026",
+   "busquedas": "200+",
+   "nota": "Luna llena de noviembre: cuándo es y qué significa",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101162616/en-que-luna-estamos-luna-llena-noviembre-2026/",
+   "medio": "Primera Edición",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "salario",
+   "busquedas": "1000+",
    "nota": "'Absurdo': Presidenta de Acopi, gremio de empresas, lanza advertencia a trabajadores por aumento del salario mínimo 2027",
    "nota_url": "https://redmas.com.co/economia/absurdo-presidenta-de-acopi-gremio-de-empresas-lanza-advertencia-a-trabajadores-por-aumento-del-salario-minimo-2027-20261122-0008.html",
    "medio": "RED+ Noticias",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "el litoral",
+   "busquedas": "500+",
+   "nota": "Arrestan en Paraguay a hermano y cuñada de expresidente Santiago Peña por caso Ueno Bank",
+   "nota_url": "https://www.dw.com/es/arrestan-en-paraguay-a-hermano-y-cu%C3%B1ada-de-expresidente-santiago-pe%C3%B1a-investigados-por-caso-ueno-bank/a-80027159",
+   "medio": "DW.com",
+   "relevante": false,
    "temas": []
   },
   {
@@ -143,74 +206,11 @@
    "temas": []
   },
   {
-   "tema": "el litoral",
-   "busquedas": "200+",
-   "nota": "El río continúa bajando y se mantiene estable la situación en Puerto Reconquista",
-   "nota_url": "https://www.reconquistahoy.com/93792-el-rio-continua-bajando-y-se-mantiene-estable-la-situacion-en-puerto-reconquista",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "encuesta",
    "busquedas": "100+",
-   "nota": "Qué dicen los últimos sondeos en España y por qué Vox podría definir el futuro de Sánchez",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/que-dicen-los-ultimos-sondeos-en-espana-y-por-que-vox-podria-definir-el-futuro-de-sanchez-nid23112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético san lorenzo de almagro",
-   "busquedas": "100+",
-   "nota": "Culotta dejó un mensaje al hincha de San Lorenzo: “La gente tiene que…”",
-   "nota_url": "https://mundoazulgrana.com.ar/culotta-dejo-un-mensaje-al-hincha-de-san-lorenzo-la-gente-tiene-que/",
-   "medio": "Mundo Azulgrana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "foz do iguaçu",
-   "busquedas": "200+",
-   "nota": "Eventos climáticos extremos no Paraná atingem quase mil pessoas no fim de semana",
-   "nota_url": "https://www.plural.jor.br/eventos-climaticos-extremos-no-parana-atingem-quase-mil-pessoas-no-fim-de-semana/",
-   "medio": "Jornal Plural",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de levante ud contra elche c. f.",
-   "busquedas": "200+",
-   "nota": "Requena rescues a point for Levante in 88th minute vs Elche",
-   "nota_url": "https://www.tufutbolero.com/en/news/requena-rescues-a-point-for-levante-in-88th-minute-vs-elche-9b3300",
-   "medio": "Tu Futbolero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "botafogo - são paulo",
-   "busquedas": "1000+",
-   "nota": "Emprestado pelo Botafogo, Artur desfalca o São Paulo no Rio",
-   "nota_url": "https://www.terra.com.br/esportes/sao-paulo/emprestado-pelo-botafogo-artur-desfalca-o-sao-paulo-no-rio,d37fcadc42a7c14a365824d3bc5e330cnlg43u8s.html",
-   "medio": "Terra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "internacional",
-   "busquedas": "500+",
-   "nota": "El shock financiero complica al Gobierno: presiona al dólar y amenaza el repunte de la economía",
-   "nota_url": "https://www.infobae.com/economia/2026/11/22/el-shock-financiero-complica-al-gobierno-presiona-al-dolar-y-amenaza-el-repunte-de-la-economia/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "s&p 500",
-   "busquedas": "200+",
-   "nota": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 3.01%",
-   "nota_url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476",
-   "medio": "Investing.com",
+   "nota": "Cómo imaginan los argentinos el país que desean y el perfil de quienes deberían construirlo",
+   "nota_url": "https://www.lavoz901.com/noticias/cmo-imaginan-los-argentinos-el-pas-que-desean-y-el-perfil-de-quienes-deberan-construirlo.htm",
+   "medio": "La voz 90.1",
    "relevante": false,
    "temas": []
   }
