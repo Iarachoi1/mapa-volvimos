@@ -1,22 +1,22 @@
 {
- "actualizado": "23/11 23:05",
+ "actualizado": "24/11 00:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#GaudioEsImprovisacion",
-   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
+   "tema": "#GaudioSeHunde",
+   "url": "https://x.com/search?q=%23GaudioSeHunde",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,20 @@
    "temas": []
   },
   {
+   "tema": "#GaudioEsImprovisacion",
+   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Conti",
    "url": "https://x.com/search?q=Conti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#EsMiSueÃ±o",
+   "url": "https://x.com/search?q=%23EsMiSue%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +57,14 @@
    "temas": []
   },
   {
-   "tema": "#EsMiSueÃ±o",
-   "url": "https://x.com/search?q=%23EsMiSue%C3%83%C2%B1o",
+   "tema": "Chapeaux",
+   "url": "https://x.com/search?q=Chapeaux",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tarzia",
+   "url": "https://x.com/search?q=Tarzia",
    "relevante": false,
    "temas": []
   },
@@ -63,38 +81,26 @@
    "temas": []
   },
   {
+   "tema": "Lista Roja",
+   "url": "https://x.com/search?q=Lista%20Roja",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nacho",
+   "url": "https://x.com/search?q=Nacho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mercado",
+   "url": "https://x.com/search?q=Mercado",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Kudelka",
    "url": "https://x.com/search?q=Kudelka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tarzia",
-   "url": "https://x.com/search?q=Tarzia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Melluso",
-   "url": "https://x.com/search?q=Melluso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#LaMesaEstaServida",
-   "url": "https://x.com/search?q=%23LaMesaEstaServida",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Escobar",
-   "url": "https://x.com/search?q=Escobar",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +117,100 @@
    "temas": []
   },
   {
-   "tema": "Boero",
-   "url": "https://x.com/search?q=Boero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paloma",
-   "url": "https://x.com/search?q=Paloma",
+   "tema": "Melluso",
+   "url": "https://x.com/search?q=Melluso",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "parastoo ahmadi",
+   "tema": "hija",
    "busquedas": "100+",
-   "nota": "ONG y abogados denuncian que la cantante Parastoo Ahmadi ha recibido 74 latigazos por dar un concierto sin velo",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/23/ong-y-abogados-denuncian-que-la-cantante-parastoo-ahmadi-ha-recibido-74-latigazos-por-dar-un-concierto-sin-velo/",
+   "nota": "La hija menor de Bruce Willis se disculpa por compartir una fotografía junto al actor: “Era demasiado íntima para mostrarla”",
+   "nota_url": "https://www.infobae.com/entretenimiento/2026/11/22/la-hija-menor-de-bruce-willis-se-disculpa-por-compartir-una-fotografia-junto-al-actor-era-demasiado-intima-para-mostrarla/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "rivales en la nieve",
-   "busquedas": "100+",
-   "nota": "Sinopsis de “Bronca Navidad”",
-   "nota_url": "https://www.magazinespain.com/bronca-navidad-christopher-briney-michelle-randolph/",
-   "medio": "magazinespain.com",
+   "tema": "lakers - jazz",
+   "busquedas": "500+",
+   "nota": "Luka Doncic just called out a difficult truth about Lakers' last three games",
+   "nota_url": "https://lakeshowlife.com/luka-doncic-just-called-out-a-difficult-truth-about-lakers-last-three-games",
+   "medio": "Lake Show Life",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "rubén darío insúa",
-   "busquedas": "100+",
-   "nota": "Insua le confirmó a los dirigentes los puestos que pretende reforzar en San Lorenzo",
-   "nota_url": "https://radiodelsolpehuajo.com.ar/articulo/2026/11/insua-le-confirmo-a-los-dirigentes-los-puestos-que-pretende-reforzar-en-san-lorenzo.php",
-   "medio": "FM Del Sol Pehuajo",
+   "tema": "kings - spurs",
+   "busquedas": "500+",
+   "nota": "Spurs vs Kings LIVE, Score Updates, Stats and NBA Play-by-Play (19-28)",
+   "nota_url": "https://www.vavel.com/en-us/nba/2026/11/23/1280484-spurs-vs-kings-live-score-updates-stats-and-nba-regular-season-play-by-play.html",
+   "medio": "VAVEL.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "movistar arena",
+   "tema": "dólar estadounidense",
    "busquedas": "1000+",
-   "nota": "Se quedó sin pelo, cejas ni pestañas a los 16 años y decidió contar su historia: “Nunca había visto a una chica como yo”",
-   "nota_url": "https://tn.com.ar/sociedad/2026/11/15/se-quedo-sin-pelo-cejas-ni-pestanas-a-los-16-anos-y-decidio-contar-su-historia-nunca-habia-visto-a-una-chica-como-yo/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bulls - cavaliers",
-   "busquedas": "200+",
-   "nota": "Cleveland Cavaliers at Chicago Bulls - Where to Watch, Stream Info, TV Channel, and Live Updates (November 23, 2026)",
-   "nota_url": "https://www.fubo.tv/news/nba/cleveland-cavaliers-at-chicago-bulls-where-to-watch-stream-info-tv-channel-and-live-updates-november-23-2026/",
-   "medio": "Fubo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sportivo desamparados",
-   "busquedas": "100+",
-   "nota": "La drástica medida que tomó la Policía para los hinchas de Sportivo Desamparados",
-   "nota_url": "https://www.tiempodesanjuan.com/deportes/la-drastica-medida-que-tomo-la-policia-para-los-hinchas-de-sportivo-desamparados_1795454269",
-   "medio": "Tiempo de San Juan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lara magalí rapallo",
-   "busquedas": "200+",
-   "nota": "“Se hicieron los vivos”: realizaron maniobras peligrosas en Pinamar, los delató el color de la camioneta y la perdieron",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/se-hicieron-los-vivos-hicieron-maniobras-peligrosas-en-pinamar-los-delato-el-color-de-la-camioneta-y-nid23112026/",
+   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 23 de noviembre, minuto a minuto",
+   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid23112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pacers - thunder",
+   "tema": "agustina albertario",
    "busquedas": "200+",
-   "nota": "Indiana Pacers Make Pascal Siakam Announcement Before Thunder Game",
-   "nota_url": "https://sports.yahoo.com/articles/indiana-pacers-pascal-siakam-announcement-215028540.html",
-   "medio": "Yahoo Sports",
+   "nota": "Entrevista a Agustina Albertario",
+   "nota_url": "https://www.ole.com.ar/hockey/entrevista-agustina-albertario_3_eLGSo95n27.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "marcos galperin",
-   "busquedas": "1000+",
-   "nota": "Marcos Galperin cuestionó al kirchnerismo y recordó las restricciones de la pandemia",
-   "nota_url": "https://elintransigente.com/2026/11/23/marcos-galperin-cuestiono-kirchnerismo-recordo-restricciones-pandemia/",
-   "medio": "El Intransigente",
-   "relevante": true,
+   "tema": "china",
+   "busquedas": "200+",
+   "nota": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
+   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+   "medio": "Bloomberg.com",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "santos vs",
+   "tema": "automovilismo",
+   "busquedas": "500+",
+   "nota": "Stellantis acelera hacia 2030",
+   "nota_url": "https://www.diariodesevilla.es/motor/stellantis-acelera-2030_0_2008565954.html",
+   "medio": "Diario de Sevilla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - nets",
    "busquedas": "200+",
-   "nota": "Santos vs. Grêmio por el Brasileirao Serie A 2026: día, hora y cómo seguir online",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/santos-vs-gremio-por-el-brasileirao-serie-a-2026-dia-hora-y-como-seguir-online-nid22112026/",
-   "medio": "La Nación",
+   "nota": "Wolves looking to tighten offense, finish homestand strong vs. Nets",
+   "nota_url": "https://kstp.com/minnesota-sports/wolves-looking-to-tighten-offense-finish-homestand-strong-vs-nets/",
+   "medio": "5 EYEWITNESS NEWS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "neymar",
+   "busquedas": "200+",
+   "nota": "Neymar Jr conquistó su primer título en la BSOP y Belaustegui terminó 5°.",
+   "nota_url": "https://pokerlogia.com/poker/neymar-jr-conquisto-su-primer-titulo-en-la-bsop-y-belaustegui-termino-5/",
+   "medio": "Pokerlogia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "rockets - clippers",
+   "busquedas": "100+",
+   "nota": "Clippers vs. Rockets Prediction, Odds and Best NBA Prop Bets for Monday, Nov. 23",
+   "nota_url": "https://www.si.com/betting/clippers-vs-rockets-prediction-odds-and-best-nba-prop-bets-for-monday-nov-23-2026",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   }
