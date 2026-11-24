@@ -1,10 +1,16 @@
 {
- "actualizado": "24/11 07:49",
+ "actualizado": "24/11 08:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
@@ -17,12 +23,6 @@
   {
    "tema": "Newell",
    "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +45,20 @@
    "temas": []
   },
   {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#Napalm",
    "url": "https://x.com/search?q=%23Napalm",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "nacho fernÃ¡ndez",
-   "url": "https://x.com/search?q=nacho%20fern%C3%83%C2%A1ndez",
+   "tema": "nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
@@ -93,26 +99,20 @@
    "temas": []
   },
   {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#GELP",
-   "url": "https://x.com/search?q=%23GELP",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Bucky",
    "url": "https://x.com/search?q=Bucky",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rosca floja",
-   "url": "https://x.com/search?q=rosca%20floja",
    "relevante": false,
    "temas": []
   },
@@ -125,8 +125,62 @@
  ],
  "google": [
   {
-   "tema": "base naval ushuaia",
+   "tema": "ambito financiero",
+   "busquedas": "2000+",
+   "nota": "Dólar blue, dólar hoy: a cuánto cotizan el martes 24 de noviembre de 2026",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/24/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-martes-24-de-noviembre-de-2026/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bodega",
    "busquedas": "100+",
+   "nota": "Por qué Patagonia se convirtió en la nueva meca de los vinos de alta gama",
+   "nota_url": "https://prensalibreonline.com.ar/sociedad/por-que-patagonia-se-convirtio-en-la-nueva-meca-de-los-vinos-de-alta-gama",
+   "medio": "Prensa Libre Online",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la voz del interior",
+   "busquedas": "200+",
+   "nota": "Del Campillo: investigan la muerte de un motociclista de 34 años en la Ruta Provincial 27",
+   "nota_url": "https://cordoba.mitelefe.com/cordoba/del-campillo-investigan-la-muerte-de-un-motociclista-de-34-anos-en-la-ruta-provincial-27-pid2572925",
+   "medio": "Telefe Córdoba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reconquista hoy",
+   "busquedas": "100+",
+   "nota": "Policiales: Villa Ocampo: investigan un grave accidente entre una moto y un camión",
+   "nota_url": "https://www.villaocamposf.com.ar/inicio/noticia/40498/Villa-Ocampo-investigan-un-grave-accidente-entre-una-moto-y-un-camin.html",
+   "medio": ".: VillaOcampoSF :.",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "whatsapp web",
+   "busquedas": "20000+",
+   "nota": "Government Warns Against Leaving Accounts Logged In On Shared Computers",
+   "nota_url": "https://www.livemint.com/videos/government-warns-against-leaving-accounts-logged-in-on-shared-computers-11795493266997.html",
+   "medio": "Livemint",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "feriados diciembre 2026",
+   "busquedas": "200+",
+   "nota": "Qué feriados y días no laborables quedan en Argentina hasta fin de año",
+   "nota_url": "https://www.lacapital.com.ar/informacion-general/que-feriados-y-dias-no-laborables-quedan-argentina-fin-ano-n10293841.html",
+   "medio": "La Capital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "base naval ushuaia",
+   "busquedas": "200+",
    "nota": "Base Naval de Ushuaia: las dos ofertas superan el presupuesto oficial",
    "nota_url": "https://www.minutofueguino.com.ar/ushuaia/base-naval-de-ushuaia-las-dos-ofertas-superan-el-presupuesto-oficial.htm",
    "medio": "Minuto Fueguino",
@@ -134,8 +188,17 @@
    "temas": []
   },
   {
+   "tema": "diario uno",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "evelyn botto",
-   "busquedas": "100+",
+   "busquedas": "500+",
    "nota": "Video íntimo de Evelyn Botto filtrado por Fede Bal y frase polémica",
    "nota_url": "https://elconurbano.com.ar/fede-bal-filtro-un-video-intimo-de-su-novia-evelyn-botto-y-se-escucho-una-frase-sin-filtro-esas-curvas/85076/",
    "medio": "elconurbano.com.ar",
@@ -144,73 +207,10 @@
   },
   {
    "tema": "datachaco",
-   "busquedas": "100+",
-   "nota": "Secheep recuerda medidas de prevención para evitar accidentes eléctricos durante las lluvias",
-   "nota_url": "https://www.tn24.com.ar/2026/11/secheep-recuerda-medidas-de-prevencion-para-evitar-accidentes-electricos-durante-las-lluvias/",
-   "medio": "TN24.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "declaración jurada",
-   "busquedas": "100+",
-   "nota": "Preocupación empresaria por una nueva traba burocrática en la provincia de Buenos Aires: piden que se anule la medida",
-   "nota_url": "https://www.clarin.com/economia/preocupacion-empresaria-nueva-traba-burocratica-provincia-buenos-aires-piden-anule-medida_0_qjv6f5hAJQ.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "industria del calzado",
-   "busquedas": "100+",
-   "nota": "Cierra una fábrica de suelas de calzado en Chivilcoy y trasladará su producción a Brasil",
-   "nota_url": "https://www.conclusion.com.ar/gremiales/cierra-una-fabrica-de-suelas-de-calzado-en-chivilcoy-y-trasladara-su-produccion-a-brasil/11/2026/",
-   "medio": "Diario Digital Conclusión",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sergio urribarri",
-   "busquedas": "100+",
-   "nota": "Urribarri va a juicio y se define la lista de 79 testigos",
-   "nota_url": "https://informedigital.com.ar/urribarri-va-a-juicio-y-se-define-la-lista-de-79-testigos/",
-   "medio": "Informe Digital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "flávio bolsonaro",
    "busquedas": "200+",
-   "nota": "Flávio Bolsonaro é citado por edital em denúncia por calúnia",
-   "nota_url": "https://www.esmaelmorais.com.br/flavio-bolsonaro-citado-edital-calunia/",
-   "medio": "Blog do Esmael",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "final copa argentina",
-   "busquedas": "500+",
-   "nota": "La AFA ratificó la fecha de la final de la Copa Argentina",
-   "nota_url": "https://www.lacapitalmdp.com/la-afa-ratifico-la-fecha-de-la-final-de-la-copa-argentina/",
-   "medio": "Diario La Capital de Mar del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "24 de noviembre",
-   "busquedas": "200+",
-   "nota": "Horóscopo de hoy por Jimena La Torre: martes 24 de noviembre de 2026",
-   "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/24/horoscopo-de-hoy-por-jimena-la-torre-martes-24-de-noviembre-de-2026/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hielo",
-   "busquedas": "2000+",
-   "nota": "Salteras organiza una jornada de patinaje sobre hielo para jóvenes durante las vacaciones de Navidad",
-   "nota_url": "https://www.aljarafeymas.com/noticias/36173-Salteras-organiza-una-jornada-de-patinaje-sobre-hielo-para-jvenes-durante-las-vacaciones-de-Navidad",
-   "medio": "Aljarafe y más",
+   "nota": "Tormentas fuertes, ráfagas y granizo: el SMN emitió un aviso para Chaco y Corrientes",
+   "nota_url": "https://www.diarionorte.com/337170-tormentas-fuertes-rafagas-y-granizo-el-smn-emitio-un-aviso-para-chaco-y-corrientes",
+   "medio": "Diario Norte",
    "relevante": false,
    "temas": []
   }
