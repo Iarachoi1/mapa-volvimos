@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 11:13",
+ "actualizado": "24/11 12:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,14 +9,8 @@
    "temas": []
   },
   {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "papa Francisco",
-   "url": "https://x.com/search?q=papa%20Francisco",
+   "tema": "Crostita",
+   "url": "https://x.com/search?q=Crostita",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#gaudiosehunde",
-   "url": "https://x.com/search?q=%23gaudiosehunde",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "#GaudioSeHunde",
+   "url": "https://x.com/search?q=%23GaudioSeHunde",
    "relevante": false,
    "temas": []
   },
@@ -57,14 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#antesquenadie",
-   "url": "https://x.com/search?q=%23antesquenadie",
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
+   "tema": "Papa Francisco",
+   "url": "https://x.com/search?q=Papa%20Francisco",
    "relevante": false,
    "temas": []
   },
@@ -75,26 +63,20 @@
    "temas": []
   },
   {
-   "tema": "Malamud",
-   "url": "https://x.com/search?q=Malamud",
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Freddie Mercury",
-   "url": "https://x.com/search?q=Freddie%20Mercury",
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Ramirez",
    "url": "https://x.com/search?q=Ramirez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
@@ -111,76 +93,85 @@
    "temas": []
   },
   {
-   "tema": "El Gobierno",
-   "url": "https://x.com/search?q=El%20Gobierno",
-   "relevante": true,
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#antesquenadie",
+   "url": "https://x.com/search?q=%23antesquenadie",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "papa francisco diablo",
+   "busquedas": "500+",
+   "nota": "Cómo una agenda en cuero negro de Jorge Bergoglio se convirtió en el \"Diario personal del Papa Francisco\"",
+   "nota_url": "https://www.clarin.com/mundo/agenda-cuero-negro-jorge-bergoglio-convirtio-diario-personal-papa-francisco_0_apruesnZA5.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "iol",
-   "busquedas": "200+",
-   "nota": "Expected petrol price for December, and a major blow for WeBuyCars",
-   "nota_url": "https://topauto.co.za/news/169296/expected-petrol-price-for-december-and-a-major-blow-for-webuycars/",
-   "medio": "TopAuto.co.za",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolar ambito",
-   "busquedas": "100+",
-   "nota": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 20 de noviembre de 2026",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/20/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-20-de-noviembre-de-2026/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolar mep",
-   "busquedas": "100+",
-   "nota": "¿Fin del \"carry trade\"?: la suba del dólar borra ganancias y obliga a inversores a revisar estrategias",
-   "nota_url": "https://www.clarin.com/economia/pausa-carry-trade-suba-dolar-borra-ganancias-obliga-inversores-revisar-estrategias_0_YFWJNUGf3z.html",
-   "medio": "Clarín",
+   "busquedas": "500+",
+   "nota": "IFP considers its options as coalition negotiations continue",
+   "nota_url": "https://www.enca.com/news-top-stories/ifp-considers-its-options-coalition-negotiations-continue",
+   "medio": "eNCA",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "calendario 2027",
    "busquedas": "200+",
-   "nota": "Educación: CALENDARIO ESCOLAR 2027",
-   "nota_url": "https://www.multimediosmaldoni.tv/inicio/noticia/44364/CALENDARIO-ESCOLAR-2027.html",
-   "medio": "Multimedios Maldoni",
+   "nota": "Llegó el Calendario 2027 de la experiencia más deseada de Cataratas",
+   "nota_url": "https://misionesonline.net/2026/11/20/llego-el-calendario-2027-de-la-experiencia-mas-deseada-de-cataratas/",
+   "medio": "MisionesOnline",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "feriado diciembre 2026",
-   "busquedas": "200+",
-   "nota": "Feriado del lunes 23 de noviembre: ¿cómo funcionarán los servicios?",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1163756/sociedad/feriado-lunes-23-noviembre-como-funcionaran-servicios.html",
-   "medio": "La Gaceta",
+   "tema": "dolar",
+   "busquedas": "10000+",
+   "nota": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 24 de noviembre minuto a minuto",
+   "nota_url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-24-de-noviembre-minuto-a-minuto/",
+   "medio": "El Cronista",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dolar hoy",
-   "busquedas": "10000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 24 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-24-noviembre-n6348482",
-   "medio": "Ambito",
+   "busquedas": "20000+",
+   "nota": "Mercados. Dólar blue hoy en Córdoba: a cuánto cotiza este martes 24 de noviembre",
+   "nota_url": "https://www.lavoz.com.ar/negocios/dolar-blue-hoy-cordoba-cotiza-martes-24-noviembre_0_iPFWbcox4i.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "edith hermida",
-   "busquedas": "200+",
+   "busquedas": "1000+",
    "nota": "Edith Hermida defendió su plato en MasterChef Celebrity",
    "nota_url": "https://rosariolaciudad.com.ar/edith-hermida-defendio-su-plato-en-masterchef-celebrity/",
    "medio": "Rosario la Ciudad",
@@ -198,10 +189,10 @@
   },
   {
    "tema": "bna",
-   "busquedas": "2000+",
-   "nota": "Airline announces new nonstop summer flights to Grand Cayman from Nashville",
-   "nota_url": "https://www.wsmv.com/2026/11/23/airline-announces-new-nonstop-summer-flights-grand-cayman-nashville/",
-   "medio": "WSMV",
+   "busquedas": "5000+",
+   "nota": "New flight at BNA to offer service from Nashville to Grand Cayman",
+   "nota_url": "https://fox17.com/news/local/new-flight-at-bna-to-offer-service-from-nashville-to-grand-cayman",
+   "medio": "WZTV",
    "relevante": false,
    "temas": []
   },
@@ -211,6 +202,15 @@
    "nota": "Felvételt hirdet két győri kollégiumába a Brenner János Hittudományi Főiskola",
    "nota_url": "https://www.magyarkurir.hu/hazai/felvetelt-hirdet-ket-gyori-kollegiumaba-brenner-janos-hittudomanyi-foiskola",
    "medio": "Magyar Kurír",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calendario diciembre 2026",
+   "busquedas": "200+",
+   "nota": "ANSES: quiénes cobrarán más de $540.000 en diciembre con aumento, aguinaldo y bono",
+   "nota_url": "https://www.primeraedicion.com.ar/nota/101162888/anses-diciembre-2026-pensiones-no-contributivas-aguinaldo-bono/",
+   "medio": "Primera Edición",
    "relevante": false,
    "temas": []
   }
