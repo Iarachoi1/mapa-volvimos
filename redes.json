@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 08:46",
+ "actualizado": "24/11 09:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -27,8 +27,20 @@
    "temas": []
   },
   {
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gimnasia",
    "url": "https://x.com/search?q=Gimnasia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Freddie Mercury",
+   "url": "https://x.com/search?q=Freddie%20Mercury",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +57,20 @@
    "temas": []
   },
   {
+   "tema": "Spotify",
+   "url": "https://x.com/search?q=Spotify",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#Napalm",
-   "url": "https://x.com/search?q=%23Napalm",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
+   "tema": "Papa Francisco",
+   "url": "https://x.com/search?q=Papa%20Francisco",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +81,20 @@
    "temas": []
   },
   {
-   "tema": "nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=nacho%20Fern%C3%83%C2%A1ndez",
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Russo",
-   "url": "https://x.com/search?q=Russo",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Steve Rogers",
-   "url": "https://x.com/search?q=Steve%20Rogers",
+   "tema": "Feliz Martes",
+   "url": "https://x.com/search?q=Feliz%20Martes",
    "relevante": false,
    "temas": []
   },
@@ -105,73 +105,91 @@
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Russo",
+   "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bucky",
-   "url": "https://x.com/search?q=Bucky",
-   "relevante": false,
+   "tema": "El Gobierno",
+   "url": "https://x.com/search?q=El%20Gobierno",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "Peggy",
-   "url": "https://x.com/search?q=Peggy",
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ambito financiero",
-   "busquedas": "2000+",
-   "nota": "Dólar blue, dólar hoy: a cuánto cotizan el martes 24 de noviembre de 2026",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/24/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-martes-24-de-noviembre-de-2026/",
-   "medio": "Página|12",
+   "tema": "cuando es el black friday en argentina 2026",
+   "busquedas": "200+",
+   "nota": "Cuándo empieza el Black Friday 2026 y qué días se mantienen las rebajas: marcas, Cyber Monday y descuento real",
+   "nota_url": "https://www.infobae.com/espana/2026/11/23/cuando-empieza-el-black-friday-2026-y-que-dias-se-mantienen-las-rebajas-marcas-cyber-monday-y-descuento-real/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "bna",
+   "busquedas": "1000+",
+   "nota": "Delta automation back up after Atlanta flight delays Sunday",
+   "nota_url": "https://www.fox5atlanta.com/news/delta-air-lines-automation-issue-triggers-hundreds-thanksgiving-travel-delays-atlanta",
+   "medio": "FOX 5 Atlanta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "janos",
+   "busquedas": "200+",
+   "nota": "Bóka János: „nem fogadhatjuk el a helyzetet a szájzártörvény után, de a bojkottal óvatos lennék”",
+   "nota_url": "https://infostart.hu/belfold/2026/11/24/boka-janos-nem-fogadhatjuk-el-a-helyzetet-a-szajzartorveny-utan-de-a-bojkottal-ovatos-lennek",
+   "medio": "Infostart",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ambito financiero",
+   "busquedas": "1000+",
+   "nota": "Los “mercados” le marcan la cancha a Milei: más presión devaluatoria y peligran los ingresos populares",
+   "nota_url": "https://www.laizquierdadiario.com/Los-mercados-le-marcan-la-cancha-a-Milei-mas-presion-devaluatoria-y-peligran-los-ingresos-populares",
+   "medio": "La Izquierda Diario",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "bodega",
-   "busquedas": "100+",
-   "nota": "Por qué Patagonia se convirtió en la nueva meca de los vinos de alta gama",
-   "nota_url": "https://prensalibreonline.com.ar/sociedad/por-que-patagonia-se-convirtio-en-la-nueva-meca-de-los-vinos-de-alta-gama",
-   "medio": "Prensa Libre Online",
+   "busquedas": "200+",
+   "nota": "Incendio consume bodega de madera y carbón en El Porvenir",
+   "nota_url": "https://hch.tv/incendio-consume-bodega-de-madera-y-carbon-en-el-porvenir/",
+   "medio": "HCH",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "la voz del interior",
    "busquedas": "200+",
-   "nota": "Del Campillo: investigan la muerte de un motociclista de 34 años en la Ruta Provincial 27",
-   "nota_url": "https://cordoba.mitelefe.com/cordoba/del-campillo-investigan-la-muerte-de-un-motociclista-de-34-anos-en-la-ruta-provincial-27-pid2572925",
-   "medio": "Telefe Córdoba",
+   "nota": "¿No le funciona Spotify? Estas son las mejores plataformas de música que puede usar hoy",
+   "nota_url": "https://www.minuto60.com/vida-moderna/no-le-funciona-spotify-estas-plataformas-musica-puede-usar/19496",
+   "medio": "Minuto60",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "reconquista hoy",
    "busquedas": "100+",
-   "nota": "Policiales: Villa Ocampo: investigan un grave accidente entre una moto y un camión",
-   "nota_url": "https://www.villaocamposf.com.ar/inicio/noticia/40498/Villa-Ocampo-investigan-un-grave-accidente-entre-una-moto-y-un-camin.html",
+   "nota": "Policiales: Buscan a una mujer de 30 años que desapareció de su domicilio en Reconquista",
+   "nota_url": "https://www.villaocamposf.com.ar/inicio/noticia/40507/Buscan-a-una-mujer-de-30-aos-que-desapareci-de-su-domicilio.html",
    "medio": ".: VillaOcampoSF :.",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "whatsapp web",
-   "busquedas": "20000+",
-   "nota": "Government Warns Against Leaving Accounts Logged In On Shared Computers",
-   "nota_url": "https://www.livemint.com/videos/government-warns-against-leaving-accounts-logged-in-on-shared-computers-11795493266997.html",
-   "medio": "Livemint",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "feriados diciembre 2026",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Qué feriados y días no laborables quedan en Argentina hasta fin de año",
    "nota_url": "https://www.lacapital.com.ar/informacion-general/que-feriados-y-dias-no-laborables-quedan-argentina-fin-ano-n10293841.html",
    "medio": "La Capital",
@@ -179,38 +197,20 @@
    "temas": []
   },
   {
+   "tema": "diario de cuyo",
+   "busquedas": "500+",
+   "nota": "Qué fue de la vida de....:",
+   "nota_url": "https://www.diariodecuyo.com.ar/que-fue-la-vida-de-n6589374",
+   "medio": "Diario de Cuyo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "base naval ushuaia",
    "busquedas": "200+",
-   "nota": "Base Naval de Ushuaia: las dos ofertas superan el presupuesto oficial",
-   "nota_url": "https://www.minutofueguino.com.ar/ushuaia/base-naval-de-ushuaia-las-dos-ofertas-superan-el-presupuesto-oficial.htm",
-   "medio": "Minuto Fueguino",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "diario uno",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "evelyn botto",
-   "busquedas": "500+",
-   "nota": "Video íntimo de Evelyn Botto filtrado por Fede Bal y frase polémica",
-   "nota_url": "https://elconurbano.com.ar/fede-bal-filtro-un-video-intimo-de-su-novia-evelyn-botto-y-se-escucho-una-frase-sin-filtro-esas-curvas/85076/",
-   "medio": "elconurbano.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "datachaco",
-   "busquedas": "200+",
-   "nota": "Tormentas fuertes, ráfagas y granizo: el SMN emitió un aviso para Chaco y Corrientes",
-   "nota_url": "https://www.diarionorte.com/337170-tormentas-fuertes-rafagas-y-granizo-el-smn-emitio-un-aviso-para-chaco-y-corrientes",
-   "medio": "Diario Norte",
+   "nota": "Una empresa entrerriana compite por el muelle naval de Ushuaia",
+   "nota_url": "https://informedigital.com.ar/una-empresa-entrerriana-compite-por-el-muelle-naval-de-ushuaia/",
+   "medio": "Informe Digital",
    "relevante": false,
    "temas": []
   }
