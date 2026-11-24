@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 05:20",
+ "actualizado": "24/11 06:57",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,20 +33,20 @@
    "temas": []
   },
   {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "#gaudiosehunde",
+   "url": "https://x.com/search?q=%23gaudiosehunde",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Ramirez",
    "url": "https://x.com/search?q=Ramirez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +63,20 @@
    "temas": []
   },
   {
+   "tema": "#gaudioesimprovisacion",
+   "url": "https://x.com/search?q=%23gaudioesimprovisacion",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Nacho FernÃ¡ndez",
    "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#GELP",
-   "url": "https://x.com/search?q=%23GELP",
+   "tema": "#gelp",
+   "url": "https://x.com/search?q=%23gelp",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +87,14 @@
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "Peggy",
+   "url": "https://x.com/search?q=Peggy",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Peggy",
-   "url": "https://x.com/search?q=Peggy",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
@@ -99,79 +105,46 @@
    "temas": []
   },
   {
-   "tema": "Kudelka",
-   "url": "https://x.com/search?q=Kudelka",
+   "tema": "kudelka",
+   "url": "https://x.com/search?q=kudelka",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tato",
-   "url": "https://x.com/search?q=Tato",
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Rosca Floja",
-   "url": "https://x.com/search?q=Rosca%20Floja",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "X-Men",
-   "url": "https://x.com/search?q=X-Men",
+   "tema": "rosca floja",
+   "url": "https://x.com/search?q=rosca%20floja",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "copa sudamericana",
-   "busquedas": "1000+",
-   "nota": "Miguel Merentiel es el primer uruguayo en ganar dos veces la CONMEBOL Sudamericana",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17553379/miguel-merentiel-sudamericana-primer-uruguayo-dos-veces",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la joaqui",
+   "tema": "industria del calzado",
    "busquedas": "100+",
-   "nota": "Turistas por accidente en Esquel: La Joaqui y Tiago PZK quedaron varados y pidieron ayuda por redes",
-   "nota_url": "https://www.abcdiario.com.ar/locales/turistas-por-accidente-en-esquel-la-joaqui-y-tiago-pzk-quedaron-varados-y-pidieron-ayuda-por-redes/",
-   "medio": "abcdiario.com.ar",
+   "nota": "Cierra una fábrica de suelas de calzado en Chivilcoy y trasladará su producción a Brasil",
+   "nota_url": "https://www.conclusion.com.ar/gremiales/cierra-una-fabrica-de-suelas-de-calzado-en-chivilcoy-y-trasladara-su-produccion-a-brasil/11/2026/",
+   "medio": "Diario Digital Conclusión",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "emiliano kaczka",
+   "tema": "flávio bolsonaro",
+   "busquedas": "100+",
+   "nota": "Moraes notifica Flávio Bolsonaro por edital após senador fugir para os Estados Unidos",
+   "nota_url": "https://www.radio96fmns.com.br/noticia/moraes-notifica-flavio-bolsonaro-por-edital-apos-senador-fugir-para-os-estados-u-kf53905",
+   "medio": "www.radio96fmns.com.br",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pronostico formosa",
    "busquedas": "200+",
-   "nota": "Qué es de la vida de Emiliano Kaczka, el hermano de Guido que fue un ídolo de los 80 y hoy atraviesa una dolorosa pérdida",
-   "nota_url": "https://www.parati.com.ar/news/que-es-de-la-vida-de-emiliano-kaczka-el-hermano-de-guido-que-fue-un-idolo-de-los-80-y-hoy-atraviesa-una-dolorosa-perdida/",
-   "medio": "Revista Para Ti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "the walking dead",
-   "busquedas": "100+",
-   "nota": "The 30 Best Zombie TV Shows, Ranked",
-   "nota_url": "https://www.ranker.com/list/best-zombie-tv-shows",
-   "medio": "Ranker",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "500+",
-   "nota": "Clima en Corrientes hoy lunes 23 de noviembre: cielo claro y calor",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/23/clima-en-corrientes-hoy-lunes-23-de-noviembre-cielo-claro-y-calor/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima formosa",
-   "busquedas": "100+",
    "nota": "Hay alerta naranja por tormentas para este martes 24 de noviembre en Formosa: las zonas afectadas",
    "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/hay-alerta-naranja-por-tormentas-para-este-martes-24-de-noviembre-en-formosa-las-zonas-afectadas/",
    "medio": "TN",
@@ -179,38 +152,65 @@
    "temas": []
   },
   {
-   "tema": "alerta amarilla",
+   "tema": "final copa argentina",
    "busquedas": "200+",
-   "nota": "A qué hora llega el tormentón de hielo que bajará 14 grados en 24 horas la temperatura del AMBA",
-   "nota_url": "https://www.minutouno.com/sociedad/a-que-hora-llega-el-tormenton-hielo-que-bajara-14-grados-24-horas-la-temperatura-del-amba-n6348233",
-   "medio": "Minutouno",
+   "nota": "La AFA ratificó la fecha de la final de la Copa Argentina",
+   "nota_url": "https://www.lacapitalmdp.com/la-afa-ratifico-la-fecha-de-la-final-de-la-copa-argentina/",
+   "medio": "Diario La Capital de Mar del Plata",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "hija",
+   "tema": "24 de noviembre",
    "busquedas": "100+",
-   "nota": "La hija menor de Bruce Willis se disculpa por compartir una fotografía junto al actor: “Era demasiado íntima para mostrarla”",
-   "nota_url": "https://www.infobae.com/entretenimiento/2026/11/22/la-hija-menor-de-bruce-willis-se-disculpa-por-compartir-una-fotografia-junto-al-actor-era-demasiado-intima-para-mostrarla/",
+   "nota": "Horóscopo de hoy por Jimena La Torre: martes 24 de noviembre de 2026",
+   "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/24/horoscopo-de-hoy-por-jimena-la-torre-martes-24-de-noviembre-de-2026/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hielo",
+   "busquedas": "2000+",
+   "nota": "Salteras organiza una jornada de patinaje sobre hielo para jóvenes durante las vacaciones de Navidad",
+   "nota_url": "https://www.aljarafeymas.com/noticias/36173-Salteras-organiza-una-jornada-de-patinaje-sobre-hielo-para-jvenes-durante-las-vacaciones-de-Navidad",
+   "medio": "Aljarafe y más",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "árbol",
+   "busquedas": "100+",
+   "nota": "La Casa Blanca recibe su árbol navideño y prepara el indulto al pavo de Acción de Gracias",
+   "nota_url": "https://progresohispanonews.com/2026/11/23/la-casa-blanca-recibe-su-arbol-navideno-y-prepara-el-indulto-al-pavo-de-accion-de-gracias/",
+   "medio": "Progreso Hispano News",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "primera división de argentina",
+   "busquedas": "200+",
+   "nota": "Tras la victoria de Gimnasia La Plata, así quedó el cuadro de los cuartos del Torneo Clausura: cuándo se jugará la última llave",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/23/tras-la-victoria-de-gimnasia-la-plata-asi-quedo-el-cuadro-de-los-cuartos-del-torneo-clausura-cuando-se-jugara-la-ultima-llave/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "lakers - jazz",
-   "busquedas": "1000+",
-   "nota": "Luka Dončić turns in 28/4/8 line vs. Utah",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-24/luka-doncic-turns-in-28-4-8-line-vs-utah",
-   "medio": "NBC Sports",
-   "relevante": false,
+   "tema": "club atlético independiente",
+   "busquedas": "200+",
+   "nota": "Elecciones en Independiente: cimbronazos de último momento en el armado de la lista de Gaudio",
+   "nota_url": "https://www.dobleamarilla.com.ar/rosca/elecciones-en-independiente--cimbronazos-de-ultimo-momento-en-el-armado-de-la-lista-de-gaudio_a6b035db991ff02d12eae743f",
+   "medio": "Doble Amarilla",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "dólar estadounidense",
-   "busquedas": "1000+",
-   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 23 de noviembre, minuto a minuto",
-   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid23112026/",
-   "medio": "La Nación",
+   "tema": "mercado cambiario",
+   "busquedas": "500+",
+   "nota": "Así cerró el dólar en bancos, blue y MEP este viernes 20 de noviembre",
+   "nota_url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-viernes-20-noviembre-2026-blue-mep_0_oj8HpJYme8.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   }
