@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 06:57",
+ "actualizado": "24/11 07:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Gimnasia",
-   "url": "https://x.com/search?q=Gimnasia",
+   "tema": "#BuenMartes",
+   "url": "https://x.com/search?q=%23BuenMartes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "Gimnasia",
+   "url": "https://x.com/search?q=Gimnasia",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "#Napalm",
+   "url": "https://x.com/search?q=%23Napalm",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +57,14 @@
    "temas": []
   },
   {
-   "tema": "Russo",
-   "url": "https://x.com/search?q=Russo",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "tema": "nacho fernÃ¡ndez",
+   "url": "https://x.com/search?q=nacho%20fern%C3%83%C2%A1ndez",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#gelp",
-   "url": "https://x.com/search?q=%23gelp",
+   "tema": "Russo",
+   "url": "https://x.com/search?q=Russo",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Peggy",
-   "url": "https://x.com/search?q=Peggy",
+   "tema": "Gordon",
+   "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gordon",
-   "url": "https://x.com/search?q=Gordon",
+   "tema": "#GELP",
+   "url": "https://x.com/search?q=%23GELP",
    "relevante": false,
    "temas": []
   },
@@ -105,25 +111,55 @@
    "temas": []
   },
   {
-   "tema": "kudelka",
-   "url": "https://x.com/search?q=kudelka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMartes",
-   "url": "https://x.com/search?q=%23BuenMartes",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "rosca floja",
    "url": "https://x.com/search?q=rosca%20floja",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Peggy",
+   "url": "https://x.com/search?q=Peggy",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "base naval ushuaia",
+   "busquedas": "100+",
+   "nota": "Base Naval de Ushuaia: las dos ofertas superan el presupuesto oficial",
+   "nota_url": "https://www.minutofueguino.com.ar/ushuaia/base-naval-de-ushuaia-las-dos-ofertas-superan-el-presupuesto-oficial.htm",
+   "medio": "Minuto Fueguino",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "evelyn botto",
+   "busquedas": "100+",
+   "nota": "Video íntimo de Evelyn Botto filtrado por Fede Bal y frase polémica",
+   "nota_url": "https://elconurbano.com.ar/fede-bal-filtro-un-video-intimo-de-su-novia-evelyn-botto-y-se-escucho-una-frase-sin-filtro-esas-curvas/85076/",
+   "medio": "elconurbano.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "datachaco",
+   "busquedas": "100+",
+   "nota": "Secheep recuerda medidas de prevención para evitar accidentes eléctricos durante las lluvias",
+   "nota_url": "https://www.tn24.com.ar/2026/11/secheep-recuerda-medidas-de-prevencion-para-evitar-accidentes-electricos-durante-las-lluvias/",
+   "medio": "TN24.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "declaración jurada",
+   "busquedas": "100+",
+   "nota": "Preocupación empresaria por una nueva traba burocrática en la provincia de Buenos Aires: piden que se anule la medida",
+   "nota_url": "https://www.clarin.com/economia/preocupacion-empresaria-nueva-traba-burocratica-provincia-buenos-aires-piden-anule-medida_0_qjv6f5hAJQ.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "industria del calzado",
    "busquedas": "100+",
@@ -134,26 +170,26 @@
    "temas": []
   },
   {
-   "tema": "flávio bolsonaro",
+   "tema": "sergio urribarri",
    "busquedas": "100+",
-   "nota": "Moraes notifica Flávio Bolsonaro por edital após senador fugir para os Estados Unidos",
-   "nota_url": "https://www.radio96fmns.com.br/noticia/moraes-notifica-flavio-bolsonaro-por-edital-apos-senador-fugir-para-os-estados-u-kf53905",
-   "medio": "www.radio96fmns.com.br",
-   "relevante": true,
+   "nota": "Urribarri va a juicio y se define la lista de 79 testigos",
+   "nota_url": "https://informedigital.com.ar/urribarri-va-a-juicio-y-se-define-la-lista-de-79-testigos/",
+   "medio": "Informe Digital",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "pronostico formosa",
+   "tema": "flávio bolsonaro",
    "busquedas": "200+",
-   "nota": "Hay alerta naranja por tormentas para este martes 24 de noviembre en Formosa: las zonas afectadas",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/hay-alerta-naranja-por-tormentas-para-este-martes-24-de-noviembre-en-formosa-las-zonas-afectadas/",
-   "medio": "TN",
+   "nota": "Flávio Bolsonaro é citado por edital em denúncia por calúnia",
+   "nota_url": "https://www.esmaelmorais.com.br/flavio-bolsonaro-citado-edital-calunia/",
+   "medio": "Blog do Esmael",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "final copa argentina",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "La AFA ratificó la fecha de la final de la Copa Argentina",
    "nota_url": "https://www.lacapitalmdp.com/la-afa-ratifico-la-fecha-de-la-final-de-la-copa-argentina/",
    "medio": "Diario La Capital de Mar del Plata",
@@ -162,7 +198,7 @@
   },
   {
    "tema": "24 de noviembre",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Horóscopo de hoy por Jimena La Torre: martes 24 de noviembre de 2026",
    "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/24/horoscopo-de-hoy-por-jimena-la-torre-martes-24-de-noviembre-de-2026/",
    "medio": "Ciudad Magazine",
@@ -175,42 +211,6 @@
    "nota": "Salteras organiza una jornada de patinaje sobre hielo para jóvenes durante las vacaciones de Navidad",
    "nota_url": "https://www.aljarafeymas.com/noticias/36173-Salteras-organiza-una-jornada-de-patinaje-sobre-hielo-para-jvenes-durante-las-vacaciones-de-Navidad",
    "medio": "Aljarafe y más",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "árbol",
-   "busquedas": "100+",
-   "nota": "La Casa Blanca recibe su árbol navideño y prepara el indulto al pavo de Acción de Gracias",
-   "nota_url": "https://progresohispanonews.com/2026/11/23/la-casa-blanca-recibe-su-arbol-navideno-y-prepara-el-indulto-al-pavo-de-accion-de-gracias/",
-   "medio": "Progreso Hispano News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "primera división de argentina",
-   "busquedas": "200+",
-   "nota": "Tras la victoria de Gimnasia La Plata, así quedó el cuadro de los cuartos del Torneo Clausura: cuándo se jugará la última llave",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/23/tras-la-victoria-de-gimnasia-la-plata-asi-quedo-el-cuadro-de-los-cuartos-del-torneo-clausura-cuando-se-jugara-la-ultima-llave/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético independiente",
-   "busquedas": "200+",
-   "nota": "Elecciones en Independiente: cimbronazos de último momento en el armado de la lista de Gaudio",
-   "nota_url": "https://www.dobleamarilla.com.ar/rosca/elecciones-en-independiente--cimbronazos-de-ultimo-momento-en-el-armado-de-la-lista-de-gaudio_a6b035db991ff02d12eae743f",
-   "medio": "Doble Amarilla",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "mercado cambiario",
-   "busquedas": "500+",
-   "nota": "Así cerró el dólar en bancos, blue y MEP este viernes 20 de noviembre",
-   "nota_url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-viernes-20-noviembre-2026-blue-mep_0_oj8HpJYme8.html",
-   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   }
