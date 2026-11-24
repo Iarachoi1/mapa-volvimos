@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 12:55",
+ "actualizado": "24/11 13:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "Robertito",
    "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -39,32 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Conti",
    "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Papa Francisco",
-   "url": "https://x.com/search?q=Papa%20Francisco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#gaudioesimprovisacion",
-   "url": "https://x.com/search?q=%23gaudioesimprovisacion",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
+   "tema": "#GaudioEsImprovisacion",
+   "url": "https://x.com/search?q=%23GaudioEsImprovisacion",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +63,8 @@
    "temas": []
   },
   {
-   "tema": "Ramirez",
-   "url": "https://x.com/search?q=Ramirez",
+   "tema": "Papa Francisco",
+   "url": "https://x.com/search?q=Papa%20Francisco",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +75,8 @@
    "temas": []
   },
   {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +93,124 @@
    "temas": []
   },
   {
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Gordon",
    "url": "https://x.com/search?q=Gordon",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
+   "tema": "Alta CÃ³rdoba",
+   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#antesquenadie",
-   "url": "https://x.com/search?q=%23antesquenadie",
+   "tema": "Steve Rogers",
+   "url": "https://x.com/search?q=Steve%20Rogers",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "papa francisco diablo",
+   "tema": "superluna",
+   "busquedas": "100+",
+   "nota": "Beaver Supermoon stasera in Europa: dove e quando vedere lo spettacolo",
+   "nota_url": "https://it.euronews.com/2026/11/24/beaver-supermoon-stasera-in-europa-dove-e-quando-vedere-lo-spettacolo",
+   "medio": "Euronews.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia del vino",
+   "busquedas": "100+",
+   "nota": "Día del Vino Argentino: por qué es la bebida nacional y cuáles son las cinco claves de su futuro",
+   "nota_url": "https://www.infobae.com/tendencias/2026/11/24/dia-del-vino-argentino-por-que-es-la-bebida-nacional-y-cuales-son-las-cinco-claves-de-su-futuro/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cyberpunk 2",
+   "busquedas": "100+",
+   "nota": "CD Projekt Red Confirms Cyberpunk 2 Remains in Development",
+   "nota_url": "https://suaragarut.id/en/cyberpunk-two-development-status",
+   "medio": "SuaraGarut.ID",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "galatasaray",
+   "busquedas": "100+",
+   "nota": "GÜNÜN MAÇLARI 24 KASIM 2026: Bugünkü Maçlar Neler? Bugün Kimlerin Maçı Var? 24 Kasım Salı Günün Maçları",
+   "nota_url": "https://www.cnnturk.com/spor/gunun-maclari-24-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-24-kasim-sali-gunun-maclari-3497646",
+   "medio": "CNN Türk",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islas malvinas (falkland islands)",
+   "busquedas": "100+",
+   "nota": "La naviera chilena que retomará la ruta a Malvinas descarta pedir autorización a Argentina",
+   "nota_url": "https://diariosanrafael.com.ar/la-naviera-chilena-que-retomara-la-ruta-a-malvinas-descarta-pedir-autorizacion-a-argentina/",
+   "medio": "Diario San Rafael",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "anses fecha de cobro diciembre 2026",
    "busquedas": "500+",
-   "nota": "Cómo una agenda en cuero negro de Jorge Bergoglio se convirtió en el \"Diario personal del Papa Francisco\"",
-   "nota_url": "https://www.clarin.com/mundo/agenda-cuero-negro-jorge-bergoglio-convirtio-diario-personal-papa-francisco_0_apruesnZA5.html",
+   "nota": "ANSES: cómo cambian las jubilaciones desde el 9 de diciembre con el aumento, el aguinaldo y el bono",
+   "nota_url": "https://www.ambito.com/informacion-general/anses-como-cambian-las-jubilaciones-el-9-diciembre-el-aumento-el-aguinaldo-y-el-bono-n6348555",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "shabab al-ahli - al qadisiya",
+   "busquedas": "200+",
+   "nota": "Shabab Al-Ahli seeks to regain its continental footing against Al-Qadsia in the AFC Champions League Elite",
+   "nota_url": "https://www.voiceofemirates.com/en/emirates/2026/11/24/shabab-al-ahli-seeks-to-regain-its-continental-footing-against-al-qadsia-in-the-afc-champions-league-elite/",
+   "medio": "صوت الإمارات",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa américa 2028",
+   "busquedas": "100+",
+   "nota": "Conmebol anunció dónde se jugará la Copa América de 2028",
+   "nota_url": "https://www.clarin.com/deportes/conmebol-anuncio-jugara-copa-america-2028_0_AW32u5ymGG.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "iol",
-   "busquedas": "500+",
-   "nota": "IFP considers its options as coalition negotiations continue",
-   "nota_url": "https://www.enca.com/news-top-stories/ifp-considers-its-options-coalition-negotiations-continue",
-   "medio": "eNCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "calendario 2027",
+   "tema": "champions league",
    "busquedas": "200+",
-   "nota": "Llegó el Calendario 2027 de la experiencia más deseada de Cataratas",
-   "nota_url": "https://misionesonline.net/2026/11/20/llego-el-calendario-2027-de-la-experiencia-mas-deseada-de-cataratas/",
-   "medio": "MisionesOnline",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "dolar",
-   "busquedas": "10000+",
-   "nota": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 24 de noviembre minuto a minuto",
-   "nota_url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-24-de-noviembre-minuto-a-minuto/",
-   "medio": "El Cronista",
+   "nota": "Partidos de fútbol de hoy, martes 24 de noviembre: horario y cómo ver por TV y online :: Olé - ole.com.ar",
+   "nota_url": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-martes-24-noviembre-horario-ver-futbol-vivo-tv-online_0_OiSirfG0qW.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "dolar hoy",
-   "busquedas": "20000+",
-   "nota": "Mercados. Dólar blue hoy en Córdoba: a cuánto cotiza este martes 24 de noviembre",
-   "nota_url": "https://www.lavoz.com.ar/negocios/dolar-blue-hoy-cordoba-cotiza-martes-24-noviembre_0_iPFWbcox4i.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "edith hermida",
-   "busquedas": "1000+",
-   "nota": "Edith Hermida defendió su plato en MasterChef Celebrity",
-   "nota_url": "https://rosariolaciudad.com.ar/edith-hermida-defendio-su-plato-en-masterchef-celebrity/",
-   "medio": "Rosario la Ciudad",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cuando es el black friday en argentina 2026",
-   "busquedas": "100+",
-   "nota": "Todo listo para el próximo Black Friday: ¿cuánto dura?",
-   "nota_url": "https://www.tn24.com.ar/2026/11/todo-listo-para-el-proximo-black-friday-cuanto-dura/",
-   "medio": "TN24.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bna",
+   "tema": "riesgo pais",
    "busquedas": "5000+",
-   "nota": "New flight at BNA to offer service from Nashville to Grand Cayman",
-   "nota_url": "https://fox17.com/news/local/new-flight-at-bna-to-offer-service-from-nashville-to-grand-cayman",
-   "medio": "WZTV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "janos",
-   "busquedas": "500+",
-   "nota": "Felvételt hirdet két győri kollégiumába a Brenner János Hittudományi Főiskola",
-   "nota_url": "https://www.magyarkurir.hu/hazai/felvetelt-hirdet-ket-gyori-kollegiumaba-brenner-janos-hittudomanyi-foiskola",
-   "medio": "Magyar Kurír",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "calendario diciembre 2026",
-   "busquedas": "200+",
-   "nota": "ANSES: quiénes cobrarán más de $540.000 en diciembre con aumento, aguinaldo y bono",
-   "nota_url": "https://www.primeraedicion.com.ar/nota/101162888/anses-diciembre-2026-pensiones-no-contributivas-aguinaldo-bono/",
-   "medio": "Primera Edición",
+   "nota": "Vuelven a caer los bonos argentinos y el riesgo país toca su nivel más alto del año",
+   "nota_url": "https://www.infobae.com/economia/2026/11/24/vuelven-a-caer-los-bonos-argentinos-y-el-riesgo-pais-toca-su-nivel-mas-alto-del-ano/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
