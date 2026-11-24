@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 14:43",
+ "actualizado": "24/11 15:44",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -23,12 +23,6 @@
   {
    "tema": "Newell",
    "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#GaudioSeHunde",
-   "url": "https://x.com/search?q=%23GaudioSeHunde",
    "relevante": false,
    "temas": []
   },
@@ -63,12 +57,6 @@
    "temas": []
   },
   {
-   "tema": "Papa Francisco",
-   "url": "https://x.com/search?q=Papa%20Francisco",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "PAMI",
    "url": "https://x.com/search?q=PAMI",
    "relevante": false,
@@ -77,6 +65,12 @@
   {
    "tema": "River",
    "url": "https://x.com/search?q=River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mauro Coronel",
+   "url": "https://x.com/search?q=Mauro%20Coronel",
    "relevante": false,
    "temas": []
   },
@@ -93,20 +87,8 @@
    "temas": []
   },
   {
-   "tema": "RamÃ­rez",
-   "url": "https://x.com/search?q=Ram%C3%83%C2%ADrez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nacho FernÃ¡ndez",
-   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Copa AmÃ©rica 2028",
-   "url": "https://x.com/search?q=Copa%20Am%C3%83%C2%A9rica%202028",
+   "tema": "Ramirez",
+   "url": "https://x.com/search?q=Ramirez",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +99,118 @@
    "temas": []
   },
   {
+   "tema": "Nacho FernÃ¡ndez",
+   "url": "https://x.com/search?q=Nacho%20Fern%C3%83%C2%A1ndez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Paloma",
    "url": "https://x.com/search?q=Paloma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alta CÃ³rdoba",
+   "url": "https://x.com/search?q=Alta%20C%C3%83%C2%B3rdoba",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Copa AmÃ©rica 2028",
+   "url": "https://x.com/search?q=Copa%20Am%C3%83%C2%A9rica%202028",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "al-nassr - al-sadd",
+   "tema": "solana sierra",
    "busquedas": "200+",
-   "nota": "Al Nassr vs Al-Sadd LIVE - Confirmed starting lineups & pre-match updates for AFC Champions League Elite 2026-27 clash",
-   "nota_url": "https://khelnow.com/football/al-nassr-vs-al-sadd-live-starting-lineups-afc-champions-league-elite-202611",
-   "medio": "Khel Now",
+   "nota": "November 23, 2026: Adrien Burdet vs Alberto Barroso Campos Prediction Market",
+   "nota_url": "https://robinhood.com/us/en/prediction-markets/tennis/events/fbeed5c0-2832-44d3-a1dd-595318a15de1/",
+   "medio": "Robinhood",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "depósito a plazo fijo",
+   "tema": "embajador",
    "busquedas": "200+",
-   "nota": "Plazo fijo de noviembre: cuánto hay que depositar para ganar $150.000 al mes y qué banco conviene elegir",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1163967/economia/plazo-fijo-noviembre-cuanto-hay-depositar-para-ganar-150000-al-mes-banco-conviene-elegir.html",
-   "medio": "La Gaceta",
-   "relevante": false,
+   "nota": "Lula desinvitó a Milei a su jura y confirmó que su embajador no vuelve a la Argentina",
+   "nota_url": "https://www.clarin.com/politica/molesto-ultimas-declaraciones-quirno-lula-desinvito-milei-jura-confirmo-embajador-vuelve-argentina_0_nDMfI8EmNm.html",
+   "medio": "Clarin.com",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "conmebol libertadores",
-   "busquedas": "200+",
-   "nota": "Cuándo juega Estudiantes la final de la Copa Libertadores",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1163948/deportes/cuando-juega-estudiantes-final-copa-libertadores.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "galatasaray - aston villa",
-   "busquedas": "2000+",
-   "nota": "GÜNÜN MAÇLARI 24 KASIM 2026: Bugünkü Maçlar Neler? Bugün Kimlerin Maçı Var? 24 Kasım Salı Günün Maçları",
-   "nota_url": "https://www.cnnturk.com/spor/gunun-maclari-24-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-24-kasim-sali-gunun-maclari-3497646",
-   "medio": "CNN Türk",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "liga de campeones de la uefa",
-   "busquedas": "500+",
-   "nota": "La fecha 5 de los equipos con colombianos en UEFA Champions League",
-   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17551812/la-fecha-5-de-los-equipos-con-colombianos-en-uefa-champions-league",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "superluna",
+   "tema": "aston villa vs",
    "busquedas": "100+",
-   "nota": "Beaver Supermoon stasera in Europa: dove e quando vedere lo spettacolo",
-   "nota_url": "https://it.euronews.com/2026/11/24/beaver-supermoon-stasera-in-europa-dove-e-quando-vedere-lo-spettacolo",
-   "medio": "Euronews.com",
+   "nota": "Un gran delantero no estará presente ante el Aston Villa",
+   "nota_url": "https://www.flashscore.com.ar/noticias/osimhen-descartado-para-el-duelo-del-galatasaray-ante-el-aston-villa/YPUI4kd3/",
+   "medio": "Flashscore.com.ar",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "apneísta",
-   "busquedas": "500+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cyberpunk 2",
-   "busquedas": "200+",
-   "nota": "CD Projekt Red Confirms Cyberpunk 2 Remains in Development",
-   "nota_url": "https://suaragarut.id/en/cyberpunk-two-development-status",
-   "medio": "SuaraGarut.ID",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dia del vino",
+   "tema": "luis miguel",
    "busquedas": "100+",
-   "nota": "El vino argentino busca nuevos protagonistas: las cepas que salen de la sombra del Malbec",
-   "nota_url": "https://tn.com.ar/cocina/vinos/2026/11/24/mas-alla-del-malbec-las-otras-cepas-que-buscan-conquistar-el-paladar-de-los-argentinos/",
+   "nota": "Podría sonar música de Luis Miguel en diciembre",
+   "nota_url": "https://www.elhorizonte.mx/escena/podria-sonar-musica-de-luis-miguel-en-diciembre/7920376908",
+   "medio": "El Horizonte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cartagena de indias",
+   "busquedas": "1000+",
+   "nota": "Video: hombres armados tomaron rehenes en un supermercado de la turística ciudad colombiana de Cartagena de Indias",
+   "nota_url": "https://tn.com.ar/internacional/2026/11/24/video-hombres-armados-tomaron-rehenes-en-un-supermercado-de-la-turistica-ciudad-colombiana-de-cartagena-de-indias/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "islas malvinas (falkland islands)",
-   "busquedas": "200+",
-   "nota": "Malvinas: isleños defienden la ruta marítima del Danstar y proyectan exportaciones con Chile",
-   "nota_url": "https://laopinionaustral.com.ar/argentina/malvinas-islenos-defienden-la-ruta-maritima-del-danstar-y-proyectan-exportaciones-con-chile-735192.html",
-   "medio": "La Opinión Austral",
+   "tema": "aston villa",
+   "busquedas": "500+",
+   "nota": "Licensable picture: Galatasaray training session ahead of UEFA Champions League match against Aston Villa",
+   "nota_url": "https://www.reutersconnect.com/item/galatasaray-training-session-ahead-of-uefa-champions-league-match-against-aston-villa/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSTNONkpS",
+   "medio": "Reuters Connect",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bodø/glimt - lask",
+   "busquedas": "1000+",
+   "nota": "Bodø/Glimt-Lask Linz: Bodø/Glimt arrives with three absences",
+   "nota_url": "https://www.tufutbolero.com/en/news/bod-glimt-lask-linz-bod-glimt-arrives-with-three-absences-e50455",
+   "medio": "Tu Futbolero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chaco",
+   "busquedas": "100+",
+   "nota": "El Ejecutivo provincial abonará los sueldos a estatales el 1 y 2 de diciembre",
+   "nota_url": "https://chacodiapordia.com/el-ejecutivo-provincial-abonara-los-sueldos-a-estatales-el-1-y-2-de-diciembre/",
+   "medio": "CHACODIAPORDIA.COM",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "al-nassr - al-sadd",
+   "busquedas": "2000+",
+   "nota": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
+   "nota_url": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
+   "medio": "SportsAdda",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "depósito a plazo fijo",
+   "busquedas": "500+",
+   "nota": "Plazo fijo de noviembre: cuánto hay que depositar para ganar $150.000 al mes y qué banco conviene elegir",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1163967/economia/plazo-fijo-noviembre-cuanto-hay-depositar-para-ganar-150000-al-mes-banco-conviene-elegir.html",
+   "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   }
