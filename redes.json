@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 03:56",
+ "actualizado": "25/11 05:26",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
    "relevante": false,
    "temas": []
   },
@@ -35,12 +35,6 @@
   {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Clara",
-   "url": "https://x.com/search?q=Clara",
    "relevante": false,
    "temas": []
   },
@@ -63,12 +57,6 @@
    "temas": []
   },
   {
-   "tema": "Venezuela",
-   "url": "https://x.com/search?q=Venezuela",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Paloma",
    "url": "https://x.com/search?q=Paloma",
    "relevante": false,
@@ -81,20 +69,14 @@
    "temas": []
   },
   {
-   "tema": "HOY JUEGA BOCA",
-   "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Dominicana",
-   "url": "https://x.com/search?q=Dominicana",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Filipinas",
    "url": "https://x.com/search?q=Filipinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Venezuela",
+   "url": "https://x.com/search?q=Venezuela",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +93,8 @@
    "temas": []
   },
   {
-   "tema": "EMAE",
-   "url": "https://x.com/search?q=EMAE",
+   "tema": "Clara",
+   "url": "https://x.com/search?q=Clara",
    "relevante": false,
    "temas": []
   },
@@ -121,15 +103,60 @@
    "url": "https://x.com/search?q=%23COERSelcaDay",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "conti",
+   "url": "https://x.com/search?q=conti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "TomÃ¡s Palacios",
+   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "cocinero",
+   "tema": "ley",
    "busquedas": "100+",
-   "nota": "Murió el cocinero del negocio de Ezpeleta que explotó el domingo durante un festejo",
-   "nota_url": "https://www.clarin.com/sociedad/murio-cocinero-negocio-ezpeleta-exploto-domingo-festejo_0_KGEAdZezlZ.html",
+   "nota": "Ley de Ludopatía: contra reloj, el oficialismo negocia con sus aliados los cambios al proyecto aprobado en Diputados",
+   "nota_url": "https://www.clarin.com/politica/ley-ludopatia-reloj-oficialismo-negocia-aliados-cambios-proyecto-aprobado-diputados_0_8fZsOSAlnR.html",
    "medio": "Clarin.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "hltv",
+   "busquedas": "100+",
+   "nota": "Complexity founder Jason Lake to receive first HLTV Lifetime Achievement Award",
+   "nota_url": "https://www.invenglobal.com/articles/29057/complexity-founder-jason-lake-to-receive-first-hltv-lifetime-achievement-award",
+   "medio": "Inven Global",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cocinero",
+   "busquedas": "200+",
+   "nota": "Video: así era el local de comidas minutos antes de la explosión en Ezpeleta que dejó 7 heridos",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/23/video-asi-era-el-local-de-comidas-minutos-antes-de-la-explosion-en-ezpeleta-que-dejo-7-heridos/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "whatsapp stickers con audio",
+   "busquedas": "2000+",
+   "nota": "¿Cómo crear stickers con audio en WhatsApp? Paso a paso para hacerlos con fotos y videos",
+   "nota_url": "https://www.excelsior.com.mx/tecnologia/como-crear-stickers-con-audio-whatsapp-paso-paso-para-hacerlos-con-fotos-y-videos",
+   "medio": "Excélsior",
    "relevante": false,
    "temas": []
   },
@@ -143,29 +170,29 @@
    "temas": []
   },
   {
-   "tema": "luciana geuna",
+   "tema": "25 de noviembre",
    "busquedas": "200+",
-   "nota": "MasterChef Celebrity: quién fue eliminado, este martes 24 de noviembre",
-   "nota_url": "https://www.clarin.com/fama/masterchef-celebrity-eliminado-martes-24-noviembre_0_k54MsODURm.html",
-   "medio": "Clarin.com",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "25 de noviembre",
-   "busquedas": "100+",
-   "nota": "Horóscopo de hoy: descubre qué te depara el universo este miércoles 25 de noviembre de 2026",
-   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-miercoles-25-noviembre-2026_0_Z1MzJZnbuR.html",
-   "medio": "La Voz del Interior",
+   "tema": "luciana geuna",
+   "busquedas": "200+",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - mavericks",
    "busquedas": "500+",
-   "nota": "Cooper Flagg News: Double-doubles in win",
-   "nota_url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-double-doubles-in-win-540896",
-   "medio": "RotoWire",
+   "nota": "MMBets Game of the Week: Mavs and Nuggets battle for Group A supremacy",
+   "nota_url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/64116/dallas-mavericks-at-denver-nuggets-nba-cup-group-a-game-preview",
+   "medio": "Mavs Moneyball",
    "relevante": false,
    "temas": []
   },
@@ -186,33 +213,6 @@
    "nota": "$LIBRA: dos jueces de Casación se negaron a dar un paso al costado en una decisión clave para la causa",
    "nota_url": "https://www.infobae.com/judiciales/2026/11/24/libra-dos-jueces-de-casacion-se-negaron-a-dar-un-paso-al-costado-en-una-decision-clave-para-la-causa/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rumble",
-   "busquedas": "200+",
-   "nota": "2026 GMCE - Royal Rumble",
-   "nota_url": "https://www.flocheer.com/events/16460227-2026-gmce-royal-rumble",
-   "medio": "FloCheer",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pampita",
-   "busquedas": "200+",
-   "nota": "Pampita contó qué pasó con el fallido posteo de la China Suárez que subió y borró a los pocos segundos",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/23/pampita-conto-que-paso-con-el-fallido-posteo-de-la-china-suarez-que-subio-y-borro-a-los-pocos-segundos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barbie simons",
-   "busquedas": "2000+",
-   "nota": "La inesperada confesion de Barbie Simons sobre Pergolini",
-   "nota_url": "https://eldoce.tv/videos/show/2026/11/25/la-inesperada-confesion-de-barbie-simons-sobre-pergolini/",
-   "medio": "eldoce",
    "relevante": false,
    "temas": []
   }
