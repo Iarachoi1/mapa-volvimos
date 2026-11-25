@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 17:43",
+ "actualizado": "25/11 18:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -41,9 +41,21 @@
    "temas": []
   },
   {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Manchester United",
+   "url": "https://x.com/search?q=Manchester%20United",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
@@ -59,15 +71,21 @@
    "temas": []
   },
   {
+   "tema": "Facundo Tello",
+   "url": "https://x.com/search?q=Facundo%20Tello",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "RecesiÃ³n",
    "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
+   "tema": "SalomÃ© Di Iorio",
+   "url": "https://x.com/search?q=Salom%C3%83%C2%A9%20Di%20Iorio",
+   "relevante": false,
    "temas": []
   },
   {
@@ -77,8 +95,8 @@
    "temas": []
   },
   {
-   "tema": "Dinamarca",
-   "url": "https://x.com/search?q=Dinamarca",
+   "tema": "Asistente 1",
+   "url": "https://x.com/search?q=Asistente%201",
    "relevante": false,
    "temas": []
   },
@@ -89,131 +107,113 @@
    "temas": []
   },
   {
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nazareno Arasa",
+   "url": "https://x.com/search?q=Nazareno%20Arasa",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Roma",
    "url": "https://x.com/search?q=Roma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "#elclubdelmoro",
-   "url": "https://x.com/search?q=%23elclubdelmoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Policella",
-   "url": "https://x.com/search?q=Policella",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "SoulÃ©",
-   "url": "https://x.com/search?q=Soul%C3%83%C2%A9",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "herencia",
+   "tema": "bayer vs",
+   "busquedas": "100+",
+   "nota": "Dinamo Zagreb v Leverkusen Odds",
+   "nota_url": "https://sportsbook.fanduel.com/soccer/uefa-europa-league/dinamo-zagreb-v-leverkusen-36313894",
+   "medio": "FanDuel Sportsbook",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bayern munich",
    "busquedas": "500+",
-   "nota": "El exprometido de Hayden Panettiere, Wladimir Klitschko, estima el patrimonio de la actriz en 5,7 millones de euros",
-   "nota_url": "https://elpais.com/gente/2026-11-25/el-exprometido-de-hayden-panettiere-wladimir-klitschko-estima-el-patrimonio-de-la-actriz-en-57-millones-de-euros.html",
-   "medio": "EL PAÍS",
+   "nota": "Former Schalke midfielder sends warning ahead of Lille's clash with Bayern Munich",
+   "nota_url": "https://onefootball.com/en/news/former-schalke-midfielder-sends-warning-ahead-of-lilles-clash-with-bayern-munich-43833758",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "atletico de madrid",
-   "busquedas": "200+",
-   "nota": "Atlético - Viking, en directo: última hora de la fase liga de la Champions League, hoy en vivo",
-   "nota_url": "https://as.com/futbol/champions/atletico-viking-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-f202611-d/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cristina fernández de kirchner",
-   "busquedas": "200+",
-   "nota": "Atentado contra Cristina Kirchner: Casación fijó audiencia para revisar el agravante de violencia de género",
-   "nota_url": "https://www.infobae.com/politica/2026/11/23/atentado-contra-cristina-kirchner-casacion-fijo-audiencia-para-revisar-el-agravante-de-violencia-de-genero/",
+   "tema": "bayern de múnich",
+   "busquedas": "100+",
+   "nota": "Lille vs. Bayern Múnich: hora y dónde ver en Colombia el regreso de Luis Díaz a la Champions League",
+   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/24/lille-vs-bayern-munich-hora-y-donde-ver-en-colombia-el-regreso-de-luis-diaz-a-la-champions-league/",
    "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "provincias unidas",
-   "busquedas": "100+",
-   "nota": "Quirno cenó en lo de Mirtha. ¡Y atragantó a Lula!",
-   "nota_url": "https://www.clarin.com/opinion/quirno-mirtha-atraganto-lula_0_Tp2Byplwrf.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "inter",
+   "tema": "martha firestone ford",
+   "busquedas": "100+",
+   "nota": "Statement from the Green Bay Packers",
+   "nota_url": "https://www.packers.com/news/statement-from-the-green-bay-packers-nov-25-2026",
+   "medio": "Green Bay Packers – packers.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "a que hora juega boca hoy",
    "busquedas": "1000+",
-   "nota": "Internazionale have scored in 8 consecutive Champions League games, one short of club record",
-   "nota_url": "https://www.allfootballapp.com/articles/6078272-internazionale-have-scored-8-consecutive-champions",
-   "medio": "AllFootball",
+   "nota": "Tras ganar la Copa Sudamericana, Boca Juniors jugará con Independiente Rivadavia por los octavos de final del Clausura: hora, TV y formaciones",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/25/tras-ganar-la-copa-sudamericana-boca-juniors-jugara-con-independiente-rivadavia-por-los-octavos-de-final-del-clausura-hora-tv-y-formaciones/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de slavia praga contra villarreal club de fútbol",
-   "busquedas": "500+",
-   "nota": "Licensable picture: UEFA Champions League - Slavia Prague v Villarreal",
-   "nota_url": "https://www.reutersconnect.com/item/uefa-champions-league-slavia-prague-v-villarreal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxRk80Q1U",
-   "medio": "Reuters Connect",
+   "tema": "bayern",
+   "busquedas": "1000+",
+   "nota": "„Upa“ auf den Spuren der Vergangenheit",
+   "nota_url": "https://www.ovb-heimatzeitungen.de/sport/2026/11/25/upa-auf-den-spuren-der-vergangenheit.ovb",
+   "medio": "OVB Heimatzeitungen |",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ypf",
-   "busquedas": "200+",
-   "nota": "Juicio por YPF: Burford exige U$S 14.400 millones a la Argentina en una nueva demanda ante el Ciadi",
-   "nota_url": "https://www.lavoz.com.ar/politica/juicio-ypf-burford-exige-us-14400-millones-argentina-nueva-demanda-ciadi_0_CbRLyAaNWK.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "roma",
-   "busquedas": "200+",
-   "nota": "Inter e Roma, le formazioni ufficiali in Champions: fuori Dimarco e Malen! Le scelte su Thuram, Lautaro e Dybala",
-   "nota_url": "https://www.sosfanta.com/squadra/inter/inter-e-roma-le-formazioni-ufficiali-in-champions-fuori-dimarco-e-malen-le-scelte-su-thuram-lautaro-e-dybala/",
-   "medio": "SOS Fanta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fenerbahçe",
+   "tema": "el zorro",
    "busquedas": "100+",
-   "nota": "Fenerbahçe maçı bugün saat kaçta, hangi kanalda? Fenerbahçe bugün kiminle oynuyor?",
-   "nota_url": "https://www.haberler.com/haber/fenerbahce-maci-bugun-saat-kacta-hangi-kanalda-20462190-haberi/",
-   "medio": "Haberler",
+   "nota": "Por qué en Canal 13 están usando lentes de sol al aire: el detalle que se repitió desde el programa de Moria Casán a Puro Show",
+   "nota_url": "https://www.parati.com.ar/news/por-que-en-canal-13-estan-usando-lentes-de-sol-al-aire-el-detalle-que-se-repitio-desde-el-programa-de-moria-casan-a-puro-show/",
+   "medio": "Revista Para Ti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "asociación bancaria",
-   "busquedas": "100+",
-   "nota": "Paro bancario confirmado: qué sucursales cerrarán y va qué pasará con los pagos de diciembre 2026",
-   "nota_url": "https://www.elobservador.com/argentina/economia/paro-bancario-confirmado-que-sucursales-cerraran-y-va-que-pasara-los-pagos-diciembre-2026-n6065065",
-   "medio": "El Observador Argentina",
-   "relevante": true,
+   "tema": "clima cordoba",
+   "busquedas": "1000+",
+   "nota": "Clima en Córdoba hoy miércoles 25 de noviembre: cielo parcialmente nublado y cálido",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/25/clima-en-cordoba-hoy-miercoles-25-de-noviembre-cielo-parcialmente-nublado-y-calido/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pronostico cordoba",
+   "busquedas": "200+",
+   "nota": "Alerta amarilla en Córdoba: cómo estará el clima este viernes",
+   "nota_url": "https://www.perfil.com/cordoba/alerta-amarilla-en-cordoba-como-estara-el-clima-este-viernes-aBSnx2I1HRvC",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jimena barón",
+   "busquedas": "200+",
+   "nota": "La inesperada promesa del marido de Jimena Barón: qué pasa si llega al millón de seguidores en Instagram",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/25/la-inesperada-promesa-del-marido-de-jimena-baron-que-pasa-si-llega-al-millon-de-seguidores-en-instagram/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
    "temas": []
   }
  ],
