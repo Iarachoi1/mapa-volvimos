@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 01:56",
+ "actualizado": "25/11 02:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,6 +11,12 @@
   {
    "tema": "#MissUniverse2026",
    "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
    "relevante": false,
    "temas": []
   },
@@ -27,32 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +45,38 @@
    "temas": []
   },
   {
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Filipinas",
+   "url": "https://x.com/search?q=Filipinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Nueva Zelanda",
    "url": "https://x.com/search?q=Nueva%20Zelanda",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "HOY JUEGA BOCA",
-   "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
+   "tema": "Dominicana",
+   "url": "https://x.com/search?q=Dominicana",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +93,8 @@
    "temas": []
   },
   {
-   "tema": "Filipinas",
-   "url": "https://x.com/search?q=Filipinas",
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
@@ -117,8 +117,8 @@
    "temas": []
   },
   {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "HOY JUEGA BOCA",
+   "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
    "relevante": false,
    "temas": []
   }
@@ -126,7 +126,7 @@
  "google": [
   {
    "tema": "maradona",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El día que se detuvo el fútbol: el adiós eterno a Diego Armando Maradona",
    "nota_url": "https://radiomitre.cienradios.com/efemerides/el-dia-que-se-detuvo-el-futbol-el-adios-eterno-a-diego-armando-maradona/",
    "medio": "Radio Mitre",
@@ -154,9 +154,9 @@
   {
    "tema": "nuggets - mavericks",
    "busquedas": "500+",
-   "nota": "Mavericks’ Gafford: Jokić Will Take ‘Every Ounce Of Energy’",
-   "nota_url": "https://dallassportsjournal.com/daniel-gafford-nikola-jokic-mavericks-nuggets/",
-   "medio": "Dallas Hoops Journal",
+   "nota": "Dr. Ramos & Zach Bye discuss Julian Strawther’s knee sprain & road to recovery | Injury Insights",
+   "nota_url": "https://denversports.com/watch/dr-ramos-and-zach-bye-discuss-julian-strawthers-knee-sprain-and-road-to-recovery-injury-insights/01a20faf-6678-8008-e8fb-1d695428692a",
+   "medio": "Denver Sports 104.3 The Fan",
    "relevante": false,
    "temas": []
   },
