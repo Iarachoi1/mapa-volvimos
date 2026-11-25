@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 18:46",
+ "actualizado": "25/11 19:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
+   "tema": "Lammens",
+   "url": "https://x.com/search?q=Lammens",
    "relevante": false,
    "temas": []
   },
@@ -29,86 +29,14 @@
    ]
   },
   {
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santiago del Estero",
    "url": "https://x.com/search?q=Santiago%20del%20Estero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Manchester United",
-   "url": "https://x.com/search?q=Manchester%20United",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Facundo Tello",
-   "url": "https://x.com/search?q=Facundo%20Tello",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "SalomÃ© Di Iorio",
-   "url": "https://x.com/search?q=Salom%C3%83%C2%A9%20Di%20Iorio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Asistente 1",
-   "url": "https://x.com/search?q=Asistente%201",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElZorro",
-   "url": "https://x.com/search?q=%23ElZorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
    "relevante": false,
    "temas": []
   },
@@ -119,70 +47,151 @@
    "temas": []
   },
   {
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Manchester United",
+   "url": "https://x.com/search?q=Manchester%20United",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Roma",
    "url": "https://x.com/search?q=Roma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bruno Fernandes",
+   "url": "https://x.com/search?q=Bruno%20Fernandes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Asistente 2",
+   "url": "https://x.com/search?q=Asistente%202",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#lanovelaluzu",
+   "url": "https://x.com/search?q=%23lanovelaluzu",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "bayer vs",
-   "busquedas": "100+",
-   "nota": "Dinamo Zagreb v Leverkusen Odds",
-   "nota_url": "https://sportsbook.fanduel.com/soccer/uefa-europa-league/dinamo-zagreb-v-leverkusen-36313894",
-   "medio": "FanDuel Sportsbook",
+   "tema": "atlético mineiro - corinthians",
+   "busquedas": "2000+",
+   "nota": "Jogo do Vasco hoje (25) pelo Brasileirão: onde assistir ao vivo",
+   "nota_url": "https://www.bol.uol.com.br/esporte/2026/11/25/jogo-do-vasco-hoje-25-pelo-brasileirao-onde-assistir-ao-vivo.htm",
+   "medio": "BOL",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayern munich",
+   "tema": "posiciones de atlético de madrid contra viking stavanger fk",
+   "busquedas": "2000+",
+   "nota": "Strikers fire Atlético Madrid and Fenerbahçe to Champions League wins",
+   "nota_url": "https://www.yardbarker.com/soccer/articles/strikers_fire_atltico_madrid_and_fenerbahe_to_champions_league_wins/s1_17790_44619285",
+   "medio": "Yardbarker",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de inter milan contra vfb stuttgart",
    "busquedas": "500+",
-   "nota": "Former Schalke midfielder sends warning ahead of Lille's clash with Bayern Munich",
-   "nota_url": "https://onefootball.com/en/news/former-schalke-midfielder-sends-warning-ahead-of-lilles-clash-with-bayern-munich-43833758",
-   "medio": "OneFootball",
+   "nota": "Why VfB Stuttgart will beat Inter Milan in the UEFA Champions League",
+   "nota_url": "https://www.bundesliga.com/en/bundesliga/news/why-vfb-stuttgart-can-beat-inter-milan-uefa-champions-league-40028",
+   "medio": "Bundesliga | official website",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayern de múnich",
+   "tema": "andy taylor",
+   "busquedas": "500+",
+   "nota": "Andy Taylor Dies at 65 After Prostate Cancer Battle",
+   "nota_url": "https://www.suaralandak.co.id/en/andy-taylor-dies-prostate-cancer",
+   "medio": "www.suaralandak.co.id",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "76ers - heat",
+   "busquedas": "500+",
+   "nota": "Best NBA Prop Bets Today (Predictions for Klay Thompson, Kevin Durant, Deni Avdija)",
+   "nota_url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-klay-thompson-kevin-durant-deni-avdija-01m89rj4wq0h",
+   "medio": "Sports Illustrated",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "harlen castillo",
    "busquedas": "100+",
-   "nota": "Lille vs. Bayern Múnich: hora y dónde ver en Colombia el regreso de Luis Díaz a la Champions League",
-   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/24/lille-vs-bayern-munich-hora-y-donde-ver-en-colombia-el-regreso-de-luis-diaz-a-la-champions-league/",
-   "medio": "Infobae",
+   "nota": "Increíble: además de la expulsión, Chipi Chipi Castillo se fracturó un dedo",
+   "nota_url": "https://www.infocielo.com/deportes/increible-ademas-de-la-expulsion-chipi-chipi-castillo-se-fracturo-un-dedo",
+   "medio": "Infocielo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "martha firestone ford",
+   "tema": "bayer",
    "busquedas": "100+",
-   "nota": "Statement from the Green Bay Packers",
-   "nota_url": "https://www.packers.com/news/statement-from-the-green-bay-packers-nov-25-2026",
-   "medio": "Green Bay Packers – packers.com",
+   "nota": "Wie Siemens Energy, Infineon, Hochtief, Deutsche Boerse, Bayer und Deutsche Telekom für Gesprächsstoff im DAX sorgten",
+   "nota_url": "https://boerse-social.com/page/newsflow/wie_siemens_energy_infineon_hochtief_deutsche_boerse_bayer_und_deutsche_telekom_fur_gesprachsstoff_im_dax_sorgten",
+   "medio": "Börse Social",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "a que hora juega boca hoy",
+   "tema": "canal 13",
    "busquedas": "1000+",
-   "nota": "Tras ganar la Copa Sudamericana, Boca Juniors jugará con Independiente Rivadavia por los octavos de final del Clausura: hora, TV y formaciones",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/25/tras-ganar-la-copa-sudamericana-boca-juniors-jugara-con-independiente-rivadavia-por-los-octavos-de-final-del-clausura-hora-tv-y-formaciones/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bayern",
-   "busquedas": "1000+",
-   "nota": "„Upa“ auf den Spuren der Vergangenheit",
-   "nota_url": "https://www.ovb-heimatzeitungen.de/sport/2026/11/25/upa-auf-den-spuren-der-vergangenheit.ovb",
-   "medio": "OVB Heimatzeitungen |",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el zorro",
-   "busquedas": "100+",
    "nota": "Por qué en Canal 13 están usando lentes de sol al aire: el detalle que se repitió desde el programa de Moria Casán a Puro Show",
    "nota_url": "https://www.parati.com.ar/news/por-que-en-canal-13-estan-usando-lentes-de-sol-al-aire-el-detalle-que-se-repitio-desde-el-programa-de-moria-casan-a-puro-show/",
    "medio": "Revista Para Ti",
@@ -190,29 +199,20 @@
    "temas": []
   },
   {
-   "tema": "clima cordoba",
-   "busquedas": "1000+",
-   "nota": "Clima en Córdoba hoy miércoles 25 de noviembre: cielo parcialmente nublado y cálido",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/25/clima-en-cordoba-hoy-miercoles-25-de-noviembre-cielo-parcialmente-nublado-y-calido/",
-   "medio": "TN",
+   "tema": "sporting lisboa vs. manchester united",
+   "busquedas": "200+",
+   "nota": "Barcelona venció por 4-1 a Sabah, por la Champions League 2026",
+   "nota_url": "https://www.lanacion.com.ar/deportes/canchallena/barcelona-vencio-por-4-1-a-sabah-por-la-champions-league-2026-nid25112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pronostico cordoba",
-   "busquedas": "200+",
-   "nota": "Alerta amarilla en Córdoba: cómo estará el clima este viernes",
-   "nota_url": "https://www.perfil.com/cordoba/alerta-amarilla-en-cordoba-como-estara-el-clima-este-viernes-aBSnx2I1HRvC",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jimena barón",
-   "busquedas": "200+",
-   "nota": "La inesperada promesa del marido de Jimena Barón: qué pasa si llega al millón de seguidores en Instagram",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/25/la-inesperada-promesa-del-marido-de-jimena-baron-que-pasa-si-llega-al-millon-de-seguidores-en-instagram/",
-   "medio": "Ciudad Magazine",
+   "tema": "bayer vs",
+   "busquedas": "100+",
+   "nota": "Dinamo Zagreb-Bayer Leverkusen: Leverkusen arrive with two absences",
+   "nota_url": "https://www.tufutbolero.com/en/news/dinamo-zagreb-bayer-leverkusen-leverkusen-arrive-with-two-e4fdfd",
+   "medio": "Tu Futbolero",
    "relevante": false,
    "temas": []
   }
