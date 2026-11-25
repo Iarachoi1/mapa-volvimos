@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 08:49",
+ "actualizado": "25/11 09:58",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -21,14 +27,26 @@
    "temas": []
   },
   {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#MissUniverse2026",
    "url": "https://x.com/search?q=%23MissUniverse2026",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +69,8 @@
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +81,20 @@
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "PAMI",
    "url": "https://x.com/search?q=PAMI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cachorra",
+   "url": "https://x.com/search?q=Cachorra",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PigÃ¼Ã©",
+   "url": "https://x.com/search?q=Pig%C3%83%C2%BC%C3%83%C2%A9",
    "relevante": false,
    "temas": []
   },
@@ -93,43 +111,70 @@
    "temas": []
   },
   {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Stornelli",
-   "url": "https://x.com/search?q=Stornelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Newell",
-   "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Instituto",
-   "url": "https://x.com/search?q=Instituto",
+   "tema": "Ceci",
+   "url": "https://x.com/search?q=Ceci",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "25n",
+   "busquedas": "100+",
+   "nota": "25N: cómo se organiza la marcha en Rosario y qué empuja a las mujeres y disidencias a tomar las calles",
+   "nota_url": "https://www.rosario3.com/informaciongeneral/25n-como-se-organiza-la-marcha-en-rosario-y-que-empuja-a-las-mujeres-y-disidencias-a-tomar-las-calles-20261124-0044.html",
+   "medio": "Rosario3",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "7 de diciembre",
+   "busquedas": "2000+",
+   "nota": "Se va el año: los feriados y días no laborables que quedan en diciembre",
+   "nota_url": "https://eldoce.tv/actualidad/2026/11/24/se-va-el-ano-los-feriados-y-dias-no-laborables-que-quedan-en-diciembre/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luna 24 de noviembre 2026",
+   "busquedas": "5000+",
+   "nota": "Llega la Luna llena de Castor 2026: cuándo y cómo observarla a simple vista",
+   "nota_url": "https://www.infobae.com/america/ciencia-america/2026/11/24/llega-la-luna-llena-de-castor-2026-cuando-y-como-observarla-a-simple-vista/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bajista",
+   "busquedas": "100+",
+   "nota": "Arbitrum cae 5,28 puntos en medio de una amplia liquidación cripto",
+   "nota_url": "https://coinmarketcap.com/es/top-stories/6b019e403c07e08d7a98697c/",
+   "medio": "CoinMarketCap",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "agencia central de inteligencia",
    "busquedas": "100+",
    "nota": "La CIA sufre un ciberataque a su información no clasificada",
    "nota_url": "https://cnnespanol.cnn.com/2026/11/24/eeuu/cia-ciberataque-informacion-no-clasificada-trax",
    "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miguel ángel rodríguez",
+   "busquedas": "200+",
+   "nota": "El Puma Rodríguez se hartó de Joaquín Levinton y lanzó una frase en “Es mi sueño” que descolocó a todos",
+   "nota_url": "https://tn.com.ar/videos/show/television/2026/11/17/el-puma-rodriguez-se-harto-de-joaquin-levinton-y-lanzo-una-frase-en-es-mi-sueno-que-descoloco-a-todos/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -143,20 +188,11 @@
    "temas": []
   },
   {
-   "tema": "miguel ángel rodríguez",
-   "busquedas": "100+",
-   "nota": "El Puma Rodríguez estalló contra Joaquín Levinton en Es mi sueño y protagonizaron un tenso cruce: “Mentira”",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/el-puma-rodriguez-estallo-contra-joaquin-levinton-en-es-mi-sueno-y-protagonizaron-un-tenso-cruce-mentira/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "la nueva",
    "busquedas": "100+",
-   "nota": "La nueva vida del Papu Gómez y Linda Raff junto a sus tres hijos en Emiratos Árabes, lejos de las luces: “Mi equipo”",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/24/la-nueva-vida-del-papu-gomez-y-linda-raff-junto-a-sus-tres-hijos-en-emiratos-arabes-lejos-de-las-luces-mi-equipo/",
-   "medio": "Infobae",
+   "nota": "Condenaron a tres años de prisión en suspenso al conductor de la moto que atropelló y provocó la muerte de Javier Fassio",
+   "nota_url": "https://lanuevaverdadderauch.ar/condenaron-a-tres-anos-de-prision-en-suspenso-al-conductor-de-la-moto-que-atropello-y-provoco-la-muerte-de-javier-fassio/",
+   "medio": "La Nueva Verdad de Rauch",
    "relevante": false,
    "temas": []
   },
@@ -171,46 +207,10 @@
   },
   {
    "tema": "medicamento",
-   "busquedas": "500+",
-   "nota": "ANMAT prohibió un spray frío para deportistas y sacó del mercado un antidiabético por riesgo cardíaco",
-   "nota_url": "https://www.ambito.com/informacion-general/anmat-prohibio-un-spray-frio-deportistas-y-saco-del-mercado-un-antidiabetico-riesgo-cardiaco-n6349002",
-   "medio": "Ambito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan manuel sara",
-   "busquedas": "200+",
-   "nota": "Después de perder el ascenso a Primera, Sara pegó el portazo y se va de Ferro (mobile)",
-   "nota_url": "https://mendoza24.com.ar/noticias_argentina/38400-Despues-de-perder-el-ascenso-a-Primera-Sara-pego-el-portazo-y-se-va-de-Ferro",
-   "medio": "mendoza24.com.ar",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "¿quien se fue de masterchef?",
    "busquedas": "1000+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "voyager 1",
-   "busquedas": "100+",
-   "nota": "Voyager’s cosmic map of Earth’s location: Cute, but wrong",
-   "nota_url": "https://bigthink.com/starts-with-a-bang/voyager-cosmic-map-wrong/",
-   "medio": "Big Think",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tomás palacios",
-   "busquedas": "2000+",
-   "nota": "River tiene negociaciones avanzadas por Tomás Palacios, defensor de Inter que juega en Estudiantes",
-   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/river-tiene-negociaciones-avanzadas-por-tomas-palacios-defensor-de-inter-que-juega-en-estudiantes",
-   "medio": "La Página Millonaria",
+   "nota": "La ANMAT prohibió un aerosol de uso deportivo y un medicamento para la diabetes por riesgos cardiovasculares",
+   "nota_url": "https://www.infobae.com/sociedad/2026/11/25/la-anmat-prohibio-un-aerosol-de-uso-deportivo-y-un-medicamento-para-la-diabetes-por-riesgos-cardiovasculares/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
