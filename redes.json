@@ -1,22 +1,10 @@
 {
- "actualizado": "25/11 13:55",
+ "actualizado": "25/11 14:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Zorro",
-   "url": "https://x.com/search?q=El%20Zorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
+   "tema": "#ElZorro",
+   "url": "https://x.com/search?q=%23ElZorro",
    "relevante": false,
    "temas": []
   },
@@ -39,15 +27,41 @@
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Placente",
+   "url": "https://x.com/search?q=Placente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
   },
   {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
@@ -57,14 +71,14 @@
    "temas": []
   },
   {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -81,22 +95,8 @@
    "temas": []
   },
   {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Laje",
-   "url": "https://x.com/search?q=Laje",
+   "tema": "Platense",
+   "url": "https://x.com/search?q=Platense",
    "relevante": false,
    "temas": []
   },
@@ -107,28 +107,82 @@
    "temas": []
   },
   {
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#BuenMiercoles",
    "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paloma",
-   "url": "https://x.com/search?q=Paloma",
+   "tema": "Dinamarca",
+   "url": "https://x.com/search?q=Dinamarca",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "grand theft auto",
+   "tema": "sabah",
+   "busquedas": "100+",
+   "nota": "Azerbaijan to become Barcelona's 21st Champions League destination",
+   "nota_url": "https://www.besoccer.com/new/azerbaijan-to-become-barcelonas-21st-champions-league-destination-1443372",
+   "medio": "BeSoccer Livescore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sabah vs barcelona",
+   "busquedas": "500+",
+   "nota": "Sabah vs. Barcelona, EN VIVO: dónde ver por TV y ONLINE",
+   "nota_url": "https://www.tycsports.com/champions-league/sabah-vs-barcelona-en-vivo-donde-ver-por-tv-y-online-id772357.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mundial sub17",
    "busquedas": "200+",
+   "nota": "Luis Fragozo da la cara luego de que Ecuador cayera contra Corea en el Mundial sub 17",
+   "nota_url": "https://bolavip.com/futbol-ecuador/luis-fragozo-da-la-cara-luego-de-que-ecuador-cayera-contra-corea-en-el-mundial-sub-17",
+   "medio": "Bolavip",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ricardo fort",
+   "busquedas": "100+",
+   "nota": "13 años de la muerte de Ricardo Fort, el empresario que se convirtió en ícono de la televisión en los 2000",
+   "nota_url": "https://www.ambito.com/espectaculos/13-anos-la-muerte-ricardo-fort-el-empresario-que-se-convirtio-icono-la-television-los-2000-n6349155",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cecilia insinga",
+   "busquedas": "200+",
+   "nota": "Cecilia Insinga anunció su salida de LN+ y expresó su malestar: \"Me duele la forma\"",
+   "nota_url": "https://exitoina.perfil.com/noticias/television/cecilia-insinga-anuncio-salida-ln-expreso-malestar-me-duele-la-forma.phtml",
+   "medio": "Exitoina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "slavia praga - villarreal",
+   "busquedas": "1000+",
+   "nota": "Jindrich Trpisovsky: \"Tenemos que exprimir lo máximo de nosotros\"",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/24/jindrich-trpisovsky-tenemos-que-exprimir-lo-maximo-de-nosotros/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "grand theft auto",
+   "busquedas": "500+",
    "nota": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
    "nota_url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
    "medio": "Mashable",
@@ -138,9 +192,9 @@
   {
    "tema": "chris evans",
    "busquedas": "100+",
-   "nota": "Did Steve Rogers Cause Doomsday? What the Final 'Avengers: Doomsday' Trailer Does and Doesn't Prove",
-   "nota_url": "https://www.yardbarker.com/entertainment/articles/did_steve_rogers_cause_doomsday_what_the_final_avengers_doomsday_trailer_does_and_doesnt_prove/s1_17785_44616806",
-   "medio": "Yardbarker",
+   "nota": "Chris Evans Explains Why He Rejected MCU Return as Nomad Before Avengers: Doomsday Role",
+   "nota_url": "https://www.superherohype.com/movies/708860-chris-evans-rejected-mcu-return-nomad-avengers-doomsday-role",
+   "medio": "SuperHeroHype",
    "relevante": false,
    "temas": []
   },
@@ -154,65 +208,11 @@
    "temas": []
   },
   {
-   "tema": "empleado público",
-   "busquedas": "500+",
-   "nota": "El Gobierno reglamentó el tope del 30% para descuentos salariales a estatales",
-   "nota_url": "https://www.eleco.com.ar/nacionales/el-gobierno-reglamento-el-tope-del-30-para-descuentos-salariales-a-estatales",
-   "medio": "El Eco",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "boca vs platense",
-   "busquedas": "500+",
-   "nota": "La final de la Copa Argentina se jugará en Santiago del Estero",
-   "nota_url": "https://deportv.gob.ar/futbol/final-copa-argentina-jugara-santiago-estero-nid:19198",
-   "medio": "DeporTV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "camioneta",
-   "busquedas": "5000+",
-   "nota": "La Policía difundió una foto de la influencer de la RAM rosa hecha con IA",
-   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/24/la-policia-difundio-una-foto-de-la-influencer-de-la-ram-rosa-hecha-con-ia/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dolar",
+   "tema": "banco de la nación argentina",
    "busquedas": "2000+",
-   "nota": "Los bonos argentinos retoman las bajas y el riesgo país escala a su nivel más alto en 14 meses",
-   "nota_url": "https://www.infobae.com/economia/2026/11/25/los-bonos-argentinos-retoman-las-bajas-y-el-riesgo-pais-escala-a-su-nivel-mas-alto-en-14-meses/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cronista",
-   "busquedas": "200+",
-   "nota": "La volatilidad financiera y los bolsillos flacos complican el repunte antes de las elecciones de 2027",
-   "nota_url": "https://www.lanacion.com.ar/economia/la-volatilidad-financiera-y-los-bolsillos-flacos-complican-el-repunte-antes-de-las-elecciones-de-nid23112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "ambito",
-   "busquedas": "500+",
-   "nota": "Luis Caputo relativizó que Argentina haya entrado en recesión: \"Es una definición arbitraria\"",
-   "nota_url": "https://www.clarin.com/economia/luis-caputo-relativizo-argentina-entrado-recesion-definicion-arbitraria_0_ST0qFWrx06.html",
-   "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
-   "busquedas": "10000+",
-   "nota": "Qué necesita Argentina vs. Dinamarca para clasificarse a la fase final del Mundial Sub-17 Qatar 2026",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/argentina-busca-la-clasificacion-a-la-fase-final-del-mundial-sub-17-enfrenta-a-dinamarca-en-la-ultima-fecha-del-grupo-c/",
-   "medio": "TN",
+   "nota": "Alarmas en rojo por el riesgo país",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/25/alarmas-en-rojo-por-el-riesgo-pais/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   }
