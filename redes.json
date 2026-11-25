@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 21:48",
+ "actualizado": "24/11 23:12",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,20 +33,22 @@
    "temas": []
   },
   {
-   "tema": "#CampanitaXMultitalent",
-   "url": "https://x.com/search?q=%23CampanitaXMultitalent",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
   },
   {
    "tema": "Newell",
    "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TomÃ¡s Palacios",
-   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
    "relevante": false,
    "temas": []
   },
@@ -57,14 +59,8 @@
    "temas": []
   },
   {
-   "tema": "Gimnasia",
-   "url": "https://x.com/search?q=Gimnasia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "#CampanitaXMultitalent",
+   "url": "https://x.com/search?q=%23CampanitaXMultitalent",
    "relevante": false,
    "temas": []
   },
@@ -81,6 +77,12 @@
    "temas": []
   },
   {
+   "tema": "Gimnasia",
+   "url": "https://x.com/search?q=Gimnasia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "River",
    "url": "https://x.com/search?q=River",
    "relevante": false,
@@ -93,28 +95,26 @@
    "temas": []
   },
   {
+   "tema": "TomÃ¡s Palacios",
+   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Instituto",
    "url": "https://x.com/search?q=Instituto",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "EMAE",
-   "url": "https://x.com/search?q=EMAE",
+   "tema": "#gaudiosehunde",
+   "url": "https://x.com/search?q=%23gaudiosehunde",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#gaudiosehunde",
-   "url": "https://x.com/search?q=%23gaudiosehunde",
+   "tema": "EMAE",
+   "url": "https://x.com/search?q=EMAE",
    "relevante": false,
    "temas": []
   },
@@ -127,92 +127,92 @@
  ],
  "google": [
   {
-   "tema": "maite peñoñori",
-   "busquedas": "200+",
-   "nota": "La ex angelita que triunfa en Miami reveló lo peor de Yanina Latorre: \"Mala leche y...\"",
-   "nota_url": "https://www.elesquiu.com/espectaculos/2026/11/24/la-ex-angelita-que-triunfa-en-miami-revelo-lo-peor-de-yanina-latorre-mala-leche-y-604646.html",
-   "medio": "El Esquiu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sergio massa",
+   "tema": "nadia márquez",
    "busquedas": "100+",
-   "nota": "Detrás de la foto: la jugada de Sergio Massa, el aval de Cristina Kirchner y un desafío para Axel Kicillof",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/19/detras-de-la-foto-la-jugada-de-sergio-massa-el-aval-de-cristina-kirchner-y-un-desafio-para-axel-kicillof/",
-   "medio": "Página|12",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "division palermo",
-   "busquedas": "100+",
-   "nota": "El emotivo mensaje de Celeste Cid a Santiago Korovsky tras ganar su segundo Emmy",
-   "nota_url": "https://exitoina.perfil.com/noticias/corazon/mensaje-de-celeste-cid-a-santiago-korovsky-tras-ganar-emmy.phtml",
-   "medio": "Exitoina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la página millonaria",
-   "busquedas": "100+",
-   "nota": "Almada volvió a sonreír: del partidazo en el Monumental al “sabía que no estaba teniendo un buen nivel”",
-   "nota_url": "https://www.ole.com.ar/river-plate/river-plate-thiago-almada_0_RY9YW31FXT.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miss universo",
-   "busquedas": "200+",
-   "nota": "Miss Universo 2026 elige hoy a su reina y Argentina busca su primera corona: a qué hora y dónde se podrá ver",
-   "nota_url": "https://www.lmneuquen.com/espectaculos/miss-universo-2026-elige-hoy-su-reina-y-argentina-busca-su-primera-corona-que-hora-y-donde-se-podra-ver-n1262401",
+   "nota": "Presentaron un pedido de impugnación contra Nadia Márquez para el Consejo de la Magistratura",
+   "nota_url": "https://www.lmneuquen.com/neuquen/presentaron-un-pedido-impugnacion-contra-nadia-marquez-e-consejo-la-magistratura-n1262491",
    "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "stickers con audio",
+   "tema": "samsung galaxy s26",
    "busquedas": "100+",
-   "nota": "WhatsApp habilitó los stickers con audio: cómo crear imágenes con voz, frases y efectos de sonido de hasta 10 segundos",
-   "nota_url": "https://www.canal26.com/tecnologia/2026/11/24/whatsapp-habilito-los-stickers-con-audio-como-crear-imagenes-con-voz-frases-y-efectos-de-sonido-de-hasta-10-segundos/",
-   "medio": "Canal26",
+   "nota": "Galaxy S27 Pro Geekbench: 3,061 and 10,967 Scores",
+   "nota_url": "https://shattered.io/galaxy-s27-pro-geekbench-sm-s957b-exynos-2700-3061-10967/",
+   "medio": "shattered.io",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "concurso",
+   "tema": "escándalo",
+   "busquedas": "200+",
+   "nota": "Fiscalía paraguaya acusa a expresidente Peña por lavado de activos y cohecho por Ueno bank",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/24/fiscalia-paraguaya-acusa-a-expresidente-pena-por-lavado-de-activos-y-cohecho-por-ueno-bank/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miss universo argentina",
    "busquedas": "100+",
-   "nota": "Se realizó la entrega de premios del 4º Concurso de Escritura Ana Frank",
-   "nota_url": "https://nuevodiarioweb.com.ar/provinciales/se-realizo-la-entrega-de-premios-del-4-concurso-de-escritura-ana-frank.htm",
-   "medio": "Nuevo Diario Web",
+   "nota": "La participación de la representante de Argentina en Miss Universo: el look con símbolos patrios que lució en la pasarela",
+   "nota_url": "https://www.infobae.com/tendencias/2026/11/23/la-presentacion-de-la-representante-de-argentina-en-miss-universo-el-look-con-simbolos-patrios-que-lucio-en-la-pasarela/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "magic - pistons",
-   "busquedas": "200+",
-   "nota": "Anthony Black Has Extra Motivation Ahead of Magic's Playoff Rematch With Detroit",
-   "nota_url": "https://roundtable.io/sports/nba/magic/news/anthony-black-has-extra-motivation-ahead-of-magics-playoff-rematch-with-detroit",
-   "medio": "roundtable.io",
+   "tema": "camionero",
+   "busquedas": "100+",
+   "nota": "Camionero argentino dijo que le robaron una carga de $120 millones tras secuestrarlo en Chile, pero era cómplice: hay 7 detenidos",
+   "nota_url": "https://www.losandes.com.ar/policiales/camionero-argentino-dijo-que-le-robaron-una-carga-120-millones-secuestrarlo-chile-pero-era-complice-hay-7-detenidos-n6015445",
+   "medio": "Los Andes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "chevrolet onix",
-   "busquedas": "200+",
-   "nota": "Así es el sedán más barato de Chevrolet: motor turbo, seis airbags y un baúl de 500 litros",
-   "nota_url": "https://radiomitre.cienradios.com/autos/asi-es-el-sedan-mas-barato-de-chevrolet-motor-turbo-seis-airbags-y-un-baul-de-500-litros/",
-   "medio": "Radio Mitre",
+   "tema": "patricia bullrich",
+   "busquedas": "100+",
+   "nota": "Patricia Bullrich no quiere ser Victoria Villarruel: apuesta a la Presidencia o seguir como senadora",
+   "nota_url": "https://www.ambito.com/politica/patricia-bullrich-no-quiere-ser-victoria-villarruel-apuesta-la-presidencia-o-seguir-como-senadora-n6348603",
+   "medio": "Ambito",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "boca mañana",
+   "busquedas": "2000+",
+   "nota": "La formación de Boca vs. Independiente Rivadavia por el Torneo Clausura 2026",
+   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17555562/la-formacion-de-boca-vs-independiente-rivadavia-torneo-clausura-2026-octavos-final",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sedán",
+   "tema": "universal+",
    "busquedas": "200+",
-   "nota": "El Hyundai Elantra Hybrid 2028, ya disponible en persona, llega a las calles.",
-   "nota_url": "https://www.vietnam.vn/es/hyundai-elantra-hybrid-2028-bang-xuong-bang-thit-lan-banh-tren-duong-pho",
-   "medio": "Vietnam.vn",
+   "nota": "La India habla sobre su presentación musical para la gala de Miss Universo",
+   "nota_url": "https://www.infobae.com/video/entretenimiento/la-india-habla-sobre-su-presentacion-musical-para-la-gala-de-miss-universo/RyQezIHN/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "telemundo en vivo",
+   "busquedas": "2000+",
+   "nota": "Gran final de Miss Universo 2026 EN VIVO: Estas son las 30 finalistas que están más cerca de la corona",
+   "nota_url": "https://www.infobae.com/entretenimiento/2026/11/24/gran-final-de-miss-universo-2026-en-vivo-todos-los-detalles-de-la-ultima-etapa-del-certamen-de-belleza/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "américa - deportivo cali",
+   "busquedas": "500+",
+   "nota": "América vs. Deportivo Cali - EN VIVO Cuadrangulares Liga BetPlay: minuto a minuto del clásico vallecaucano",
+   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/24/america-vs-deportivo-cali-en-vivo-cuadrangulares-liga-betplay-minuto-a-minuto-del-clasico-vallecaucano/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
