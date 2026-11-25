@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 14:43",
+ "actualizado": "25/11 15:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,8 +15,14 @@
    "temas": []
   },
   {
-   "tema": "#ElZorro",
-   "url": "https://x.com/search?q=%23ElZorro",
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Dinamarca",
+   "url": "https://x.com/search?q=Dinamarca",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +33,14 @@
    "temas": []
   },
   {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Placente",
    "url": "https://x.com/search?q=Placente",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElZorro",
+   "url": "https://x.com/search?q=%23ElZorro",
    "relevante": false,
    "temas": []
   },
@@ -53,20 +53,14 @@
    ]
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Policella",
+   "url": "https://x.com/search?q=Policella",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -77,14 +71,14 @@
    "temas": []
   },
   {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -95,8 +89,20 @@
    "temas": []
   },
   {
-   "tema": "Platense",
-   "url": "https://x.com/search?q=Platense",
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Baroni",
+   "url": "https://x.com/search?q=Baroni",
    "relevante": false,
    "temas": []
   },
@@ -113,67 +119,79 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Dinamarca",
-   "url": "https://x.com/search?q=Dinamarca",
+   "tema": "#elclubdelmoro",
+   "url": "https://x.com/search?q=%23elclubdelmoro",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "sabah",
-   "busquedas": "100+",
-   "nota": "Azerbaijan to become Barcelona's 21st Champions League destination",
-   "nota_url": "https://www.besoccer.com/new/azerbaijan-to-become-barcelonas-21st-champions-league-destination-1443372",
+   "tema": "champions league",
+   "busquedas": "500+",
+   "nota": "\"Not winning the Champions League is not a failure; PSG are favourites\"",
+   "nota_url": "https://www.besoccer.com/new/not-winning-the-champions-league-is-not-a-failure-psg-are-favourites-1443203",
    "medio": "BeSoccer Livescore",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sabah vs barcelona",
-   "busquedas": "500+",
-   "nota": "Sabah vs. Barcelona, EN VIVO: dónde ver por TV y ONLINE",
-   "nota_url": "https://www.tycsports.com/champions-league/sabah-vs-barcelona-en-vivo-donde-ver-por-tv-y-online-id772357.html",
-   "medio": "TyC Sports",
+   "tema": "barca vs",
+   "busquedas": "200+",
+   "nota": "Barcelona Predicted Lineup vs. Sabah: Yamal Missing As Raphinha Provides Star Power",
+   "nota_url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-sabah-champions-league-11-25-26",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mundial sub17",
+   "tema": "barcelona",
+   "busquedas": "5000+",
+   "nota": "Sabah vs Barcelona, en vivo, por la Champions League: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/sabah-vs-barcelona-en-vivo-por-la-fecha-5-de-la-champions-league-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alaska",
    "busquedas": "200+",
-   "nota": "Luis Fragozo da la cara luego de que Ecuador cayera contra Corea en el Mundial sub 17",
-   "nota_url": "https://bolavip.com/futbol-ecuador/luis-fragozo-da-la-cara-luego-de-que-ecuador-cayera-contra-corea-en-el-mundial-sub-17",
-   "medio": "Bolavip",
+   "nota": "Alaska wildlife disease discoveries show new risks for people",
+   "nota_url": "https://www.juneauindependent.com/post/alaska-wildlife-disease-discoveries-show-new-risks-for-people",
+   "medio": "Juneau Independent",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wall street",
+   "busquedas": "200+",
+   "nota": "US stocks sell-off deepens as AI trade cracks",
+   "nota_url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+   "medio": "Financial Times",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ricardo fort",
    "busquedas": "100+",
-   "nota": "13 años de la muerte de Ricardo Fort, el empresario que se convirtió en ícono de la televisión en los 2000",
-   "nota_url": "https://www.ambito.com/espectaculos/13-anos-la-muerte-ricardo-fort-el-empresario-que-se-convirtio-icono-la-television-los-2000-n6349155",
-   "medio": "Ambito",
+   "nota": "Marta Fort emocionó en MasterChef Celebrity con el plato de la última cena de Ricardo Fort",
+   "nota_url": "https://radiofonica.com/marta-fort-emociono-en-masterchef-celebrity-con-el-plato-de-la-ultima-cena-de-ricardo-fort/",
+   "medio": "Radiofonica 100.7",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "cecilia insinga",
    "busquedas": "200+",
-   "nota": "Cecilia Insinga anunció su salida de LN+ y expresó su malestar: \"Me duele la forma\"",
-   "nota_url": "https://exitoina.perfil.com/noticias/television/cecilia-insinga-anuncio-salida-ln-expreso-malestar-me-duele-la-forma.phtml",
-   "medio": "Exitoina",
+   "nota": "Echaron a Cecilia Insigna, se quedó en la calle y contó la escandalosa verdad: “Les molestó que yo…”",
+   "nota_url": "https://www.elesquiu.com/espectaculos/2026/11/25/echaron-a-cecilia-insigna-se-quedo-en-calle-y-conto-la-escandalosa-verdad-les-molesto-que-yo-604657.html",
+   "medio": "El Esquiu",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "slavia praga - villarreal",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Jindrich Trpisovsky: \"Tenemos que exprimir lo máximo de nosotros\"",
    "nota_url": "https://www.infobae.com/espana/agencias/2026/11/24/jindrich-trpisovsky-tenemos-que-exprimir-lo-maximo-de-nosotros/",
    "medio": "Infobae",
@@ -181,38 +199,20 @@
    "temas": []
   },
   {
+   "tema": "clemente cancela",
+   "busquedas": "500+",
+   "nota": "Clemente Cancela y Paloma Bokser van a ser papás: el emocionante anuncio y su historia de amor",
+   "nota_url": "https://www.parati.com.ar/news/clemente-cancela-y-paloma-bokser-van-a-ser-papas-el-emocionante-anuncio-y-su-historia-de-amor/",
+   "medio": "Revista Para Ti",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "grand theft auto",
-   "busquedas": "500+",
-   "nota": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
-   "nota_url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
-   "medio": "Mashable",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chris evans",
-   "busquedas": "100+",
-   "nota": "Chris Evans Explains Why He Rejected MCU Return as Nomad Before Avengers: Doomsday Role",
-   "nota_url": "https://www.superherohype.com/movies/708860-chris-evans-rejected-mcu-return-nomad-avengers-doomsday-role",
-   "medio": "SuperHeroHype",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "evento de el niño de 2026-2027",
-   "busquedas": "500+",
-   "nota": "From 'Super' to 'Godzilla' to 'Mega': Just how monstrous is this year's El Niño?",
-   "nota_url": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588",
-   "medio": "CBC",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "banco de la nación argentina",
-   "busquedas": "2000+",
-   "nota": "Alarmas en rojo por el riesgo país",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/25/alarmas-en-rojo-por-el-riesgo-pais/",
-   "medio": "Página|12",
+   "busquedas": "1000+",
+   "nota": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
+   "nota_url": "http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+   "medio": "Take-Two Interactive Software, Inc.",
    "relevante": false,
    "temas": []
   }
