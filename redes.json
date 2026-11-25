@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 05:26",
+ "actualizado": "25/11 06:59",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "tema": "RECESIÃN",
+   "url": "https://x.com/search?q=RECESI%C3%83%C2%93N",
    "relevante": false,
    "temas": []
   },
@@ -51,6 +45,12 @@
    "temas": []
   },
   {
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "PAMI",
    "url": "https://x.com/search?q=PAMI",
    "relevante": false,
@@ -69,32 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Filipinas",
-   "url": "https://x.com/search?q=Filipinas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Venezuela",
-   "url": "https://x.com/search?q=Venezuela",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Stornelli",
-   "url": "https://x.com/search?q=Stornelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Clara",
-   "url": "https://x.com/search?q=Clara",
    "relevante": false,
    "temas": []
   },
@@ -105,14 +81,26 @@
    "temas": []
   },
   {
-   "tema": "conti",
-   "url": "https://x.com/search?q=conti",
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "TomÃ¡s Palacios",
-   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
+   "tema": "Stornelli",
+   "url": "https://x.com/search?q=Stornelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tomÃ¡s palacios",
+   "url": "https://x.com/search?q=tom%C3%83%C2%A1s%20palacios",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "EMAE",
+   "url": "https://x.com/search?q=EMAE",
    "relevante": false,
    "temas": []
   },
@@ -121,12 +109,96 @@
    "url": "https://x.com/search?q=Instituto",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "PerÃ³n",
+   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gimnasia",
+   "url": "https://x.com/search?q=Gimnasia",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ley",
+   "tema": "¿quien se fue de masterchef?",
+   "busquedas": "500+",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "álex arce",
    "busquedas": "100+",
+   "nota": "River Plate consultó por Álex Arce ante los problemas para encontrar un goleador",
+   "nota_url": "https://lu17.com/contenido/159130/river-plate-consulto-por-alex-arce-ante-los-problemas-para-encontrar-un-goleador",
+   "medio": "LA17",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "avión",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima san luis",
+   "busquedas": "200+",
+   "nota": "Clima en San Luis hoy martes 24 de noviembre: cielo claro y temperaturas agradables",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/clima-en-san-luis-hoy-martes-24-de-noviembre-cielo-claro-y-temperaturas-agradables/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "antonela roccuzzo",
+   "busquedas": "200+",
+   "nota": "El álbum que publicó Antonela Roccuzzo: la tierna foto con Lionel Messi y sus hijos, playa y un detalle en el mate que se destacó",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/25/el-album-que-publico-antonela-roccuzzo-la-tierna-foto-con-lionel-messi-y-sus-hijos-playa-y-un-detalle-en-el-mate-que-se-destaco/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "2026",
+   "busquedas": "1000+",
+   "nota": "PA Democrat, Republican leaders reflect two weeks after Blue Wave in Midterms",
+   "nota_url": "https://www.yahoo.com/news/videos/pa-democrat-republican-leaders-reflect-230658105.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fenómeno",
+   "busquedas": "500+",
+   "nota": "El impacto de El Niño esta semana en el mundo",
+   "nota_url": "https://www.clarin.com/estados-unidos/el-impacto-de-el-nino-esta-semana-en-el-mundo_0_32egkTZX0z.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "marte",
+   "busquedas": "200+",
+   "nota": "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play?",
+   "nota_url": "https://sports.yahoo.com/mlb/article/mlb-trade-candidates-to-watch-could-ketel-marte-jarren-duran-corey-seager-be-in-play-223458483.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ley",
+   "busquedas": "500+",
    "nota": "Ley de Ludopatía: contra reloj, el oficialismo negocia con sus aliados los cambios al proyecto aprobado en Diputados",
    "nota_url": "https://www.clarin.com/politica/ley-ludopatia-reloj-oficialismo-negocia-aliados-cambios-proyecto-aprobado-diputados_0_8fZsOSAlnR.html",
    "medio": "Clarin.com",
@@ -136,83 +208,9 @@
   {
    "tema": "hltv",
    "busquedas": "100+",
-   "nota": "Complexity founder Jason Lake to receive first HLTV Lifetime Achievement Award",
-   "nota_url": "https://www.invenglobal.com/articles/29057/complexity-founder-jason-lake-to-receive-first-hltv-lifetime-achievement-award",
-   "medio": "Inven Global",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cocinero",
-   "busquedas": "200+",
-   "nota": "Video: así era el local de comidas minutos antes de la explosión en Ezpeleta que dejó 7 heridos",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/23/video-asi-era-el-local-de-comidas-minutos-antes-de-la-explosion-en-ezpeleta-que-dejo-7-heridos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "whatsapp stickers con audio",
-   "busquedas": "2000+",
-   "nota": "¿Cómo crear stickers con audio en WhatsApp? Paso a paso para hacerlos con fotos y videos",
-   "nota_url": "https://www.excelsior.com.mx/tecnologia/como-crear-stickers-con-audio-whatsapp-paso-paso-para-hacerlos-con-fotos-y-videos",
-   "medio": "Excélsior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maradona",
-   "busquedas": "500+",
-   "nota": "Paso a la inmortalidad de Diego Maradona: un rosarino creó un videojuego para homenajearlo",
-   "nota_url": "https://www.lacapital.com.ar/la-ciudad/paso-la-inmortalidad-diego-maradona-un-rosarino-creo-un-videojuego-homenajearlo-n10293962.html",
-   "medio": "La Capital",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "25 de noviembre",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luciana geuna",
-   "busquedas": "200+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nuggets - mavericks",
-   "busquedas": "500+",
-   "nota": "MMBets Game of the Week: Mavs and Nuggets battle for Group A supremacy",
-   "nota_url": "https://www.mavsmoneyball.com/dallas-mavericks-game-coverage/64116/dallas-mavericks-at-denver-nuggets-nba-cup-group-a-game-preview",
-   "medio": "Mavs Moneyball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "policía",
-   "busquedas": "2000+",
-   "nota": "Habló el dueño del bar de Caballito donde hubo enfrentamientos con la Policía de la Ciudad: “Abrí hace un mes y me rompieron el negocio”",
-   "nota_url": "https://tn.com.ar/policiales/2026/11/24/hablo-el-dueno-del-bar-de-caballito-donde-hubo-enfrentamientos-con-la-policia-abri-hace-un-mes-y-me-rompieron-el-negocio/",
-   "medio": "TN",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
-  },
-  {
-   "tema": "tribunal de casación",
-   "busquedas": "200+",
-   "nota": "$LIBRA: dos jueces de Casación se negaron a dar un paso al costado en una decisión clave para la causa",
-   "nota_url": "https://www.infobae.com/judiciales/2026/11/24/libra-dos-jueces-de-casacion-se-negaron-a-dar-un-paso-al-costado-en-una-decision-clave-para-la-causa/",
-   "medio": "Infobae",
+   "nota": "JASON LAKE TO RECEIVE FIRST EVER HLTV LIFETIME ACHIEVEMENT AWARD",
+   "nota_url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/jason-lake-to-receive-first-ever-hltv-lifetime-achievement-award-3483766",
+   "medio": "Mynewsdesk",
    "relevante": false,
    "temas": []
   }
