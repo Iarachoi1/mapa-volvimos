@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 19:43",
+ "actualizado": "25/11 20:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,12 +11,6 @@
   {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lammens",
-   "url": "https://x.com/search?q=Lammens",
    "relevante": false,
    "temas": []
   },
@@ -35,20 +29,26 @@
    "temas": []
   },
   {
+   "tema": "Lammens",
+   "url": "https://x.com/search?q=Lammens",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santiago del Estero",
    "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Nazareno Arasa",
-   "url": "https://x.com/search?q=Nazareno%20Arasa",
+   "tema": "Duran Duran",
+   "url": "https://x.com/search?q=Duran%20Duran",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "tema": "#AhoraCaigo",
+   "url": "https://x.com/search?q=%23AhoraCaigo",
    "relevante": false,
    "temas": []
   },
@@ -59,8 +59,20 @@
    "temas": []
   },
   {
-   "tema": "Manchester United",
-   "url": "https://x.com/search?q=Manchester%20United",
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Andy Taylor",
+   "url": "https://x.com/search?q=Andy%20Taylor",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
    "relevante": false,
    "temas": []
   },
@@ -71,8 +83,8 @@
    "temas": []
   },
   {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
+   "tema": "Lautaro MartÃ­nez",
+   "url": "https://x.com/search?q=Lautaro%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   },
@@ -83,20 +95,26 @@
    "temas": []
   },
   {
-   "tema": "Roma",
-   "url": "https://x.com/search?q=Roma",
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bruno Fernandes",
-   "url": "https://x.com/search?q=Bruno%20Fernandes",
+   "tema": "Nazareno Arasa",
+   "url": "https://x.com/search?q=Nazareno%20Arasa",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Asistente 2",
-   "url": "https://x.com/search?q=Asistente%202",
+   "tema": "Manchester United",
+   "url": "https://x.com/search?q=Manchester%20United",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Wirtz",
+   "url": "https://x.com/search?q=Wirtz",
    "relevante": false,
    "temas": []
   },
@@ -105,92 +123,83 @@
    "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#lanovelaluzu",
-   "url": "https://x.com/search?q=%23lanovelaluzu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "atlético mineiro - corinthians",
+   "tema": "el niño",
    "busquedas": "2000+",
-   "nota": "Jogo do Vasco hoje (25) pelo Brasileirão: onde assistir ao vivo",
-   "nota_url": "https://www.bol.uol.com.br/esporte/2026/11/25/jogo-do-vasco-hoje-25-pelo-brasileirao-onde-assistir-ao-vivo.htm",
-   "medio": "BOL",
+   "nota": "Super El Niño: el calentamiento del Pacífico podría superar los 3 °C hasta marzo",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/super-el-nino-el-calentamiento-del-pacifico-podria-superar-los-3-c-hasta-marzo.html",
+   "medio": "Meteored Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de atlético de madrid contra viking stavanger fk",
-   "busquedas": "2000+",
-   "nota": "Strikers fire Atlético Madrid and Fenerbahçe to Champions League wins",
-   "nota_url": "https://www.yardbarker.com/soccer/articles/strikers_fire_atltico_madrid_and_fenerbahe_to_champions_league_wins/s1_17790_44619285",
-   "medio": "Yardbarker",
+   "tema": "boca juniors - independiente rivadavia",
+   "busquedas": "20000+",
+   "nota": "Boca Juniors vs. Independiente Rivadavia, por los octavos de final del Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+   "nota_url": "https://www.clarin.com/deportes/boca-juniors-vs-independiente-rivadavia-octavos-final-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_hKRQwkrR3n.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de inter milan contra vfb stuttgart",
+   "tema": "mauro coronel",
+   "busquedas": "200+",
+   "nota": "El presidente de Nacional de Paraguay confirmó el interés de River por Mauro Coronel y adelantó que se reun...",
+   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/el-presidente-de-nacional-de-paraguay-confirmo-el-interes-de-river-por-mauro-coronel-y-adelanto-que-se-reunira-con-di-carlo",
+   "medio": "La Página Millonaria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "santa fe - once caldas",
    "busquedas": "500+",
-   "nota": "Why VfB Stuttgart will beat Inter Milan in the UEFA Champions League",
-   "nota_url": "https://www.bundesliga.com/en/bundesliga/news/why-vfb-stuttgart-can-beat-inter-milan-uefa-champions-league-40028",
-   "medio": "Bundesliga | official website",
+   "nota": "Santa Fe recibe a Once Caldas por puntos clave en el grupo A",
+   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/47136_santa-fe-recibe-a-once-caldas-por-puntos-clave-en-el-grupo-a.htm",
+   "medio": "Identidad Correntina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "andy taylor",
-   "busquedas": "500+",
-   "nota": "Andy Taylor Dies at 65 After Prostate Cancer Battle",
-   "nota_url": "https://www.suaralandak.co.id/en/andy-taylor-dies-prostate-cancer",
-   "medio": "www.suaralandak.co.id",
+   "tema": "solana sierra",
+   "busquedas": "200+",
+   "nota": "WTA 125 de Buenos Aires: cómo es la experiencia inmersiva más allá de la cancha",
+   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17559996/wta-125-de-buenos-aires-como-es-la-experiencia-inmersiva-mas-alla-de-la-cancha-tenis",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "76ers - heat",
-   "busquedas": "500+",
-   "nota": "Best NBA Prop Bets Today (Predictions for Klay Thompson, Kevin Durant, Deni Avdija)",
-   "nota_url": "https://www.si.com/betting/best-nba-prop-bets-today-predictions-for-klay-thompson-kevin-durant-deni-avdija-01m89rj4wq0h",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "harlen castillo",
+   "tema": "alejandro garnacho",
    "busquedas": "100+",
-   "nota": "Increíble: además de la expulsión, Chipi Chipi Castillo se fracturó un dedo",
-   "nota_url": "https://www.infocielo.com/deportes/increible-ademas-de-la-expulsion-chipi-chipi-castillo-se-fracturo-un-dedo",
+   "nota": "Garnacho, otra vez afuera del banco en Aston Villa: qué dijo Emery de su futuro",
+   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17559726/aston-villa-garnacho-afuera-banco-emery-futuro",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estudiantes vs flamengo",
+   "busquedas": "100+",
+   "nota": "La cruda revelación del \"gigante\" al que Estudiantes enfrentará en la final de la Libertadores",
+   "nota_url": "https://www.infocielo.com/deportes/la-cruda-revelacion-del-gigante-al-que-estudiantes-enfrentara-en-la-final-de-la-libertadores",
    "medio": "Infocielo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayer",
+   "tema": "stray kids suiatsu",
    "busquedas": "100+",
-   "nota": "Wie Siemens Energy, Infineon, Hochtief, Deutsche Boerse, Bayer und Deutsche Telekom für Gesprächsstoff im DAX sorgten",
-   "nota_url": "https://boerse-social.com/page/newsflow/wie_siemens_energy_infineon_hochtief_deutsche_boerse_bayer_und_deutsche_telekom_fur_gesprachsstoff_im_dax_sorgten",
-   "medio": "Börse Social",
+   "nota": "Stray Kids Releases SUIATSU With Seven Japanese Tracks",
+   "nota_url": "https://demokratis.co.id/en/stray-kids-suiatsu-japanese-album",
+   "medio": "Demokratis.co.id",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "canal 13",
+   "tema": "canal 13 lentes oscuros",
    "busquedas": "1000+",
    "nota": "Por qué en Canal 13 están usando lentes de sol al aire: el detalle que se repitió desde el programa de Moria Casán a Puro Show",
    "nota_url": "https://www.parati.com.ar/news/por-que-en-canal-13-estan-usando-lentes-de-sol-al-aire-el-detalle-que-se-repitio-desde-el-programa-de-moria-casan-a-puro-show/",
@@ -199,20 +208,11 @@
    "temas": []
   },
   {
-   "tema": "sporting lisboa vs. manchester united",
-   "busquedas": "200+",
-   "nota": "Barcelona venció por 4-1 a Sabah, por la Champions League 2026",
-   "nota_url": "https://www.lanacion.com.ar/deportes/canchallena/barcelona-vencio-por-4-1-a-sabah-por-la-champions-league-2026-nid25112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bayer vs",
-   "busquedas": "100+",
-   "nota": "Dinamo Zagreb-Bayer Leverkusen: Leverkusen arrive with two absences",
-   "nota_url": "https://www.tufutbolero.com/en/news/dinamo-zagreb-bayer-leverkusen-leverkusen-arrive-with-two-e4fdfd",
-   "medio": "Tu Futbolero",
+   "tema": "atlético mineiro - corinthians",
+   "busquedas": "5000+",
+   "nota": "No 100º jogo do Atlético na Arena MRV, Everson pode ampliar recorde; entenda",
+   "nota_url": "https://www.otempo.com.br/sports/atletico/2026/11/25/no-100-jogo-do-atletico-na-arena-mrv-everson-pode-ampliar-recorde-entenda",
+   "medio": "O Tempo",
    "relevante": false,
    "temas": []
   }
