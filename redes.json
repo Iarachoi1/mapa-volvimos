@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 09:58",
+ "actualizado": "25/11 11:18",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,20 +15,8 @@
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#FMLUZU",
    "url": "https://x.com/search?q=%23FMLUZU",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -41,6 +29,12 @@
   {
    "tema": "#MissUniverse2026",
    "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -69,44 +63,8 @@
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cachorra",
-   "url": "https://x.com/search?q=Cachorra",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PigÃ¼Ã©",
-   "url": "https://x.com/search?q=Pig%C3%83%C2%BC%C3%83%C2%A9",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Paloma",
-   "url": "https://x.com/search?q=Paloma",
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -117,46 +75,106 @@
    "temas": []
   },
   {
-   "tema": "Ceci",
-   "url": "https://x.com/search?q=Ceci",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PAMI",
+   "url": "https://x.com/search?q=PAMI",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Virginia Luque",
+   "url": "https://x.com/search?q=Virginia%20Luque",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Paloma",
+   "url": "https://x.com/search?q=Paloma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El 25",
+   "url": "https://x.com/search?q=El%2025",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PigÃ¼Ã©",
+   "url": "https://x.com/search?q=Pig%C3%83%C2%BC%C3%83%C2%A9",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "25n",
+   "tema": "selección de rugby de australia",
    "busquedas": "100+",
-   "nota": "25N: cómo se organiza la marcha en Rosario y qué empuja a las mujeres y disidencias a tomar las calles",
-   "nota_url": "https://www.rosario3.com/informaciongeneral/25n-como-se-organiza-la-marcha-en-rosario-y-que-empuja-a-las-mujeres-y-disidencias-a-tomar-las-calles-20261124-0044.html",
-   "medio": "Rosario3",
-   "relevante": true,
+   "nota": "Los Wallabies se pusieron en modo Colapinto y pasaron un día con Alpine",
+   "nota_url": "https://www.ole.com.ar/autos/wallabies-pusieron-modo-colapinto-pasaron-dia-alpine_3_jKbYbQCi2E.html",
+   "medio": "Olé",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "7 de diciembre",
-   "busquedas": "2000+",
-   "nota": "Se va el año: los feriados y días no laborables que quedan en diciembre",
-   "nota_url": "https://eldoce.tv/actualidad/2026/11/24/se-va-el-ano-los-feriados-y-dias-no-laborables-que-quedan-en-diciembre/",
+   "tema": "santiago maratea",
+   "busquedas": "200+",
+   "nota": "Santi Maratea se despidió de las redes y contó a qué se va a dedicar: “Paso a la adultez”",
+   "nota_url": "https://eldoce.tv/show/2026/11/25/santi-maratea-se-despidio-de-las-redes-y-conto-a-que-se-va-a-dedicar-paso-a-la-adultez/",
    "medio": "eldoce",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "luna 24 de noviembre 2026",
-   "busquedas": "5000+",
-   "nota": "Llega la Luna llena de Castor 2026: cuándo y cómo observarla a simple vista",
-   "nota_url": "https://www.infobae.com/america/ciencia-america/2026/11/24/llega-la-luna-llena-de-castor-2026-cuando-y-como-observarla-a-simple-vista/",
-   "medio": "Infobae",
+   "tema": "25 de noviembre dia de la no violencia contra la mujer",
+   "busquedas": "200+",
+   "nota": "Este 25 de noviembre se vuelve a poner el foco en la violencia contra las mujeres y las herramientas para denunciarla",
+   "nota_url": "https://www.reconquistahoy.com/93848-este-25-de-noviembre-se-vuelve-a-poner-el-foco-en-la-violencia-contra-las-mujeres-y-las-herramientas-para-denunciarla",
+   "medio": "ReconquistaHOY",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "25n",
+   "busquedas": "100+",
+   "nota": "Santa Fe registró 46 víctimas de violencia machista en diez meses",
+   "nota_url": "https://eldepartamental.com/contenido/37582/santa-fe-registro-46-victimas-de-violencia-machista-en-diez-meses",
+   "medio": "El Departamental",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "7 de diciembre",
+   "busquedas": "2000+",
+   "nota": "Cuándo será el próximo fin de semana largo en Argentina y qué días lo conforman",
+   "nota_url": "https://www.eleco.com.ar/nacionales/cuando-sera-el-proximo-fin-de-semana-largo-en-argentina-y-que-dias-lo-conforman",
+   "medio": "El Eco",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bajista",
    "busquedas": "100+",
-   "nota": "Arbitrum cae 5,28 puntos en medio de una amplia liquidación cripto",
-   "nota_url": "https://coinmarketcap.com/es/top-stories/6b019e403c07e08d7a98697c/",
-   "medio": "CoinMarketCap",
+   "nota": "Perspectivas de Green Rock Sinal(@Square-Creator-f11886921)",
+   "nota_url": "https://www.binance.com/es-LA/square/post/390353007912074",
+   "medio": "Binance",
    "relevante": false,
    "temas": []
   },
@@ -166,6 +184,15 @@
    "nota": "La CIA sufre un ciberataque a su información no clasificada",
    "nota_url": "https://cnnespanol.cnn.com/2026/11/24/eeuu/cia-ciberataque-informacion-no-clasificada-trax",
    "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jennifer barreto",
+   "busquedas": "2000+",
+   "nota": "Anuncian a La India, Denise Quiñones, Didi Romero y Janina para Miss Universe Puerto Rico",
+   "nota_url": "https://www.infobae.com/video/entretenimiento/anuncian-a-la-india-denise-quinones-didi-romero-y-janina-para-miss-universe-puerto-rico/92qZ5VA4/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -184,33 +211,6 @@
    "nota": "Mariah Carey Opens Christmas Tour in São Paulo as Twins Address Parents’ Split in Netflix Trailer",
    "nota_url": "https://www.jubileecast.com/articles/41183/20261118/mariah-carey-opens-christmas-tour-in-s%C3%A3o-paulo-as-twins-address-parents-split-in-netflix-trailer.htm",
    "medio": "JubileeCast",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la nueva",
-   "busquedas": "100+",
-   "nota": "Condenaron a tres años de prisión en suspenso al conductor de la moto que atropelló y provocó la muerte de Javier Fassio",
-   "nota_url": "https://lanuevaverdadderauch.ar/condenaron-a-tres-anos-de-prision-en-suspenso-al-conductor-de-la-moto-que-atropello-y-provoco-la-muerte-de-javier-fassio/",
-   "medio": "La Nueva Verdad de Rauch",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ashleigh barty",
-   "busquedas": "100+",
-   "nota": "No pudo ser",
-   "nota_url": "https://www.agencianova.com/contenido.asp?t=Instante-Deportivo&id=8650",
-   "medio": "Agencia NOVA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "medicamento",
-   "busquedas": "1000+",
-   "nota": "La ANMAT prohibió un aerosol de uso deportivo y un medicamento para la diabetes por riesgos cardiovasculares",
-   "nota_url": "https://www.infobae.com/sociedad/2026/11/25/la-anmat-prohibio-un-aerosol-de-uso-deportivo-y-un-medicamento-para-la-diabetes-por-riesgos-cardiovasculares/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
