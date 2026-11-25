@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 15:39",
+ "actualizado": "25/11 16:46",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,30 +21,6 @@
    "temas": []
   },
   {
-   "tema": "Dinamarca",
-   "url": "https://x.com/search?q=Dinamarca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Placente",
-   "url": "https://x.com/search?q=Placente",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElZorro",
-   "url": "https://x.com/search?q=%23ElZorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Jorge Macri",
    "url": "https://x.com/search?q=Jorge%20Macri",
    "relevante": true,
@@ -53,14 +29,14 @@
    ]
   },
   {
-   "tema": "Policella",
-   "url": "https://x.com/search?q=Policella",
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Dinamarca",
+   "url": "https://x.com/search?q=Dinamarca",
    "relevante": false,
    "temas": []
   },
@@ -71,8 +47,20 @@
    "temas": []
   },
   {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#MissUniverse2026",
    "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Policella",
+   "url": "https://x.com/search?q=Policella",
    "relevante": false,
    "temas": []
   },
@@ -89,8 +77,20 @@
    "temas": []
   },
   {
+   "tema": "#ElZorro",
+   "url": "https://x.com/search?q=%23ElZorro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Placente",
+   "url": "https://x.com/search?q=Placente",
    "relevante": false,
    "temas": []
   },
@@ -101,20 +101,8 @@
    "temas": []
   },
   {
-   "tema": "Baroni",
-   "url": "https://x.com/search?q=Baroni",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Ambrosetti",
    "url": "https://x.com/search?q=Ambrosetti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PAMI",
-   "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
@@ -123,96 +111,108 @@
    "url": "https://x.com/search?q=%23elclubdelmoro",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Alan Alcaraz",
+   "url": "https://x.com/search?q=Alan%20Alcaraz",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "champions league",
+   "tema": "psg",
    "busquedas": "500+",
-   "nota": "\"Not winning the Champions League is not a failure; PSG are favourites\"",
-   "nota_url": "https://www.besoccer.com/new/not-winning-the-champions-league-is-not-a-failure-psg-are-favourites-1443203",
-   "medio": "BeSoccer Livescore",
+   "nota": "Les onze de départ sont connus pour PSG-AS Rome et Lille-Bayern",
+   "nota_url": "https://www.flashscore.fr/actualites/les-compositions-officielles-de-psg-as-rome-et-lille-bayern-munich/Sxc6LoOj/",
+   "medio": "Flashscore.fr",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "barca vs",
-   "busquedas": "200+",
-   "nota": "Barcelona Predicted Lineup vs. Sabah: Yamal Missing As Raphinha Provides Star Power",
-   "nota_url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-sabah-champions-league-11-25-26",
-   "medio": "Sports Illustrated",
+   "tema": "club brujas - liverpool",
+   "busquedas": "1000+",
+   "nota": "Ryan Gravenberch and Cody Gakpo injury update",
+   "nota_url": "https://www.liverpoolfc.com/news/ryan-gravenberch-and-cody-gakpo-injury-update",
+   "medio": "Liverpool FC",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "barcelona",
-   "busquedas": "5000+",
-   "nota": "Sabah vs Barcelona, en vivo, por la Champions League: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/sabah-vs-barcelona-en-vivo-por-la-fecha-5-de-la-champions-league-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alaska",
-   "busquedas": "200+",
-   "nota": "Alaska wildlife disease discoveries show new risks for people",
-   "nota_url": "https://www.juneauindependent.com/post/alaska-wildlife-disease-discoveries-show-new-risks-for-people",
-   "medio": "Juneau Independent",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "wall street",
-   "busquedas": "200+",
-   "nota": "US stocks sell-off deepens as AI trade cracks",
-   "nota_url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-   "medio": "Financial Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ricardo fort",
+   "tema": "stellantis",
    "busquedas": "100+",
-   "nota": "Marta Fort emocionó en MasterChef Celebrity con el plato de la última cena de Ricardo Fort",
-   "nota_url": "https://radiofonica.com/marta-fort-emociono-en-masterchef-celebrity-con-el-plato-de-la-ultima-cena-de-ricardo-fort/",
-   "medio": "Radiofonica 100.7",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cecilia insinga",
-   "busquedas": "200+",
-   "nota": "Echaron a Cecilia Insigna, se quedó en la calle y contó la escandalosa verdad: “Les molestó que yo…”",
-   "nota_url": "https://www.elesquiu.com/espectaculos/2026/11/25/echaron-a-cecilia-insigna-se-quedo-en-calle-y-conto-la-escandalosa-verdad-les-molesto-que-yo-604657.html",
-   "medio": "El Esquiu",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "slavia praga - villarreal",
-   "busquedas": "2000+",
-   "nota": "Jindrich Trpisovsky: \"Tenemos que exprimir lo máximo de nosotros\"",
-   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/24/jindrich-trpisovsky-tenemos-que-exprimir-lo-maximo-de-nosotros/",
+   "nota": "Con el foco en las exportaciones, Stellantis inauguró una planta de motores para equipar 11 vehículos de producción regional",
+   "nota_url": "https://www.infobae.com/economia/2026/11/25/con-el-foco-en-las-exportaciones-stellantis-inauguro-una-planta-de-motores-para-equipar-11-vehiculos-de-produccion-regional/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clemente cancela",
-   "busquedas": "500+",
-   "nota": "Clemente Cancela y Paloma Bokser van a ser papás: el emocionante anuncio y su historia de amor",
-   "nota_url": "https://www.parati.com.ar/news/clemente-cancela-y-paloma-bokser-van-a-ser-papas-el-emocionante-anuncio-y-su-historia-de-amor/",
-   "medio": "Revista Para Ti",
+   "tema": "sporting lisboa - manchester united",
+   "busquedas": "2000+",
+   "nota": "Sporting Lisboa vs. Manchester United - EN VIVO: minuto a minuto del partido de Luis Suárez en la Champions League",
+   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/25/sporting-lisboa-vs-manchester-united-en-vivo-minuto-a-minuto-del-partido-de-luis-suarez-en-la-champions-league/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "grand theft auto",
+   "tema": "losc - bayern",
    "busquedas": "1000+",
-   "nota": "Grand Theft Auto VI Shatters Entertainment Box Office Records with $3.79 Billion in Day One Retail Sales",
-   "nota_url": "http://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
-   "medio": "Take-Two Interactive Software, Inc.",
+   "nota": "Ethan Mbappé de retour après sa suspension, Kompany fait tourner : les compositions de Lille-Bayern Munich en Ligue des champions",
+   "nota_url": "https://www.lequipe.fr/Football/Actualites/Ethan-mbappe-de-retour-apres-sa-suspension-kompany-fait-tourner-les-compositions-de-lille-bayern-munich-en-ligue-des-champions/1746157",
+   "medio": "L'Équipe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inter - stuttgart",
+   "busquedas": "1000+",
+   "nota": "„Habe ich in der Vorbereitung auf das Spiel erfahren“",
+   "nota_url": "https://www.sport1.de/tv-video/video/hoeness-habe-ich-in-der-vorbereitung-auf-das-spiel-erfahren__e876b761-18d2-4c02-b089-2a17b60042b1",
+   "medio": "SPORT1",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "región sur de brasil",
+   "busquedas": "200+",
+   "nota": "Río Uruguay: repuntaron los caudales en las represas de Brasil",
+   "nota_url": "https://www.analisisdigital.com.ar/interes-general/2026/11/25/rio-uruguay-repuntaron-los-caudales-en-las-represas-de-brasil",
+   "medio": "Análisis Digital",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pep guardiola",
+   "busquedas": "100+",
+   "nota": "Guardiola confesó por qué nunca intentó llevarse a Messi de Barcelona",
+   "nota_url": "https://www.tycsports.com/futbol-internacional/pep-guardiola-messi-barcelona--id772867.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlético madrid - viking",
+   "busquedas": "5000+",
+   "nota": "Atletico Madrid's flawless record against Norwegian sides ended by Bodo",
+   "nota_url": "https://www.besoccer.com/new/atletico-madrids-flawless-record-against-norwegian-sides-ended-by-bodo-1443245",
+   "medio": "BeSoccer Livescore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "psg - roma",
+   "busquedas": "2000+",
+   "nota": "PSG vs Roma, en vivo, por la Champions League: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/psg-vs-roma-en-vivo-por-la-fecha-5-de-la-champions-league-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   }
