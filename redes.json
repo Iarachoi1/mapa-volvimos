@@ -1,10 +1,16 @@
 {
- "actualizado": "25/11 12:52",
+ "actualizado": "25/11 13:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Zorro",
+   "url": "https://x.com/search?q=El%20Zorro",
    "relevante": false,
    "temas": []
   },
@@ -15,20 +21,20 @@
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
@@ -51,32 +57,20 @@
    "temas": []
   },
   {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "RecesiÃ³n",
    "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Laje",
-   "url": "https://x.com/search?q=Laje",
    "relevante": false,
    "temas": []
   },
@@ -101,8 +95,14 @@
    "temas": []
   },
   {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
+   "tema": "Laje",
+   "url": "https://x.com/search?q=Laje",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ambrosetti",
+   "url": "https://x.com/search?q=Ambrosetti",
    "relevante": false,
    "temas": []
   },
@@ -113,31 +113,49 @@
    "temas": []
   },
   {
-   "tema": "Paloma",
-   "url": "https://x.com/search?q=Paloma",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "Paloma",
+   "url": "https://x.com/search?q=Paloma",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "dólar",
-   "busquedas": "2000+",
-   "nota": "En otro día complicado, el dólar trepa a $ 1.630 y el riesgo país salta hasta los 1.131 puntos",
-   "nota_url": "https://www.clarin.com/economia/riesgo-pais-arranca-dia-salto-llega-1131-puntos-caida-bonos-encuentra-piso_0_2nrN0uZI4Y.html",
-   "medio": "Clarin.com",
+   "tema": "grand theft auto",
+   "busquedas": "200+",
+   "nota": "'GTA 6' chapter 1 is so good that I'm afraid to move on to chapter 2",
+   "nota_url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-chapter-1-so-good",
+   "medio": "Mashable",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "chris evans",
+   "busquedas": "100+",
+   "nota": "Did Steve Rogers Cause Doomsday? What the Final 'Avengers: Doomsday' Trailer Does and Doesn't Prove",
+   "nota_url": "https://www.yardbarker.com/entertainment/articles/did_steve_rogers_cause_doomsday_what_the_final_avengers_doomsday_trailer_does_and_doesnt_prove/s1_17785_44616806",
+   "medio": "Yardbarker",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "evento de el niño de 2026-2027",
+   "busquedas": "500+",
+   "nota": "From 'Super' to 'Godzilla' to 'Mega': Just how monstrous is this year's El Niño?",
+   "nota_url": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588",
+   "medio": "CBC",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "empleado público",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "El Gobierno reglamentó el tope del 30% para descuentos salariales a estatales",
    "nota_url": "https://www.eleco.com.ar/nacionales/el-gobierno-reglamento-el-tope-del-30-para-descuentos-salariales-a-estatales",
    "medio": "El Eco",
@@ -146,73 +164,55 @@
   },
   {
    "tema": "boca vs platense",
-   "busquedas": "200+",
-   "nota": "Copa Argentina: confirmaron la sede de la final entre Boca Juniors y Platense",
-   "nota_url": "https://www.elsol.com.ar/deportes/copa-argentina-confirmaron-la-sede-de-la-final-entre-boca-juniors-y-platense/",
-   "medio": "Diario El Sol Mendoza",
+   "busquedas": "500+",
+   "nota": "La final de la Copa Argentina se jugará en Santiago del Estero",
+   "nota_url": "https://deportv.gob.ar/futbol/final-copa-argentina-jugara-santiago-estero-nid:19198",
+   "medio": "DeporTV",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "camioneta",
    "busquedas": "5000+",
-   "nota": "Transporte inhabilitó a la conductora que hizo temerarias maniobras en Pinamar",
-   "nota_url": "https://www.gba.gob.ar/transporte/noticias/transporte_inhabilit%C3%B3_la_conductora_que_hizo_temerarias_maniobras_en_pinamar",
-   "medio": "Provincia de Buenos Aires |",
+   "nota": "La Policía difundió una foto de la influencer de la RAM rosa hecha con IA",
+   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/24/la-policia-difundio-una-foto-de-la-influencer-de-la-ram-rosa-hecha-con-ia/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dolar",
+   "busquedas": "2000+",
+   "nota": "Los bonos argentinos retoman las bajas y el riesgo país escala a su nivel más alto en 14 meses",
+   "nota_url": "https://www.infobae.com/economia/2026/11/25/los-bonos-argentinos-retoman-las-bajas-y-el-riesgo-pais-escala-a-su-nivel-mas-alto-en-14-meses/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "cronista",
-   "busquedas": "1000+",
-   "nota": "Luis Caputo relativizó la recesión técnica y descartó que la suba del dólar se traslade a los precios",
-   "nota_url": "https://www.filo.news/noticia/2026/11/25/luis-caputo-relativizo-la-recesion-tecnica-y-descarto-que-la-suba-del-dolar-se-traslade-a-los-precios",
-   "medio": "Filo News",
+   "busquedas": "200+",
+   "nota": "La volatilidad financiera y los bolsillos flacos complican el repunte antes de las elecciones de 2027",
+   "nota_url": "https://www.lanacion.com.ar/economia/la-volatilidad-financiera-y-los-bolsillos-flacos-complican-el-repunte-antes-de-las-elecciones-de-nid23112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "ambito",
    "busquedas": "500+",
-   "nota": "Patricia Bullrich le pidió a Milei cambios “quirúrgicos” en el plan económico para ganar las elecciones: “No alcanza con decir que todo mejorará en 2028\"",
-   "nota_url": "https://www.clarin.com/politica/patricia-bullrich-pidio-milei-cambios-quirurgicos-plan-economico-ganar-elecciones-alcanza-decir-mejorara-2028_0_HxiEZ2313h.html",
+   "nota": "Luis Caputo relativizó que Argentina haya entrado en recesión: \"Es una definición arbitraria\"",
+   "nota_url": "https://www.clarin.com/economia/luis-caputo-relativizo-argentina-entrado-recesion-definicion-arbitraria_0_ST0qFWrx06.html",
    "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
-   "busquedas": "2000+",
+   "busquedas": "10000+",
    "nota": "Qué necesita Argentina vs. Dinamarca para clasificarse a la fase final del Mundial Sub-17 Qatar 2026",
    "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/argentina-busca-la-clasificacion-a-la-fase-final-del-mundial-sub-17-enfrenta-a-dinamarca-en-la-ultima-fecha-del-grupo-c/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adios apache",
-   "busquedas": "1000+",
-   "nota": "Carlos Tévez confirmó a Rio Ferdinand para su partido despedida en La Bombonera",
-   "nota_url": "https://www.elliberal.com.ar/nota/98434/2026/11/carlos-tevez-confirmo-a-rio-ferdinand-para-su-partido-despedida-en-la-bombonera",
-   "medio": "El Liberal",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "selección de rugby de australia",
-   "busquedas": "100+",
-   "nota": "Los Wallabies se pusieron en modo Colapinto y pasaron un día con Alpine",
-   "nota_url": "https://www.ole.com.ar/autos/wallabies-pusieron-modo-colapinto-pasaron-dia-alpine_3_jKbYbQCi2E.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santiago maratea",
-   "busquedas": "1000+",
-   "nota": "Santiago Maratea dejó de ser influencer, cerró sus redes y anunció su nuevo trabajo",
-   "nota_url": "https://www.lmneuquen.com/espectaculos/santiago-maratea-dejo-ser-influencer-cerro-sus-redes-y-anuncio-su-nuevo-trabajo-n1262500",
-   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   }
