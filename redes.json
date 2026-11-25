@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 06:59",
+ "actualizado": "25/11 07:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,26 @@
    "temas": []
   },
   {
-   "tema": "RECESIÃN",
-   "url": "https://x.com/search?q=RECESI%C3%83%C2%93N",
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +57,8 @@
    "temas": []
   },
   {
-   "tema": "Puerto Rico",
-   "url": "https://x.com/search?q=Puerto%20Rico",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -69,6 +81,12 @@
    "temas": []
   },
   {
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
    "relevante": false,
@@ -81,26 +99,14 @@
    "temas": []
   },
   {
-   "tema": "Conti",
-   "url": "https://x.com/search?q=Conti",
+   "tema": "conti",
+   "url": "https://x.com/search?q=conti",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Stornelli",
    "url": "https://x.com/search?q=Stornelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tomÃ¡s palacios",
-   "url": "https://x.com/search?q=tom%C3%83%C2%A1s%20palacios",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "EMAE",
-   "url": "https://x.com/search?q=EMAE",
    "relevante": false,
    "temas": []
   },
@@ -115,27 +121,75 @@
    "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Gimnasia",
-   "url": "https://x.com/search?q=Gimnasia",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "la nueva",
+   "busquedas": "100+",
+   "nota": "Comenzaron los trabajos para finalizar el edificio de 25 de Mayo y Las Heras: será la sede de la Escuela de artística “Juanito Laguna”",
+   "nota_url": "https://lanuevaverdadderauch.ar/comenzaron-los-trabajos-para-finalizar-el-edificio-de-25-de-mayo-y-las-heras-sera-la-sede-de-la-escuela-de-artistica-juanito-laguna/",
+   "medio": "La Nueva Verdad de Rauch",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ashleigh barty",
+   "busquedas": "100+",
+   "nota": "No pudo ser",
+   "nota_url": "https://www.agencianova.com/contenido.asp?t=Instante-Deportivo&id=8650",
+   "medio": "Agencia NOVA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miércoles",
+   "busquedas": "200+",
+   "nota": "Christian Garavaglia anticipa el primer gran calor de la temporada en Buenos Aires: “Podríamos llegar a los 36 °C”",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/christian-garavaglia-anticipa-el-primer-gran-calor-de-la-temporada-en-buenos-aires-podriamos-llegar-a-los-36-c.html",
+   "medio": "Meteored Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "medicamento",
+   "busquedas": "200+",
+   "nota": "La Anmat retiró del mercado un spray deportivo y suspendió un medicamento para la diabetes",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/la-anmat-retiro-del-mercado-un-spray-deportivo-y-suspendio-un-medicamento-para-la-diabetes-nid25112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juan manuel sara",
+   "busquedas": "200+",
+   "nota": "Juan Manuel Sara no va a continuar en Ferro más allá del deseo dirigencial de renovar",
+   "nota_url": "https://www.vermouth-deportivo.com.ar/juan-manuel-sara-no-va-a-continuar-en-ferro-mas-alla-del-deseo-dirigencial-de-renovar/",
+   "medio": "Vermouth Deportivo",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "¿quien se fue de masterchef?",
-   "busquedas": "500+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
+   "busquedas": "1000+",
+   "nota": "El fantasma de la doble eliminación aterró a Luciana Geuna y Julieta Poggio en un mano a mano letal",
+   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/el-fantasma-de-la-doble-eliminacion-aterro-a-luciana-geuna-y-julieta-poggio-en-un-mano-a-mano-letal-pid2573014",
+   "medio": "Telefe",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "club deportivo morón",
+   "busquedas": "200+",
+   "nota": "Atención hinchas de Colón: el club explicó QUIÉNES PAGAN el bono de $10.000 y quiénes están EXENTOS",
+   "nota_url": "https://onefootball.com/es/noticias/atencion-hinchas-de-colon-el-club-explico-quienes-pagan-el-bono-de-10000-y-quienes-estan-exentos-43806732",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "álex arce",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "River Plate consultó por Álex Arce ante los problemas para encontrar un goleador",
    "nota_url": "https://lu17.com/contenido/159130/river-plate-consulto-por-alex-arce-ante-los-problemas-para-encontrar-un-goleador",
    "medio": "LA17",
@@ -144,7 +198,7 @@
   },
   {
    "tema": "avión",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "",
    "nota_url": "",
    "medio": "",
@@ -153,64 +207,10 @@
   },
   {
    "tema": "clima san luis",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Clima en San Luis hoy martes 24 de noviembre: cielo claro y temperaturas agradables",
    "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/clima-en-san-luis-hoy-martes-24-de-noviembre-cielo-claro-y-temperaturas-agradables/",
    "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "antonela roccuzzo",
-   "busquedas": "200+",
-   "nota": "El álbum que publicó Antonela Roccuzzo: la tierna foto con Lionel Messi y sus hijos, playa y un detalle en el mate que se destacó",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/25/el-album-que-publico-antonela-roccuzzo-la-tierna-foto-con-lionel-messi-y-sus-hijos-playa-y-un-detalle-en-el-mate-que-se-destaco/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "2026",
-   "busquedas": "1000+",
-   "nota": "PA Democrat, Republican leaders reflect two weeks after Blue Wave in Midterms",
-   "nota_url": "https://www.yahoo.com/news/videos/pa-democrat-republican-leaders-reflect-230658105.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fenómeno",
-   "busquedas": "500+",
-   "nota": "El impacto de El Niño esta semana en el mundo",
-   "nota_url": "https://www.clarin.com/estados-unidos/el-impacto-de-el-nino-esta-semana-en-el-mundo_0_32egkTZX0z.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "marte",
-   "busquedas": "200+",
-   "nota": "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play?",
-   "nota_url": "https://sports.yahoo.com/mlb/article/mlb-trade-candidates-to-watch-could-ketel-marte-jarren-duran-corey-seager-be-in-play-223458483.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ley",
-   "busquedas": "500+",
-   "nota": "Ley de Ludopatía: contra reloj, el oficialismo negocia con sus aliados los cambios al proyecto aprobado en Diputados",
-   "nota_url": "https://www.clarin.com/politica/ley-ludopatia-reloj-oficialismo-negocia-aliados-cambios-proyecto-aprobado-diputados_0_8fZsOSAlnR.html",
-   "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "hltv",
-   "busquedas": "100+",
-   "nota": "JASON LAKE TO RECEIVE FIRST EVER HLTV LIFETIME ACHIEVEMENT AWARD",
-   "nota_url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/jason-lake-to-receive-first-ever-hltv-lifetime-achievement-award-3483766",
-   "medio": "Mynewsdesk",
    "relevante": false,
    "temas": []
   }
