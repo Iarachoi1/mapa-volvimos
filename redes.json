@@ -1,10 +1,16 @@
 {
- "actualizado": "25/11 11:18",
+ "actualizado": "25/11 12:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
    "relevante": false,
    "temas": []
   },
@@ -15,26 +21,8 @@
    "temas": []
   },
   {
-   "tema": "#FMLUZU",
-   "url": "https://x.com/search?q=%23FMLUZU",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +33,26 @@
    "temas": []
   },
   {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
@@ -63,8 +69,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Laje",
+   "url": "https://x.com/search?q=Laje",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +87,16 @@
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
-   "relevante": false,
-   "temas": []
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
   },
   {
    "tema": "PAMI",
    "url": "https://x.com/search?q=PAMI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +107,8 @@
    "temas": []
   },
   {
-   "tema": "Virginia Luque",
-   "url": "https://x.com/search?q=Virginia%20Luque",
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
    "relevante": false,
    "temas": []
   },
@@ -111,19 +119,85 @@
    "temas": []
   },
   {
-   "tema": "El 25",
-   "url": "https://x.com/search?q=El%2025",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PigÃ¼Ã©",
-   "url": "https://x.com/search?q=Pig%C3%83%C2%BC%C3%83%C2%A9",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "dólar",
+   "busquedas": "2000+",
+   "nota": "En otro día complicado, el dólar trepa a $ 1.630 y el riesgo país salta hasta los 1.131 puntos",
+   "nota_url": "https://www.clarin.com/economia/riesgo-pais-arranca-dia-salto-llega-1131-puntos-caida-bonos-encuentra-piso_0_2nrN0uZI4Y.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "empleado público",
+   "busquedas": "200+",
+   "nota": "El Gobierno reglamentó el tope del 30% para descuentos salariales a estatales",
+   "nota_url": "https://www.eleco.com.ar/nacionales/el-gobierno-reglamento-el-tope-del-30-para-descuentos-salariales-a-estatales",
+   "medio": "El Eco",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "boca vs platense",
+   "busquedas": "200+",
+   "nota": "Copa Argentina: confirmaron la sede de la final entre Boca Juniors y Platense",
+   "nota_url": "https://www.elsol.com.ar/deportes/copa-argentina-confirmaron-la-sede-de-la-final-entre-boca-juniors-y-platense/",
+   "medio": "Diario El Sol Mendoza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "camioneta",
+   "busquedas": "5000+",
+   "nota": "Transporte inhabilitó a la conductora que hizo temerarias maniobras en Pinamar",
+   "nota_url": "https://www.gba.gob.ar/transporte/noticias/transporte_inhabilit%C3%B3_la_conductora_que_hizo_temerarias_maniobras_en_pinamar",
+   "medio": "Provincia de Buenos Aires |",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cronista",
+   "busquedas": "1000+",
+   "nota": "Luis Caputo relativizó la recesión técnica y descartó que la suba del dólar se traslade a los precios",
+   "nota_url": "https://www.filo.news/noticia/2026/11/25/luis-caputo-relativizo-la-recesion-tecnica-y-descarto-que-la-suba-del-dolar-se-traslade-a-los-precios",
+   "medio": "Filo News",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "ambito",
+   "busquedas": "500+",
+   "nota": "Patricia Bullrich le pidió a Milei cambios “quirúrgicos” en el plan económico para ganar las elecciones: “No alcanza con decir que todo mejorará en 2028\"",
+   "nota_url": "https://www.clarin.com/politica/patricia-bullrich-pidio-milei-cambios-quirurgicos-plan-economico-ganar-elecciones-alcanza-decir-mejorara-2028_0_HxiEZ2313h.html",
+   "medio": "Clarin.com",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "selección de fútbol sub-17 de dinamarca - argentina sub-17",
+   "busquedas": "2000+",
+   "nota": "Qué necesita Argentina vs. Dinamarca para clasificarse a la fase final del Mundial Sub-17 Qatar 2026",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/argentina-busca-la-clasificacion-a-la-fase-final-del-mundial-sub-17-enfrenta-a-dinamarca-en-la-ultima-fecha-del-grupo-c/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adios apache",
+   "busquedas": "1000+",
+   "nota": "Carlos Tévez confirmó a Rio Ferdinand para su partido despedida en La Bombonera",
+   "nota_url": "https://www.elliberal.com.ar/nota/98434/2026/11/carlos-tevez-confirmo-a-rio-ferdinand-para-su-partido-despedida-en-la-bombonera",
+   "medio": "El Liberal",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "selección de rugby de australia",
    "busquedas": "100+",
@@ -135,82 +209,10 @@
   },
   {
    "tema": "santiago maratea",
-   "busquedas": "200+",
-   "nota": "Santi Maratea se despidió de las redes y contó a qué se va a dedicar: “Paso a la adultez”",
-   "nota_url": "https://eldoce.tv/show/2026/11/25/santi-maratea-se-despidio-de-las-redes-y-conto-a-que-se-va-a-dedicar-paso-a-la-adultez/",
-   "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "25 de noviembre dia de la no violencia contra la mujer",
-   "busquedas": "200+",
-   "nota": "Este 25 de noviembre se vuelve a poner el foco en la violencia contra las mujeres y las herramientas para denunciarla",
-   "nota_url": "https://www.reconquistahoy.com/93848-este-25-de-noviembre-se-vuelve-a-poner-el-foco-en-la-violencia-contra-las-mujeres-y-las-herramientas-para-denunciarla",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "25n",
-   "busquedas": "100+",
-   "nota": "Santa Fe registró 46 víctimas de violencia machista en diez meses",
-   "nota_url": "https://eldepartamental.com/contenido/37582/santa-fe-registro-46-victimas-de-violencia-machista-en-diez-meses",
-   "medio": "El Departamental",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "7 de diciembre",
-   "busquedas": "2000+",
-   "nota": "Cuándo será el próximo fin de semana largo en Argentina y qué días lo conforman",
-   "nota_url": "https://www.eleco.com.ar/nacionales/cuando-sera-el-proximo-fin-de-semana-largo-en-argentina-y-que-dias-lo-conforman",
-   "medio": "El Eco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bajista",
-   "busquedas": "100+",
-   "nota": "Perspectivas de Green Rock Sinal(@Square-Creator-f11886921)",
-   "nota_url": "https://www.binance.com/es-LA/square/post/390353007912074",
-   "medio": "Binance",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "agencia central de inteligencia",
-   "busquedas": "100+",
-   "nota": "La CIA sufre un ciberataque a su información no clasificada",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/24/eeuu/cia-ciberataque-informacion-no-clasificada-trax",
-   "medio": "CNN en Español",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jennifer barreto",
-   "busquedas": "2000+",
-   "nota": "Anuncian a La India, Denise Quiñones, Didi Romero y Janina para Miss Universe Puerto Rico",
-   "nota_url": "https://www.infobae.com/video/entretenimiento/anuncian-a-la-india-denise-quinones-didi-romero-y-janina-para-miss-universe-puerto-rico/92qZ5VA4/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miguel ángel rodríguez",
-   "busquedas": "200+",
-   "nota": "El Puma Rodríguez se hartó de Joaquín Levinton y lanzó una frase en “Es mi sueño” que descolocó a todos",
-   "nota_url": "https://tn.com.ar/videos/show/television/2026/11/17/el-puma-rodriguez-se-harto-de-joaquin-levinton-y-lanzo-una-frase-en-es-mi-sueno-que-descoloco-a-todos/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mariah carey",
-   "busquedas": "100+",
-   "nota": "Mariah Carey Opens Christmas Tour in São Paulo as Twins Address Parents’ Split in Netflix Trailer",
-   "nota_url": "https://www.jubileecast.com/articles/41183/20261118/mariah-carey-opens-christmas-tour-in-s%C3%A3o-paulo-as-twins-address-parents-split-in-netflix-trailer.htm",
-   "medio": "JubileeCast",
+   "busquedas": "1000+",
+   "nota": "Santiago Maratea dejó de ser influencer, cerró sus redes y anunció su nuevo trabajo",
+   "nota_url": "https://www.lmneuquen.com/espectaculos/santiago-maratea-dejo-ser-influencer-cerro-sus-redes-y-anuncio-su-nuevo-trabajo-n1262500",
+   "medio": "Lmneuquen.com",
    "relevante": false,
    "temas": []
   }
