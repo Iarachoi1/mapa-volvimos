@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 07:53",
+ "actualizado": "25/11 08:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,26 @@
    "temas": []
   },
   {
+   "tema": "#BuenMiercoles",
+   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#FMLUZU",
+   "url": "https://x.com/search?q=%23FMLUZU",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#MissUniverse2026",
    "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +45,14 @@
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +69,8 @@
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
@@ -69,38 +81,20 @@
    "temas": []
   },
   {
-   "tema": "Paloma",
-   "url": "https://x.com/search?q=Paloma",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Newell",
-   "url": "https://x.com/search?q=Newell",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Puerto Rico",
    "url": "https://x.com/search?q=Puerto%20Rico",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Paloma",
+   "url": "https://x.com/search?q=Paloma",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#COERSelcaDay",
-   "url": "https://x.com/search?q=%23COERSelcaDay",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "conti",
-   "url": "https://x.com/search?q=conti",
+   "tema": "Conti",
+   "url": "https://x.com/search?q=Conti",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Instituto",
-   "url": "https://x.com/search?q=Instituto",
+   "tema": "Newell",
+   "url": "https://x.com/search?q=Newell",
    "relevante": false,
    "temas": []
   },
@@ -121,15 +115,48 @@
    "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Instituto",
+   "url": "https://x.com/search?q=Instituto",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
+   "tema": "agencia central de inteligencia",
+   "busquedas": "100+",
+   "nota": "La CIA sufre un ciberataque a su información no clasificada",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/24/eeuu/cia-ciberataque-informacion-no-clasificada-trax",
+   "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mariah carey",
+   "busquedas": "100+",
+   "nota": "Mariah Carey Opens Christmas Tour in São Paulo as Twins Address Parents’ Split in Netflix Trailer",
+   "nota_url": "https://www.jubileecast.com/articles/41183/20261118/mariah-carey-opens-christmas-tour-in-s%C3%A3o-paulo-as-twins-address-parents-split-in-netflix-trailer.htm",
+   "medio": "JubileeCast",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miguel ángel rodríguez",
+   "busquedas": "100+",
+   "nota": "El Puma Rodríguez estalló contra Joaquín Levinton en Es mi sueño y protagonizaron un tenso cruce: “Mentira”",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/17/el-puma-rodriguez-estallo-contra-joaquin-levinton-en-es-mi-sueno-y-protagonizaron-un-tenso-cruce-mentira/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "la nueva",
    "busquedas": "100+",
-   "nota": "Comenzaron los trabajos para finalizar el edificio de 25 de Mayo y Las Heras: será la sede de la Escuela de artística “Juanito Laguna”",
-   "nota_url": "https://lanuevaverdadderauch.ar/comenzaron-los-trabajos-para-finalizar-el-edificio-de-25-de-mayo-y-las-heras-sera-la-sede-de-la-escuela-de-artistica-juanito-laguna/",
-   "medio": "La Nueva Verdad de Rauch",
+   "nota": "La nueva vida del Papu Gómez y Linda Raff junto a sus tres hijos en Emiratos Árabes, lejos de las luces: “Mi equipo”",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/24/la-nueva-vida-del-papu-gomez-y-linda-raff-junto-a-sus-tres-hijos-en-emiratos-arabes-lejos-de-las-luces-mi-equipo/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -143,74 +170,47 @@
    "temas": []
   },
   {
-   "tema": "miércoles",
-   "busquedas": "200+",
-   "nota": "Christian Garavaglia anticipa el primer gran calor de la temporada en Buenos Aires: “Podríamos llegar a los 36 °C”",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/christian-garavaglia-anticipa-el-primer-gran-calor-de-la-temporada-en-buenos-aires-podriamos-llegar-a-los-36-c.html",
-   "medio": "Meteored Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "medicamento",
-   "busquedas": "200+",
-   "nota": "La Anmat retiró del mercado un spray deportivo y suspendió un medicamento para la diabetes",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/la-anmat-retiro-del-mercado-un-spray-deportivo-y-suspendio-un-medicamento-para-la-diabetes-nid25112026/",
-   "medio": "La Nación",
+   "busquedas": "500+",
+   "nota": "ANMAT prohibió un spray frío para deportistas y sacó del mercado un antidiabético por riesgo cardíaco",
+   "nota_url": "https://www.ambito.com/informacion-general/anmat-prohibio-un-spray-frio-deportistas-y-saco-del-mercado-un-antidiabetico-riesgo-cardiaco-n6349002",
+   "medio": "Ambito",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "juan manuel sara",
    "busquedas": "200+",
-   "nota": "Juan Manuel Sara no va a continuar en Ferro más allá del deseo dirigencial de renovar",
-   "nota_url": "https://www.vermouth-deportivo.com.ar/juan-manuel-sara-no-va-a-continuar-en-ferro-mas-alla-del-deseo-dirigencial-de-renovar/",
-   "medio": "Vermouth Deportivo",
+   "nota": "Después de perder el ascenso a Primera, Sara pegó el portazo y se va de Ferro (mobile)",
+   "nota_url": "https://mendoza24.com.ar/noticias_argentina/38400-Despues-de-perder-el-ascenso-a-Primera-Sara-pego-el-portazo-y-se-va-de-Ferro",
+   "medio": "mendoza24.com.ar",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "¿quien se fue de masterchef?",
    "busquedas": "1000+",
-   "nota": "El fantasma de la doble eliminación aterró a Luciana Geuna y Julieta Poggio en un mano a mano letal",
-   "nota_url": "https://www.mitelefe.com/masterchef-celebrity/noticias/el-fantasma-de-la-doble-eliminacion-aterro-a-luciana-geuna-y-julieta-poggio-en-un-mano-a-mano-letal-pid2573014",
-   "medio": "Telefe",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club deportivo morón",
-   "busquedas": "200+",
-   "nota": "Atención hinchas de Colón: el club explicó QUIÉNES PAGAN el bono de $10.000 y quiénes están EXENTOS",
-   "nota_url": "https://onefootball.com/es/noticias/atencion-hinchas-de-colon-el-club-explico-quienes-pagan-el-bono-de-10000-y-quienes-estan-exentos-43806732",
-   "medio": "OneFootball",
+   "tema": "voyager 1",
+   "busquedas": "100+",
+   "nota": "Voyager’s cosmic map of Earth’s location: Cute, but wrong",
+   "nota_url": "https://bigthink.com/starts-with-a-bang/voyager-cosmic-map-wrong/",
+   "medio": "Big Think",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "álex arce",
-   "busquedas": "200+",
-   "nota": "River Plate consultó por Álex Arce ante los problemas para encontrar un goleador",
-   "nota_url": "https://lu17.com/contenido/159130/river-plate-consulto-por-alex-arce-ante-los-problemas-para-encontrar-un-goleador",
-   "medio": "LA17",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión",
-   "busquedas": "500+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima san luis",
-   "busquedas": "500+",
-   "nota": "Clima en San Luis hoy martes 24 de noviembre: cielo claro y temperaturas agradables",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/clima-en-san-luis-hoy-martes-24-de-noviembre-cielo-claro-y-temperaturas-agradables/",
-   "medio": "TN",
+   "tema": "tomás palacios",
+   "busquedas": "2000+",
+   "nota": "River tiene negociaciones avanzadas por Tomás Palacios, defensor de Inter que juega en Estudiantes",
+   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/river-tiene-negociaciones-avanzadas-por-tomas-palacios-defensor-de-inter-que-juega-en-estudiantes",
+   "medio": "La Página Millonaria",
    "relevante": false,
    "temas": []
   }
