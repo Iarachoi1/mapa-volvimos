@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 16:46",
+ "actualizado": "25/11 17:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -35,20 +35,8 @@
    "temas": []
   },
   {
-   "tema": "Dinamarca",
-   "url": "https://x.com/search?q=Dinamarca",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Diego Armando Maradona",
    "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -59,14 +47,8 @@
    "temas": []
   },
   {
-   "tema": "Policella",
-   "url": "https://x.com/search?q=Policella",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "RecesiÃ³n",
-   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -77,20 +59,8 @@
    "temas": []
   },
   {
-   "tema": "#ElZorro",
-   "url": "https://x.com/search?q=%23ElZorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Placente",
-   "url": "https://x.com/search?q=Placente",
+   "tema": "RecesiÃ³n",
+   "url": "https://x.com/search?q=Recesi%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -101,9 +71,39 @@
    "temas": []
   },
   {
-   "tema": "Ambrosetti",
-   "url": "https://x.com/search?q=Ambrosetti",
+   "tema": "Garrahan",
+   "url": "https://x.com/search?q=Garrahan",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Dinamarca",
+   "url": "https://x.com/search?q=Dinamarca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ElZorro",
+   "url": "https://x.com/search?q=%23ElZorro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roma",
+   "url": "https://x.com/search?q=Roma",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
    "temas": []
   },
   {
@@ -113,107 +113,107 @@
    "temas": []
   },
   {
-   "tema": "#BuenMiercoles",
-   "url": "https://x.com/search?q=%23BuenMiercoles",
+   "tema": "Policella",
+   "url": "https://x.com/search?q=Policella",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Alan Alcaraz",
-   "url": "https://x.com/search?q=Alan%20Alcaraz",
+   "tema": "SoulÃ©",
+   "url": "https://x.com/search?q=Soul%C3%83%C2%A9",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "psg",
+   "tema": "herencia",
    "busquedas": "500+",
-   "nota": "Les onze de départ sont connus pour PSG-AS Rome et Lille-Bayern",
-   "nota_url": "https://www.flashscore.fr/actualites/les-compositions-officielles-de-psg-as-rome-et-lille-bayern-munich/Sxc6LoOj/",
-   "medio": "Flashscore.fr",
+   "nota": "El exprometido de Hayden Panettiere, Wladimir Klitschko, estima el patrimonio de la actriz en 5,7 millones de euros",
+   "nota_url": "https://elpais.com/gente/2026-11-25/el-exprometido-de-hayden-panettiere-wladimir-klitschko-estima-el-patrimonio-de-la-actriz-en-57-millones-de-euros.html",
+   "medio": "EL PAÍS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "club brujas - liverpool",
-   "busquedas": "1000+",
-   "nota": "Ryan Gravenberch and Cody Gakpo injury update",
-   "nota_url": "https://www.liverpoolfc.com/news/ryan-gravenberch-and-cody-gakpo-injury-update",
-   "medio": "Liverpool FC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "stellantis",
-   "busquedas": "100+",
-   "nota": "Con el foco en las exportaciones, Stellantis inauguró una planta de motores para equipar 11 vehículos de producción regional",
-   "nota_url": "https://www.infobae.com/economia/2026/11/25/con-el-foco-en-las-exportaciones-stellantis-inauguro-una-planta-de-motores-para-equipar-11-vehiculos-de-produccion-regional/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sporting lisboa - manchester united",
-   "busquedas": "2000+",
-   "nota": "Sporting Lisboa vs. Manchester United - EN VIVO: minuto a minuto del partido de Luis Suárez en la Champions League",
-   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/25/sporting-lisboa-vs-manchester-united-en-vivo-minuto-a-minuto-del-partido-de-luis-suarez-en-la-champions-league/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "losc - bayern",
-   "busquedas": "1000+",
-   "nota": "Ethan Mbappé de retour après sa suspension, Kompany fait tourner : les compositions de Lille-Bayern Munich en Ligue des champions",
-   "nota_url": "https://www.lequipe.fr/Football/Actualites/Ethan-mbappe-de-retour-apres-sa-suspension-kompany-fait-tourner-les-compositions-de-lille-bayern-munich-en-ligue-des-champions/1746157",
-   "medio": "L'Équipe",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inter - stuttgart",
-   "busquedas": "1000+",
-   "nota": "„Habe ich in der Vorbereitung auf das Spiel erfahren“",
-   "nota_url": "https://www.sport1.de/tv-video/video/hoeness-habe-ich-in-der-vorbereitung-auf-das-spiel-erfahren__e876b761-18d2-4c02-b089-2a17b60042b1",
-   "medio": "SPORT1",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "región sur de brasil",
+   "tema": "atletico de madrid",
    "busquedas": "200+",
-   "nota": "Río Uruguay: repuntaron los caudales en las represas de Brasil",
-   "nota_url": "https://www.analisisdigital.com.ar/interes-general/2026/11/25/rio-uruguay-repuntaron-los-caudales-en-las-represas-de-brasil",
-   "medio": "Análisis Digital",
+   "nota": "Atlético - Viking, en directo: última hora de la fase liga de la Champions League, hoy en vivo",
+   "nota_url": "https://as.com/futbol/champions/atletico-viking-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-f202611-d/",
+   "medio": "Diario AS",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pep guardiola",
+   "tema": "cristina fernández de kirchner",
+   "busquedas": "200+",
+   "nota": "Atentado contra Cristina Kirchner: Casación fijó audiencia para revisar el agravante de violencia de género",
+   "nota_url": "https://www.infobae.com/politica/2026/11/23/atentado-contra-cristina-kirchner-casacion-fijo-audiencia-para-revisar-el-agravante-de-violencia-de-genero/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "provincias unidas",
    "busquedas": "100+",
-   "nota": "Guardiola confesó por qué nunca intentó llevarse a Messi de Barcelona",
-   "nota_url": "https://www.tycsports.com/futbol-internacional/pep-guardiola-messi-barcelona--id772867.html",
-   "medio": "TyC Sports",
+   "nota": "Quirno cenó en lo de Mirtha. ¡Y atragantó a Lula!",
+   "nota_url": "https://www.clarin.com/opinion/quirno-mirtha-atraganto-lula_0_Tp2Byplwrf.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "atlético madrid - viking",
-   "busquedas": "5000+",
-   "nota": "Atletico Madrid's flawless record against Norwegian sides ended by Bodo",
-   "nota_url": "https://www.besoccer.com/new/atletico-madrids-flawless-record-against-norwegian-sides-ended-by-bodo-1443245",
-   "medio": "BeSoccer Livescore",
+   "tema": "inter",
+   "busquedas": "1000+",
+   "nota": "Internazionale have scored in 8 consecutive Champions League games, one short of club record",
+   "nota_url": "https://www.allfootballapp.com/articles/6078272-internazionale-have-scored-8-consecutive-champions",
+   "medio": "AllFootball",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "psg - roma",
-   "busquedas": "2000+",
-   "nota": "PSG vs Roma, en vivo, por la Champions League: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/25/psg-vs-roma-en-vivo-por-la-fecha-5-de-la-champions-league-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
+   "tema": "posiciones de slavia praga contra villarreal club de fútbol",
+   "busquedas": "500+",
+   "nota": "Licensable picture: UEFA Champions League - Slavia Prague v Villarreal",
+   "nota_url": "https://www.reutersconnect.com/item/uefa-champions-league-slavia-prague-v-villarreal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxRk80Q1U",
+   "medio": "Reuters Connect",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ypf",
+   "busquedas": "200+",
+   "nota": "Juicio por YPF: Burford exige U$S 14.400 millones a la Argentina en una nueva demanda ante el Ciadi",
+   "nota_url": "https://www.lavoz.com.ar/politica/juicio-ypf-burford-exige-us-14400-millones-argentina-nueva-demanda-ciadi_0_CbRLyAaNWK.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "roma",
+   "busquedas": "200+",
+   "nota": "Inter e Roma, le formazioni ufficiali in Champions: fuori Dimarco e Malen! Le scelte su Thuram, Lautaro e Dybala",
+   "nota_url": "https://www.sosfanta.com/squadra/inter/inter-e-roma-le-formazioni-ufficiali-in-champions-fuori-dimarco-e-malen-le-scelte-su-thuram-lautaro-e-dybala/",
+   "medio": "SOS Fanta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fenerbahçe",
+   "busquedas": "100+",
+   "nota": "Fenerbahçe maçı bugün saat kaçta, hangi kanalda? Fenerbahçe bugün kiminle oynuyor?",
+   "nota_url": "https://www.haberler.com/haber/fenerbahce-maci-bugun-saat-kacta-hangi-kanalda-20462190-haberi/",
+   "medio": "Haberler",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "asociación bancaria",
+   "busquedas": "100+",
+   "nota": "Paro bancario confirmado: qué sucursales cerrarán y va qué pasará con los pagos de diciembre 2026",
+   "nota_url": "https://www.elobservador.com/argentina/economia/paro-bancario-confirmado-que-sucursales-cerraran-y-va-que-pasara-los-pagos-diciembre-2026-n6065065",
+   "medio": "El Observador Argentina",
+   "relevante": true,
    "temas": []
   }
  ],
