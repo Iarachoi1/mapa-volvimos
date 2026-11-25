@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 00:51",
+ "actualizado": "25/11 01:56",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,6 +21,18 @@
    "temas": []
   },
   {
+   "tema": "Venezuela",
+   "url": "https://x.com/search?q=Venezuela",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Puerto Rico",
+   "url": "https://x.com/search?q=Puerto%20Rico",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
    "relevante": false,
@@ -33,8 +45,26 @@
    "temas": []
   },
   {
+   "tema": "Robertito",
+   "url": "https://x.com/search?q=Robertito",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Garrahan",
    "url": "https://x.com/search?q=Garrahan",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Clara",
+   "url": "https://x.com/search?q=Clara",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Nueva Zelanda",
+   "url": "https://x.com/search?q=Nueva%20Zelanda",
    "relevante": false,
    "temas": []
   },
@@ -51,14 +81,32 @@
    "temas": []
   },
   {
-   "tema": "Newell",
-   "url": "https://x.com/search?q=Newell",
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "#FelizCumpleBauti",
+   "url": "https://x.com/search?q=%23FelizCumpleBauti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Filipinas",
+   "url": "https://x.com/search?q=Filipinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MFlowDisrespectsArgentina",
+   "url": "https://x.com/search?q=%23MFlowDisrespectsArgentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Newell",
+   "url": "https://x.com/search?q=Newell",
    "relevante": false,
    "temas": []
   },
@@ -71,58 +119,6 @@
   {
    "tema": "Conti",
    "url": "https://x.com/search?q=Conti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#FelizCumpleBauti",
-   "url": "https://x.com/search?q=%23FelizCumpleBauti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "CABA",
-   "url": "https://x.com/search?q=CABA",
-   "relevante": true,
-   "temas": [
-    "Ciudad"
-   ]
-  },
-  {
-   "tema": "Gimnasia",
-   "url": "https://x.com/search?q=Gimnasia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "Geuna",
-   "url": "https://x.com/search?q=Geuna",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Stornelli",
-   "url": "https://x.com/search?q=Stornelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Instituto",
-   "url": "https://x.com/search?q=Instituto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "PerÃ³n",
-   "url": "https://x.com/search?q=Per%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   }
@@ -140,24 +136,24 @@
   {
    "tema": "luciana geuna",
    "busquedas": "200+",
-   "nota": "Quién fue eliminada de MasterChef Celebrity este martes 24 de noviembre",
-   "nota_url": "https://tn.com.ar/show/television/2026/11/25/quien-fue-eliminada-de-masterchef-celebrity-este-martes-24-de-noviembre/",
-   "medio": "TN",
+   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
+   "medio": "Ciudad Magazine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "25 de noviembre",
    "busquedas": "100+",
-   "nota": "Horóscopo del miércoles 25 de noviembre: las predicciones para los 12 signos del zodiaco",
-   "nota_url": "https://www.eleco.com.ar/horoscopo/horoscopo-del-miercoles-25-de-noviembre-las-predicciones-para-los-12-signos-del-zodiaco",
-   "medio": "El Eco",
+   "nota": "Horóscopo para miércoles 25 de noviembre de Las Estrellas de Walter Mercado",
+   "nota_url": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article318154090.html",
+   "medio": "El Nuevo Herald",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - mavericks",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Mavericks’ Gafford: Jokić Will Take ‘Every Ounce Of Energy’",
    "nota_url": "https://dallassportsjournal.com/daniel-gafford-nikola-jokic-mavericks-nuggets/",
    "medio": "Dallas Hoops Journal",
@@ -166,10 +162,21 @@
   },
   {
    "tema": "policía",
-   "busquedas": "1000+",
-   "nota": "Tenso enfrentamiento entre la Policía y vecinos de Caballito luego de que le quitaran el deck a un comerciante: hay un detenido",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/tenso-enfrentamiento-entre-la-policia-y-vecinos-de-caballito-luego-de-que-le-quitaran-el-deck-a-un-nid24112026/",
-   "medio": "La Nación",
+   "busquedas": "2000+",
+   "nota": "Habló el dueño del bar de Caballito donde hubo enfrentamientos con la Policía de la Ciudad: “Abrí hace un mes y me rompieron el negocio”",
+   "nota_url": "https://tn.com.ar/policiales/2026/11/24/hablo-el-dueno-del-bar-de-caballito-donde-hubo-enfrentamientos-con-la-policia-abri-hace-un-mes-y-me-rompieron-el-negocio/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
+   "tema": "tribunal de casación",
+   "busquedas": "200+",
+   "nota": "Una guerra de recusaciones dejó complicado a Milei en el caso Libra",
+   "nota_url": "https://www.lapoliticaonline.com/judiciales/la-guerra-de-recusaciones-por-el-caso-libra-perjudica-a-milei-ledesma-y-yacobucci-seguiran-en-la-causa/",
+   "medio": "La Política Online",
    "relevante": true,
    "temas": []
   },
@@ -180,15 +187,6 @@
    "nota_url": "https://www.flocheer.com/events/16460227-2026-gmce-royal-rumble",
    "medio": "FloCheer",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tribunal de casación",
-   "busquedas": "200+",
-   "nota": "Una guerra de recusaciones dejó complicado a Milei en el caso Libra",
-   "nota_url": "https://www.lapoliticaonline.com/judiciales/la-guerra-de-recusaciones-por-el-caso-libra-perjudica-a-milei-ledesma-y-yacobucci-seguiran-en-la-causa/",
-   "medio": "La Política Online",
-   "relevante": true,
    "temas": []
   },
   {
@@ -203,9 +201,9 @@
   {
    "tema": "barbie simons",
    "busquedas": "2000+",
-   "nota": "La revelación de Barbie Simons que descolocó por completo a Mario Pergolini en Otro día perdido: “Me pasó con vos”",
-   "nota_url": "https://la100.cienradios.com/videos/la-revelacion-de-barbie-simons-que-descoloco-por-completo-a-mario-pergolini-en-otro-dia-perdido-me-paso-con-vos/",
-   "medio": "La 100",
+   "nota": "La fuerte confesión de Barbie Simons que sorprendió a Mario Pergolini en Otro Día Perdido: “Eras el chico malo, rebelde”",
+   "nota_url": "https://radiomitre.cienradios.com/videos/la-fuerte-confesion-de-barbie-simons-que-sorprendio-a-mario-pergolini-en-otro-dia-perdido-eras-el-chico-malo-rebelde/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
