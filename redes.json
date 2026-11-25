@@ -1,5 +1,5 @@
 {
- "actualizado": "24/11 23:12",
+ "actualizado": "25/11 00:51",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,8 +9,14 @@
    "temas": []
   },
   {
-   "tema": "Robertito",
-   "url": "https://x.com/search?q=Robertito",
+   "tema": "#MissUniverse2026",
+   "url": "https://x.com/search?q=%23MissUniverse2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -33,22 +39,8 @@
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "Newell",
-   "url": "https://x.com/search?q=Newell",
+   "tema": "HOY JUEGA BOCA",
+   "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
    "relevante": false,
    "temas": []
   },
@@ -59,8 +51,14 @@
    "temas": []
   },
   {
-   "tema": "#CampanitaXMultitalent",
-   "url": "https://x.com/search?q=%23CampanitaXMultitalent",
+   "tema": "Newell",
+   "url": "https://x.com/search?q=Newell",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "River",
+   "url": "https://x.com/search?q=River",
    "relevante": false,
    "temas": []
   },
@@ -77,44 +75,48 @@
    "temas": []
   },
   {
+   "tema": "#FelizCumpleBauti",
+   "url": "https://x.com/search?q=%23FelizCumpleBauti",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "CABA",
+   "url": "https://x.com/search?q=CABA",
+   "relevante": true,
+   "temas": [
+    "Ciudad"
+   ]
+  },
+  {
    "tema": "Gimnasia",
    "url": "https://x.com/search?q=Gimnasia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "River",
-   "url": "https://x.com/search?q=River",
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
+  },
+  {
+   "tema": "Geuna",
+   "url": "https://x.com/search?q=Geuna",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Crostita",
-   "url": "https://x.com/search?q=Crostita",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "TomÃ¡s Palacios",
-   "url": "https://x.com/search?q=Tom%C3%83%C2%A1s%20Palacios",
+   "tema": "Stornelli",
+   "url": "https://x.com/search?q=Stornelli",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Instituto",
    "url": "https://x.com/search?q=Instituto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#gaudiosehunde",
-   "url": "https://x.com/search?q=%23gaudiosehunde",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "EMAE",
-   "url": "https://x.com/search?q=EMAE",
    "relevante": false,
    "temas": []
   },
@@ -127,92 +129,92 @@
  ],
  "google": [
   {
-   "tema": "nadia márquez",
-   "busquedas": "100+",
-   "nota": "Presentaron un pedido de impugnación contra Nadia Márquez para el Consejo de la Magistratura",
-   "nota_url": "https://www.lmneuquen.com/neuquen/presentaron-un-pedido-impugnacion-contra-nadia-marquez-e-consejo-la-magistratura-n1262491",
-   "medio": "Lmneuquen.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "samsung galaxy s26",
-   "busquedas": "100+",
-   "nota": "Galaxy S27 Pro Geekbench: 3,061 and 10,967 Scores",
-   "nota_url": "https://shattered.io/galaxy-s27-pro-geekbench-sm-s957b-exynos-2700-3061-10967/",
-   "medio": "shattered.io",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "escándalo",
+   "tema": "maradona",
    "busquedas": "200+",
-   "nota": "Fiscalía paraguaya acusa a expresidente Peña por lavado de activos y cohecho por Ueno bank",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/24/fiscalia-paraguaya-acusa-a-expresidente-pena-por-lavado-de-activos-y-cohecho-por-ueno-bank/",
-   "medio": "Infobae",
+   "nota": "El día que se detuvo el fútbol: el adiós eterno a Diego Armando Maradona",
+   "nota_url": "https://radiomitre.cienradios.com/efemerides/el-dia-que-se-detuvo-el-futbol-el-adios-eterno-a-diego-armando-maradona/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "miss universo argentina",
-   "busquedas": "100+",
-   "nota": "La participación de la representante de Argentina en Miss Universo: el look con símbolos patrios que lució en la pasarela",
-   "nota_url": "https://www.infobae.com/tendencias/2026/11/23/la-presentacion-de-la-representante-de-argentina-en-miss-universo-el-look-con-simbolos-patrios-que-lucio-en-la-pasarela/",
-   "medio": "Infobae",
+   "tema": "luciana geuna",
+   "busquedas": "200+",
+   "nota": "Quién fue eliminada de MasterChef Celebrity este martes 24 de noviembre",
+   "nota_url": "https://tn.com.ar/show/television/2026/11/25/quien-fue-eliminada-de-masterchef-celebrity-este-martes-24-de-noviembre/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "camionero",
+   "tema": "25 de noviembre",
    "busquedas": "100+",
-   "nota": "Camionero argentino dijo que le robaron una carga de $120 millones tras secuestrarlo en Chile, pero era cómplice: hay 7 detenidos",
-   "nota_url": "https://www.losandes.com.ar/policiales/camionero-argentino-dijo-que-le-robaron-una-carga-120-millones-secuestrarlo-chile-pero-era-complice-hay-7-detenidos-n6015445",
-   "medio": "Los Andes",
+   "nota": "Horóscopo del miércoles 25 de noviembre: las predicciones para los 12 signos del zodiaco",
+   "nota_url": "https://www.eleco.com.ar/horoscopo/horoscopo-del-miercoles-25-de-noviembre-las-predicciones-para-los-12-signos-del-zodiaco",
+   "medio": "El Eco",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "patricia bullrich",
-   "busquedas": "100+",
-   "nota": "Patricia Bullrich no quiere ser Victoria Villarruel: apuesta a la Presidencia o seguir como senadora",
-   "nota_url": "https://www.ambito.com/politica/patricia-bullrich-no-quiere-ser-victoria-villarruel-apuesta-la-presidencia-o-seguir-como-senadora-n6348603",
-   "medio": "Ambito",
+   "tema": "nuggets - mavericks",
+   "busquedas": "200+",
+   "nota": "Mavericks’ Gafford: Jokić Will Take ‘Every Ounce Of Energy’",
+   "nota_url": "https://dallassportsjournal.com/daniel-gafford-nikola-jokic-mavericks-nuggets/",
+   "medio": "Dallas Hoops Journal",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "policía",
+   "busquedas": "1000+",
+   "nota": "Tenso enfrentamiento entre la Policía y vecinos de Caballito luego de que le quitaran el deck a un comerciante: hay un detenido",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/tenso-enfrentamiento-entre-la-policia-y-vecinos-de-caballito-luego-de-que-le-quitaran-el-deck-a-un-nid24112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "boca mañana",
-   "busquedas": "2000+",
-   "nota": "La formación de Boca vs. Independiente Rivadavia por el Torneo Clausura 2026",
-   "nota_url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17555562/la-formacion-de-boca-vs-independiente-rivadavia-torneo-clausura-2026-octavos-final",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "universal+",
+   "tema": "rumble",
    "busquedas": "200+",
-   "nota": "La India habla sobre su presentación musical para la gala de Miss Universo",
-   "nota_url": "https://www.infobae.com/video/entretenimiento/la-india-habla-sobre-su-presentacion-musical-para-la-gala-de-miss-universo/RyQezIHN/",
+   "nota": "2026 GMCE - Royal Rumble",
+   "nota_url": "https://www.flocheer.com/events/16460227-2026-gmce-royal-rumble",
+   "medio": "FloCheer",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tribunal de casación",
+   "busquedas": "200+",
+   "nota": "Una guerra de recusaciones dejó complicado a Milei en el caso Libra",
+   "nota_url": "https://www.lapoliticaonline.com/judiciales/la-guerra-de-recusaciones-por-el-caso-libra-perjudica-a-milei-ledesma-y-yacobucci-seguiran-en-la-causa/",
+   "medio": "La Política Online",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "pampita",
+   "busquedas": "200+",
+   "nota": "Pampita contó qué pasó con el fallido posteo de la China Suárez que subió y borró a los pocos segundos",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/23/pampita-conto-que-paso-con-el-fallido-posteo-de-la-china-suarez-que-subio-y-borro-a-los-pocos-segundos/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "telemundo en vivo",
+   "tema": "barbie simons",
    "busquedas": "2000+",
-   "nota": "Gran final de Miss Universo 2026 EN VIVO: Estas son las 30 finalistas que están más cerca de la corona",
-   "nota_url": "https://www.infobae.com/entretenimiento/2026/11/24/gran-final-de-miss-universo-2026-en-vivo-todos-los-detalles-de-la-ultima-etapa-del-certamen-de-belleza/",
-   "medio": "Infobae",
+   "nota": "La revelación de Barbie Simons que descolocó por completo a Mario Pergolini en Otro día perdido: “Me pasó con vos”",
+   "nota_url": "https://la100.cienradios.com/videos/la-revelacion-de-barbie-simons-que-descoloco-por-completo-a-mario-pergolini-en-otro-dia-perdido-me-paso-con-vos/",
+   "medio": "La 100",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "américa - deportivo cali",
-   "busquedas": "500+",
-   "nota": "América vs. Deportivo Cali - EN VIVO Cuadrangulares Liga BetPlay: minuto a minuto del clásico vallecaucano",
-   "nota_url": "https://www.infobae.com/colombia/deportes/2026/11/24/america-vs-deportivo-cali-en-vivo-cuadrangulares-liga-betplay-minuto-a-minuto-del-clasico-vallecaucano/",
-   "medio": "Infobae",
+   "tema": "helicóptero",
+   "busquedas": "200+",
+   "nota": "Joe Lewis aterrizó en Bariloche en un Airbus y volvió a escena la pista qatarí",
+   "nota_url": "https://realpolitik.com.ar/nota/75412/joe-lewis-aterrizo-en-bariloche-en-un-airbus-y-volvio-a-escena-la-pista-qatari/",
+   "medio": "REALPOLITIK",
    "relevante": false,
    "temas": []
   }
