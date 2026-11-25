@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 02:53",
+ "actualizado": "25/11 03:56",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,26 +21,8 @@
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Venezuela",
-   "url": "https://x.com/search?q=Venezuela",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Videla",
    "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Clara",
-   "url": "https://x.com/search?q=Clara",
    "relevante": false,
    "temas": []
   },
@@ -57,26 +39,14 @@
    "temas": []
   },
   {
+   "tema": "Clara",
+   "url": "https://x.com/search?q=Clara",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Robertito",
    "url": "https://x.com/search?q=Robertito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Filipinas",
-   "url": "https://x.com/search?q=Filipinas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nueva Zelanda",
-   "url": "https://x.com/search?q=Nueva%20Zelanda",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Dominicana",
-   "url": "https://x.com/search?q=Dominicana",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +57,14 @@
    "temas": []
   },
   {
-   "tema": "#FelizCumpleBauti",
-   "url": "https://x.com/search?q=%23FelizCumpleBauti",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "PAMI",
    "url": "https://x.com/search?q=PAMI",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MFlowDisrespectsArgentina",
-   "url": "https://x.com/search?q=%23MFlowDisrespectsArgentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Newell",
-   "url": "https://x.com/search?q=Newell",
+   "tema": "Venezuela",
+   "url": "https://x.com/search?q=Venezuela",
    "relevante": false,
    "temas": []
   },
@@ -117,46 +75,97 @@
    "temas": []
   },
   {
+   "tema": "Newell",
+   "url": "https://x.com/search?q=Newell",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "HOY JUEGA BOCA",
    "url": "https://x.com/search?q=HOY%20JUEGA%20BOCA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Dominicana",
+   "url": "https://x.com/search?q=Dominicana",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Filipinas",
+   "url": "https://x.com/search?q=Filipinas",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Stornelli",
+   "url": "https://x.com/search?q=Stornelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "EMAE",
+   "url": "https://x.com/search?q=EMAE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#COERSelcaDay",
+   "url": "https://x.com/search?q=%23COERSelcaDay",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "cocinero",
+   "busquedas": "100+",
+   "nota": "Murió el cocinero del negocio de Ezpeleta que explotó el domingo durante un festejo",
+   "nota_url": "https://www.clarin.com/sociedad/murio-cocinero-negocio-ezpeleta-exploto-domingo-festejo_0_KGEAdZezlZ.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "maradona",
    "busquedas": "500+",
-   "nota": "El día que se detuvo el fútbol: el adiós eterno a Diego Armando Maradona",
-   "nota_url": "https://radiomitre.cienradios.com/efemerides/el-dia-que-se-detuvo-el-futbol-el-adios-eterno-a-diego-armando-maradona/",
-   "medio": "Radio Mitre",
+   "nota": "Paso a la inmortalidad de Diego Maradona: un rosarino creó un videojuego para homenajearlo",
+   "nota_url": "https://www.lacapital.com.ar/la-ciudad/paso-la-inmortalidad-diego-maradona-un-rosarino-creo-un-videojuego-homenajearlo-n10293962.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "luciana geuna",
    "busquedas": "200+",
-   "nota": "MasterChef Celebrity: qué PARTICIPANTE fue ELIMINADA por el jurado este martes",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/24/quien-se-fue-este-martes-de-masterchef-celebrity-en-la-gala-de-eliminacion/",
-   "medio": "Ciudad Magazine",
+   "nota": "MasterChef Celebrity: quién fue eliminado, este martes 24 de noviembre",
+   "nota_url": "https://www.clarin.com/fama/masterchef-celebrity-eliminado-martes-24-noviembre_0_k54MsODURm.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "25 de noviembre",
    "busquedas": "100+",
-   "nota": "Horóscopo para miércoles 25 de noviembre de Las Estrellas de Walter Mercado",
-   "nota_url": "https://www.elnuevoherald.com/entretenimiento/walter-mercado/article318154090.html",
-   "medio": "El Nuevo Herald",
+   "nota": "Horóscopo de hoy: descubre qué te depara el universo este miércoles 25 de noviembre de 2026",
+   "nota_url": "https://www.lavoz.com.ar/viral/horoscopo-hoy-descubre-depara-universo-miercoles-25-noviembre-2026_0_Z1MzJZnbuR.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nuggets - mavericks",
    "busquedas": "500+",
-   "nota": "Dr. Ramos & Zach Bye discuss Julian Strawther’s knee sprain & road to recovery | Injury Insights",
-   "nota_url": "https://denversports.com/watch/dr-ramos-and-zach-bye-discuss-julian-strawthers-knee-sprain-and-road-to-recovery-injury-insights/01a20faf-6678-8008-e8fb-1d695428692a",
-   "medio": "Denver Sports 104.3 The Fan",
+   "nota": "Cooper Flagg News: Double-doubles in win",
+   "nota_url": "https://www.rotowire.com/basketball/headlines/cooper-flagg-news-double-doubles-in-win-540896",
+   "medio": "RotoWire",
    "relevante": false,
    "temas": []
   },
@@ -174,10 +183,10 @@
   {
    "tema": "tribunal de casación",
    "busquedas": "200+",
-   "nota": "Una guerra de recusaciones dejó complicado a Milei en el caso Libra",
-   "nota_url": "https://www.lapoliticaonline.com/judiciales/la-guerra-de-recusaciones-por-el-caso-libra-perjudica-a-milei-ledesma-y-yacobucci-seguiran-en-la-causa/",
-   "medio": "La Política Online",
-   "relevante": true,
+   "nota": "$LIBRA: dos jueces de Casación se negaron a dar un paso al costado en una decisión clave para la causa",
+   "nota_url": "https://www.infobae.com/judiciales/2026/11/24/libra-dos-jueces-de-casacion-se-negaron-a-dar-un-paso-al-costado-en-una-decision-clave-para-la-causa/",
+   "medio": "Infobae",
+   "relevante": false,
    "temas": []
   },
   {
@@ -201,18 +210,9 @@
   {
    "tema": "barbie simons",
    "busquedas": "2000+",
-   "nota": "La fuerte confesión de Barbie Simons que sorprendió a Mario Pergolini en Otro Día Perdido: “Eras el chico malo, rebelde”",
-   "nota_url": "https://radiomitre.cienradios.com/videos/la-fuerte-confesion-de-barbie-simons-que-sorprendio-a-mario-pergolini-en-otro-dia-perdido-eras-el-chico-malo-rebelde/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "helicóptero",
-   "busquedas": "200+",
-   "nota": "Joe Lewis aterrizó en Bariloche en un Airbus y volvió a escena la pista qatarí",
-   "nota_url": "https://realpolitik.com.ar/nota/75412/joe-lewis-aterrizo-en-bariloche-en-un-airbus-y-volvio-a-escena-la-pista-qatari/",
-   "medio": "REALPOLITIK",
+   "nota": "La inesperada confesion de Barbie Simons sobre Pergolini",
+   "nota_url": "https://eldoce.tv/videos/show/2026/11/25/la-inesperada-confesion-de-barbie-simons-sobre-pergolini/",
+   "medio": "eldoce",
    "relevante": false,
    "temas": []
   }
