@@ -1,7 +1,13 @@
 {
- "actualizado": "26/11 02:51",
+ "actualizado": "26/11 03:56",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Bareiro",
    "url": "https://x.com/search?q=Bareiro",
@@ -9,8 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
@@ -21,44 +33,22 @@
    "temas": []
   },
   {
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
+  },
+  {
    "tema": "Lobo Medina",
    "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Y Boca",
-   "url": "https://x.com/search?q=Y%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Este Boca",
-   "url": "https://x.com/search?q=Este%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Acevedo",
-   "url": "https://x.com/search?q=Acevedo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Roja",
-   "url": "https://x.com/search?q=Roja",
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
    "relevante": false,
    "temas": []
   },
@@ -69,44 +59,44 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Arce",
-   "url": "https://x.com/search?q=Arce",
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "GanÃ³ Boca",
-   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
+   "tema": "Y Boca",
+   "url": "https://x.com/search?q=Y%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Belmonte",
-   "url": "https://x.com/search?q=Belmonte",
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Paredes y Merentiel",
-   "url": "https://x.com/search?q=Paredes%20y%20Merentiel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Leandro Paredes",
-   "url": "https://x.com/search?q=Leandro%20Paredes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Miguel Merentiel",
-   "url": "https://x.com/search?q=Miguel%20Merentiel",
+   "tema": "JUNGKOOK IS COMING",
+   "url": "https://x.com/search?q=JUNGKOOK%20IS%20COMING",
    "relevante": false,
    "temas": []
   },
@@ -117,13 +107,61 @@
    "temas": []
   },
   {
-   "tema": "VAMOS BOCA CARAJO",
-   "url": "https://x.com/search?q=VAMOS%20BOCA%20CARAJO",
+   "tema": "Duran Duran",
+   "url": "https://x.com/search?q=Duran%20Duran",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Zorro",
+   "url": "https://x.com/search?q=El%20Zorro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belmonte",
+   "url": "https://x.com/search?q=Belmonte",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "office",
+   "busquedas": "100+",
+   "nota": "Avengers: Doomsday India Box Office Day 1 Advance Booking: Rakes In 59% Of Avengers: Infinity War’s Opening Day Collection Through Pre-Sales Alone!",
+   "nota_url": "https://www.imdb.com/news/ni66126204/?ref_=int_nwr_1",
+   "medio": "IMDb",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cup",
+   "busquedas": "1000+",
+   "nota": "Wednesday's Emirates NBA Cup recap: Blazers deliver late",
+   "nota_url": "https://www.nba.com/news/emirates-nba-cup-2026-live-updates-november-25",
+   "medio": "NBA.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "radio",
+   "busquedas": "100+",
+   "nota": "El jueves 26 se celebrará la llegada de las FM a Bariloche",
+   "nota_url": "https://www.noticiasdebariloche.com.ar/el-jueves-26-se-celebrara-la-llegada-de-las-fm-a-bariloche/",
+   "medio": "Noticias de Bariloche",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "apple",
+   "busquedas": "100+",
+   "nota": "AI chatbot companion app Talkie pulled from Apple App Store after investigation",
+   "nota_url": "https://appleinsider.com/articles/26/11/26/ai-chatbot-companion-app-talkie-pulled-from-apple-app-store-after-investigation",
+   "medio": "AppleInsider",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "mauro icardi",
    "busquedas": "200+",
@@ -152,65 +190,29 @@
    "temas": []
   },
   {
-   "tema": "clima san juan",
-   "busquedas": "200+",
-   "nota": "San Juan tuvo una jornada de lluvia ligera y cielo nublado durante este martes 24 de noviembre",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/clima-en-san-juan-hoy-martes-24-de-noviembre-lluvia-ligera-y-cielo-mayormente-nublado/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "viento",
-   "busquedas": "200+",
-   "nota": "Súper Niño en Argentina, EN VIVO: alerta por tormentas en 8 provincias y fuertes vientos en la Patagonia y la Costa Atlántica",
-   "nota_url": "https://www.clarin.com/sociedad/super-nino-argentina-vivo-alerta-tormentas-8-provincias-pronostican-fuertes-vientos-patagonia-costa-atlantica_0_WqeVhXbdHj.html",
-   "medio": "Clarin.com",
+   "busquedas": "500+",
+   "nota": "El SMN anticipa dos días de tormentas para el Gran San Juan y hay alerta amarilla",
+   "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/25/118449-el-smn-anticipa-dos-dias-de-tormentas-para-el-gran-san-juan-y-hay-alerta-amarilla",
+   "medio": "0264Noticias",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "trail blazers - spurs",
    "busquedas": "1000+",
-   "nota": "Blazers Homecoming Offers A Major Test",
-   "nota_url": "https://sports.yahoo.com/nba/articles/blazers-homecoming-offers-major-test-195617950.html",
-   "medio": "Yahoo Sports",
+   "nota": "Deni Avdija with a monster 33/12/7 game vs Spurs",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-26/deni-avdija-with-a-monster-33-12-7-game-vs-spurs",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "monterrey - américa",
    "busquedas": "1000+",
-   "nota": "América y Rayados buscan desempatar su historial en Liguilla: así fueron sus 12 enfrentamientos",
-   "nota_url": "https://www.infobae.com/mexico/deportes/2026/11/24/america-y-rayados-buscan-desempatar-su-historial-en-liguilla-asi-fueron-sus-12-enfrentamientos/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "division palermo",
-   "busquedas": "100+",
-   "nota": "Los mejores looks de la alfombra roja de los 54º Premios Emmy Internacionales 2026 en Nueva York",
-   "nota_url": "https://www.clarin.com/fotogalerias/54-edicion-premios-emmy-internacionales-2026-nueva-york-ricardo-darin-santiago-korovsky_5_d5AOeTVU6H.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "warriors - kings",
-   "busquedas": "1000+",
-   "nota": "Kings vs Warriors Thread: Prepping That Thanksgiving Turkey",
-   "nota_url": "https://kingsherald.com/game-preview/kings-vs-warriors-thread-prepping-that-thanksgiving-turkey/",
-   "medio": "The Kings Herald",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rockets - suns",
-   "busquedas": "200+",
-   "nota": "REACTION: Devin Booker And Jalen Green Struggle As Kevin Durant's Rockets BEAT Suns In CLOSE Loss",
-   "nota_url": "https://www.wusa9.com/video/sports/locked-on/lo-arizona/suns-show/reaction-devin-booker-and-jalen-green-struggle-as-kevin-durants-rockets-beat-suns-in-close-loss/535-1d85df09-4a0d-4af8-b153-59bd0905e861",
-   "medio": "WUSA9",
+   "nota": "Predicción Apertura 2026: resultado exacto de Rayados vs. América según la Inteligencia Artificial",
+   "nota_url": "https://bolavip.com/mx/ligamx/prediccion-apertura-2026-resultado-exacto-de-rayados-vs-america-segun-la-inteligencia-artificial",
+   "medio": "Bolavip México",
    "relevante": false,
    "temas": []
   }
