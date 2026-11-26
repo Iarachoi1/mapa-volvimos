@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 07:52",
+ "actualizado": "26/11 08:48",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -53,8 +53,32 @@
    "temas": []
   },
   {
-   "tema": "#diegoeterno",
-   "url": "https://x.com/search?q=%23diegoeterno",
+   "tema": "#DiegoEterno",
+   "url": "https://x.com/search?q=%23DiegoEterno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mitre",
+   "url": "https://x.com/search?q=Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Carranza",
+   "url": "https://x.com/search?q=Carranza",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Feliz Jueves",
+   "url": "https://x.com/search?q=Feliz%20Jueves",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#Napalm",
+   "url": "https://x.com/search?q=%23Napalm",
    "relevante": false,
    "temas": []
   },
@@ -65,15 +89,15 @@
    "temas": []
   },
   {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Colegiales",
+   "url": "https://x.com/search?q=Colegiales",
+   "relevante": false,
    "temas": []
   },
   {
@@ -83,8 +107,8 @@
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
    "relevante": false,
    "temas": []
   },
@@ -95,124 +119,100 @@
    "temas": []
   },
   {
-   "tema": "Andy Taylor",
-   "url": "https://x.com/search?q=Andy%20Taylor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gustavo lÃ³pez",
-   "url": "https://x.com/search?q=gustavo%20l%C3%83%C2%B3pez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#elzorro",
-   "url": "https://x.com/search?q=%23elzorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bonifacio",
-   "url": "https://x.com/search?q=Bonifacio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Duran Duran",
-   "url": "https://x.com/search?q=Duran%20Duran",
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "tren mitre",
+   "tema": "avión",
    "busquedas": "500+",
-   "nota": "Evacuan una formación del Tren Mitre por chispazos y presencia de humo",
-   "nota_url": "https://www.minutouno.com/sociedad/evacuan-una-formacion-del-tren-mitre-chispazos-y-presencia-humo-n6349478",
-   "medio": "MinutoUno",
+   "nota": "Un avión de carga de FedEx se despistó y obligó a suspender las operaciones en el aeropuerto de Miami",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/un-avion-de-carga-de-fedex-se-despisto-y-obligo-a-suspender-las-operaciones-en-el-aeropuerto-de-miami/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "climatización",
+   "busquedas": "100+",
+   "nota": "Mitsubishi Heavy Industries KXZR3: VRF con R32 y recuperación de calor",
+   "nota_url": "https://www.caloryfrio.com/aire-acondicionado/aire-acondicionado-comercial/mitsubishi-heavy-industries-kxzr3-vrf-r32-recuperacion-calor-tres-tubos.html",
+   "medio": "Caloryfrio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "26 de noviembre",
+   "busquedas": "100+",
+   "nota": "Alivio térmico en el AMBA: cómo estará el tiempo este jueves 26 de noviembre antes de la ola de calor",
+   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-pronostico-para-el-jueves-26-de-noviembre-de-2026-a50-bgd-aX7pk5E1IIGH",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "multas provincia",
+   "busquedas": "100+",
+   "nota": "Cambia el trámite de la licencia de conducir: ahora se podrá pagar el CENAT sin abonar las multas de tránsito en el mismo comprobante",
+   "nota_url": "https://www.cronista.com/informacion-gral/cambia-el-tramite-de-la-licencia-de-conducir-ahora-se-podra-pagar-el-cenat-sin-abonar-las-multas-de-transito-en-el-mismo-comprobante/",
+   "medio": "El Cronista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el once",
+   "busquedas": "200+",
+   "nota": "Un detenido por abuso de arma de fuego. Secuestro de municiones y un vehículo",
+   "nota_url": "https://www.lavoz901.com/noticias/un-detenido-por-abuso-de-arma-de-fuego-secuestro-de-municiones-y-un-vehculo.htm",
+   "medio": "La voz 90.1",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bianchi en boca",
+   "busquedas": "100+",
+   "nota": "El récord de Rodolfo Arruabarrena en Boca que supera a Carlos Bianchi y Marcelo Gallardo",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1164052/deportes/record-rodolfo-arruabarrena-boca-supera-carlos-bianchi-marcelo-gallardo.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "vuelo",
+   "busquedas": "100+",
+   "nota": "Alarma en un vuelo de Aerolíneas Argentinas: detectaron humo en la cabina y el avión debió regresar",
+   "nota_url": "https://radiomitre.cienradios.com/sociedad/alarma-en-un-vuelo-de-aerolineas-argentinas-detectaron-humo-en-la-cabina-y-el-avion-debio-regresar/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el once digital",
+   "busquedas": "100+",
+   "nota": "Presentaron “Tu SAS 100% Digital”: crear una sociedad en Entre Ríos demandará cuatro días hábiles",
+   "nota_url": "https://www.elonce.com/politica/presentaron-tu-sas-100-digital-crear-una-sociedad-en-entre-rios-demandara-cuatro-dias-habiles.htm",
+   "medio": "Elonce.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tren mitre",
+   "busquedas": "1000+",
+   "nota": "El servicio del tren Mitre está interrumpido por un problema eléctrico",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/el-servicio-del-tren-mitre-esta-interrumpido-por-un-problema-electrico-nid26112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nicolás occhiato",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "La irónica reacción de Nicolás Occhiato a las críticas que recibió su serie \"Somos Así\": \"Coincido en todo\"",
    "nota_url": "https://exitoina.perfil.com/noticias/escandalo/reaccion-nicolas-occhiato-criticas-somos-asi-coincido-en-todo.phtml",
    "medio": "Exitoina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dimorphos",
-   "busquedas": "100+",
-   "nota": "NASA hit an asteroid to test planetary defense. Here’s what happened.",
-   "nota_url": "https://www.washingtonpost.com/science/2026/11/25/nasa-hit-an-asteroid-test-planetary-defense-heres-what-happened/",
-   "medio": "The Washington Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "matthew perry",
-   "busquedas": "100+",
-   "nota": "Major change made to Matthew Perry’s grave marker 3 years after his death",
-   "nota_url": "https://pagesix.com/2026/11/25/celebrity-news/major-change-made-to-matthew-perrys-grave-marker-3-years-after-his-death/",
-   "medio": "Page Six",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gran premio de catar",
-   "busquedas": "500+",
-   "nota": "Colapinto va por más tras su gran noche en Las Vegas: días y horario del GP de Qatar",
-   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-25-5-0-5-colapinto-va-por-mas-tras-su-gran-noche-en-las-vegas-dias-y-horario-del-gp-de-qatar",
-   "medio": "La Nueva Provincia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "avión de carga",
-   "busquedas": "100+",
-   "nota": "La FAA levanta la paralización de vuelos a Miami pero impone demoras de varias horas tras una salida de pista",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/26/la-faa-levanta-la-paralizacion-de-vuelos-a-miami-pero-impone-demoras-de-varias-horas-tras-una-salida-de-pista/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ola de frío",
-   "busquedas": "200+",
-   "nota": "Días fríos en Laredo",
-   "nota_url": "https://www.telemundolaredo.tv/2026/11/25/das-fros-en-laredo/",
-   "medio": "Telemundo Laredo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "c5n en vivo",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pedro alliana",
-   "busquedas": "100+",
-   "nota": "Milei enfrenta otro día clave en el Congreso fuera de Argentina y deja las decisiones en manos de Karina",
-   "nota_url": "https://www.infobae.com/politica/2026/11/26/milei-enfrenta-otro-dia-clave-en-el-congreso-fuera-de-argentina-y-deja-las-decisiones-en-manos-de-karina/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "dario amodei",
-   "busquedas": "200+",
-   "nota": "Anthropic CEO Accuses Rivals Of Using ‘Human Control’ Slogans Without Tackling AI Risks",
-   "nota_url": "https://inc42.com/buzz/anthropic-ceo-accuses-rivals-of-using-human-control-slogans-without-tackling-ai-risks/",
-   "medio": "Inc42",
    "relevante": false,
    "temas": []
   }
