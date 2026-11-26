@@ -1,7 +1,13 @@
 {
- "actualizado": "26/11 17:42",
+ "actualizado": "26/11 18:41",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "#CatalanLadron",
+   "url": "https://x.com/search?q=%23CatalanLadron",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Lozano",
    "url": "https://x.com/search?q=Lozano",
@@ -9,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "#CatalanLadron",
-   "url": "https://x.com/search?q=%23CatalanLadron",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
@@ -21,8 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
    "temas": []
   },
@@ -59,15 +65,9 @@
    ]
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
+   "tema": "Independiente Rivadavia",
+   "url": "https://x.com/search?q=Independiente%20Rivadavia",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
    "temas": []
   },
   {
@@ -77,20 +77,8 @@
    "temas": []
   },
   {
-   "tema": "Independiente Rivadavia",
-   "url": "https://x.com/search?q=Independiente%20Rivadavia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
@@ -101,8 +89,20 @@
    "temas": []
   },
   {
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "DarÃ­o Franco",
    "url": "https://x.com/search?q=Dar%C3%83%C2%ADo%20Franco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
@@ -119,101 +119,101 @@
    "temas": []
   },
   {
-   "tema": "Menta",
-   "url": "https://x.com/search?q=Menta",
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "juventus vs",
-   "busquedas": "100+",
-   "nota": "Juventus, Ekhator to start before possible Monza move for Varela",
-   "nota_url": "https://www.goal.com/en-za/news/juventus-ekhator-to-start-before-possible-monza-move-for-varela/blt1598f6e72b309393",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pasapalabra",
-   "busquedas": "100+",
-   "nota": "El mensaje de un emocionado David a Moisés Laguardia tras su abandono en 'Pasapalabra': \"Aquí tienes un amigo para siempre\"",
-   "nota_url": "https://www.elconfidencial.com/television/programas-tv/2026-11-25/pasapalabra-david-trigo-mensaje-emocionado-moises-abandono-antena3_4472790/",
-   "medio": "El Confidencial",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juventus",
+   "tema": "kirchnerismo",
    "busquedas": "200+",
-   "nota": "Juventus-Omonia 0-1 LIVE, il risultato in diretta",
-   "nota_url": "https://sport.sky.it/calcio/europa-league/partite/2026/giornata-5/juventus-omonia-nicosia/risultato-gol",
-   "medio": "Sky Sport",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "besiktas vs hapoel beer sheva",
-   "busquedas": "100+",
-   "nota": "Georgian police target Beşiktaş fans for waving Palestinian flags | Daily Sabah",
-   "nota_url": "https://www.dailysabah.com/sports/football/georgian-police-target-besiktas-fans-for-waving-palestinian-flags",
-   "medio": "Daily Sabah",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "miguel ángel pichetto",
-   "busquedas": "200+",
-   "nota": "El Gobierno responsabilizó a Brasil por la tensión diplomática: \"No es una situación normal\"",
-   "nota_url": "https://www.filo.news/noticia/2026/11/26/el-gobierno-responsabilizo-a-brasil-por-la-tension-diplomatica-no-es-una-situacion-normal",
-   "medio": "Filo News",
+   "nota": "Milei dijo que el desempleo estaría por debajo del 5% con una participación laboral constante",
+   "nota_url": "https://www.ellitoral.com/politica/javier-milei-federico-sturzenegger-desempleo-empleo-argentina-mercado-laboral-tasa-participacion-laboral-pea_0_yDKZ1O7q0F.html",
+   "medio": "El Litoral",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "lyon - lillestrøm",
-   "busquedas": "200+",
-   "nota": "Vicens updates on Openda and Bidstrup ahead of Lillestrøm clash",
-   "nota_url": "https://onefootball.com/en/video/vicens-updates-on-openda-and-bidstrup-ahead-of-lillestrom-clash-43842355",
-   "medio": "OneFootball",
+   "tema": "funes",
+   "busquedas": "100+",
+   "nota": "ROBERTITO FUNES ROMPE EL SILENCIO EN LAM TRAS LA POLÉMICA EN UN MÓVIL",
+   "nota_url": "https://www.americatv.com.ar/programas/lam/robertito-funes-rompe-el-silencio-lam-la-polemica-un-movil-n1619249",
+   "medio": "América TV",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "nueva york",
-   "busquedas": "200+",
-   "nota": "La tormenta de Acción de Gracias ya deja a más de 190.000 usuarios sin luz y amenaza con extender los cortes hasta el fin de semana",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/la-tormenta-de-accion-de-gracias-ya-deja-a-mas-de-190000-usuarios-sin-luz-y-amenaza-con-extender-los-cortes-hasta-el-fin-de-semana/",
+   "tema": "economía",
+   "busquedas": "2000+",
+   "nota": "El dólar frenó la suba por la apreciación del real y la intervención oficial indirecta",
+   "nota_url": "https://www.infobae.com/economia/2026/11/26/el-dolar-freno-la-suba-de-la-mano-de-la-apreciacion-del-real-y-la-intervencion-oficial-indirecta/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de brighton & hove albion football club contra u craiova",
-   "busquedas": "1000+",
-   "nota": "Brighton & Hove Albion x Universitatea Craiova - Highlights, Summary and Match Report",
-   "nota_url": "https://sports.yahoo.com/soccer/articles/brighton-hove-albion-x-universitatea-175700622.html",
-   "medio": "Yahoo Sports",
+   "tema": "sorteo quini seis",
+   "busquedas": "5000+",
+   "nota": "Un apostador en Santa Fe acertó los seis números del Quini y se llevó $1.100 millones. ¡El domingo vuelve otro pozo millonario!",
+   "nota_url": "https://www.reconquistahoy.com/93892-un-apostador-en-santa-fe-acerto-los-seis-numeros-del-quini-y-se-llevo-1100-millones-el-domingo-vuelve-otro-pozo-millonario",
+   "medio": "ReconquistaHOY",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "reforma",
+   "tema": "whatsapp stickers",
    "busquedas": "200+",
-   "nota": "Reforma del Banco Central: cuáles son las claves de la nueva Carta Orgánica y cómo cambiarán las funciones de la entidad",
-   "nota_url": "https://www.clarin.com/economia/reforma-banco-central-claves-nueva-ley-cambiaran-funciones-entidad_0_AEA3aGLI0c.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "primera división",
-   "busquedas": "20000+",
-   "nota": "Con cambios de horarios, se confirmó el cronograma de cuartos de final del Torneo Clausura",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/26/con-cambios-de-horarios-se-confirmo-el-cronograma-de-cuartos-de-final-del-torneo-clausura/",
+   "nota": "Cómo ser un testador de WhatsApp para probar los stickers con audio",
+   "nota_url": "https://www.infobae.com/tecno/2026/11/26/como-ser-un-testador-de-whatsapp-para-probar-los-stickers-con-audio/",
    "medio": "Infobae",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "chile",
+   "busquedas": "200+",
+   "nota": "Economistas prevén que mayor impacto del alza del dólar en precios locales se dejaría sentir el primer trimestre de 2027",
+   "nota_url": "https://www.latercera.com/pulso/noticia/economistas-preven-que-mayor-impacto-del-alza-del-dolar-en-precios-locales-se-dejaria-sentir-el-primer-trimestre-de-2027/",
+   "medio": "La Tercera",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "lyon fc",
+   "busquedas": "100+",
+   "nota": "Programme TV Foot : Midi Dix, Lyon-Lillestrom à 21h",
+   "nota_url": "https://www.webgirondins.com/actualite-girondins-programme-tv-foot-midi-dix-lyon-lillestrom-a-21h-135308",
+   "medio": "WebGirondins",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ciclogénesis",
+   "busquedas": "2000+",
+   "nota": "A qué hora arriba hoy un diluvio total, con lluvias y ráfagas potentes: las zonas en alerta más afectadas",
+   "nota_url": "https://www.minutouno.com/sociedad/a-que-hora-arriba-hoy-un-diluvio-total-lluvias-y-rafagas-potentes-las-zonas-alerta-mas-afectadas-n6349260",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "apuestas en línea",
+   "busquedas": "200+",
+   "nota": "Bloqueo de sitios, multas y prohibiciones: los extras que incluye el proyecto de Bullrich sobre la ley de ludopatía",
+   "nota_url": "https://www.infobae.com/politica/2026/11/26/bloqueo-de-sitios-multas-y-prohibiciones-los-extras-que-incluye-el-proyecto-de-bullrich-sobre-la-ley-de-ludopatia/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "augusto carinelli",
+   "busquedas": "200+",
+   "nota": "LA CAF DE LA ACTC APLICÓ SANCIONES, CITÓ A UN PILOTO Y AUTORIZÓ CAMBIOS PARA 2027",
+   "nota_url": "https://ultimavuelta.com.ar/tc/la-caf-de-la-actc-aplicO-sanciones--citO-a-un-piloto-y-autorizO-cambios-para-2027",
+   "medio": "Última Vuelta",
+   "relevante": true,
    "temas": []
   }
  ],
