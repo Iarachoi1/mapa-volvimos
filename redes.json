@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 03:56",
+ "actualizado": "26/11 05:24",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -53,14 +53,20 @@
    "temas": []
   },
   {
+   "tema": "Santiago del Estero",
+   "url": "https://x.com/search?q=Santiago%20del%20Estero",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "AlarcÃ³n",
    "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
+   "tema": "Diego Armando Maradona",
+   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
    "relevante": false,
    "temas": []
   },
@@ -71,38 +77,20 @@
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Y Boca",
-   "url": "https://x.com/search?q=Y%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "JUNGKOOK IS COMING",
-   "url": "https://x.com/search?q=JUNGKOOK%20IS%20COMING",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Bonifacio",
    "url": "https://x.com/search?q=Bonifacio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
    "relevante": false,
    "temas": []
   },
@@ -113,8 +101,8 @@
    "temas": []
   },
   {
-   "tema": "El Zorro",
-   "url": "https://x.com/search?q=El%20Zorro",
+   "tema": "Andy Taylor",
+   "url": "https://x.com/search?q=Andy%20Taylor",
    "relevante": false,
    "temas": []
   },
@@ -123,24 +111,45 @@
    "url": "https://x.com/search?q=Belmonte",
    "relevante": false,
    "temas": []
-  }
- ],
- "google": [
+  },
   {
-   "tema": "office",
-   "busquedas": "100+",
-   "nota": "Avengers: Doomsday India Box Office Day 1 Advance Booking: Rakes In 59% Of Avengers: Infinity War’s Opening Day Collection Through Pre-Sales Alone!",
-   "nota_url": "https://www.imdb.com/news/ni66126204/?ref_=int_nwr_1",
-   "medio": "IMDb",
+   "tema": "El Zorro",
+   "url": "https://x.com/search?q=El%20Zorro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "cup",
-   "busquedas": "1000+",
-   "nota": "Wednesday's Emirates NBA Cup recap: Blazers deliver late",
-   "nota_url": "https://www.nba.com/news/emirates-nba-cup-2026-live-updates-november-25",
-   "medio": "NBA.com",
+   "tema": "gustavo lÃ³pez",
+   "url": "https://x.com/search?q=gustavo%20l%C3%83%C2%B3pez",
+   "relevante": false,
+   "temas": []
+  }
+ ],
+ "google": [
+  {
+   "tema": "moon",
+   "busquedas": "100+",
+   "nota": "How and when to watch November’s beaver moon",
+   "nota_url": "https://www.cnn.com/2026/11/23/science/november-beaver-supermoon-2026",
+   "medio": "CNN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fan",
+   "busquedas": "100+",
+   "nota": "Taiwan health minister praises BTS fans' charity initiative",
+   "nota_url": "https://www.ocac.gov.tw/OCAC/Pages/Detail.aspx?nodeid=329&pid=93637793",
+   "medio": "中華民國僑務委員會",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "box",
+   "busquedas": "200+",
+   "nota": "‘Ramayana’ Sets New U.S. Box Office Record for Indian Films",
+   "nota_url": "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films/",
+   "medio": "TheWrap",
    "relevante": false,
    "temas": []
   },
@@ -155,7 +164,7 @@
   },
   {
    "tema": "apple",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "AI chatbot companion app Talkie pulled from Apple App Store after investigation",
    "nota_url": "https://appleinsider.com/articles/26/11/26/ai-chatbot-companion-app-talkie-pulled-from-apple-app-store-after-investigation",
    "medio": "AppleInsider",
@@ -168,6 +177,15 @@
    "nota": "Pía Shaw dio fuertes detalles sobre la nueva denuncia que recibirá Icardi: “Mañana van a presentar…”",
    "nota_url": "https://moskitamuerta.com/2026/11/25/pia-shaw-dio-fuertes-detalles-sobre-la-nueva-denuncia-que-recibira-icardi-manana-van-a-presentar/",
    "medio": "Moskita Muerta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de atlético nacional contra deportivo independiente medellín",
+   "busquedas": "2000+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
@@ -190,29 +208,11 @@
    "temas": []
   },
   {
-   "tema": "viento",
-   "busquedas": "500+",
+   "tema": "clima san juan",
+   "busquedas": "200+",
    "nota": "El SMN anticipa dos días de tormentas para el Gran San Juan y hay alerta amarilla",
    "nota_url": "https://www.0264noticias.com.ar/noticias/2026/11/25/118449-el-smn-anticipa-dos-dias-de-tormentas-para-el-gran-san-juan-y-hay-alerta-amarilla",
    "medio": "0264Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "trail blazers - spurs",
-   "busquedas": "1000+",
-   "nota": "Deni Avdija with a monster 33/12/7 game vs Spurs",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-26/deni-avdija-with-a-monster-33-12-7-game-vs-spurs",
-   "medio": "NBC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "monterrey - américa",
-   "busquedas": "1000+",
-   "nota": "Predicción Apertura 2026: resultado exacto de Rayados vs. América según la Inteligencia Artificial",
-   "nota_url": "https://bolavip.com/mx/ligamx/prediccion-apertura-2026-resultado-exacto-de-rayados-vs-america-segun-la-inteligencia-artificial",
-   "medio": "Bolavip México",
    "relevante": false,
    "temas": []
   }
