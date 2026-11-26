@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 00:47",
+ "actualizado": "26/11 01:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,20 +33,8 @@
    "temas": []
   },
   {
-   "tema": "AlarcÃ³n",
-   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Este Boca",
-   "url": "https://x.com/search?q=Este%20Boca",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Roja",
-   "url": "https://x.com/search?q=Roja",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +45,26 @@
    "temas": []
   },
   {
-   "tema": "Belmonte",
-   "url": "https://x.com/search?q=Belmonte",
+   "tema": "Este Boca",
+   "url": "https://x.com/search?q=Este%20Boca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alarcon",
+   "url": "https://x.com/search?q=alarcon",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roja",
+   "url": "https://x.com/search?q=Roja",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +75,20 @@
    "temas": []
   },
   {
-   "tema": "GanÃ³ Boca",
-   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
+   "tema": "Arce",
+   "url": "https://x.com/search?q=Arce",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Arce",
-   "url": "https://x.com/search?q=Arce",
+   "tema": "Belmonte",
+   "url": "https://x.com/search?q=Belmonte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "GanÃ³ Boca",
+   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +99,8 @@
    "temas": []
   },
   {
-   "tema": "Miguel Merentiel",
-   "url": "https://x.com/search?q=Miguel%20Merentiel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "CABJ",
-   "url": "https://x.com/search?q=CABJ",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bonifacio",
-   "url": "https://x.com/search?q=Bonifacio",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "VAMOS BOCA CARAJO",
-   "url": "https://x.com/search?q=VAMOS%20BOCA%20CARAJO",
+   "tema": "Acevedo",
+   "url": "https://x.com/search?q=Acevedo",
    "relevante": false,
    "temas": []
   },
@@ -117,16 +111,76 @@
    "temas": []
   },
   {
-   "tema": "Boca del Vasco",
-   "url": "https://x.com/search?q=Boca%20del%20Vasco",
+   "tema": "Bonifacio",
+   "url": "https://x.com/search?q=Bonifacio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Miguel Merentiel",
+   "url": "https://x.com/search?q=Miguel%20Merentiel",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "viento",
+   "tema": "mauro icardi",
+   "busquedas": "200+",
+   "nota": "Pía Shaw dio fuertes detalles sobre la nueva denuncia que recibirá Icardi: “Mañana van a presentar…”",
+   "nota_url": "https://moskitamuerta.com/2026/11/25/pia-shaw-dio-fuertes-detalles-sobre-la-nueva-denuncia-que-recibira-icardi-manana-van-a-presentar/",
+   "medio": "Moskita Muerta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de atlético nacional contra deportivo independiente medellín",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gianinna maradona",
+   "busquedas": "2000+",
+   "nota": "El video que compartió la Selección Argentina a seis años del fallecimiento de Diego Maradona",
+   "nota_url": "https://www.ole.com.ar/maradona/video-compartio-seleccion-argentina-anos-fallecimiento-diego-maradona_3_F64T3jJQia.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de barcelona sc contra independiente del valle",
+   "busquedas": "2000+",
+   "nota": "Así queda la tabla de posiciones en la LigaPro",
+   "nota_url": "https://www.ecuavisa.com/futbol-nacional/asi-queda-la-tabla-de-posiciones-en-la-ligapro-20261126-0001.html",
+   "medio": "Ecuavisa",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima san juan",
+   "busquedas": "200+",
+   "nota": "San Juan tuvo una jornada de lluvia ligera y cielo nublado durante este martes 24 de noviembre",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/24/clima-en-san-juan-hoy-martes-24-de-noviembre-lluvia-ligera-y-cielo-mayormente-nublado/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga mx",
    "busquedas": "100+",
+   "nota": "Uriel Antuna pronostica bicampeonato de Cruz Azul en el Apertura 2026",
+   "nota_url": "https://www.mediotiempo.com/futbol/liga-mx/uriel-antuna-pronostica-bicampeonato-cruz-azul-apertura-2026",
+   "medio": "Mediotiempo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "viento",
+   "busquedas": "200+",
    "nota": "Súper Niño en Argentina, EN VIVO: alerta por tormentas en 8 provincias y fuertes vientos en la Patagonia y la Costa Atlántica",
    "nota_url": "https://www.clarin.com/sociedad/super-nino-argentina-vivo-alerta-tormentas-8-provincias-pronostican-fuertes-vientos-patagonia-costa-atlantica_0_WqeVhXbdHj.html",
    "medio": "Clarin.com",
@@ -134,20 +188,20 @@
    "temas": []
   },
   {
-   "tema": "monterrey - américa",
+   "tema": "trail blazers - spurs",
    "busquedas": "500+",
-   "nota": "América y Rayados buscan desempatar su historial en Liguilla: así fueron sus 12 enfrentamientos",
-   "nota_url": "https://www.infobae.com/mexico/deportes/2026/11/24/america-y-rayados-buscan-desempatar-su-historial-en-liguilla-asi-fueron-sus-12-enfrentamientos/",
-   "medio": "Infobae",
+   "nota": "Spurs-Trail Blazers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026",
+   "nota_url": "https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/",
+   "medio": "Lineups",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "trail blazers - spurs",
-   "busquedas": "500+",
-   "nota": "Blazers Homecoming Offers A Major Test",
-   "nota_url": "https://sports.yahoo.com/nba/articles/blazers-homecoming-offers-major-test-195617950.html",
-   "medio": "Yahoo Sports",
+   "tema": "monterrey - américa",
+   "busquedas": "1000+",
+   "nota": "América y Rayados buscan desempatar su historial en Liguilla: así fueron sus 12 enfrentamientos",
+   "nota_url": "https://www.infobae.com/mexico/deportes/2026/11/24/america-y-rayados-buscan-desempatar-su-historial-en-liguilla-asi-fueron-sus-12-enfrentamientos/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -158,60 +212,6 @@
    "nota_url": "https://noticias.perfil.com/noticias/informacion-general/division-palermo-gano-un-emmy-y-korovsky-ironizo-sobre-el-ajuste-de-milei.phtml",
    "medio": "Revista Noticias",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "warriors - kings",
-   "busquedas": "500+",
-   "nota": "Kings vs Warriors Thread: Prepping That Thanksgiving Turkey",
-   "nota_url": "https://kingsherald.com/game-preview/kings-vs-warriors-thread-prepping-that-thanksgiving-turkey/",
-   "medio": "The Kings Herald",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "rockets - suns",
-   "busquedas": "100+",
-   "nota": "Devin Booker Makes Feelings Clear About Facing Kevin Durant-Led Rockets",
-   "nota_url": "https://sports.yahoo.com/nba/articles/devin-booker-makes-feelings-clear-180042656.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bancor",
-   "busquedas": "200+",
-   "nota": "Bancor activa nuevos hipotecarios: quiénes pueden acceder y cuánto pueden pedir",
-   "nota_url": "https://puntoapunto.com.ar/bancor-activa-nuevos-hipotecarios-quienes-pueden-acceder-y-cuanto-pueden-pedir",
-   "medio": "Punto a Punto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ola de calor",
-   "busquedas": "500+",
-   "nota": "Clima. Alerta por un tormentón de hielo: qué es este fenómeno y cómo puede afectar a Córdoba",
-   "nota_url": "https://www.lavoz.com.ar/servicios/alerta-tormenton-hielo-fenomeno-puede-afectar-cordoba_0_gCZ1kkPaJS.html",
-   "medio": "La Voz del Interior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos melconian",
-   "busquedas": "500+",
-   "nota": "Melconian cuestionó el rumbo económico de Milei: “La recesión es incapacidad e impericia”",
-   "nota_url": "https://www.diariopanorama.com/noticia/574181/melconian-cuestiono-rumbo-economico-milei-recesion-incapacidad-e-impericia",
-   "medio": "Diario Panorama",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "sorteo quini 6",
-   "busquedas": "2000+",
-   "nota": "Quini 6: hubo un ganador en La Segunda y $1.100 millones se quedaron en Santa Fe",
-   "nota_url": "https://www.lacapital.com.ar/informacion-general/quini-6-hubo-un-ganador-la-segunda-y-1100-millones-se-quedaron-santa-fe-n10294248.html",
-   "medio": "La Capital",
-   "relevante": false,
    "temas": []
   }
  ],
