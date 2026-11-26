@@ -1,10 +1,34 @@
 {
- "actualizado": "25/11 21:47",
+ "actualizado": "25/11 23:10",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AlarcÃ³n",
+   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +39,32 @@
    "temas": []
   },
   {
-   "tema": "Duran Duran",
-   "url": "https://x.com/search?q=Duran%20Duran",
+   "tema": "Independiente Rivadavia",
+   "url": "https://x.com/search?q=Independiente%20Rivadavia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Belmonte",
+   "url": "https://x.com/search?q=Belmonte",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gustavo LÃ³pez",
+   "url": "https://x.com/search?q=Gustavo%20L%C3%83%C2%B3pez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bonifacio",
+   "url": "https://x.com/search?q=Bonifacio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roja",
+   "url": "https://x.com/search?q=Roja",
    "relevante": false,
    "temas": []
   },
@@ -29,8 +77,8 @@
    ]
   },
   {
-   "tema": "Andy Taylor",
-   "url": "https://x.com/search?q=Andy%20Taylor",
+   "tema": "Aranda",
+   "url": "https://x.com/search?q=Aranda",
    "relevante": false,
    "temas": []
   },
@@ -41,8 +89,20 @@
    "temas": []
   },
   {
-   "tema": "Lammens",
-   "url": "https://x.com/search?q=Lammens",
+   "tema": "Montiel",
+   "url": "https://x.com/search?q=Montiel",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El VAR",
+   "url": "https://x.com/search?q=El%20VAR",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#TodoCaput",
+   "url": "https://x.com/search?q=%23TodoCaput",
    "relevante": false,
    "temas": []
   },
@@ -59,161 +119,101 @@
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lautaro MartÃ­nez",
-   "url": "https://x.com/search?q=Lautaro%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MissUniverse2026",
-   "url": "https://x.com/search?q=%23MissUniverse2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Nazareno Arasa",
-   "url": "https://x.com/search?q=Nazareno%20Arasa",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bruno Fernandes",
-   "url": "https://x.com/search?q=Bruno%20Fernandes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Zorro",
-   "url": "https://x.com/search?q=El%20Zorro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#AhoraCaigo",
-   "url": "https://x.com/search?q=%23AhoraCaigo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Garrahan",
-   "url": "https://x.com/search?q=Garrahan",
+   "tema": "Velasco",
+   "url": "https://x.com/search?q=Velasco",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "boc",
+   "tema": "rodrigo battaglia",
    "busquedas": "200+",
-   "nota": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
-   "nota_url": "https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-expects-inflation-to-remain-persistent-1fbb15f1",
-   "medio": "WSJ",
+   "nota": "“Hoy vamos a ganar”: salió a la luz la profecía íntima del vestuario de Boca antes de vencer a Atlético Mineiro",
+   "nota_url": "https://amdelplata.com/hoy-vamos-a-ganar-salio-a-la-luz-la-profecia-intima-del-vestuario-de-boca-antes-de-vencer-a-atletico-mineiro/",
+   "medio": "Radio del Plata",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "kiki ramos",
+   "tema": "aranda",
    "busquedas": "100+",
-   "nota": "Kiki Ramos explicó el motivo para jugar el Mundial Sub 17 con Haití y no con la Selección Argentina",
-   "nota_url": "https://www.minutouno.com/deportes/kiki-ramos-explico-el-motivo-jugar-el-mundial-sub-17-haiti-y-no-la-seleccion-argentina-n6349280",
-   "medio": "MinutoUno",
+   "nota": "57 comercios participan desde hoy en la campaña de bonos de consumo .- Aranda - Hemeroteca",
+   "nota_url": "https://www.diariodelaribera.net/hemeroteca/aranda/57-comercios-participan-desde-hoy-en-la-campana-de-bonos-de-consumo/",
+   "medio": "Diario de la Ribera",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "alfredo berti",
+   "tema": "di lollo",
+   "busquedas": "100+",
+   "nota": "Las figuras de exportación que tiene Boca",
+   "nota_url": "https://www.tycsports.com/boca-juniors/las-figuras-de-exportacion-que-tiene-boca-id772059.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "murio andy taylor duran duran",
    "busquedas": "200+",
-   "nota": "Arruabarrena y Berti vuelven a cruzarse: el recuerdo único que los une en cancha con Riquelme y Maradona",
-   "nota_url": "https://www.diariouno.com.ar/ovacion/futbol/arruabarrena-y-berti-vuelven-cruzarse-el-recuerdo-unico-que-los-une-cancha-riquelme-y-maradona-n1619748",
-   "medio": "Diario UNO",
+   "nota": "La música, de luto: murió Andy Tayor, el guitarrista de Duran Duran",
+   "nota_url": "https://www.ellitoral.com/show/andytaylor-duranduran-guitarrista-cancerdeprostata-musica-newromantic-simonlebon-birmingham-murio_0_sQbTRbSfLl.html",
+   "medio": "El Litoral",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "boca platense",
-   "busquedas": "500+",
-   "nota": "Santiago del Estero será la sede de la final entre Boca y Platense: quién dirige",
-   "nota_url": "https://www.ole.com.ar/copa-argentina/oficial-santiago-estero-sede-final-copa-argentina-boca-platense_0_mjtDqHqtC3.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "hornets - bulls",
+   "tema": "reali",
    "busquedas": "200+",
-   "nota": "Bulls vs Hornets Prediction, Pick, NBA Cup Odds for Wednesday, November 25",
-   "nota_url": "https://sports.yahoo.com/betting/articles/bulls-vs-hornets-prediction-pick-135140816.html",
-   "medio": "Yahoo Sports",
+   "nota": "Mazda CX-6e, l’eleganza giapponese incontra il piacere di viaggiare. E conquista con i dettagli",
+   "nota_url": "https://dilei.it/video/video/mazda-cx-6e-leleganza-giapponese-incontra-il-piacere-di-viaggiare-e-conquista-con-i-dettagli/2946551/",
+   "medio": "DiLei",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "espn premium",
-   "busquedas": "500+",
-   "nota": "Soulé brilló en la Roma, que le empató al PSG en Francia y frenó su puntaje ideal en la Champions League",
-   "nota_url": "https://www.clarin.com/deportes/psg-vs-roma-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_Y2nEPr2nC3.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "primera división",
-   "busquedas": "5000+",
-   "nota": "Se conocieron los árbitros para los cuartos de final de los playoffs del Clausura: quién va a Instituto-River",
-   "nota_url": "https://www.clarin.com/deportes/conocieron-abitros-cuartos-final-playoffs-clausura-va-instituto-river_0_jin3m6fhfk.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ola gigante",
-   "busquedas": "500+",
-   "nota": "Mira el momento en que parte del muelle de Pacifica se derrumba mientras olas gigantes azotan la costa oeste",
-   "nota_url": "https://cnnespanol.cnn.com/2026/11/25/eeuu/video/muelle-derrumbe-olas-gigantes-california-trax",
-   "medio": "CNN en Español",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tv argentina",
+   "tema": "nfl",
    "busquedas": "200+",
-   "nota": "Argentina midfielder Paredes collapses during TV interview",
-   "nota_url": "https://www.bbc.com/sport/football/articles/cwnv45818z59o",
+   "nota": "Aaron Rodgers: Pittsburgh Steelers release four-time MVP as starting quarterback",
+   "nota_url": "https://www.bbc.com/sport/american-football/articles/c64gn8ryp7jno",
    "medio": "BBC",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "feriados diciembre 2026 argentina",
-   "busquedas": "1000+",
-   "nota": "Cuándo será el próximo fin de semana largo en Argentina y qué días lo conforman",
-   "nota_url": "https://www.eleco.com.ar/nacionales/cuando-sera-el-proximo-fin-de-semana-largo-en-argentina-y-que-dias-lo-conforman",
-   "medio": "El Eco",
+   "tema": "bareiro",
+   "busquedas": "500+",
+   "nota": "“Ya me despedí hace minutos de mis compañeros, voy a San Lorenzo”",
+   "nota_url": "https://mundoazulgrana.com.ar/sanlorenzo/noticias/28655/ya-me-despedi-hace-minutos-de-mis-companeros-voy-a-san-lorenzo_.html/",
+   "medio": "Mundo Azulgrana",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de atlético mineiro contra corinthians",
+   "busquedas": "2000+",
+   "nota": "Free extra ticket on offer for Galo v Corinthians",
+   "nota_url": "https://sports.yahoo.com/articles/free-extra-ticket-offer-galo-145500735.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlético nacional - medellín",
+   "busquedas": "500+",
+   "nota": "¿Juega James Rodríguez? Atlético Nacional vs DIM HOY: alineaciones del partido del cuadrangular final",
+   "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-atletico-nacional-vs-dim-hoy-alineaciones-del-partido-del-cuadrangular-final",
+   "medio": "Bolavip",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reforma",
+   "busquedas": "200+",
+   "nota": "Senado: el Gobierno trabaja en la sesión del jueves para avanzar con la suspensión de las PASO",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/23/senado-el-gobierno-trabaja-en-la-sesion-del-jueves-para-avanzar-con-la-suspension-de-las-paso/",
+   "medio": "Página|12",
+   "relevante": true,
    "temas": []
   }
  ],
