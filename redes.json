@@ -1,13 +1,7 @@
 {
- "actualizado": "25/11 23:10",
+ "actualizado": "26/11 00:47",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Bareiro",
    "url": "https://x.com/search?q=Bareiro",
@@ -15,26 +9,8 @@
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AlarcÃ³n",
-   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
    "relevante": false,
    "temas": []
   },
@@ -45,20 +21,26 @@
    "temas": []
   },
   {
-   "tema": "Belmonte",
-   "url": "https://x.com/search?q=Belmonte",
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Gustavo LÃ³pez",
-   "url": "https://x.com/search?q=Gustavo%20L%C3%83%C2%B3pez",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bonifacio",
-   "url": "https://x.com/search?q=Bonifacio",
+   "tema": "AlarcÃ³n",
+   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Este Boca",
+   "url": "https://x.com/search?q=Este%20Boca",
    "relevante": false,
    "temas": []
   },
@@ -69,151 +51,167 @@
    "temas": []
   },
   {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "Aranda",
-   "url": "https://x.com/search?q=Aranda",
+   "tema": "Y Boca",
+   "url": "https://x.com/search?q=Y%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
+   "tema": "Belmonte",
+   "url": "https://x.com/search?q=Belmonte",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Montiel",
-   "url": "https://x.com/search?q=Montiel",
+   "tema": "Leandro Paredes",
+   "url": "https://x.com/search?q=Leandro%20Paredes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "El VAR",
-   "url": "https://x.com/search?q=El%20VAR",
+   "tema": "GanÃ³ Boca",
+   "url": "https://x.com/search?q=Gan%C3%83%C2%B3%20Boca",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#TodoCaput",
-   "url": "https://x.com/search?q=%23TodoCaput",
+   "tema": "Arce",
+   "url": "https://x.com/search?q=Arce",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
+   "tema": "Paredes y Merentiel",
+   "url": "https://x.com/search?q=Paredes%20y%20Merentiel",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
+   "tema": "Miguel Merentiel",
+   "url": "https://x.com/search?q=Miguel%20Merentiel",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "Velasco",
-   "url": "https://x.com/search?q=Velasco",
+   "tema": "CABJ",
+   "url": "https://x.com/search?q=CABJ",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bonifacio",
+   "url": "https://x.com/search?q=Bonifacio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "VAMOS BOCA CARAJO",
+   "url": "https://x.com/search?q=VAMOS%20BOCA%20CARAJO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Gustavo LÃ³pez",
+   "url": "https://x.com/search?q=Gustavo%20L%C3%83%C2%B3pez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Boca del Vasco",
+   "url": "https://x.com/search?q=Boca%20del%20Vasco",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "rodrigo battaglia",
-   "busquedas": "200+",
-   "nota": "“Hoy vamos a ganar”: salió a la luz la profecía íntima del vestuario de Boca antes de vencer a Atlético Mineiro",
-   "nota_url": "https://amdelplata.com/hoy-vamos-a-ganar-salio-a-la-luz-la-profecia-intima-del-vestuario-de-boca-antes-de-vencer-a-atletico-mineiro/",
-   "medio": "Radio del Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aranda",
+   "tema": "viento",
    "busquedas": "100+",
-   "nota": "57 comercios participan desde hoy en la campaña de bonos de consumo .- Aranda - Hemeroteca",
-   "nota_url": "https://www.diariodelaribera.net/hemeroteca/aranda/57-comercios-participan-desde-hoy-en-la-campana-de-bonos-de-consumo/",
-   "medio": "Diario de la Ribera",
+   "nota": "Súper Niño en Argentina, EN VIVO: alerta por tormentas en 8 provincias y fuertes vientos en la Patagonia y la Costa Atlántica",
+   "nota_url": "https://www.clarin.com/sociedad/super-nino-argentina-vivo-alerta-tormentas-8-provincias-pronostican-fuertes-vientos-patagonia-costa-atlantica_0_WqeVhXbdHj.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "di lollo",
-   "busquedas": "100+",
-   "nota": "Las figuras de exportación que tiene Boca",
-   "nota_url": "https://www.tycsports.com/boca-juniors/las-figuras-de-exportacion-que-tiene-boca-id772059.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "murio andy taylor duran duran",
-   "busquedas": "200+",
-   "nota": "La música, de luto: murió Andy Tayor, el guitarrista de Duran Duran",
-   "nota_url": "https://www.ellitoral.com/show/andytaylor-duranduran-guitarrista-cancerdeprostata-musica-newromantic-simonlebon-birmingham-murio_0_sQbTRbSfLl.html",
-   "medio": "El Litoral",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "reali",
-   "busquedas": "200+",
-   "nota": "Mazda CX-6e, l’eleganza giapponese incontra il piacere di viaggiare. E conquista con i dettagli",
-   "nota_url": "https://dilei.it/video/video/mazda-cx-6e-leleganza-giapponese-incontra-il-piacere-di-viaggiare-e-conquista-con-i-dettagli/2946551/",
-   "medio": "DiLei",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nfl",
-   "busquedas": "200+",
-   "nota": "Aaron Rodgers: Pittsburgh Steelers release four-time MVP as starting quarterback",
-   "nota_url": "https://www.bbc.com/sport/american-football/articles/c64gn8ryp7jno",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bareiro",
+   "tema": "monterrey - américa",
    "busquedas": "500+",
-   "nota": "“Ya me despedí hace minutos de mis compañeros, voy a San Lorenzo”",
-   "nota_url": "https://mundoazulgrana.com.ar/sanlorenzo/noticias/28655/ya-me-despedi-hace-minutos-de-mis-companeros-voy-a-san-lorenzo_.html/",
-   "medio": "Mundo Azulgrana",
+   "nota": "América y Rayados buscan desempatar su historial en Liguilla: así fueron sus 12 enfrentamientos",
+   "nota_url": "https://www.infobae.com/mexico/deportes/2026/11/24/america-y-rayados-buscan-desempatar-su-historial-en-liguilla-asi-fueron-sus-12-enfrentamientos/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de atlético mineiro contra corinthians",
-   "busquedas": "2000+",
-   "nota": "Free extra ticket on offer for Galo v Corinthians",
-   "nota_url": "https://sports.yahoo.com/articles/free-extra-ticket-offer-galo-145500735.html",
+   "tema": "trail blazers - spurs",
+   "busquedas": "500+",
+   "nota": "Blazers Homecoming Offers A Major Test",
+   "nota_url": "https://sports.yahoo.com/nba/articles/blazers-homecoming-offers-major-test-195617950.html",
    "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "atlético nacional - medellín",
+   "tema": "division palermo",
+   "busquedas": "100+",
+   "nota": "División Palermo ganó un Emmy y Korovsky ironizó sobre el ajuste de Milei",
+   "nota_url": "https://noticias.perfil.com/noticias/informacion-general/division-palermo-gano-un-emmy-y-korovsky-ironizo-sobre-el-ajuste-de-milei.phtml",
+   "medio": "Revista Noticias",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "warriors - kings",
    "busquedas": "500+",
-   "nota": "¿Juega James Rodríguez? Atlético Nacional vs DIM HOY: alineaciones del partido del cuadrangular final",
-   "nota_url": "https://bolavip.com/futbol-colombia/juega-james-rodriguez-atletico-nacional-vs-dim-hoy-alineaciones-del-partido-del-cuadrangular-final",
-   "medio": "Bolavip",
+   "nota": "Kings vs Warriors Thread: Prepping That Thanksgiving Turkey",
+   "nota_url": "https://kingsherald.com/game-preview/kings-vs-warriors-thread-prepping-that-thanksgiving-turkey/",
+   "medio": "The Kings Herald",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "reforma",
+   "tema": "rockets - suns",
+   "busquedas": "100+",
+   "nota": "Devin Booker Makes Feelings Clear About Facing Kevin Durant-Led Rockets",
+   "nota_url": "https://sports.yahoo.com/nba/articles/devin-booker-makes-feelings-clear-180042656.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bancor",
    "busquedas": "200+",
-   "nota": "Senado: el Gobierno trabaja en la sesión del jueves para avanzar con la suspensión de las PASO",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/23/senado-el-gobierno-trabaja-en-la-sesion-del-jueves-para-avanzar-con-la-suspension-de-las-paso/",
-   "medio": "Página|12",
+   "nota": "Bancor activa nuevos hipotecarios: quiénes pueden acceder y cuánto pueden pedir",
+   "nota_url": "https://puntoapunto.com.ar/bancor-activa-nuevos-hipotecarios-quienes-pueden-acceder-y-cuanto-pueden-pedir",
+   "medio": "Punto a Punto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ola de calor",
+   "busquedas": "500+",
+   "nota": "Clima. Alerta por un tormentón de hielo: qué es este fenómeno y cómo puede afectar a Córdoba",
+   "nota_url": "https://www.lavoz.com.ar/servicios/alerta-tormenton-hielo-fenomeno-puede-afectar-cordoba_0_gCZ1kkPaJS.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "carlos melconian",
+   "busquedas": "500+",
+   "nota": "Melconian cuestionó el rumbo económico de Milei: “La recesión es incapacidad e impericia”",
+   "nota_url": "https://www.diariopanorama.com/noticia/574181/melconian-cuestiono-rumbo-economico-milei-recesion-incapacidad-e-impericia",
+   "medio": "Diario Panorama",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "sorteo quini 6",
+   "busquedas": "2000+",
+   "nota": "Quini 6: hubo un ganador en La Segunda y $1.100 millones se quedaron en Santa Fe",
+   "nota_url": "https://www.lacapital.com.ar/informacion-general/quini-6-hubo-un-ganador-la-segunda-y-1100-millones-se-quedaron-santa-fe-n10294248.html",
+   "medio": "La Capital",
+   "relevante": false,
    "temas": []
   }
  ],
