@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 08:48",
+ "actualizado": "26/11 09:57",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,6 +33,18 @@
    "temas": []
   },
   {
+   "tema": "Tren Mitre",
+   "url": "https://x.com/search?q=Tren%20Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Colegiales y Carranza",
+   "url": "https://x.com/search?q=Colegiales%20y%20Carranza",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Independiente Rivadavia",
    "url": "https://x.com/search?q=Independiente%20Rivadavia",
    "relevante": false,
@@ -59,32 +71,8 @@
    "temas": []
   },
   {
-   "tema": "Mitre",
-   "url": "https://x.com/search?q=Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Carranza",
-   "url": "https://x.com/search?q=Carranza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Feliz Jueves",
-   "url": "https://x.com/search?q=Feliz%20Jueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#Napalm",
-   "url": "https://x.com/search?q=%23Napalm",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AlarcÃ³n",
-   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
+   "tema": "#FelizJueves",
+   "url": "https://x.com/search?q=%23FelizJueves",
    "relevante": false,
    "temas": []
   },
@@ -95,8 +83,8 @@
    "temas": []
   },
   {
-   "tema": "Colegiales",
-   "url": "https://x.com/search?q=Colegiales",
+   "tema": "AlarcÃ³n",
+   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -104,6 +92,18 @@
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "JosÃ© LeÃ³n SuÃ¡rez",
+   "url": "https://x.com/search?q=Jos%C3%83%C2%A9%20Le%C3%83%C2%B3n%20Su%C3%83%C2%A1rez",
+   "relevante": false,
    "temas": []
   },
   {
@@ -119,37 +119,64 @@
    "temas": []
   },
   {
-   "tema": "Diego Armando Maradona",
-   "url": "https://x.com/search?q=Diego%20Armando%20Maradona",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "avión",
-   "busquedas": "500+",
-   "nota": "Un avión de carga de FedEx se despistó y obligó a suspender las operaciones en el aeropuerto de Miami",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/un-avion-de-carga-de-fedex-se-despisto-y-obligo-a-suspender-las-operaciones-en-el-aeropuerto-de-miami/",
-   "medio": "Infobae",
+   "tema": "diario el eco de tandil",
+   "busquedas": "100+",
+   "nota": "Fernández: «El Diario revela el corazón de Francisco y su espiritualidad»",
+   "nota_url": "https://www.vaticannews.va/es/vaticano/news/2026-11/caenal-virtor-fernandez-el-diario-personal-del-papa-francisco.html",
+   "medio": "Vatican News",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "climatización",
+   "tema": "thanksgiving",
+   "busquedas": "200+",
+   "nota": "Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel",
+   "nota_url": "https://www.noaa.gov/news/thanksgiving-week-weather-potent-coastal-storms-rain-and-snow-to-impact-travel",
+   "medio": "NOAA (.gov)",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "feriados 2027 argentina",
    "busquedas": "100+",
-   "nota": "Mitsubishi Heavy Industries KXZR3: VRF con R32 y recuperación de calor",
-   "nota_url": "https://www.caloryfrio.com/aire-acondicionado/aire-acondicionado-comercial/mitsubishi-heavy-industries-kxzr3-vrf-r32-recuperacion-calor-tres-tubos.html",
-   "medio": "Caloryfrio",
+   "nota": "Calendario de feriados 2027: qué fechas se pueden anticipar con la Ley 27.399 y el Decreto 614/2025 sobre los fines de semana largos",
+   "nota_url": "https://www.canal26.com/general/2026/11/25/calendario-de-feriados-2027-que-fechas-se-pueden-anticipar-con-la-ley-27399-y-el-decreto-6142025-sobre-los-fines-de-semana-largos/",
+   "medio": "Canal26",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "fifa",
+   "busquedas": "200+",
+   "nota": "FIFA confirmó que sufrió un ciberataque",
+   "nota_url": "https://www.lateclapatagonia.com.ar/102496-fifa-confirmo-que-sufrio-un-ciberataque",
+   "medio": "La Tecla Patagonia",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "26 de noviembre",
-   "busquedas": "100+",
-   "nota": "Alivio térmico en el AMBA: cómo estará el tiempo este jueves 26 de noviembre antes de la ola de calor",
-   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-pronostico-para-el-jueves-26-de-noviembre-de-2026-a50-bgd-aX7pk5E1IIGH",
-   "medio": "Perfil",
+   "busquedas": "1000+",
+   "nota": "Horóscopo de hoy, 26 de noviembre: qué dicen los astros para el último jueves del mes",
+   "nota_url": "https://www.rionegro.com.ar/horoscopo/horoscopo-de-hoy-26-de-noviembre-que-dicen-los-astros-para-el-ultimo-jueves-del-mes/",
+   "medio": "Diario Río Negro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "climatización",
+   "busquedas": "500+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
@@ -165,18 +192,18 @@
   {
    "tema": "el once",
    "busquedas": "200+",
-   "nota": "Un detenido por abuso de arma de fuego. Secuestro de municiones y un vehículo",
-   "nota_url": "https://www.lavoz901.com/noticias/un-detenido-por-abuso-de-arma-de-fuego-secuestro-de-municiones-y-un-vehculo.htm",
-   "medio": "La voz 90.1",
+   "nota": "Una turista argentina murió ahogada en una playa nudista de Uruguay",
+   "nota_url": "https://www.clarin.com/sociedad/mujer-argentina-murio-ahogada-playa-nudista-uruguay_0_zsqqs7RSqh.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "bianchi en boca",
-   "busquedas": "100+",
-   "nota": "El récord de Rodolfo Arruabarrena en Boca que supera a Carlos Bianchi y Marcelo Gallardo",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1164052/deportes/record-rodolfo-arruabarrena-boca-supera-carlos-bianchi-marcelo-gallardo.html",
-   "medio": "La Gaceta",
+   "busquedas": "200+",
+   "nota": "El análisis de Closs: \"El Boca de Arruabarrena tiene rasgos del de Bianchi\"",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17553065/video-closs-analisis-boca-arruabarrena-bianchi-rasgos-comparacion",
+   "medio": "ESPN Argentina",
    "relevante": false,
    "temas": []
   },
@@ -186,33 +213,6 @@
    "nota": "Alarma en un vuelo de Aerolíneas Argentinas: detectaron humo en la cabina y el avión debió regresar",
    "nota_url": "https://radiomitre.cienradios.com/sociedad/alarma-en-un-vuelo-de-aerolineas-argentinas-detectaron-humo-en-la-cabina-y-el-avion-debio-regresar/",
    "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el once digital",
-   "busquedas": "100+",
-   "nota": "Presentaron “Tu SAS 100% Digital”: crear una sociedad en Entre Ríos demandará cuatro días hábiles",
-   "nota_url": "https://www.elonce.com/politica/presentaron-tu-sas-100-digital-crear-una-sociedad-en-entre-rios-demandara-cuatro-dias-habiles.htm",
-   "medio": "Elonce.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tren mitre",
-   "busquedas": "1000+",
-   "nota": "El servicio del tren Mitre está interrumpido por un problema eléctrico",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/el-servicio-del-tren-mitre-esta-interrumpido-por-un-problema-electrico-nid26112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nicolás occhiato",
-   "busquedas": "200+",
-   "nota": "La irónica reacción de Nicolás Occhiato a las críticas que recibió su serie \"Somos Así\": \"Coincido en todo\"",
-   "nota_url": "https://exitoina.perfil.com/noticias/escandalo/reaccion-nicolas-occhiato-criticas-somos-asi-coincido-en-todo.phtml",
-   "medio": "Exitoina",
    "relevante": false,
    "temas": []
   }
