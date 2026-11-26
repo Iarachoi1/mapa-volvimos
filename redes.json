@@ -1,10 +1,16 @@
 {
- "actualizado": "26/11 16:54",
+ "actualizado": "26/11 17:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Lozano",
    "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#CatalanLadron",
+   "url": "https://x.com/search?q=%23CatalanLadron",
    "relevante": false,
    "temas": []
   },
@@ -15,26 +21,32 @@
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -47,14 +59,8 @@
    ]
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
@@ -62,6 +68,12 @@
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
    "temas": []
   },
   {
@@ -77,14 +89,20 @@
    "temas": []
   },
   {
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
+   "tema": "DarÃ­o Franco",
+   "url": "https://x.com/search?q=Dar%C3%83%C2%ADo%20Franco",
    "relevante": false,
    "temas": []
   },
@@ -101,118 +119,100 @@
    "temas": []
   },
   {
-   "tema": "#PatriaYFamilia",
-   "url": "https://x.com/search?q=%23PatriaYFamilia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tevez",
-   "url": "https://x.com/search?q=Tevez",
+   "tema": "Menta",
+   "url": "https://x.com/search?q=Menta",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "juventus vs",
+   "busquedas": "100+",
+   "nota": "Juventus, Ekhator to start before possible Monza move for Varela",
+   "nota_url": "https://www.goal.com/en-za/news/juventus-ekhator-to-start-before-possible-monza-move-for-varela/blt1598f6e72b309393",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pasapalabra",
+   "busquedas": "100+",
+   "nota": "El mensaje de un emocionado David a Moisés Laguardia tras su abandono en 'Pasapalabra': \"Aquí tienes un amigo para siempre\"",
+   "nota_url": "https://www.elconfidencial.com/television/programas-tv/2026-11-25/pasapalabra-david-trigo-mensaje-emocionado-moises-abandono-antena3_4472790/",
+   "medio": "El Confidencial",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juventus",
+   "busquedas": "200+",
+   "nota": "Juventus-Omonia 0-1 LIVE, il risultato in diretta",
+   "nota_url": "https://sport.sky.it/calcio/europa-league/partite/2026/giornata-5/juventus-omonia-nicosia/risultato-gol",
+   "medio": "Sky Sport",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "besiktas vs hapoel beer sheva",
+   "busquedas": "100+",
+   "nota": "Georgian police target Beşiktaş fans for waving Palestinian flags | Daily Sabah",
+   "nota_url": "https://www.dailysabah.com/sports/football/georgian-police-target-besiktas-fans-for-waving-palestinian-flags",
+   "medio": "Daily Sabah",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "miguel ángel pichetto",
+   "busquedas": "200+",
+   "nota": "El Gobierno responsabilizó a Brasil por la tensión diplomática: \"No es una situación normal\"",
+   "nota_url": "https://www.filo.news/noticia/2026/11/26/el-gobierno-responsabilizo-a-brasil-por-la-tension-diplomatica-no-es-una-situacion-normal",
+   "medio": "Filo News",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "lyon - lillestrøm",
+   "busquedas": "200+",
+   "nota": "Vicens updates on Openda and Bidstrup ahead of Lillestrøm clash",
+   "nota_url": "https://onefootball.com/en/video/vicens-updates-on-openda-and-bidstrup-ahead-of-lillestrom-clash-43842355",
+   "medio": "OneFootball",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nueva york",
+   "busquedas": "200+",
+   "nota": "La tormenta de Acción de Gracias ya deja a más de 190.000 usuarios sin luz y amenaza con extender los cortes hasta el fin de semana",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/la-tormenta-de-accion-de-gracias-ya-deja-a-mas-de-190000-usuarios-sin-luz-y-amenaza-con-extender-los-cortes-hasta-el-fin-de-semana/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de brighton & hove albion football club contra u craiova",
+   "busquedas": "1000+",
+   "nota": "Brighton & Hove Albion x Universitatea Craiova - Highlights, Summary and Match Report",
+   "nota_url": "https://sports.yahoo.com/soccer/articles/brighton-hove-albion-x-universitatea-175700622.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "reforma",
+   "busquedas": "200+",
+   "nota": "Reforma del Banco Central: cuáles son las claves de la nueva Carta Orgánica y cómo cambiarán las funciones de la entidad",
+   "nota_url": "https://www.clarin.com/economia/reforma-banco-central-claves-nueva-ley-cambiaran-funciones-entidad_0_AEA3aGLI0c.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "primera división",
    "busquedas": "20000+",
    "nota": "Con cambios de horarios, se confirmó el cronograma de cuartos de final del Torneo Clausura",
    "nota_url": "https://www.infobae.com/deportes/2026/11/26/con-cambios-de-horarios-se-confirmo-el-cronograma-de-cuartos-de-final-del-torneo-clausura/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "crystal palace",
-   "busquedas": "100+",
-   "nota": "Crystal Palace vs Real Sociedad predictions: 4-1 Bet Builder tip, team news and odds",
-   "nota_url": "https://www.racingpost.com/sport/football-tips/europa-league/crystal-palace-vs-real-sociedad-odds-predictions-betting-tips-team-news-bet-builder-aLmwZ4t2u9NI/",
-   "medio": "Racing Post",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sunderland afc - jagiellonia białystok",
-   "busquedas": "200+",
-   "nota": "Regis le Bris press conference: Sunderland vs Jagiellonia Bialystok",
-   "nota_url": "https://www.bbc.co.uk/sport/football/articles/cwr7g9j445v7o",
-   "medio": "BBC",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bull market",
-   "busquedas": "200+",
-   "nota": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
-   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-26/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading",
-   "medio": "Bloomberg.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "crystal palace - real sociedad",
-   "busquedas": "200+",
-   "nota": "Crystal Palace vs Real Sociedad, en vivo, por la UEFA Europa League: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/26/crystal-palace-vs-real-sociedad-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "deuda",
-   "busquedas": "100+",
-   "nota": "Daza reveló que el Gobierno pidió activar el swap chino por u$s 5000 millones",
-   "nota_url": "https://www.cronista.com/economia-politica/daza-revelo-que-el-gobierno-pidio-activar-el-swap-chino-por-us-5000-millones/",
-   "medio": "El Cronista",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "sticker con audio whatsapp",
-   "busquedas": "200+",
-   "nota": "Cómo ser un testador de WhatsApp para probar los stickers con audio",
-   "nota_url": "https://www.infobae.com/tecno/2026/11/26/como-ser-un-testador-de-whatsapp-para-probar-los-stickers-con-audio/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "juan musso",
-   "busquedas": "200+",
-   "nota": "Racing busca a Juan Musso como posible reemplazante de Facundo Cambeses de cara a un 2027 sin copas interna...",
-   "nota_url": "https://bolavip.com/ar/futbolargentino/racing-busca-a-juan-musso-como-posible-reemplazante-de-facundo-cambeses-de-cara-a-un-2027-sin-copas-internacionales",
-   "medio": "Bolavip Argentina",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "rocky",
-   "busquedas": "100+",
-   "nota": "'I Play Rocky,' The Untold Struggles That Brought Sylvester Stallone’s Iconic Film to Life",
-   "nota_url": "https://www.yahoo.com/entertainment/videos/play-rocky-untold-struggles-brought-142300631.html",
-   "medio": "Yahoo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "temporal",
-   "busquedas": "500+",
-   "nota": "Buscan a Keila, la joven misionera arrastrada por un río desbordado en Brasil",
-   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/26/buscan-a-keila-la-joven-misionera-arrastrada-por-un-rio-desbordado-en-brasil/",
-   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   }
