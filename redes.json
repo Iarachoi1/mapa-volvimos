@@ -1,22 +1,10 @@
 {
- "actualizado": "26/11 09:57",
+ "actualizado": "26/11 11:14",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Lozano",
    "url": "https://x.com/search?q=Lozano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
@@ -27,26 +15,20 @@
    "temas": []
   },
   {
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santucho",
    "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tren Mitre",
-   "url": "https://x.com/search?q=Tren%20Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Colegiales y Carranza",
-   "url": "https://x.com/search?q=Colegiales%20y%20Carranza",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Independiente Rivadavia",
-   "url": "https://x.com/search?q=Independiente%20Rivadavia",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
@@ -59,8 +41,14 @@
    ]
   },
   {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
+   "tema": "Independiente Rivadavia",
+   "url": "https://x.com/search?q=Independiente%20Rivadavia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ALaBarbarossa",
+   "url": "https://x.com/search?q=%23ALaBarbarossa",
    "relevante": false,
    "temas": []
   },
@@ -71,8 +59,14 @@
    "temas": []
   },
   {
-   "tema": "#FelizJueves",
-   "url": "https://x.com/search?q=%23FelizJueves",
+   "tema": "Mitre",
+   "url": "https://x.com/search?q=Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
@@ -83,8 +77,8 @@
    "temas": []
   },
   {
-   "tema": "AlarcÃ³n",
-   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
+   "tema": "colegiales y carranza",
+   "url": "https://x.com/search?q=colegiales%20y%20carranza",
    "relevante": false,
    "temas": []
   },
@@ -95,26 +89,26 @@
    "temas": []
   },
   {
+   "tema": "#LaMaÃ±anaConMoria",
+   "url": "https://x.com/search?q=%23LaMa%C3%83%C2%B1anaConMoria",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$8.000 OFF",
+   "url": "https://x.com/search?q=%248.000%20OFF",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tadeo",
    "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "JosÃ© LeÃ³n SuÃ¡rez",
-   "url": "https://x.com/search?q=Jos%C3%83%C2%A9%20Le%C3%83%C2%B3n%20Su%C3%83%C2%A1rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santiago del Estero",
-   "url": "https://x.com/search?q=Santiago%20del%20Estero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
+   "tema": "Guido",
+   "url": "https://x.com/search?q=Guido",
    "relevante": false,
    "temas": []
   },
@@ -123,9 +117,87 @@
    "url": "https://x.com/search?q=%23ElClubDelMoro",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "AlarcÃ³n",
+   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "playa",
+   "busquedas": "100+",
+   "nota": "Una joven entrerriana murió ahogada en una playa nudista de Uruguay",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/26/una-joven-entrerriana-murio-ahogada-en-una-playa-nudista-de-uruguay/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "peter lamelas",
+   "busquedas": "200+",
+   "nota": "Peter Lamelas le pidió a Donald Trump una nueva cumbre con Javier Milei en 2027",
+   "nota_url": "https://www.rionegro.com.ar/politica/relacion-con-estados-unidos-el-embajador-peter-lamelas-le-pidio-a-donald-trump-una-nueva-cumbre-con-javier-milei-en-2027-4814133/",
+   "medio": "Diario Río Negro",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "oliver bearman",
+   "busquedas": "200+",
+   "nota": "El fotógrafo de la F1 aseguró que un piloto negocia para sumarse a Alpine en 2027 y alertó a los fanáticos de Franco Colapinto",
+   "nota_url": "https://tn.com.ar/deportes/formula-1/2026/11/24/un-fotografo-de-la-f1-revelo-la-reaccion-de-los-voceros-de-alpine-cuando-les-pregunto-por-las-presuntas-negociaciones-con-bearman/",
+   "medio": "TN",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "elizabeth holmes",
+   "busquedas": "100+",
+   "nota": "Amanda Seyfried Reveals How Emma Stone Connected Her With Nathan Fielder for ‘You Can See Everything’",
+   "nota_url": "https://parade.com/celebrities/tonight-show-amanda-seyfried-emma-stone-nathan-fielder-you-can-see-everything",
+   "medio": "Parade Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aduana",
+   "busquedas": "100+",
+   "nota": "Por qué Chile destruyó más de 25 toneladas de yerba mate",
+   "nota_url": "https://www.mendozapost.com/policiales/por-que-chile-destruyo-mas-de-25-toneladas-de-yerba-mate/",
+   "medio": "Mendoza Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "calendario 2027",
+   "busquedas": "500+",
+   "nota": "Calendario de feriados 2027: qué fechas se pueden anticipar con la Ley 27.399 y el Decreto 614/2025 sobre los fines de semana largos",
+   "nota_url": "https://www.canal26.com/general/2026/11/25/calendario-de-feriados-2027-que-fechas-se-pueden-anticipar-con-la-ley-27399-y-el-decreto-6142025-sobre-los-fines-de-semana-largos/",
+   "medio": "Canal26",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "veruschka",
+   "busquedas": "200+",
+   "nota": "Veruschka von Lehndorff Throughout the Years [PHOTOS]",
+   "nota_url": "https://wwd.com/eye/people/gallery/veruschka-von-lehndorff-throughout-the-years-1239465828/",
+   "medio": "WWD",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gorillaz en cordoba",
+   "busquedas": "100+",
+   "nota": "Gorillaz en el Kempes: Municipio y Provincia llevarán adelante un operativo de ordenamiento",
+   "nota_url": "https://cordoba.gob.ar/gorillaz-en-el-kempes-municipio-y-provincia-llevaran-adelante-un-operativo-de-ordenamiento/",
+   "medio": "Municipalidad de Córdoba.",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "diario el eco de tandil",
    "busquedas": "100+",
@@ -137,82 +209,10 @@
   },
   {
    "tema": "thanksgiving",
-   "busquedas": "200+",
-   "nota": "Thanksgiving week weather: Potent coastal storms, rain and snow to impact travel",
-   "nota_url": "https://www.noaa.gov/news/thanksgiving-week-weather-potent-coastal-storms-rain-and-snow-to-impact-travel",
-   "medio": "NOAA (.gov)",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "feriados 2027 argentina",
-   "busquedas": "100+",
-   "nota": "Calendario de feriados 2027: qué fechas se pueden anticipar con la Ley 27.399 y el Decreto 614/2025 sobre los fines de semana largos",
-   "nota_url": "https://www.canal26.com/general/2026/11/25/calendario-de-feriados-2027-que-fechas-se-pueden-anticipar-con-la-ley-27399-y-el-decreto-6142025-sobre-los-fines-de-semana-largos/",
-   "medio": "Canal26",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "fifa",
-   "busquedas": "200+",
-   "nota": "FIFA confirmó que sufrió un ciberataque",
-   "nota_url": "https://www.lateclapatagonia.com.ar/102496-fifa-confirmo-que-sufrio-un-ciberataque",
-   "medio": "La Tecla Patagonia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "26 de noviembre",
-   "busquedas": "1000+",
-   "nota": "Horóscopo de hoy, 26 de noviembre: qué dicen los astros para el último jueves del mes",
-   "nota_url": "https://www.rionegro.com.ar/horoscopo/horoscopo-de-hoy-26-de-noviembre-que-dicen-los-astros-para-el-ultimo-jueves-del-mes/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "climatización",
    "busquedas": "500+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "multas provincia",
-   "busquedas": "100+",
-   "nota": "Cambia el trámite de la licencia de conducir: ahora se podrá pagar el CENAT sin abonar las multas de tránsito en el mismo comprobante",
-   "nota_url": "https://www.cronista.com/informacion-gral/cambia-el-tramite-de-la-licencia-de-conducir-ahora-se-podra-pagar-el-cenat-sin-abonar-las-multas-de-transito-en-el-mismo-comprobante/",
-   "medio": "El Cronista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el once",
-   "busquedas": "200+",
-   "nota": "Una turista argentina murió ahogada en una playa nudista de Uruguay",
-   "nota_url": "https://www.clarin.com/sociedad/mujer-argentina-murio-ahogada-playa-nudista-uruguay_0_zsqqs7RSqh.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bianchi en boca",
-   "busquedas": "200+",
-   "nota": "El análisis de Closs: \"El Boca de Arruabarrena tiene rasgos del de Bianchi\"",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17553065/video-closs-analisis-boca-arruabarrena-bianchi-rasgos-comparacion",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vuelo",
-   "busquedas": "100+",
-   "nota": "Alarma en un vuelo de Aerolíneas Argentinas: detectaron humo en la cabina y el avión debió regresar",
-   "nota_url": "https://radiomitre.cienradios.com/sociedad/alarma-en-un-vuelo-de-aerolineas-argentinas-detectaron-humo-en-la-cabina-y-el-avion-debio-regresar/",
-   "medio": "Radio Mitre",
+   "nota": "Thanksgiving storm brings dangerous conditions to the Philadelphia region | Live updates",
+   "nota_url": "https://6abc.com/live-updates/philadelphia-weather-forecast-storm-thanksgiving-expected-bring-high-wind-rain/20074802/",
+   "medio": "6abc Philadelphia",
    "relevante": false,
    "temas": []
   }
