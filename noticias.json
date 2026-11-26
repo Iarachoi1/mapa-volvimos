@@ -1,7 +1,7 @@
 {
  "semana": "25 de noviembre de 2026",
  "fecha": "2026-11-25",
- "actualizado": "25/11 16:46",
+ "actualizado": "25/11 21:47",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -18,10 +18,10 @@
      "url": "https://bardeo.news/politica/-se-vienen-los-superdomingos-peronistas-en-2027-_a6b07257c5e0aceca404117fb"
     },
     {
-     "titulo": "Se discute la Ley de Ludopatía",
+     "titulo": "Diego Santilli presentó su informe de gestión ante el Senado",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
      "fecha": "25/11/2026",
-     "url": "https://cenital.com/se-discute-la-ley-de-ludopatia/",
+     "url": "https://cenital.com/diego-santilli-presento-su-informe-de-gestion-ante-el-senado/",
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     }
    ],
@@ -30,6 +30,13 @@
   "CABA": {
    "top3": [
     {
+     "titulo": "Combatiendo en capital Legislatura porteña: Jorge Macri se encamina a aprobar el presupuesto 2027 pese a las fricciones con LLA Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "25/11/2026",
+     "url": "https://www.letrap.com.ar/politica/legislatura-portena-jorge-macri-se-encamina-aprobar-el-presupuesto-2027-pese-las-fricciones-lla-n5428500",
+     "tag": "Gestión"
+    },
+    {
      "titulo": "Senado. Cuándo se vota la Reforma Electoral de Milei en el Congreso, con la posible suspensión de las PASO",
      "medio": "La Nación",
      "fecha": "25/11/2026",
@@ -37,25 +44,18 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Interna de Pro. En un gesto para descomprimir, Jorge Macri desplazó a tres funcionarios que estaban en la mira de su primo",
-     "medio": "La Nación",
+     "titulo": "Presupuesto 2027: los bloques fijaron posiciones y sigue la discusión en la Legislatura porteña",
+     "medio": "El Parlamentario",
      "fecha": "25/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/en-un-gesto-para-descomprimir-la-interna-jorge-macri-desplazo-a-tres-funcionarios-que-estaban-en-la-nid25112026/",
+     "url": "https://www.parlamentario.com/2026/11/25/presupuesto-2027-los-bloques-fijaron-posiciones-y-sigue-la-discusion-en-la-legislatura-portena/",
      "tag": "Política"
     },
     {
-     "titulo": "Pese a la crisis, Milei lo sostiene a Caputo, no renuncia y en Rosada afirman que \"el modelo no se cambia\"",
-     "medio": "El Destape",
+     "titulo": "Un asesor de Villarruel expuso un viejo tuit de Milei contra Santilli mientras el jefe de Gabinete exponía en el Senado",
+     "medio": "Perfil",
      "fecha": "25/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/pese-suba-dolar-riesgo-pais-recesion-milei-sostiene-caputo-descarta-cambios-modelo-economico-20261125145728",
+     "url": "https://www.perfil.com/politica/mario-russo-expuso-un-viejo-tweet-de-milei-lleno-de-insultos-contra-santilli-a3Ii32N9stJc",
      "tag": "Gabinete"
-    },
-    {
-     "titulo": "El Gobierno busca mostrar fortaleza política en el Congreso para aliviar la presión de los mercados financieros",
-     "medio": "Infobae",
-     "fecha": "25/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/25/el-gobierno-busca-mostrar-fortaleza-politica-en-el-congreso-para-aliviar-la-presion-de-los-mercados-financieros/",
-     "tag": "Gestión"
     },
     {
      "titulo": "Subte: un consorcio argentino-chino presentó la oferta más baja para construir la línea F",
@@ -65,6 +65,20 @@
      "tag": "Ciudad"
     },
     {
+     "titulo": "Rodrigo de Loredo planteó una alianza opositora con Milei para disputar Córdoba: “Si vamos unidos, pierde el peronismo”",
+     "medio": "Infobae",
+     "fecha": "25/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/25/rodrigo-de-loredo-planteo-una-alianza-opositora-con-milei-para-disputar-cordoba-si-vamos-unidos-pierde-el-peronismo/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Interna de Pro. En un gesto para descomprimir, Jorge Macri desplazó a tres funcionarios que estaban en la mira de su primo",
+     "medio": "La Nación",
+     "fecha": "25/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/en-un-gesto-para-descomprimir-la-interna-jorge-macri-desplazo-a-tres-funcionarios-que-estaban-en-la-nid25112026/",
+     "tag": "Política"
+    },
+    {
      "titulo": "Apuesta electoral. Frigerio se alinea con el objetivo de Milei y busca suspender las PASO en Entre Ríos",
      "medio": "La Nación",
      "fecha": "25/11/2026",
@@ -72,31 +86,17 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "Ludopatía: antes del debate, los aliados piden un compromiso del Gobierno para que haya ley antes de 2027",
-     "medio": "Infobae",
+     "titulo": "Santilli debutó ante el Congreso: clamor por la reelección de Milei y omisión de la crisis",
+     "medio": "El Destape",
      "fecha": "25/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/25/ludopatia-antes-del-debate-los-aliados-piden-un-compromiso-del-gobierno-para-que-haya-ley-antes-de-2027/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Nuevo desmarque. Bullrich, sobre la posible reelección de Milei: “No creo que baste con decir que todo mejorará en 2028″",
-     "medio": "La Nación",
-     "fecha": "25/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/bullrich-sobre-una-posible-reeleccion-de-milei-no-creo-que-baste-con-decir-que-todo-mejorara-en-2028-nid25112026/",
+     "url": "https://www.eldestapeweb.com/politica/santilli-dio-primer-informe-gestion-senado-defendio-caputo-pidio-reeleccion-milei-20261125173540",
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "La economía reactivó tensiones con las provincias: la rigidez del Gobierno y el reclamo de un pacto fiscal",
-     "medio": "Infobae",
+     "titulo": "Pese a la crisis, Milei lo sostiene a Caputo, no renuncia y en Rosada afirman que \"el modelo no se cambia\"",
+     "medio": "El Destape",
      "fecha": "25/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/25/la-economia-reactivo-tensiones-con-las-provincias-la-rigidez-del-gobierno-y-el-reclamo-de-un-pacto-fiscal/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Jorge Macri anunció un recorte en su gabinete: eliminó dos áreas y 118 cargos jerárquicos en el Gobierno porteño",
-     "medio": "Infobae",
-     "fecha": "25/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/25/jorge-macri-anuncio-un-recorte-en-su-gabinete-elimino-dos-areas-y-118-cargos-jerarquicos-en-el-gobierno-porteno/",
+     "url": "https://www.eldestapeweb.com/politica/pese-suba-dolar-riesgo-pais-recesion-milei-sostiene-caputo-descarta-cambios-modelo-economico-20261125145728",
      "tag": "Gabinete"
     }
    ],
@@ -112,22 +112,22 @@
   "Buenos Aires": {
    "top3": [
     {
-     "titulo": "LA TECLA MAR DEL PLATA Los movimientos en el gabinete local El regreso de Guillermo Montenegro a la Intendencia trajo nuevas designaciones, salidas y continuidades, con la mirada puesta en el tramo final de su gestión y el 2027.",
-     "medio": "La Tecla",
-     "fecha": "25/11/2026",
-     "url": "https://www.latecla.info/171406-los-movimientos-en-el-gabinete-local"
-    },
-    {
-     "titulo": "ELECCIONES 2027 Susbielles bendijo la carrera presidencial de Kicillof desde el puerto de Bahía Blanca Por Macarena Ramírez",
+     "titulo": "ELECCIONES 2027 Kicillof suma: durante un acto en Bahía Blanca, Susbielles bendijo la carrera presidencial del gobernador Por Macarena Ramírez",
      "medio": "Letra P",
      "fecha": "25/11/2026",
      "url": "https://www.letrap.com.ar/politica/kicillof-suma-un-acto-bahia-blanca-susbielles-bendijo-la-carrera-presidencial-del-gobernador-n5428488"
     },
     {
-     "titulo": "Con las elecciones en la mira, Bullrich apuró a Milei: “No alcanza con decir que todo mejorará en 2028”",
+     "titulo": "Santilli defendió a Milei en el Senado y agitó su candidatura bonaerense: “Si pudimos en Rosario, se puede en el conurbano”",
      "medio": "Info Cielo",
      "fecha": "25/11/2026",
-     "url": "https://www.infocielo.com/politica-y-economia/con-las-elecciones-en-la-mira-bullrich-apuro-a-milei-no-alcanza-con-decir-que-todo-mejorara-en-2028"
+     "url": "https://www.infocielo.com/politica-y-economia/santilli-defendio-a-milei-en-el-senado-y-agito-su-candidatura-bonaerense-si-pudimos-en-rosario-se-puede-en-el-conurbano"
+    },
+    {
+     "titulo": "LA OTRA BATALLA DEL GOBERNADOR Milei sigue competitivo para 2027 y enfrenta a un Kicillof que recorta distancias",
+     "medio": "La Tecla",
+     "fecha": "25/11/2026",
+     "url": "https://www.latecla.info/171409-milei-sigue-competitivo-para-2027-y-enfrenta-a-un-kicillof-que-recorta-distancias"
     }
    ],
    "imagen": [
@@ -148,10 +148,10 @@
      "url": "https://www.elancasti.com.ar/politica-y-economia/jalil-pidio-los-diputados-nacionales-que-aprueben-el-presupuesto-2027-y-anticipo-un-ano-austeridad-n626763"
     },
     {
-     "titulo": "El tribunal ya puede resolver la apelación Para la Fiscalía, el decreto que frenó la ley universitaria es inconstitucional",
+     "titulo": "video Presentación del Informe de Gestión ante el Senado Santilli defendió el rumbo económico y aseguró que Milei va por la reelección",
      "medio": "El Ancasti",
      "fecha": "25/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/para-la-fiscalia-el-decreto-que-freno-la-ley-universitaria-es-inconstitucional-n626774"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/santilli-defendio-el-rumbo-economico-y-aseguro-que-milei-va-la-reeleccion-n626776"
     }
    ],
    "imagen": []
@@ -159,22 +159,22 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "El Senado se encamina a aprobar la Ley de Ludopatía tras un acuerdo entre el oficialismo y el peronismo",
+     "titulo": "Merino confirmó que Trelew votará el 21 de marzo de 2027 y renovará intendente y concejales",
      "medio": "ADN Sur",
      "fecha": "25/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/el-senado-se-encamina-a-aprobar-la-ley-de-ludopatia-tras-un-acuerdo-entre-el-oficialismo-y-el-peronismo_a6b07027c1af833331481463a"
+     "url": "https://www.adnsur.com.ar/politica/merino-confirmo-que-trelew-votara-el-21-de-marzo-de-2027-y-renovara-intendente-y-concejales_a6b0777901af83333148d8f7b"
     },
     {
-     "titulo": "Gaiman confirmó su intención de adherir al desdoblamiento del Gobierno de Chubut: votarán el 21 de marzo",
+     "titulo": "Santilli reivindicó los resultados de Milei y lanzó un mensaje electoral ante el Senado",
      "medio": "ADN Sur",
      "fecha": "25/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/gaiman-confirmo-su-intencion-de-adherir-al-desdoblamiento-del-gobierno-de-chubut--votaran-el-21-de-marzo_a6b07012e1af8333314811631"
+     "url": "https://www.adnsur.com.ar/politica/santilli-reivindico-los-resultados-de-milei-y-lanzo-un-mensaje-electoral-ante-el-senado_a6b074bd91af8333314892140"
     },
     {
-     "titulo": "Milei designó a un nuevo funcionario en Capital Humano",
-     "medio": "Diario Jornada",
+     "titulo": "El Ejecutivo remitió a la Legislatura el decreto de convocatoria a elecciones",
+     "medio": "El Chubut",
      "fecha": "25/11/2026",
-     "url": "https://www.diariojornada.com.ar/427671/politica/milei_designo_a_un_nuevo_funcionario_en_capital_humano"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-25-13-2-0-el-ejecutivo-remitio-a-la-legislatura-el-decreto-de-convocatoria-a-elecciones"
     }
    ],
    "imagen": []
@@ -182,23 +182,22 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "El Senado convertirá mañana en ley el proyecto sobre Ludopatía",
-     "medio": "Hoy Dia",
-     "fecha": "25/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/el-senado-convertira-manana-en-ley-el-proyecto-sobre-ludopatia/",
-     "tag": "También en CBA24N"
-    },
-    {
-     "titulo": "Interna en el oficialismo. Bullrich pidió cambios en el plan económico y afirmó: \"Estoy preparada para ser presidenta\"",
+     "titulo": "Congreso de la Nación. Santilli defendió al Gobierno en el Senado: “Milei no se cayó a los 6 meses y va por la reelección\"",
      "medio": "Cadena3",
      "fecha": "25/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/bullrich-pidio-cambios-en-el-plan-economico-y-afirmo-estoy-preparada-para-ser-presidenta_616498"
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/santilli-defendio-al-gobierno-en-el-senado-milei-no-se-cayo-a-los-6-meses-y-va-por-la-reeleccion_616296"
     },
     {
-     "titulo": "El bloque de Pullaro y Llaryora evalúa no dar quórum para la sesión del Presupuesto",
-     "medio": "La Politica Online",
+     "titulo": "Presupuesto 2027: con la participación de funcionarios de Economía, comenzó el tratamiento en comisiones",
+     "medio": "Legislatura de Córdoba",
      "fecha": "25/11/2026",
-     "url": "https://www.lapoliticaonline.com/congreso/provincias-unidas-y-el-mid-evaluan-no-dar-quorum-en-diputados-y-peligra-la-sesion-por-el-presupuesto/"
+     "url": "https://legislaturacba.gob.ar/presupuesto-2027-con-la-participacion-de-funcionarios-de-economia-comenzo-el-tratamiento-en-comisiones/"
+    },
+    {
+     "titulo": "Rodrigo de Loredo planteó una alianza opositora con Milei para disputar Córdoba: “Si vamos unidos, pierde el peronismo”",
+     "medio": "Infobae",
+     "fecha": "25/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/25/rodrigo-de-loredo-planteo-una-alianza-opositora-con-milei-para-disputar-cordoba-si-vamos-unidos-pierde-el-peronismo/"
     }
    ],
    "imagen": [
@@ -225,10 +224,10 @@
      "url": "https://www.infobae.com/politica/2026/11/25/milei-suspendio-su-presencia-en-un-congreso-en-corrientes-y-viaja-a-paraguay/"
     },
     {
-     "titulo": "Javier Milei no vendrá a Corrientes para el 13° Congreso de Economía Regional",
-     "medio": "El Litoral",
+     "titulo": "Milei se bajó de un acto con Caputo en Corrientes en medio de la tensión del plan económico",
+     "medio": "La Politica Online",
      "fecha": "25/11/2026",
-     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-25-14-38-0-javier-milei-no-vendra-a-corrientes-para-el-13-congreso-de-economia-regional-y-el-cierre-estara-a-cargo-de-luis-caputo"
+     "url": "https://www.lapoliticaonline.com/politica/milei-se-bajo-de-un-acto-con-caputo-en-corrientes-en-medio-de-la-tension-del-plan-economico/"
     }
    ],
    "imagen": []
@@ -236,23 +235,24 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "El Senado avanzó en el análisis del Presupuesto 2027: expusieron tres ministros",
-     "medio": "El Once",
+     "titulo": "Con la presencia de ministros, el Senado avanzó en el análisis del Presupuesto 2027 de Entre Ríos",
+     "medio": "Ahora",
      "fecha": "25/11/2026",
-     "url": "https://www.elonce.com/politica/el-senado-avanzo-en-el-analisis-del-presupuesto-2027-expusieron-tres-ministros.htm",
-     "tag": "También en Ahora, AFP Digital y 1 más"
+     "url": "https://ahora.com.ar/economia/con-la-presencia-de-ministros-el-senado-avanzo-en-el-analisis-del-presupuesto-2027-de-entre-rios",
+     "tag": "También en AFP Digital"
+    },
+    {
+     "titulo": "PASO en Entre Ríos: el peronismo rechazó el proyecto del Gobierno",
+     "medio": "Ahora",
+     "fecha": "25/11/2026",
+     "url": "https://ahora.com.ar/politica/pj-rechazo-suspension-paso-entre-rios-2027",
+     "tag": "También en UNO ER"
     },
     {
      "titulo": "Patricia Bullrich le pidió a Milei “corregir el rumbo” económico antes de las elecciones de 2027",
      "medio": "El Once",
      "fecha": "25/11/2026",
      "url": "https://www.elonce.com/politica/patricia-bullrich-le-pidio-a-milei-corregir-el-rumbo-economico-antes-de-las-elecciones-de-2027.htm"
-    },
-    {
-     "titulo": "PASO en Entre Ríos: el peronismo rechazó el proyecto del Gobierno",
-     "medio": "Ahora",
-     "fecha": "25/11/2026",
-     "url": "https://ahora.com.ar/politica/pj-rechazo-suspension-paso-entre-rios-2027"
     }
    ],
    "imagen": []
@@ -260,10 +260,22 @@
   "Formosa": {
    "top3": [
     {
-     "titulo": "Argentina en recesión: evalúan que el escenario actual se mantendrá hasta fin de año y que podría profundizarse en 2027",
+     "titulo": "Abandono, peajes e inseguridad vial: el impacto real detrás del plan de Milei en las rutas nacionales de Formosa",
+     "medio": "El Destape",
+     "fecha": "25/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/privatizacion-vial-formosa-impacto-real-rutas-11-81-86-detras-plan-peajes-milei-20261125173851"
+    },
+    {
+     "titulo": "El Senado debatirá este jueves la suspensión de las PASO y la ley de ludopatía",
      "medio": "La Mañana",
      "fecha": "25/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108984/argentina-en-recesin-evalan-que-el-escenario-actual-se-mantendr-hasta-fin-de-ao-y-que-podra-profundizarse-en-2027/"
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108997/el-senado-debatir-este-jueves-la-suspensin-de-las-paso-y-la-ley-de-ludopata/"
+    },
+    {
+     "titulo": "Nuevo mensaje de Patricia Bullrich a Milei: \"Tenemos tiempo para corregir el rumbo\"",
+     "medio": "La Mañana",
+     "fecha": "25/11/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/109001/nuevo-mensaje-de-patricia-bullrich-a-milei-tenemos-tiempo-para-corregir-el-rumbo/"
     }
    ],
    "imagen": []
@@ -271,24 +283,24 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Jujuy. Paro universitario en Jujuy: marcha desde las 17.30 en protesta al Presupuesto 2027 Por Maria Eugenia Burgos",
+     "titulo": "La Legislatura de Jujuy sesiona este jueves: ingresa el Presupuesto 2027",
      "medio": "Todo Jujuy",
      "fecha": "25/11/2026",
-     "url": "https://www.todojujuy.com/jujuy/paro-universitario-jujuy-marcha-las-1730-protesta-al-presupuesto-2027-n299313"
+     "url": "https://www.todojujuy.com/jujuy/la-legislatura-jujuy-sesiona-este-jueves-ingresa-el-presupuesto-2027-n299367"
     },
     {
-     "titulo": "Sadir posiciona a Jujuy como nodo estratégico de exportación y desarrollo productivo en el VIII Foro del Corredor Bioceánico",
+     "titulo": "El Senado debatirá este jueves la suspensión de las PASO y la ley de ludopatía",
      "medio": "Somos Jujuy",
      "fecha": "25/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/sadir-posiciona-jujuy-como-nodo-estrategico-exportacion-desarrollo-productivo-viii-foro-corredor-bioceanico-n127697",
+     "url": "https://www.somosjujuy.com.ar/politica/el-senado-debatira-jueves-suspension-paso-ley-ludopatia-n127751",
      "tag": "También en El Tribuno"
     },
     {
-     "titulo": "Jujuy fortalece la sanidad animal con la entrega de herramientas e insumos a productores de Tilcara",
-     "medio": "Prensa oficial de Jujuy",
+     "titulo": "Diego Santilli presenta ante el Senado su primer informe como jefe de Gabinete: \"Valió la pena ordenar las cuentas\"",
+     "medio": "Somos Jujuy",
      "fecha": "25/11/2026",
-     "url": "https://prensa.jujuy.gob.ar/jujuy/jujuy-fortalece-la-sanidad-animal-la-entrega-herramientas-e-insumos-productores-tilcara-n126101",
-     "tag": "También en El Tribuno"
+     "url": "https://www.somosjujuy.com.ar/politica/diego-santilli-presenta-senado-su-primer-informe-como-jefe-gabinete-valio-pena-ordenar-cuentas-n127754",
+     "tag": "También en Todo Jujuy"
     }
    ],
    "imagen": []
@@ -302,16 +314,16 @@
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83611/el-bloqueo-opositor-traba-al-pj--la-reforma-electoral-pasa-a-marzo"
     },
     {
-     "titulo": "Ludopatía: acordaron proyecto en el Senado y mañana se aprobaría la ley",
-     "medio": "La Arena",
-     "fecha": "25/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/ludopatia-acordaron-proyecto-en-el-senado-y-manana-se-aprobaria-la-ley-202611251410"
-    },
-    {
      "titulo": "El Senado debatirá este jueves la suspensión de las PASO y la ley de ludopatía",
      "medio": "El Diario de La Pampa",
      "fecha": "25/11/2026",
      "url": "https://www.eldiariodelapampa.com.ar/pais/83636/el-senado-debatira-este-jueves-la-suspension-de-las-paso-y-la-ley-de-ludopatia"
+    },
+    {
+     "titulo": "Sortearán vacantes para ingresantes a Inicial y Secundaria en 2027",
+     "medio": "La Arena",
+     "fecha": "25/11/2026",
+     "url": "https://www.laarena.com.ar/la-pampa/sortearan-vacantes-para-ingresantes-a-inicial-y-secundaria-en-2027-2026112518180"
     }
    ],
    "imagen": []
@@ -319,22 +331,22 @@
   "La Rioja": {
    "top3": [
     {
-     "titulo": "La Justicia anuló la Junta Electoral de AMP y suspendió las elecciones del gremio",
+     "titulo": "Santilli defendió al Gobierno en el Senado: “Milei no se cayó a los seis meses y hoy va por la reelección”",
      "medio": "Nueva Rioja",
      "fecha": "25/11/2026",
-     "url": "https://nuevarioja.com.ar/sociedad/la-justicia-anulo-la-junta-electoral-de-amp-y-suspendio-las-elecciones-del-gremio.htm"
+     "url": "https://nuevarioja.com.ar/politica/santilli-defendio-al-gobierno-en-el-senado-milei-no-se-cayo-a-los-seis-meses-y-hoy-va-por-la-reeleccion.htm"
+    },
+    {
+     "titulo": "Diputados debaten el Presupuesto 2027",
+     "medio": "Nueva Rioja",
+     "fecha": "25/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/diputados-debaten-el-presupuesto-2027.htm"
     },
     {
      "titulo": "¿DE QUÉ LADO ESTÁS, GITANO? Quintela mete ruido en la interna peronista: malestar por las frases tirabombas y el sinfín de fotos Por Lucio Di Giuseppe",
      "medio": "Letra P",
      "fecha": "25/11/2026",
      "url": "https://www.letrap.com.ar/politica/ricardo-quintela-mete-ruido-la-interna-peronista-malestar-las-frases-tirabombas-y-el-sinfin-fotos-n5428471"
-    },
-    {
-     "titulo": "\"Charlamos con Quintela\" reunió a dirigentes y militantes en Misiones",
-     "medio": "Nueva Rioja",
-     "fecha": "25/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/charlamos-con-quintela-reunio-a-dirigentes-y-militantes-en-misiones.htm"
     }
    ],
    "imagen": []
@@ -342,23 +354,22 @@
   "Mendoza": {
    "top3": [
     {
+     "titulo": "Diputados aprobó el proyecto de Presupuesto 2027 con el endeudamiento de U$S320 millones",
+     "medio": "Diario UNO - MDZ",
+     "fecha": "25/11/2026",
+     "url": "https://www.diariouno.com.ar/politica/diputados-aprobo-el-proyecto-presupuesto-2027-el-endeudamiento-us320-millones-n1619900"
+    },
+    {
      "titulo": "Alfredo Cornejo confía en el poroteo y espera una votación favorable en Diputados por el Presupuesto 2027",
      "medio": "Diario UNO - MDZ",
      "fecha": "25/11/2026",
      "url": "https://www.diariouno.com.ar/politica/presupuesto-2027-cornejo-confia-el-poroteo-y-espera-una-votacion-favorable-diputados-n1619762"
     },
     {
-     "titulo": "Griselda Petri justificó el acuerdo por el Presupuesto 2027 y defendió los controles al endeudamiento",
-     "medio": "Memo",
-     "fecha": "25/11/2026",
-     "url": "https://www.memo.com.ar/poder/griselda-petri-justifico-el-acuerdo-por-el-presupuesto-2027-y-defendio-los-controles-al-endeudamiento/",
-     "tag": "También en Mendoza Post"
-    },
-    {
-     "titulo": "Diputados dio media sanción a las leyes de Avalúo e Impositiva 2027",
+     "titulo": "El Presupuesto 2027 de Mendoza obtuvo sanción inicial",
      "medio": "Mendoza Post",
      "fecha": "25/11/2026",
-     "url": "https://www.mendozapost.com/politica/diputados-dio-media-sancion-a-las-leyes-de-avaluo-e-impositiva-2027-legislatura/"
+     "url": "https://www.mendozapost.com/politica/el-presupuesto-2027-de-mendoza-obtuvo-sancion-inicial/"
     }
    ],
    "imagen": []
@@ -378,10 +389,11 @@
      "url": "https://www.lanacion.com.ar/politica/misiones-tras-romper-con-rovira-passalacqua-suma-encuentros-con-referentes-del-pj-nid25112026/"
     },
     {
-     "titulo": "Jueves de sesiones en el Congreso con temas pendientes para Misiones y votos en duda",
+     "titulo": "Calendario escolar 2027 en Misiones: iniciará el 1 de marzo y las vacaciones de invierno serán del 12 al 23 de julio",
      "medio": "El Territorio",
      "fecha": "25/11/2026",
-     "url": "https://www.elterritorio.com.ar/noticias/2026/11/25/929274-jueves-de-sesiones-en-el-congreso-con-temas-pendientes-para-misiones-y-votos-en-duda"
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/25/929376-calendario-escolar-2027-en-misiones-iniciara-el-1-de-marzo-y-las-vacaciones-de-invierno-seran-del-12-al-23-de-julio",
+     "tag": "También en Primera Edición"
     }
    ],
    "imagen": []
@@ -389,24 +401,24 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Plottier Crean 14 cargos para el funcionamiento del nuevo Centro de Salud El Chacay",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "25/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/25/267837-crean-14-cargos-para-el-funcionamiento-del-nuevo-centro-de-salud-el-chacay",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
-    },
-    {
-     "titulo": "Accesibilidad Neuquén realizará el Primer Encuentro de Turismo Inclusivo y Accesible en Aluminé",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "25/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/25/267768-neuquen-realizara-el-primer-encuentro-de-turismo-inclusivo-y-accesible-en-alumine",
-     "tag": "También en Neuquén al Instante, Noticias NQN"
-    },
-    {
-     "titulo": "Acuerdo politico Fuerza Libertaria se suma a Primero Neuquén y no competirá con una colectora en las elecciones",
+     "titulo": "Elecciones 2027 La Neuquinidad y el PRO ratificaron su alianza electoral para las elecciones del 14 de febrero",
      "medio": "Noticias NQN",
      "fecha": "25/11/2026",
-     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362262-fuerza-libertaria-se-suma-a-primero-neuquen-y-no-competira-con-una-colectora-en-las-elecciones"
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/25/362301-la-neuquinidad-y-el-pro-ratificaron-su-alianza-electoral-para-las-elecciones-del-14-de-febrero"
+    },
+    {
+     "titulo": "Convocatoria Últimos días para inscribirse al programa de Becas Deportivas 2027",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "25/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/25/267858-ultimos-dias-para-inscribirse-al-programa-de-becas-deportivas-2027",
+     "tag": "También en Neuquén al Instante"
+    },
+    {
+     "titulo": "Apoyo a instituciones culturales Asistencia financiera de la Provincia para bibliotecas, salas de teatro y museos",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "25/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/25/267852-asistencia-financiera-de-la-provincia-para-bibliotecas-salas-de-teatro-y-museos",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
     }
    ],
    "imagen": []
@@ -420,17 +432,17 @@
      "url": "https://www.noticiasnet.com.ar/noticias/2026/11/25/236604-la-legislatura-de-rio-negro-sesiona-este-jueves-26-presupuesto-2027-y-otros-proyectos-clave"
     },
     {
-     "titulo": "Sesión clave: el Senado debatirá mañana la suspensión de las PASO y la ley de ludopatía",
+     "titulo": "Universidades: los rectores advirtieron que no podrán funcionar en 2027 si el Presupuesto no contempla la ley de financiamiento",
      "medio": "Diario Rio Negro",
      "fecha": "25/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/sesion-clave-el-senado-debatira-manana-la-suspension-de-las-paso-y-la-ley-de-ludopatia-4813308/"
+     "url": "https://www.rionegro.com.ar/politica/universidades-los-rectores-advirtieron-que-no-podran-funcionar-en-2027-si-el-presupuesto-no-contempla-la-ley-de-financiamiento-4813712/"
     },
     {
-     "titulo": "Río Negro: el 1 de diciembre comenzarán a pagarse los salarios a los estatales",
-     "medio": "AN Roca",
+     "titulo": "Bariloche tendrá más gas: Weretilneck confirmó obras para 399 familias",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "25/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/25/234204-rio-negro-el-1-de-diciembre-comenzaran-a-pagarse-los-salarios-a-los-estatales",
-     "tag": "También en LCR, Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63105/bariloche-tendra-mas-gas-weretilneck-confirmo-obras-para-399-familias",
+     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": []
@@ -468,25 +480,34 @@
   "San Juan": {
    "top3": [
     {
+     "titulo": "Santilli defendió la gestión de Milei en el Senado y lanzó un mensaje electoral: “Hoy va por la reelección”",
+     "medio": "Tiempo de San Juan",
+     "fecha": "25/11/2026",
+     "url": "https://www.tiempodesanjuan.com/politica/santilli-defendio-la-gestion-de-milei-en-el-senado-y-lanzo-un-mensaje-electoral-hoy-va-por-la-reeleccion_1795639320",
+     "tag": "También en Diario de Cuyo"
+    },
+    {
      "titulo": "En el Senado. Avanzan los pliegos de los jueces que manejarán las elecciones de Corrientes y San Juan en 2027",
      "medio": "La Nación",
      "fecha": "25/11/2026",
      "url": "https://www.lanacion.com.ar/politica/avanzan-en-el-senado-los-pliegos-de-los-jueces-que-manejaran-las-elecciones-de-corrientes-y-san-juan-nid25112026/"
     },
     {
-     "titulo": "Orrego envió a Diputados el proyecto para cambiar el Código Electoral",
-     "medio": "El Zonda",
+     "titulo": "El Senado debatirá mañana la suspensión de las PASO y la ley de ludopatía",
+     "medio": "Diario de Cuyo",
      "fecha": "25/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/orrego-envio-a-diputados-el-proyecto-para-cambiar-el-codigo-electoral"
-    },
-    {
-     "titulo": "Diputados: Provincias Unidas presiona al gobierno con dejarlo sin quórum para el Presupuesto",
-     "medio": "Tiempo de San Juan",
-     "fecha": "25/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/diputados-provincias-unidas-presiona-al-gobierno-con-dejarlo-sin-quorum-para-el-presupuesto_1795623668"
+     "url": "https://www.diariodecuyo.com.ar/politica/el-senado-debatira-manana-la-suspension-las-paso-y-la-ley-ludopatia-n6589564",
+     "tag": "También en 0264 Noticias, San Juan 8"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Las imágenes de la marcha en San Juan por el Día de la Eliminación de la Violencia contra la Mujer Por Eliana Dominguez",
+     "medio": "Diario de Cuyo",
+     "fecha": "25/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/san-juan/las-imagenes-la-marcha-san-juan-el-dia-la-eliminacion-la-violencia-contra-la-mujer-n6589581"
+    }
+   ]
   },
   "San Luis": {
    "top3": [
@@ -498,17 +519,17 @@
      "tag": "También en La Gaceta Digital"
     },
     {
-     "titulo": "Abre sus puertas ‘Conectando destinos’, la Feria Provincial de Turismo 2026",
-     "medio": "Prensa oficial de San Luis",
+     "titulo": "Molino Fénix: Beltrán presentó una nueva renuncia y adelantó su salida de Diputados para este jueves",
+     "medio": "La Gaceta Digital",
      "fecha": "25/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/25/1235578-abre-sus-puertas-conectando-destinos-la-feria-provincial-de-turismo-2026/",
-     "tag": "También en La Gaceta Digital"
+     "url": "https://lagacetadigital.com.ar/2026/11/25/molino-fenix-beltran-presento-una-nueva-renuncia-y-adelanto-su-salida-de-diputados-para-este-jueves/",
+     "tag": "También en San Luis 24"
     },
     {
-     "titulo": "Renunció el diputado Joaquín Beltrán e insiste en su inocencia",
-     "medio": "El Diario de la República",
+     "titulo": "El Gobernador acordó con seis municipios la construcción de 30 viviendas",
+     "medio": "Prensa oficial de San Luis",
      "fecha": "25/11/2026",
-     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-25-8-6-0-renuncio-el-diputado-joaquin-beltran-e-insiste-en-su-inocencia"
+     "url": "https://agenciasanluis.com/2026/11/25/1235789-el-gobernador-acordo-con-seis-municipios-la-construccion-de-30-viviendas/"
     }
    ],
    "imagen": []
@@ -516,22 +537,24 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Legislatura No se tratará el endeudamiento pero sí el Código Electoral",
+     "titulo": "Ley de Presupuesto Santa Cruz proyecta un déficit de casi $594 mil millones para 2027",
      "medio": "Tiempo Sur",
      "fecha": "25/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/no-se-tratara-el-endeudamiento-pero-si-el-codigo-electoral"
+     "url": "https://www.tiemposur.com.ar/politica/santa-cruz-proyecta-un-deficit-de-casi-594-mil-millones-para-2027",
+     "tag": "También en La Opinión Austral"
     },
     {
-     "titulo": "Polémica en Santa Cruz: el gobernador habilitó una venta de tierras frente al glaciar Perito Moreno a un grupo árabe",
-     "medio": "Infobae",
-     "fecha": "25/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/25/polemica-en-santa-cruz-el-gobernador-habilito-una-venta-de-tierras-frente-al-glaciar-perito-moreno-a-un-grupo-arabe/"
-    },
-    {
-     "titulo": "Congreso El Senado convertirá mañana en ley el proyecto sobre Ludopatía",
+     "titulo": "Diputados Código Electoral, PASO y presupuesto en la mira legislativa",
      "medio": "Tiempo Sur",
      "fecha": "25/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-senado-convertira-manana-en-ley-el-proyecto-sobre-ludopatia"
+     "url": "https://www.tiemposur.com.ar/politica/codigo-electoral-paso-y-presupuesto-en-la-mira-legislativa"
+    },
+    {
+     "titulo": "Presupuesto 2027: Claudio Vidal plantea un camino de ordenamiento fiscal y recuperación de la inversión pública",
+     "medio": "Prensa oficial de Santa Cruz",
+     "fecha": "25/11/2026",
+     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/presupuesto-2027-claudio-vidal-plantea-un-camino-de-ordenamiento-fiscal-y-recuperacion-de-la-inversion-publica",
+     "tag": "También en Mediatíca"
     }
    ],
    "imagen": []
@@ -539,19 +562,19 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "Quejas Universitarios realizarán un paro por la Ley de Financiamiento y marcharán en contra del Presupuesto 2027",
+     "titulo": "Debate Presupuesto 2027: mientras siguen los tironeos y negociaciones, el oficialismo pidió la sesión del jueves en Diputados",
      "medio": "Aire",
      "fecha": "25/11/2026",
-     "url": "https://www.airedesantafe.com.ar/politica/universitarios-realizaran-un-paro-la-ley-financiamiento-y-marcharan-contra-del-presupuesto-2027-n677958"
+     "url": "https://www.airedesantafe.com.ar/politica/presupuesto-2027-mientras-siguen-los-tironeos-y-negociaciones-el-oficialismo-pidio-la-sesion-del-jueves-diputados-n677957"
     },
     {
-     "titulo": "Previo al Presupuesto 2027 Diego Santilli asiste al Senado para brindar su primer informe de gestión y defender el rumbo del Gobierno",
+     "titulo": "Congreso partidario en diciembre De cara al 2027, el Partido Justicialista santafesino empieza a desandar su laberinto Maxi Duffort",
      "medio": "Aire",
      "fecha": "25/11/2026",
-     "url": "https://www.airedesantafe.com.ar/diego-santilli-asiste-al-senado-brindar-su-primer-informe-gestion-y-defender-el-rumbo-del-gobierno-n677986"
+     "url": "https://www.airedesantafe.com.ar/politica/de-cara-al-2027-el-partido-justicialista-santafesino-empieza-desandar-su-laberinto-n678054"
     },
     {
-     "titulo": "Ley de ludopatía: tras la presión de la Iglesia, La Libertad Avanza aceptó aprobar el proyecto en el Senado",
+     "titulo": "Ley de ludopatía: tras la presión de la Iglesia, LLA aceptó aprobar el proyecto",
      "medio": "La Capital",
      "fecha": "25/11/2026",
      "url": "https://www.lacapital.com.ar/politica/ley-ludopatia-la-presion-la-iglesia-la-libertad-avanza-acepto-aprobar-el-proyecto-el-senado-n10294183.html"
@@ -569,17 +592,18 @@
      "tag": "También en El Liberal, Info del Estero y 2 más"
     },
     {
-     "titulo": "Diputados debatirá el Presupuesto 2027 y otros proyectos clave en una sesión especial",
-     "medio": "El Liberal",
+     "titulo": "Universidades nacionales advirtieron que no podrán funcionar en 2027 sin más fondos en el Presupuesto",
+     "medio": "Nuevo Diario Web",
      "fecha": "25/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99005/2026/11/diputados-debatira-el-presupuesto-2027-y-otros-proyectos-clave-en-una-sesion-especial"
+     "url": "https://nuevodiarioweb.com.ar/el-pais/info-santiago-estero-universidades-nacionales-advirtieron-que-no-podran-funcionar-en-2027-sin-mas-fondos-en-el-presupuesto.htm",
+     "tag": "También en Diario Panorama"
     },
     {
-     "titulo": "Santiago del Estero y el Estadio Único, escenario de la final entre Boca y Platense por la Copa Argentina",
-     "medio": "Prensa oficial de Santiago del Estero",
+     "titulo": "El papa León XIV designó a Jorge García Cuerva al frente del nuevo Servicio Pastoral Penitenciario",
+     "medio": "Nuevo Diario Web",
      "fecha": "25/11/2026",
-     "url": "https://sde.gob.ar/2026/11/25/santiago-del-estero-y-el-estadio-unico-escenario-de-la-final-entre-boca-y-platense-por-la-copa-argentina/",
-     "tag": "También en El Liberal, Diario Panorama"
+     "url": "https://nuevodiarioweb.com.ar/el-mundo/el-papa-leon-xiv-designo-a-jorge-garcia-cuerva-al-frente-del-nuevo-servicio-pastoral-penitenciario.htm",
+     "tag": "También en Diario Panorama, Info del Estero"
     }
    ],
    "imagen": []
@@ -587,7 +611,7 @@
   "Tierra del Fuego": {
    "top3": [
     {
-     "titulo": "JUSTICIA Las elecciones en el Consejo de la Magistratura de Tierra del Fuego exponen la puja por la sucesión de Melella Por Ariel Montenegro",
+     "titulo": "Las elecciones en el Consejo de la Magistratura de Tierra del Fuego exponen la puja por la sucesión de Melella Por Ariel Montenegro",
      "medio": "Letra P",
      "fecha": "25/11/2026",
      "url": "https://www.letrap.com.ar/politica/las-elecciones-el-consejo-la-magistratura-tierra-del-fuego-exponen-la-puja-la-sucesion-melella-n5428476"
@@ -598,34 +622,28 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027: Jaldo confirmó el apoyo de Tucumán al proyecto oficial",
-     "medio": "Los Primeros",
-     "fecha": "25/11/2026",
-     "url": "https://www.losprimeros.tv/politica/presupuesto-2027--jaldo-confirmo-el-apoyo-de-tucuman-al-proyecto-oficial_a6b07127a5e0aceca403f5553"
-    },
-    {
-     "titulo": "La Legislatura aprobó una ley para impulsar un parque solar de hasta 500 MW en los Valles Calchaquíes",
-     "medio": "La Gaceta - Tucumán",
-     "fecha": "25/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1164180/politica/legislatura-aprobo-ley-para-impulsar-parque-solar-hasta-500-mw-valles-calchaquies.html",
-     "tag": "También en Contexto"
-    },
-    {
-     "titulo": "La Legislatura aprobó la ley que agrupa a profesionales de psicomotricidad",
+     "titulo": "El gobernador Jaldo entregó 26 viviendas en Río Seco",
      "medio": "LV12",
      "fecha": "25/11/2026",
-     "url": "https://www.lv12.com.ar/legislatura/la-legislatura-aprobo-la-ley-que-agrupa-profesionales-psicomotricidad-n207135",
-     "tag": "También en Tucumán Despierta"
-    }
-   ],
-   "imagen": [
+     "url": "https://www.lv12.com.ar/osvaldo-jaldo/el-gobernador-jaldo-entrego-26-viviendas-rio-seco-n207162",
+     "tag": "También en Los Primeros, Contexto y 2 más"
+    },
     {
-     "titulo": "Balotaje 2027: una encuesta puso a Kicillof y a Massa por delante de Milei",
+     "titulo": "El Senado debatirá este jueves la suspensión de las PASO y la ley de ludopatía",
      "medio": "Los Primeros",
      "fecha": "25/11/2026",
-     "url": "https://www.losprimeros.tv/politica/balotaje-2027--una-encuesta-puso-a-kicillof-y-a-massa-por-delante-de-milei-_a6b0703605e0aceca403dcf42"
+     "url": "https://www.losprimeros.tv/politica/el-senado-debatira-este-jueves-la-suspension-de-las-paso-y-la-ley-de-ludopatia_a6b075af15e0aceca40446cf0",
+     "tag": "También en LV12"
+    },
+    {
+     "titulo": "La Legislatura aprobó la autarquía de la Defensoría del Pueblo de Tucumán",
+     "medio": "El Tucumano",
+     "fecha": "25/11/2026",
+     "url": "https://www.eltucumano.com/noticia/actualidad/328325/la-legislatura-aprobo-la-autarquia-de-la-defensoria-del-pueblo-de-tucuman?dnd=psecciona&src=ph&pos=3&dis=desk",
+     "tag": "También en La Gaceta - Tucumán"
     }
-   ]
+   ],
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [

@@ -1,5 +1,5 @@
 {
- "actualizado": "25/11 20:39",
+ "actualizado": "25/11 21:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,12 +15,24 @@
    "temas": []
   },
   {
+   "tema": "Duran Duran",
+   "url": "https://x.com/search?q=Duran%20Duran",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Jorge Macri",
    "url": "https://x.com/search?q=Jorge%20Macri",
    "relevante": true,
    "temas": [
     "Jorge Macri"
    ]
+  },
+  {
+   "tema": "Andy Taylor",
+   "url": "https://x.com/search?q=Andy%20Taylor",
+   "relevante": false,
+   "temas": []
   },
   {
    "tema": "#DiegoEterno",
@@ -41,18 +53,6 @@
    "temas": []
   },
   {
-   "tema": "Duran Duran",
-   "url": "https://x.com/search?q=Duran%20Duran",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#AhoraCaigo",
-   "url": "https://x.com/search?q=%23AhoraCaigo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
@@ -65,14 +65,8 @@
    "temas": []
   },
   {
-   "tema": "Andy Taylor",
-   "url": "https://x.com/search?q=Andy%20Taylor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Trambus",
-   "url": "https://x.com/search?q=Trambus",
+   "tema": "Lautaro MartÃ­nez",
+   "url": "https://x.com/search?q=Lautaro%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   },
@@ -83,14 +77,8 @@
    "temas": []
   },
   {
-   "tema": "Lautaro MartÃ­nez",
-   "url": "https://x.com/search?q=Lautaro%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Videla",
-   "url": "https://x.com/search?q=Videla",
+   "tema": "Trambus",
+   "url": "https://x.com/search?q=Trambus",
    "relevante": false,
    "temas": []
   },
@@ -107,14 +95,26 @@
    "temas": []
   },
   {
-   "tema": "Manchester United",
-   "url": "https://x.com/search?q=Manchester%20United",
+   "tema": "Bruno Fernandes",
+   "url": "https://x.com/search?q=Bruno%20Fernandes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Wirtz",
-   "url": "https://x.com/search?q=Wirtz",
+   "tema": "El Zorro",
+   "url": "https://x.com/search?q=El%20Zorro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#AhoraCaigo",
+   "url": "https://x.com/search?q=%23AhoraCaigo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Videla",
+   "url": "https://x.com/search?q=Videla",
    "relevante": false,
    "temas": []
   },
@@ -127,92 +127,92 @@
  ],
  "google": [
   {
-   "tema": "el niño",
-   "busquedas": "2000+",
-   "nota": "Super El Niño: el calentamiento del Pacífico podría superar los 3 °C hasta marzo",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/super-el-nino-el-calentamiento-del-pacifico-podria-superar-los-3-c-hasta-marzo.html",
-   "medio": "Meteored Argentina",
+   "tema": "boc",
+   "busquedas": "200+",
+   "nota": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
+   "nota_url": "https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-expects-inflation-to-remain-persistent-1fbb15f1",
+   "medio": "WSJ",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "boca juniors - independiente rivadavia",
-   "busquedas": "20000+",
-   "nota": "Boca Juniors vs. Independiente Rivadavia, por los octavos de final del Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-   "nota_url": "https://www.clarin.com/deportes/boca-juniors-vs-independiente-rivadavia-octavos-final-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_hKRQwkrR3n.html",
+   "tema": "kiki ramos",
+   "busquedas": "100+",
+   "nota": "Kiki Ramos explicó el motivo para jugar el Mundial Sub 17 con Haití y no con la Selección Argentina",
+   "nota_url": "https://www.minutouno.com/deportes/kiki-ramos-explico-el-motivo-jugar-el-mundial-sub-17-haiti-y-no-la-seleccion-argentina-n6349280",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "alfredo berti",
+   "busquedas": "200+",
+   "nota": "Arruabarrena y Berti vuelven a cruzarse: el recuerdo único que los une en cancha con Riquelme y Maradona",
+   "nota_url": "https://www.diariouno.com.ar/ovacion/futbol/arruabarrena-y-berti-vuelven-cruzarse-el-recuerdo-unico-que-los-une-cancha-riquelme-y-maradona-n1619748",
+   "medio": "Diario UNO",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "boca platense",
+   "busquedas": "500+",
+   "nota": "Santiago del Estero será la sede de la final entre Boca y Platense: quién dirige",
+   "nota_url": "https://www.ole.com.ar/copa-argentina/oficial-santiago-estero-sede-final-copa-argentina-boca-platense_0_mjtDqHqtC3.html",
+   "medio": "Olé",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "hornets - bulls",
+   "busquedas": "200+",
+   "nota": "Bulls vs Hornets Prediction, Pick, NBA Cup Odds for Wednesday, November 25",
+   "nota_url": "https://sports.yahoo.com/betting/articles/bulls-vs-hornets-prediction-pick-135140816.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "espn premium",
+   "busquedas": "500+",
+   "nota": "Soulé brilló en la Roma, que le empató al PSG en Francia y frenó su puntaje ideal en la Champions League",
+   "nota_url": "https://www.clarin.com/deportes/psg-vs-roma-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_Y2nEPr2nC3.html",
    "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "mauro coronel",
-   "busquedas": "200+",
-   "nota": "El presidente de Nacional de Paraguay confirmó el interés de River por Mauro Coronel y adelantó que se reun...",
-   "nota_url": "https://lapaginamillonaria.com/mercado-de-pases/el-presidente-de-nacional-de-paraguay-confirmo-el-interes-de-river-por-mauro-coronel-y-adelanto-que-se-reunira-con-di-carlo",
-   "medio": "La Página Millonaria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "santa fe - once caldas",
-   "busquedas": "500+",
-   "nota": "Santa Fe recibe a Once Caldas por puntos clave en el grupo A",
-   "nota_url": "https://www.identidadcorrentina.com.ar/noticia/47136_santa-fe-recibe-a-once-caldas-por-puntos-clave-en-el-grupo-a.htm",
-   "medio": "Identidad Correntina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "solana sierra",
-   "busquedas": "200+",
-   "nota": "WTA 125 de Buenos Aires: cómo es la experiencia inmersiva más allá de la cancha",
-   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17559996/wta-125-de-buenos-aires-como-es-la-experiencia-inmersiva-mas-alla-de-la-cancha-tenis",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alejandro garnacho",
-   "busquedas": "100+",
-   "nota": "Garnacho, otra vez afuera del banco en Aston Villa: qué dijo Emery de su futuro",
-   "nota_url": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17559726/aston-villa-garnacho-afuera-banco-emery-futuro",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estudiantes vs flamengo",
-   "busquedas": "100+",
-   "nota": "La cruda revelación del \"gigante\" al que Estudiantes enfrentará en la final de la Libertadores",
-   "nota_url": "https://www.infocielo.com/deportes/la-cruda-revelacion-del-gigante-al-que-estudiantes-enfrentara-en-la-final-de-la-libertadores",
-   "medio": "Infocielo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "stray kids suiatsu",
-   "busquedas": "100+",
-   "nota": "Stray Kids Releases SUIATSU With Seven Japanese Tracks",
-   "nota_url": "https://demokratis.co.id/en/stray-kids-suiatsu-japanese-album",
-   "medio": "Demokratis.co.id",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "canal 13 lentes oscuros",
-   "busquedas": "1000+",
-   "nota": "Por qué en Canal 13 están usando lentes de sol al aire: el detalle que se repitió desde el programa de Moria Casán a Puro Show",
-   "nota_url": "https://www.parati.com.ar/news/por-que-en-canal-13-estan-usando-lentes-de-sol-al-aire-el-detalle-que-se-repitio-desde-el-programa-de-moria-casan-a-puro-show/",
-   "medio": "Revista Para Ti",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atlético mineiro - corinthians",
+   "tema": "primera división",
    "busquedas": "5000+",
-   "nota": "No 100º jogo do Atlético na Arena MRV, Everson pode ampliar recorde; entenda",
-   "nota_url": "https://www.otempo.com.br/sports/atletico/2026/11/25/no-100-jogo-do-atletico-na-arena-mrv-everson-pode-ampliar-recorde-entenda",
-   "medio": "O Tempo",
+   "nota": "Se conocieron los árbitros para los cuartos de final de los playoffs del Clausura: quién va a Instituto-River",
+   "nota_url": "https://www.clarin.com/deportes/conocieron-abitros-cuartos-final-playoffs-clausura-va-instituto-river_0_jin3m6fhfk.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ola gigante",
+   "busquedas": "500+",
+   "nota": "Mira el momento en que parte del muelle de Pacifica se derrumba mientras olas gigantes azotan la costa oeste",
+   "nota_url": "https://cnnespanol.cnn.com/2026/11/25/eeuu/video/muelle-derrumbe-olas-gigantes-california-trax",
+   "medio": "CNN en Español",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tv argentina",
+   "busquedas": "200+",
+   "nota": "Argentina midfielder Paredes collapses during TV interview",
+   "nota_url": "https://www.bbc.com/sport/football/articles/cwnv45818z59o",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "feriados diciembre 2026 argentina",
+   "busquedas": "1000+",
+   "nota": "Cuándo será el próximo fin de semana largo en Argentina y qué días lo conforman",
+   "nota_url": "https://www.eleco.com.ar/nacionales/cuando-sera-el-proximo-fin-de-semana-largo-en-argentina-y-que-dias-lo-conforman",
+   "medio": "El Eco",
    "relevante": false,
    "temas": []
   }
