@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 13:55",
+ "actualizado": "26/11 14:47",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
@@ -35,20 +35,26 @@
    ]
   },
   {
-   "tema": "Roncaglia",
-   "url": "https://x.com/search?q=Roncaglia",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Independiente Rivadavia",
    "url": "https://x.com/search?q=Independiente%20Rivadavia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roncaglia",
+   "url": "https://x.com/search?q=Roncaglia",
    "relevante": false,
    "temas": []
   },
@@ -65,20 +71,26 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Estatuto del Periodista",
    "url": "https://x.com/search?q=Estatuto%20del%20Periodista",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
@@ -89,21 +101,15 @@
    "temas": []
   },
   {
-   "tema": "Menta",
-   "url": "https://x.com/search?q=Menta",
+   "tema": "Vogue",
+   "url": "https://x.com/search?q=Vogue",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
+   "tema": "Menta",
+   "url": "https://x.com/search?q=Menta",
+   "relevante": false,
    "temas": []
   },
   {
@@ -113,34 +119,73 @@
    "temas": []
   },
   {
-   "tema": "Buffarini",
-   "url": "https://x.com/search?q=Buffarini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ALaBarbarossa",
-   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "tema": "Duki",
+   "url": "https://x.com/search?q=Duki",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "primavera sound",
+   "tema": "avenida brasil 2",
    "busquedas": "100+",
-   "nota": "Gorillaz y The Strokes encabezan el regreso del Primavera Sound: dos shows completos y un fin de semana a pura música",
-   "nota_url": "https://www.perfil.com/empresas-y-protagonistas/gorillaz-y-the-strokes-encabezan-el-regreso-del-primavera-sound-dos-shows-completos-y-un-fin-de-semana-a-pura-musica-amBev5H4pX7Z",
-   "medio": "Perfil",
+   "nota": "Débora Falabella mostra Nina e Carminha em Avenida Brasil 2",
+   "nota_url": "https://agorarn.com.br/entretenimento/avenida-brasil-nina-carminha-foto/",
+   "medio": "Agora RN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "dia de accion de gracias",
+   "tema": "diego hernán martínez",
+   "busquedas": "200+",
+   "nota": "Diego Martínez dejó de ser el técnico de Huracán y es el principal candidato de otro club",
+   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/diego-martinez-dejo-de-ser-el-entrenador-de-huracan-id773008.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "valor del dolar hoy",
+   "busquedas": "2000+",
+   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 26 de noviembre, minuto a minuto",
+   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-jueves-26-de-noviembre-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "viktoria plzeň - benfica",
+   "busquedas": "500+",
+   "nota": "Viktoria Plzen - Benfica - lineups, stats, timeline, where to watch and standings in Europa League",
+   "nota_url": "https://tribuna.com/en/match/102920191/",
+   "medio": "Tribuna.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brighton - u craiova",
+   "busquedas": "1000+",
+   "nota": "Testul de engleză. Oltenii se luptă în Anglia cu o formație în mare formă",
+   "nota_url": "https://adevarul.ro/sport/testul-de-engleza-oltenii-se-lupta-in-anglia-cu-o-2574758.html",
+   "medio": "Adevarul.ro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "olympiacos - milan",
+   "busquedas": "1000+",
+   "nota": "Olympiacos del Pireo contra Milan hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/olympiacos-del-pireo-contra-milan-hoy-en-directo-quien-televisa-el-partido-y-donde-verlo-en-streaming/blt2c7f948fc1a5ddd9",
+   "medio": "Goal.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "primavera sound",
    "busquedas": "100+",
-   "nota": "Nueva York declara el estado de emergencia en Acción de Gracias: una tormenta con vientos de 105 km/h pone a 80 millones bajo alerta en la costa este",
-   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/nueva-york-declara-el-estado-de-emergencia-en-accion-de-gracias-una-tormenta-con-vientos-de-105-kmh-pone-a-80-millones-bajo-alerta-en-la-costa-este/",
-   "medio": "Infobae",
+   "nota": "Cara Delevingne y Nation of Language no serán parte de la grilla del Primavera Sound",
+   "nota_url": "https://www.filo.news/noticia/2026/11/19/cara-delevingne-y-nation-of-language-no-seran-parte-de-la-grilla-del-primavera-sound",
+   "medio": "Filo News",
    "relevante": false,
    "temas": []
   },
@@ -163,56 +208,11 @@
    "temas": []
   },
   {
-   "tema": "milton delgado",
-   "busquedas": "5000+",
-   "nota": "El llanto de Williams Alarcón tras pedir el cambio por lesión en Boca",
-   "nota_url": "https://www.tycsports.com/boca-juniors/boca-lesion-williams-alarcon-lagrimas-rodilla-izquierda-independiente-rivadavia-id772975.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "ludopatia",
    "busquedas": "100+",
    "nota": "Polémica en la Legislatura bonaerense cuando tenían que tratar límites al juego: \"Ya es muy tarde y prefiero irme a dormir y mañana seguimos\"",
    "nota_url": "https://www.clarin.com/politica/polemica-legislatura-bonaerense-tratar-limites-juego-tarde-prefiero-irme-dormir-manana-seguimos_0_X70WSPxr0i.html",
    "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "hayden panettiere",
-   "busquedas": "100+",
-   "nota": "Hayden Panettiere’s Final Moments, Pregnant Jen Affleck’s Hospitalization and More Top Us Stories",
-   "nota_url": "https://www.usmagazine.com/celebrity-news/news/hayden-panettieres-final-moments-and-more-top-us-stories/",
-   "medio": "Us Weekly",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "facundo arana",
-   "busquedas": "200+",
-   "nota": "Facundo Arana se enteró de que su hija está de novia y un delicado detalle lo hizo explotar",
-   "nota_url": "https://tn.com.ar/show/famosos/2026/11/26/facundo-arana-se-entero-de-que-su-hija-esta-de-novia-y-un-delicado-detalle-lo-hizo-explotar/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "alexis cuello",
-   "busquedas": "100+",
-   "nota": "Marcelo Moretti negó coimas ante la Justicia y afirmó que San Lorenzo le debe 510 mil dólares: su declaración",
-   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/18/marcelo-moretti-nego-coimas-ante-la-justicia-y-afirmo-que-san-lorenzo-le-debe-510-mil-dolares-su-declaracion/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diciembre",
-   "busquedas": "200+",
-   "nota": "ANSES con aumento, aguinaldo y bono: en qué fecha cobran jubilados, pensionados, AUH y más en diciembre de 2026",
-   "nota_url": "https://tn.com.ar/economia/2026/11/26/anses-definio-el-cronograma-de-pagos-de-diciembre-para-jubilaciones-auh-y-otras-asignaciones-cuanto-se-cobra-segun-dni/",
-   "medio": "TN",
    "relevante": true,
    "temas": []
   }
