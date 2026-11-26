@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 12:50",
+ "actualizado": "26/11 13:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,20 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Roncaglia",
-   "url": "https://x.com/search?q=Roncaglia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Bareiro",
    "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Buffarini",
-   "url": "https://x.com/search?q=Buffarini",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
@@ -41,14 +35,14 @@
    ]
   },
   {
-   "tema": "Estatuto del Periodista",
-   "url": "https://x.com/search?q=Estatuto%20del%20Periodista",
+   "tema": "Roncaglia",
+   "url": "https://x.com/search?q=Roncaglia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
@@ -59,8 +53,26 @@
    "temas": []
   },
   {
-   "tema": "Menta",
-   "url": "https://x.com/search?q=Menta",
+   "tema": "Carlos Tevez",
+   "url": "https://x.com/search?q=Carlos%20Tevez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Estatuto del Periodista",
+   "url": "https://x.com/search?q=Estatuto%20del%20Periodista",
    "relevante": false,
    "temas": []
   },
@@ -71,14 +83,14 @@
    "temas": []
   },
   {
-   "tema": "Abel",
-   "url": "https://x.com/search?q=Abel",
+   "tema": "Lobo Medina",
+   "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
+   "tema": "Menta",
+   "url": "https://x.com/search?q=Menta",
    "relevante": false,
    "temas": []
   },
@@ -89,33 +101,9 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#nadiedicenada",
-   "url": "https://x.com/search?q=%23nadiedicenada",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#GoldenDiscAwards",
-   "url": "https://x.com/search?q=%23GoldenDiscAwards",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Diego MartÃ­nez",
-   "url": "https://x.com/search?q=Diego%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
@@ -123,97 +111,109 @@
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
+  },
+  {
+   "tema": "Buffarini",
+   "url": "https://x.com/search?q=Buffarini",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#ALaBarbarossa",
+   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "entradas despedida tevez",
+   "tema": "primavera sound",
    "busquedas": "100+",
-   "nota": "Las dos glorias de Boca que confirmaron su presencia en la despedida de Carlos Tevez y cuándo se venderán las entradas",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/24/las-dos-viejas-glorias-de-boca-que-confirmaron-su-presencia-en-la-despedida-de-carlos-tevez-y-cuando-se-venderan-las-entradas/",
+   "nota": "Gorillaz y The Strokes encabezan el regreso del Primavera Sound: dos shows completos y un fin de semana a pura música",
+   "nota_url": "https://www.perfil.com/empresas-y-protagonistas/gorillaz-y-the-strokes-encabezan-el-regreso-del-primavera-sound-dos-shows-completos-y-un-fin-de-semana-a-pura-musica-amBev5H4pX7Z",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dia de accion de gracias",
+   "busquedas": "100+",
+   "nota": "Nueva York declara el estado de emergencia en Acción de Gracias: una tormenta con vientos de 105 km/h pone a 80 millones bajo alerta en la costa este",
+   "nota_url": "https://www.infobae.com/estados-unidos/2026/11/26/nueva-york-declara-el-estado-de-emergencia-en-accion-de-gracias-una-tormenta-con-vientos-de-105-kmh-pone-a-80-millones-bajo-alerta-en-la-costa-este/",
    "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "juliana awada",
+   "tema": "beneficiario",
    "busquedas": "100+",
-   "nota": "Sombreros que serán tendencia en 2027: diseños para todos los climas",
-   "nota_url": "https://www.kienyke.com/tendencias/sombreros-tendencia-2027-una-guia-de-moda-para-vacaciones",
-   "medio": "Kienyke",
+   "nota": "Sandra Pettovello activó la entrega de antenas Starlink gratis para familias con planes de Anses",
+   "nota_url": "https://www.minutouno.com/politica/sandra-pettovello-activo-la-entrega-antenas-starlink-gratis-familias-planes-anses-n6349416",
+   "medio": "MinutoUno",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "copa davis",
+   "tema": "calor",
+   "busquedas": "2000+",
+   "nota": "Buenos Aires se prepara para la primera ola de calor de la temporada: cuándo llegarán los 37 °C y qué día culminará",
+   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/buenos-aires-se-prepara-para-la-primera-ola-de-calor-de-la-temporada-cuando-llegaran-los-37-c-y-que-dia-culminara.html",
+   "medio": "Meteored Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "milton delgado",
+   "busquedas": "5000+",
+   "nota": "El llanto de Williams Alarcón tras pedir el cambio por lesión en Boca",
+   "nota_url": "https://www.tycsports.com/boca-juniors/boca-lesion-williams-alarcon-lagrimas-rodilla-izquierda-independiente-rivadavia-id772975.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ludopatia",
    "busquedas": "100+",
-   "nota": "Alcaraz quiere cumplir otro de sus sueños",
-   "nota_url": "https://www.daviscup.com/es/noticias/alcaraz-quiere-cumplir-otro-de-sus-suenos",
-   "medio": "Davis Cup",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "playa",
-   "busquedas": "200+",
-   "nota": "Quién era Graciela Mayer, la turista argentina que murió ahogada en una playa de Punta del Este",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/quien-era-graciela-mayer-la-turista-argentina-que-murio-ahogada-en-una-playa-de-punta-del-este-nid26112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "peter lamelas",
-   "busquedas": "200+",
-   "nota": "Lamelas se reunió con Trump y habló sobre Milei: “Me gustaría volver a ver juntos a los dos presidentes y amigos”",
-   "nota_url": "https://www.filo.news/noticia/2026/11/26/lamelas-se-reunio-con-trump-y-hablo-sobre-milei-me-gustaria-volver-a-ver-juntos-a-los-dos-presidentes-y-amigos",
-   "medio": "Filo News",
+   "nota": "Polémica en la Legislatura bonaerense cuando tenían que tratar límites al juego: \"Ya es muy tarde y prefiero irme a dormir y mañana seguimos\"",
+   "nota_url": "https://www.clarin.com/politica/polemica-legislatura-bonaerense-tratar-limites-juego-tarde-prefiero-irme-dormir-manana-seguimos_0_X70WSPxr0i.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "oliver bearman",
-   "busquedas": "1000+",
-   "nota": "Confirmado: ¿Con qué pilotos correrá cada equipo de Fórmula 1 en la temporada 2027?",
-   "nota_url": "https://campeones.com.ar/confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027/",
-   "medio": "Campeones",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "elizabeth holmes",
+   "tema": "hayden panettiere",
    "busquedas": "100+",
-   "nota": "Amanda Seyfried Recalls Jaw-Dropping You Can See Everything Scene: 'It Was The Twilight Zone'",
-   "nota_url": "https://www.huffingtonpost.co.uk/entry/amanda-seyfried-filming-you-can-see-everything_uk_6b06a195e4b03d22836102d8",
-   "medio": "HuffPost UK",
+   "nota": "Hayden Panettiere’s Final Moments, Pregnant Jen Affleck’s Hospitalization and More Top Us Stories",
+   "nota_url": "https://www.usmagazine.com/celebrity-news/news/hayden-panettieres-final-moments-and-more-top-us-stories/",
+   "medio": "Us Weekly",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "aduana",
+   "tema": "facundo arana",
    "busquedas": "200+",
-   "nota": "Por qué Chile destruyó más de 25 toneladas de yerba mate",
-   "nota_url": "https://www.mendozapost.com/policiales/por-que-chile-destruyo-mas-de-25-toneladas-de-yerba-mate/",
-   "medio": "Mendoza Post",
+   "nota": "Facundo Arana se enteró de que su hija está de novia y un delicado detalle lo hizo explotar",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/26/facundo-arana-se-entero-de-que-su-hija-esta-de-novia-y-un-delicado-detalle-lo-hizo-explotar/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "calendario 2027",
-   "busquedas": "500+",
-   "nota": "Calendario de feriados 2027: qué fechas se pueden anticipar con la Ley 27.399 y el Decreto 614/2025 sobre los fines de semana largos",
-   "nota_url": "https://www.canal26.com/general/2026/11/25/calendario-de-feriados-2027-que-fechas-se-pueden-anticipar-con-la-ley-27399-y-el-decreto-6142025-sobre-los-fines-de-semana-largos/",
-   "medio": "Canal26",
+   "tema": "alexis cuello",
+   "busquedas": "100+",
+   "nota": "Marcelo Moretti negó coimas ante la Justicia y afirmó que San Lorenzo le debe 510 mil dólares: su declaración",
+   "nota_url": "https://www.infobae.com/sociedad/policiales/2026/11/18/marcelo-moretti-nego-coimas-ante-la-justicia-y-afirmo-que-san-lorenzo-le-debe-510-mil-dolares-su-declaracion/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diciembre",
+   "busquedas": "200+",
+   "nota": "ANSES con aumento, aguinaldo y bono: en qué fecha cobran jubilados, pensionados, AUH y más en diciembre de 2026",
+   "nota_url": "https://tn.com.ar/economia/2026/11/26/anses-definio-el-cronograma-de-pagos-de-diciembre-para-jubilaciones-auh-y-otras-asignaciones-cuanto-se-cobra-segun-dni/",
+   "medio": "TN",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "veruschka",
-   "busquedas": "500+",
-   "nota": "Veruschka von Lehndorff Throughout the Years [PHOTOS]",
-   "nota_url": "https://wwd.com/eye/people/gallery/veruschka-von-lehndorff-throughout-the-years-1239465828/",
-   "medio": "WWD",
-   "relevante": false,
    "temas": []
   }
  ],
