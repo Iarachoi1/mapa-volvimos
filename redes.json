@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 14:47",
+ "actualizado": "26/11 15:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -47,32 +47,14 @@
    "temas": []
   },
   {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Independiente Rivadavia",
    "url": "https://x.com/search?q=Independiente%20Rivadavia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Roncaglia",
-   "url": "https://x.com/search?q=Roncaglia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Carlos Tevez",
-   "url": "https://x.com/search?q=Carlos%20Tevez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
@@ -83,14 +65,26 @@
    "temas": []
   },
   {
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Estatuto del Periodista",
-   "url": "https://x.com/search?q=Estatuto%20del%20Periodista",
+   "tema": "Carlos Tevez",
+   "url": "https://x.com/search?q=Carlos%20Tevez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Carta OrgÃ¡nica del BCRA",
+   "url": "https://x.com/search?q=Carta%20Org%C3%83%C2%A1nica%20del%20BCRA",
    "relevante": false,
    "temas": []
   },
@@ -98,6 +92,24 @@
    "tema": "Lobo Medina",
    "url": "https://x.com/search?q=Lobo%20Medina",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Roncaglia",
+   "url": "https://x.com/search?q=Roncaglia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
@@ -111,109 +123,97 @@
    "url": "https://x.com/search?q=Menta",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Duki",
-   "url": "https://x.com/search?q=Duki",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "avenida brasil 2",
+   "tema": "benfica vs",
    "busquedas": "100+",
-   "nota": "Débora Falabella mostra Nina e Carminha em Avenida Brasil 2",
-   "nota_url": "https://agorarn.com.br/entretenimento/avenida-brasil-nina-carminha-foto/",
-   "medio": "Agora RN",
+   "nota": "Viktoria Plzen vs Benfica, en vivo, por la UEFA Europa League: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/26/viktoria-plzen-vs-benfica-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "diego hernán martínez",
-   "busquedas": "200+",
-   "nota": "Diego Martínez dejó de ser el técnico de Huracán y es el principal candidato de otro club",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/diego-martinez-dejo-de-ser-el-entrenador-de-huracan-id773008.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "valor del dolar hoy",
-   "busquedas": "2000+",
-   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 26 de noviembre, minuto a minuto",
-   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-jueves-26-de-noviembre-nid26112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "viktoria plzeň - benfica",
-   "busquedas": "500+",
-   "nota": "Viktoria Plzen - Benfica - lineups, stats, timeline, where to watch and standings in Europa League",
-   "nota_url": "https://tribuna.com/en/match/102920191/",
-   "medio": "Tribuna.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brighton - u craiova",
-   "busquedas": "1000+",
-   "nota": "Testul de engleză. Oltenii se luptă în Anglia cu o formație în mare formă",
-   "nota_url": "https://adevarul.ro/sport/testul-de-engleza-oltenii-se-lupta-in-anglia-cu-o-2574758.html",
-   "medio": "Adevarul.ro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "olympiacos - milan",
-   "busquedas": "1000+",
-   "nota": "Olympiacos del Pireo contra Milan hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/olympiacos-del-pireo-contra-milan-hoy-en-directo-quien-televisa-el-partido-y-donde-verlo-en-streaming/blt2c7f948fc1a5ddd9",
+   "tema": "conference league",
+   "busquedas": "100+",
+   "nota": "Where to Watch Pafos FC vs FC Midtjylland: TV Channel, Live Stream and Kick-off Time",
+   "nota_url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-pafos-fc-v-fc-midtjylland/blt01aa331e2f2e77b9",
    "medio": "Goal.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "primavera sound",
-   "busquedas": "100+",
-   "nota": "Cara Delevingne y Nation of Language no serán parte de la grilla del Primavera Sound",
-   "nota_url": "https://www.filo.news/noticia/2026/11/19/cara-delevingne-y-nation-of-language-no-seran-parte-de-la-grilla-del-primavera-sound",
-   "medio": "Filo News",
+   "tema": "besiktas",
+   "busquedas": "200+",
+   "nota": "Batum'da Beşiktaş taraftarına saldırı: Filistin bayrağına müdahale edildi",
+   "nota_url": "https://www.internethaber.com/batumda-besiktas-taraftarina-saldiri-filistin-bayragina-mudahale-edildi-video-galerisi-2470158.htm",
+   "medio": "İnternet Haber",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "beneficiario",
+   "tema": "claudio zuchovicki",
    "busquedas": "100+",
-   "nota": "Sandra Pettovello activó la entrega de antenas Starlink gratis para familias con planes de Anses",
-   "nota_url": "https://www.minutouno.com/politica/sandra-pettovello-activo-la-entrega-antenas-starlink-gratis-familias-planes-anses-n6349416",
-   "medio": "MinutoUno",
+   "nota": "Claudio Zuchovicki, sobre el dólar en 2027: “No veo el motivo por el cual se dispare”",
+   "nota_url": "https://qpaso.ar/noticias/la-nacion/economia/claudio-zuchovicki-sobre-el-dolar-en-2027-no-veo-el-motivo-por-el-cual-se-dispare-nid26112026",
+   "medio": "qpasó",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "calor",
-   "busquedas": "2000+",
-   "nota": "Buenos Aires se prepara para la primera ola de calor de la temporada: cuándo llegarán los 37 °C y qué día culminará",
-   "nota_url": "https://www.meteored.com.ar/noticias/prediccion/buenos-aires-se-prepara-para-la-primera-ola-de-calor-de-la-temporada-cuando-llegaran-los-37-c-y-que-dia-culminara.html",
-   "medio": "Meteored Argentina",
+   "tema": "bournemouth",
+   "busquedas": "100+",
+   "nota": "Licensable picture: UEFA Europa League - Celta Vigo v AFC Bournemouth",
+   "nota_url": "https://www.reutersconnect.com/item/uefa-europa-league-celta-vigo-v-afc-bournemouth/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExRU5YNjI",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ludopatia",
+   "tema": "ajax - thun",
    "busquedas": "100+",
-   "nota": "Polémica en la Legislatura bonaerense cuando tenían que tratar límites al juego: \"Ya es muy tarde y prefiero irme a dormir y mañana seguimos\"",
-   "nota_url": "https://www.clarin.com/politica/polemica-legislatura-bonaerense-tratar-limites-juego-tarde-prefiero-irme-dormir-manana-seguimos_0_X70WSPxr0i.html",
-   "medio": "Clarin.com",
+   "nota": "Ajax vs FC Thun Preview: Conference League Betting Tips",
+   "nota_url": "https://www.football.com/gh/news/158080",
+   "medio": "Football.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "celta de vigo",
+   "busquedas": "100+",
+   "nota": "Radu, un caso único",
+   "nota_url": "https://as.com/futbol/uefa/radu-un-caso-unico-f202611-n/",
+   "medio": "Diario AS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "milan",
+   "busquedas": "200+",
+   "nota": "Olympiakos-Milan, preview: Milan arrive with six absences",
+   "nota_url": "https://www.tufutbolero.com/en/news/olympiakos-milan-preview-milan-arrive-with-six-absences-e4fdcb",
+   "medio": "Tu Futbolero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "genneia",
+   "busquedas": "100+",
+   "nota": "Riesgo país: Genneia postergó su salida a Wall Street hasta 2027",
+   "nota_url": "https://impactocastex.com.ar/nacionales/20075/riesgo-pais-genneia-postergo-su-salida-a-wall-street-hasta-2027",
+   "medio": "Impacto Castex",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "hearts - mónaco",
+   "busquedas": "100+",
+   "nota": "Licensable picture: Heart of Midlothian v AS Monaco FC UEFA Europa Conference League",
+   "nota_url": "https://www.reutersconnect.com/item/heart-of-midlothian-v-as-monaco-fc-uefa-europa-conference-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwNkFBS1g",
+   "medio": "Reuters Connect",
+   "relevante": false,
    "temas": []
   }
  ],
