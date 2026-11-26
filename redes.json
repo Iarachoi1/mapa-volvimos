@@ -1,10 +1,16 @@
 {
- "actualizado": "26/11 18:41",
+ "actualizado": "26/11 19:44",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#CatalanLadron",
-   "url": "https://x.com/search?q=%23CatalanLadron",
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
@@ -15,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "Con 43",
+   "url": "https://x.com/search?q=Con%2043",
    "relevante": false,
    "temas": []
   },
@@ -42,12 +48,6 @@
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
    "temas": []
   },
   {
@@ -65,14 +65,8 @@
    ]
   },
   {
-   "tema": "Independiente Rivadavia",
-   "url": "https://x.com/search?q=Independiente%20Rivadavia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   },
@@ -83,9 +77,27 @@
    "temas": []
   },
   {
+   "tema": "Ficha Limpia",
+   "url": "https://x.com/search?q=Ficha%20Limpia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "#CatalanLadron",
+   "url": "https://x.com/search?q=%23CatalanLadron",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
+   "relevante": false,
    "temas": []
   },
   {
@@ -95,125 +107,113 @@
    "temas": []
   },
   {
-   "tema": "DarÃ­o Franco",
-   "url": "https://x.com/search?q=Dar%C3%83%C2%ADo%20Franco",
+   "tema": "Independiente Rivadavia",
+   "url": "https://x.com/search?q=Independiente%20Rivadavia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lobo Medina",
-   "url": "https://x.com/search?q=Lobo%20Medina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Roncaglia",
-   "url": "https://x.com/search?q=Roncaglia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "kirchnerismo",
+   "tema": "javier milei",
    "busquedas": "200+",
-   "nota": "Milei dijo que el desempleo estaría por debajo del 5% con una participación laboral constante",
-   "nota_url": "https://www.ellitoral.com/politica/javier-milei-federico-sturzenegger-desempleo-empleo-argentina-mercado-laboral-tasa-participacion-laboral-pea_0_yDKZ1O7q0F.html",
-   "medio": "El Litoral",
+   "nota": "El canciller paraguayo dice que Argentina ofreció su apoyo para recuperar activos de Ueno bank",
+   "nota_url": "https://www.infobae.com/america/agencias/2026/11/26/el-canciller-paraguayo-dice-que-argentina-ofrecio-su-apoyo-para-recuperar-activos-de-ueno-bank/",
+   "medio": "Infobae",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "funes",
+   "tema": "chechu bonelli",
+   "busquedas": "200+",
+   "nota": "Chechu Bonelli blanqueó su noviazgo y reveló quién es el hombre que la enamoró",
+   "nota_url": "https://tn.com.ar/show/famosos/2026/11/25/chechu-bonelli-blanqueo-su-noviazgo-y-revelo-quien-es-el-hombre-que-la-enamoro/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "cowboys - eagles",
    "busquedas": "100+",
-   "nota": "ROBERTITO FUNES ROMPE EL SILENCIO EN LAM TRAS LA POLÉMICA EN UN MÓVIL",
-   "nota_url": "https://www.americatv.com.ar/programas/lam/robertito-funes-rompe-el-silencio-lam-la-polemica-un-movil-n1619249",
-   "medio": "América TV",
+   "nota": "‘No Reason On Earth’: Stephen A. Smith Picks Dallas Cowboys Over Philadelphia Eagles On Thanksgiving",
+   "nota_url": "https://dallassportsjournal.com/stephen-a-smith-picks-cowboys-over-eagles-thanksgiving-first-take-2/",
+   "medio": "dallassportsjournal.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "economía",
-   "busquedas": "2000+",
-   "nota": "El dólar frenó la suba por la apreciación del real y la intervención oficial indirecta",
-   "nota_url": "https://www.infobae.com/economia/2026/11/26/el-dolar-freno-la-suba-de-la-mano-de-la-apreciacion-del-real-y-la-intervencion-oficial-indirecta/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sorteo quini seis",
-   "busquedas": "5000+",
-   "nota": "Un apostador en Santa Fe acertó los seis números del Quini y se llevó $1.100 millones. ¡El domingo vuelve otro pozo millonario!",
-   "nota_url": "https://www.reconquistahoy.com/93892-un-apostador-en-santa-fe-acerto-los-seis-numeros-del-quini-y-se-llevo-1100-millones-el-domingo-vuelve-otro-pozo-millonario",
-   "medio": "ReconquistaHOY",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "whatsapp stickers",
+   "tema": "george russell",
    "busquedas": "200+",
-   "nota": "Cómo ser un testador de WhatsApp para probar los stickers con audio",
-   "nota_url": "https://www.infobae.com/tecno/2026/11/26/como-ser-un-testador-de-whatsapp-para-probar-los-stickers-con-audio/",
-   "medio": "Infobae",
+   "nota": "George Russell calls out Ted Kravitz and Will Buxton for ‘spinning the truth’ amid F1 media admission",
+   "nota_url": "https://www.crash.net/f1/news/1110918/1/george-russell-calls-out-ted-kravitz-and-will-buxton-spinning-truth-amid-media",
+   "medio": "Crash.net",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "chile",
-   "busquedas": "200+",
-   "nota": "Economistas prevén que mayor impacto del alza del dólar en precios locales se dejaría sentir el primer trimestre de 2027",
-   "nota_url": "https://www.latercera.com/pulso/noticia/economistas-preven-que-mayor-impacto-del-alza-del-dolar-en-precios-locales-se-dejaria-sentir-el-primer-trimestre-de-2027/",
-   "medio": "La Tercera",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "lyon fc",
+   "tema": "bahía blanca",
    "busquedas": "100+",
-   "nota": "Programme TV Foot : Midi Dix, Lyon-Lillestrom à 21h",
-   "nota_url": "https://www.webgirondins.com/actualite-girondins-programme-tv-foot-midi-dix-lyon-lillestrom-a-21h-135308",
-   "medio": "WebGirondins",
+   "nota": "Punto de encuentro en Bahía Blanca",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/26/punto-de-encuentro-en-bahia-blanca/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ciclogénesis",
-   "busquedas": "2000+",
-   "nota": "A qué hora arriba hoy un diluvio total, con lluvias y ráfagas potentes: las zonas en alerta más afectadas",
-   "nota_url": "https://www.minutouno.com/sociedad/a-que-hora-arriba-hoy-un-diluvio-total-lluvias-y-rafagas-potentes-las-zonas-alerta-mas-afectadas-n6349260",
-   "medio": "MinutoUno",
+   "tema": "la página millonaria",
+   "busquedas": "100+",
+   "nota": "Kevin Viveros sonó para River Plate pero se iría a sorpresivo equipo",
+   "nota_url": "https://bolavip.com/futbol-colombia/kevin-viveros-sono-para-river-plate-pero-se-iria-a-sorpresivo-equipo",
+   "medio": "Bolavip",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "apuestas en línea",
-   "busquedas": "200+",
-   "nota": "Bloqueo de sitios, multas y prohibiciones: los extras que incluye el proyecto de Bullrich sobre la ley de ludopatía",
-   "nota_url": "https://www.infobae.com/politica/2026/11/26/bloqueo-de-sitios-multas-y-prohibiciones-los-extras-que-incluye-el-proyecto-de-bullrich-sobre-la-ley-de-ludopatia/",
-   "medio": "Infobae",
-   "relevante": true,
+   "tema": "celtic",
+   "busquedas": "100+",
+   "nota": "Celtic see off Torreense with late Camilo Duran goal in Europa League",
+   "nota_url": "https://news.stv.tv/sport/celtic-see-off-torreense-with-late-camilo-duran-goal-in-europa-league",
+   "medio": "STV News",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "augusto carinelli",
+   "tema": "ingvar jónsson",
+   "busquedas": "500+",
+   "nota": "Murió el arquero de Islandia que fue homenajeado antes de un partido con la Selección Argentina: tenía 37 años y había sido diagnosticado de cáncer",
+   "nota_url": "https://radiomitre.cienradios.com/deportes/murio-el-arquero-de-islandia-que-fue-homenajeado-antes-de-un-partido-con-la-seleccion-argentina-tenia-37-anos-y-habia-sido-diagnosticado-de-cancer/",
+   "medio": "Radio Mitre",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "corte de agua mendoza",
    "busquedas": "200+",
-   "nota": "LA CAF DE LA ACTC APLICÓ SANCIONES, CITÓ A UN PILOTO Y AUTORIZÓ CAMBIOS PARA 2027",
-   "nota_url": "https://ultimavuelta.com.ar/tc/la-caf-de-la-actc-aplicO-sanciones--citO-a-un-piloto-y-autorizO-cambios-para-2027",
-   "medio": "Última Vuelta",
-   "relevante": true,
+   "nota": "Corte de agua imprevisto en Mendoza: qué zona está afectada",
+   "nota_url": "https://www.mendozapost.com/sociedad/corte-de-agua-imprevisto-en-mendoza-que-zona-esta-afectada-lavalle/",
+   "medio": "Mendoza Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dique luján",
+   "busquedas": "100+",
+   "nota": "Encontraron el cuerpo de un joven de 19 años que había desaparecido en Dique Luján",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/encontraron-el-cuerpo-de-un-joven-de-19-anos-que-habia-desaparecido-en-el-dique-lujan-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
    "temas": []
   }
  ],
