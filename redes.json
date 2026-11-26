@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 15:43",
+ "actualizado": "26/11 16:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,26 @@
    "temas": []
   },
   {
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Tini",
    "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -35,8 +47,8 @@
    ]
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
    "relevante": false,
    "temas": []
   },
@@ -47,21 +59,15 @@
    "temas": []
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Independiente Rivadavia",
    "url": "https://x.com/search?q=Independiente%20Rivadavia",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
    "temas": []
   },
   {
@@ -77,26 +83,8 @@
    "temas": []
   },
   {
-   "tema": "Carlos Tevez",
-   "url": "https://x.com/search?q=Carlos%20Tevez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Carta OrgÃ¡nica del BCRA",
-   "url": "https://x.com/search?q=Carta%20Org%C3%83%C2%A1nica%20del%20BCRA",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Lobo Medina",
    "url": "https://x.com/search?q=Lobo%20Medina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
    "relevante": false,
    "temas": []
   },
@@ -113,106 +101,118 @@
    "temas": []
   },
   {
-   "tema": "Vogue",
-   "url": "https://x.com/search?q=Vogue",
+   "tema": "#PatriaYFamilia",
+   "url": "https://x.com/search?q=%23PatriaYFamilia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Menta",
-   "url": "https://x.com/search?q=Menta",
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tevez",
+   "url": "https://x.com/search?q=Tevez",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "benfica vs",
+   "tema": "primera división",
+   "busquedas": "20000+",
+   "nota": "Con cambios de horarios, se confirmó el cronograma de cuartos de final del Torneo Clausura",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/26/con-cambios-de-horarios-se-confirmo-el-cronograma-de-cuartos-de-final-del-torneo-clausura/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "crystal palace",
    "busquedas": "100+",
-   "nota": "Viktoria Plzen vs Benfica, en vivo, por la UEFA Europa League: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/26/viktoria-plzen-vs-benfica-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "nota": "Crystal Palace vs Real Sociedad predictions: 4-1 Bet Builder tip, team news and odds",
+   "nota_url": "https://www.racingpost.com/sport/football-tips/europa-league/crystal-palace-vs-real-sociedad-odds-predictions-betting-tips-team-news-bet-builder-aLmwZ4t2u9NI/",
+   "medio": "Racing Post",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sunderland afc - jagiellonia białystok",
+   "busquedas": "200+",
+   "nota": "Regis le Bris press conference: Sunderland vs Jagiellonia Bialystok",
+   "nota_url": "https://www.bbc.co.uk/sport/football/articles/cwr7g9j445v7o",
+   "medio": "BBC",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bull market",
+   "busquedas": "200+",
+   "nota": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
+   "nota_url": "https://www.bloomberg.com/news/articles/2026-11-26/bitcoin-tops-60-000-as-risk-assets-rise-in-holiday-trading",
+   "medio": "Bloomberg.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "crystal palace - real sociedad",
+   "busquedas": "200+",
+   "nota": "Crystal Palace vs Real Sociedad, en vivo, por la UEFA Europa League: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/26/crystal-palace-vs-real-sociedad-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
    "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "conference league",
+   "tema": "deuda",
    "busquedas": "100+",
-   "nota": "Where to Watch Pafos FC vs FC Midtjylland: TV Channel, Live Stream and Kick-off Time",
-   "nota_url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-pafos-fc-v-fc-midtjylland/blt01aa331e2f2e77b9",
-   "medio": "Goal.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "besiktas",
-   "busquedas": "200+",
-   "nota": "Batum'da Beşiktaş taraftarına saldırı: Filistin bayrağına müdahale edildi",
-   "nota_url": "https://www.internethaber.com/batumda-besiktas-taraftarina-saldiri-filistin-bayragina-mudahale-edildi-video-galerisi-2470158.htm",
-   "medio": "İnternet Haber",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "claudio zuchovicki",
-   "busquedas": "100+",
-   "nota": "Claudio Zuchovicki, sobre el dólar en 2027: “No veo el motivo por el cual se dispare”",
-   "nota_url": "https://qpaso.ar/noticias/la-nacion/economia/claudio-zuchovicki-sobre-el-dolar-en-2027-no-veo-el-motivo-por-el-cual-se-dispare-nid26112026",
-   "medio": "qpasó",
+   "nota": "Daza reveló que el Gobierno pidió activar el swap chino por u$s 5000 millones",
+   "nota_url": "https://www.cronista.com/economia-politica/daza-revelo-que-el-gobierno-pidio-activar-el-swap-chino-por-us-5000-millones/",
+   "medio": "El Cronista",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "bournemouth",
-   "busquedas": "100+",
-   "nota": "Licensable picture: UEFA Europa League - Celta Vigo v AFC Bournemouth",
-   "nota_url": "https://www.reutersconnect.com/item/uefa-europa-league-celta-vigo-v-afc-bournemouth/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExRU5YNjI",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ajax - thun",
-   "busquedas": "100+",
-   "nota": "Ajax vs FC Thun Preview: Conference League Betting Tips",
-   "nota_url": "https://www.football.com/gh/news/158080",
-   "medio": "Football.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "celta de vigo",
-   "busquedas": "100+",
-   "nota": "Radu, un caso único",
-   "nota_url": "https://as.com/futbol/uefa/radu-un-caso-unico-f202611-n/",
-   "medio": "Diario AS",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "milan",
+   "tema": "sticker con audio whatsapp",
    "busquedas": "200+",
-   "nota": "Olympiakos-Milan, preview: Milan arrive with six absences",
-   "nota_url": "https://www.tufutbolero.com/en/news/olympiakos-milan-preview-milan-arrive-with-six-absences-e4fdcb",
-   "medio": "Tu Futbolero",
+   "nota": "Cómo ser un testador de WhatsApp para probar los stickers con audio",
+   "nota_url": "https://www.infobae.com/tecno/2026/11/26/como-ser-un-testador-de-whatsapp-para-probar-los-stickers-con-audio/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "genneia",
-   "busquedas": "100+",
-   "nota": "Riesgo país: Genneia postergó su salida a Wall Street hasta 2027",
-   "nota_url": "https://impactocastex.com.ar/nacionales/20075/riesgo-pais-genneia-postergo-su-salida-a-wall-street-hasta-2027",
-   "medio": "Impacto Castex",
+   "tema": "juan musso",
+   "busquedas": "200+",
+   "nota": "Racing busca a Juan Musso como posible reemplazante de Facundo Cambeses de cara a un 2027 sin copas interna...",
+   "nota_url": "https://bolavip.com/ar/futbolargentino/racing-busca-a-juan-musso-como-posible-reemplazante-de-facundo-cambeses-de-cara-a-un-2027-sin-copas-internacionales",
+   "medio": "Bolavip Argentina",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "hearts - mónaco",
+   "tema": "rocky",
    "busquedas": "100+",
-   "nota": "Licensable picture: Heart of Midlothian v AS Monaco FC UEFA Europa Conference League",
-   "nota_url": "https://www.reutersconnect.com/item/heart-of-midlothian-v-as-monaco-fc-uefa-europa-conference-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwNkFBS1g",
-   "medio": "Reuters Connect",
+   "nota": "'I Play Rocky,' The Untold Struggles That Brought Sylvester Stallone’s Iconic Film to Life",
+   "nota_url": "https://www.yahoo.com/entertainment/videos/play-rocky-untold-struggles-brought-142300631.html",
+   "medio": "Yahoo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "temporal",
+   "busquedas": "500+",
+   "nota": "Buscan a Keila, la joven misionera arrastrada por un río desbordado en Brasil",
+   "nota_url": "https://www.eltrecetv.com.ar/videos/arriba-argentinos/2026/11/26/buscan-a-keila-la-joven-misionera-arrastrada-por-un-rio-desbordado-en-brasil/",
+   "medio": "eltrecetv",
    "relevante": false,
    "temas": []
   }

@@ -1,7 +1,7 @@
 {
  "semana": "26 de noviembre de 2026",
  "fecha": "2026-11-26",
- "actualizado": "26/11 11:14",
+ "actualizado": "26/11 16:54",
  "items": {
   "NACIONAL": {
    "top3": [
@@ -19,11 +19,10 @@
      "url": "https://bardeo.news/politica/peter-lamelas-le-pidio-a-trump-que-se-reuna-con-milei_a6b0837f75e0aceca404f7393"
     },
     {
-     "titulo": "El efecto secundario de los efectos secundarios",
-     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "titulo": "Los Passaglia proponen frenar la inmigración laboral hasta bajar el desempleo",
+     "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "26/11/2026",
-     "url": "https://cenital.com/el-efecto-secundario-de-los-efectos-secundarios/",
-     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+     "url": "https://bardeo.news/politica/los-passaglia-proponen-frenar-la-inmigracion-laboral-hasta-bajar-el-desempleo_a6b088a6a5e0aceca40587553"
     }
    ],
    "imagen": []
@@ -31,10 +30,59 @@
   "CABA": {
    "top3": [
     {
+     "titulo": "ELECCIONES 2027 La Casa Rosada hace concesiones en el Presupuesto 2027 a cambio de votos para eliminar las PASO Por Pablo Lapuente",
+     "medio": "Letra P",
+     "fecha": "26/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-casa-rosada-hace-concesiones-el-presupuesto-2027-cambio-votos-eliminar-las-paso-n5428524",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Primer triunfo de LLA. Diputados sancionó la reforma del Banco Central y el Gobierno busca avanzar con el presupuesto 2027",
+     "medio": "La Nación",
+     "fecha": "26/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-busca-darle-media-sancion-al-presupuesto-2027-y-convertir-en-ley-la-reforma-nid26112026/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Milei se vuelve a mostrar con Caputo en medio de rumores de renuncia",
+     "medio": "El Destape",
+     "fecha": "26/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/milei-vuelve-mostrar-caputo-medio-rumores-renuncia-20261126151153",
+     "tag": "Gabinete"
+    },
+    {
+     "titulo": "Caputo rearma la obra social de las Fuerzas Armadas: despidos encubiertos y compras bajo sospecha Por Guillermo Villarreal",
+     "medio": "Letra P",
+     "fecha": "26/11/2026",
+     "url": "https://www.letrap.com.ar/politica/toto-caputo-rearma-la-obra-social-las-fuerzas-armadas-despidos-encubiertos-y-compras-sospecha-n5428513",
+     "tag": "Ciudad"
+    },
+    {
+     "titulo": "Sin fusibles ni margen de error, el Gobierno se pone a prueba en el Congreso de cara a los mercados",
+     "medio": "Infobae",
+     "fecha": "26/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/26/sin-fusibles-ni-margen-de-error-el-gobierno-se-pone-a-prueba-en-el-congreso-de-cara-a-los-mercados/",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "Test de fuego para Milei. El Senado discute la suspensión de las PASO en 2027 y se prepara para tratar la ley de ludopatía",
+     "medio": "La Nación",
+     "fecha": "26/11/2026",
+     "url": "https://www.lanacion.com.ar/politica/sesion-crucial-en-el-senado-el-oficialismo-pretende-aprobar-la-suspension-de-las-paso-y-se-debate-la-nid26112026/",
+     "tag": "Política"
+    },
+    {
      "titulo": "Posible suspensión de las PASO. Qué dice la Reforma Electoral de Javier Milei que se debate en el Senado hoy",
      "medio": "La Nación",
      "fecha": "26/11/2026",
      "url": "https://www.lanacion.com.ar/politica/que-dice-la-reforma-electoral-de-javier-milei-que-se-debate-en-el-senado-hoy-nid26112026/",
+     "tag": "Calendario electoral"
+    },
+    {
+     "titulo": "Negociaciones contra reloj: el Gobierno cedió con los aliados para conseguir el Presupuesto 2027 y el fin de las PASO",
+     "medio": "Infobae",
+     "fecha": "26/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/26/negociaciones-contrarreloj-el-gobierno-cede-con-los-aliados-para-conseguir-el-quorum-en-ambas-camaras/",
      "tag": "Calendario electoral"
     },
     {
@@ -45,60 +93,11 @@
      "tag": "Política"
     },
     {
-     "titulo": "Sin fusibles ni margen de error, el Gobierno se pone a prueba en el Congreso de cara a los mercados",
-     "medio": "Infobae",
-     "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/sin-fusibles-ni-margen-de-error-el-gobierno-se-pone-a-prueba-en-el-congreso-de-cara-a-los-mercados/",
-     "tag": "Gestión"
-    },
-    {
-     "titulo": "CONGRESO Sin los dialoguistas del Norte Grande, la Casa Rosada se encamina a aprobar la reforma política en el Senado Por Lucio Di Giuseppe y Mauricio Cantando",
+     "titulo": "ROSCA EN EL CONGRESO Sin los dialoguistas del Norte Grande, la Casa Rosada se encamina a aprobar la reforma política en el Senado Por Lucio Di Giuseppe y Mauricio Cantando",
      "medio": "Letra P",
      "fecha": "26/11/2026",
      "url": "https://www.letrap.com.ar/politica/sin-los-dialoguistas-del-norte-grande-la-casa-rosada-se-encamina-aprobar-la-reforma-politica-el-senado-n5428517",
      "tag": "Política"
-    },
-    {
-     "titulo": "El dilema del Gobierno en la negociación con el PRO y las lecturas de los últimos movimientos de Jorge Macri",
-     "medio": "Infobae",
-     "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/el-dilema-del-gobierno-en-la-negociacion-con-el-pro-y-las-lecturas-de-los-ultimos-movimientos-de-jorge-macri/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Milei enfrenta otro día clave en el Congreso fuera de Argentina y deja las decisiones en manos de Karina",
-     "medio": "Infobae",
-     "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/milei-enfrenta-otro-dia-clave-en-el-congreso-fuera-de-argentina-y-deja-las-decisiones-en-manos-de-karina/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Santilli dijo que Milei ordenó un país en “coma farmacológico” y la oposición criticó el rumbo económico",
-     "medio": "Infobae",
-     "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/santilli-dijo-que-milei-ordeno-un-pais-en-coma-farmacologico-y-la-oposicion-critico-el-rumbo-economico/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Minuto a minuto. Milei apuntó contras las “operetas” de la oposición y dijo que cada día están “más patéticos”",
-     "medio": "La Nación",
-     "fecha": "26/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contras-las-operetas-de-la-oposicion-y-dijo-nid26112026/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "Javier Milei otra vez fuera del país en un día clave para el Congreso",
-     "medio": "El Destape",
-     "fecha": "26/11/2026",
-     "url": "https://www.eldestapeweb.com/politica/milei-medidas-gobierno-vivo-arranca-semana-clave-futuro-paso-elecciones-2027-2026112651552",
-     "tag": "Política"
-    },
-    {
-     "titulo": "\"Por arriba de lo necesario\". El Gobierno dice tener los números para suspender las PASO y vuelve a defender el rumbo económico",
-     "medio": "La Nación",
-     "fecha": "26/11/2026",
-     "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-el-rumbo-economico-pese-a-los-numeros-oficiales-los-salarios-estan-por-arriba-nid26112026/",
-     "tag": "Calendario electoral"
     }
    ],
    "imagen": [
@@ -119,16 +118,16 @@
      "url": "https://www.letrap.com.ar/politica/kicillof-suma-otra-foto-un-gobernador-radical-pullaro-lo-recibira-su-visita-santa-fe-n5428516"
     },
     {
-     "titulo": "La Cámara de Diputados bonaerense aplaza el debate sobre apuestas online por falta de acuerdo entre los bloques",
-     "medio": "Infobae",
+     "titulo": "Reforma electoral: los nueve cambios que impulsa el Gobierno y debate el Senado",
+     "medio": "Info Cielo",
      "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/la-camara-de-diputados-bonaerense-aplaza-el-debate-sobre-apuestas-online-por-falta-de-acuerdo-entre-los-bloques/"
+     "url": "https://www.infocielo.com/politica-y-economia/reforma-electoral-los-nueve-cambios-que-impulsa-el-gobierno-y-debate-el-senado"
     },
     {
-     "titulo": "ROSCA DÍA Y NOCHE Legislatura bonaerense: escándalo y sesión fallida en Diputados por las apuestas online Por Juan Rubinacci",
-     "medio": "Letra P",
+     "titulo": "Agenda cargada para el Gobierno: se tratan el Presupuesto 2027 y la suspensión de las PASO CONGRESO",
+     "medio": "La Tecla",
      "fecha": "26/11/2026",
-     "url": "https://www.letrap.com.ar/conurbano/legislatura-bonaerense-escandalo-y-sesion-fallida-diputados-las-apuestas-online-n5428514"
+     "url": "https://www.latecla.info/171429-agenda-cargada-para-el-gobierno-se-tratan-el-presupuesto-2027-y-la-suspension-de-las-paso"
     }
    ],
    "imagen": [
@@ -143,16 +142,22 @@
   "Catamarca": {
    "top3": [
     {
-     "titulo": "De cara al 2027 Santillán prefiere que el radicalismo \"vaya solo\"",
-     "medio": "El Ancasti",
+     "titulo": "LIBERTARIOS & FEDERALES Jalil desaprueba la rebeldía de los diputados de Catamarca y presiona para que apoyen el Presupuesto 2027 Por Lucio Di Giuseppe",
+     "medio": "Letra P",
      "fecha": "26/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/santillan-prefiere-que-el-radicalismo-vaya-solo-n626823"
+     "url": "https://www.letrap.com.ar/politica/raul-jalil-desaprueba-la-rebeldia-los-diputados-catamarca-y-presiona-que-apoyen-el-presupuesto-2027-n5428523"
     },
     {
-     "titulo": "Riesgo país por encima de 1000 Caputo dijo que activó el swap chino por 5.000 millones de dólares para garantizar pagos de deuda",
+     "titulo": "Presupuesto 2027 Debate en el Congreso: Palladino cuestionó el ajuste en salud y educación y reclamó fondos para discapacidad y universidades",
      "medio": "El Ancasti",
      "fecha": "26/11/2026",
-     "url": "https://www.elancasti.com.ar/politica-y-economia/caputo-dijo-que-activo-el-swap-chino-5000-millones-dolares-garantizar-pagos-deuda-n626826"
+     "url": "https://www.elancasti.com.ar/politica-y-economia/debate-el-congreso-palladino-cuestiono-el-ajuste-salud-y-educacion-y-reclamo-fondos-discapacidad-y-universidades-n626842"
+    },
+    {
+     "titulo": "Raúl Jalil evalúa ir por la reelección en Catamarca y abre una interna dentro del peronismo",
+     "medio": "Infobae",
+     "fecha": "26/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/26/raul-jalil-evalua-ir-por-la-reeleccion-en-catamarca-y-abre-una-interna-dentro-del-peronismo/"
     }
    ],
    "imagen": []
@@ -160,23 +165,23 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Suspensión de las PASO y Ley de Ludopatía",
-     "medio": "Diario Jornada",
+     "titulo": "Qué pasó hoy en la Legislatura: aprobaron la Ley de Pesca, flexibilizaron la llegada de médicos y la sesión terminó sin quórum",
+     "medio": "ADN Sur",
      "fecha": "26/11/2026",
-     "url": "https://www.diariojornada.com.ar/427721/politica/suspension_de_las_paso_y_ley_de_ludopatia",
+     "url": "https://www.adnsur.com.ar/politica/que-paso-hoy-en-la-legislatura--aprobaron-la-ley-de-pesca--flexibilizaron-la-llegada-de-medicos-y-la-sesion-termino-sin-quorum_a6b0872c11af8333314a608d5"
+    },
+    {
+     "titulo": "El Senado debate la suspensión de las PASO 2027",
+     "medio": "ADN Sur",
+     "fecha": "26/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/el-senado-debate-la-suspension-de-las-paso-2027_a6b085bf61af8333314a38bba",
      "tag": "También en El Chubut"
     },
     {
-     "titulo": "Sesiona este jueves la Legislatura del Chubut",
-     "medio": "El Chubut",
+     "titulo": "Suspensión de las PASO y Ley de Ludopatía",
+     "medio": "Diario Jornada",
      "fecha": "26/11/2026",
-     "url": "https://www.elchubut.com.ar/regionales/2026-11-26-10-45-0-sesion-ordinaria-del-dia-jueves-26-de-noviembre-de-2026"
-    },
-    {
-     "titulo": "El RIGI ya tiene 11 proyectos de petróleo y gas y Cerro Dragón espera su turno con US$ 1.200 millones en Chubut",
-     "medio": "ADN Sur",
-     "fecha": "26/11/2026",
-     "url": "https://www.adnsur.com.ar/pulso-energetico/el-rigi-ya-tiene-11-proyectos-de-petroleo-y-gas-y-cerro-dragon-espera-su-turno-con-us--1-200-millones-en-chubut_a6b0826fe1af83333149d2c87"
+     "url": "https://www.diariojornada.com.ar/427721/politica/suspension_de_las_paso_y_ley_de_ludopatia"
     }
    ],
    "imagen": []
@@ -184,23 +189,22 @@
   "Córdoba": {
    "top3": [
     {
-     "titulo": "Sesión clave. El Senado debate con la suspensión de las PASO y la Ley de Ludopatía como ejes centrales",
+     "titulo": "Diputados convirtió en ley la reforma del Banco Central y ahora trata el Presupuesto 2027",
+     "medio": "Hoy Dia",
+     "fecha": "26/11/2026",
+     "url": "https://hoydia.com.ar/politica/nacional/diputados-convirtio-en-ley-la-reforma-del-banco-central-y-ahora-trata-el-presupuesto-2027/"
+    },
+    {
+     "titulo": "Sesión clave. El oficialismo logró quórum en el Senado y avanza con la suspensión de las PASO",
      "medio": "Cadena3",
      "fecha": "26/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-senado-debate-con-la-suspension-de-las-paso-y-la-ley-de-ludopatia-como-ejes-centrales_616710"
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-oficialismo-logro-quorum-en-el-senado-y-avanza-con-la-suspension-de-las-paso_616710"
     },
     {
-     "titulo": "Sesión clave en el Senado: PASO 2027 y apuestas online, en el centro del debate",
-     "medio": "CBA24N",
+     "titulo": "Discordancias. Sin acuerdo: no se aprobará ley de violencia de género en la Legislatura de Santa Fe",
+     "medio": "Cadena3",
      "fecha": "26/11/2026",
-     "url": "https://www.cba24n.com.ar/argentina/sesion-clave-en-el-senado--paso-2027-y-apuestas-online--en-el-centro-del-debate_a6b082f351f2b82ae590d3c30"
-    },
-    {
-     "titulo": "Removieron a dos encargados de registros automotores de Córdoba por causarle al Estado un perjuicio de $337 millones",
-     "medio": "Infobae",
-     "fecha": "26/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/26/removieron-a-dos-encargados-de-registros-automotores-de-cordoba-por-causarle-un-perjuicio-de-337-millones-al-estado/",
-     "tag": "También en La Nación"
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/sin-acuerdo-no-se-aprobara-ley-de-violencia-de-genero-en-la-legislatura-de-santa-fe_616932"
     }
    ],
    "imagen": []
@@ -212,6 +216,18 @@
      "medio": "El Litoral",
      "fecha": "26/11/2026",
      "url": "https://www.ellitoral.com.ar/nacional/2026-11-26-8-5-0-el-senado-debatira-la-reforma-politica-para-suspender-las-paso"
+    },
+    {
+     "titulo": "Presentaron el Concurso Fotográfico “Iberá, Corazón Correntino” para todo el país",
+     "medio": "Legislatura de Corrientes",
+     "fecha": "26/11/2026",
+     "url": "https://hcdcorrientes.gov.ar/presentaron-el-concurso-fotografico-ibera-corazon-correntino-para-todo-el-pais/"
+    },
+    {
+     "titulo": "Se conoció el cronograma de pagos para los trabajadores municipales de Corrientes",
+     "medio": "El Litoral",
+     "fecha": "26/11/2026",
+     "url": "https://www.ellitoral.com.ar/actualidad/2026-11-26-11-57-0-se-conocio-el-cronograma-de-pagos-para-los-trabajadores-municipales-de-corrientes"
     }
    ],
    "imagen": []
@@ -219,23 +235,24 @@
   "Entre Ríos": {
    "top3": [
     {
+     "titulo": "El Senado debate la suspensión de las PASO y la Ley de Ludopatía",
+     "medio": "El Once",
+     "fecha": "26/11/2026",
+     "url": "https://www.elonce.com/politica/el-senado-debate-la-suspension-de-las-paso-y-la-ley-de-ludopatia.htm",
+     "tag": "También en Ahora, UNO ER"
+    },
+    {
      "titulo": "Diputados debate el Presupuesto 2027: los puntos en disputa",
      "medio": "Ahora",
      "fecha": "26/11/2026",
      "url": "https://ahora.com.ar/politica/diputados-presupuesto-2027-debate-articulos-proyecciones"
     },
     {
-     "titulo": "En Diputados, el gobierno intentará aprobar el Presupuesto 2027 sin nuevos cambios",
-     "medio": "UNO ER",
+     "titulo": "Entre Ríos abrirá la temporada de verano 2027 con una presentación de sus 10 microrregiones",
+     "medio": "AFP Digital",
      "fecha": "26/11/2026",
-     "url": "https://www.unoentrerios.com.ar/el-pais/en-diputados-el-gobierno-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n10294262.html"
-    },
-    {
-     "titulo": "UPCN pidió al Gobierno una licencia especial para estatales por la emergencia hídrica",
-     "medio": "Ahora",
-     "fecha": "26/11/2026",
-     "url": "https://ahora.com.ar/politica/upcn-pidio-al-gobierno-una-licencia-especial-para-estatales-por-la-emergencia-hidrica",
-     "tag": "También en El Once, AFP Digital"
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/26/480735-entre-rios-abrira-la-temporada-de-verano-2027-con-una-presentacion-de-sus-10-microrregiones",
+     "tag": "También en El Once, UNO ER"
     }
    ],
    "imagen": []
@@ -243,16 +260,16 @@
   "Formosa": {
    "top3": [
     {
+     "titulo": "De las PASO a Ficha Limpia: los principales cambios que introduce el proyecto de reforma electoral",
+     "medio": "La Mañana",
+     "fecha": "26/11/2026",
+     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/109027/de-las-paso-a-ficha-limpia-los-principales-cambios-que-introduce-el-proyecto-de-reforma-electoral/"
+    },
+    {
      "titulo": "El Concejo aprobó el Presupuesto Municipal 2027, que supera los $ 262.128 millones",
      "medio": "La Mañana",
      "fecha": "26/11/2026",
      "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/109013/el-concejo-aprob-el-presupuesto-municipal-2027-que-supera-los-262128-millones/"
-    },
-    {
-     "titulo": "La CAME elaboró un proyecto de ley para regular la utilización de la Inteligencia Artificial en el país",
-     "medio": "La Mañana",
-     "fecha": "26/11/2026",
-     "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/109019/la-came-elabor-un-proyecto-de-ley-para-regular-la-utilizacin-de-la-inteligencia-artificial-en-el-pas/"
     }
    ],
    "imagen": []
@@ -260,23 +277,24 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "El Gobierno intentará aprobar en Diputados el Presupuesto 2027 sin nuevos cambios",
-     "medio": "Somos Jujuy",
-     "fecha": "26/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-intentara-aprobar-diputados-presupuesto-2027-nuevos-cambios-n127768"
-    },
-    {
      "titulo": "La Legislatura de Jujuy sesiona este jueves con el Presupuesto 2027 en agenda",
      "medio": "Somos Jujuy",
      "fecha": "26/11/2026",
-     "url": "https://www.somosjujuy.com.ar/jujuy/la-legislatura-jujuy-sesiona-jueves-presupuesto-2027-agenda-n127763"
+     "url": "https://www.somosjujuy.com.ar/politica/la-legislatura-jujuy-sesiona-jueves-presupuesto-2027-agenda-n127763",
+     "tag": "También en El Tribuno"
     },
     {
-     "titulo": "Jujuy. Ingreso a primer año 2027 en Jujuy: ya están los resultados del segundo sorteo Por Maria Eugenia Burgos",
+     "titulo": "EN VIVO: inició la sesión en Diputados en la que el Gobierno busca aprobar el Presupuesto 2027 y la reforma del Banco Central",
+     "medio": "Somos Jujuy",
+     "fecha": "26/11/2026",
+     "url": "https://www.somosjujuy.com.ar/politica/en-vivo-inicio-sesion-diputados-gobierno-busca-aprobar-presupuesto-2027-reforma-banco-central-n127796"
+    },
+    {
+     "titulo": "video Jujuy. Legislatura: Tomó estado parlamentario el Proyecto de Presupuesto Por Redacción de TodoJujuy",
      "medio": "Todo Jujuy",
      "fecha": "26/11/2026",
-     "url": "https://www.todojujuy.com/ingreso-primer-ano-2027-jujuy-ya-estan-los-resultados-del-segundo-sorteo-n299378",
-     "tag": "También en El Tribuno"
+     "url": "https://www.todojujuy.com/jujuy/legislatura-tomo-estado-parlamentario-el-proyecto-presupuesto-n299398",
+     "tag": "También en Somos Jujuy"
     }
    ],
    "imagen": []
@@ -290,16 +308,16 @@
      "url": "https://www.letrap.com.ar/politica/la-pampa-la-unidad-opositora-amenaza-hacer-naufragar-la-estrategia-electoral-ziliotto-n5428512"
     },
     {
-     "titulo": "El PJ aceptó postergar el debate de la reforma electoral",
-     "medio": "El Diario de La Pampa",
-     "fecha": "26/11/2026",
-     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83679/el-pj-acepto-postergar-el-debate-de-la-reforma-electoral"
-    },
-    {
-     "titulo": "La Legislatura trata el peaje a Vaca Muerta y un sector de la oposición propone no dar quórum",
+     "titulo": "Se cayó la sesión: la oposición no dio quórum para la reforma electoral y los peajes",
      "medio": "El Diario de La Pampa",
      "fecha": "26/11/2026",
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83668/la-legislatura-ante-una-sesion-atravesada-por-la-reforma-electoral"
+    },
+    {
+     "titulo": "Diputados convirtió en ley la reforma del Banco Central con los ajustes del Senado",
+     "medio": "El Diario de La Pampa",
+     "fecha": "26/11/2026",
+     "url": "https://www.eldiariodelapampa.com.ar/pais/83690/diputados-convirtio-en-ley-la-reforma-del-banco-central-con-los-ajustes-del-senado"
     }
    ],
    "imagen": []
@@ -307,16 +325,22 @@
   "La Rioja": {
    "top3": [
     {
+     "titulo": "Presupuesto 2027: peligra en Diputados el quórum",
+     "medio": "Nueva Rioja",
+     "fecha": "26/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/presupuesto-2027-peligra-en-diputados-el-quorum.htm"
+    },
+    {
      "titulo": "PJ. QUINTELA PIDIÓ UNA INTERNA PARA DEFINIR EL CANDIDATO A PRESIDENTE",
      "medio": "Rioja Virtual",
      "fecha": "26/11/2026",
      "url": "https://riojavirtual.com.ar/pj-quintela-pidio-una-interna-para-definir-el-candidato-a-presidente/"
     },
     {
-     "titulo": "Javier Milei se reúne con el nuevo presidente de Paraguay, Pedro Alliana, tras la destitución de Santiago Peña",
-     "medio": "Nueva Rioja",
+     "titulo": "ELECCIONES 2027. «LA IZQUIERDA TIENE UN DESAFÍO Y UNA OPORTUNIDAD ENORME»",
+     "medio": "Rioja Virtual",
      "fecha": "26/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/javier-milei-se-reune-con-el-nuevo-presidente-de-paraguay-pedro-alliana-tras-la-destitucion-de-santiago-penia.htm"
+     "url": "https://riojavirtual.com.ar/elecciones-nacionales-2027-la-izquierda-tiene-un-desafio-y-una-oportunidad-enorme/"
     }
    ],
    "imagen": []
@@ -324,23 +348,23 @@
   "Mendoza": {
    "top3": [
     {
-     "titulo": "Rufeil se presenta: \"Soy el candidato a gobernador del sector agrícola\"",
-     "medio": "Memo",
-     "fecha": "26/11/2026",
-     "url": "https://www.memo.com.ar/poder/entrevista-rufeil-candidato-gobernador-cornejo/",
-     "tag": "También en Mendoza Post"
-    },
-    {
-     "titulo": "Mendoza avanza en la implementación de la Ley GIRSU con una licitación internacional para diseñar el Plan Provincial de Gestión de Residuos",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "26/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/mendoza-avanza-en-la-implementacion-de-la-ley-girsu-con-una-licitacion-internacional-para-disenar-el-plan-provincial-de-gestion-de-residuos/"
-    },
-    {
-     "titulo": "Renunció el juez federal de San Rafael Eduardo Puigdengolas, clave para la condena por coimas a Walter Bento",
+     "titulo": "Milei logró que Diputados apruebe la reforma del Banco Central y ya se discute el Presupuesto 2027",
      "medio": "Diario UNO - MDZ",
      "fecha": "26/11/2026",
-     "url": "https://www.diariouno.com.ar/politica/renuncio-el-juez-federal-san-rafael-eduardo-puigdengolas-clave-la-condena-coimas-walter-bento-n1620088"
+     "url": "https://www.diariouno.com.ar/politica/milei-logro-que-diputados-apruebe-la-reforma-del-banco-central-y-ya-se-discute-el-presupuesto-2027-n1620260",
+     "tag": "También en Memo, Mendoza Post"
+    },
+    {
+     "titulo": "El Gobierno negocia con gobernadores y aliados para garantizar dos sesiones clave en el Congreso",
+     "medio": "Memo",
+     "fecha": "26/11/2026",
+     "url": "https://www.memo.com.ar/poder/el-gobierno-negocia-con-gobernadores-y-aliados-para-garantizar-dos-sesiones-clave-en-el-congreso/"
+    },
+    {
+     "titulo": "El Senado sesiona con la suspensión de las PASO y la Ley de Ludopatía como ejes centrales",
+     "medio": "Memo",
+     "fecha": "26/11/2026",
+     "url": "https://www.memo.com.ar/poder/el-senado-sesionara-con-la-suspension-de-las-paso-y-la-ley-de-ludopatia-como-ejes-centrales/"
     }
    ],
    "imagen": [
@@ -361,6 +385,13 @@
      "url": "https://www.elterritorio.com.ar/noticias/2026/11/26/929544-el-gobierno-busca-aprobar-el-presupuesto-2027-en-diputados-tras-el-fracaso-de-la-ultima-sesion"
     },
     {
+     "titulo": "El Concejo de Posadas extendió las sesiones hasta el 30 de diciembre",
+     "medio": "La Voz - Misiones",
+     "fecha": "26/11/2026",
+     "url": "https://lavozdemisiones.com/politica/el-concejo-de-posadas-extendio-las-sesiones-hasta-el-30-de-diciembre",
+     "tag": "También en El Territorio, Primera Edición"
+    },
+    {
      "titulo": "El Senado debate la eliminación de las PASO y el Gobierno confía en conseguir los votos para avanzar con la reforma electoral",
      "medio": "El Territorio",
      "fecha": "26/11/2026",
@@ -372,24 +403,24 @@
   "Neuquén": {
    "top3": [
     {
-     "titulo": "Elecciones en La Bancaria La Lista Azul ganó las elecciones internas de la Asociación Bancaria en Neuquén",
+     "titulo": "La Lista Azul ganó las elecciones internas de la Asociación Bancaria en Neuquén",
      "medio": "Noticias NQN",
      "fecha": "26/11/2026",
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/26/362337-la-lista-azul-gano-las-elecciones-internas-de-la-asociacion-bancaria-en-neuquen"
     },
     {
-     "titulo": "Neuquén coordina con los 14 distritos educativos acciones preventivas ante El Niño",
+     "titulo": "Acuerdo Provincia-YPF Se adjudicó la pavimentación del tercer tramo de la ruta de Cortaderas",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "26/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/26/267900-se-adjudico-la-pavimentacion-del-tercer-tramo-de-la-ruta-de-cortaderas",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
+    },
+    {
+     "titulo": "Emergencia meteorológica Neuquén coordina con los 14 distritos educativos acciones preventivas ante El Niño",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "26/11/2026",
      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/26/267882-neuquen-coordina-con-los-14-distritos-educativos-acciones-preventivas-ante-el-nino",
      "tag": "También en Neuquén al Instante, Noticias NQN"
-    },
-    {
-     "titulo": "Balance Figueroa destacó la oportunidad histórica: “Neuquén tiene un rumbo”",
-     "medio": "Prensa oficial de Neuquén",
-     "fecha": "26/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/26/267879-figueroa-destaco-la-oportunidad-historica-neuquen-tiene-un-rumbo",
-     "tag": "También en Neuquén al Instante"
     }
    ],
    "imagen": []
@@ -411,10 +442,10 @@
      "tag": "También en LCR, Noticias Net"
     },
     {
-     "titulo": "Weretilneck recorrió el inicio de una obra clave para el abastecimiento eléctrico de El Bolsón",
-     "medio": "Prensa oficial de Río Negro",
+     "titulo": "“Se terminó con más de 90 años de estafa”: Milei celebró la reforma de la Carta Orgánica del Banco Central",
+     "medio": "Diario Rio Negro",
      "fecha": "26/11/2026",
-     "url": "https://prensa.rionegro.gov.ar/articulo/63106/weretilneck-recorrio-el-inicio-de-una-obra-clave-para-el-abastecimiento-electrico-de-el-bolson",
+     "url": "https://www.rionegro.com.ar/politica/se-termino-con-mas-de-90-anos-de-estafa-milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-4815367/",
      "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
@@ -423,23 +454,22 @@
   "Salta": {
    "top3": [
     {
-     "titulo": "Sáenz por un lado, Urtubey por otro | Lo que dicen en Buenos Aires sobre el peronismo salteño 2027",
-     "medio": "Cuarto",
+     "titulo": "Diputados aprobó la reforma de la Carta Orgánica del Banco central y avanza el Presupuesto 2027",
+     "medio": "El Tribuno",
      "fecha": "26/11/2026",
-     "url": "https://www.cuarto.com.ar/saenz-por-un-lado-urtubey-por-otro-lo-que-dicen-en-buenos-aires-sobre-el-peronismo-salteno-2027/"
+     "url": "https://www.eltribuno.com/nacionales/2026-11-26-15-23-0-diputados-aprobo-la-reforma-de-la-carta-organica-del-banco-central-y-avanza-el-presupuesto-2027"
     },
     {
-     "titulo": "Renunció el ministro de Salud Mario Russo",
-     "medio": "Nuevo Diario de Salta",
+     "titulo": "Con quórum, comenzó la sesión del Senado para tratar reforma electoral y apuestas online",
+     "medio": "Que Pasa Salta",
      "fecha": "26/11/2026",
-     "url": "https://nuevodiariodesalta.com.ar/renuncio-el-ministro-de-salud-mario-russo/"
+     "url": "https://www.quepasasalta.com.ar/politica/senado-paso-2027-ludopatia-quorum/"
     },
     {
-     "titulo": "Finaliza hoy la convocatoria para los premios Deportista del Año 2026",
-     "medio": "Prensa oficial de Salta",
+     "titulo": "El Senado aprobó extender por un año la Emergencia Hídrica en Salta: de qué se trata",
+     "medio": "Que Pasa Salta",
      "fecha": "26/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/finaliza-hoy-la-convocatoria-para-los-premios-deportista-del-anio-2026-111047",
-     "tag": "También en Nuevo Diario de Salta"
+     "url": "https://www.quepasasalta.com.ar/politica/salta-prorroga-emergencia-hidrica-un-ano/"
     }
    ],
    "imagen": []
@@ -447,22 +477,23 @@
   "San Juan": {
    "top3": [
     {
+     "titulo": "Jornada clave en Diputados: aprobaron la reforma del Banco Central y el Presupuesto 2027 concentra las tensiones Por Redacción Diario de Cuyo",
+     "medio": "Diario de Cuyo",
+     "fecha": "26/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/jornada-clave-diputados-aprobaron-la-reforma-del-banco-central-y-el-presupuesto-2027-concentra-las-tensiones-n6589668",
+     "tag": "También en Huarpe"
+    },
+    {
+     "titulo": "15:30 Emergencias hasta 2027, más plazo para regularizar obras y sesiones hasta fin de año: la agenda que aprobó la Legislatura sanjuanina",
+     "medio": "Diario de Cuyo",
+     "fecha": "26/11/2026",
+     "url": "https://www.diariodecuyo.com.ar/politica/emergencias-2027-mas-plazo-regularizar-obras-y-sesiones-fin-ano-la-agenda-que-aprobo-la-legislatura-sanjuanina-n6589669"
+    },
+    {
      "titulo": "Con la división de la Boleta Única, los partidos municipales consiguen “igualdad” frente a los que llevan candidato a gobernador, aunque tendrán un punto en contra",
      "medio": "0264 Noticias",
      "fecha": "26/11/2026",
      "url": "https://www.0264noticias.com.ar/noticias/2026/11/26/118587-con-la-division-de-la-boleta-nica-los-partidos-municipales-consiguen-igualdad-frente-a-los-que-llevan-candidato-a-gobernador-aunque-tendran-un-punto-en-contra"
-    },
-    {
-     "titulo": "Diputados tratará el Presupuesto 2027 con riesgo de quórum",
-     "medio": "El Zonda",
-     "fecha": "26/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/diputados-tratara-el-presupuesto-2027-con-riesgo-de-quorum"
-    },
-    {
-     "titulo": "El capítulo de la reforma electoral que promete encender el debate en la Legislatura",
-     "medio": "Tiempo de San Juan",
-     "fecha": "26/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/el-capitulo-de-la-reforma-electoral-que-promete-encender-el-debate-en-la-legislatura_1795699033"
     }
    ],
    "imagen": []
@@ -476,10 +507,17 @@
      "url": "https://agenciasanluis.com/2026/11/26/1235899-el-gobernador-preside-la-reunion-del-coe-provincial-y-municipal-analizando-la-situacion-en-balde/"
     },
     {
-     "titulo": "Diez proyectos representan a la provincia de San Luis en Córdoba",
+     "titulo": "Comienza una capacitación para fomentar la inclusión laboral de personas con discapacidad",
      "medio": "Prensa oficial de San Luis",
      "fecha": "26/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/26/1235858-diez-proyectos-representan-a-la-provincia-de-san-luis-en-cordoba/"
+     "url": "https://agenciasanluis.com/2026/11/26/1235949-comienza-una-capacitacion-para-fomentar-la-inclusion-laboral-de-personas-con-discapacidad/",
+     "tag": "También en La Gaceta Digital"
+    },
+    {
+     "titulo": "Arizona declaró la emergencia económica por 180 días: Bazán firmó el decreto cuatro días antes del centenario y de la polémica fiesta",
+     "medio": "La Gaceta Digital",
+     "fecha": "26/11/2026",
+     "url": "https://lagacetadigital.com.ar/2026/11/26/arizona-declaro-la-emergencia-economica-por-180-dias-bazan-firmo-el-decreto-cuatro-dias-antes-del-centenario-y-de-la-polemica-fiesta/"
     }
    ],
    "imagen": []
@@ -487,29 +525,35 @@
   "Santa Cruz": {
    "top3": [
     {
-     "titulo": "Vidal decretó asueto administrativo para las fiestas y receso anual en la administración pública provincial",
-     "medio": "Prensa oficial de Santa Cruz",
-     "fecha": "26/11/2026",
-     "url": "https://noticias.santacruz.gob.ar/organismos/gobernacion/vidal-decreto-asueto-administrativo-para-las-fiestas-y-receso-anual-en-la-administracion-publica-provincial",
-     "tag": "También en Tiempo Sur, La Opinión Austral y 1 más"
-    },
-    {
      "titulo": "Proyecciones 2027 Diputados sesiona con el Presupuesto como plato fuerte",
      "medio": "Tiempo Sur",
      "fecha": "26/11/2026",
      "url": "https://www.tiemposur.com.ar/politica/diputados-sesiona-con-el-presupuesto-como-plato-fuerte"
     },
     {
-     "titulo": "Ejes centrales El Senado sesionará con la suspensión de las PASO y la Ley de Ludopatía",
+     "titulo": "Congreso De las PASO a Ficha Limpia: los principales cambios que introduce la reforma electoral",
      "medio": "Tiempo Sur",
      "fecha": "26/11/2026",
-     "url": "https://www.tiemposur.com.ar/politica/el-senado-sesionara-con-la-suspension-de-las-paso-y-la-ley-de-ludopatia"
+     "url": "https://www.tiemposur.com.ar/politica/de-las-paso-a-ficha-limpia-los-principales-cambios-que-introduce-la-reforma-electoral"
+    },
+    {
+     "titulo": "Adriana Nieto pidió “una comisión extraordinaria más” antes de aprobar el nuevo Código Electoral de Santa Cruz",
+     "medio": "La Opinión Austral",
+     "fecha": "26/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/adriana-nieto-pidio-una-comision-extraordinaria-mas-antes-de-aprobar-el-nuevo-codigo-electoral-de-santa-cruz-736434.html"
     }
    ],
    "imagen": []
   },
   "Santa Fe": {
    "top3": [
+    {
+     "titulo": "El Senado comenzó a debatir la reforma electoral que incluye la eliminación de las Paso",
+     "medio": "La Capital",
+     "fecha": "26/11/2026",
+     "url": "https://www.lacapital.com.ar/politica/el-senado-comenzo-debatir-la-reforma-electoral-que-incluye-la-eliminacion-las-paso-n10294348.html",
+     "tag": "También en UNO - SF"
+    },
     {
      "titulo": "DISCUSIÓN 2027 Kicillof suma otra foto con un gobernador radical: Pullaro lo recibirá en su visita a Santa Fe Por Letra P | Periodismo Político",
      "medio": "Letra P",
@@ -520,13 +564,8 @@
      "titulo": "El Senado debate la ley contra la ludopatía y la suspensión de las Paso",
      "medio": "La Capital",
      "fecha": "26/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/el-senado-debate-la-ley-contra-la-ludopatia-y-la-suspension-las-paso-n10294242.html"
-    },
-    {
-     "titulo": "La senadora Di Gregorio expuso en el Congreso nacional su proyecto de ley de Protección del Vínculo Filial",
-     "medio": "UNO - SF",
-     "fecha": "26/11/2026",
-     "url": "https://www.unosantafe.com.ar/la-region/la-senadora-di-gregorio-expuso-el-congreso-nacional-su-proyecto-ley-proteccion-del-vinculo-filial-n10294297.html"
+     "url": "https://www.lacapital.com.ar/politica/el-senado-debate-la-ley-contra-la-ludopatia-y-la-suspension-las-paso-n10294242.html",
+     "tag": "También en Agencia Fe"
     }
    ],
    "imagen": []
@@ -534,57 +573,57 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027 y suspensión de las PASO: el Congreso debate dos proyectos clave este jueves",
+     "titulo": "Diputados, en vivo: comenzó el debate por el Presupuesto 2027 en medio de cruces entre el oficialismo y la oposición",
+     "medio": "Diario Panorama",
+     "fecha": "26/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/574264/diputados-vivo-comenzo-debate-presupuesto-2027-medio-cruces-entre-oficialismo-oposicion"
+    },
+    {
+     "titulo": "En vivo: el Senado debate la suspensión de las PASO para 2027 y la ley contra la ludopatía",
+     "medio": "Diario Panorama",
+     "fecha": "26/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/574264/vivo-senado-debate-suspension-paso-para-2027-ley-contra-ludopatia"
+    },
+    {
+     "titulo": "El Senado debate la reforma electoral y un proyecto para regular las apuestas online y combatir la ludopatía",
      "medio": "Info del Estero",
      "fecha": "26/11/2026",
-     "url": "https://infodelestero.com/2026/11/26/presupuesto-2027-y-suspension-de-las-paso-el-congreso-debate-dos-proyectos-clave-este-jueves"
-    },
-    {
-     "titulo": "La Lista Celeste y Blanca ganó las elecciones en la Bancaria",
-     "medio": "El Liberal",
-     "fecha": "26/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99133/2026/11/la-lista-celeste-y-blanca-gano-las-elecciones-en-la-bancaria",
-     "tag": "También en Nuevo Diario Web"
-    },
-    {
-     "titulo": "El embajador Peter Lamelas se reunió con Trump y proyectó una cumbre con Milei en 2027",
-     "medio": "El Liberal",
-     "fecha": "26/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99142/2026/11/el-embajador-peter-lamelas-se-reunio-con-donald-trump-y-proyecto-una-cumbre-con-javier-milei-en-2027"
-    }
-   ],
-   "imagen": []
-  },
-  "Tucumán": {
-   "top3": [
-    {
-     "titulo": "Presupuesto 2027: La Libertad Avanza negocia con sus aliados para reunir el quórum en Diputados",
-     "medio": "Los Primeros",
-     "fecha": "26/11/2026",
-     "url": "https://www.losprimeros.tv/politica/presupuesto-2027--la-libertad-avanza-negocia-con-sus-aliados-para-reunir-el-quorum-en-diputados_a6b081fc25e0aceca404c90fc"
-    },
-    {
-     "titulo": "El Concejo sesiona para extender el periodo ordinario mientras analiza el Presupuesto 2027",
-     "medio": "El Tucumano",
-     "fecha": "26/11/2026",
-     "url": "https://www.eltucumano.com/noticia/actualidad/328367/el-concejo-sesiona-para-extender-el-periodo-ordinario-mientras-analiza-el-presupuesto-2027?dnd=slider&src=tit&pos=2&dis=desk",
-     "tag": "También en LV12"
-    },
-    {
-     "titulo": "Diputados tratará el Presupuesto 2027 y un conjunto de reformas económicas y judiciales",
-     "medio": "El Tucumano",
-     "fecha": "26/11/2026",
-     "url": "https://www.eltucumano.com/noticia/actualidad/328362/diputados-tratara-el-presupuesto-2027-y-un-conjunto-de-reformas-economicas-y-judiciales?dnd=slider&src=tit&pos=3&dis=desk"
+     "url": "https://infodelestero.com/2026/11/26/el-senado-debate-la-reforma-electoral-y-un-proyecto-para-regular-las-apuestas-online-y-combatir"
     }
    ],
    "imagen": [
     {
-     "titulo": "Encuesta: ¿cuál debería ser la prioridad para prevenir la ludopatía entre los adolescentes?",
-     "medio": "La Gaceta - Tucumán",
+     "titulo": "Polémica en el Senado: LLA rechazó debatir una ley para proteger a mujeres y niñas de imágenes íntimas creadas con IA",
+     "medio": "Info del Estero",
      "fecha": "26/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1164341/politica/encuesta-cual-deberia-ser-prioridad-para-prevenir-ludopatia-entre-adolescentes.html"
+     "url": "https://infodelestero.com/2026/11/26/polemica-en-el-senado-lla-rechazo-debatir-una-ley-para-proteger-a-mujeres-y-ninas-de-imagenes"
     }
    ]
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "Seguí la sesión: Diputados convirtió en ley la reforma de la Carta Orgánica del BCRA y avanza el Presupuesto 2027",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "26/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1164390/politica/segui-sesion-diputados-convirtio-ley-reforma-carta-organica-bcra-avanza-presupuesto-2027.html",
+     "tag": "También en LV12"
+    },
+    {
+     "titulo": "Diputados convirtió en ley la reforma del Banco Central impulsada por Milei",
+     "medio": "Los Primeros",
+     "fecha": "26/11/2026",
+     "url": "https://www.losprimeros.tv/politica/diputados-convirtio-en-ley-la-reforma-del-banco-central-impulsada-por-milei-_a6b0871ce5e0aceca405666a7",
+     "tag": "También en Contexto"
+    },
+    {
+     "titulo": "Sesión, en vivo: el Senado busca la suspensión de las PASO y debate la ley de ludopatía",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "26/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1164381/politica/sesion-vivo-senado-busca-suspension-paso-debate-ley-ludopatia.html"
+    }
+   ],
+   "imagen": []
   }
  },
  "fuentes_no_accesibles": [
