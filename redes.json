@@ -1,5 +1,5 @@
 {
- "actualizado": "26/11 11:14",
+ "actualizado": "26/11 12:50",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,20 +15,20 @@
    "temas": []
   },
   {
+   "tema": "Roncaglia",
+   "url": "https://x.com/search?q=Roncaglia",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Bareiro",
    "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Santucho",
-   "url": "https://x.com/search?q=Santucho",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
+   "tema": "Buffarini",
+   "url": "https://x.com/search?q=Buffarini",
    "relevante": false,
    "temas": []
   },
@@ -41,26 +41,38 @@
    ]
   },
   {
+   "tema": "Estatuto del Periodista",
+   "url": "https://x.com/search?q=Estatuto%20del%20Periodista",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santucho",
+   "url": "https://x.com/search?q=Santucho",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Independiente Rivadavia",
    "url": "https://x.com/search?q=Independiente%20Rivadavia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ALaBarbarossa",
-   "url": "https://x.com/search?q=%23ALaBarbarossa",
+   "tema": "Menta",
+   "url": "https://x.com/search?q=Menta",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#DiegoEterno",
-   "url": "https://x.com/search?q=%23DiegoEterno",
+   "tema": "#BuenJueves",
+   "url": "https://x.com/search?q=%23BuenJueves",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mitre",
-   "url": "https://x.com/search?q=Mitre",
+   "tema": "Abel",
+   "url": "https://x.com/search?q=Abel",
    "relevante": false,
    "temas": []
   },
@@ -77,8 +89,32 @@
    "temas": []
   },
   {
-   "tema": "colegiales y carranza",
-   "url": "https://x.com/search?q=colegiales%20y%20carranza",
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#nadiedicenada",
+   "url": "https://x.com/search?q=%23nadiedicenada",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#GoldenDiscAwards",
+   "url": "https://x.com/search?q=%23GoldenDiscAwards",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Diego MartÃ­nez",
+   "url": "https://x.com/search?q=Diego%20Mart%C3%83%C2%ADnez",
    "relevante": false,
    "temas": []
   },
@@ -87,84 +123,75 @@
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
-  },
-  {
-   "tema": "#LaMaÃ±anaConMoria",
-   "url": "https://x.com/search?q=%23LaMa%C3%83%C2%B1anaConMoria",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "$8.000 OFF",
-   "url": "https://x.com/search?q=%248.000%20OFF",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Guido",
-   "url": "https://x.com/search?q=Guido",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AlarcÃ³n",
-   "url": "https://x.com/search?q=Alarc%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "playa",
+   "tema": "entradas despedida tevez",
    "busquedas": "100+",
-   "nota": "Una joven entrerriana murió ahogada en una playa nudista de Uruguay",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/26/una-joven-entrerriana-murio-ahogada-en-una-playa-nudista-de-uruguay/",
-   "medio": "Página|12",
+   "nota": "Las dos glorias de Boca que confirmaron su presencia en la despedida de Carlos Tevez y cuándo se venderán las entradas",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/24/las-dos-viejas-glorias-de-boca-que-confirmaron-su-presencia-en-la-despedida-de-carlos-tevez-y-cuando-se-venderan-las-entradas/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "juliana awada",
+   "busquedas": "100+",
+   "nota": "Sombreros que serán tendencia en 2027: diseños para todos los climas",
+   "nota_url": "https://www.kienyke.com/tendencias/sombreros-tendencia-2027-una-guia-de-moda-para-vacaciones",
+   "medio": "Kienyke",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "copa davis",
+   "busquedas": "100+",
+   "nota": "Alcaraz quiere cumplir otro de sus sueños",
+   "nota_url": "https://www.daviscup.com/es/noticias/alcaraz-quiere-cumplir-otro-de-sus-suenos",
+   "medio": "Davis Cup",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "playa",
+   "busquedas": "200+",
+   "nota": "Quién era Graciela Mayer, la turista argentina que murió ahogada en una playa de Punta del Este",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/quien-era-graciela-mayer-la-turista-argentina-que-murio-ahogada-en-una-playa-de-punta-del-este-nid26112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "peter lamelas",
    "busquedas": "200+",
-   "nota": "Peter Lamelas le pidió a Donald Trump una nueva cumbre con Javier Milei en 2027",
-   "nota_url": "https://www.rionegro.com.ar/politica/relacion-con-estados-unidos-el-embajador-peter-lamelas-le-pidio-a-donald-trump-una-nueva-cumbre-con-javier-milei-en-2027-4814133/",
-   "medio": "Diario Río Negro",
+   "nota": "Lamelas se reunió con Trump y habló sobre Milei: “Me gustaría volver a ver juntos a los dos presidentes y amigos”",
+   "nota_url": "https://www.filo.news/noticia/2026/11/26/lamelas-se-reunio-con-trump-y-hablo-sobre-milei-me-gustaria-volver-a-ver-juntos-a-los-dos-presidentes-y-amigos",
+   "medio": "Filo News",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "oliver bearman",
-   "busquedas": "200+",
-   "nota": "El fotógrafo de la F1 aseguró que un piloto negocia para sumarse a Alpine en 2027 y alertó a los fanáticos de Franco Colapinto",
-   "nota_url": "https://tn.com.ar/deportes/formula-1/2026/11/24/un-fotografo-de-la-f1-revelo-la-reaccion-de-los-voceros-de-alpine-cuando-les-pregunto-por-las-presuntas-negociaciones-con-bearman/",
-   "medio": "TN",
-   "relevante": true,
+   "busquedas": "1000+",
+   "nota": "Confirmado: ¿Con qué pilotos correrá cada equipo de Fórmula 1 en la temporada 2027?",
+   "nota_url": "https://campeones.com.ar/confirmado-con-que-pilotos-correra-cada-equipo-de-formula-1-en-la-temporada-2027/",
+   "medio": "Campeones",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "elizabeth holmes",
    "busquedas": "100+",
-   "nota": "Amanda Seyfried Reveals How Emma Stone Connected Her With Nathan Fielder for ‘You Can See Everything’",
-   "nota_url": "https://parade.com/celebrities/tonight-show-amanda-seyfried-emma-stone-nathan-fielder-you-can-see-everything",
-   "medio": "Parade Magazine",
+   "nota": "Amanda Seyfried Recalls Jaw-Dropping You Can See Everything Scene: 'It Was The Twilight Zone'",
+   "nota_url": "https://www.huffingtonpost.co.uk/entry/amanda-seyfried-filming-you-can-see-everything_uk_6b06a195e4b03d22836102d8",
+   "medio": "HuffPost UK",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "aduana",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Por qué Chile destruyó más de 25 toneladas de yerba mate",
    "nota_url": "https://www.mendozapost.com/policiales/por-que-chile-destruyo-mas-de-25-toneladas-de-yerba-mate/",
    "medio": "Mendoza Post",
@@ -182,37 +209,10 @@
   },
   {
    "tema": "veruschka",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Veruschka von Lehndorff Throughout the Years [PHOTOS]",
    "nota_url": "https://wwd.com/eye/people/gallery/veruschka-von-lehndorff-throughout-the-years-1239465828/",
    "medio": "WWD",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gorillaz en cordoba",
-   "busquedas": "100+",
-   "nota": "Gorillaz en el Kempes: Municipio y Provincia llevarán adelante un operativo de ordenamiento",
-   "nota_url": "https://cordoba.gob.ar/gorillaz-en-el-kempes-municipio-y-provincia-llevaran-adelante-un-operativo-de-ordenamiento/",
-   "medio": "Municipalidad de Córdoba.",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diario el eco de tandil",
-   "busquedas": "100+",
-   "nota": "Fernández: «El Diario revela el corazón de Francisco y su espiritualidad»",
-   "nota_url": "https://www.vaticannews.va/es/vaticano/news/2026-11/caenal-virtor-fernandez-el-diario-personal-del-papa-francisco.html",
-   "medio": "Vatican News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "thanksgiving",
-   "busquedas": "500+",
-   "nota": "Thanksgiving storm brings dangerous conditions to the Philadelphia region | Live updates",
-   "nota_url": "https://6abc.com/live-updates/philadelphia-weather-forecast-storm-thanksgiving-expected-bring-high-wind-rain/20074802/",
-   "medio": "6abc Philadelphia",
    "relevante": false,
    "temas": []
   }
