@@ -1,11 +1,11 @@
 {
- "actualizado": "27/11 09:54",
+ "actualizado": "27/11 11:12",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
@@ -21,26 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "MotoGP",
-   "url": "https://x.com/search?q=MotoGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -51,14 +33,14 @@
    "temas": []
   },
   {
-   "tema": "#TheGrimLover1stPremiere",
-   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "MotoGP",
+   "url": "https://x.com/search?q=MotoGP",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +51,8 @@
    "temas": []
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "THE GRIM LOVER Opens The Gate",
-   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
@@ -87,26 +63,20 @@
    "temas": []
   },
   {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#OPPOWatch5THxBecky",
-   "url": "https://x.com/search?q=%23OPPOWatch5THxBecky",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#ElClubDelMoro",
-   "url": "https://x.com/search?q=%23ElClubDelMoro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Ficha Limpia",
+   "url": "https://x.com/search?q=Ficha%20Limpia",
    "relevante": false,
    "temas": []
   },
@@ -117,13 +87,61 @@
    "temas": []
   },
   {
-   "tema": "Maia",
-   "url": "https://x.com/search?q=Maia",
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#catalanladron",
+   "url": "https://x.com/search?q=%23catalanladron",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#TheGrimLover1stPremiere",
+   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Trabuco",
+   "url": "https://x.com/search?q=Trabuco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "THE GRIM LOVER Opens The Gate",
+   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "disney plus",
+   "busquedas": "1000+",
+   "nota": "HBO Max 50% off Black Friday deal gets you ‘Gilded Age,’ more binge-worthy shows",
+   "nota_url": "https://pagesix.com/2026/11/27/entertainment/take-50-off-a-full-year-subscription-of-hbo-max-for-black-friday/",
+   "medio": "Page Six",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "meghan, duquesa de sussex",
+   "busquedas": "100+",
+   "nota": "Acusaron formalmente a Thomas Markle, el padre de Meghan Markle, por posesión de pornografía infantil",
+   "nota_url": "https://www.perfil.com/internacional/acusaron-formalmente-a-thomas-markle-el-padre-de-meghan-markle-por-posesion-de-pornografia-infantil-aiGwG7M5tSto",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "martín menem",
    "busquedas": "100+",
@@ -135,64 +153,55 @@
   },
   {
    "tema": "marc marquez",
-   "busquedas": "1000+",
-   "nota": "Sorpresa en el motociclismo: Marc Márquez anunció su retiro y este domingo disputará su última carrera",
-   "nota_url": "https://tn.com.ar/deportes/automovilismo/2026/11/27/sorpresa-en-el-motociclismo-marc-marquez-anuncio-su-retiro-y-este-domingo-disputara-su-ultima-carrera/",
-   "medio": "TN",
+   "busquedas": "2000+",
+   "nota": "La mala noticia que recibió Argentina tras el anuncio de retiro de Marc Márquez de MotoGP",
+   "nota_url": "https://www.carburando.com/internacional/buenos-aires-se-quedara-con-las-ganas-de-ver-a-marc-marquez-en-pista-id201466",
+   "medio": "Carburando",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "mdz",
    "busquedas": "100+",
-   "nota": "Cortes y agua turbia en Mendoza: por qué las maniobras de Potrerillos afectaron el servicio",
-   "nota_url": "https://www.mdzol.com/sociedad/2026/11/27/cortes-y-agua-turbia-en-mendoza-por-que-las-maniobras-de-potrerillos-afectaron-el-servicio-1998226.html",
-   "medio": "MDZ Online",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "contexto tucuman",
-   "busquedas": "100+",
-   "nota": "Medina Ruiz acompañó a Jaldo en la presentación de un documento histórico sobre la causa Malvinas",
-   "nota_url": "https://msptucuman.gov.ar/medina-ruiz-acompano-a-jaldo-en-la-presentacion-de-un-documento-historico-sobre-la-causa-malvinas/",
-   "medio": "Ministerio de Salud Pública de Tucumán",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "londres",
-   "busquedas": "2000+",
-   "nota": "Sigue la polémica por el oro: según la AGN, el BCRA envió 1.000 barras al Banco de Inglaterra y fundió 115 lingotes",
-   "nota_url": "https://www.infobae.com/economia/2026/11/26/segun-la-agn-el-bcra-envio-1000-barras-de-oro-al-banco-de-inglaterra-y-fundio-115-lingotes/",
-   "medio": "Infobae",
+   "nota": "Cortes imprevistos de agua potable en el Gran Mendoza: qué zonas siguen afectadas",
+   "nota_url": "https://mendozatoday.com.ar/sociedad/corte-de-agua/",
+   "medio": "Diario Mendoza Today",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ministro",
    "busquedas": "100+",
-   "nota": "Volaron los mercados en Brasil: el Bovespa saltó 6,1% ante la llegada de un banquero al Ministerio de Economía",
-   "nota_url": "https://www.ambito.com/finanzas/volaron-los-mercados-brasil-el-bovespa-salto-61-la-llegada-un-banquero-al-ministerio-economia-n6349887",
-   "medio": "Ambito",
+   "nota": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
+   "nota_url": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
+   "medio": "EL PAÍS",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "necochea",
    "busquedas": "200+",
-   "nota": "Regresó el calor y se volvió a disfrutar la playa en Necochea",
-   "nota_url": "https://elecos.com.ar/regreso-el-calor-y-se-volvio-a-disfrutar-la-playa-en-necochea",
-   "medio": "Ecos Diarios Necochea",
+   "nota": "Choferes de micros paran el jueves por deudas salariales",
+   "nota_url": "https://dataene.com.ar/nota/17290/choferes-de-micros-paran-el-jueves-por-deudas-salariales",
+   "medio": "Data eNe",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sandra pettovello",
+   "busquedas": "200+",
+   "nota": "Sandra Pettovello activó la entrega de antenas Starlink gratis para familias con planes de Anses",
+   "nota_url": "https://www.minutouno.com/politica/sandra-pettovello-activo-la-entrega-antenas-starlink-gratis-familias-planes-anses-n6349416",
+   "medio": "MinutoUno",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "sergio massa",
    "busquedas": "200+",
-   "nota": "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\"",
-   "nota_url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
-   "medio": "Cadena 3 Argentina",
+   "nota": "Massa tantea Córdoba y presiona por el apoyo de Llaryora",
+   "nota_url": "https://diarioalfil.com.ar/contenido/24242/massa-tantea-cordoba-y-presiona-por-el-apoyo-de-llaryora",
+   "medio": "Alfil",
    "relevante": true,
    "temas": []
   },
@@ -202,15 +211,6 @@
    "nota": "Barby Franco llevó a su hija Sarah Burlando a la peluquería por primera vez y el video derritió a las redes: “La paciencia”",
    "nota_url": "https://la100.cienradios.com/espectaculos/barby-franco-llevo-a-su-hija-sarah-burlando-a-la-peluqueria-por-primera-vez-y-el-video-derritio-a-las-redes-la-paciencia/",
    "medio": "La 100",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronóstico del tiempo",
-   "busquedas": "100+",
-   "nota": "Clima en Buenos Aires hoy: cielo despejado y una máxima de 24 grados",
-   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-buenos-aires-hoy-pronostico-del-tiempo-en-vivo-de-este-jueves-26-de-noviembre-202611263015",
-   "medio": "El Destape",
    "relevante": false,
    "temas": []
   }
