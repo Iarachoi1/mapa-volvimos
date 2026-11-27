@@ -1,17 +1,17 @@
 {
- "actualizado": "27/11 13:55",
+ "actualizado": "27/11 14:46",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Bonelli",
-   "url": "https://x.com/search?q=Bonelli",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Bonelli",
+   "url": "https://x.com/search?q=Bonelli",
+   "relevante": false,
    "temas": []
   },
   {
@@ -45,12 +45,6 @@
    "temas": []
   },
   {
-   "tema": "Lenny",
-   "url": "https://x.com/search?q=Lenny",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Black Friday",
    "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
@@ -63,20 +57,20 @@
    "temas": []
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Londres",
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lenny",
+   "url": "https://x.com/search?q=Lenny",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "Riky",
-   "url": "https://x.com/search?q=Riky",
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
@@ -121,33 +115,66 @@
    "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "conmebol libertadores",
-   "busquedas": "500+",
-   "nota": "Estudiantes vs. Palmeiras, por la final de la Copa Libertadores 2026: a qué hora juegan y dónde ver en vivo",
-   "nota_url": "https://www.clarin.com/deportes/estudiantes-vs-palmeiras-final-copa-libertadores-2026-hora-juegan-ver-vivo_0_Myi8XNefIx.html",
-   "medio": "Clarin.com",
+   "tema": "jorge born",
+   "busquedas": "100+",
+   "nota": "Murió Jorge Born, el empresario heredero de Bunge y Born que sobrevivió al secuestro de Montoneros",
+   "nota_url": "https://www.infobae.com/economia/2026/11/27/murio-jorge-born-el-empresario-heredero-de-bunge-y-born-que-sobrevivio-al-secuestro-de-montoneros/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "dólar estadounidense",
-   "busquedas": "5000+",
-   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 27 de noviembre",
-   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-27-noviembre-n6349921",
-   "medio": "Ambito",
+   "tema": "ada colau",
+   "busquedas": "100+",
+   "nota": "Feijóo acusa a Sumar de haber permanecido “calladito” ante la “corrupción” del Gobierno y asegura que Sánchez podría “sentarse delante de un juez”",
+   "nota_url": "https://www.infobae.com/espana/2026/11/27/feijoo-promete-derogar-la-lmd-acusa-a-sumar-de-haber-permanecido-calladito-ante-la-corrupcion-del-gobierno-y-asegura-que-sanchez-podria-sentarse-delante-de-un-juez/",
+   "medio": "Infobae",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "ezequiel piovi",
+   "busquedas": "100+",
+   "nota": "Giay: por qué disfruta más esta final que la de 2025 y qué significa enfrentar a un equipo argentino",
+   "nota_url": "https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/17569294/palmeiras-vs-estudiantes-agustin-giay-espn-f12-final",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recibo de sueldo",
+   "busquedas": "100+",
+   "nota": "Empezó a regir el nuevo recibo de sueldo asistido de ARCA para empleadas domésticas: cómo funciona",
+   "nota_url": "https://www.elonce.com/economia/empezo-a-regir-el-nuevo-recibo-de-sueldo-asistido-de-arca-para-empleadas-domesticas-como-funciona.htm",
+   "medio": "Elonce.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "conmebol libertadores",
+   "busquedas": "1000+",
+   "nota": "De City Bell a Canelones: el laboratorio de Estudiantes, entre termos, mates y sonrisas",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/de-city-bell-a-canelones-el-laboratorio-de-estudiantes-entre-termos-mates-y-sonrisas-nid27112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "tiago pzk",
-   "busquedas": "100+",
-   "nota": "Tiago PZK quiere embarazar a La Joaqui a dos meses de noviazgo: la confesión que sorprendió a todos",
-   "nota_url": "https://www.bigbangnews.com/show/tiago-pzk-quiere-embarazar-joaqui-dos-meses-noviazgo-confesion-sorprendio-todos-n104079",
-   "medio": "Big Bang! News",
+   "busquedas": "200+",
+   "nota": "Tiago PKZ confirmó lo que todos esperaban tras los rumores de embarazo de La Joaqui",
+   "nota_url": "https://urgente24.com/ocio/tiago-pkz-confirmo-lo-que-todos-esperaban-los-rumores-embarazo-la-joaqui-n637603",
+   "medio": "Urgente24",
    "relevante": false,
    "temas": []
   },
@@ -163,24 +190,15 @@
   {
    "tema": "cataratas del iguazú",
    "busquedas": "200+",
-   "nota": "Cerraron la pasarela de las Cataratas del Iguazú en Brasil por una crecida récord del río",
-   "nota_url": "https://www.somosjujuy.com.ar/internacionales/cerraron-pasarela-cataratas-iguazu-brasil-una-crecida-record-rio-n127813",
-   "medio": "Somos Jujuy",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gerald r. molen",
-   "busquedas": "200+",
-   "nota": "The Oscar-winning producer of Steven Spielberg's cult films has died at the age of 91",
-   "nota_url": "https://ua.news/en/world/u-vitsi-91-roku-pomer-oskaronosnii-prodiuser-kultovikh-filmiv-stivena-spilberga",
-   "medio": "UA.NEWS",
+   "nota": "Alerta en el Litoral por el aumento de caudal en los ríos mesopotámicos",
+   "nota_url": "https://www.continental.com.ar/2026-11-26/alerta-en-el-litoral-por-el-aumento-de-caudal-en-los-rios-mesopotamicos-153084/",
+   "medio": "Radio Continental",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "league of legends",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Sources: Zeus reaches three-year agreement with T1",
    "nota_url": "https://www.sheepesports.com/en/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/en",
    "medio": "Sheep Esports",
@@ -188,29 +206,11 @@
    "temas": []
   },
   {
-   "tema": "puedes verlo todo",
-   "busquedas": "100+",
-   "nota": "Puedes verlo todo",
-   "nota_url": "https://www.leercine.com.ar/puedes-verlo-todo/",
-   "medio": "LeerCine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "condena",
-   "busquedas": "2000+",
-   "nota": "Confirman la condena para el productor que causó una masacre de pingüinos y destruyó nidos con su topadora en Punta Tombo",
-   "nota_url": "https://www.clarin.com/sociedad/confirman-condena-productor-produjo-masacre-pinguinos-destruyo-nidos-topadora-punta-tombo_0_Q6Jh62KQyd.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adios apache",
-   "busquedas": "5000+",
-   "nota": "Carlos Tevez adelantó detalles de su despedida en la Bombonera: la chance de juntar a Messi con Cristiano y las estrellas mundiales invitadas",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/26/carlos-tevez-adelanto-detalles-de-su-despedida-en-la-bombonera-la-chance-de-juntar-a-messi-con-cristiano-y-las-estrellas-mundiales-invitadas/",
-   "medio": "Infobae",
+   "tema": "gerald r. molen",
+   "busquedas": "200+",
+   "nota": "Jurassic Park, Schindler’s List filmmaker dies",
+   "nota_url": "https://www.news24.com.au/lifestyle/celebrity-life/jurassic-park-schindlers-list-filmmaker-gerald-r-molen-dies-aged-91/news-story/4adc3083078626a1d367cfb84a3e0339",
+   "medio": "News24",
    "relevante": false,
    "temas": []
   }
