@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 16:49",
+ "actualizado": "27/11 17:43",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,14 +21,20 @@
    "temas": []
   },
   {
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Jorge Born",
+   "url": "https://x.com/search?q=Jorge%20Born",
    "relevante": false,
    "temas": []
   },
@@ -41,6 +47,12 @@
   {
    "tema": "Black Friday",
    "url": "https://x.com/search?q=Black%20Friday",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bunge y Born",
+   "url": "https://x.com/search?q=Bunge%20y%20Born",
    "relevante": false,
    "temas": []
   },
@@ -75,32 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Tagliafico",
-   "url": "https://x.com/search?q=Tagliafico",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#PatriaYFamilia",
-   "url": "https://x.com/search?q=%23PatriaYFamilia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Congreso",
-   "url": "https://x.com/search?q=Congreso",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Ficha Limpia",
-   "url": "https://x.com/search?q=Ficha%20Limpia",
+   "tema": "Jihyo",
+   "url": "https://x.com/search?q=Jihyo",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +99,20 @@
    "temas": []
   },
   {
-   "tema": "Jihyo",
-   "url": "https://x.com/search?q=Jihyo",
+   "tema": "Congreso",
+   "url": "https://x.com/search?q=Congreso",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Ficha Limpia",
+   "url": "https://x.com/search?q=Ficha%20Limpia",
    "relevante": false,
    "temas": []
   },
@@ -125,92 +125,92 @@
  ],
  "google": [
   {
-   "tema": "werder bremen - mönchengladbach",
+   "tema": "chelsea",
+   "busquedas": "1000+",
+   "nota": "Wesley Fofana furiously booed as Chelsea fans sing 'you're not welcome' after interview",
+   "nota_url": "https://www.football.london/chelsea-fc/news/wesley-fofana-furiously-booed-chelsea-34979191",
+   "medio": "Football London",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "elizabeth holmes",
    "busquedas": "200+",
-   "nota": "Heute Heimspiel im Weserstadion",
-   "nota_url": "https://bremennews.de/heute-heimspiel-im-weserstadion/",
-   "medio": "BremenNews",
+   "nota": "“Puedes verlo todo”, la intimidad de una estafadora",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/26/puedes-verlo-todo-la-intimidad-de-una-estafadora/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "irlanda - australia",
+   "busquedas": "500+",
+   "nota": "Australia confirmó su equipo para enfrentar a Irlanda: Allan Alaalatoa jugará su Test número 100",
+   "nota_url": "https://cordobaxv.com.ar/australia-confirmo-su-equipo-para-enfrentar-a-irlanda-allan-alaalatoa-jugara-su-test-numero-100/",
+   "medio": "Cordoba XV",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bologna",
+   "busquedas": "200+",
+   "nota": "Calcio Serie A: Venezia-Bologna. Segui la diretta testuale",
+   "nota_url": "https://www.rainews.it/tgr/veneto/articoli/2026/11/calcio-serie-a-venezia-bologna-giornata-13-risultato-classifica-commenti-50b72f89-b7f1-42ec-8d3a-d8fc9a1989e7.html",
+   "medio": "RaiNews",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "paris fc",
+   "busquedas": "200+",
+   "nota": "Live: Stade Brest vs Paris FC | Ligue 1",
+   "nota_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/live-stade-brest-vs-paris-fc-ligue-1-2026-11-27",
+   "medio": "beIN SPORTS",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inundación",
+   "busquedas": "200+",
+   "nota": "El Ejército instala un segundo trasvasador en Piura para evacuar aguas por las lluvias intensas",
+   "nota_url": "https://es-us.noticias.yahoo.com/ej%C3%A9rcito-instala-trasvasador-piura-evacuar-154355902.html",
+   "medio": "Yahoo",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pierre gasly",
-   "busquedas": "500+",
-   "nota": "Colapinto terminó 12do. en el primer entrenamiento en Lusail",
-   "nota_url": "https://www.diariojornada.com.ar/427814/deportes/colapinto_termino_12do_en_el_primer_entrenamiento_en_lusail",
-   "medio": "Diario Jornada",
+   "busquedas": "2000+",
+   "nota": "Franco Colapinto planteó su preocupación por el rendimiento de Alpine en el primer día del GP de Qatar: “No estamos cómodos”",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/27/franco-colapinto-planteo-su-preocupacion-por-el-rendimiento-de-alpine-en-el-primer-dia-del-gp-de-qatar-no-estuvimos-comodos/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "diego peretti",
-   "busquedas": "200+",
-   "nota": "Diego Peretti rechazó las acusaciones en la causa por presunta estafa contra Hernán Casciari",
-   "nota_url": "https://diarioneuquino.com.ar/diego-peretti-rechazo-las-acusaciones-en-la-causa-por-presunta-estafa-contra-hernan-casciari/",
-   "medio": "Diario Neuquino",
+   "busquedas": "500+",
+   "nota": "Peretti, apuntado en la causa Orsai: “No tuve ningún rol como productor”",
+   "nota_url": "https://bardeo.news/entretenimiento/peretti--apuntado-en-la-causa-orsai---no-tuve-ningun-rol-como-productor-_a6b09e354c34cf90c9cf1dcf6",
+   "medio": "Bardeo.news",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "levante - racing de santander",
-   "busquedas": "200+",
-   "nota": "Levante vs Racing Santander en directo hoy: ¿dónde ver el partido por televisión y streaming?",
-   "nota_url": "https://www.goal.com/es-ar/noticias/levante-vs-racing-santander-en-directo-hoy-donde-ver-el-partido-por-television-y-streaming/blt3327a872a347927f",
-   "medio": "Goal.com",
+   "busquedas": "500+",
+   "nota": "Alineaciones de Levante y Racing de Santander para el duelo de la jornada 14 de la LaLiga",
+   "nota_url": "https://bolavip.com/ar/europa/alineaciones-de-levante-y-racing-de-santander-para-el-duelo-de-la-jornada-14-de-la-laliga",
+   "medio": "Bolavip Argentina",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "nottingham forest - chelsea",
-   "busquedas": "2000+",
-   "nota": "Licensable picture: Premier League - Nottingham Forest v Chelsea",
-   "nota_url": "https://www.reutersconnect.com/item/premier-league-nottingham-forest-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlIxRzhVOEI",
+   "busquedas": "10000+",
+   "nota": "Licensable picture: UK: Premier League: Nottingham Forest v Chelsea",
+   "nota_url": "https://www.reutersconnect.com/item/uk-premier-league-nottingham-forest-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwOERLU1k",
    "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "al ittihad",
-   "busquedas": "100+",
-   "nota": "Bergwijn leads Al-Ittihad's attack against Neom as Abidi faces his past",
-   "nota_url": "https://www.livescore.com/en/news/football/more/bergwijn-leads-al-ittihads-attack-against-neom-as-abidi-faces-his-past-goal/",
-   "medio": "LiveScore",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "entre ríos",
-   "busquedas": "100+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ola de calor",
-   "busquedas": "200+",
-   "nota": "Ciclogénesis y alerta en Argentina: el pronóstico del tiempo para el fin de semana con 34° en Buenos Aires",
-   "nota_url": "https://www.ciudad.com.ar/actualidad/2026/11/27/ciclogenesis-y-alerta-en-argentina-el-pronostico-del-tiempo-para-el-fin-de-semana-con-34-en-buenos-aires/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bunge & born",
-   "busquedas": "2000+",
-   "nota": "A los 92 años murió Jorge Born, heredero de una dinastía, secuestrado por Montoneros quien dio a Menem su primer plan económico",
-   "nota_url": "https://www.clarin.com/economia/92-anos-murio-jorge-born-heredero-dinastia-secuestrado-montoneros-dio-menem-primer-plan-economico_0_fvuc5cVqhf.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima bahia blanca",
-   "busquedas": "500+",
-   "nota": "Fuerte viento y una temperatura que sigue subiendo: a cuánto llegará la máxima",
-   "nota_url": "https://www.labrujula24.com/notas/2026/11/27/fuerte-viento-y-una-temperatura-que-sigue-subiendo-a-cuanto-llegara-la-maxima-n532864/",
-   "medio": "La Brújula 24",
    "relevante": false,
    "temas": []
   }
