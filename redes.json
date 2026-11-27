@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 07:45",
+ "actualizado": "27/11 08:44",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,20 +15,38 @@
    "temas": []
   },
   {
+   "tema": "Marc Marquez",
+   "url": "https://x.com/search?q=Marc%20Marquez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Marc",
-   "url": "https://x.com/search?q=Marc",
+   "tema": "#TheGrimLover1stPremiere",
+   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "THE GRIM LOVER Opens The Gate",
+   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "Mayans",
    "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "MotoGP",
+   "url": "https://x.com/search?q=MotoGP",
    "relevante": false,
    "temas": []
   },
@@ -45,26 +63,20 @@
    "temas": []
   },
   {
-   "tema": "#íì§ì±_ìºëë¤êµ¬ì¤",
-   "url": "https://x.com/search?q=%23%C3%AD%C2%95%C2%9C%C3%AC%C2%A7%C2%80%C3%AC%C2%84%C2%B1_%C3%AC%C2%BA%C2%90%C3%AB%C2%82%C2%98%C3%AB%C2%8B%C2%A4%C3%AA%C2%B5%C2%AC%C3%AC%C2%8A%C2%A4",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#HANxCanadaGoose",
-   "url": "https://x.com/search?q=%23HANxCanadaGoose",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tini",
    "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -75,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
    "relevante": false,
    "temas": []
   },
@@ -99,9 +111,9 @@
    "temas": []
   },
   {
-   "tema": "Presupuesto 2027",
-   "url": "https://x.com/search?q=Presupuesto%202027",
-   "relevante": true,
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
+   "relevante": false,
    "temas": []
   },
   {
@@ -109,36 +121,69 @@
    "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "ministro",
+   "tema": "martín menem",
    "busquedas": "100+",
-   "nota": "Volaron los mercados en Brasil: el Bovespa saltó 6,1% ante la llegada de un banquero al Ministerio de Economía",
-   "nota_url": "https://www.ambito.com/finanzas/volaron-los-mercados-brasil-el-bovespa-salto-61-la-llegada-un-banquero-al-ministerio-economia-n6349887",
-   "medio": "Ambito",
+   "nota": "Menem anunció el cierre preventivo de sistemas de Diputados ante el riesgo de ciberataques con inteligencia artificial",
+   "nota_url": "https://www.perfil.com/politica/menem-anuncio-el-cierre-preventivo-de-sistemas-de-diputados-ante-el-riesgo-de-ciberataques-con-inteligencia-artificial-a8q177v0yxIG",
+   "medio": "Perfil",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "sergio massa",
+   "tema": "marc marquez",
+   "busquedas": "500+",
+   "nota": "Márquez no desmintió su retiro y Ducati salió a apagar el incendio: «Va a estar con nosotros, seguro»",
+   "nota_url": "https://lamoto.com.ar/noticias/marquez-no-desmintio-su-retiro-y-ducati-salio-a-apagar-el-incendio-va-a-estar-con-nosotros-seguro/",
+   "medio": "La Moto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mdz",
    "busquedas": "100+",
-   "nota": "Massa en Córdoba: “Necesitamos ciencia y pensamiento autónomo para que también la IA sea argentina”",
-   "nota_url": "https://www.perfil.com/politica/massa-en-cordoba-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina-aoW3o4d2wz8j",
-   "medio": "Perfil",
+   "nota": "Cortes y agua turbia en Mendoza: por qué las maniobras de Potrerillos afectaron el servicio",
+   "nota_url": "https://www.mdzol.com/sociedad/2026/11/27/cortes-y-agua-turbia-en-mendoza-por-que-las-maniobras-de-potrerillos-afectaron-el-servicio-1998226.html",
+   "medio": "MDZ Online",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "contexto tucuman",
+   "busquedas": "200+",
+   "nota": "Clima en Tucumán hoy viernes 27 de noviembre: cielo claro y temperaturas cálidas",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/27/clima-en-tucuman-hoy-viernes-27-de-noviembre-cielo-claro-y-temperaturas-calidas/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ministro",
+   "busquedas": "100+",
+   "nota": "Lula designó al presidente de Bradesco en Economía: quién es y cuál es la señal que celebraron los mercados",
+   "nota_url": "https://www.cronista.com/internacionales/lula-designo-a-un-hombre-de-bradesco-como-ministro-de-economia-quien-es-y-cual-es-la-senal-fiscal-que-celebraron-los-mercados/",
+   "medio": "El Cronista",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "necochea",
+   "busquedas": "200+",
+   "nota": "La iluminación avanza y las calles esperan su turno",
+   "nota_url": "https://elecos.com.ar/la-iluminacion-avanza-y-las-calles-esperan-su-turno",
+   "medio": "Ecos Diarios Necochea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sergio massa",
+   "busquedas": "200+",
+   "nota": "Massa tantea Córdoba y presiona por el apoyo de Llaryora",
+   "nota_url": "https://diarioalfil.com.ar/contenido/24242/massa-tantea-cordoba-y-presiona-por-el-apoyo-de-llaryora",
+   "medio": "Alfil",
    "relevante": true,
    "temas": []
   },
@@ -152,20 +197,11 @@
    "temas": []
   },
   {
-   "tema": "pronóstico del tiempo",
-   "busquedas": "100+",
-   "nota": "La temperatura subirá con fuerza en Tucumán: el día que llegará a los 34°C, según el SMN",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1164453/sociedad/temperatura-subira-fuerza-tucuman-dia-llegara-34c-segun-smn.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "germán martitegui",
    "busquedas": "200+",
-   "nota": "Germán Martitegui se emocionó con el plato de una famosa en MasterChef y lanzó una advertencia al resto: “Tengan cuidado”",
-   "nota_url": "https://www.infobae.com/video/teleshow/german-martitegui-se-emociono-con-el-plato-de-una-famosa-en-masterchef-y-lanzo-una-advertencia-al-resto-tengan-cuidado/RjaMUlel/",
-   "medio": "Infobae",
+   "nota": "Germán Martitegui probó el plato de una famosa en MasterChef, se emocionó y lanzó una potente advertencia: “Tengan cuidado”",
+   "nota_url": "https://radiomitre.cienradios.com/espectaculos/german-martitegui-probo-el-plato-de-una-famosa-en-masterchef-se-emociono-y-lanzo-una-potente-advertencia-tengan-cuidado/",
+   "medio": "Radio Mitre",
    "relevante": false,
    "temas": []
   },
@@ -175,42 +211,6 @@
    "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este viernes, 27 de noviembre",
    "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-viernes-27-de-noviembre-202611275016",
    "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barco",
-   "busquedas": "500+",
-   "nota": "Alarma ambiental en Ibiza tras el hundimiento de un buque que transportaba miles de toneladas de combustible",
-   "nota_url": "https://www.lanacion.com.ar/el-mundo/alarma-ambiental-en-ibiza-tras-el-hundimiento-de-un-buque-que-transportaba-miles-de-toneladas-de-nid26112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inter de miami",
-   "busquedas": "100+",
-   "nota": "La dura crítica del entrenador de Columbus Crew y de un diario local a Messi tras el cruce del argentino con el chileno Tapia",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/25/la-dura-critica-del-entrenador-de-columbus-crew-y-de-un-diario-local-a-messi-tras-el-cruce-del-argentino-con-el-chileno-tapia/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "27 de noviembre",
-   "busquedas": "200+",
-   "nota": "Clima para este viernes 27 de noviembre en el AMBA: calor intenso, cielo despejado y viento noreste",
-   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-este-viernes-27-de-noviembre-maxima-de-33-c-y-sin-lluvias-a50-bgd-a6y165c74CyE",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pronostico posadas",
-   "busquedas": "500+",
-   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este jueves 26 noviembre de 2026",
-   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-jueves-26-noviembre-2026_0_trrjFA7EBc.html",
-   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
