@@ -1,10 +1,10 @@
 {
- "actualizado": "27/11 19:45",
+ "actualizado": "27/11 20:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -15,20 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "El Senado",
    "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Cocos",
+   "url": "https://x.com/search?q=Cocos",
    "relevante": false,
    "temas": []
   },
@@ -39,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   },
@@ -51,8 +45,14 @@
    "temas": []
   },
   {
-   "tema": "Cocos",
-   "url": "https://x.com/search?q=Cocos",
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
    "relevante": false,
    "temas": []
   },
@@ -69,14 +69,8 @@
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Fofana",
-   "url": "https://x.com/search?q=Fofana",
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
+   "tema": "Fofana",
+   "url": "https://x.com/search?q=Fofana",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
@@ -105,113 +99,119 @@
    "temas": []
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Anuel",
-   "url": "https://x.com/search?q=Anuel",
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#buenjueves",
-   "url": "https://x.com/search?q=%23buenjueves",
+   "tema": "Quilmes",
+   "url": "https://x.com/search?q=Quilmes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "$7.000 OFF",
+   "url": "https://x.com/search?q=%247.000%20OFF",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "banca pública",
-   "busquedas": "200+",
-   "nota": "Quiénes acceden a los préstamos personales para jubilados de $30.000.000 y cuáles son las tasas de interés vigentes",
-   "nota_url": "https://tn.com.ar/economia/jubilaciones/2026/11/26/quienes-acceden-a-los-prestamos-personales-para-jubilados-de-30000000-y-cuales-son-las-tasas-de-interes-vigentes/",
-   "medio": "TN",
+   "tema": "nicolás russo",
+   "busquedas": "100+",
+   "nota": "Efecto 'Casas de Apuestas': Nicolás Russo abrió fuego sobre la TV",
+   "nota_url": "https://urgente24.com/golazo24/efecto-casas-apuestas-nicolas-russo-abrio-fuego-la-tv-n637652",
+   "medio": "Urgente24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "patricia bullrich",
+   "busquedas": "100+",
+   "nota": "Encuesta: cómo ven los argentinos una posible ruptura entre Patricia Bullrich con La Libertad Avanza",
+   "nota_url": "https://www.perfil.com/politica/encuesta-como-ven-los-argentinos-una-posible-ruptura-entre-patricia-bullrich-con-la-libertad-avanza-arOp29E3Guhh",
+   "medio": "Perfil",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "deportivo morón - colón",
+   "busquedas": "500+",
+   "nota": "Morón vs Colón, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/27/moron-vs-colon-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "transporte público",
+   "busquedas": "100+",
+   "nota": "Abrieron los sobres de la licitación de transporte público de pasajeros",
+   "nota_url": "https://semanarioactualidad.com.ar/abrieron-los-sobres-de-la-licitacion-de-transporte-publico-de-pasajeros/",
+   "medio": "Semanario Actualidad",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlanta vs",
+   "busquedas": "200+",
+   "nota": "Ciudad de Bolívar irá por la remontada frente a Atlanta",
+   "nota_url": "https://www.soloascenso.com.ar/notas/ciudad-de-bolivar/ciudad-de-bolivar-ira-por-la-remontada-frente-a-atlanta/234729",
+   "medio": "Solo Ascenso",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "emanuel emegha",
+   "busquedas": "100+",
+   "nota": "Analysis: Glasner rewarded for attacking team selection",
+   "nota_url": "https://www.aol.com/articles/analysis-glasner-rewarded-attacking-team-223745000.html",
+   "medio": "AOL.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "sportivo luqueño - olimpia",
+   "busquedas": "2000+",
+   "nota": "El campeón se presenta en Itauguá",
+   "nota_url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/el-campeon-se-presenta-en-itaugua/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adam bareiro",
+   "busquedas": "100+",
+   "nota": "La emotiva carta de Adam Bareiro tras superar una larga lesión y volver a jugar en Boca: “Cada día valió la pena”",
+   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/27/la-emotiva-carta-de-adam-bareiro-tras-superar-una-larga-lesion-y-volver-a-jugar-en-boca-cada-dia-valio-la-pena/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "banca pública",
+   "busquedas": "500+",
+   "nota": "Banco Provincia bajó las tasas de sus préstamos personales: cuánto costará una cuota de $2 millones",
+   "nota_url": "https://holasalta.com/post/banco-provincia-bajo-las-tasas-de-sus-prestamos-personales-cuanto-costara-una-cuota-de-2-millones/",
+   "medio": "HolaSalta Noticias",
+   "relevante": false,
    "temas": []
   },
   {
    "tema": "angelina jolie",
-   "busquedas": "100+",
-   "nota": "Licensable video: UNCAPTIONED: Brad Pitt and Angelina Jolie settle dispute over French winery",
-   "nota_url": "https://www.reutersconnect.com/item/uncaptioned-brad-pitt-and-angelina-jolie-settle-dispute-over-french-winery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzEyMTA2OTU",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "vix index",
-   "busquedas": "100+",
-   "nota": "'Fear gauge' dips but still shows lingering investor angst",
-   "nota_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading/card/-fear-gauge-dips-but-still-shows-lingering-investor-angst-grE2D6UBoOFOKnT9XCZl",
-   "medio": "MarketWatch",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fluminense - cruzeiro",
-   "busquedas": "1000+",
-   "nota": "Fluminense enfrenta o Cruzeiro pela 37ª rodada do Brasileirão",
-   "nota_url": "https://ge.globo.com/video/fluminense-enfrenta-o-cruzeiro-pela-37a-rodada-do-brasileirao-15287152.ghtml",
-   "medio": "ge",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atlanta",
-   "busquedas": "500+",
-   "nota": "Black Friday: Big crowds, careful budgets",
-   "nota_url": "https://www.11alive.com/video/news/community/black-friday-big-crowds-careful-budgets/85-298f89cc-4688-4ded-8e8a-a1b69ea93c99",
-   "medio": "11Alive.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adopción",
-   "busquedas": "100+",
-   "nota": "Adopción: Buscan una familia para una niña de 7 años",
-   "nota_url": "https://www.lanacion.com.ar/comunidad/adopcion/adopcion-buscan-una-familia-para-una-nina-de-7-anos-nid20112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mundial talla baja 2026",
-   "busquedas": "500+",
-   "nota": "La Selección repitió resultado en Talla Baja: 3 a 2 a Egipto y tole tole al final",
-   "nota_url": "https://www.ole.com.ar/seleccion/tallabaja-egipto-mundialdemarruecos-catrielbrassesco-seleccionargentina-antunez_0_Iq8fnY7KFA.html",
-   "medio": "Olé",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "carlos sainz jr.",
    "busquedas": "200+",
-   "nota": "Sainz encerró a Colapinto, que se calentó en la FP3 de Las Vegas",
-   "nota_url": "https://www.ole.com.ar/autos/sainz-encerro-colapinto-calento-fp3-vegas_3_9djiDSW28I.html",
-   "medio": "Olé",
+   "nota": "Who are Brad Pitt and Angelina Jolie now dating?",
+   "nota_url": "https://www.lbc.co.uk/article/who-brad-pitt-angelina-jolie-now-dating-5HjdnbG_2/",
+   "medio": "LBC",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "soledad silveyra",
-   "busquedas": "200+",
-   "nota": "Después de 22 días internada y una dura recuperación, Soledad Silveyra anunció su regreso: \"Espero tener las fuerzas necesarias\"",
-   "nota_url": "https://www.eldestapeweb.com/cultura/despues-22-dias-internada-dura-recuperacion-soledad-silveyra-anuncio-regreso-espero-tener-fuerzas-necesarias-2026112719035",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "claudio vidal",
-   "busquedas": "5000+",
-   "nota": "El juez federal de Río Gallegos le entregó la administración de dos estancias de Lázaro Báez al gobierno de Santa Cruz",
-   "nota_url": "https://www.lanacion.com.ar/politica/el-juez-federal-de-rio-gallegos-le-entrego-la-administracion-de-dos-estancias-de-lazaro-baez-al-nid27112026/",
-   "medio": "La Nación",
-   "relevante": true,
    "temas": []
   }
  ],
