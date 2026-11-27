@@ -1,7 +1,13 @@
 {
- "actualizado": "27/11 12:49",
+ "actualizado": "27/11 13:55",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Bonelli",
+   "url": "https://x.com/search?q=Bonelli",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
@@ -11,12 +17,6 @@
   {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Marc MÃ¡rquez",
-   "url": "https://x.com/search?q=Marc%20M%C3%83%C2%A1rquez",
    "relevante": false,
    "temas": []
   },
@@ -33,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Lenny",
-   "url": "https://x.com/search?q=Lenny",
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +45,20 @@
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "Lenny",
+   "url": "https://x.com/search?q=Lenny",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "MotoGP",
-   "url": "https://x.com/search?q=MotoGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ficha Limpia",
-   "url": "https://x.com/search?q=Ficha%20Limpia",
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
    "relevante": false,
    "temas": []
   },
@@ -87,20 +75,8 @@
    "temas": []
   },
   {
-   "tema": "Maia",
-   "url": "https://x.com/search?q=Maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tini",
    "url": "https://x.com/search?q=Tini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Trebucq",
-   "url": "https://x.com/search?q=Trebucq",
    "relevante": false,
    "temas": []
   },
@@ -111,19 +87,70 @@
    "temas": []
   },
   {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
+   "tema": "Ficha Limpia",
+   "url": "https://x.com/search?q=Ficha%20Limpia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Riky",
+   "url": "https://x.com/search?q=Riky",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Congreso",
+   "url": "https://x.com/search?q=Congreso",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "#buenjueves",
+   "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "conmebol libertadores",
+   "busquedas": "500+",
+   "nota": "Estudiantes vs. Palmeiras, por la final de la Copa Libertadores 2026: a qué hora juegan y dónde ver en vivo",
+   "nota_url": "https://www.clarin.com/deportes/estudiantes-vs-palmeiras-final-copa-libertadores-2026-hora-juegan-ver-vivo_0_Myi8XNefIx.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dólar estadounidense",
+   "busquedas": "5000+",
+   "nota": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 27 de noviembre",
+   "nota_url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-27-noviembre-n6349921",
+   "medio": "Ambito",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tiago pzk",
+   "busquedas": "100+",
+   "nota": "Tiago PZK quiere embarazar a La Joaqui a dos meses de noviazgo: la confesión que sorprendió a todos",
+   "nota_url": "https://www.bigbangnews.com/show/tiago-pzk-quiere-embarazar-joaqui-dos-meses-noviazgo-confesion-sorprendio-todos-n104079",
+   "medio": "Big Bang! News",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "ricky maravilla",
    "busquedas": "200+",
@@ -135,7 +162,7 @@
   },
   {
    "tema": "cataratas del iguazú",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Cerraron la pasarela de las Cataratas del Iguazú en Brasil por una crecida récord del río",
    "nota_url": "https://www.somosjujuy.com.ar/internacionales/cerraron-pasarela-cataratas-iguazu-brasil-una-crecida-record-rio-n127813",
    "medio": "Somos Jujuy",
@@ -145,60 +172,33 @@
   {
    "tema": "gerald r. molen",
    "busquedas": "200+",
-   "nota": "Gerald R. Molen, Oscar Winner Behind Beloved ’90s Spielberg Movies, Dies at 91",
-   "nota_url": "https://www.thedailybeast.com/gerald-r-molen-oscar-winner-behind-beloved-90s-spielberg-movies-dies-at-91",
-   "medio": "The Daily Beast",
+   "nota": "The Oscar-winning producer of Steven Spielberg's cult films has died at the age of 91",
+   "nota_url": "https://ua.news/en/world/u-vitsi-91-roku-pomer-oskaronosnii-prodiuser-kultovikh-filmiv-stivena-spilberga",
+   "medio": "UA.NEWS",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "league of legends",
    "busquedas": "100+",
-   "nota": "Zeus Returns to T1 in Three-Year Deal",
-   "nota_url": "https://insider-gaming.com/zeus-returns-to-t1-in-three-year-deal/",
-   "medio": "Insider Gaming",
+   "nota": "Sources: Zeus reaches three-year agreement with T1",
+   "nota_url": "https://www.sheepesports.com/en/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/en",
+   "medio": "Sheep Esports",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dólar hoy",
-   "busquedas": "5000+",
-   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 27 de noviembre",
-   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ficha limpia",
-   "busquedas": "2000+",
-   "nota": "EL SENADO CONVIRTIÓ EN LEY EL PROYECTO DE PREVENCIÓN DE LA LUDOPATÍA Y OTORGÓ MEDIA SANCIÓN A LA REFORMA ELECTORAL",
-   "nota_url": "https://www.senado.gob.ar/prensa/24670/noticias",
-   "medio": "Senado de la Nación Argentina",
-   "relevante": true,
    "temas": []
   },
   {
    "tema": "puedes verlo todo",
    "busquedas": "100+",
-   "nota": "“Puedes verlo todo”, la intimidad de una estafadora",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/26/puedes-verlo-todo-la-intimidad-de-una-estafadora/",
-   "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adios apache",
-   "busquedas": "5000+",
-   "nota": "De Messi a Buffon: el uno por uno de las estrellas que ya fueron confirmadas para la despedida de Tevez",
-   "nota_url": "https://www.ole.com.ar/boca-juniors/figuras-despedida-carlos-tevez_0_VbZ1wphUiK.html",
-   "medio": "Olé",
+   "nota": "Puedes verlo todo",
+   "nota_url": "https://www.leercine.com.ar/puedes-verlo-todo/",
+   "medio": "LeerCine",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "condena",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "Confirman la condena para el productor que causó una masacre de pingüinos y destruyó nidos con su topadora en Punta Tombo",
    "nota_url": "https://www.clarin.com/sociedad/confirman-condena-productor-produjo-masacre-pinguinos-destruyo-nidos-topadora-punta-tombo_0_Q6Jh62KQyd.html",
    "medio": "Clarin.com",
@@ -206,11 +206,11 @@
    "temas": []
   },
   {
-   "tema": "f1 qatar",
-   "busquedas": "200+",
-   "nota": "Mercedes dominates the opening practice in Qatar",
-   "nota_url": "https://www.news.gp/en/mercedes-dominates-the-opening-practice-in-qatar",
-   "medio": "www.news.gp",
+   "tema": "adios apache",
+   "busquedas": "5000+",
+   "nota": "Carlos Tevez adelantó detalles de su despedida en la Bombonera: la chance de juntar a Messi con Cristiano y las estrellas mundiales invitadas",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/26/carlos-tevez-adelanto-detalles-de-su-despedida-en-la-bombonera-la-chance-de-juntar-a-messi-con-cristiano-y-las-estrellas-mundiales-invitadas/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
