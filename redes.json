@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 00:50",
+ "actualizado": "27/11 01:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -21,20 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Mayans",
    "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
@@ -45,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
    "relevante": false,
    "temas": []
   },
@@ -63,20 +57,20 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Malaspina",
    "url": "https://x.com/search?q=Malaspina",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -87,14 +81,14 @@
    "temas": []
   },
   {
-   "tema": "Rivers",
-   "url": "https://x.com/search?q=Rivers",
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "Rivers",
+   "url": "https://x.com/search?q=Rivers",
    "relevante": false,
    "temas": []
   },
@@ -113,6 +107,12 @@
    ]
   },
   {
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
@@ -127,17 +127,35 @@
  ],
  "google": [
   {
-   "tema": "latam",
+   "tema": "cruz azul",
    "busquedas": "100+",
-   "nota": "Black Friday: cómo congelar hoy el precio de los vuelos y pagarlos en 2027",
-   "nota_url": "https://www.cronista.com/brand-strategy/black-friday-como-congelar-hoy-el-precio-de-los-vuelos-y-pagarlos-en-2027/",
-   "medio": "El Cronista",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "presupuesto",
+   "busquedas": "100+",
+   "nota": "Diputados: en medio de intensas negociaciones, el Gobierno confía en obtener la media sanción del presupuesto 2027",
+   "nota_url": "https://www.lanacion.com.ar/politica/diputados-en-medio-de-intensas-negociaciones-el-gobierno-confia-en-obtener-la-media-sancion-del-nid26112026/",
+   "medio": "La Nación",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "león - cruz azul",
+   "tema": "latam",
    "busquedas": "200+",
+   "nota": "Qué playas del exterior y circuitos nacionales ofrecen las mejores rebajas en este Black Friday 2026",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1164173/sociedad/que-playas-exterior-circuitos-nacionales-ofrecen-mejores-rebajas-este-black-friday-2026.html",
+   "medio": "La Gaceta",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "león - cruz azul",
+   "busquedas": "500+",
    "nota": "¿Por qué no juegan Amaury García, Andrés Montaño y Kevin Mier?",
    "nota_url": "https://vamoscruzazul.bolavip.com/noticias/por-que-no-juegan-amaury-garcia-andres-montano-y-nicolas-ibanez-aS4Za3q46o0Y",
    "medio": "Vamos Azul",
@@ -147,18 +165,9 @@
   {
    "tema": "jetsmart",
    "busquedas": "1000+",
-   "nota": "Vuelos por Chile, Argentina y Brasil: las ofertas de SKY Airline de hasta 63% en pasajes",
-   "nota_url": "https://www.pagina7.cl/actualidad/vuelos-por-chile-argentina-y-brasil-las-ofertas-de-sky-airline-de-hasta-63-en-pasajes/",
-   "medio": "Página 7",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adidas",
-   "busquedas": "500+",
-   "nota": "Adidas’ Black Friday Shoe Deals Are Up to 60% Off—Snag Celeb-Worn Pairs and Comfy Staples From $14",
-   "nota_url": "https://www.instyle.com/adidas-black-friday-deals-2026-12268468",
-   "medio": "InStyle",
+   "nota": "Oferta de vuelos nacionales: ¿qué vuelos podrían tener descuento este Black Friday?",
+   "nota_url": "https://www.tvmas.tv/noticias/oferta-de-vuelos-nacionales-que-vuelos-podrian-tener-descuento-este-black-friday_20261124/",
+   "medio": "TV Más",
    "relevante": false,
    "temas": []
   },
@@ -177,15 +186,6 @@
    "nota": "Rafecas sumó la denuncia contra el jefe de los árbitros a la causa por desvíos de dinero en la AFA",
    "nota_url": "https://www.lanacion.com.ar/politica/rafecas-sumo-la-denuncia-contra-el-jefe-de-los-arbitros-a-la-causa-por-desvios-de-dinero-en-la-afa-nid26112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pésame",
-   "busquedas": "1000+",
-   "nota": "Primeras imágenes del naufragio del buque petrolero con 7.000 toneladas de gasoil cerca de la costa de Ibiza",
-   "nota_url": "https://www.infobae.com/espana/2026/11/26/primeras-imagenes-del-naufragio-del-buque-petrolero-con-7000-toneladas-de-gasoil-cerca-de-la-costa-de-ibiza/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
