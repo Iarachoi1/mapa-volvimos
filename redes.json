@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 03:57",
+ "actualizado": "27/11 05:24",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -57,14 +57,14 @@
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "#íì§ì±_ìºëë¤êµ¬ì¤",
+   "url": "https://x.com/search?q=%23%C3%AD%C2%95%C2%9C%C3%AC%C2%A7%C2%80%C3%AC%C2%84%C2%B1_%C3%AC%C2%BA%C2%90%C3%AB%C2%82%C2%98%C3%AB%C2%8B%C2%A4%C3%AA%C2%B5%C2%AC%C3%AC%C2%8A%C2%A4",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Malaspina",
-   "url": "https://x.com/search?q=Malaspina",
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "#HANxCanadaGoose",
+   "url": "https://x.com/search?q=%23HANxCanadaGoose",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
@@ -99,12 +99,6 @@
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Jorge Macri",
    "url": "https://x.com/search?q=Jorge%20Macri",
    "relevante": true,
@@ -113,25 +107,58 @@
    ]
   },
   {
-   "tema": "Caputo",
-   "url": "https://x.com/search?q=Caputo",
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
+   "tema": "#buenjueves",
+   "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "clima cordoba",
+   "busquedas": "200+",
+   "nota": "Clima en Córdoba: cielo nublado y templado para este jueves 26 de noviembre",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/26/clima-en-cordoba-hoy-jueves-26-de-noviembre-cielo-cubierto-y-templado/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estafa",
+   "busquedas": "200+",
+   "nota": "Trucos simples para evitar estafas durante el Black Friday",
+   "nota_url": "https://www.eleco.com.ar/interes-general/trucos-simples-para-evitar-estafas-durante-el-black-friday-1",
+   "medio": "El Eco",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "tasa",
+   "busquedas": "100+",
+   "nota": "Según el mercado, el Gobierno salió a bajar la brecha cambiaria para evitar que desaliente la oferta de dólares",
+   "nota_url": "https://www.lanacion.com.ar/economia/el-gobierno-salio-a-bajar-la-brecha-cambiaria-para-evitar-que-desaliente-la-oferta-de-dolares-nid26112026/",
+   "medio": "La Nación",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "presupuesto",
    "busquedas": "100+",
-   "nota": "El Gobierno logró aprobar el Presupuesto en Diputados pero tuvo que aumentar los fondos para las universidades",
-   "nota_url": "https://www.infobae.com/politica/2026/11/26/diputados-en-vivo-las-ultimas-noticias-sobre-el-debate-del-presupuesto-2027/",
-   "medio": "Infobae",
+   "nota": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados pero sufrió un revés con los fondos para universidades",
+   "nota_url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
+   "medio": "Clarin.com",
    "relevante": true,
    "temas": []
   },
@@ -147,19 +174,19 @@
   {
    "tema": "león - cruz azul",
    "busquedas": "1000+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
+   "nota": "Club León vs. Cruz Azul Lineups, Live Stream, How & Where to Watch Liga MX Liguilla on TV",
+   "nota_url": "https://www.yardbarker.com/general_sports/articles/club_len_vs_cruz_azul_lineups_live_stream_how_where_to_watch_liga_mx_liguilla_on_tv/s1_17615_44624681",
+   "medio": "Yardbarker",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jetsmart",
    "busquedas": "2000+",
-   "nota": "Vuelos por Chile, Argentina y Brasil: las ofertas de SKY Airline de hasta 63% en pasajes",
-   "nota_url": "https://www.pagina7.cl/actualidad/vuelos-por-chile-argentina-y-brasil-las-ofertas-de-sky-airline-de-hasta-63-en-pasajes/",
-   "medio": "Página 7",
-   "relevante": false,
+   "nota": "Miércoles de descuentos: viajeros podrán ahorrar en tiquetes aéreos para viajar hasta mayo de 2027",
+   "nota_url": "https://www.semana.com/turismo/articulo/miercoles-de-descuentos-viajeros-podran-ahorrar-en-tiquetes-aereos-para-viajar-hasta-mayo-de-2027/202646/",
+   "medio": "Revista Semana",
+   "relevante": true,
    "temas": []
   },
   {
@@ -173,7 +200,7 @@
   },
   {
    "tema": "diego barroetavena",
-   "busquedas": "1000+",
+   "busquedas": "500+",
    "nota": "Rafecas sumó la denuncia contra el jefe de los árbitros a la causa por desvíos de dinero en la AFA",
    "nota_url": "https://www.lanacion.com.ar/politica/rafecas-sumo-la-denuncia-contra-el-jefe-de-los-arbitros-a-la-causa-por-desvios-de-dinero-en-la-afa-nid26112026/",
    "medio": "La Nación",
@@ -181,38 +208,11 @@
    "temas": []
   },
   {
-   "tema": "johnny marr",
-   "busquedas": "200+",
-   "nota": "A qué hora toca Underworld en Buenos Aires, cuál es el lineup completo y los horarios de cada show",
-   "nota_url": "https://www.lanacion.com.ar/que-sale/a-que-hora-toca-underworld-en-buenos-aires-cual-es-el-lineup-completo-y-los-horarios-de-cada-show-nid24112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "glaciar",
-   "busquedas": "200+",
-   "nota": "El grupo emiratí detrás del proyecto para construir un hotel de lujo frente al Perito Moreno",
-   "nota_url": "https://www.lanacion.com.ar/sociedad/el-grupo-emirati-detras-del-proyecto-para-construir-un-hotel-de-lujo-frente-al-perito-moreno-nid25112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "francisco álvarez",
-   "busquedas": "500+",
-   "nota": "Boca se mete en la pelea con River por una figura de Argentinos Juniors",
-   "nota_url": "https://www.nexofin.com/notas/1303422-boca-se-mete-en-la-pelea-con-river-por-una-figura-de-argentinos-juniors-n-/",
-   "medio": "Nexofin",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima san juan",
-   "busquedas": "200+",
-   "nota": "San Juan va a estar picante: el viernes llega a 34°C y asoman tormentas aisladas",
-   "nota_url": "https://delsurdiario.com/provinciales/san-juan-va-a-estar-picante-el-viernes-llega-a-34c-y-asoman-tormentas-aisladas",
-   "medio": "Del Sur Diario",
+   "tema": "pésame",
+   "busquedas": "100+",
+   "nota": "Primeras imágenes del naufragio del buque petrolero con 7.000 toneladas de gasoil cerca de la costa de Ibiza",
+   "nota_url": "https://www.infobae.com/espana/2026/11/26/primeras-imagenes-del-naufragio-del-buque-petrolero-con-7000-toneladas-de-gasoil-cerca-de-la-costa-de-ibiza/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
