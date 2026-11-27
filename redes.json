@@ -1,13 +1,7 @@
 {
- "actualizado": "27/11 14:46",
+ "actualizado": "27/11 15:42",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
-   "relevante": true,
-   "temas": []
-  },
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
@@ -15,15 +9,21 @@
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
    "tema": "Presupuesto 2027",
    "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
    "temas": []
   },
   {
@@ -35,12 +35,6 @@
   {
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -57,6 +51,24 @@
    "temas": []
   },
   {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PatriaYFamilia",
+   "url": "https://x.com/search?q=%23PatriaYFamilia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Londres",
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
@@ -65,12 +77,6 @@
   {
    "tema": "Banco Central",
    "url": "https://x.com/search?q=Banco%20Central",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lenny",
-   "url": "https://x.com/search?q=Lenny",
    "relevante": false,
    "temas": []
   },
@@ -99,8 +105,8 @@
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "Jihyo",
+   "url": "https://x.com/search?q=Jihyo",
    "relevante": false,
    "temas": []
   },
@@ -115,18 +121,39 @@
    "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "jorge born",
+   "tema": "heraldos del evangelio",
    "busquedas": "100+",
+   "nota": "El Vaticano nombra un triplete de comisiarios pontificios para los Heraldos del Evangelio",
+   "nota_url": "https://www.vidanuevadigital.com/2026/11/27/vaticano-nombra-triplete-comisiarios-pontificios-heraldos-evangelio/",
+   "medio": "Vida Nueva",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "islas malvinas",
+   "busquedas": "500+",
+   "nota": "En Londres, los kelpers apuntaron contra Argentina en la previa al fallo por Sea Lion",
+   "nota_url": "https://www.perfil.com/internacional/en-londres-los-kelpers-apuntaron-contra-argentina-en-la-previa-al-fallo-por-sea-lion-amQZE6j8TayB",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "copa davis",
+   "busquedas": "100+",
+   "nota": "Del Potro y la lucha mental que vivió ante Cilic en la Copa Davis 2016: \"Los pensamientos malos se adueñaron de mí\"",
+   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17530086/del-potro-la-lucha-mental-que-vivio-ante-cilic-copa-davis-2016-los-pensamientos-malos-se-aduenaron-de-mi-estado-de-animo",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jorge born",
+   "busquedas": "200+",
    "nota": "Murió Jorge Born, el empresario heredero de Bunge y Born que sobrevivió al secuestro de Montoneros",
    "nota_url": "https://www.infobae.com/economia/2026/11/27/murio-jorge-born-el-empresario-heredero-de-bunge-y-born-que-sobrevivio-al-secuestro-de-montoneros/",
    "medio": "Infobae",
@@ -170,48 +197,21 @@
    "temas": []
   },
   {
+   "tema": "dólar estadounidense",
+   "busquedas": "2000+",
+   "nota": "El dólar cortó la escalada y bajó hasta los $1625",
+   "nota_url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-corta-con-su-escalada-y-cede-hasta-los-1625-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "tiago pzk",
    "busquedas": "200+",
-   "nota": "Tiago PKZ confirmó lo que todos esperaban tras los rumores de embarazo de La Joaqui",
-   "nota_url": "https://urgente24.com/ocio/tiago-pkz-confirmo-lo-que-todos-esperaban-los-rumores-embarazo-la-joaqui-n637603",
-   "medio": "Urgente24",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ricky maravilla",
-   "busquedas": "200+",
-   "nota": "Ricky Maravilla le hizo un pedido a Javier Milei: “No castigue tanto a los de abajo”",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1164405/espectaculos/ricky-maravilla-le-hizo-pedido-javier-milei-no-castigue-tanto-abajo.html",
-   "medio": "La Gaceta",
+   "nota": "Tiago PZK contó que planea tener un hijo con La Joaqui en 2027: Mi señora quiere un nene",
+   "nota_url": "https://www.lavoz.com.ar/espectaculos/tiago-pzk-conto-planea-tener-hijo-joaqui-2027-senora-quiere-nene_0_Xv2RmeAFKl.html",
+   "medio": "La Voz del Interior",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cataratas del iguazú",
-   "busquedas": "200+",
-   "nota": "Alerta en el Litoral por el aumento de caudal en los ríos mesopotámicos",
-   "nota_url": "https://www.continental.com.ar/2026-11-26/alerta-en-el-litoral-por-el-aumento-de-caudal-en-los-rios-mesopotamicos-153084/",
-   "medio": "Radio Continental",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "league of legends",
-   "busquedas": "200+",
-   "nota": "Sources: Zeus reaches three-year agreement with T1",
-   "nota_url": "https://www.sheepesports.com/en/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/en",
-   "medio": "Sheep Esports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "gerald r. molen",
-   "busquedas": "200+",
-   "nota": "Jurassic Park, Schindler’s List filmmaker dies",
-   "nota_url": "https://www.news24.com.au/lifestyle/celebrity-life/jurassic-park-schindlers-list-filmmaker-gerald-r-molen-dies-aged-91/news-story/4adc3083078626a1d367cfb84a3e0339",
-   "medio": "News24",
-   "relevante": false,
    "temas": []
   }
  ],
