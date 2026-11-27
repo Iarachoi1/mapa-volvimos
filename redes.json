@@ -1,13 +1,7 @@
 {
- "actualizado": "27/11 06:55",
+ "actualizado": "27/11 07:45",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "#BuenViernes",
    "url": "https://x.com/search?q=%23BuenViernes",
@@ -15,9 +9,21 @@
    "temas": []
   },
   {
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Marc",
+   "url": "https://x.com/search?q=Marc",
+   "relevante": false,
    "temas": []
   },
   {
@@ -35,6 +41,18 @@
   {
    "tema": "Lozano",
    "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#íì§ì±_ìºëë¤êµ¬ì¤",
+   "url": "https://x.com/search?q=%23%C3%AD%C2%95%C2%9C%C3%AC%C2%A7%C2%80%C3%AC%C2%84%C2%B1_%C3%AC%C2%BA%C2%90%C3%AB%C2%82%C2%98%C3%AB%C2%8B%C2%A4%C3%AA%C2%B5%C2%AC%C3%AC%C2%8A%C2%A4",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#HANxCanadaGoose",
+   "url": "https://x.com/search?q=%23HANxCanadaGoose",
    "relevante": false,
    "temas": []
   },
@@ -63,14 +81,8 @@
    "temas": []
   },
   {
-   "tema": "#íì§ì±_ìºëë¤êµ¬ì¤",
-   "url": "https://x.com/search?q=%23%C3%AD%C2%95%C2%9C%C3%AC%C2%A7%C2%80%C3%AC%C2%84%C2%B1_%C3%AC%C2%BA%C2%90%C3%AB%C2%82%C2%98%C3%AB%C2%8B%C2%A4%C3%AA%C2%B5%C2%AC%C3%AC%C2%8A%C2%A4",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "#catalanladron",
+   "url": "https://x.com/search?q=%23catalanladron",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +93,8 @@
    "temas": []
   },
   {
-   "tema": "#HANxCanadaGoose",
-   "url": "https://x.com/search?q=%23HANxCanadaGoose",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "maia",
    "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#catalanladron",
-   "url": "https://x.com/search?q=%23catalanladron",
    "relevante": false,
    "temas": []
   },
@@ -105,49 +105,67 @@
    "temas": []
   },
   {
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "HAN CHILLS AT CANADA GOOSE",
-   "url": "https://x.com/search?q=HAN%20CHILLS%20AT%20CANADA%20GOOSE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "pronostico formosa",
-   "busquedas": "200+",
-   "nota": "Clima en ciudad de Formosa hoy: cuál es el pronóstico del tiempo para el 26 de noviembre de 2026",
-   "nota_url": "https://www.lanacion.com.ar/clima/formosa/clima-en-ciudad-de-formosa-hoy-cual-es-el-pronostico-del-tiempo-para-el-26-de-noviembre-de-2026-nid25112026/",
-   "medio": "La Nación",
+   "tema": "ministro",
+   "busquedas": "100+",
+   "nota": "Volaron los mercados en Brasil: el Bovespa saltó 6,1% ante la llegada de un banquero al Ministerio de Economía",
+   "nota_url": "https://www.ambito.com/finanzas/volaron-los-mercados-brasil-el-bovespa-salto-61-la-llegada-un-banquero-al-ministerio-economia-n6349887",
+   "medio": "Ambito",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "sergio massa",
+   "busquedas": "100+",
+   "nota": "Massa en Córdoba: “Necesitamos ciencia y pensamiento autónomo para que también la IA sea argentina”",
+   "nota_url": "https://www.perfil.com/politica/massa-en-cordoba-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina-aoW3o4d2wz8j",
+   "medio": "Perfil",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "barby franco",
+   "busquedas": "100+",
+   "nota": "Barby Franco llevó a su hija Sarah Burlando a la peluquería por primera vez y el video derritió a las redes: “La paciencia”",
+   "nota_url": "https://la100.cienradios.com/espectaculos/barby-franco-llevo-a-su-hija-sarah-burlando-a-la-peluqueria-por-primera-vez-y-el-video-derritio-a-las-redes-la-paciencia/",
+   "medio": "La 100",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pronóstico del tiempo",
    "busquedas": "100+",
-   "nota": "Clima para este viernes 27 de noviembre en el AMBA: calor intenso, cielo despejado y viento noreste",
-   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-este-viernes-27-de-noviembre-maxima-de-33-c-y-sin-lluvias-a50-bgd-a6y165c74CyE",
-   "medio": "Perfil",
+   "nota": "La temperatura subirá con fuerza en Tucumán: el día que llegará a los 34°C, según el SMN",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1164453/sociedad/temperatura-subira-fuerza-tucuman-dia-llegara-34c-segun-smn.html",
+   "medio": "La Gaceta",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "germán martitegui",
-   "busquedas": "100+",
-   "nota": "Germán Martitegui y Maru Botana en Navidad en las Caballerizas 2026: cuándo es la feria solidaria de regalos en Tigre y cómo comprar entradas",
-   "nota_url": "https://www.lanacion.com.ar/que-sale/german-martitegui-y-maru-botana-en-navidad-en-las-caballerizas-2026-cuando-es-la-feria-solidaria-de-nid24112026/",
-   "medio": "La Nación",
+   "busquedas": "200+",
+   "nota": "Germán Martitegui se emocionó con el plato de una famosa en MasterChef y lanzó una advertencia al resto: “Tengan cuidado”",
+   "nota_url": "https://www.infobae.com/video/teleshow/german-martitegui-se-emociono-con-el-plato-de-una-famosa-en-masterchef-y-lanzo-una-advertencia-al-resto-tengan-cuidado/RjaMUlel/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
@@ -162,7 +180,7 @@
   },
   {
    "tema": "barco",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "Alarma ambiental en Ibiza tras el hundimiento de un buque que transportaba miles de toneladas de combustible",
    "nota_url": "https://www.lanacion.com.ar/el-mundo/alarma-ambiental-en-ibiza-tras-el-hundimiento-de-un-buque-que-transportaba-miles-de-toneladas-de-nid26112026/",
    "medio": "La Nación",
@@ -180,37 +198,19 @@
   },
   {
    "tema": "27 de noviembre",
-   "busquedas": "100+",
-   "nota": "Horóscopo de hoy por Jimena La Torre: viernes 27 de noviembre de 2026",
-   "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/27/horoscopo-de-hoy-por-jimena-la-torre-viernes-27-de-noviembre-de-2026/",
-   "medio": "Ciudad Magazine",
+   "busquedas": "200+",
+   "nota": "Clima para este viernes 27 de noviembre en el AMBA: calor intenso, cielo despejado y viento noreste",
+   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-este-viernes-27-de-noviembre-maxima-de-33-c-y-sin-lluvias-a50-bgd-a6y165c74CyE",
+   "medio": "Perfil",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "clima posadas",
-   "busquedas": "200+",
+   "tema": "pronostico posadas",
+   "busquedas": "500+",
    "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este jueves 26 noviembre de 2026",
    "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-jueves-26-noviembre-2026_0_trrjFA7EBc.html",
    "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima corrientes",
-   "busquedas": "200+",
-   "nota": "Vuelven las lluvias y tormentas a Corrientes: cómo estará el tiempo este viernes",
-   "nota_url": "https://www.radiodos.com.ar/217749-vuelven-las-lluvias-y-tormentas-a-corrientes-como-estara-el-tiempo-este-viernes",
-   "medio": "Radio Dos Corrientes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clima cordoba",
-   "busquedas": "1000+",
-   "nota": "Días cálidos. Clima en Córdoba: prevén una máxima de 30 °C y poca nubosidad para este viernes 27 de noviembre",
-   "nota_url": "https://www.lavoz.com.ar/servicios/clima-cordoba-preven-maxima-30-c-poca-nubosidad-viernes-27-noviembre_0_YSgyqJRhTZ.html",
-   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
