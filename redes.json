@@ -1,13 +1,7 @@
 {
- "actualizado": "26/11 23:14",
+ "actualizado": "27/11 00:50",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
@@ -27,14 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "Caballito",
+   "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Caballito",
-   "url": "https://x.com/search?q=Caballito",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +57,26 @@
    "temas": []
   },
   {
+   "tema": "Edith",
+   "url": "https://x.com/search?q=Edith",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Malaspina",
+   "url": "https://x.com/search?q=Malaspina",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Bareiro",
    "url": "https://x.com/search?q=Bareiro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Ficha Limpia",
-   "url": "https://x.com/search?q=Ficha%20Limpia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -81,9 +87,21 @@
    "temas": []
   },
   {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
+   "tema": "Rivers",
+   "url": "https://x.com/search?q=Rivers",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
    "temas": []
   },
   {
@@ -95,125 +113,107 @@
    ]
   },
   {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Dallas",
-   "url": "https://x.com/search?q=Dallas",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caputo",
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "#CatalanLadron",
-   "url": "https://x.com/search?q=%23CatalanLadron",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "#catalanladron",
+   "url": "https://x.com/search?q=%23catalanladron",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "maru botana",
-   "busquedas": "200+",
-   "nota": "Una figura de Telefe sorprendió al revelar un romance de su hija con un futbolista famoso: “Son bravos”",
-   "nota_url": "https://www.eldestapeweb.com/espectaculos/figura-telefe-sorprendio-revelar-romance-hija-futbolista-famoso-bravos-20261124162151",
-   "medio": "El Destape",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maxi lópez",
-   "busquedas": "200+",
-   "nota": "Cansado de que le pregunten de qué vive, Maxi López mostró su rutina diaria y contó cuál es su nuevo desafío fuera de la cancha",
-   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/26/cansado-de-que-le-pregunten-de-que-vive-maxi-lopez-mostro-su-rutina-diaria-y-conto-cual-es-su-nuevo-desafio-fuera-de-la-cancha/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "club atlético belgrano",
-   "busquedas": "500+",
-   "nota": "Cuál es el trofeo de AFA de hace 40 años que el Chiqui Tapia le entregó a Belgrano",
-   "nota_url": "https://www.tycsports.com/liga-profesional-de-futbol/chiqui-tapia-entrego-belgrano-trofeo-regional-1985-86-40-anos-historica-consagracion-id773119.html",
-   "medio": "TyC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nacional",
+   "tema": "latam",
    "busquedas": "100+",
-   "nota": "El Talar arrasó con Obras y es más puntero que nunca en la Conferencia Centro de la Liga Femenina de Básquetbol",
-   "nota_url": "https://deportv.gob.ar/basquetbol/talar-arraso-obras-puntero-conferencia-centro-liga-argentina-basquetbol-nid:19189",
-   "medio": "DeporTV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "la cocina rebelde",
-   "busquedas": "500+",
-   "nota": "Claudia Villafañe, al borde de las lágrimas en La cocina rebelde: “Te emocionás cuando hablás de él”",
-   "nota_url": "https://www.eltrecetv.com.ar/la-cocina-rebelde/2026/11/26/claudia-villafane-al-borde-de-las-lagrimas-en-la-cocina-rebelde-te-emocionas-cuando-hablas-de-el/",
-   "medio": "eltrecetv",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "fuerzas armadas",
-   "busquedas": "200+",
-   "nota": "La Justicia frenó los despidos en IOSFA y ordenó restituir a los empleados",
-   "nota_url": "https://www.lanueva.com/nota/2026-11-26-12-52-0-la-justicia-freno-los-despidos-en-iosfa-y-ordeno-restituir-a-los-empleados",
-   "medio": "La Nueva Provincia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "financiación",
-   "busquedas": "100+",
-   "nota": "Tempus AI obtiene una línea de crédito a plazo de 385 millones de dólares para financiar la operación con Personalis",
-   "nota_url": "https://www.unite.ai/es/tempus-ai-secures-385m-term-loan-facility-to-fund-personalis-deal/",
-   "medio": "Unite.AI",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bills - chiefs",
-   "busquedas": "200+",
-   "nota": "Video: Dalton Kincaid's return 'is big' for Buffalo Bills in showdown vs. Chiefs",
-   "nota_url": "https://www.nytimes.com/athletic/video/1mPcwd3y49Jc0g8/",
-   "medio": "The New York Times",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "posiciones de sao paulo fc contra clube do remo",
-   "busquedas": "1000+",
-   "nota": "O São Paulo se despediu do MorumBis em 2026 com uma vitória por 3 a 1 sobre o Remo, pela 37ª e penúltima rodada do Campeonato Brasileiro. A partida entregou o pouco que se esperava, sem brilho em campo.⁣ ⁣ Na arquibancada, o pequeno público",
-   "nota_url": "https://www.instagram.com/p/DgOfQE2kqjR/",
-   "medio": "Instagram",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ari lijalad",
-   "busquedas": "200+",
-   "nota": "Revés judicial para Milei: Casación rechazó llevar a la Corte la denuncia contra Ari Lijalad",
-   "nota_url": "https://www.mendovoz.com/actualidad/nacionales/2026/11/26/reves-judicial-para-milei-casacion-rechazo-llevar-a-la-corte-la-denuncia-contra-ari-lijalad-171047.html",
-   "medio": "MendoVoz",
+   "nota": "Black Friday: cómo congelar hoy el precio de los vuelos y pagarlos en 2027",
+   "nota_url": "https://www.cronista.com/brand-strategy/black-friday-como-congelar-hoy-el-precio-de-los-vuelos-y-pagarlos-en-2027/",
+   "medio": "El Cronista",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "león - cruz azul",
+   "busquedas": "200+",
+   "nota": "¿Por qué no juegan Amaury García, Andrés Montaño y Kevin Mier?",
+   "nota_url": "https://vamoscruzazul.bolavip.com/noticias/por-que-no-juegan-amaury-garcia-andres-montano-y-nicolas-ibanez-aS4Za3q46o0Y",
+   "medio": "Vamos Azul",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jetsmart",
+   "busquedas": "1000+",
+   "nota": "Vuelos por Chile, Argentina y Brasil: las ofertas de SKY Airline de hasta 63% en pasajes",
+   "nota_url": "https://www.pagina7.cl/actualidad/vuelos-por-chile-argentina-y-brasil-las-ofertas-de-sky-airline-de-hasta-63-en-pasajes/",
+   "medio": "Página 7",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adidas",
+   "busquedas": "500+",
+   "nota": "Adidas’ Black Friday Shoe Deals Are Up to 60% Off—Snag Celeb-Worn Pairs and Comfy Staples From $14",
+   "nota_url": "https://www.instyle.com/adidas-black-friday-deals-2026-12268468",
+   "medio": "InStyle",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "provincia compras",
+   "busquedas": "200+",
+   "nota": "Llega el Black Friday 2026: qué bancos ofrecen hasta 30 cuotas sin interés y cuáles son las promociones",
+   "nota_url": "https://www.minutouno.com/economia/llega-el-black-friday-2026-que-bancos-ofrecen-30-cuotas-interes-y-cuales-son-las-promociones-n6349806",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "diego barroetavena",
+   "busquedas": "1000+",
+   "nota": "Rafecas sumó la denuncia contra el jefe de los árbitros a la causa por desvíos de dinero en la AFA",
+   "nota_url": "https://www.lanacion.com.ar/politica/rafecas-sumo-la-denuncia-contra-el-jefe-de-los-arbitros-a-la-causa-por-desvios-de-dinero-en-la-afa-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pésame",
+   "busquedas": "1000+",
+   "nota": "Primeras imágenes del naufragio del buque petrolero con 7.000 toneladas de gasoil cerca de la costa de Ibiza",
+   "nota_url": "https://www.infobae.com/espana/2026/11/26/primeras-imagenes-del-naufragio-del-buque-petrolero-con-7000-toneladas-de-gasoil-cerca-de-la-costa-de-ibiza/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "johnny marr",
+   "busquedas": "200+",
+   "nota": "A qué hora toca Underworld en Buenos Aires, cuál es el lineup completo y los horarios de cada show",
+   "nota_url": "https://www.lanacion.com.ar/que-sale/a-que-hora-toca-underworld-en-buenos-aires-cual-es-el-lineup-completo-y-los-horarios-de-cada-show-nid24112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "glaciar",
+   "busquedas": "200+",
+   "nota": "El grupo emiratí detrás del proyecto para construir un hotel de lujo frente al Perito Moreno",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/el-grupo-emirati-detras-del-proyecto-para-construir-un-hotel-de-lujo-frente-al-perito-moreno-nid25112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "francisco álvarez",
+   "busquedas": "500+",
+   "nota": "Boca se mete en la pelea con River por una figura de Argentinos Juniors",
+   "nota_url": "https://www.nexofin.com/notas/1303422-boca-se-mete-en-la-pelea-con-river-por-una-figura-de-argentinos-juniors-n-/",
+   "medio": "Nexofin",
+   "relevante": false,
    "temas": []
   }
  ],
