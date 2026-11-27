@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 11:12",
+ "actualizado": "27/11 12:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,20 +9,14 @@
    "temas": []
   },
   {
-   "tema": "Marc MÃ¡rquez",
-   "url": "https://x.com/search?q=Marc%20M%C3%83%C2%A1rquez",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "Marc MÃ¡rquez",
+   "url": "https://x.com/search?q=Marc%20M%C3%83%C2%A1rquez",
    "relevante": false,
    "temas": []
   },
@@ -39,8 +33,14 @@
    "temas": []
   },
   {
-   "tema": "MotoGP",
-   "url": "https://x.com/search?q=MotoGP",
+   "tema": "Lenny",
+   "url": "https://x.com/search?q=Lenny",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +57,14 @@
    "temas": []
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "MotoGP",
+   "url": "https://x.com/search?q=MotoGP",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +75,32 @@
    "temas": []
   },
   {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Londres",
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
+   "tema": "Maia",
+   "url": "https://x.com/search?q=Maia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Trebucq",
+   "url": "https://x.com/search?q=Trebucq",
    "relevante": false,
    "temas": []
   },
@@ -105,112 +117,100 @@
    "temas": []
   },
   {
-   "tema": "#TheGrimLover1stPremiere",
-   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Trabuco",
-   "url": "https://x.com/search?q=Trabuco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "THE GRIM LOVER Opens The Gate",
-   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "disney plus",
-   "busquedas": "1000+",
-   "nota": "HBO Max 50% off Black Friday deal gets you ‘Gilded Age,’ more binge-worthy shows",
-   "nota_url": "https://pagesix.com/2026/11/27/entertainment/take-50-off-a-full-year-subscription-of-hbo-max-for-black-friday/",
-   "medio": "Page Six",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "meghan, duquesa de sussex",
-   "busquedas": "100+",
-   "nota": "Acusaron formalmente a Thomas Markle, el padre de Meghan Markle, por posesión de pornografía infantil",
-   "nota_url": "https://www.perfil.com/internacional/acusaron-formalmente-a-thomas-markle-el-padre-de-meghan-markle-por-posesion-de-pornografia-infantil-aiGwG7M5tSto",
-   "medio": "Perfil",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "martín menem",
-   "busquedas": "100+",
-   "nota": "Marcela Pagano denuncia que hackearon el sitio de Diputados y el Gobierno lo oculta",
-   "nota_url": "https://noticias.perfil.com/noticias/politica/marcela-pagano-denuncia-que-hackearon-el-sitio-de-diputados-y-el-gobierno-lo-oculta.phtml",
-   "medio": "Revista Noticias",
+   "tema": "ricky maravilla",
+   "busquedas": "200+",
+   "nota": "Ricky Maravilla le hizo un pedido a Javier Milei: “No castigue tanto a los de abajo”",
+   "nota_url": "https://www.lagaceta.com.ar/nota/1164405/espectaculos/ricky-maravilla-le-hizo-pedido-javier-milei-no-castigue-tanto-abajo.html",
+   "medio": "La Gaceta",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "marc marquez",
+   "tema": "cataratas del iguazú",
+   "busquedas": "100+",
+   "nota": "Cerraron la pasarela de las Cataratas del Iguazú en Brasil por una crecida récord del río",
+   "nota_url": "https://www.somosjujuy.com.ar/internacionales/cerraron-pasarela-cataratas-iguazu-brasil-una-crecida-record-rio-n127813",
+   "medio": "Somos Jujuy",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "gerald r. molen",
+   "busquedas": "200+",
+   "nota": "Gerald R. Molen, Oscar Winner Behind Beloved ’90s Spielberg Movies, Dies at 91",
+   "nota_url": "https://www.thedailybeast.com/gerald-r-molen-oscar-winner-behind-beloved-90s-spielberg-movies-dies-at-91",
+   "medio": "The Daily Beast",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "league of legends",
+   "busquedas": "100+",
+   "nota": "Zeus Returns to T1 in Three-Year Deal",
+   "nota_url": "https://insider-gaming.com/zeus-returns-to-t1-in-three-year-deal/",
+   "medio": "Insider Gaming",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "dólar hoy",
+   "busquedas": "5000+",
+   "nota": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 27 de noviembre",
+   "nota_url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ficha limpia",
    "busquedas": "2000+",
-   "nota": "La mala noticia que recibió Argentina tras el anuncio de retiro de Marc Márquez de MotoGP",
-   "nota_url": "https://www.carburando.com/internacional/buenos-aires-se-quedara-con-las-ganas-de-ver-a-marc-marquez-en-pista-id201466",
-   "medio": "Carburando",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mdz",
-   "busquedas": "100+",
-   "nota": "Cortes imprevistos de agua potable en el Gran Mendoza: qué zonas siguen afectadas",
-   "nota_url": "https://mendozatoday.com.ar/sociedad/corte-de-agua/",
-   "medio": "Diario Mendoza Today",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ministro",
-   "busquedas": "100+",
-   "nota": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
-   "nota_url": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
-   "medio": "EL PAÍS",
+   "nota": "EL SENADO CONVIRTIÓ EN LEY EL PROYECTO DE PREVENCIÓN DE LA LUDOPATÍA Y OTORGÓ MEDIA SANCIÓN A LA REFORMA ELECTORAL",
+   "nota_url": "https://www.senado.gob.ar/prensa/24670/noticias",
+   "medio": "Senado de la Nación Argentina",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "necochea",
-   "busquedas": "200+",
-   "nota": "Choferes de micros paran el jueves por deudas salariales",
-   "nota_url": "https://dataene.com.ar/nota/17290/choferes-de-micros-paran-el-jueves-por-deudas-salariales",
-   "medio": "Data eNe",
+   "tema": "puedes verlo todo",
+   "busquedas": "100+",
+   "nota": "“Puedes verlo todo”, la intimidad de una estafadora",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/26/puedes-verlo-todo-la-intimidad-de-una-estafadora/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "sandra pettovello",
-   "busquedas": "200+",
-   "nota": "Sandra Pettovello activó la entrega de antenas Starlink gratis para familias con planes de Anses",
-   "nota_url": "https://www.minutouno.com/politica/sandra-pettovello-activo-la-entrega-antenas-starlink-gratis-familias-planes-anses-n6349416",
-   "medio": "MinutoUno",
-   "relevante": true,
+   "tema": "adios apache",
+   "busquedas": "5000+",
+   "nota": "De Messi a Buffon: el uno por uno de las estrellas que ya fueron confirmadas para la despedida de Tevez",
+   "nota_url": "https://www.ole.com.ar/boca-juniors/figuras-despedida-carlos-tevez_0_VbZ1wphUiK.html",
+   "medio": "Olé",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "sergio massa",
-   "busquedas": "200+",
-   "nota": "Massa tantea Córdoba y presiona por el apoyo de Llaryora",
-   "nota_url": "https://diarioalfil.com.ar/contenido/24242/massa-tantea-cordoba-y-presiona-por-el-apoyo-de-llaryora",
-   "medio": "Alfil",
-   "relevante": true,
+   "tema": "condena",
+   "busquedas": "1000+",
+   "nota": "Confirman la condena para el productor que causó una masacre de pingüinos y destruyó nidos con su topadora en Punta Tombo",
+   "nota_url": "https://www.clarin.com/sociedad/confirman-condena-productor-produjo-masacre-pinguinos-destruyo-nidos-topadora-punta-tombo_0_Q6Jh62KQyd.html",
+   "medio": "Clarin.com",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "barby franco",
-   "busquedas": "100+",
-   "nota": "Barby Franco llevó a su hija Sarah Burlando a la peluquería por primera vez y el video derritió a las redes: “La paciencia”",
-   "nota_url": "https://la100.cienradios.com/espectaculos/barby-franco-llevo-a-su-hija-sarah-burlando-a-la-peluqueria-por-primera-vez-y-el-video-derritio-a-las-redes-la-paciencia/",
-   "medio": "La 100",
+   "tema": "f1 qatar",
+   "busquedas": "200+",
+   "nota": "Mercedes dominates the opening practice in Qatar",
+   "nota_url": "https://www.news.gp/en/mercedes-dominates-the-opening-practice-in-qatar",
+   "medio": "www.news.gp",
    "relevante": false,
    "temas": []
   }
