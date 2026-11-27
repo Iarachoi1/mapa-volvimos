@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 18:44",
+ "actualizado": "27/11 19:45",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,14 +15,14 @@
    "temas": []
   },
   {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
+   "relevante": false,
    "temas": []
   },
   {
-   "tema": "Presupuesto 2027",
-   "url": "https://x.com/search?q=Presupuesto%202027",
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
    "temas": []
   },
@@ -39,14 +39,26 @@
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "Cocos",
+   "url": "https://x.com/search?q=Cocos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +69,14 @@
    "temas": []
   },
   {
-   "tema": "Jorge Born",
-   "url": "https://x.com/search?q=Jorge%20Born",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Fofana",
+   "url": "https://x.com/search?q=Fofana",
    "relevante": false,
    "temas": []
   },
@@ -81,20 +99,8 @@
    "temas": []
   },
   {
-   "tema": "Bunge y Born",
-   "url": "https://x.com/search?q=Bunge%20y%20Born",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cocos",
-   "url": "https://x.com/search?q=Cocos",
+   "tema": "Xabi Alonso",
+   "url": "https://x.com/search?q=Xabi%20Alonso",
    "relevante": false,
    "temas": []
   },
@@ -115,103 +121,97 @@
    "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "Ficha Limpia",
-   "url": "https://x.com/search?q=Ficha%20Limpia",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "marcelo tinelli",
-   "busquedas": "100+",
-   "nota": "Aseguran que Ágata Lescano “stalkeaba” a Marcelo Tinelli antes de salir con él: “Aparecía en...”",
-   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/25/aseguran-que-agata-lescano-seguia-los-pasos-de-marcelo-tinelli-aparecia-en/",
-   "medio": "Ciudad Magazine",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "verano",
+   "tema": "banca pública",
    "busquedas": "200+",
-   "nota": "Ante la incertidumbre económica, el Gobierno bonaerense lanzará incentivos al turismo",
-   "nota_url": "https://www.eleco.com.ar/provincia/ante-la-incertidumbre-economica-el-gobierno-bonaerense-lanzara-incentivos-al-turismo",
-   "medio": "El Eco",
+   "nota": "Quiénes acceden a los préstamos personales para jubilados de $30.000.000 y cuáles son las tasas de interés vigentes",
+   "nota_url": "https://tn.com.ar/economia/jubilaciones/2026/11/26/quienes-acceden-a-los-prestamos-personales-para-jubilados-de-30000000-y-cuales-son-las-tasas-de-interes-vigentes/",
+   "medio": "TN",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "steelers - broncos",
+   "tema": "angelina jolie",
    "busquedas": "100+",
-   "nota": "Dabble Promo Code YAHOOBONUS: Claim Up to $200 in Bonuses on Friday's Broncos/Steelers Matchup, Plus College Football, NBA, NHL and College Basketball Action",
-   "nota_url": "https://sports.yahoo.com/betting/promos/article/dabble-promo-code-yahoobonus-claim-up-to-200-in-bonuses-on-fridays-broncossteelers-matchup-plus-college-football-nba-nhl-and-college-basketball-action-190000357.html",
-   "medio": "Yahoo Sports",
+   "nota": "Licensable video: UNCAPTIONED: Brad Pitt and Angelina Jolie settle dispute over French winery",
+   "nota_url": "https://www.reutersconnect.com/item/uncaptioned-brad-pitt-and-angelina-jolie-settle-dispute-over-french-winery/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzEyMTA2OTU",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "elizabeth holmes",
-   "busquedas": "200+",
-   "nota": "Puedes verlo todo: el documental que se filmó en secreto, recaudó millones de dólares y puede hacer historia en los Oscar",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/cine/puedes-verlo-todo-el-documental-que-se-filmo-en-secreto-recaudo-millones-de-dolares-y-puede-hacer-nid26112026/",
+   "tema": "vix index",
+   "busquedas": "100+",
+   "nota": "'Fear gauge' dips but still shows lingering investor angst",
+   "nota_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading/card/-fear-gauge-dips-but-still-shows-lingering-investor-angst-grE2D6UBoOFOKnT9XCZl",
+   "medio": "MarketWatch",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fluminense - cruzeiro",
+   "busquedas": "1000+",
+   "nota": "Fluminense enfrenta o Cruzeiro pela 37ª rodada do Brasileirão",
+   "nota_url": "https://ge.globo.com/video/fluminense-enfrenta-o-cruzeiro-pela-37a-rodada-do-brasileirao-15287152.ghtml",
+   "medio": "ge",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "atlanta",
+   "busquedas": "500+",
+   "nota": "Black Friday: Big crowds, careful budgets",
+   "nota_url": "https://www.11alive.com/video/news/community/black-friday-big-crowds-careful-budgets/85-298f89cc-4688-4ded-8e8a-a1b69ea93c99",
+   "medio": "11Alive.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "adopción",
+   "busquedas": "100+",
+   "nota": "Adopción: Buscan una familia para una niña de 7 años",
+   "nota_url": "https://www.lanacion.com.ar/comunidad/adopcion/adopcion-buscan-una-familia-para-una-nina-de-7-anos-nid20112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "irlanda - australia",
-   "busquedas": "1000+",
-   "nota": "Australia confirmó su equipo para enfrentar a Irlanda: Allan Alaalatoa jugará su Test número 100",
-   "nota_url": "https://cordobaxv.com.ar/australia-confirmo-su-equipo-para-enfrentar-a-irlanda-allan-alaalatoa-jugara-su-test-numero-100/",
-   "medio": "Cordoba XV",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bologna",
+   "tema": "mundial talla baja 2026",
    "busquedas": "500+",
-   "nota": "Venezia-Bologna, formazioni ufficiali: fuori Orsolini! La scelta su Piccoli, Cambiaghi, Haps, Odgaard e Yeboah",
-   "nota_url": "https://www.sosfanta.com/squadra/bologna/venezia-bologna-formazioni-ufficiali-fuori-orsolini-fantacalcio/",
-   "medio": "SOS Fanta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "paris fc",
-   "busquedas": "200+",
-   "nota": "Ligue 1 Matchweek 12 Odds In Canada: PSG, Lille, Lyon Picks",
-   "nota_url": "https://rg.org/en-ca/news/soccer/psg-vs-lorient-le-mans-vs-lille-ligue-1-matchweek-12-odds-picks",
-   "medio": "RG.org",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "inundación",
-   "busquedas": "500+",
-   "nota": "El Niño en Perú: lluvias históricas provocan inundaciones en Piura",
-   "nota_url": "https://www.eltelegrafo.com.ec/noticias/internacionales/211/el-nino-peru-lluvias-inundaciones-piura",
-   "medio": "El Telégrafo (por eliminar)",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pierre gasly",
-   "busquedas": "5000+",
-   "nota": "La defensa de Colapinto a Piastri en las prácticas de la F1 en Qatar",
-   "nota_url": "https://www.ole.com.ar/autos/defensa-colapinto-piastri-practicas-f1-qatar_3_8S3I9NsGrE.html",
+   "nota": "La Selección repitió resultado en Talla Baja: 3 a 2 a Egipto y tole tole al final",
+   "nota_url": "https://www.ole.com.ar/seleccion/tallabaja-egipto-mundialdemarruecos-catrielbrassesco-seleccionargentina-antunez_0_Iq8fnY7KFA.html",
    "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "diego peretti",
-   "busquedas": "1000+",
-   "nota": "Diego Peretti, complicado con la Justicia: la grave denuncia penal en la que quedó involucrado",
-   "nota_url": "https://www.mdzol.com/mdz-show/2026/11/27/diego-peretti-complicado-con-la-justicia-la-grave-denuncia-penal-en-la-que-quedo-involucrado-1998438.html",
-   "medio": "MDZ Online",
+   "tema": "carlos sainz jr.",
+   "busquedas": "200+",
+   "nota": "Sainz encerró a Colapinto, que se calentó en la FP3 de Las Vegas",
+   "nota_url": "https://www.ole.com.ar/autos/sainz-encerro-colapinto-calento-fp3-vegas_3_9djiDSW28I.html",
+   "medio": "Olé",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "soledad silveyra",
+   "busquedas": "200+",
+   "nota": "Después de 22 días internada y una dura recuperación, Soledad Silveyra anunció su regreso: \"Espero tener las fuerzas necesarias\"",
+   "nota_url": "https://www.eldestapeweb.com/cultura/despues-22-dias-internada-dura-recuperacion-soledad-silveyra-anuncio-regreso-espero-tener-fuerzas-necesarias-2026112719035",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "claudio vidal",
+   "busquedas": "5000+",
+   "nota": "El juez federal de Río Gallegos le entregó la administración de dos estancias de Lázaro Báez al gobierno de Santa Cruz",
+   "nota_url": "https://www.lanacion.com.ar/politica/el-juez-federal-de-rio-gallegos-le-entrego-la-administracion-de-dos-estancias-de-lazaro-baez-al-nid27112026/",
+   "medio": "La Nación",
+   "relevante": true,
    "temas": []
   }
  ],
