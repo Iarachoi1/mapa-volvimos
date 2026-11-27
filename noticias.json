@@ -1,10 +1,17 @@
 {
  "semana": "27 de noviembre de 2026",
  "fecha": "2026-11-27",
- "actualizado": "27/11 11:12",
+ "actualizado": "27/11 16:49",
  "items": {
   "NACIONAL": {
    "top3": [
+    {
+     "titulo": "¿Se va Toto Caputo? El plan económico de Milei en debate, el cruce Bullrich-Mayans y la rosca en el Congreso",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "27/11/2026",
+     "url": "https://cenital.com/se-va-toto-caputo-el-plan-economico-de-milei-en-debate-el-cruce-bullrich-mayans-y-la-rosca-en-el-congreso/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    },
     {
      "titulo": "Media sanción a la reforma política y es ley el proyecto para prevenir la ludopatía",
      "medio": "Cenital - Off the record (Iván Schargrodsky)",
@@ -13,16 +20,10 @@
      "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
     },
     {
-     "titulo": "Avanza la ley contra la ludopatía tras la visita papal: puntos clave",
+     "titulo": "Patricia Bullrich sigue en modo rockstar: “Moviendo el c*lo“",
      "medio": "Bardeo (columnas de Manu Jove)",
      "fecha": "27/11/2026",
-     "url": "https://bardeo.news/politica/avanza-la-ley-contra-la-ludopatia-tras-la-visita-papal--puntos-clave_a6b09798ac34cf90c9ce874cf"
-    },
-    {
-     "titulo": "Toto Caputo bardeó a Esteban Trebucq: “Los datos no son un Excel”",
-     "medio": "Bardeo (columnas de Manu Jove)",
-     "fecha": "27/11/2026",
-     "url": "https://bardeo.news/politica/toto-caputo-bardeo-a-esteban-trebucq---los-datos-no-son-un-excel-_a6b097933c34cf90c9ce86aaa"
+     "url": "https://bardeo.news/politica/patricia-bullrich-sigue-en-modo-rockstar---moviendo-el-c-lo-_a6b0989d7c34cf90c9cea1c1b"
     }
    ],
    "imagen": []
@@ -30,11 +31,11 @@
   "CABA": {
    "top3": [
     {
-     "titulo": "CONGRESO | DIPUTADOS Presupuesto 2027: el Gobierno logró la aprobación, pero la oposición impuso un aumento para universidades Por Mauricio Cantando",
+     "titulo": "ROSCA EN EL CONGRESO | DIPUTADOS Presupuesto 2027: el Gobierno logró la aprobación, pero la oposición impuso un aumento para universidades Por Mauricio Cantando",
      "medio": "Letra P",
      "fecha": "27/11/2026",
      "url": "https://www.letrap.com.ar/politica/presupuesto-2027-el-gobierno-logro-la-aprobacion-pero-la-oposicion-impuso-un-aumento-universidades-n5428563",
-     "tag": "Política · También en Infobae"
+     "tag": "Política · También en Infobae, La Nación"
     },
     {
      "titulo": "Derrota del Gobierno: aprobó el Presupuesto, pero deberá pagar el doble a universidades",
@@ -65,17 +66,24 @@
      "tag": "Política"
     },
     {
-     "titulo": "Derrota durante la madrugada Duro revés para Milei en Diputados: la oposición fijó $11 billones para las universidades en el Presupuesto 2027 Hoy 09:47 ⁞ Mauricio Caminos",
-     "medio": "Perfil",
-     "fecha": "27/11/2026",
-     "url": "https://www.perfil.com/politica/duro-reves-para-milei-en-diputados-la-oposicion-fijo-11-billones-para-las-universidades-en-el-presupuesto-2027-a95My7a6aOqA",
-     "tag": "Política"
-    },
-    {
      "titulo": "DISCUSIÓN 2027 La Libertad Avanza espera señales de Karina Milei en Jujuy, pero esquiva un acuerdo electoral con Sadir Por Enrique Gebauer",
      "medio": "Letra P",
      "fecha": "27/11/2026",
      "url": "https://www.letrap.com.ar/politica/jujuy-la-libertad-avanza-espera-senales-karina-milei-pero-esquiva-un-acuerdo-electoral-sadir-n5428533",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El Gobierno buscará revertir en el Senado el aumento de fondos para las universidades y la oposición sospecha de un veto parcial",
+     "medio": "Infobae",
+     "fecha": "27/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/",
+     "tag": "Política"
+    },
+    {
+     "titulo": "Bullrich agita la interna: se jactó de otro triunfo en el Senado sin mencionar a Milei",
+     "medio": "El Destape",
+     "fecha": "27/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/insolito-video-bullrich-apropio-triunfo-libertario-senado-20261127135048",
      "tag": "Política"
     },
     {
@@ -86,18 +94,11 @@
      "tag": "Política"
     },
     {
-     "titulo": "“Es fundamental que el proyecto reelija”: Bullrich volvió a evitar una definición sobre Milei y advirtió que no es verticalista",
-     "medio": "Infobae",
+     "titulo": "Congreso. Con el proyecto por Malvinas como eje principal, el Gobierno delineó la hoja de ruta para las sesiones extraordinarias",
+     "medio": "La Nación",
      "fecha": "27/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/27/es-fundamental-que-el-proyecto-reelija-bullrich-volvio-a-evitar-una-definicion-sobre-milei-y-advirtio-que-no-es-verticalista/",
-     "tag": "Política"
-    },
-    {
-     "titulo": "CONGRESO Ganó la Iglesia: el Senado sancionó la ley de ludopatía y el PJ frenó un intento del Gobierno para acotarla Por Mauricio Cantando",
-     "medio": "Letra P",
-     "fecha": "27/11/2026",
-     "url": "https://www.letrap.com.ar/congreso/gano-la-iglesia-el-senado-sanciono-la-ley-ludopatia-y-el-pj-freno-un-intento-del-gobierno-acotarla-n5428558",
-     "tag": "Política"
+     "url": "https://www.lanacion.com.ar/politica/con-el-proyecto-por-malvinas-como-eje-principal-el-gobierno-delineo-la-hoja-de-ruta-para-las-nid27112026/",
+     "tag": "Gestión"
     }
    ],
    "imagen": []
@@ -118,10 +119,10 @@
      "url": "https://www.letrap.com.ar/politica/las-dos-campanas-axel-kicillof-n5428531"
     },
     {
-     "titulo": "Consenso en el PJ para mantener las PASO bonaerenses tras la casi segura eliminación a nivel nacional",
-     "medio": "Infobae",
+     "titulo": "Avellaneda: El oficialismo logró aprobar el presupuesto y las tasas para 2027",
+     "medio": "El Termometro",
      "fecha": "27/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/27/consenso-en-el-pj-para-mantener-las-paso-bonaerenses-tras-la-casi-segura-eliminacion-a-nivel-nacional/"
+     "url": "https://eltermometroweb.com/2026/11/avellaneda-el-oficialismo-logro-aprobar-el-presupuesto-y-las-tasas-para-2027/"
     }
    ],
    "imagen": []
@@ -147,46 +148,53 @@
   "Chubut": {
    "top3": [
     {
-     "titulo": "Es ley la prohibición de apuestas online para menores y de publicidad en la ropa deportiva",
+     "titulo": "El Concejo Deliberante aprobó la Tarifaria 2027",
      "medio": "Diario Jornada",
      "fecha": "27/11/2026",
-     "url": "https://www.diariojornada.com.ar/427795/politica/es_ley_la_prohibicion_de_apuestas_online_para_menores_y_de_publicidad_en_la_ropa_deportiva",
+     "url": "https://www.diariojornada.com.ar/427802/politica/el_concejo_deliberante_aprobo_la_tarifaria_2027",
      "tag": "También en El Chubut"
     },
     {
-     "titulo": "Así votaron los senadores de Neuquén la suspensión de las PASO en el Senado",
+     "titulo": "El Gobierno busca modificar los fondos para las universidades y negocia con la oposición para evitar un veto",
      "medio": "ADN Sur",
      "fecha": "27/11/2026",
-     "url": "https://www.adnsur.com.ar/politica/asi-votaron-los-senadores-de-neuquen-la-suspension-de-las-paso-en-el-senado_a6b09800b04abac14feb1ce30"
+     "url": "https://www.adnsur.com.ar/politica/el-gobierno-busca-modificar-los-fondos-para-las-universidades-y-negocia-con-la-oposicion-para-evitar-un-veto_a6b09a36e0c00c3cae3cc1bfa"
     },
     {
-     "titulo": "La Fundación Patagonia Tercer Milenio presentó proyectos energéticos, culturales y educativos",
+     "titulo": "Presupuesto 2027: el Gobierno evalúa modificar el artículo sobre universidades",
      "medio": "Diario Jornada",
      "fecha": "27/11/2026",
-     "url": "https://www.diariojornada.com.ar/427803/politica/la_fundacion_patagonia_tercer_milenio_presento_proyectos_energeticos_culturales_y_educativos"
+     "url": "https://www.diariojornada.com.ar/427821/politica/presupuesto_2027_el_gobierno_evalua_modificar_el_articulo_sobre_universidades_"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "Jorge “Loma” Ávila confirmó que apoyará la reelección de Ignacio Torres como gobernador de Chubut en 2027",
+     "medio": "ADN Sur",
+     "fecha": "27/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/jorge--loma--avila-confirmo-que-apoyara-la-reeleccion-de-ignacio-torres-como-gobernador-de-chubut-en-2027_a6b0997ea0c00c3cae3caaf7f"
+    }
+   ]
   },
   "Córdoba": {
    "top3": [
-    {
-     "titulo": "Congreso de la Nación. Presupuesto 2027: el Gobierno logró media sanción, pero perdió un artículo clave sobre universidades",
-     "medio": "Cadena3",
-     "fecha": "27/11/2026",
-     "url": "https://www.cadena3.com/noticia/politica-y-economia/presupuesto-2027-el-gobierno-logro-media-sancion-pero-perdio-un-articulo-clave-sobre-universidades_616982"
-    },
-    {
-     "titulo": "Diputados aprobó el Presupuesto 2027 en medio de fuertes cruces",
-     "medio": "Hoy Dia",
-     "fecha": "27/11/2026",
-     "url": "https://hoydia.com.ar/politica/nacional/presupuesto-diputados-cruces/"
-    },
     {
      "titulo": "En Córdoba, Massa anticipó que el peronismo incluirá un capítulo sobre IA, empleo y producción en su propuesta electoral",
      "medio": "Infobae",
      "fecha": "27/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/27/en-cordoba-massa-anticipo-que-el-peronismo-incluira-un-capitulo-sobre-ia-empleo-y-produccion-en-su-propuesta-electoral/"
+    },
+    {
+     "titulo": "Presupuesto 2027: el gobierno apunta a modificar el artículo sobre universidades",
+     "medio": "CBA24N",
+     "fecha": "27/11/2026",
+     "url": "https://www.cba24n.com.ar/argentina/presupuesto-2027--el-gobierno-apunta-a-modificar-el-articulo-sobre-universidades_a6b09cccd58cc08cf5f67d30d"
+    },
+    {
+     "titulo": "Temporada de rosca Massa pasó por Córdoba y le pidió a Llaryora que se encolumne contra Milei Por Luis Zegarra",
+     "medio": "Letra P",
+     "fecha": "27/11/2026",
+     "url": "https://www.letrap.com.ar/politica/sergio-massa-paso-cordoba-y-le-pidio-martin-llaryora-que-se-encolumne-contra-javier-milei-n5428561"
     }
    ],
    "imagen": []
@@ -211,16 +219,16 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Diputados aprobó el Presupuesto 2027 con un aumento de fondos para las universidades",
-     "medio": "El Once",
-     "fecha": "27/11/2026",
-     "url": "https://www.elonce.com/politica/diputados-aprobo-el-presupuesto-2027-con-un-aumento-de-fondos-para-las-universidades.htm"
-    },
-    {
      "titulo": "El Gobierno logró la media sanción al Presupuesto 2027 en Diputados: los números claves",
      "medio": "Ahora",
      "fecha": "27/11/2026",
      "url": "https://ahora.com.ar/3/el-gobierno-logro-la-media-sancion-al-presupuesto-2027-en-diputados-los-numeros-claves"
+    },
+    {
+     "titulo": "Bordet advirtió que Entre Ríos volvió a quedar relegada en el Presupuesto 2027",
+     "medio": "AFP Digital",
+     "fecha": "27/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/27/480999-bordet-advirtio-que-entre-rios-volvio-a-quedar-relegada-en-el-presupuesto-2027"
     },
     {
      "titulo": "Presupuesto 2027: media sanción con cambios y más fondos universitarios",
@@ -251,23 +259,22 @@
   "Jujuy": {
    "top3": [
     {
+     "titulo": "El Senado aprobó la ley electoral y las PASO 2027 quedan en duda",
+     "medio": "El Tribuno",
+     "fecha": "27/11/2026",
+     "url": "https://eltribunodejujuy.com/nacionales/2026-11-27-11-13-0-el-senado-aprobo-la-ley-electoral-y-las-paso-2027-quedan-en-duda"
+    },
+    {
      "titulo": "El Gobierno aprobó el Presupuesto en Diputados pero la oposición le impuso un fuerte aumento para las universidades",
      "medio": "Somos Jujuy",
      "fecha": "27/11/2026",
-     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-aprobo-presupuesto-diputados-pero-oposicion-le-impuso-fuerte-aumento-universidades-n127825",
-     "tag": "También en El Tribuno"
+     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-aprobo-presupuesto-diputados-pero-oposicion-le-impuso-fuerte-aumento-universidades-n127825"
     },
     {
      "titulo": "DISCUSIÓN 2027 La Libertad Avanza espera señales de Karina Milei en Jujuy, pero esquiva un acuerdo electoral con Sadir Por Enrique Gebauer",
      "medio": "Letra P",
      "fecha": "27/11/2026",
      "url": "https://www.letrap.com.ar/politica/jujuy-la-libertad-avanza-espera-senales-karina-milei-pero-esquiva-un-acuerdo-electoral-sadir-n5428533"
-    },
-    {
-     "titulo": "País. Diputados aprobó el Presupuesto 2027 con un aumento de fondos para las universidades Por Maria Eugenia Burgos",
-     "medio": "Todo Jujuy",
-     "fecha": "27/11/2026",
-     "url": "https://www.todojujuy.com/pais/diputados-aprobo-el-presupuesto-2027-un-aumento-fondos-las-universidades-n299428"
     }
    ],
    "imagen": []
@@ -281,10 +288,10 @@
      "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83739/la-oposicion-impuso-un-aumento-para-las-universidades-y-se-aprobo-el-presupuesto-en-diputados-"
     },
     {
-     "titulo": "Diputados dio media sanción al Presupuesto 2027",
-     "medio": "La Arena",
+     "titulo": "Ferrán cuestionó el Presupuesto 2027 y destacó cambios en el financiamiento universitario",
+     "medio": "El Diario de La Pampa",
      "fecha": "27/11/2026",
-     "url": "https://www.laarena.com.ar/el-pais/diputados-aprobo-el-presupuesto-pero-la-oposicion-logro-incluir-el-financiamiento-universitario-20261127940"
+     "url": "https://www.eldiariodelapampa.com.ar/la-pampa/83749/ferran-cuestiono-el-presupuesto-2027-y-destaco-cambios-en-el-financiamiento-universitario"
     },
     {
      "titulo": "Ingresó el Presupuesto 2027 al Concejo de Pico",
@@ -304,10 +311,16 @@
      "url": "https://nuevarioja.com.ar/politica/pedrali-cuestiono-el-presupuesto-2027-y-advirtio-que-la-rioja-vuelve-a-quedar-excluida.htm"
     },
     {
-     "titulo": "El oficialismo logró aprobar el Presupuesto en Diputados, aunque perdió un artículo clave vinculado a las universidades",
+     "titulo": "Reforma electoral: cómo votaron los tres senadores de La Rioja",
      "medio": "Nueva Rioja",
      "fecha": "27/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/el-oficialismo-logro-aprobar-el-presupuesto-en-diputados-aunque-perdio-un-articulo-clave-vinculado-a-las-universidades.htm"
+     "url": "https://nuevarioja.com.ar/politica/reforma-electoral-como-votaron-los-tres-senadores-de-la-rioja-en-el-congreso.htm"
+    },
+    {
+     "titulo": "SUSPENSIÓN DE LAS PASO. LOS 9 CAMBIOS DE LA REFORMA ELECTORAL QUE APROBÓ EL SENADO",
+     "medio": "Rioja Virtual",
+     "fecha": "27/11/2026",
+     "url": "https://riojavirtual.com.ar/suspension-de-las-paso-los-9-cambios-de-la-reforma-politica-que-aprobo-el-senado/"
     }
    ],
    "imagen": []
@@ -327,23 +340,23 @@
      "url": "https://www.memo.com.ar/poder/presupuesto-2027-la-oposicion-le-marco-la-cancha-al-gobierno-en-diputados/"
     },
     {
-     "titulo": "Diputados aprobó el Presupuesto 2027, pero la oposición impuso cambios",
+     "titulo": "Diputados aprobó el Presupuesto 2027, pero la oposición le hizo cambios",
      "medio": "Mendoza Post",
      "fecha": "27/11/2026",
      "url": "https://www.mendozapost.com/economia/diputados-aprobo-el-presupuesto-2027-pero-la-oposicion-le-impuso-cambios/"
     }
    ],
-   "imagen": [
-    {
-     "titulo": "Continúa abierta la convocatoria para diseñar la imagen de la Fiesta Nacional de la Vendimia 2027",
-     "medio": "Prensa oficial de Mendoza",
-     "fecha": "27/11/2026",
-     "url": "https://prensa.mendoza.gob.ar/continua-abierta-la-convocatoria-para-disenar-la-imagen-de-la-fiesta-nacional-de-la-vendimia-2027/"
-    }
-   ]
+   "imagen": []
   },
   "Misiones": {
    "top3": [
+    {
+     "titulo": "Passalacqua anunció su candidatura para la reelección en Misiones",
+     "medio": "El Destape",
+     "fecha": "27/11/2026",
+     "url": "https://www.eldestapeweb.com/politica/hugo-passalacqua-anuncio-candidatura-reeleccion-misiones-2027-20261127111445",
+     "tag": "También en La Nación"
+    },
     {
      "titulo": "El Senado aprobó la reforma electoral y las PASO quedaron a un paso de ser suspendidas en 2027",
      "medio": "El Territorio",
@@ -355,12 +368,6 @@
      "medio": "El Territorio",
      "fecha": "27/11/2026",
      "url": "https://www.elterritorio.com.ar/noticias/2026/11/27/929826-diputados-dio-media-sancion-al-presupuesto-2027-y-la-oposicion-consiguio-mas-fondos-para-las-universidades"
-    },
-    {
-     "titulo": "Passalacqua anunció que volverá a ser candidato a gobernador: “Es un paso al frente sin vuelta atrás”",
-     "medio": "Primera Edición",
-     "fecha": "27/11/2026",
-     "url": "https://www.primeraedicion.com.ar/nota/101164121/passalacqua-candidato-gobernador-movimiento-por-lo-que-viene/"
     }
    ],
    "imagen": [
@@ -369,7 +376,7 @@
      "medio": "La Voz - Misiones",
      "fecha": "27/11/2026",
      "url": "https://lavozdemisiones.com/politica/passalacqua-sera-el-candidato-a-gobernador-del-movimiento-por-lo-que-viene",
-     "tag": "También en Letra P, El Territorio"
+     "tag": "También en Letra P, El Territorio y 1 más"
     }
    ]
   },
@@ -389,11 +396,11 @@
      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/27/362493-neuquen-se-prepara-para-las-elecciones-del-14-de-febrero-las-fechas-clave-del-calendario-electoral"
     },
     {
-     "titulo": "Infraestructura sanitaria El Hospital Bouquet Roldán inauguró consultorios odontológicos y modernizó el sector de esterilización",
+     "titulo": "Prevención Refuerzan la vacunación en Neuquén por probable caso de sarampión con antecedente de viaje a México",
      "medio": "Prensa oficial de Neuquén",
      "fecha": "27/11/2026",
-     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/27/267924-el-hospital-bouquet-roldan-inauguro-consultorios-odontologicos-y-modernizo-el-sector-de-esterilizacion",
-     "tag": "También en Neuquén al Instante"
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/27/268002-refuerzan-la-vacunacion-en-neuquen-por-probable-caso-de-sarampion-con-antecedente-de-viaje-a-mexico",
+     "tag": "También en Neuquén al Instante, Noticias NQN"
     }
    ],
    "imagen": []
@@ -401,43 +408,29 @@
   "Río Negro": {
    "top3": [
     {
-     "titulo": "Reforma electoral y suspensión de las PASO: qué dijeron los senadores de Neuquén y Río Negro tras la votación",
-     "medio": "Diario Rio Negro",
-     "fecha": "27/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/reforma-electoral-y-suspension-de-las-paso-que-dijeron-los-senadores-de-neuquen-y-rio-negro-tras-la-votacion-4816198/"
-    },
-    {
-     "titulo": "El tiempo en Río Negro: viernes de sol radiante y calor intenso",
+     "titulo": "Presupuesto 2027: enojo en el Gobierno por el aumento de las partidas para las universidades",
      "medio": "AN Roca",
      "fecha": "27/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/27/234558-el-tiempo-en-rio-negro-viernes-de-sol-radiante-y-calor-intenso",
+     "url": "https://www.anroca.com.ar/noticias/2026/11/27/234645-presupuesto-2027-enojo-en-el-gobierno-por-el-aumento-de-las-partidas-para-las-universidades",
      "tag": "También en LCR, Noticias Net"
     },
     {
-     "titulo": "Diputados dio media sanción a la inclusión de las cooperativas en la ley PyMEs",
-     "medio": "AN Roca",
-     "fecha": "27/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/27/234492-diputados-dio-media-sancion-a-la-inclusion-de-las-cooperativas-en-la-ley-pymes",
-     "tag": "También en Noticias Net"
-    }
-   ],
-   "imagen": [
-    {
-     "titulo": "Patricia Bullrich evitó confirmar la reelección de Javier Milei rumbo a 2027 y marcó su autonomía: «No soy vertical»",
+     "titulo": "El peronismo busca sostener las PASO en Buenos Aires ante el avance de Javier Milei",
      "medio": "Diario Rio Negro",
      "fecha": "27/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/patricia-bullrich-evito-confirmar-la-reeleccion-de-javier-milei-rumbo-a-2027-y-marco-su-autonomia-no-soy-vertical-4816287/"
+     "url": "https://www.rionegro.com.ar/politica/el-peronismo-busca-sostener-las-paso-en-buenos-aires-ante-el-avance-de-javier-milei-4816937/"
+    },
+    {
+     "titulo": "El Gobierno prepara sesiones extraordinarias con una agenda cargada de proyectos",
+     "medio": "Diario Rio Negro",
+     "fecha": "27/11/2026",
+     "url": "https://www.rionegro.com.ar/politica/el-gobierno-prepara-sesiones-extraordinarias-con-una-agenda-cargada-de-proyectos-4816857/"
     }
-   ]
+   ],
+   "imagen": []
   },
   "Salta": {
    "top3": [
-    {
-     "titulo": "Diputados aprobó el Presupuesto 2027, pero la oposición le torció el brazo al Gobierno por las universidades",
-     "medio": "Informate Salta",
-     "fecha": "27/11/2026",
-     "url": "https://informatesalta.com.ar/nacional/diputados-aprobo-el-presupuesto-2027--pero-la-oposicion-le-torcio-el-brazo-al-gobierno-por-las-universidades_a6b095df55e0aceca40628e44"
-    },
     {
      "titulo": "Diputados aprobó el Presupuesto 2027 en medio de tensas negociaciones y fuertes cruces: cómo fue la votación y qué pasará en el Senado",
      "medio": "El Tribuno",
@@ -449,6 +442,12 @@
      "medio": "El Tribuno",
      "fecha": "27/11/2026",
      "url": "https://www.eltribuno.com/salta/2026-11-27-0-39-0-los-tres-senadores-por-salta-votaron-a-favor-de-la-reforma-electoral-en-el-congreso"
+    },
+    {
+     "titulo": "Iruya tendrá una nueva elección marcada por la interna entre el senador y los intendentes",
+     "medio": "Nuevo Diario de Salta",
+     "fecha": "27/11/2026",
+     "url": "https://nuevodiariodesalta.com.ar/iruya-tendra-una-nueva-eleccion-marcada-por-la-interna-entre-el-senador-y-los-intendentes/"
     }
    ],
    "imagen": []
@@ -456,23 +455,23 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "Diputados aprobó el Presupuesto 2027 con más fondos para universidades",
-     "medio": "El Zonda",
+     "titulo": "Reforma electoral. Marcelo Orrego busca implementar la boleta única de papel y eliminar la ley de lemas en San Juan",
+     "medio": "La Nación",
      "fecha": "27/11/2026",
-     "url": "https://www.diarioelzondasj.com.ar/politica/diputados-aprobo-el-presupuesto-2027-con-mas-fondos-para-universidades",
-     "tag": "También en Diario de Cuyo, 0264 Noticias"
+     "url": "https://www.lanacion.com.ar/politica/marcelo-orrego-busca-implementar-la-boleta-unica-de-papel-y-eliminar-la-ley-de-lemas-en-san-juan-nid27112026/"
     },
     {
-     "titulo": "Diputados: El oficialismo nacional logró aprobar en general el Presupuesto 2027",
-     "medio": "Tiempo de San Juan",
-     "fecha": "27/11/2026",
-     "url": "https://www.tiempodesanjuan.com/politica/diputados-el-oficialismo-nacional-logro-aprobar-en-general-el-presupuesto-2027_1795760652"
-    },
-    {
-     "titulo": "¿Internas o unidad? El peronismo sanjuanino, obligado a ordenar la tropa: cómo elegirá el candidato provincial y en los departamentos Por Redacción Diario de Cuyo",
+     "titulo": "Reforma electoral: cómo votaron los tres senadores sanjuaninos el proyecto que suspende las PASO Por Redacción Diario de Cuyo",
      "medio": "Diario de Cuyo",
      "fecha": "27/11/2026",
-     "url": "https://www.diariodecuyo.com.ar/politica/internas-o-unidad-el-peronismo-sanjuanino-obligado-ordenar-la-tropa-como-elegira-el-candidato-provincial-y-los-departamentos-n6589702"
+     "url": "https://www.diariodecuyo.com.ar/politica/reforma-electoral-como-votaron-los-tres-senadores-sanjuaninos-el-proyecto-que-suspende-las-paso-n6589756"
+    },
+    {
+     "titulo": "El Gobierno logró la media sanción del presupuesto 2027, pero la oposición amplió los fondos para las universidades",
+     "medio": "0264 Noticias",
+     "fecha": "27/11/2026",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/27/118722-el-gobierno-logro-la-media-sancion-del-presupuesto-2027-pero-la-oposicion-amplio-los-fondos-para-las-universidades",
+     "tag": "También en San Juan 8"
     }
    ],
    "imagen": []
@@ -480,25 +479,32 @@
   "San Luis": {
    "top3": [
     {
-     "titulo": "Concejo Deliberante: en 37 sesiones ordinarias de 2026, aprobaron 10 ordenanzas y numerosas declaraciones de interés",
+     "titulo": "El Gobernador recorrió el CAPS del barrio ATE II de Villa Mercedes",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "27/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/27/1236663-el-gobernador-recorrio-el-caps-del-barrio-ate-ii-de-villa-mercedes/"
+    },
+    {
+     "titulo": "El Gobernador inauguró dos consultorios odontológicos en el hospital de Justo Daract",
+     "medio": "Prensa oficial de San Luis",
+     "fecha": "27/11/2026",
+     "url": "https://agenciasanluis.com/2026/11/27/1236546-el-gobernador-inauguro-dos-consultorios-odontologicos-en-el-hospital-de-justo-daract/"
+    },
+    {
+     "titulo": "A un día de renunciar a su banca, el ex diputado Joaquín Beltrán recibió 90 días de prisión preventiva",
      "medio": "La Gaceta Digital",
      "fecha": "27/11/2026",
-     "url": "https://lagacetadigital.com.ar/2026/11/27/concejo-deliberante-en-37-sesiones-ordinarias-de-2026-aprobaron-10-ordenanzas-y-numerosas-declaraciones-de-interes/"
-    },
-    {
-     "titulo": "Poggi supervisó las tareas de limpieza que realizan tras el desborde del río Nuevo",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "27/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/27/1236350-poggi-superviso-las-tareas-de-limpieza-que-realizan-tras-el-desborde-del-rio-nuevo/"
-    },
-    {
-     "titulo": "Anticipan un fin de semana cálido con máximas que rondarán los 33°C",
-     "medio": "Prensa oficial de San Luis",
-     "fecha": "27/11/2026",
-     "url": "https://agenciasanluis.com/2026/11/27/1236335-anticipan-un-fin-de-semana-calido-con-maximas-que-rondaran-los-33c/"
+     "url": "https://lagacetadigital.com.ar/2026/11/27/a-un-dia-de-renunciar-a-su-banca-el-ex-diputado-joaquin-beltran-recibio-90-dias-de-prision-preventiva/"
     }
    ],
-   "imagen": []
+   "imagen": [
+    {
+     "titulo": "En un cuento, una escritora puntana predijo la imagen viral de El Morro",
+     "medio": "El Diario de la República",
+     "fecha": "27/11/2026",
+     "url": "https://www.eldiariodelarepublica.com/nota/2026-11-27-11-1-0-en-un-cuento-una-escritora-puntana-predijo-la-imagen-viral-de-el-morro"
+    }
+   ]
   },
   "Santa Cruz": {
    "top3": [
@@ -509,16 +515,17 @@
      "url": "https://www.infobae.com/politica/2026/11/27/santa-cruz-sanciono-su-nuevo-codigo-electoral-y-cambian-las-reglas-de-cara-a-la-eleccion-de-2027/"
     },
     {
-     "titulo": "Reforma electoral: el Senado suspendió las PASO para las elecciones nacionales de 2027",
-     "medio": "La Opinión Austral",
-     "fecha": "27/11/2026",
-     "url": "https://laopinionaustral.com.ar/argentina/reforma-electoral-el-senado-suspendio-las-paso-para-las-elecciones-nacionales-de-2027-736728.html"
-    },
-    {
      "titulo": "Compartir POLÍTICA. La legislatura aprobó el nuevo régimen electoral que incluye las PASO: el oficialismo votó en contra",
      "medio": "Winfo",
      "fecha": "27/11/2026",
      "url": "https://winfo.ar/politica/2026/11/la-legislatura-aprobo-el-nuevo-regimen-electoral-que-incluye-las-paso-el-oficialismo-voto-en-contra"
+    },
+    {
+     "titulo": "Código Electoral: el diputado Muñoz cuestionó el alcance de Ficha Limpia y analizó los plazos de un eventual veto",
+     "medio": "La Opinión Austral",
+     "fecha": "27/11/2026",
+     "url": "https://laopinionaustral.com.ar/politica-y-economia/codigo-electoral-el-diputado-munoz-cuestiono-el-alcance-de-ficha-limpia-y-analizo-los-plazos-de-un-eventual-veto-736795.html",
+     "tag": "También en Tiempo Sur"
     }
    ],
    "imagen": []
@@ -539,10 +546,11 @@
      "url": "https://www.airedesantafe.com.ar/politica/la-legislatura-santa-fe-se-encamina-extraordinarias-el-foco-puesto-el-presupuesto-y-la-ley-tributaria-2027-n678205"
     },
     {
-     "titulo": "El Gobierno logró la media sanción del Presupuesto 2027, pero perdió la pulseada por el gasto universitario",
-     "medio": "Rosario3",
+     "titulo": "Santa Fe tendrá cinco nuevos jueces federales: el Senado de la Nación aprobó sus designaciones",
+     "medio": "UNO - SF",
      "fecha": "27/11/2026",
-     "url": "https://www.rosario3.com/politica/el-gobierno-logro-la-media-sancion-del-presupuesto-2027-pero-perdio-la-pulseada-por-el-gasto-universitario-20261127-0008.html"
+     "url": "https://www.unosantafe.com.ar/santa-fe/santa-fe-tendra-cinco-nuevos-jueces-federales-el-senado-la-nacion-aprobo-sus-designaciones-n10294535.html",
+     "tag": "También en La Capital"
     }
    ],
    "imagen": [
@@ -558,22 +566,24 @@
   "Santiago del Estero": {
    "top3": [
     {
-     "titulo": "Presupuesto 2027: Diputados dio media sanción, pero la oposición impuso un fuerte aumento para las universidades",
-     "medio": "El Liberal",
+     "titulo": "El Gobernador Elías Suárez recibió en Casa de Gobierno al médico investigador académico Alberto Taquini",
+     "medio": "Prensa oficial de Santiago del Estero",
      "fecha": "27/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99234/2026/11/presupuesto-2027--diputados-dio-media-sancion-pero-la-oposicion-impuso-un-fuerte-aumento-para-las-universidades"
+     "url": "https://sde.gob.ar/2026/11/27/el-gobernador-elias-suarez-recibio-en-casa-de-gobierno-al-medico-investigador-academico-alberto-taquini/",
+     "tag": "También en Diario Panorama, Nuevo Diario Web"
     },
     {
-     "titulo": "Natalia de la Sota rechazó el Presupuesto 2027 en Diputados: \"No voy acompañar este Presupuesto de ajuste\"",
-     "medio": "El Liberal",
+     "titulo": "La Legislatura Provincial reconoció los 41 años de trayectoria artística del Dúo Coplanacu",
+     "medio": "Prensa oficial de Santiago del Estero",
      "fecha": "27/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99248/2026/11/natalia-de-la-sota-rechazo-el-presupuesto-2027-en-diputados--no-voy-acompanar-este-presupuesto-de-ajuste"
+     "url": "https://sde.gob.ar/2026/11/27/la-legislatura-provincial-reconocio-los-41-anos-de-trayectoria-artistica-del-duo-coplanacu/",
+     "tag": "También en El Liberal, Nuevo Diario Web"
     },
     {
-     "titulo": "“Es fundamental que el proyecto reelija”: Bullrich agitó el debate político rumbo a 2027",
-     "medio": "Diario Panorama",
+     "titulo": "Bullrich pidió asegurar la continuidad del proyecto de Milei, pero evitó confirmar si apoyará su reelección",
+     "medio": "El Liberal",
      "fecha": "27/11/2026",
-     "url": "https://www.diariopanorama.com/noticia/574349/fundamental-proyecto-reelija-bullrich-agito-debate-politico-rumbo-2027"
+     "url": "https://www.elliberal.com.ar/nota/99257/2026/11/patricia-bullrich-pidio-asegurar-la-continuidad-del-proyecto-de-javier-milei-pero-evito-confirmar-si-apoyara-su-reeleccion"
     }
    ],
    "imagen": []
@@ -598,23 +608,24 @@
   "Tucumán": {
    "top3": [
     {
-     "titulo": "Diputados: el oficialismo logró aprobar el Presupuesto 2027 tras un largo y tenso debate",
+     "titulo": "Jaldo ratificó su rechazo a la suspensión de las PASO y cuestionó los cambios electorales antes de 2027",
      "medio": "La Gaceta - Tucumán",
      "fecha": "27/11/2026",
-     "url": "https://www.lagaceta.com.ar/nota/1164503/politica/diputados-oficialismo-logro-aprobar-presupuesto-2027-tras-largo-tenso-debate.html",
+     "url": "https://www.lagaceta.com.ar/nota/1164573/politica/jaldo-ratifico-rechazo-suspension-paso-cuestiono-cambios-electorales-antes-2027.html",
      "tag": "También en LV12"
     },
     {
-     "titulo": "Diputados aprobó el Presupuesto 2027 e hizo ley la reforma de la Carta Orgánica del BCRA",
-     "medio": "El Tucumano",
+     "titulo": "El Congreso aprobó la ley para prevenir la ludopatía infantil: la impactante revelación de alumnos tucumanos sobre las apuestas",
+     "medio": "La Gaceta - Tucumán",
      "fecha": "27/11/2026",
-     "url": "https://www.eltucumano.com/noticia/actualidad/328421/diputados-aprobo-el-presupuesto-2027-e-hizo-ley-la-reforma-de-la-carta-organica-del-bcra?dnd=cat&src=ph&pos=3&dis=desk"
+     "url": "https://www.lagaceta.com.ar/nota/1149353/sociedad/congreso-aprobo-ley-para-prevenir-ludopatia-infantil-impactante-revelacion-alumnos-tucumanos-sobre-apuestas.html",
+     "tag": "También en LV12"
     },
     {
-     "titulo": "Jaldo y Acevedo analizaron la caída de la coparticipación, el Presupuesto 2027 y las leyes de emergencia",
-     "medio": "Los Primeros",
+     "titulo": "Presupuesto 2027: el Gobierno evalúa modificar el artículo sobre universidades",
+     "medio": "LV12",
      "fecha": "27/11/2026",
-     "url": "https://www.losprimeros.tv/politica/jaldo-y-acevedo-analizaron-la-caida-de-la-coparticipacion--el-presupuesto-2027-y-las-leyes-de-emergencia_a6b09892fc34cf90c9cea03d5"
+     "url": "https://www.lv12.com.ar/gobierno/presupuesto-2027-el-gobierno-evalua-modificar-el-articulo-universidades-n207279"
     }
    ],
    "imagen": []
@@ -630,7 +641,6 @@
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
-  "https://eltermometroweb.com/",
   "https://grupolaprovincia.com/",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
@@ -639,11 +649,9 @@
   "https://www.elcomercial.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
-  "https://riojavirtual.com.ar/",
   "https://www.mdzol.com/mendoza",
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
-  "https://www.cuarto.com.ar/",
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",

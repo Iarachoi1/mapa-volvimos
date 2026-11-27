@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 15:42",
+ "actualizado": "27/11 16:49",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -51,20 +51,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#PatriaYFamilia",
-   "url": "https://x.com/search?q=%23PatriaYFamilia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "#QatarGP",
    "url": "https://x.com/search?q=%23QatarGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +75,14 @@
    "temas": []
   },
   {
-   "tema": "#catalanladron",
-   "url": "https://x.com/search?q=%23catalanladron",
+   "tema": "Tagliafico",
+   "url": "https://x.com/search?q=Tagliafico",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#PatriaYFamilia",
+   "url": "https://x.com/search?q=%23PatriaYFamilia",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +93,20 @@
    "temas": []
   },
   {
+   "tema": "Congreso",
+   "url": "https://x.com/search?q=Congreso",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "Ficha Limpia",
    "url": "https://x.com/search?q=Ficha%20Limpia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Anuel",
+   "url": "https://x.com/search?q=Anuel",
    "relevante": false,
    "temas": []
   },
@@ -108,12 +114,6 @@
    "tema": "Jihyo",
    "url": "https://x.com/search?q=Jihyo",
    "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Congreso",
-   "url": "https://x.com/search?q=Congreso",
-   "relevante": true,
    "temas": []
   },
   {
@@ -125,93 +125,93 @@
  ],
  "google": [
   {
-   "tema": "heraldos del evangelio",
-   "busquedas": "100+",
-   "nota": "El Vaticano nombra un triplete de comisiarios pontificios para los Heraldos del Evangelio",
-   "nota_url": "https://www.vidanuevadigital.com/2026/11/27/vaticano-nombra-triplete-comisiarios-pontificios-heraldos-evangelio/",
-   "medio": "Vida Nueva",
+   "tema": "werder bremen - mönchengladbach",
+   "busquedas": "200+",
+   "nota": "Heute Heimspiel im Weserstadion",
+   "nota_url": "https://bremennews.de/heute-heimspiel-im-weserstadion/",
+   "medio": "BremenNews",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "islas malvinas",
+   "tema": "pierre gasly",
    "busquedas": "500+",
-   "nota": "En Londres, los kelpers apuntaron contra Argentina en la previa al fallo por Sea Lion",
-   "nota_url": "https://www.perfil.com/internacional/en-londres-los-kelpers-apuntaron-contra-argentina-en-la-previa-al-fallo-por-sea-lion-amQZE6j8TayB",
-   "medio": "Perfil",
+   "nota": "Colapinto terminó 12do. en el primer entrenamiento en Lusail",
+   "nota_url": "https://www.diariojornada.com.ar/427814/deportes/colapinto_termino_12do_en_el_primer_entrenamiento_en_lusail",
+   "medio": "Diario Jornada",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "copa davis",
-   "busquedas": "100+",
-   "nota": "Del Potro y la lucha mental que vivió ante Cilic en la Copa Davis 2016: \"Los pensamientos malos se adueñaron de mí\"",
-   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17530086/del-potro-la-lucha-mental-que-vivio-ante-cilic-copa-davis-2016-los-pensamientos-malos-se-aduenaron-de-mi-estado-de-animo",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jorge born",
+   "tema": "diego peretti",
    "busquedas": "200+",
-   "nota": "Murió Jorge Born, el empresario heredero de Bunge y Born que sobrevivió al secuestro de Montoneros",
-   "nota_url": "https://www.infobae.com/economia/2026/11/27/murio-jorge-born-el-empresario-heredero-de-bunge-y-born-que-sobrevivio-al-secuestro-de-montoneros/",
-   "medio": "Infobae",
+   "nota": "Diego Peretti rechazó las acusaciones en la causa por presunta estafa contra Hernán Casciari",
+   "nota_url": "https://diarioneuquino.com.ar/diego-peretti-rechazo-las-acusaciones-en-la-causa-por-presunta-estafa-contra-hernan-casciari/",
+   "medio": "Diario Neuquino",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ada colau",
-   "busquedas": "100+",
-   "nota": "Feijóo acusa a Sumar de haber permanecido “calladito” ante la “corrupción” del Gobierno y asegura que Sánchez podría “sentarse delante de un juez”",
-   "nota_url": "https://www.infobae.com/espana/2026/11/27/feijoo-promete-derogar-la-lmd-acusa-a-sumar-de-haber-permanecido-calladito-ante-la-corrupcion-del-gobierno-y-asegura-que-sanchez-podria-sentarse-delante-de-un-juez/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "ezequiel piovi",
-   "busquedas": "100+",
-   "nota": "Giay: por qué disfruta más esta final que la de 2025 y qué significa enfrentar a un equipo argentino",
-   "nota_url": "https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/17569294/palmeiras-vs-estudiantes-agustin-giay-espn-f12-final",
-   "medio": "ESPN Argentina",
+   "tema": "levante - racing de santander",
+   "busquedas": "200+",
+   "nota": "Levante vs Racing Santander en directo hoy: ¿dónde ver el partido por televisión y streaming?",
+   "nota_url": "https://www.goal.com/es-ar/noticias/levante-vs-racing-santander-en-directo-hoy-donde-ver-el-partido-por-television-y-streaming/blt3327a872a347927f",
+   "medio": "Goal.com",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "recibo de sueldo",
-   "busquedas": "100+",
-   "nota": "Empezó a regir el nuevo recibo de sueldo asistido de ARCA para empleadas domésticas: cómo funciona",
-   "nota_url": "https://www.elonce.com/economia/empezo-a-regir-el-nuevo-recibo-de-sueldo-asistido-de-arca-para-empleadas-domesticas-como-funciona.htm",
-   "medio": "Elonce.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "conmebol libertadores",
-   "busquedas": "1000+",
-   "nota": "De City Bell a Canelones: el laboratorio de Estudiantes, entre termos, mates y sonrisas",
-   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/de-city-bell-a-canelones-el-laboratorio-de-estudiantes-entre-termos-mates-y-sonrisas-nid27112026/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dólar estadounidense",
+   "tema": "nottingham forest - chelsea",
    "busquedas": "2000+",
-   "nota": "El dólar cortó la escalada y bajó hasta los $1625",
-   "nota_url": "https://www.lanacion.com.ar/economia/dolar/el-dolar-corta-con-su-escalada-y-cede-hasta-los-1625-nid26112026/",
-   "medio": "La Nación",
+   "nota": "Licensable picture: Premier League - Nottingham Forest v Chelsea",
+   "nota_url": "https://www.reutersconnect.com/item/premier-league-nottingham-forest-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlIxRzhVOEI",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "tiago pzk",
+   "tema": "al ittihad",
+   "busquedas": "100+",
+   "nota": "Bergwijn leads Al-Ittihad's attack against Neom as Abidi faces his past",
+   "nota_url": "https://www.livescore.com/en/news/football/more/bergwijn-leads-al-ittihads-attack-against-neom-as-abidi-faces-his-past-goal/",
+   "medio": "LiveScore",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "entre ríos",
+   "busquedas": "100+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ola de calor",
    "busquedas": "200+",
-   "nota": "Tiago PZK contó que planea tener un hijo con La Joaqui en 2027: Mi señora quiere un nene",
-   "nota_url": "https://www.lavoz.com.ar/espectaculos/tiago-pzk-conto-planea-tener-hijo-joaqui-2027-senora-quiere-nene_0_Xv2RmeAFKl.html",
-   "medio": "La Voz del Interior",
-   "relevante": true,
+   "nota": "Ciclogénesis y alerta en Argentina: el pronóstico del tiempo para el fin de semana con 34° en Buenos Aires",
+   "nota_url": "https://www.ciudad.com.ar/actualidad/2026/11/27/ciclogenesis-y-alerta-en-argentina-el-pronostico-del-tiempo-para-el-fin-de-semana-con-34-en-buenos-aires/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "bunge & born",
+   "busquedas": "2000+",
+   "nota": "A los 92 años murió Jorge Born, heredero de una dinastía, secuestrado por Montoneros quien dio a Menem su primer plan económico",
+   "nota_url": "https://www.clarin.com/economia/92-anos-murio-jorge-born-heredero-dinastia-secuestrado-montoneros-dio-menem-primer-plan-economico_0_fvuc5cVqhf.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima bahia blanca",
+   "busquedas": "500+",
+   "nota": "Fuerte viento y una temperatura que sigue subiendo: a cuánto llegará la máxima",
+   "nota_url": "https://www.labrujula24.com/notas/2026/11/27/fuerte-viento-y-una-temperatura-que-sigue-subiendo-a-cuanto-llegara-la-maxima-n532864/",
+   "medio": "La Brújula 24",
+   "relevante": false,
    "temas": []
   }
  ],
