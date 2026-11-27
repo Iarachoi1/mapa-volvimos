@@ -1,7 +1,13 @@
 {
- "actualizado": "26/11 20:43",
+ "actualizado": "26/11 21:52",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
@@ -21,20 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Ficha Limpia",
-   "url": "https://x.com/search?q=Ficha%20Limpia",
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -45,36 +45,22 @@
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Mayans",
    "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Con 43",
-   "url": "https://x.com/search?q=Con%2043",
+   "tema": "Ficha Limpia",
+   "url": "https://x.com/search?q=Ficha%20Limpia",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
   },
   {
    "tema": "Londres",
@@ -89,9 +75,23 @@
    "temas": []
   },
   {
+   "tema": "Jorge Macri",
+   "url": "https://x.com/search?q=Jorge%20Macri",
+   "relevante": true,
+   "temas": [
+    "Jorge Macri"
+   ]
+  },
+  {
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
    "temas": []
   },
   {
@@ -107,14 +107,14 @@
    "temas": []
   },
   {
-   "tema": "La AGN",
-   "url": "https://x.com/search?q=La%20AGN",
-   "relevante": false,
+   "tema": "Caputo",
+   "url": "https://x.com/search?q=Caputo",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "#BuenJueves",
-   "url": "https://x.com/search?q=%23BuenJueves",
+   "tema": "Con 43",
+   "url": "https://x.com/search?q=Con%2043",
    "relevante": false,
    "temas": []
   },
@@ -127,92 +127,92 @@
  ],
  "google": [
   {
+   "tema": "daniel scioli",
+   "busquedas": "100+",
+   "nota": "Scioli agradeció a la Cancillería antes de la elección, pero perdió frente a Ghana en ONU Turismo",
+   "nota_url": "https://ariesonline.com.ar/contenido/217731/scioli-agradecio-a-la-cancilleria-antes-de-la-eleccion-pero-perdio-frente-a-ghan",
+   "medio": "Aries On Line",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "banco de inglaterra",
+   "busquedas": "500+",
+   "nota": "Tras el envío de 1000 lingotes, el Banco Central pasó a tener un tercio de su oro en el exterior",
+   "nota_url": "https://www.lanacion.com.ar/economia/tras-el-envio-de-1000-lingotes-el-banco-central-paso-a-tener-casi-un-tercio-de-su-oro-en-el-exterior-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ricardo darín",
+   "busquedas": "200+",
+   "nota": "El elegante look de Ricardo Darín y Florencia Bas en los Emmy Internacionales 2026",
+   "nota_url": "https://www.somosohlala.com/moda/el-elegante-look-de-ricardo-darin-y-florencia-bas-en-los-emmy-internacionales-2026-nid24112026",
+   "medio": "Revista OHLALÁ!",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "nancy godoy",
+   "busquedas": "100+",
+   "nota": "Confirman 14 años de prisión para uno de los hijos de Nanci Godoy por abuso sexual a sus dos hijastras",
+   "nota_url": "https://www.corrientespositiva.com.ar/notix/noticia/69371/confirman-14-aos-de-prisin-para-uno-de-los-hijos-de-nanci-godoy-por-abuso-sexual-a-sus-dos-hijastras.htm",
+   "medio": "Corrientes Positiva",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "argentina - bahamas",
+   "busquedas": "2000+",
+   "nota": "La Selección argentina pierde a sus dos principales figuras para una fecha clave de las Eliminatorias del Mundial de básquet",
+   "nota_url": "https://tn.com.ar/deportes/basquetbol/2026/11/25/la-seleccion-argentina-pierde-a-sus-dos-principales-figuras-para-una-fecha-clave-de-las-eliminatorias-del-mundial-de-basquet/",
+   "medio": "TN",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "wall street",
+   "busquedas": "100+",
+   "nota": "Efecto riesgo país: No sale a Wall Street la mayor generadora eólica y solar de la Argentina",
+   "nota_url": "https://urgente24.com/dinero/efecto-riesgo-pais-no-sale-wall-street-la-mayor-generadora-eolica-y-solar-la-argentina-n637498",
+   "medio": "Urgente24",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "estadio alberto j. armando \"la bombonera\"",
+   "busquedas": "200+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "darío franco",
-   "busquedas": "10000+",
-   "nota": "Gimnasia y Esgrima confirmó la salida de Darío Franco y ya busca a su reemplazante",
-   "nota_url": "https://www.losandes.com.ar/deportes/gimnasia-y-esgrima-confirmo-la-salida-dario-franco-y-ya-busca-su-reemplazante-n6015750",
-   "medio": "Los Andes",
+   "busquedas": "1000+",
+   "nota": "Gimnasia de Mendoza confirmó la salida de Darío Franco",
+   "nota_url": "https://www.lt10.com.ar/noticia/514897--gimnasia-de-mendoza-confirmo-la-salida-de-dario-franco",
+   "medio": "LT10",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fábrica",
-   "busquedas": "200+",
-   "nota": "Impacto de los despidos en Plantium: 110 trabajadores se enteraron de su desvinculación en un video",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/impacto-de-los-despidos-en-plantium-110-trabajadores-se-enteraron-de-su-desvinculacion-en-un-video_616949",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "opus dei",
-   "busquedas": "200+",
-   "nota": "La Justicia argentina cita a declarar al número dos mundial del Opus Dei por trata de mujeres y reducción a la servidumbre",
-   "nota_url": "https://elpais.com/argentina/2026-11-25/la-justicia-argentina-cita-a-declarar-al-numero-dos-mundial-del-opus-dei-por-trata-de-mujeres-y-reduccion-a-la-servidumbre.html",
-   "medio": "EL PAÍS",
+   "busquedas": "500+",
+   "nota": "Villa Constitución: un video registró la angustia de los 110 trabajadores de Plantium al recibir sus telegramas de despido",
+   "nota_url": "https://www.lacapital.com.ar/la-region/villa-constitucion-un-video-registro-la-angustia-los-110-trabajadores-plantium-al-recibir-sus-telegramas-despido-n10294427.html",
+   "medio": "La Capital",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "fernando batista",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "River negocia con Fernando Batista para que se haga cargo de las divisiones inferiores",
    "nota_url": "https://www.lagaceta.com.ar/nota/1164397/deportes/river-negocia-fernando-batista-para-se-haga-cargo-divisiones-inferiores.html",
    "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sao paulo fc",
-   "busquedas": "200+",
-   "nota": "São Paulo tem time de pendurados para enfrentar o Remo; veja quem pode ficar fora da última rodada",
-   "nota_url": "https://www.lance.com.br/sao-paulo/sao-paulo-tem-time-de-pendurados-para-enfrentar-o-remo-veja-quem-pode-ficar-fora-da-ultima-rodada.html",
-   "medio": "LANCE!",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cuba",
-   "busquedas": "100+",
-   "nota": "What’s next for Cuba’s political future: an attack by Trump before year’s end or a democratic shift?",
-   "nota_url": "https://english.elpais.com/international/2026-11-23/whats-next-for-cubas-political-future-an-attack-by-trump-before-years-end-or-a-democratic-shift.html",
-   "medio": "EL PAÍS English",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nadia podoroska",
-   "busquedas": "200+",
-   "nota": "WTA 125 de Buenos Aires: la historia de un torneo que busca consolidar su identidad",
-   "nota_url": "https://www.espn.com.ar/tenis/nota/_/id/17566904/wta-125-de-buenos-aires-como-se-construye-un-torneo-con-identidad-propia",
-   "medio": "ESPN Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "javier milei",
-   "busquedas": "500+",
-   "nota": "El canciller paraguayo dice que Argentina ofreció su apoyo para recuperar activos de Ueno bank",
-   "nota_url": "https://www.infobae.com/america/agencias/2026/11/26/el-canciller-paraguayo-dice-que-argentina-ofrecio-su-apoyo-para-recuperar-activos-de-ueno-bank/",
-   "medio": "Infobae",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "cowboys - eagles",
-   "busquedas": "200+",
-   "nota": "Dak Prescott Has Shot at Breaking Historic Tom Brady Record on Thanksgiving",
-   "nota_url": "https://sports.yahoo.com/nfl/articles/dak-prescott-shot-breaking-historic-155500617.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "chechu bonelli",
-   "busquedas": "200+",
-   "nota": "Chechu Bonelli confirmó que está de novia: quién es el hombre que le robó el corazón",
-   "nota_url": "https://www.lanacion.com.ar/espectaculos/chechu-bonelli-confirmo-que-esta-de-novia-quien-es-el-hombre-que-le-robo-el-corazon-nid26112026/",
-   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
