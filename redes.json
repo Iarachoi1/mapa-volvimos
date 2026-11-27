@@ -1,10 +1,16 @@
 {
- "actualizado": "27/11 08:44",
+ "actualizado": "27/11 09:54",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "#BuenViernes",
    "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Marc MÃ¡rquez",
+   "url": "https://x.com/search?q=Marc%20M%C3%83%C2%A1rquez",
    "relevante": false,
    "temas": []
   },
@@ -15,26 +21,14 @@
    "temas": []
   },
   {
-   "tema": "Marc Marquez",
-   "url": "https://x.com/search?q=Marc%20Marquez",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "#TheGrimLover1stPremiere",
-   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "THE GRIM LOVER Opens The Gate",
-   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
+   "tema": "MotoGP",
+   "url": "https://x.com/search?q=MotoGP",
    "relevante": false,
    "temas": []
   },
@@ -45,26 +39,8 @@
    "temas": []
   },
   {
-   "tema": "MotoGP",
-   "url": "https://x.com/search?q=MotoGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Caballito",
    "url": "https://x.com/search?q=Caballito",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lozano",
-   "url": "https://x.com/search?q=Lozano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
@@ -75,26 +51,32 @@
    "temas": []
   },
   {
+   "tema": "#TheGrimLover1stPremiere",
+   "url": "https://x.com/search?q=%23TheGrimLover1stPremiere",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lozano",
+   "url": "https://x.com/search?q=Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Tadeo",
-   "url": "https://x.com/search?q=Tadeo",
+   "tema": "Tini",
+   "url": "https://x.com/search?q=Tini",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#PiedraLibreAlOro",
-   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#catalanladron",
-   "url": "https://x.com/search?q=%23catalanladron",
+   "tema": "THE GRIM LOVER Opens The Gate",
+   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20Opens%20The%20Gate",
    "relevante": false,
    "temas": []
   },
@@ -105,20 +87,38 @@
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
+   "tema": "#PiedraLibreAlOro",
+   "url": "https://x.com/search?q=%23PiedraLibreAlOro",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
+   "tema": "#OPPOWatch5THxBecky",
+   "url": "https://x.com/search?q=%23OPPOWatch5THxBecky",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "#ElClubDelMoro",
+   "url": "https://x.com/search?q=%23ElClubDelMoro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Tadeo",
+   "url": "https://x.com/search?q=Tadeo",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Maia",
+   "url": "https://x.com/search?q=Maia",
    "relevante": false,
    "temas": []
   }
@@ -127,18 +127,18 @@
   {
    "tema": "martín menem",
    "busquedas": "100+",
-   "nota": "Menem anunció el cierre preventivo de sistemas de Diputados ante el riesgo de ciberataques con inteligencia artificial",
-   "nota_url": "https://www.perfil.com/politica/menem-anuncio-el-cierre-preventivo-de-sistemas-de-diputados-ante-el-riesgo-de-ciberataques-con-inteligencia-artificial-a8q177v0yxIG",
-   "medio": "Perfil",
+   "nota": "Marcela Pagano denuncia que hackearon el sitio de Diputados y el Gobierno lo oculta",
+   "nota_url": "https://noticias.perfil.com/noticias/politica/marcela-pagano-denuncia-que-hackearon-el-sitio-de-diputados-y-el-gobierno-lo-oculta.phtml",
+   "medio": "Revista Noticias",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "marc marquez",
-   "busquedas": "500+",
-   "nota": "Márquez no desmintió su retiro y Ducati salió a apagar el incendio: «Va a estar con nosotros, seguro»",
-   "nota_url": "https://lamoto.com.ar/noticias/marquez-no-desmintio-su-retiro-y-ducati-salio-a-apagar-el-incendio-va-a-estar-con-nosotros-seguro/",
-   "medio": "La Moto",
+   "busquedas": "1000+",
+   "nota": "Sorpresa en el motociclismo: Marc Márquez anunció su retiro y este domingo disputará su última carrera",
+   "nota_url": "https://tn.com.ar/deportes/automovilismo/2026/11/27/sorpresa-en-el-motociclismo-marc-marquez-anuncio-su-retiro-y-este-domingo-disputara-su-ultima-carrera/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
@@ -153,27 +153,36 @@
   },
   {
    "tema": "contexto tucuman",
-   "busquedas": "200+",
-   "nota": "Clima en Tucumán hoy viernes 27 de noviembre: cielo claro y temperaturas cálidas",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/27/clima-en-tucuman-hoy-viernes-27-de-noviembre-cielo-claro-y-temperaturas-calidas/",
-   "medio": "TN",
+   "busquedas": "100+",
+   "nota": "Medina Ruiz acompañó a Jaldo en la presentación de un documento histórico sobre la causa Malvinas",
+   "nota_url": "https://msptucuman.gov.ar/medina-ruiz-acompano-a-jaldo-en-la-presentacion-de-un-documento-historico-sobre-la-causa-malvinas/",
+   "medio": "Ministerio de Salud Pública de Tucumán",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "londres",
+   "busquedas": "2000+",
+   "nota": "Sigue la polémica por el oro: según la AGN, el BCRA envió 1.000 barras al Banco de Inglaterra y fundió 115 lingotes",
+   "nota_url": "https://www.infobae.com/economia/2026/11/26/segun-la-agn-el-bcra-envio-1000-barras-de-oro-al-banco-de-inglaterra-y-fundio-115-lingotes/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "ministro",
    "busquedas": "100+",
-   "nota": "Lula designó al presidente de Bradesco en Economía: quién es y cuál es la señal que celebraron los mercados",
-   "nota_url": "https://www.cronista.com/internacionales/lula-designo-a-un-hombre-de-bradesco-como-ministro-de-economia-quien-es-y-cual-es-la-senal-fiscal-que-celebraron-los-mercados/",
-   "medio": "El Cronista",
+   "nota": "Volaron los mercados en Brasil: el Bovespa saltó 6,1% ante la llegada de un banquero al Ministerio de Economía",
+   "nota_url": "https://www.ambito.com/finanzas/volaron-los-mercados-brasil-el-bovespa-salto-61-la-llegada-un-banquero-al-ministerio-economia-n6349887",
+   "medio": "Ambito",
    "relevante": true,
    "temas": []
   },
   {
    "tema": "necochea",
    "busquedas": "200+",
-   "nota": "La iluminación avanza y las calles esperan su turno",
-   "nota_url": "https://elecos.com.ar/la-iluminacion-avanza-y-las-calles-esperan-su-turno",
+   "nota": "Regresó el calor y se volvió a disfrutar la playa en Necochea",
+   "nota_url": "https://elecos.com.ar/regreso-el-calor-y-se-volvio-a-disfrutar-la-playa-en-necochea",
    "medio": "Ecos Diarios Necochea",
    "relevante": false,
    "temas": []
@@ -181,9 +190,9 @@
   {
    "tema": "sergio massa",
    "busquedas": "200+",
-   "nota": "Massa tantea Córdoba y presiona por el apoyo de Llaryora",
-   "nota_url": "https://diarioalfil.com.ar/contenido/24242/massa-tantea-cordoba-y-presiona-por-el-apoyo-de-llaryora",
-   "medio": "Alfil",
+   "nota": "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\"",
+   "nota_url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
+   "medio": "Cadena 3 Argentina",
    "relevante": true,
    "temas": []
   },
@@ -197,19 +206,10 @@
    "temas": []
   },
   {
-   "tema": "germán martitegui",
-   "busquedas": "200+",
-   "nota": "Germán Martitegui probó el plato de una famosa en MasterChef, se emocionó y lanzó una potente advertencia: “Tengan cuidado”",
-   "nota_url": "https://radiomitre.cienradios.com/espectaculos/german-martitegui-probo-el-plato-de-una-famosa-en-masterchef-se-emociono-y-lanzo-una-potente-advertencia-tengan-cuidado/",
-   "medio": "Radio Mitre",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "quiniela",
+   "tema": "pronóstico del tiempo",
    "busquedas": "100+",
-   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este viernes, 27 de noviembre",
-   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-viernes-27-de-noviembre-202611275016",
+   "nota": "Clima en Buenos Aires hoy: cielo despejado y una máxima de 24 grados",
+   "nota_url": "https://www.eldestapeweb.com/sociedad/clima-en-buenos-aires-hoy-pronostico-del-tiempo-en-vivo-de-este-jueves-26-de-noviembre-202611263015",
    "medio": "El Destape",
    "relevante": false,
    "temas": []
