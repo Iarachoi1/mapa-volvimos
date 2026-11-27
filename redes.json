@@ -1,5 +1,5 @@
 {
- "actualizado": "27/11 01:55",
+ "actualizado": "27/11 02:53",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -9,15 +9,15 @@
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Senado",
    "url": "https://x.com/search?q=Senado",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
+   "relevante": false,
    "temas": []
   },
   {
@@ -51,18 +51,6 @@
    "temas": []
   },
   {
-   "tema": "Edith",
-   "url": "https://x.com/search?q=Edith",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Malaspina",
-   "url": "https://x.com/search?q=Malaspina",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tadeo",
    "url": "https://x.com/search?q=Tadeo",
    "relevante": false,
@@ -71,6 +59,12 @@
   {
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Malaspina",
+   "url": "https://x.com/search?q=Malaspina",
    "relevante": false,
    "temas": []
   },
@@ -87,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Rivers",
-   "url": "https://x.com/search?q=Rivers",
+   "tema": "#MasterChefCelebrity",
+   "url": "https://x.com/search?q=%23MasterChefCelebrity",
    "relevante": false,
    "temas": []
   },
@@ -96,6 +90,12 @@
    "tema": "Santilli",
    "url": "https://x.com/search?q=Santilli",
    "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "#catalanladron",
+   "url": "https://x.com/search?q=%23catalanladron",
+   "relevante": false,
    "temas": []
   },
   {
@@ -107,8 +107,14 @@
    ]
   },
   {
-   "tema": "#MasterChefCelebrity",
-   "url": "https://x.com/search?q=%23MasterChefCelebrity",
+   "tema": "Rivers",
+   "url": "https://x.com/search?q=Rivers",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   },
@@ -117,18 +123,21 @@
    "url": "https://x.com/search?q=Caputo",
    "relevante": true,
    "temas": []
-  },
-  {
-   "tema": "#catalanladron",
-   "url": "https://x.com/search?q=%23catalanladron",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "cruz azul",
+   "tema": "presupuesto",
    "busquedas": "100+",
+   "nota": "El Gobierno reformó la Carta Orgánica del Banco Central en Diputados y va por el Presupuesto 2027",
+   "nota_url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417",
+   "medio": "Ambito",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "latam",
+   "busquedas": "200+",
    "nota": "",
    "nota_url": "",
    "medio": "",
@@ -136,38 +145,20 @@
    "temas": []
   },
   {
-   "tema": "presupuesto",
-   "busquedas": "100+",
-   "nota": "Diputados: en medio de intensas negociaciones, el Gobierno confía en obtener la media sanción del presupuesto 2027",
-   "nota_url": "https://www.lanacion.com.ar/politica/diputados-en-medio-de-intensas-negociaciones-el-gobierno-confia-en-obtener-la-media-sancion-del-nid26112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "latam",
-   "busquedas": "200+",
-   "nota": "Qué playas del exterior y circuitos nacionales ofrecen las mejores rebajas en este Black Friday 2026",
-   "nota_url": "https://www.lagaceta.com.ar/nota/1164173/sociedad/que-playas-exterior-circuitos-nacionales-ofrecen-mejores-rebajas-este-black-friday-2026.html",
-   "medio": "La Gaceta",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "león - cruz azul",
-   "busquedas": "500+",
-   "nota": "¿Por qué no juegan Amaury García, Andrés Montaño y Kevin Mier?",
-   "nota_url": "https://vamoscruzazul.bolavip.com/noticias/por-que-no-juegan-amaury-garcia-andres-montano-y-nicolas-ibanez-aS4Za3q46o0Y",
-   "medio": "Vamos Azul",
+   "busquedas": "1000+",
+   "nota": "",
+   "nota_url": "",
+   "medio": "",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "jetsmart",
-   "busquedas": "1000+",
-   "nota": "Oferta de vuelos nacionales: ¿qué vuelos podrían tener descuento este Black Friday?",
-   "nota_url": "https://www.tvmas.tv/noticias/oferta-de-vuelos-nacionales-que-vuelos-podrian-tener-descuento-este-black-friday_20261124/",
-   "medio": "TV Más",
+   "busquedas": "2000+",
+   "nota": "Vuelos por Chile, Argentina y Brasil: las ofertas de SKY Airline de hasta 63% en pasajes",
+   "nota_url": "https://www.pagina7.cl/actualidad/vuelos-por-chile-argentina-y-brasil-las-ofertas-de-sky-airline-de-hasta-63-en-pasajes/",
+   "medio": "Página 7",
    "relevante": false,
    "temas": []
   },
@@ -213,6 +204,15 @@
    "nota": "Boca se mete en la pelea con River por una figura de Argentinos Juniors",
    "nota_url": "https://www.nexofin.com/notas/1303422-boca-se-mete-en-la-pelea-con-river-por-una-figura-de-argentinos-juniors-n-/",
    "medio": "Nexofin",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima san juan",
+   "busquedas": "200+",
+   "nota": "San Juan va a estar picante: el viernes llega a 34°C y asoman tormentas aisladas",
+   "nota_url": "https://delsurdiario.com/provinciales/san-juan-va-a-estar-picante-el-viernes-llega-a-34c-y-asoman-tormentas-aisladas",
+   "medio": "Del Sur Diario",
    "relevante": false,
    "temas": []
   }
