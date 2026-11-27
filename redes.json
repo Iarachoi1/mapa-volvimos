@@ -1,7 +1,13 @@
 {
- "actualizado": "27/11 17:43",
+ "actualizado": "27/11 18:44",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
@@ -9,8 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
    "temas": []
   },
@@ -27,14 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Jorge Born",
-   "url": "https://x.com/search?q=Jorge%20Born",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
@@ -45,32 +45,8 @@
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bunge y Born",
-   "url": "https://x.com/search?q=Bunge%20y%20Born",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
    "relevante": false,
    "temas": []
   },
@@ -81,14 +57,50 @@
    "temas": []
   },
   {
-   "tema": "Banco Central",
-   "url": "https://x.com/search?q=Banco%20Central",
+   "tema": "Jorge Born",
+   "url": "https://x.com/search?q=Jorge%20Born",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Jihyo",
-   "url": "https://x.com/search?q=Jihyo",
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bunge y Born",
+   "url": "https://x.com/search?q=Bunge%20y%20Born",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Cocos",
+   "url": "https://x.com/search?q=Cocos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Banco Central",
+   "url": "https://x.com/search?q=Banco%20Central",
    "relevante": false,
    "temas": []
   },
@@ -99,14 +111,8 @@
    "temas": []
   },
   {
-   "tema": "Congreso",
-   "url": "https://x.com/search?q=Congreso",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Tini",
-   "url": "https://x.com/search?q=Tini",
+   "tema": "#buenjueves",
+   "url": "https://x.com/search?q=%23buenjueves",
    "relevante": false,
    "temas": []
   },
@@ -115,36 +121,48 @@
    "url": "https://x.com/search?q=Ficha%20Limpia",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "#buenjueves",
-   "url": "https://x.com/search?q=%23buenjueves",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
   {
-   "tema": "chelsea",
-   "busquedas": "1000+",
-   "nota": "Wesley Fofana furiously booed as Chelsea fans sing 'you're not welcome' after interview",
-   "nota_url": "https://www.football.london/chelsea-fc/news/wesley-fofana-furiously-booed-chelsea-34979191",
-   "medio": "Football London",
+   "tema": "marcelo tinelli",
+   "busquedas": "100+",
+   "nota": "Aseguran que Ágata Lescano “stalkeaba” a Marcelo Tinelli antes de salir con él: “Aparecía en...”",
+   "nota_url": "https://www.ciudad.com.ar/espectaculos/2026/11/25/aseguran-que-agata-lescano-seguia-los-pasos-de-marcelo-tinelli-aparecia-en/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "verano",
+   "busquedas": "200+",
+   "nota": "Ante la incertidumbre económica, el Gobierno bonaerense lanzará incentivos al turismo",
+   "nota_url": "https://www.eleco.com.ar/provincia/ante-la-incertidumbre-economica-el-gobierno-bonaerense-lanzara-incentivos-al-turismo",
+   "medio": "El Eco",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "steelers - broncos",
+   "busquedas": "100+",
+   "nota": "Dabble Promo Code YAHOOBONUS: Claim Up to $200 in Bonuses on Friday's Broncos/Steelers Matchup, Plus College Football, NBA, NHL and College Basketball Action",
+   "nota_url": "https://sports.yahoo.com/betting/promos/article/dabble-promo-code-yahoobonus-claim-up-to-200-in-bonuses-on-fridays-broncossteelers-matchup-plus-college-football-nba-nhl-and-college-basketball-action-190000357.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "elizabeth holmes",
    "busquedas": "200+",
-   "nota": "“Puedes verlo todo”, la intimidad de una estafadora",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/26/puedes-verlo-todo-la-intimidad-de-una-estafadora/",
-   "medio": "Página|12",
+   "nota": "Puedes verlo todo: el documental que se filmó en secreto, recaudó millones de dólares y puede hacer historia en los Oscar",
+   "nota_url": "https://www.lanacion.com.ar/espectaculos/cine/puedes-verlo-todo-el-documental-que-se-filmo-en-secreto-recaudo-millones-de-dolares-y-puede-hacer-nid26112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "irlanda - australia",
-   "busquedas": "500+",
+   "busquedas": "1000+",
    "nota": "Australia confirmó su equipo para enfrentar a Irlanda: Allan Alaalatoa jugará su Test número 100",
    "nota_url": "https://cordobaxv.com.ar/australia-confirmo-su-equipo-para-enfrentar-a-irlanda-allan-alaalatoa-jugara-su-test-numero-100/",
    "medio": "Cordoba XV",
@@ -153,64 +171,46 @@
   },
   {
    "tema": "bologna",
-   "busquedas": "200+",
-   "nota": "Calcio Serie A: Venezia-Bologna. Segui la diretta testuale",
-   "nota_url": "https://www.rainews.it/tgr/veneto/articoli/2026/11/calcio-serie-a-venezia-bologna-giornata-13-risultato-classifica-commenti-50b72f89-b7f1-42ec-8d3a-d8fc9a1989e7.html",
-   "medio": "RaiNews",
+   "busquedas": "500+",
+   "nota": "Venezia-Bologna, formazioni ufficiali: fuori Orsolini! La scelta su Piccoli, Cambiaghi, Haps, Odgaard e Yeboah",
+   "nota_url": "https://www.sosfanta.com/squadra/bologna/venezia-bologna-formazioni-ufficiali-fuori-orsolini-fantacalcio/",
+   "medio": "SOS Fanta",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "paris fc",
    "busquedas": "200+",
-   "nota": "Live: Stade Brest vs Paris FC | Ligue 1",
-   "nota_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/live-stade-brest-vs-paris-fc-ligue-1-2026-11-27",
-   "medio": "beIN SPORTS",
+   "nota": "Ligue 1 Matchweek 12 Odds In Canada: PSG, Lille, Lyon Picks",
+   "nota_url": "https://rg.org/en-ca/news/soccer/psg-vs-lorient-le-mans-vs-lille-ligue-1-matchweek-12-odds-picks",
+   "medio": "RG.org",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "inundación",
-   "busquedas": "200+",
-   "nota": "El Ejército instala un segundo trasvasador en Piura para evacuar aguas por las lluvias intensas",
-   "nota_url": "https://es-us.noticias.yahoo.com/ej%C3%A9rcito-instala-trasvasador-piura-evacuar-154355902.html",
-   "medio": "Yahoo",
+   "busquedas": "500+",
+   "nota": "El Niño en Perú: lluvias históricas provocan inundaciones en Piura",
+   "nota_url": "https://www.eltelegrafo.com.ec/noticias/internacionales/211/el-nino-peru-lluvias-inundaciones-piura",
+   "medio": "El Telégrafo (por eliminar)",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "pierre gasly",
-   "busquedas": "2000+",
-   "nota": "Franco Colapinto planteó su preocupación por el rendimiento de Alpine en el primer día del GP de Qatar: “No estamos cómodos”",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/27/franco-colapinto-planteo-su-preocupacion-por-el-rendimiento-de-alpine-en-el-primer-dia-del-gp-de-qatar-no-estuvimos-comodos/",
-   "medio": "Infobae",
+   "busquedas": "5000+",
+   "nota": "La defensa de Colapinto a Piastri en las prácticas de la F1 en Qatar",
+   "nota_url": "https://www.ole.com.ar/autos/defensa-colapinto-piastri-practicas-f1-qatar_3_8S3I9NsGrE.html",
+   "medio": "Olé",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "diego peretti",
-   "busquedas": "500+",
-   "nota": "Peretti, apuntado en la causa Orsai: “No tuve ningún rol como productor”",
-   "nota_url": "https://bardeo.news/entretenimiento/peretti--apuntado-en-la-causa-orsai---no-tuve-ningun-rol-como-productor-_a6b09e354c34cf90c9cf1dcf6",
-   "medio": "Bardeo.news",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "levante - racing de santander",
-   "busquedas": "500+",
-   "nota": "Alineaciones de Levante y Racing de Santander para el duelo de la jornada 14 de la LaLiga",
-   "nota_url": "https://bolavip.com/ar/europa/alineaciones-de-levante-y-racing-de-santander-para-el-duelo-de-la-jornada-14-de-la-laliga",
-   "medio": "Bolavip Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "nottingham forest - chelsea",
-   "busquedas": "10000+",
-   "nota": "Licensable picture: UK: Premier League: Nottingham Forest v Chelsea",
-   "nota_url": "https://www.reutersconnect.com/item/uk-premier-league-nottingham-forest-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDAwOERLU1k",
-   "medio": "Reuters Connect",
+   "busquedas": "1000+",
+   "nota": "Diego Peretti, complicado con la Justicia: la grave denuncia penal en la que quedó involucrado",
+   "nota_url": "https://www.mdzol.com/mdz-show/2026/11/27/diego-peretti-complicado-con-la-justicia-la-grave-denuncia-penal-en-la-que-quedo-involucrado-1998438.html",
+   "medio": "MDZ Online",
    "relevante": false,
    "temas": []
   }
