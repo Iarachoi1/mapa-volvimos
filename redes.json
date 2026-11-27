@@ -1,10 +1,16 @@
 {
- "actualizado": "27/11 05:24",
+ "actualizado": "27/11 06:55",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Thanksgiving",
    "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
    "relevante": false,
    "temas": []
   },
@@ -33,12 +39,6 @@
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Tini",
    "url": "https://x.com/search?q=Tini",
    "relevante": false,
@@ -57,14 +57,20 @@
    "temas": []
   },
   {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "#íì§ì±_ìºëë¤êµ¬ì¤",
    "url": "https://x.com/search?q=%23%C3%AD%C2%95%C2%9C%C3%AC%C2%A7%C2%80%C3%AC%C2%84%C2%B1_%C3%AC%C2%BA%C2%90%C3%AB%C2%82%C2%98%C3%AB%C2%8B%C2%A4%C3%AA%C2%B5%C2%AC%C3%AC%C2%8A%C2%A4",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "Bareiro",
+   "url": "https://x.com/search?q=Bareiro",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Bareiro",
-   "url": "https://x.com/search?q=Bareiro",
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
    "relevante": false,
    "temas": []
   },
@@ -93,126 +99,118 @@
    "temas": []
   },
   {
-   "tema": "Santilli",
-   "url": "https://x.com/search?q=Santilli",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Jorge Macri",
-   "url": "https://x.com/search?q=Jorge%20Macri",
-   "relevante": true,
-   "temas": [
-    "Jorge Macri"
-   ]
-  },
-  {
-   "tema": "Pichetto",
-   "url": "https://x.com/search?q=Pichetto",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Presupuesto 2027",
    "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "#buenjueves",
-   "url": "https://x.com/search?q=%23buenjueves",
+   "tema": "Santilli",
+   "url": "https://x.com/search?q=Santilli",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "HAN CHILLS AT CANADA GOOSE",
+   "url": "https://x.com/search?q=HAN%20CHILLS%20AT%20CANADA%20GOOSE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pichetto",
+   "url": "https://x.com/search?q=Pichetto",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clima cordoba",
+   "tema": "pronostico formosa",
    "busquedas": "200+",
-   "nota": "Clima en Córdoba: cielo nublado y templado para este jueves 26 de noviembre",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/26/clima-en-cordoba-hoy-jueves-26-de-noviembre-cielo-cubierto-y-templado/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "estafa",
-   "busquedas": "200+",
-   "nota": "Trucos simples para evitar estafas durante el Black Friday",
-   "nota_url": "https://www.eleco.com.ar/interes-general/trucos-simples-para-evitar-estafas-durante-el-black-friday-1",
-   "medio": "El Eco",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "tasa",
-   "busquedas": "100+",
-   "nota": "Según el mercado, el Gobierno salió a bajar la brecha cambiaria para evitar que desaliente la oferta de dólares",
-   "nota_url": "https://www.lanacion.com.ar/economia/el-gobierno-salio-a-bajar-la-brecha-cambiaria-para-evitar-que-desaliente-la-oferta-de-dolares-nid26112026/",
-   "medio": "La Nación",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "presupuesto",
-   "busquedas": "100+",
-   "nota": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados pero sufrió un revés con los fondos para universidades",
-   "nota_url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
-   "medio": "Clarin.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "latam",
-   "busquedas": "200+",
-   "nota": "",
-   "nota_url": "",
-   "medio": "",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "león - cruz azul",
-   "busquedas": "1000+",
-   "nota": "Club León vs. Cruz Azul Lineups, Live Stream, How & Where to Watch Liga MX Liguilla on TV",
-   "nota_url": "https://www.yardbarker.com/general_sports/articles/club_len_vs_cruz_azul_lineups_live_stream_how_where_to_watch_liga_mx_liguilla_on_tv/s1_17615_44624681",
-   "medio": "Yardbarker",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jetsmart",
-   "busquedas": "2000+",
-   "nota": "Miércoles de descuentos: viajeros podrán ahorrar en tiquetes aéreos para viajar hasta mayo de 2027",
-   "nota_url": "https://www.semana.com/turismo/articulo/miercoles-de-descuentos-viajeros-podran-ahorrar-en-tiquetes-aereos-para-viajar-hasta-mayo-de-2027/202646/",
-   "medio": "Revista Semana",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "provincia compras",
-   "busquedas": "200+",
-   "nota": "Llega el Black Friday 2026: qué bancos ofrecen hasta 30 cuotas sin interés y cuáles son las promociones",
-   "nota_url": "https://www.minutouno.com/economia/llega-el-black-friday-2026-que-bancos-ofrecen-30-cuotas-interes-y-cuales-son-las-promociones-n6349806",
-   "medio": "MinutoUno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "diego barroetavena",
-   "busquedas": "500+",
-   "nota": "Rafecas sumó la denuncia contra el jefe de los árbitros a la causa por desvíos de dinero en la AFA",
-   "nota_url": "https://www.lanacion.com.ar/politica/rafecas-sumo-la-denuncia-contra-el-jefe-de-los-arbitros-a-la-causa-por-desvios-de-dinero-en-la-afa-nid26112026/",
+   "nota": "Clima en ciudad de Formosa hoy: cuál es el pronóstico del tiempo para el 26 de noviembre de 2026",
+   "nota_url": "https://www.lanacion.com.ar/clima/formosa/clima-en-ciudad-de-formosa-hoy-cual-es-el-pronostico-del-tiempo-para-el-26-de-noviembre-de-2026-nid25112026/",
    "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "pésame",
+   "tema": "pronóstico del tiempo",
    "busquedas": "100+",
-   "nota": "Primeras imágenes del naufragio del buque petrolero con 7.000 toneladas de gasoil cerca de la costa de Ibiza",
-   "nota_url": "https://www.infobae.com/espana/2026/11/26/primeras-imagenes-del-naufragio-del-buque-petrolero-con-7000-toneladas-de-gasoil-cerca-de-la-costa-de-ibiza/",
+   "nota": "Clima para este viernes 27 de noviembre en el AMBA: calor intenso, cielo despejado y viento noreste",
+   "nota_url": "https://www.perfil.com/clima/clima-en-buenos-aires-este-viernes-27-de-noviembre-maxima-de-33-c-y-sin-lluvias-a50-bgd-a6y165c74CyE",
+   "medio": "Perfil",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "germán martitegui",
+   "busquedas": "100+",
+   "nota": "Germán Martitegui y Maru Botana en Navidad en las Caballerizas 2026: cuándo es la feria solidaria de regalos en Tigre y cómo comprar entradas",
+   "nota_url": "https://www.lanacion.com.ar/que-sale/german-martitegui-y-maru-botana-en-navidad-en-las-caballerizas-2026-cuando-es-la-feria-solidaria-de-nid24112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "quiniela",
+   "busquedas": "100+",
+   "nota": "Quiniela de hoy: resultados de los sorteos en Nacional, Provincia y Santa Fe este viernes, 27 de noviembre",
+   "nota_url": "https://www.eldestapeweb.com/atr/quiniela-de-hoy-resultados-de-los-sorteos-en-nacional-provincia-y-santa-fe-este-viernes-27-de-noviembre-202611275016",
+   "medio": "El Destape",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "barco",
+   "busquedas": "200+",
+   "nota": "Alarma ambiental en Ibiza tras el hundimiento de un buque que transportaba miles de toneladas de combustible",
+   "nota_url": "https://www.lanacion.com.ar/el-mundo/alarma-ambiental-en-ibiza-tras-el-hundimiento-de-un-buque-que-transportaba-miles-de-toneladas-de-nid26112026/",
+   "medio": "La Nación",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inter de miami",
+   "busquedas": "100+",
+   "nota": "La dura crítica del entrenador de Columbus Crew y de un diario local a Messi tras el cruce del argentino con el chileno Tapia",
+   "nota_url": "https://www.infobae.com/deportes/2026/11/25/la-dura-critica-del-entrenador-de-columbus-crew-y-de-un-diario-local-a-messi-tras-el-cruce-del-argentino-con-el-chileno-tapia/",
    "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "27 de noviembre",
+   "busquedas": "100+",
+   "nota": "Horóscopo de hoy por Jimena La Torre: viernes 27 de noviembre de 2026",
+   "nota_url": "https://www.ciudad.com.ar/horoscopo/2026/11/27/horoscopo-de-hoy-por-jimena-la-torre-viernes-27-de-noviembre-de-2026/",
+   "medio": "Ciudad Magazine",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima posadas",
+   "busquedas": "200+",
+   "nota": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este jueves 26 noviembre de 2026",
+   "nota_url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-jueves-26-noviembre-2026_0_trrjFA7EBc.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima corrientes",
+   "busquedas": "200+",
+   "nota": "Vuelven las lluvias y tormentas a Corrientes: cómo estará el tiempo este viernes",
+   "nota_url": "https://www.radiodos.com.ar/217749-vuelven-las-lluvias-y-tormentas-a-corrientes-como-estara-el-tiempo-este-viernes",
+   "medio": "Radio Dos Corrientes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "clima cordoba",
+   "busquedas": "1000+",
+   "nota": "Días cálidos. Clima en Córdoba: prevén una máxima de 30 °C y poca nubosidad para este viernes 27 de noviembre",
+   "nota_url": "https://www.lavoz.com.ar/servicios/clima-cordoba-preven-maxima-30-c-poca-nubosidad-viernes-27-noviembre_0_YSgyqJRhTZ.html",
+   "medio": "La Voz del Interior",
    "relevante": false,
    "temas": []
   }
