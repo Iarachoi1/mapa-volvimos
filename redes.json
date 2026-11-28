@@ -1,5 +1,5 @@
 {
- "actualizado": "28/11 12:35",
+ "actualizado": "28/11 13:36",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -15,12 +15,6 @@
    "temas": []
   },
   {
-   "tema": "Sea Lion",
-   "url": "https://x.com/search?q=Sea%20Lion",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
    "relevante": false,
@@ -29,6 +23,12 @@
   {
    "tema": "#GMMTVStarlympics2026",
    "url": "https://x.com/search?q=%23GMMTVStarlympics2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sea Lion",
+   "url": "https://x.com/search?q=Sea%20Lion",
    "relevante": false,
    "temas": []
   },
@@ -51,32 +51,14 @@
    "temas": []
   },
   {
-   "tema": "#BuenSabado",
-   "url": "https://x.com/search?q=%23BuenSabado",
+   "tema": "Brentford",
+   "url": "https://x.com/search?q=Brentford",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#UnSabadoMejor",
-   "url": "https://x.com/search?q=%23UnSabadoMejor",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Por 18",
-   "url": "https://x.com/search?q=Por%2018",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Longobardi",
-   "url": "https://x.com/search?q=Longobardi",
+   "tema": "Javier Lozano",
+   "url": "https://x.com/search?q=Javier%20Lozano",
    "relevante": false,
    "temas": []
   },
@@ -87,118 +69,136 @@
    "temas": []
   },
   {
+   "tema": "Manchester United",
+   "url": "https://x.com/search?q=Manchester%20United",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Pochettino",
+   "url": "https://x.com/search?q=Pochettino",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "por 18",
+   "url": "https://x.com/search?q=por%2018",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#BuenSabado",
+   "url": "https://x.com/search?q=%23BuenSabado",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lisandro MartÃ­nez",
+   "url": "https://x.com/search?q=Lisandro%20Mart%C3%83%C2%ADnez",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Londres",
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
+   "tema": "#TheGrimLoverEP1",
+   "url": "https://x.com/search?q=%23TheGrimLoverEP1",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "PERTHSANTA DOMIIA FAMIGNITE",
-   "url": "https://x.com/search?q=PERTHSANTA%20DOMIIA%20FAMIGNITE",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Feliz SÃ¡bado",
-   "url": "https://x.com/search?q=Feliz%20S%C3%83%C2%A1bado",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Longobardi",
+   "url": "https://x.com/search?q=Longobardi",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "posiciones de betis contra rayo vallecano",
+   "tema": "clima mendoza",
    "busquedas": "200+",
-   "nota": "🚨 Pellegrini makes 6 changes; Álvaro García returns: Betis-Rayo line-ups",
-   "nota_url": "https://sports.yahoo.com/soccer/articles/pellegrini-makes-6-changes-betis-114200432.html",
-   "medio": "Yahoo Sports",
+   "nota": "Clima en Mendoza hoy sábado 28 de noviembre: lluvia ligera y calor intenso",
+   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/28/clima-en-mendoza-hoy-sabado-28-de-noviembre-lluvia-ligera-y-calor-intenso/",
+   "medio": "TN",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayern munich",
-   "busquedas": "200+",
-   "nota": "Constructive talks with Musiala's management",
-   "nota_url": "https://fcbayern.com/en/news/2026/11/before-flight-to-lille-constructive-talks-with-musiala-management",
-   "medio": "FC Bayern",
+   "tema": "entradas boca vs platense",
+   "busquedas": "500+",
+   "nota": "Copa Argentina: Venta de localidades vs. Boca Juniors",
+   "nota_url": "https://cap.org.ar/2026/11/copa-argentina-venta-de-localidades-vs-boca-juniors/",
+   "medio": "Club Atlético Platense",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "emiliano pinson",
+   "tema": "cuantas libertadores tiene estudiantes",
    "busquedas": "100+",
-   "nota": "La difícil decisión que tomó Emiliano Pinsón tras el avance de su Parkinson durante el tratamiento en España: “La cosa no va bien”",
-   "nota_url": "https://la100.cienradios.com/deportes/la-dificil-decision-que-tomo-emiliano-pinson-tras-el-avance-de-su-parkinson-durante-el-tratamiento-en-espana-la-cosa-no-va-bien/",
-   "medio": "La 100",
+   "nota": "Estudiantes vs Palmeiras hoy en vivo por la final de la Copa Libertadores: hora, TV y formaciones",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/28/estudiantes-vs-palmeiras-hoy-en-vivo-por-la-final-de-la-copa-libertadores-hora-tv-y-formaciones/",
+   "medio": "Página|12",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "bayern",
-   "busquedas": "500+",
-   "nota": "Bayern-Aufstellung: Youngster-Duo feiert Startelf-Debüt",
-   "nota_url": "https://www.eurosport.de/fussball/bundesliga/2026-2027/fc-bayern-vs.-hsv-aufstellungen-youngster-ndiaye-und-codjo-evora-feiern-startelf-debuet-vuskovic-gibt-comeback_sto23359613/story.shtml",
-   "medio": "Eurosport",
+   "tema": "u. católica - independiente del valle",
+   "busquedas": "200+",
+   "nota": "(EN VIVO) U. Católica vs IDV // LigaPro 2026",
+   "nota_url": "https://onefootball.com/es/noticias/en-vivo-u-catolica-vs-idv-ligapro-2026-43858309",
+   "medio": "OneFootball",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "javier lozano",
-   "busquedas": "5000+",
-   "nota": "Conmoción en la televisión argentina por la muerte de un histórico periodista de TN y Canal 13",
-   "nota_url": "https://www.cadena3.com/noticia/sociedad/conmocion-en-la-television-argentina-por-la-muerte-de-un-historico-periodista-de-tn-y-canal-13_617486",
-   "medio": "Cadena 3 Argentina",
+   "tema": "bodø/glimt - kfum oslo",
+   "busquedas": "100+",
+   "nota": "LIVESTREAMS·FREE!TVs] Bodø/Glimt vs KFUM Oslo Live Free Soccer football updates In 28 November 2026",
+   "nota_url": "https://www.tallahatchienews.ms/node/480595",
+   "medio": "tallahatchienews.ms",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de al-hazm contra al-nassr",
+   "tema": "clasificacion f1",
+   "busquedas": "20000+",
+   "nota": "F1 GP de Qatar con Franco Colapinto, EN VIVO: resultados de la FP3 y dónde ver la clasificación",
+   "nota_url": "https://www.clarin.com/deportes/f1-gp-qatar-colapinto-vivo-horarios-fp3-clasificacion-ver-formula-1_0_MYBsdcq4y6.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "instituto vs river plate",
+   "busquedas": "100+",
+   "nota": "Hora, TV y formaciones: River tiene una visita de riesgo a Instituto, por un lugar en semifinales",
+   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-28-5-0-27-hora-tv-y-formaciones-river-tiene-una-visita-de-riesgo-a-instituto-por-un-lugar-en-semifinales",
+   "medio": "La Nueva Provincia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "brasil",
+   "busquedas": "200+",
+   "nota": "‘Sofri muito sem ele’: Petrovic exalta retorno e importância de Lucas Dias em vitória do Brasil sobre os EUA",
+   "nota_url": "https://lnb.com.br/noticias/sofri-muito-sem-ele-petrovic-exalta-retorno-e-importancia-de-lucas-dias-em-vitoria-do-brasil-sobre-os-eua/",
+   "medio": "Liga Nacional de Basquete",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "manchester united",
    "busquedas": "2000+",
-   "nota": "Al Hazem Vs Al Nassr: Al-Nassr won 8 of last 10",
-   "nota_url": "https://twaslnews1.twaslnews.com/8435336/",
-   "medio": "شبكة تواصل الإخبارية",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "leeds - coventry city",
-   "busquedas": "500+",
-   "nota": "Joe Hart makes end-of-season Leeds prediction as Daniel Farke message shared",
-   "nota_url": "https://motleedsnews.com/match/joe-hart-makes-end-of-season-leeds-prediction-as-daniel-farke-message-shared",
-   "medio": "MOT Leeds News",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "primavera sound 2026",
-   "busquedas": "500+",
-   "nota": "La cartelera porelaña",
-   "nota_url": "https://www.eldia.com/espectaculos/la-cartelera-porelana-espectaculos_1795754044",
-   "medio": "Diario El Día de La Plata",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "manchester united - brentford",
-   "busquedas": "5000+",
    "nota": "The games Carlos Baleba will miss as Mauricio Pochettino reveals huge injury blow",
    "nota_url": "https://metro.co.uk/2026/11/27/games-carlos-baleba-will-miss-mauricio-pochettino-reveals-huge-injury-blow-29824852/",
    "medio": "Metro.co.uk",
@@ -206,11 +206,11 @@
    "temas": []
   },
   {
-   "tema": "frosinone - parma",
+   "tema": "posiciones de betis contra rayo vallecano",
    "busquedas": "500+",
-   "nota": "Calcio – Frosinone, Oyono: “Con il Parma importante sarà portare a casa il risultato”",
-   "nota_url": "https://www.gentecomuneweb.it/calcio-frosinone-oyono-con-il-parma-importante-sara-portare-a-casa-il-risultato/",
-   "medio": "Gente Comune",
+   "nota": "🚨 Pellegrini makes 6 changes; Álvaro García returns: Betis-Rayo line-ups",
+   "nota_url": "https://sports.yahoo.com/soccer/articles/pellegrini-makes-6-changes-betis-114200432.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   }
