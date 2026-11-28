@@ -1,5 +1,5 @@
 {
- "actualizado": "28/11 03:52",
+ "actualizado": "28/11 05:06",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -11,18 +11,6 @@
   {
    "tema": "Cocos",
    "url": "https://x.com/search?q=Cocos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Luka",
-   "url": "https://x.com/search?q=Luka",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -45,8 +33,8 @@
    "temas": []
   },
   {
-   "tema": "Lago",
-   "url": "https://x.com/search?q=Lago",
+   "tema": "Luka",
+   "url": "https://x.com/search?q=Luka",
    "relevante": false,
    "temas": []
   },
@@ -75,9 +63,9 @@
    "temas": []
   },
   {
-   "tema": "Spurs",
-   "url": "https://x.com/search?q=Spurs",
-   "relevante": false,
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
+   "relevante": true,
    "temas": []
   },
   {
@@ -87,20 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Presupuesto 2027",
-   "url": "https://x.com/search?q=Presupuesto%202027",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "Spurs",
+   "url": "https://x.com/search?q=Spurs",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -111,8 +93,26 @@
    "temas": []
   },
   {
-   "tema": "Lakers",
-   "url": "https://x.com/search?q=Lakers",
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#GMMTVStarlympics2026",
+   "url": "https://x.com/search?q=%23GMMTVStarlympics2026",
    "relevante": false,
    "temas": []
   },
@@ -126,19 +126,19 @@
  "google": [
   {
    "tema": "bronson reed que le pasó",
-   "busquedas": "100+",
-   "nota": "Muere Bronson Reed, luchador de la WWE, a los 38 años de edad",
-   "nota_url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/27/muere-bronson-reed-luchador-de-wwe-a-los-38-anos.shtml",
-   "medio": "BioBioChile",
+   "busquedas": "200+",
+   "nota": "Conmoción en la WWE: muere su estrella Bronson Reed por \"complicaciones médicas\"",
+   "nota_url": "https://www.marca.com/otros-deportes/2026/11/28/conmocion-wwe-muere-estrella-bronson-reed-complicaciones-medicas.html",
+   "medio": "MARCA",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "meteorología",
-   "busquedas": "500+",
-   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este viernes 27 de noviembre",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/27/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-viernes-27-de-noviembre/",
-   "medio": "Página|12",
+   "busquedas": "200+",
+   "nota": "El Pampero traerá estabilidad al centro del país, pero se esperan tormentas fuertes en otras regiones",
+   "nota_url": "https://www.revistachacra.com.ar/actualidad/el-pampero-traera-estabilidad-al-centro-del-pais-pero-se-esperan-tormentas-fuertes-en-otras-regiones-5141/",
+   "medio": "Revista Chacra",
    "relevante": false,
    "temas": []
   },
@@ -152,11 +152,11 @@
    "temas": []
   },
   {
-   "tema": "luis ventura internado",
-   "busquedas": "2000+",
-   "nota": "Luis Ventura se descompuso cuando iba rumbo a Miami: debió ser internado de urgencia y hay preocupación",
-   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/27/luis-ventura-se-descompuso-cuando-iba-rumbo-a-miami-debio-ser-internado-de-urgencia-y-hay-preocupacion/",
-   "medio": "eltrecetv",
+   "tema": "lionel messi",
+   "busquedas": "20000+",
+   "nota": "Columbus Crew vs. Inter Miami Player Ratings: What Went Wrong for Lionel Messi & Co.?",
+   "nota_url": "https://www.yardbarker.com/soccer/articles/columbus_crew_vs_inter_miami_player_ratings_what_went_wrong_for_lionel_messi_co/s1_17615_44629353",
+   "medio": "Yardbarker",
    "relevante": false,
    "temas": []
   },
@@ -172,18 +172,18 @@
   {
    "tema": "luis lobo medina",
    "busquedas": "2000+",
-   "nota": "Lobo Medina: filtran audio con pedido de 15 mil dólares",
-   "nota_url": "https://www.cba24n.com.ar/deportes/futbol/liga-argentina/lobo-medina--filtran-audio-con-pedido-de-15-mil-dolares_a6b0a340f58cc08cf5f6b8882",
-   "medio": "Cba24n",
+   "nota": "\"¿Cuántas botellitas?\": el audio del árbitro Lobo Medina que expone los arreglos de partidos en La Liga Profesional",
+   "nota_url": "https://www.a24.com/actualidad/cuantas-botellitas-el-audio-del-arbitro-lobo-medina-que-revela-como-se-arreglarian-los-partidos-la-afa-n1620748",
+   "medio": "A24.com",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "barco pesquero",
    "busquedas": "100+",
-   "nota": "Corea del Sur repatria a seis norcoreanos rescatados de una embarcación a la deriva",
-   "nota_url": "https://es.marketscreener.com/noticias/corea-del-sur-repatria-a-seis-norcoreanos-rescatados-de-una-embarcaci-n-a-la-deriva-ce7851d9dd89f723",
-   "medio": "MarketScreener España",
+   "nota": "Puerto de Manta: acumulación de gases por pescado en descomposición (podrido) causó la muerte de cuatro personas",
+   "nota_url": "https://www.eldiario.ec/lamarea/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
+   "medio": "www.eldiario.ec",
    "relevante": false,
    "temas": []
   },
@@ -199,9 +199,9 @@
   {
    "tema": "trail blazers - warriors",
    "busquedas": "1000+",
-   "nota": "Game 19 wrap: Dubs get nuked early in Portland, come back to make it a mere blowout; road calamities continue; Dubs out of NBA Cup",
-   "nota_url": "https://dubnationhq.com/p/game-19-wrap-no-spoiler-title-eef",
-   "medio": "Dub Nation HQ",
+   "nota": "Trail Blazers' Deni Avdija: Leads Blazers to victory",
+   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/trail-blazers-deni-avdija-leads-blazers-to-victory/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
