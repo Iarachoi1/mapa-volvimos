@@ -1,10 +1,22 @@
 {
- "actualizado": "28/11 05:06",
+ "actualizado": "28/11 06:42",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
+   "tema": "#GMMTVStarlympics2026",
+   "url": "https://x.com/search?q=%23GMMTVStarlympics2026",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "PERTHSANTA DOMIIA FAMIGNITE",
+   "url": "https://x.com/search?q=PERTHSANTA%20DOMIIA%20FAMIGNITE",
    "relevante": false,
    "temas": []
   },
@@ -15,14 +27,8 @@
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
+   "tema": "el senado",
+   "url": "https://x.com/search?q=el%20senado",
    "relevante": true,
    "temas": []
   },
@@ -33,20 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Luka",
-   "url": "https://x.com/search?q=Luka",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "AfganistÃ¡n",
    "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Reaves",
-   "url": "https://x.com/search?q=Reaves",
    "relevante": false,
    "temas": []
   },
@@ -81,26 +81,14 @@
    "temas": []
   },
   {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Londres",
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -111,34 +99,73 @@
    "temas": []
   },
   {
-   "tema": "#GMMTVStarlympics2026",
-   "url": "https://x.com/search?q=%23GMMTVStarlympics2026",
+   "tema": "Quilmes",
+   "url": "https://x.com/search?q=Quilmes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Quilmes",
-   "url": "https://x.com/search?q=Quilmes",
+   "tema": "Lago",
+   "url": "https://x.com/search?q=Lago",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "ley de reparación histórica para jubilados y pensionados",
+   "busquedas": "500+",
+   "nota": "Jubilaciones: especialista advierte sobre noticias falsas en torno a la Ley de Reparación Histórica",
+   "nota_url": "https://chacodiapordia.com/jubilaciones-especialista-advierte-sobre-noticias-falsas-en-torno-a-la-ley-de-reparacion-historica/",
+   "medio": "CHACODIAPORDIA.COM",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "canal 13",
+   "busquedas": "100+",
+   "nota": "Llamativa ausencia de Mirtha Legrand en una foto promocional de El Trece que hizo explotar una interna",
+   "nota_url": "https://www.a24.com/primiciasya/llamativa-ausencia-mirtha-legrand-una-foto-promocional-el-trece-que-hizo-explotar-una-interna-n1620670",
+   "medio": "A24.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "bronson reed que le pasó",
    "busquedas": "200+",
-   "nota": "Conmoción en la WWE: muere su estrella Bronson Reed por \"complicaciones médicas\"",
-   "nota_url": "https://www.marca.com/otros-deportes/2026/11/28/conmocion-wwe-muere-estrella-bronson-reed-complicaciones-medicas.html",
-   "medio": "MARCA",
+   "nota": "¡Luto en la lucha libre mundial! Figura de WWE muere",
+   "nota_url": "https://www.tudn.com/mas-deportes/muere-el-luchador-de-la-wwe-jermaine-haley-por-complicaciones-de-salud",
+   "medio": "TUDN",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "meteorología",
-   "busquedas": "200+",
-   "nota": "El Pampero traerá estabilidad al centro del país, pero se esperan tormentas fuertes en otras regiones",
-   "nota_url": "https://www.revistachacra.com.ar/actualidad/el-pampero-traera-estabilidad-al-centro-del-pais-pero-se-esperan-tormentas-fuertes-en-otras-regiones-5141/",
-   "medio": "Revista Chacra",
+   "busquedas": "1000+",
+   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este viernes 27 de noviembre",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/27/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-viernes-27-de-noviembre/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lionel messi",
+   "busquedas": "20000+",
+   "nota": "Licensable picture: Inter Miami CF defender Fricio Caicedo (15) and Columbus Crew defender Mohamed Farsi (23) fight for the ball during Game 2 of",
+   "nota_url": "https://www.reutersconnect.com/item/inter-miami-cf-defender-fricio-caicedo-15-and-columbus-crew-defender-mohamed-farsi-23-fight-for-the-ball-during-game-2-of/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjExNDE",
+   "medio": "Reuters Connect",
    "relevante": false,
    "temas": []
   },
@@ -152,29 +179,20 @@
    "temas": []
   },
   {
-   "tema": "lionel messi",
-   "busquedas": "20000+",
-   "nota": "Columbus Crew vs. Inter Miami Player Ratings: What Went Wrong for Lionel Messi & Co.?",
-   "nota_url": "https://www.yardbarker.com/soccer/articles/columbus_crew_vs_inter_miami_player_ratings_what_went_wrong_for_lionel_messi_co/s1_17615_44629353",
-   "medio": "Yardbarker",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "jazz - nuggets",
    "busquedas": "200+",
-   "nota": "Nikola Jokić had a 17/9/15 performance in win",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-28/nikola-jokic-had-a-17-9-15-performance-in-win",
-   "medio": "NBC Sports",
+   "nota": "Preview: Can Utah snap a 3 game losing streak against the Denver Nuggets?",
+   "nota_url": "https://sports.yahoo.com/nba/articles/preview-utah-snap-3-game-000527089.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "luis lobo medina",
    "busquedas": "2000+",
-   "nota": "\"¿Cuántas botellitas?\": el audio del árbitro Lobo Medina que expone los arreglos de partidos en La Liga Profesional",
-   "nota_url": "https://www.a24.com/actualidad/cuantas-botellitas-el-audio-del-arbitro-lobo-medina-que-revela-como-se-arreglarian-los-partidos-la-afa-n1620748",
-   "medio": "A24.com",
+   "nota": "Lobo Medina: filtran audio con pedido de 15 mil dólares",
+   "nota_url": "https://www.cba24n.com.ar/deportes/futbol/liga-argentina/lobo-medina--filtran-audio-con-pedido-de-15-mil-dolares_a6b0a340f58cc08cf5f6b8882",
+   "medio": "Cba24n",
    "relevante": false,
    "temas": []
   },
@@ -182,35 +200,17 @@
    "tema": "barco pesquero",
    "busquedas": "100+",
    "nota": "Puerto de Manta: acumulación de gases por pescado en descomposición (podrido) causó la muerte de cuatro personas",
-   "nota_url": "https://www.eldiario.ec/lamarea/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
-   "medio": "www.eldiario.ec",
+   "nota_url": "https://www.eldiario.ec/seguridad/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
+   "medio": "El Diario Ecuador",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "dario lopilato",
    "busquedas": "1000+",
-   "nota": "Darío Lopilato recordó su encuentro más incómodo con Mario Pergolini",
-   "nota_url": "https://eldoce.tv/videos/show/2026/11/28/dario-lopilato-recordo-su-encuentro-mas-incomodo-con-mario-pergolini/",
+   "nota": "Darío Lopilato recordó el momento más incómodo que vivió con Pergolini: “Un poco loco”",
+   "nota_url": "https://eldoce.tv/show/2026/11/28/dario-lopilato-recordo-el-momento-mas-incomodo-que-vivio-con-pergolini-un-poco-loco/",
    "medio": "eldoce",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "trail blazers - warriors",
-   "busquedas": "1000+",
-   "nota": "Trail Blazers' Deni Avdija: Leads Blazers to victory",
-   "nota_url": "https://www.cbssports.com/fantasy/basketball/news/trail-blazers-deni-avdija-leads-blazers-to-victory/",
-   "medio": "CBS Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "evelyn botto",
-   "busquedas": "100+",
-   "nota": "La tajante opinión de Mario Pergolini al escuchar el plan de Evelyn Botto para su primer aniversario con Fede Bal",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/27/la-tajante-opinion-de-mario-pergolini-al-escuchar-el-plan-de-evelyn-botto-para-su-primer-aniversario-con-fede-bal/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
