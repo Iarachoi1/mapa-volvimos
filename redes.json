@@ -1,13 +1,7 @@
 {
- "actualizado": "28/11 01:50",
+ "actualizado": "28/11 02:48",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
@@ -17,6 +11,12 @@
   {
    "tema": "#MasterChefJunior",
    "url": "https://x.com/search?q=%23MasterChefJunior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -39,14 +39,14 @@
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
+   "tema": "Reaves",
+   "url": "https://x.com/search?q=Reaves",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Lago",
-   "url": "https://x.com/search?q=Lago",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
@@ -63,8 +63,14 @@
    "temas": []
   },
   {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "tema": "Luka",
+   "url": "https://x.com/search?q=Luka",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lago",
+   "url": "https://x.com/search?q=Lago",
    "relevante": false,
    "temas": []
   },
@@ -75,20 +81,20 @@
    "temas": []
   },
   {
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Spurs",
+   "url": "https://x.com/search?q=Spurs",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Mayans",
    "url": "https://x.com/search?q=Mayans",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Sabalero",
-   "url": "https://x.com/search?q=El%20Sabalero",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
@@ -96,12 +102,6 @@
    "tema": "Presupuesto 2027",
    "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "MorÃ³n",
-   "url": "https://x.com/search?q=Mor%C3%83%C2%B3n",
-   "relevante": false,
    "temas": []
   },
   {
@@ -117,8 +117,8 @@
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   }
@@ -136,9 +136,18 @@
   {
    "tema": "jazz - nuggets",
    "busquedas": "200+",
-   "nota": "Nuggets Jazz Basketball",
-   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/nuggets-jazz-basketball/image_c579a2c9-90aa-597a-bb7c-a120e440fe90.html",
-   "medio": "Corsicana Daily Sun",
+   "nota": "Preview: Can Utah snap a 3 game losing streak against the Denver Nuggets?",
+   "nota_url": "https://sports.yahoo.com/nba/articles/preview-utah-snap-3-game-000527089.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luis lobo medina",
+   "busquedas": "2000+",
+   "nota": "Lobo Medina: filtran audio con pedido de 15 mil dólares",
+   "nota_url": "https://www.cba24n.com.ar/deportes/futbol/liga-argentina/lobo-medina--filtran-audio-con-pedido-de-15-mil-dolares_a6b0a340f58cc08cf5f6b8882",
+   "medio": "Cba24n",
    "relevante": false,
    "temas": []
   },
@@ -163,45 +172,27 @@
   {
    "tema": "trail blazers - warriors",
    "busquedas": "1000+",
-   "nota": "Blazers start Jrue, Sidy, Avdija, Camara, Clingan",
-   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-27/blazers-start-jrue-sidy-avdija-camara-clingan",
-   "medio": "NBC Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "el litoral",
-   "busquedas": "200+",
-   "nota": "Fuerte interés por SanCor: tres empresas quieren producir en plantas de la icónica láctea en quiebra",
-   "nota_url": "https://www.lanacion.com.ar/economia/campo/fuerte-interes-por-sancor-tres-empresas-quieren-producir-en-plantas-de-la-iconica-lactea-en-quiebra-nid21112026/",
-   "medio": "La Nación",
+   "nota": "Surging Trail Blazers host Warriors in key NBA Cup matchup",
+   "nota_url": "https://www.cbssports.com/nba/news/surging-trail-blazers-host-warriors-in-key-nba-cup-matchup/",
+   "medio": "CBS Sports",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "evelyn botto",
    "busquedas": "100+",
-   "nota": "Fede Bal y Evelyn Botto: cómo será su particular primer aniversario",
-   "nota_url": "https://holasalta.com/post/fede-bal-y-evelyn-botto-como-sera-su-particular-primer-aniversario/",
-   "medio": "HolaSalta Noticias",
+   "nota": "La tajante opinión de Mario Pergolini al escuchar el plan de Evelyn Botto para su primer aniversario con Fede Bal",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/27/la-tajante-opinion-de-mario-pergolini-al-escuchar-el-plan-de-evelyn-botto-para-su-primer-aniversario-con-fede-bal/",
+   "medio": "Infobae",
    "relevante": false,
    "temas": []
   },
   {
    "tema": "spurs - lakers",
    "busquedas": "2000+",
-   "nota": "JJ Redick Calls Out Media for Overreacting to Lakers’ Performances",
-   "nota_url": "https://sports.yahoo.com/nba/articles/jj-redick-calls-media-overreacting-140057536.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lobo medina",
-   "busquedas": "1000+",
-   "nota": "\"¿Cuántas botellitas?\": el audio del árbitro Lobo Medina que expone los arreglos de partidos en La Liga Profesional",
-   "nota_url": "https://www.a24.com/actualidad/cuantas-botellitas-el-audio-del-arbitro-lobo-medina-que-revela-como-se-arreglarian-los-partidos-la-afa-n1620748",
-   "medio": "A24.com",
+   "nota": "How Can Spurs Advance to Cup Knockout Rounds?",
+   "nota_url": "https://www.si.com/nba/spurs/onsi/can-san-antonio-spurs-clinch-nba-cup-group-possible-scenarios-los-angeles-lakers",
+   "medio": "Sports Illustrated",
    "relevante": false,
    "temas": []
   },
@@ -211,6 +202,15 @@
    "nota": "Catalina Gorostidi mostró sus nuevos retoques estéticos y la fulminaron en las redes: \"Más te tocás, más envejecés\"",
    "nota_url": "https://www.c5n.com/ratingcero/catalina-gorostidi-mostro-sus-nuevos-retoques-esteticos-y-la-fulminaron-las-redes-mas-te-tocas-mas-envejeces-n255506",
    "medio": "C5N",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - grizzlies",
+   "busquedas": "200+",
+   "nota": "Winning Grizzlies advance in NBA Cup",
+   "nota_url": "https://dailymemphian.com/section/sportsmemphis-grizzlies/article/68959/winning-grizzlies-advance-in-nba-cup",
+   "medio": "Daily Memphian",
    "relevante": false,
    "temas": []
   }
