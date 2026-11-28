@@ -1,7 +1,25 @@
 {
- "actualizado": "27/11 23:08",
+ "actualizado": "28/11 00:44",
  "fuentes_con_error": [],
  "tendencias_x": [
+  {
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Bonansea",
+   "url": "https://x.com/search?q=Bonansea",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
@@ -9,14 +27,14 @@
    "temas": []
   },
   {
-   "tema": "Cocos",
-   "url": "https://x.com/search?q=Cocos",
+   "tema": "Lago",
+   "url": "https://x.com/search?q=Lago",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Atlanta",
-   "url": "https://x.com/search?q=Atlanta",
+   "tema": "MorÃ³n",
+   "url": "https://x.com/search?q=Mor%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +45,44 @@
    "temas": []
   },
   {
-   "tema": "Bronson Reed",
-   "url": "https://x.com/search?q=Bronson%20Reed",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Black Friday",
    "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
   {
+   "tema": "Cocos",
+   "url": "https://x.com/search?q=Cocos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sabalero",
+   "url": "https://x.com/search?q=Sabalero",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Mayans",
    "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "VALENTINA ZENERE",
+   "url": "https://x.com/search?q=VALENTINA%20ZENERE",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Toledo",
+   "url": "https://x.com/search?q=Toledo",
    "relevante": false,
    "temas": []
   },
@@ -57,8 +99,14 @@
    "temas": []
   },
   {
-   "tema": "LPF Play",
-   "url": "https://x.com/search?q=LPF%20Play",
+   "tema": "TristÃ¡n SuÃ¡rez",
+   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
@@ -73,144 +121,96 @@
    "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
-  },
-  {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Quilmes",
-   "url": "https://x.com/search?q=Quilmes",
-   "relevante": false,
-   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "es mi sueño",
+   "busquedas": "1000+",
+   "nota": "El cruce entre Miguel Ángel Rodríguez y El Puma que terminó con una advertencia de Joaquín Levinton: “No lo contradigas”",
+   "nota_url": "https://www.infobae.com/teleshow/2026/11/25/el-cruce-entre-miguel-angel-rodriguez-y-el-puma-que-termino-con-una-advertencia-de-levinton/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "jazz - nuggets",
+   "busquedas": "100+",
+   "nota": "Denver Nuggets at Utah Jazz: Best Player Props for Murray, Braun, and Gordon",
+   "nota_url": "https://milehighsports.com/denver-nuggets-at-utah-jazz-best-player-props-for-murray-braun-and-gordon/",
+   "medio": "Mile High Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "barco pesquero",
+   "busquedas": "100+",
+   "nota": "Puerto de Manta: acumulación de gases por pescado en descomposición (podrido) causó la muerte de cuatro personas",
+   "nota_url": "https://www.eldiario.ec/seguridad/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
+   "medio": "El Diario Ecuador",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "trail blazers - warriors",
+   "busquedas": "500+",
+   "nota": "Jrue Holiday Props Today: Live Odds, Trends, & Lines",
+   "nota_url": "https://sports.betmgm.com/en/blog/nba/jrue-holiday-props-odds-gaa/",
+   "medio": "sports.betmgm.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "evelyn botto",
+   "busquedas": "100+",
+   "nota": "Fede Bal y Evelyn Botto: cómo será su particular primer aniversario",
+   "nota_url": "https://holasalta.com/post/fede-bal-y-evelyn-botto-como-sera-su-particular-primer-aniversario/",
+   "medio": "HolaSalta Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "spurs - lakers",
+   "busquedas": "1000+",
+   "nota": "How Can Spurs Advance to Cup Knockout Rounds?",
+   "nota_url": "https://www.si.com/nba/spurs/onsi/can-san-antonio-spurs-clinch-nba-cup-group-possible-scenarios-los-angeles-lakers",
+   "medio": "Sports Illustrated",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "lobo medina",
+   "busquedas": "1000+",
+   "nota": "\"¿Cuántas botellitas?\": el audio del árbitro Lobo Medina que expone los arreglos de partidos en La Liga Profesional",
+   "nota_url": "https://www.a24.com/actualidad/cuantas-botellitas-el-audio-del-arbitro-lobo-medina-que-revela-como-se-arreglarian-los-partidos-la-afa-n1620748",
+   "medio": "A24.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "catalina gorostidi",
+   "busquedas": "200+",
+   "nota": "Catalina Gorostidi, ex Gran Hermano, mostró sus cambios estéticos y la liquidaron en redes sociales",
+   "nota_url": "https://www.minutouno.com/espectaculos/catalina-gorostidi-ex-gran-hermano-mostro-sus-cambios-esteticos-y-la-liquidaron-redes-sociales-n6350286",
+   "medio": "MinutoUno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "timberwolves - grizzlies",
+   "busquedas": "200+",
+   "nota": "The Wolves now say LaMelo Ball is out tonight with a …",
+   "nota_url": "https://sports.yahoo.com/nba/articles/wolves-now-lamelo-ball-tonight-201152216.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "mansión",
    "busquedas": "200+",
    "nota": "Allanaron una segunda mansión de Pilar que aparece ligada a las autoridades de la AFA",
    "nota_url": "https://www.lanacion.com.ar/politica/pidieron-allanar-una-segunda-mansion-de-pilar-que-aparece-ligada-a-las-autoridades-de-la-afa-nid27112026/",
    "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bonelli",
-   "busquedas": "100+",
-   "nota": "Marcelo Longobardi acusó a Javier Milei de censurar la columna habitual de Marcelo Bonelli en Clarín",
-   "nota_url": "https://www.infoveloz.com/post/marcelo-longobardi-acuso-a-javier-milei-de-censurar-la-columna-habitual-de-marcelo-bonelli-en-clarin_286458",
-   "medio": "InfoVeloz.com",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "millonarios - américa",
-   "busquedas": "200+",
-   "nota": "Pronósticos Millonarios vs. América: El invicto rojo de visitante",
-   "nota_url": "https://www.futbolred.com/apuestas/pronosticos-millonarios-vs-america-liga-betplay-cuadrangulares-27-11-2026-275777",
-   "medio": "Futbolred",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "pistons - bucks",
-   "busquedas": "100+",
-   "nota": "Pistons Look to Boost Scoring Against Struggling Bucks on Friday",
-   "nota_url": "https://athlonsports.com/nba/milwaukee-bucks-at-detroit-pistons-nba-prediction-picks-odds-nov27-2026",
-   "medio": "Athlon Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "velez vs independiente",
-   "busquedas": "100+",
-   "nota": "¡TODOS EN CASA!",
-   "nota_url": "https://velez.com.ar/futbol/notas/2026/11/25/141836_todos-en-casa",
-   "medio": "Vélez Sarsfield",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bloqueo naval",
-   "busquedas": "1000+",
-   "nota": "Ejército estadounidense destruye buque que intentaba eludir bloqueo en puertos iraníes",
-   "nota_url": "https://www.cadena3.com/noticia/mundo/ejercito-estadounidense-destruye-buque-que-intentaba-eludir-bloqueo-en-puertos-iranies_617289",
-   "medio": "Cadena 3 Argentina",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "celtics - hawks",
-   "busquedas": "200+",
-   "nota": "Jalen Johnson And Hawks Take On Celtics On Nov. 27",
-   "nota_url": "https://www.fanduel.com/research/nba/player-news/game-updates/jalen-johnson-and-hawks-play-celtics-on-november-27-2026",
-   "medio": "FanDuel",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "apple tv",
-   "busquedas": "200+",
-   "nota": "De Britney Spears a su arresto: Justin Timberlake enfrenta su pasado en un nuevo documental",
-   "nota_url": "https://www.rionegro.com.ar/redes/de-britney-spears-a-su-arresto-justin-timberlake-enfrenta-su-pasado-en-un-nuevo-documental-4810967/",
-   "medio": "Diario Río Negro",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "aguinaldo jubilados diciembre 2026",
-   "busquedas": "100+",
-   "nota": "Aguinaldo 2026: ANSES confirmó las fechas de pago para jubilados y pensionados según DNI",
-   "nota_url": "https://www.ambito.com/informacion-general/aguinaldo-2026-anses-confirmo-las-fechas-pago-jubilados-y-pensionados-segun-dni-n6349767",
-   "medio": "Ambito",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "torneo de reserva",
-   "busquedas": "200+",
-   "nota": "Boca e Independiente avanzaron a semifinales de la Reserva y podría haber Superclásico en la final: así quedó el cuadro",
-   "nota_url": "https://www.infobae.com/deportes/2026/11/27/boca-e-independiente-avanzaron-a-semifinales-de-la-reserva-y-podria-haber-superclasico-en-la-final-asi-quedo-el-cuadro/",
-   "medio": "Infobae",
    "relevante": false,
    "temas": []
   }
