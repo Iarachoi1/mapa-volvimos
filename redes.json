@@ -1,16 +1,10 @@
 {
- "actualizado": "28/11 06:42",
+ "actualizado": "28/11 07:41",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "#GMMTVStarlympics2026",
    "url": "https://x.com/search?q=%23GMMTVStarlympics2026",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bonelli",
-   "url": "https://x.com/search?q=Bonelli",
    "relevante": false,
    "temas": []
   },
@@ -21,26 +15,26 @@
    "temas": []
   },
   {
+   "tema": "Bonelli",
+   "url": "https://x.com/search?q=Bonelli",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Cocos",
    "url": "https://x.com/search?q=Cocos",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "el senado",
-   "url": "https://x.com/search?q=el%20senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
+   "tema": "JOONG DUNK JAIDEE SPORTS DAY",
+   "url": "https://x.com/search?q=JOONG%20DUNK%20JAIDEE%20SPORTS%20DAY",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
+   "tema": "Maia",
+   "url": "https://x.com/search?q=Maia",
    "relevante": false,
    "temas": []
   },
@@ -63,6 +57,12 @@
    "temas": []
   },
   {
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Presupuesto 2027",
    "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
@@ -75,14 +75,14 @@
    "temas": []
   },
   {
-   "tema": "Spurs",
-   "url": "https://x.com/search?q=Spurs",
-   "relevante": false,
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
    "temas": []
   },
   {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -93,14 +93,14 @@
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Quilmes",
-   "url": "https://x.com/search?q=Quilmes",
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
@@ -111,22 +111,76 @@
    "temas": []
   },
   {
-   "tema": "#QatarGP",
-   "url": "https://x.com/search?q=%23QatarGP",
+   "tema": "Quilmes",
+   "url": "https://x.com/search?q=Quilmes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
+   "tema": "la nación",
+   "busquedas": "200+",
+   "nota": "Diario La Nación inició acciones legales contra plataformas de IA por usar sus notas",
+   "nota_url": "https://www.iprofesional.com/actualidad/470178-la-nacion-inicio-acciones-legales-contra-grandes-plataformas-de-ia-por-usar-sus-notas",
+   "medio": "iProfesional",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "guillermo francella",
+   "busquedas": "100+",
+   "nota": "Festival Fontanarrosa: Guillermo Francella y Luis Rubio abrieron la segunda edición en Rosario",
+   "nota_url": "https://www.clarin.com/cultura/festival-fontanarrosa-guillermo-francella-luis-rubio-abrieron-segunda-edicion-rosario_0_QClvdv9rRj.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "mario pergolini",
+   "busquedas": "1000+",
+   "nota": "Darío Lopilato recordó el momento más incómodo que vivió con Pergolini: “Un poco loco”",
+   "nota_url": "https://eldoce.tv/show/2026/11/28/dario-lopilato-recordo-el-momento-mas-incomodo-que-vivio-con-pergolini-un-poco-loco/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recesión",
+   "busquedas": "200+",
+   "nota": "La recuperación de la economía se hace esperar: por qué la actividad habría vuelto a retroceder en octubre",
+   "nota_url": "https://www.clarin.com/economia/recuperacion-economia-hace-esperar-actividad-vuelto-retroceder-octubre_0_dfIHEsSoPb.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "pro.cre.ar",
+   "busquedas": "100+",
+   "nota": "Una constructora de ex jugadores de fútbol se quedó con el predio del ex Procrear en Quilmes Oeste",
+   "nota_url": "https://diario5dias.com.ar/noticia/Una-constructora-ex-jugadores-f%C3%BAtbol-se-qued%C3%B3-predio-Quilmes-Oeste",
+   "medio": "diario5dias.com.ar",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ricky martin",
+   "busquedas": "100+",
+   "nota": "¡Orgullo latino! La estricta regla de Ricky Martin con sus hijos",
+   "nota_url": "https://saganoticias.com/entretenimiento/orgullo-latino-la-estricta-regla-de-ricky-martin-con-sus-hijos",
+   "medio": "Saga Noticias",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "ley de reparación histórica para jubilados y pensionados",
-   "busquedas": "500+",
+   "busquedas": "2000+",
    "nota": "Jubilaciones: especialista advierte sobre noticias falsas en torno a la Ley de Reparación Histórica",
    "nota_url": "https://chacodiapordia.com/jubilaciones-especialista-advierte-sobre-noticias-falsas-en-torno-a-la-ley-de-reparacion-historica/",
    "medio": "CHACODIAPORDIA.COM",
@@ -135,7 +189,7 @@
   },
   {
    "tema": "canal 13",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Llamativa ausencia de Mirtha Legrand en una foto promocional de El Trece que hizo explotar una interna",
    "nota_url": "https://www.a24.com/primiciasya/llamativa-ausencia-mirtha-legrand-una-foto-promocional-el-trece-que-hizo-explotar-una-interna-n1620670",
    "medio": "A24.com",
@@ -144,7 +198,7 @@
   },
   {
    "tema": "bronson reed que le pasó",
-   "busquedas": "200+",
+   "busquedas": "500+",
    "nota": "¡Luto en la lucha libre mundial! Figura de WWE muere",
    "nota_url": "https://www.tudn.com/mas-deportes/muere-el-luchador-de-la-wwe-jermaine-haley-por-complicaciones-de-salud",
    "medio": "TUDN",
@@ -154,63 +208,9 @@
   {
    "tema": "meteorología",
    "busquedas": "1000+",
-   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este viernes 27 de noviembre",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/27/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-viernes-27-de-noviembre/",
+   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este sábado 28 de noviembre",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/28/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-sabado-28-de-noviembre/",
    "medio": "Página|12",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "lionel messi",
-   "busquedas": "20000+",
-   "nota": "Licensable picture: Inter Miami CF defender Fricio Caicedo (15) and Columbus Crew defender Mohamed Farsi (23) fight for the ball during Game 2 of",
-   "nota_url": "https://www.reutersconnect.com/item/inter-miami-cf-defender-fricio-caicedo-15-and-columbus-crew-defender-mohamed-farsi-23-fight-for-the-ball-during-game-2-of/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NjExNDE",
-   "medio": "Reuters Connect",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "es mi sueño",
-   "busquedas": "2000+",
-   "nota": "El cruce entre Miguel Ángel Rodríguez y El Puma que terminó con una advertencia de Joaquín Levinton: “No lo contradigas”",
-   "nota_url": "https://www.infobae.com/teleshow/2026/11/25/el-cruce-entre-miguel-angel-rodriguez-y-el-puma-que-termino-con-una-advertencia-de-levinton/",
-   "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "jazz - nuggets",
-   "busquedas": "200+",
-   "nota": "Preview: Can Utah snap a 3 game losing streak against the Denver Nuggets?",
-   "nota_url": "https://sports.yahoo.com/nba/articles/preview-utah-snap-3-game-000527089.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "luis lobo medina",
-   "busquedas": "2000+",
-   "nota": "Lobo Medina: filtran audio con pedido de 15 mil dólares",
-   "nota_url": "https://www.cba24n.com.ar/deportes/futbol/liga-argentina/lobo-medina--filtran-audio-con-pedido-de-15-mil-dolares_a6b0a340f58cc08cf5f6b8882",
-   "medio": "Cba24n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "barco pesquero",
-   "busquedas": "100+",
-   "nota": "Puerto de Manta: acumulación de gases por pescado en descomposición (podrido) causó la muerte de cuatro personas",
-   "nota_url": "https://www.eldiario.ec/seguridad/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
-   "medio": "El Diario Ecuador",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "dario lopilato",
-   "busquedas": "1000+",
-   "nota": "Darío Lopilato recordó el momento más incómodo que vivió con Pergolini: “Un poco loco”",
-   "nota_url": "https://eldoce.tv/show/2026/11/28/dario-lopilato-recordo-el-momento-mas-incomodo-que-vivio-con-pergolini-un-poco-loco/",
-   "medio": "eldoce",
    "relevante": false,
    "temas": []
   }
