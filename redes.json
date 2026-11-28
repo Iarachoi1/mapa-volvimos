@@ -1,16 +1,10 @@
 {
- "actualizado": "28/11 13:36",
+ "actualizado": "28/11 14:33",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Malvinas",
    "url": "https://x.com/search?q=Malvinas",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Tribunal del Mar",
-   "url": "https://x.com/search?q=Tribunal%20del%20Mar",
    "relevante": false,
    "temas": []
   },
@@ -27,8 +21,8 @@
    "temas": []
   },
   {
-   "tema": "Sea Lion",
-   "url": "https://x.com/search?q=Sea%20Lion",
+   "tema": "Tribunal del Mar",
+   "url": "https://x.com/search?q=Tribunal%20del%20Mar",
    "relevante": false,
    "temas": []
   },
@@ -39,38 +33,8 @@
    "temas": []
   },
   {
-   "tema": "#sabadodeplp",
-   "url": "https://x.com/search?q=%23sabadodeplp",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Cocos",
-   "url": "https://x.com/search?q=Cocos",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Brentford",
-   "url": "https://x.com/search?q=Brentford",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Javier Lozano",
-   "url": "https://x.com/search?q=Javier%20Lozano",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Chile",
-   "url": "https://x.com/search?q=Chile",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Manchester United",
-   "url": "https://x.com/search?q=Manchester%20United",
+   "tema": "Sea Lion",
+   "url": "https://x.com/search?q=Sea%20Lion",
    "relevante": false,
    "temas": []
   },
@@ -81,32 +45,44 @@
    "temas": []
   },
   {
+   "tema": "Cocos",
+   "url": "https://x.com/search?q=Cocos",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Manchester United",
+   "url": "https://x.com/search?q=Manchester%20United",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Javier Lozano",
+   "url": "https://x.com/search?q=Javier%20Lozano",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Brentford",
+   "url": "https://x.com/search?q=Brentford",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#sabadodeplp",
+   "url": "https://x.com/search?q=%23sabadodeplp",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Maguire",
+   "url": "https://x.com/search?q=Maguire",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "AfganistÃ¡n",
    "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "por 18",
-   "url": "https://x.com/search?q=por%2018",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenSabado",
-   "url": "https://x.com/search?q=%23BuenSabado",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Lisandro MartÃ­nez",
-   "url": "https://x.com/search?q=Lisandro%20Mart%C3%83%C2%ADnez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
@@ -117,100 +93,124 @@
    "temas": []
   },
   {
-   "tema": "Longobardi",
-   "url": "https://x.com/search?q=Longobardi",
+   "tema": "Chile",
+   "url": "https://x.com/search?q=Chile",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lisandro",
+   "url": "https://x.com/search?q=Lisandro",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Quirno",
+   "url": "https://x.com/search?q=Quirno",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "THE GRIM LOVER CHAPTER 1",
+   "url": "https://x.com/search?q=THE%20GRIM%20LOVER%20CHAPTER%201",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "clima mendoza",
-   "busquedas": "200+",
-   "nota": "Clima en Mendoza hoy sábado 28 de noviembre: lluvia ligera y calor intenso",
-   "nota_url": "https://tn.com.ar/clima/alertas/2026/11/28/clima-en-mendoza-hoy-sabado-28-de-noviembre-lluvia-ligera-y-calor-intenso/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "entradas boca vs platense",
-   "busquedas": "500+",
-   "nota": "Copa Argentina: Venta de localidades vs. Boca Juniors",
-   "nota_url": "https://cap.org.ar/2026/11/copa-argentina-venta-de-localidades-vs-boca-juniors/",
-   "medio": "Club Atlético Platense",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "cuantas libertadores tiene estudiantes",
+   "tema": "angers - lens",
    "busquedas": "100+",
-   "nota": "Estudiantes vs Palmeiras hoy en vivo por la final de la Copa Libertadores: hora, TV y formaciones",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/28/estudiantes-vs-palmeiras-hoy-en-vivo-por-la-final-de-la-copa-libertadores-hora-tv-y-formaciones/",
-   "medio": "Página|12",
+   "nota": "Angers - Lens : sur quelle chaîne et à quelle heure suivre le match des Sang et Or",
+   "nota_url": "https://www.lavoixdunord.fr/1759003/article/2026-11-28/angers-lens-sur-quelle-chaine-et-quelle-heure-suivre-le-match-des-sang-et-or",
+   "medio": "La Voix du Nord",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "u. católica - independiente del valle",
-   "busquedas": "200+",
-   "nota": "(EN VIVO) U. Católica vs IDV // LigaPro 2026",
-   "nota_url": "https://onefootball.com/es/noticias/en-vivo-u-catolica-vs-idv-ligapro-2026-43858309",
-   "medio": "OneFootball",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bodø/glimt - kfum oslo",
-   "busquedas": "100+",
-   "nota": "LIVESTREAMS·FREE!TVs] Bodø/Glimt vs KFUM Oslo Live Free Soccer football updates In 28 November 2026",
-   "nota_url": "https://www.tallahatchienews.ms/node/480595",
-   "medio": "tallahatchienews.ms",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "clasificacion f1",
-   "busquedas": "20000+",
-   "nota": "F1 GP de Qatar con Franco Colapinto, EN VIVO: resultados de la FP3 y dónde ver la clasificación",
-   "nota_url": "https://www.clarin.com/deportes/f1-gp-qatar-colapinto-vivo-horarios-fp3-clasificacion-ver-formula-1_0_MYBsdcq4y6.html",
-   "medio": "Clarin.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "instituto vs river plate",
-   "busquedas": "100+",
-   "nota": "Hora, TV y formaciones: River tiene una visita de riesgo a Instituto, por un lugar en semifinales",
-   "nota_url": "https://www.lanueva.com/puntaalta/nota/2026-11-28-5-0-27-hora-tv-y-formaciones-river-tiene-una-visita-de-riesgo-a-instituto-por-un-lugar-en-semifinales",
-   "medio": "La Nueva Provincia",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "brasil",
-   "busquedas": "200+",
-   "nota": "‘Sofri muito sem ele’: Petrovic exalta retorno e importância de Lucas Dias em vitória do Brasil sobre os EUA",
-   "nota_url": "https://lnb.com.br/noticias/sofri-muito-sem-ele-petrovic-exalta-retorno-e-importancia-de-lucas-dias-em-vitoria-do-brasil-sobre-os-eua/",
-   "medio": "Liga Nacional de Basquete",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "manchester united",
+   "tema": "premier league",
    "busquedas": "2000+",
-   "nota": "The games Carlos Baleba will miss as Mauricio Pochettino reveals huge injury blow",
-   "nota_url": "https://metro.co.uk/2026/11/27/games-carlos-baleba-will-miss-mauricio-pochettino-reveals-huge-injury-blow-29824852/",
-   "medio": "Metro.co.uk",
+   "nota": "Manchester United 0-4 Brentford, Leeds 3-0 Coventry, and more: football clockwatch – live",
+   "nota_url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
+   "medio": "The Guardian",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "posiciones de betis contra rayo vallecano",
-   "busquedas": "500+",
-   "nota": "🚨 Pellegrini makes 6 changes; Álvaro García returns: Betis-Rayo line-ups",
-   "nota_url": "https://sports.yahoo.com/soccer/articles/pellegrini-makes-6-changes-betis-114200432.html",
+   "tema": "edlp",
+   "busquedas": "100+",
+   "nota": "CONMEBOL projects a $70 million economic impact from the final in Montevideo",
+   "nota_url": "https://sportinsider.com.br/en/notas/conmebol-projects-a-70-million-economic-impact-from-the-final-in-montevideo/",
+   "medio": "Sport Insider",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "elche c. f. - atlético madrid",
+   "busquedas": "5000+",
+   "nota": "Neto vuelve a la titularidad ante un Atlético al que regresan Barrios, Giuliano y Hjulmand",
+   "nota_url": "https://www.infobae.com/espana/agencias/2026/11/28/neto-vuelve-a-la-titularidad-ante-un-atletico-al-que-regresan-barrios-giuliano-y-hjulmand/",
+   "medio": "Infobae",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "ipswich - aston villa",
+   "busquedas": "1000+",
+   "nota": "Why Alysson holds the key to prolonging Unai Emery streak in Ipswich vs Aston Villa",
+   "nota_url": "https://sports.yahoo.com/articles/why-alysson-holds-key-prolonging-121641626.html",
    "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "posiciones de hamburgo s.v. contra bayern",
+   "busquedas": "1000+",
+   "nota": "Kimmich sees red as Bayern Munich held, Paderborn thump Schalke",
+   "nota_url": "https://www.reuters.com/sports/soccer/kimmich-sees-red-bayern-munich-held-paderborn-thump-schalke-2026-11-28/",
+   "medio": "Reuters",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "torino - lazio",
+   "busquedas": "500+",
+   "nota": "Mostrano a Gennaro Gattuso in diretta le immagini del passato con Ignazio Abate: \"Mi fanno impressione\"",
+   "nota_url": "https://www.fanpage.it/sport/calcio/mostrano-a-gennaro-gattuso-in-diretta-le-immagini-del-passato-con-ignazio-abate-mi-fanno-impressione/",
+   "medio": "Fanpage",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "liga inglesa",
+   "busquedas": "100+",
+   "nota": "Pochettino rompió el silencio tras su complicado arranque en Manchester United",
+   "nota_url": "https://www.tycsports.com/premier-league/pochettino-manchester-united-rompio-el-silencio-id772992.html",
+   "medio": "TyC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "inglaterra - nueva zelanda",
+   "busquedas": "1000+",
+   "nota": "\"Estamos decepcionados\": Dave Rennie, head coach de los All Blacks, sobre la derrota con Inglaterra",
+   "nota_url": "https://www.espn.com.pa/rugby/nota/_/id/17564964/rugby-all-blacks-nations-championship-dave-rennie-final-inglaterra",
+   "medio": "ESPN Panamá",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "noche de los templos",
+   "busquedas": "100+",
+   "nota": "Zonas privadas y joyas históricas: los imperdibles de la Noche de los Templos, que se realizará el sábado en la ciudad",
+   "nota_url": "https://www.lanacion.com.ar/sociedad/zonas-privadas-joyas-historicas-y-coros-los-imperdibles-de-la-noche-de-los-templos-que-se-realizara-nid27112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   }
