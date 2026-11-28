@@ -1,15 +1,40 @@
 {
  "semana": "28 de noviembre de 2026",
  "fecha": "2026-11-28",
- "actualizado": "28/11 06:42",
+ "actualizado": "28/11 11:38",
  "items": {
+  "NACIONAL": {
+   "top3": [
+    {
+     "titulo": "La Iglesia, la ludopatía y el silencio de Kicillof",
+     "medio": "Bardeo (columnas de Manu Jove)",
+     "fecha": "28/11/2026",
+     "url": "https://bardeo.news/politica/la-iglesia--la-ludopatia-y-el-silencio-de-kicillof_a6b0adab8c34cf90c9cfb0c33"
+    },
+    {
+     "titulo": "¿Y si la crueldad empezó a pasar de moda?",
+     "medio": "Cenital - Off the record (Iván Schargrodsky)",
+     "fecha": "28/11/2026",
+     "url": "https://cenital.com/y-si-la-crueldad-empezo-a-pasar-de-moda/",
+     "tag": "También en Cenital - Sistema 2 (Pablo Ibáñez)"
+    }
+   ],
+   "imagen": []
+  },
   "CABA": {
    "top3": [
     {
-     "titulo": "Un amplio espectro opositor acercó posiciones y coincidió en armar un proyecto para ganarle a Milei en 2027",
-     "medio": "Infobae",
+     "titulo": "Presupuesto 2027 y suspensión de las PASO: el Gobierno convocó oficialmente a Sesiones Extraordinarias en el Congreso",
+     "medio": "El Destape",
      "fecha": "28/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/28/un-amplio-espectro-opositor-acerco-posiciones-y-coincidio-en-armar-un-proyecto-para-ganarle-a-milei-en-2027/",
+     "url": "https://www.eldestapeweb.com/politica/presupuesto-2027-suspension-paso-gobierno-convoco-oficialmente-sesiones-extraordinarias-congreso-2026112894813",
+     "tag": "Gestión · También en El Parlamentario"
+    },
+    {
+     "titulo": "Presupuesto 2027 San Francisco: Bernarte sigue a Llaryora con una rebaja tributaria y confronta con el relato fiscal de Milei Por Nicolás Albera",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/san-francisco-bernarte-sigue-llaryora-una-rebaja-tributaria-y-confronta-el-relato-fiscal-milei-n5428540",
      "tag": "Política"
     },
     {
@@ -20,11 +45,11 @@
      "tag": "Calendario electoral"
     },
     {
-     "titulo": "El Gobierno debió ordenar la política para los mercados y la inquietante duda que plantó Patricia Bullrich",
+     "titulo": "Un amplio espectro opositor acercó posiciones y coincidió en armar un proyecto para ganarle a Milei en 2027",
      "medio": "Infobae",
      "fecha": "28/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/28/el-gobierno-debio-ordenar-la-politica-para-los-mercados-y-la-inquietante-duda-que-planto-patricia-bullrich/",
-     "tag": "Gestión"
+     "url": "https://www.infobae.com/politica/2026/11/28/un-amplio-espectro-opositor-acerco-posiciones-y-coincidio-en-armar-un-proyecto-para-ganarle-a-milei-en-2027/",
+     "tag": "Política"
     },
     {
      "titulo": "Asoma otra disputa por el Presupuesto entre Bullrich y la Casa Rosada: los fondos universitarios en la mira",
@@ -32,6 +57,27 @@
      "fecha": "28/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/28/asoma-otra-disputa-por-el-presupuesto-entre-bullrich-y-la-casa-rosada-los-fondos-universitarios-en-la-mira/",
      "tag": "Política"
+    },
+    {
+     "titulo": "Combatiendo en capital Legislatura porteña: sin los votos para cerrar el IVC, LLA pide reformar la política de vivienda en la Ciudad Por Abigail Contreiras Martínez",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/legislatura-portena-los-votos-cerrar-el-ivc-lla-pide-reformar-la-politica-vivienda-la-ciudad-n5428550",
+     "tag": "Gestión"
+    },
+    {
+     "titulo": "COMBATIENDO EN CAPITAL Peronismo porteño: cuáles son las claves de la reforma que implementa el voto indirecto para la interna Por Francisco Basualdo",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/peronismo-porteno-cuales-son-las-claves-la-reforma-que-implementa-el-voto-indirecto-la-interna-n5428583",
+     "tag": "Política"
+    },
+    {
+     "titulo": "El Gobierno oficializó la convocatoria a sesiones extraordinarias en el Congreso: el temario que tratarán",
+     "medio": "Infobae",
+     "fecha": "28/11/2026",
+     "url": "https://www.infobae.com/politica/2026/11/28/el-gobierno-convoco-al-congreso-a-sesiones-extraordinarias-del-1-al-31-de-diciembre/",
+     "tag": "Calendario electoral"
     },
     {
      "titulo": "El Gobierno quedó muy lejos de las 90 leyes que había anunciado Milei y expuso su debilidad en el Congreso",
@@ -46,13 +92,46 @@
      "fecha": "28/11/2026",
      "url": "https://www.infobae.com/politica/2026/11/28/el-gobierno-arranca-diciembre-aferrado-al-programa-economico-y-haciendo-calculos-para-las-elecciones/",
      "tag": "Calendario electoral"
+    }
+   ],
+   "imagen": []
+  },
+  "Buenos Aires": {
+   "top3": [
+    {
+     "titulo": "Sectores de la oposición coquetearon con un gran frente anti Milei y llamaron a construir una alternativa común",
+     "medio": "Info Cielo",
+     "fecha": "28/11/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/sectores-de-la-oposicion-coquetearon-con-un-gran-frente-anti-milei-y-llamaron-a-construir-una-alternativa-comun"
     },
     {
-     "titulo": "Ogilvy, Caputo y la estrategia de la elusión: sin respuesta, se confunde la pregunta",
-     "medio": "Perfil",
+     "titulo": "Presupuesto 2027: El municipio de Brown contará 331 mil millones de pesos",
+     "medio": "El Termometro",
      "fecha": "28/11/2026",
-     "url": "https://www.perfil.com/columnistas/ogilvy-caputo-y-la-estrategia-de-la-elusion-sin-respuesta-se-confunde-la-pregunta-a2vWS2C2nwzE",
-     "tag": "Gestión"
+     "url": "https://eltermometroweb.com/2026/11/presupuesto-2027-el-municipio-de-brown-contara-331-mil-millones-de-pesos/"
+    },
+    {
+     "titulo": "Qué es y cómo funciona la “trampa italiana” que las casas de apuestas buscan colar en la Legislatura",
+     "medio": "Info Cielo",
+     "fecha": "28/11/2026",
+     "url": "https://www.infocielo.com/politica-y-economia/que-es-y-como-funciona-la-trampa-italiana-que-las-casas-de-apuestas-buscan-colar-en-la-legislatura"
+    }
+   ],
+   "imagen": []
+  },
+  "Catamarca": {
+   "top3": [
+    {
+     "titulo": "Recursos provinciales Catamarca enfrenta una fuerte caída de fondos nacionales equivalentes a toda su recaudación de Ingresos Brutos",
+     "medio": "El Ancasti",
+     "fecha": "28/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/catamarca-enfrenta-una-fuerte-caida-fondos-nacionales-equivalentes-toda-su-recaudacion-ingresos-brutos-n626967"
+    },
+    {
+     "titulo": "Investigan una operación vinculada al proyecto minero La Justicia pidió informes al Ministerio de Economía por la adhesión de Diablillos al RIGI",
+     "medio": "El Ancasti",
+     "fecha": "28/11/2026",
+     "url": "https://www.elancasti.com.ar/politica-y-economia/la-justicia-pidio-informes-al-ministerio-economia-la-adhesion-diablillos-al-rigi-n626966"
     }
    ],
    "imagen": []
@@ -60,16 +139,63 @@
   "Chubut": {
    "top3": [
     {
+     "titulo": "Malvinas: el Tribunal del Mar rechazó el pedido argentino para frenar la explotación petrolera",
+     "medio": "ADN Sur",
+     "fecha": "28/11/2026",
+     "url": "https://www.adnsur.com.ar/politica/malvinas--el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera_a6b0ac5770c00c3cae3e84e15",
+     "tag": "También en Diario Jornada, El Chubut"
+    },
+    {
      "titulo": "PJ Chubut: hubo \"debate fraterno\" pero la unidad debe esperar",
      "medio": "Diario Jornada",
      "fecha": "28/11/2026",
      "url": "https://www.diariojornada.com.ar/427860/politica/pj_chubut_hubo_debate_fraterno_pero_la_unidad_debe_esperar"
     },
     {
-     "titulo": "Se aprobó la Ley de Ludopatía: cómo impacta en Boca, River y más clubes",
-     "medio": "Diario Jornada",
+     "titulo": "Cumbre del PJ Chubut: sin definiciones, los precandidatos a gobernador volverán a reunirse",
+     "medio": "El Chubut",
      "fecha": "28/11/2026",
-     "url": "https://www.diariojornada.com.ar/427864/deportes/se_aprobo_la_ley_de_ludopatia_como_impacta_en_boca_river_y_mas_clubes"
+     "url": "https://www.elchubut.com.ar/regionales/2026-11-28-10-23-0-cumbre-del-pj-chubut-sin-definiciones-los-precandidatos-a-gobernador-volveran-a-reunirse"
+    }
+   ],
+   "imagen": []
+  },
+  "Córdoba": {
+   "top3": [
+    {
+     "titulo": "Presupuesto 2027 San Francisco: Bernarte sigue a Llaryora con una rebaja tributaria y confronta con el relato fiscal de Milei Por Nicolás Albera",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/san-francisco-bernarte-sigue-llaryora-una-rebaja-tributaria-y-confronta-el-relato-fiscal-milei-n5428540"
+    },
+    {
+     "titulo": "Discusión 2027 De Loredo promueve a Ferrero para la intendencia de Córdoba y agita la interna de la UCR Por Yanina Babiachuk",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/rodrigo-loredo-promueve-alejandra-ferrero-la-intendencia-cordoba-y-agita-la-interna-la-ucr-n5428502"
+    },
+    {
+     "titulo": "Economía. El Gobierno apunta a utilizar el swap con China para garantizar el pago de deuda en 2027",
+     "medio": "Cadena3",
+     "fecha": "28/11/2026",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/el-gobierno-apunta-a-utilizar-el-swap-con-china-para-garantizar-el-pago-de-deuda-en-2027_617438"
+    }
+   ],
+   "imagen": []
+  },
+  "Corrientes": {
+   "top3": [
+    {
+     "titulo": "Milei acordó con Paraguay avanzar con una nueva represa hidroeléctrica en Corrientes",
+     "medio": "El Litoral",
+     "fecha": "28/11/2026",
+     "url": "https://www.ellitoral.com.ar/sociedad/2026-11-28-10-31-0-milei-acordo-avanzar-con-una-nueva-represa-hidroelectrica-en-corrientes"
+    },
+    {
+     "titulo": "Mujeres Radicales de Corrientes participaron del Encuentro Nacional en Chubut",
+     "medio": "El Litoral",
+     "fecha": "28/11/2026",
+     "url": "https://www.ellitoral.com.ar/sociedad/2026-11-28-11-9-0-mujeres-radicales-de-corrientes-participaron-del-encuentro-nacional-en-chubut"
     }
    ],
    "imagen": []
@@ -77,10 +203,24 @@
   "Entre Ríos": {
    "top3": [
     {
-     "titulo": "Argentina y Paraguay vuelven a poner en agenda la construcción de dos represas sobre el río Paraná",
-     "medio": "Infobae",
+     "titulo": "Frigerio habilitó la conexión del gasoducto productivo en Los Conquistadores",
+     "medio": "El Once",
      "fecha": "28/11/2026",
-     "url": "https://www.infobae.com/politica/2026/11/28/argentina-y-paraguay-vuelven-a-poner-en-agenda-la-construccion-de-dos-represas-sobre-el-rio-parana/"
+     "url": "https://www.elonce.com/politica/frigerio-habilito-la-conexion-del-gasoducto-productivo-en-los-conquistadores.htm",
+     "tag": "También en UNO ER"
+    },
+    {
+     "titulo": "Malvinas: el Tribunal del Mar rechazó el pedido argentino para frenar la explotación petrolera",
+     "medio": "El Once",
+     "fecha": "28/11/2026",
+     "url": "https://www.elonce.com/politica/malvinas-el-tribunal-del-mar-rechazo-el-pedido-argentino-para-frenar-la-explotacion-petrolera.htm",
+     "tag": "También en AFP Digital"
+    },
+    {
+     "titulo": "El Gobierno convocó al Congreso a sesiones extraordinarias con una agenda de 11 temas",
+     "medio": "AFP Digital",
+     "fecha": "28/11/2026",
+     "url": "https://www.apfdigital.com.ar/noticias/2026/11/28/481101-el-gobierno-convoco-al-congreso-a-sesiones-extraordinarias-con-una-agenda-de-11-temas"
     }
    ],
    "imagen": []
@@ -88,22 +228,34 @@
   "Jujuy": {
    "top3": [
     {
-     "titulo": "Las elecciones de 2027 explican casi la mitad del riesgo país y hay dudas por la asistencia externa",
-     "medio": "Jujuy al día",
+     "titulo": "El Gobierno cuestionó el fallo del Tribunal del Mar por Malvinas y anunció nuevas medidas contra la explotación petrolera",
+     "medio": "Somos Jujuy",
      "fecha": "28/11/2026",
-     "url": "https://www.jujuyaldia.com.ar/2026/11/28/las-elecciones-de-2027-explican-casi-la-mitad-del-riesgo-pais-y-hay-dudas-por-la-asistencia-externa/"
+     "url": "https://www.somosjujuy.com.ar/politica/el-gobierno-cuestiono-fallo-tribunal-mar-malvinas-anuncio-nuevas-medidas-explotacion-petrolera-n127892"
     },
     {
-     "titulo": "El Fresu pasó por Jujuy y llamó a profundizar la lucha",
+     "titulo": "Sadir recibió un reconocimiento por su liderazgo y compromiso con la integración regional",
+     "medio": "Prensa oficial de Jujuy",
+     "fecha": "28/11/2026",
+     "url": "https://prensa.jujuy.gob.ar/gobierno-jujuy/sadir-recibio-un-reconocimiento-su-liderazgo-y-compromiso-la-integracion-regional-n126161"
+    },
+    {
+     "titulo": "El Gobierno convocó a sesiones extraordinarias",
      "medio": "El Tribuno",
      "fecha": "28/11/2026",
-     "url": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-15-0-el-fresu-paso-por-jujuy-y-llamo-a-profundizar-la-lucha"
+     "url": "https://eltribunodejujuy.com/nacionales/2026-11-28-9-41-0-el-gobierno-convoco-a-sesiones-extraordinarias"
     }
    ],
    "imagen": []
   },
   "La Pampa": {
    "top3": [
+    {
+     "titulo": "DISCUSIÓN 2027 Ziliotto cambia el chip electoral y el peronismo de La Pampa muestra unidad en General Pico Por Juan Pablo Gavazza",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/la-pampa-ziliotto-cambia-el-chip-electoral-y-el-peronismo-muestra-unidad-general-pico-n5428582"
+    },
     {
      "titulo": "Elecciones: Ziliotto no descartó que el PJ vaya a internas",
      "medio": "La Arena",
@@ -122,22 +274,57 @@
   "La Rioja": {
    "top3": [
     {
+     "titulo": "El Tribunal del Mar rechazó por 18 votos contra 3 el pedido argentino para frenar la explotación petrolera en Malvinas",
+     "medio": "Nueva Rioja",
+     "fecha": "28/11/2026",
+     "url": "https://nuevarioja.com.ar/politica/el-tribunal-del-mar-rechazo-por-18-votos-contra-3-el-pedido-argentino-para-frenar-la-explotacion-petrolera-en-malvinas.htm"
+    },
+    {
      "titulo": "Puma cerró su fábrica en Chamical y despidió a 50 trabajadores",
      "medio": "Nueva Rioja",
      "fecha": "28/11/2026",
      "url": "https://nuevarioja.com.ar/politica/puma-cerro-su-fabrica-en-chamical-y-despidio-a-50-trabajadores.htm"
+    }
+   ],
+   "imagen": []
+  },
+  "Mendoza": {
+   "top3": [
+    {
+     "titulo": "Tras el revés por Malvinas, Milei apura al Congreso por una ley clave",
+     "medio": "Mendoza Post",
+     "fecha": "28/11/2026",
+     "url": "https://www.mendozapost.com/politica/tras-el-reves-por-malvinas-milei-apura-al-congreso-para-que-sancione-una-ley-clave-6719/"
     },
     {
-     "titulo": "El dólar detuvo su carrera alcista y bajó el Riesgo País",
-     "medio": "Nueva Rioja",
+     "titulo": "El Régimen Penal Juvenil suma instalaciones en Mendoza para alojar menores imputados por delitos federales",
+     "medio": "Diario UNO - MDZ",
      "fecha": "28/11/2026",
-     "url": "https://nuevarioja.com.ar/politica/el-dolar-detuvo-su-carrera-alcista-y-bajo-el-riesgo-pais.htm"
+     "url": "https://www.diariouno.com.ar/politica/el-regimen-penal-juvenil-suma-instalaciones-mendoza-alojar-menores-imputados-delitos-federales-n1620468"
+    },
+    {
+     "titulo": "Valle de Uco: Cornejo anunció 46 obras por más de $240.000 millones",
+     "medio": "Mendoza Post",
+     "fecha": "28/11/2026",
+     "url": "https://www.mendozapost.com/politica/valle-de-uco-cornejo-anuncio-46-obras-por-mas-de-240-000-millones-8221/"
     }
    ],
    "imagen": []
   },
   "Misiones": {
    "top3": [
+    {
+     "titulo": "Presupuesto, PASO y Ley Malvinas: los once temas que el Congreso debatirá en extraordinarias",
+     "medio": "Primera Edición",
+     "fecha": "28/11/2026",
+     "url": "https://www.primeraedicion.com.ar/nota/101164460/sesiones-extraordinarias-diciembre-2026-congreso-once-proyectos/"
+    },
+    {
+     "titulo": "SE PICÓ Misiones: Arjol acusa a Stelatto de usar el debate por las cámaras de la policía para \"apretar al gobernador\" Por Lucio Di Giuseppe",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/misiones-arjol-acusa-stelatto-usar-el-debate-las-camaras-la-policia-apretar-al-gobernador-n5428551"
+    },
     {
      "titulo": "Tokio y Capri se metieron en la final y clasificaron a la Liga Federal 2027",
      "medio": "El Territorio",
@@ -147,26 +334,50 @@
    ],
    "imagen": []
   },
+  "Neuquén": {
+   "top3": [
+    {
+     "titulo": "Neuquén: Figueroa busca conquistar San Martín de los Andes con un candidato sin pasado político",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/neuquen-figueroa-busca-conquistar-san-martin-los-andes-un-candidato-pasado-politico-n5428570"
+    },
+    {
+     "titulo": "Infraestructura educativa Ya está en marcha el nuevo SUM para la EPET Nº 1 de Cutral Co",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "28/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/28/267963-ya-esta-en-marcha-el-nuevo-sum-para-la-epet-n-1-de-cutral-co"
+    },
+    {
+     "titulo": "Educación y mujeres Figueroa destacó la presencia territorial de las políticas del Estado provincial",
+     "medio": "Prensa oficial de Neuquén",
+     "fecha": "28/11/2026",
+     "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/28/268044-figueroa-destaco-la-presencia-territorial-de-las-politicas-del-estado-provincial"
+    }
+   ],
+   "imagen": []
+  },
   "Río Negro": {
    "top3": [
     {
-     "titulo": "La CEB abastecerá con energía solar a uno de los grandes consumidores de Bariloche",
+     "titulo": "Sesiones extraordinarias: el Gobierno confirmó 11 proyectos para debatir en diciembre, incluido el Presupuesto 2027",
      "medio": "Diario Rio Negro",
      "fecha": "28/11/2026",
-     "url": "https://www.rionegro.com.ar/politica/la-ceb-abastecera-parte-del-consumo-electrico-de-la-planta-depuradora-con-energia-solar/"
+     "url": "https://www.rionegro.com.ar/politica/sesiones-extraordinarias-el-gobierno-confirmo-11-proyectos-para-debatir-en-diciembre-incluido-el-presupuesto-2027-4817411/"
     },
     {
-     "titulo": "Radisson Blu Bariloche: por qué maravilla tanto este hotel frente al Nahuel Huapi",
-     "medio": "Diario Rio Negro",
+     "titulo": "VMOS: trabajo rionegrino y tecnología para llevar el petróleo al mundo",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "28/11/2026",
-     "url": "https://www.rionegro.com.ar/hoteles-y-cabanas/voy-turismo/radisson-blu-bariloche-por-que-maravilla-tanto-este-hotel-frente-al-nahuel-huapi-4815300/"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63176/vmos-trabajo-rionegrino-y-tecnologia-para-llevar-el-petroleo-al-mundo",
+     "tag": "También en AN Roca, LCR y 1 más"
     },
     {
-     "titulo": "Estos signos del zodiaco deben prestar atención a quien dejan entrar a sus vidas",
-     "medio": "AN Roca",
+     "titulo": "Dina Huapi: Weretilneck recorrió las obras del nuevo hospital y el Plan Director de Agua",
+     "medio": "Prensa oficial de Río Negro",
      "fecha": "28/11/2026",
-     "url": "https://www.anroca.com.ar/noticias/2026/11/28/234678-estos-signos-del-zodiaco-deben-prestar-atencion-a-quien-dejan-entrar-a-sus-vidas",
-     "tag": "También en Noticias Net"
+     "url": "https://prensa.rionegro.gov.ar/articulo/63135/dina-huapi-weretilneck-recorrio-las-obras-del-nuevo-hospital-y-el-plan-director-de-agua",
+     "tag": "También en AN Roca, LCR y 1 más"
     }
    ],
    "imagen": []
@@ -180,16 +391,16 @@
      "url": "https://www.eltribuno.com/salta/2026-11-28-0-0-0-el-pj-de-salta-comienza-a-definir-su-estrategia-electoral-para-2027"
     },
     {
+     "titulo": "Salta: Farfán le puso fecha a la definición del acuerdo de la UCR con Sáenz Por Maira López",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/salta-soledad-farfan-le-puso-fecha-la-definicion-del-acuerdo-la-ucr-gustavo-saenz-n5428495"
+    },
+    {
      "titulo": "Presupuesto: la puja por fondos universitarios sigue abierta",
      "medio": "El Tribuno",
      "fecha": "28/11/2026",
      "url": "https://www.eltribuno.com/nacionales/2026-11-28-0-0-0-presupuesto-la-puja-por-fondos-universitarios-sigue-abierta"
-    },
-    {
-     "titulo": "Con asesoramiento para vecinos, “Estado Presente” llega hoy al barrio San Rafael de San Lorenzo",
-     "medio": "Prensa oficial de Salta",
-     "fecha": "28/11/2026",
-     "url": "https://www.salta.gob.ar/prensa/noticias/con-asesoramiento-para-vecinos-estado-presente-llega-hoy-al-barrio-san-rafael-de-san-lorenzo-111289"
     }
    ],
    "imagen": []
@@ -197,16 +408,23 @@
   "San Juan": {
    "top3": [
     {
-     "titulo": "River se mete en la pelea con Boca por un campeón del mundo para 2027",
-     "medio": "Huarpe",
+     "titulo": "El Gobierno oficializó el llamado a Sesiones Extraordinarias para tratar el Presupuesto 2027 y la suspensión de las PASO",
+     "medio": "0264 Noticias",
      "fecha": "28/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/river-y-boca-van-por-nicolas-tagliafico-en-el-proximo-mercado-de-pases-202611282200"
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/28/118866-el-gobierno-oficializo-el-llamado-a-sesiones-extraordinarias-para-tratar-el-presupuesto-2027-y-la-suspension-de-las-paso"
     },
     {
-     "titulo": "Tiago PZK sorprendió con su anuncio sobre La Joaqui: \"En 2027 voy a ser papá\"",
-     "medio": "Huarpe",
+     "titulo": "El Tribunal del Mar rechazó por 18 votos contra 3 el pedido argentino para frenar la explotación petrolera en Malvinas",
+     "medio": "Tiempo de San Juan",
      "fecha": "28/11/2026",
-     "url": "https://www.diariohuarpe.com/nota/tiago-pzk-sorprendio-con-su-anuncio-sobre-la-joaqui-en-2027-voy-a-ser-papa-202611281220"
+     "url": "https://www.tiempodesanjuan.com/politica/el-tribunal-del-mar-rechazo-por-18-votos-contra-3-el-pedido-argentino-para-frenar-la-explotacion-petrolera-en-malvinas_1795867856",
+     "tag": "También en 0264 Noticias, Diario de Cuyo y 1 más"
+    },
+    {
+     "titulo": "Agenda legislativa Milei convocó a extraordinarias con 11 proyectos y Presupuesto 2027",
+     "medio": "El Zonda",
+     "fecha": "28/11/2026",
+     "url": "https://www.diarioelzondasj.com.ar/nacionales/milei-convoco-a-extraordinarias-con-11-proyectos-y-presupuesto-2027"
     }
    ],
    "imagen": []
@@ -225,11 +443,23 @@
   "Santa Cruz": {
    "top3": [
     {
+     "titulo": "Sesiones Extraordinarias El Gobierno oficializó el llamado a para tratar Presupuesto y PASO",
+     "medio": "Tiempo Sur",
+     "fecha": "28/11/2026",
+     "url": "https://www.tiemposur.com.ar/info-general/el-gobierno-oficializo-el-llamado-a-para-tratar-presupuesto-y-paso"
+    },
+    {
      "titulo": "El Gobierno reemplazará al interventor de los medios públicos y designó a Fernando Subirats",
      "medio": "El Diario Nuevo Día",
      "fecha": "28/11/2026",
      "url": "https://www.eldiarionuevodia.com.ar/nacionales/el-gobierno-reemplazara-al-interventor-de-los-medios-publicos-y-designo-a-fernando-subirats-233/",
      "tag": "También en La Opinión Austral"
+    },
+    {
+     "titulo": "El Gobierno convocó al Congreso a sesiones extraordinarias: qué proyectos se debatirán en diciembre",
+     "medio": "La Opinión Austral",
+     "fecha": "28/11/2026",
+     "url": "https://laopinionaustral.com.ar/argentina/el-gobierno-convoco-al-congreso-a-sesiones-extraordinarias-que-proyectos-se-debatiran-en-diciembre-737068.html"
     }
    ],
    "imagen": []
@@ -237,10 +467,22 @@
   "Santa Fe": {
    "top3": [
     {
-     "titulo": "La salvación del Riesgo Kuka",
-     "medio": "La Capital",
+     "titulo": "TEMPORADA DE ROSCA Quiénes integran el quinteto del peronismo que le pone el cuerpo a la visita de Kicillof a Santa Fe Por Agustín Vissio",
+     "medio": "Letra P",
      "fecha": "28/11/2026",
-     "url": "https://www.lacapital.com.ar/politica/la-salvacion-del-riesgo-kuka-n10294623.html"
+     "url": "https://www.letrap.com.ar/politica/santa-fe-quienes-integran-el-quinteto-del-peronismo-que-le-pone-el-cuerpo-la-visita-axel-kicillof-n5428569"
+    },
+    {
+     "titulo": "ES EL MODELO Santa Fe: con la recaudación por el piso, los municipios buscan de dónde rascar para pagar aguinaldos Por Ramiro Porchietti",
+     "medio": "Letra P",
+     "fecha": "28/11/2026",
+     "url": "https://www.letrap.com.ar/politica/santa-fe-la-recaudacion-el-piso-los-municipios-buscan-donde-rascar-pagar-aguinaldos-n5428527"
+    },
+    {
+     "titulo": "Pullaro: “En este gobierno, obra que se empieza, obra que se termina”",
+     "medio": "Agencia Fe",
+     "fecha": "28/11/2026",
+     "url": "https://agenciafe.com/nota/404518-Pullaro-En-este-gobierno-obra-que-se-empieza-obra-que-se-termina"
     }
    ],
    "imagen": []
@@ -255,11 +497,40 @@
      "tag": "También en Diario Panorama, El Liberal y 1 más"
     },
     {
-     "titulo": "Bomberos voluntarios desfilaron por la ciudad por su 50º aniversario",
-     "medio": "El Liberal",
+     "titulo": "Milei prepara su estrategia electoral para 2027 y descarta cambios en el rumbo económico",
+     "medio": "Diario Panorama",
      "fecha": "28/11/2026",
-     "url": "https://www.elliberal.com.ar/nota/99311/2026/11/bomberos-voluntarios-desfilaron-por-la-ciudad-por-su-50-aniversario",
-     "tag": "También en Nuevo Diario Web"
+     "url": "https://www.diariopanorama.com/noticia/574449/milei-prepara-estrategia-electoral-para-2027-descarta-cambios-rumbo-economico"
+    },
+    {
+     "titulo": "Malvinas: el Gobierno respondió al fallo del Tribunal del Mar y aseguró que \"no es la última palabra\"",
+     "medio": "Diario Panorama",
+     "fecha": "28/11/2026",
+     "url": "https://www.diariopanorama.com/noticia/574461/malvinas-gobierno-respondio-al-fallo-tribunal-mar-aseguro-no-ultima-palabra",
+     "tag": "También en El Liberal, Info del Estero"
+    }
+   ],
+   "imagen": []
+  },
+  "Tucumán": {
+   "top3": [
+    {
+     "titulo": "El Gobierno convocó a sesiones extraordinarias: qué proyectos buscará aprobar el Congreso en diciembre",
+     "medio": "La Gaceta - Tucumán",
+     "fecha": "28/11/2026",
+     "url": "https://www.lagaceta.com.ar/nota/1164695/politica/gobierno-convoco-sesiones-extraordinarias-proyectos-buscara-aprobar-congreso-diciembre.html"
+    },
+    {
+     "titulo": "El Gobierno convocó a Extraordinarias por Presupuesto 2027 y las PASO",
+     "medio": "LV12",
+     "fecha": "28/11/2026",
+     "url": "https://www.lv12.com.ar/presupuesto/el-gobierno-convoco-extraordinarias-presupuesto-2027-y-las-paso-n207302"
+    },
+    {
+     "titulo": "La reforma de la ley de Biocombustibles será incluida en las sesiones extraordinarias",
+     "medio": "Los Primeros",
+     "fecha": "28/11/2026",
+     "url": "https://www.losprimeros.tv/politica/la-reforma-de-la-ley-de-biocombustibles-sera-incluida-en-las-sesiones-extraordinarias_a6b0aa94ec34cf90c9cf90ea5"
     }
    ],
    "imagen": []
@@ -275,21 +546,17 @@
   "https://www.santafe.gov.ar/noticias",
   "https://www.tucuman.gob.ar/noticias/",
   "https://www.utdt.edu/ver_contenido.php?id_contenido=1439&id_item_menu=2964",
-  "https://eltermometroweb.com/",
   "https://grupolaprovincia.com/",
   "https://www.elesquiu.com/",
   "https://www.diariochaco.com/",
   "https://www.diarionorte.com/",
   "https://lmdiario.com.ar/",
   "https://www.elcomercial.com.ar/",
-  "https://www.xn--lamaanaonline-lkb.com.ar/",
   "https://www.elindependiente.com.ar/",
   "https://www.fenix951.com.ar/",
-  "https://riojavirtual.com.ar/",
   "https://www.mdzol.com/mendoza",
   "https://misionescuatro.com/",
   "https://www.minutoneuquen.com/",
-  "https://www.cuarto.com.ar/",
   "https://elexpresodesalta.com.ar/",
   "https://todosalta.com/",
   "https://elchorrillero.com/",
