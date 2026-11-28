@@ -1,13 +1,7 @@
 {
- "actualizado": "27/11 20:41",
+ "actualizado": "27/11 21:48",
  "fuentes_con_error": [],
  "tendencias_x": [
-  {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
-   "relevante": false,
-   "temas": []
-  },
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
@@ -15,9 +9,9 @@
    "temas": []
   },
   {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
+   "tema": "Atlanta",
+   "url": "https://x.com/search?q=Atlanta",
+   "relevante": false,
    "temas": []
   },
   {
@@ -27,8 +21,32 @@
    "temas": []
   },
   {
+   "tema": "#SolPersonajeDelAÃ±o",
+   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Senado",
+   "url": "https://x.com/search?q=Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
    "tema": "Black Friday",
    "url": "https://x.com/search?q=Black%20Friday",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "LPF Play",
+   "url": "https://x.com/search?q=LPF%20Play",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Sainz",
+   "url": "https://x.com/search?q=Sainz",
    "relevante": false,
    "temas": []
   },
@@ -42,18 +60,6 @@
    "tema": "Presupuesto 2027",
    "url": "https://x.com/search?q=Presupuesto%202027",
    "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Sainz",
-   "url": "https://x.com/search?q=Sainz",
-   "relevante": false,
    "temas": []
   },
   {
@@ -81,26 +87,8 @@
    "temas": []
   },
   {
-   "tema": "Fofana",
-   "url": "https://x.com/search?q=Fofana",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Thanksgiving",
-   "url": "https://x.com/search?q=Thanksgiving",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Xabi Alonso",
-   "url": "https://x.com/search?q=Xabi%20Alonso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#BuenViernes",
-   "url": "https://x.com/search?q=%23BuenViernes",
+   "tema": "Chelsea",
+   "url": "https://x.com/search?q=Chelsea",
    "relevante": false,
    "temas": []
   },
@@ -111,106 +99,118 @@
    "temas": []
   },
   {
+   "tema": "Thanksgiving",
+   "url": "https://x.com/search?q=Thanksgiving",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "Quilmes",
    "url": "https://x.com/search?q=Quilmes",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "$7.000 OFF",
-   "url": "https://x.com/search?q=%247.000%20OFF",
+   "tema": "#BuenViernes",
+   "url": "https://x.com/search?q=%23BuenViernes",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Anuel",
+   "url": "https://x.com/search?q=Anuel",
    "relevante": false,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "nicolás russo",
-   "busquedas": "100+",
-   "nota": "Efecto 'Casas de Apuestas': Nicolás Russo abrió fuego sobre la TV",
-   "nota_url": "https://urgente24.com/golazo24/efecto-casas-apuestas-nicolas-russo-abrio-fuego-la-tv-n637652",
-   "medio": "Urgente24",
+   "tema": "taiwán",
+   "busquedas": "500+",
+   "nota": "Packed rallies close Taiwan election campaign; China sends warplanes",
+   "nota_url": "https://www.reuters.com/world/china/taiwan-candidates-campaign-key-local-elections-final-day-2026-11-27/",
+   "medio": "Reuters",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "patricia bullrich",
+   "tema": "bronson reed",
+   "busquedas": "200+",
+   "nota": "Bronson Reed dies at 38-years-old",
+   "nota_url": "https://www.cagesideseats.com/wwe/488964/bronson-reed-dies-38-years-old-wwe",
+   "medio": "Cageside Seats",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luca marcogiuseppe",
    "busquedas": "100+",
-   "nota": "Encuesta: cómo ven los argentinos una posible ruptura entre Patricia Bullrich con La Libertad Avanza",
-   "nota_url": "https://www.perfil.com/politica/encuesta-como-ven-los-argentinos-una-posible-ruptura-entre-patricia-bullrich-con-la-libertad-avanza-arOp29E3Guhh",
-   "medio": "Perfil",
+   "nota": "Oficial. Trabajó con Tevez en Talleres y ahora vuelve a dirigir en Primera",
+   "nota_url": "https://www.lavoz.com.ar/deportes/trabajo-tevez-talleres-ahora-vuelve-dirigir-primera_0_cBY35QECy4.html",
+   "medio": "La Voz del Interior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "columbus crew - inter miami",
+   "busquedas": "5000+",
+   "nota": "Columbus Crew vs Inter Miami, con Lionel Messi, EN VIVO, por los playoffs de la MLS: a qué hora juegan, formaciones y cómo ver el partido",
+   "nota_url": "https://www.clarin.com/deportes/columbus-crew-vs-inter-miami-lionel-messi-vivo-playoffs-mls-hora-juegan-formaciones-ver-partido_0_QYV4BejhRP.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "aire de santa fe",
+   "busquedas": "100+",
+   "nota": "Toma de rehenes en una óptica de la ciudad de Santo Tomé: un hombre fue trasladado por la policía",
+   "nota_url": "https://santafe.mitelefe.com/policiales/toma-de-rehenes-en-una-optica-de-la-ciudad-de-santo-tome-un-hombre-fue-trasladado-por-la-policia-pid2573293",
+   "medio": "Telefe",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "deportivo morón - colón",
+   "tema": "b nacional",
+   "busquedas": "1000+",
+   "nota": "Agenda y arbitrajes para las próximas jornadas de Primera Nacional, Primera B y Primera C",
+   "nota_url": "https://www.afa.com.ar/es/posts/agenda-y-arbitrajes-para-las-proximas-jornadas-de-primera-nacional-primera-b-y-primera-c",
+   "medio": "AFA",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "racing - liverpool",
+   "busquedas": "100+",
+   "nota": "Cuándo juegan Racing vs. Liverpool por la semifinal de la Liga AUF Uruguaya: equipo, fecha, hora y TV en vivo",
+   "nota_url": "https://www.espn.com.ar/futbol/uruguay/nota/_/id/17531877/racing-vs-liverpool-semifinal-liga-auf-uruguaya-equipo-fecha-hora-tv-en-vivo",
+   "medio": "ESPN Argentina",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "fluminense vs",
+   "busquedas": "100+",
+   "nota": "Arthur Jorge has key players back but likely absentees against Flu",
+   "nota_url": "https://sports.yahoo.com/soccer/articles/arthur-jorge-key-players-back-193000408.html",
+   "medio": "Yahoo Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "detención",
+   "busquedas": "100+",
+   "nota": "Crimen en las 920 Viviendas: hay fecha para resolver el pedido de prisión preventiva para Dana Vega",
+   "nota_url": "https://inforama.com.ar/actualidad/2026/11/25/crimen-en-las-920-viviendas-hay-fecha-para-resolver-el-pedido-de-prision-preventiva-para-dana-vega/",
+   "medio": "Diario Inforama - Catamarca",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "luis ventura",
    "busquedas": "500+",
-   "nota": "Morón vs Colón, en vivo, por la Primera Nacional: minuto a minuto y qué canal pasa el partido por TV",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/27/moron-vs-colon-en-vivo-por-la-llave-2-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "transporte público",
-   "busquedas": "100+",
-   "nota": "Abrieron los sobres de la licitación de transporte público de pasajeros",
-   "nota_url": "https://semanarioactualidad.com.ar/abrieron-los-sobres-de-la-licitacion-de-transporte-publico-de-pasajeros/",
-   "medio": "Semanario Actualidad",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "atlanta vs",
-   "busquedas": "200+",
-   "nota": "Ciudad de Bolívar irá por la remontada frente a Atlanta",
-   "nota_url": "https://www.soloascenso.com.ar/notas/ciudad-de-bolivar/ciudad-de-bolivar-ira-por-la-remontada-frente-a-atlanta/234729",
-   "medio": "Solo Ascenso",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "emanuel emegha",
-   "busquedas": "100+",
-   "nota": "Analysis: Glasner rewarded for attacking team selection",
-   "nota_url": "https://www.aol.com/articles/analysis-glasner-rewarded-attacking-team-223745000.html",
-   "medio": "AOL.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "sportivo luqueño - olimpia",
-   "busquedas": "2000+",
-   "nota": "El campeón se presenta en Itauguá",
-   "nota_url": "https://www.lanacion.com.py/futboledicion-impresa/2026/11/27/el-campeon-se-presenta-en-itaugua/",
-   "medio": "La Nación",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "adam bareiro",
-   "busquedas": "100+",
-   "nota": "La emotiva carta de Adam Bareiro tras superar una larga lesión y volver a jugar en Boca: “Cada día valió la pena”",
-   "nota_url": "https://tn.com.ar/deportes/futbol/2026/11/27/la-emotiva-carta-de-adam-bareiro-tras-superar-una-larga-lesion-y-volver-a-jugar-en-boca-cada-dia-valio-la-pena/",
-   "medio": "TN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "banca pública",
-   "busquedas": "500+",
-   "nota": "Banco Provincia bajó las tasas de sus préstamos personales: cuánto costará una cuota de $2 millones",
-   "nota_url": "https://holasalta.com/post/banco-provincia-bajo-las-tasas-de-sus-prestamos-personales-cuanto-costara-una-cuota-de-2-millones/",
-   "medio": "HolaSalta Noticias",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "angelina jolie",
-   "busquedas": "200+",
-   "nota": "Who are Brad Pitt and Angelina Jolie now dating?",
-   "nota_url": "https://www.lbc.co.uk/article/who-brad-pitt-angelina-jolie-now-dating-5HjdnbG_2/",
-   "medio": "LBC",
+   "nota": "Luis Ventura fue internado de urgencia y suspendió su viaje a Miami",
+   "nota_url": "https://www.rionegro.com.ar/redes/luis-ventura-fue-internado-de-urgencia-y-suspendio-su-viaje-a-miami-4817213/",
+   "medio": "Diario Río Negro",
    "relevante": false,
    "temas": []
   }
