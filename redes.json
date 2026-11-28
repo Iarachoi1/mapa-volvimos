@@ -1,22 +1,10 @@
 {
- "actualizado": "28/11 02:48",
+ "actualizado": "28/11 03:52",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "Bonelli",
    "url": "https://x.com/search?q=Bonelli",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "ColÃ³n",
-   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -27,20 +15,14 @@
    "temas": []
   },
   {
-   "tema": "Inter Miami",
-   "url": "https://x.com/search?q=Inter%20Miami",
+   "tema": "Luka",
+   "url": "https://x.com/search?q=Luka",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Bonansea",
-   "url": "https://x.com/search?q=Bonansea",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Reaves",
-   "url": "https://x.com/search?q=Reaves",
+   "tema": "ColÃ³n",
+   "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
    "relevante": false,
    "temas": []
   },
@@ -51,20 +33,14 @@
    "temas": []
   },
   {
-   "tema": "maia",
-   "url": "https://x.com/search?q=maia",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "El Senado",
    "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "Luka",
-   "url": "https://x.com/search?q=Luka",
+   "tema": "maia",
+   "url": "https://x.com/search?q=maia",
    "relevante": false,
    "temas": []
   },
@@ -75,14 +51,26 @@
    "temas": []
   },
   {
-   "tema": "HOY JUEGA RIVER",
-   "url": "https://x.com/search?q=HOY%20JUEGA%20RIVER",
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "tema": "Reaves",
+   "url": "https://x.com/search?q=Reaves",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "#masterchefjunior",
+   "url": "https://x.com/search?q=%23masterchefjunior",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
    "relevante": false,
    "temas": []
   },
@@ -93,8 +81,8 @@
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Bonansea",
+   "url": "https://x.com/search?q=Bonansea",
    "relevante": false,
    "temas": []
   },
@@ -121,9 +109,39 @@
    "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
+  },
+  {
+   "tema": "Lakers",
+   "url": "https://x.com/search?q=Lakers",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Quilmes",
+   "url": "https://x.com/search?q=Quilmes",
+   "relevante": false,
+   "temas": []
   }
  ],
  "google": [
+  {
+   "tema": "bronson reed que le pasó",
+   "busquedas": "100+",
+   "nota": "Muere Bronson Reed, luchador de la WWE, a los 38 años de edad",
+   "nota_url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/27/muere-bronson-reed-luchador-de-wwe-a-los-38-anos.shtml",
+   "medio": "BioBioChile",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "meteorología",
+   "busquedas": "500+",
+   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este viernes 27 de noviembre",
+   "nota_url": "https://www.pagina12.com.ar/2026/11/27/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-viernes-27-de-noviembre/",
+   "medio": "Página|12",
+   "relevante": false,
+   "temas": []
+  },
   {
    "tema": "es mi sueño",
    "busquedas": "2000+",
@@ -134,11 +152,20 @@
    "temas": []
   },
   {
+   "tema": "luis ventura internado",
+   "busquedas": "2000+",
+   "nota": "Luis Ventura se descompuso cuando iba rumbo a Miami: debió ser internado de urgencia y hay preocupación",
+   "nota_url": "https://www.eltrecetv.com.ar/noticias/2026/11/27/luis-ventura-se-descompuso-cuando-iba-rumbo-a-miami-debio-ser-internado-de-urgencia-y-hay-preocupacion/",
+   "medio": "eltrecetv",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "jazz - nuggets",
    "busquedas": "200+",
-   "nota": "Preview: Can Utah snap a 3 game losing streak against the Denver Nuggets?",
-   "nota_url": "https://sports.yahoo.com/nba/articles/preview-utah-snap-3-game-000527089.html",
-   "medio": "Yahoo Sports",
+   "nota": "Nikola Jokić had a 17/9/15 performance in win",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-28/nikola-jokic-had-a-17-9-15-performance-in-win",
+   "medio": "NBC Sports",
    "relevante": false,
    "temas": []
   },
@@ -154,9 +181,9 @@
   {
    "tema": "barco pesquero",
    "busquedas": "100+",
-   "nota": "Puerto de Manta: acumulación de gases por pescado en descomposición (podrido) causó la muerte de cuatro personas",
-   "nota_url": "https://www.eldiario.ec/seguridad/puerto-de-manta-acumulacion-de-gases-por-pescado-en-descomposicion-podrido-causo-la-muerte-de-cuatro-personas-26112026/",
-   "medio": "El Diario Ecuador",
+   "nota": "Corea del Sur repatria a seis norcoreanos rescatados de una embarcación a la deriva",
+   "nota_url": "https://es.marketscreener.com/noticias/corea-del-sur-repatria-a-seis-norcoreanos-rescatados-de-una-embarcaci-n-a-la-deriva-ce7851d9dd89f723",
+   "medio": "MarketScreener España",
    "relevante": false,
    "temas": []
   },
@@ -172,9 +199,9 @@
   {
    "tema": "trail blazers - warriors",
    "busquedas": "1000+",
-   "nota": "Surging Trail Blazers host Warriors in key NBA Cup matchup",
-   "nota_url": "https://www.cbssports.com/nba/news/surging-trail-blazers-host-warriors-in-key-nba-cup-matchup/",
-   "medio": "CBS Sports",
+   "nota": "Game 19 wrap: Dubs get nuked early in Portland, come back to make it a mere blowout; road calamities continue; Dubs out of NBA Cup",
+   "nota_url": "https://dubnationhq.com/p/game-19-wrap-no-spoiler-title-eef",
+   "medio": "Dub Nation HQ",
    "relevante": false,
    "temas": []
   },
@@ -184,33 +211,6 @@
    "nota": "La tajante opinión de Mario Pergolini al escuchar el plan de Evelyn Botto para su primer aniversario con Fede Bal",
    "nota_url": "https://www.infobae.com/teleshow/2026/11/27/la-tajante-opinion-de-mario-pergolini-al-escuchar-el-plan-de-evelyn-botto-para-su-primer-aniversario-con-fede-bal/",
    "medio": "Infobae",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "spurs - lakers",
-   "busquedas": "2000+",
-   "nota": "How Can Spurs Advance to Cup Knockout Rounds?",
-   "nota_url": "https://www.si.com/nba/spurs/onsi/can-san-antonio-spurs-clinch-nba-cup-group-possible-scenarios-los-angeles-lakers",
-   "medio": "Sports Illustrated",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "catalina gorostidi",
-   "busquedas": "500+",
-   "nota": "Catalina Gorostidi mostró sus nuevos retoques estéticos y la fulminaron en las redes: \"Más te tocás, más envejecés\"",
-   "nota_url": "https://www.c5n.com/ratingcero/catalina-gorostidi-mostro-sus-nuevos-retoques-esteticos-y-la-fulminaron-las-redes-mas-te-tocas-mas-envejeces-n255506",
-   "medio": "C5N",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - grizzlies",
-   "busquedas": "200+",
-   "nota": "Winning Grizzlies advance in NBA Cup",
-   "nota_url": "https://dailymemphian.com/section/sportsmemphis-grizzlies/article/68959/winning-grizzlies-advance-in-nba-cup",
-   "medio": "Daily Memphian",
    "relevante": false,
    "temas": []
   }
