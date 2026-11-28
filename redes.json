@@ -1,5 +1,5 @@
 {
- "actualizado": "28/11 07:41",
+ "actualizado": "28/11 08:39",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
@@ -33,14 +33,14 @@
    "temas": []
   },
   {
-   "tema": "Maia",
-   "url": "https://x.com/search?q=Maia",
+   "tema": "#BuenSabado",
+   "url": "https://x.com/search?q=%23BuenSabado",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "tema": "Maia",
+   "url": "https://x.com/search?q=Maia",
    "relevante": false,
    "temas": []
   },
@@ -51,38 +51,38 @@
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Black Friday",
    "url": "https://x.com/search?q=Black%20Friday",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Presupuesto 2027",
-   "url": "https://x.com/search?q=Presupuesto%202027",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Bonansea",
-   "url": "https://x.com/search?q=Bonansea",
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Senado",
-   "url": "https://x.com/search?q=Senado",
+   "tema": "bonansea",
+   "url": "https://x.com/search?q=bonansea",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
    "relevante": true,
    "temas": []
   },
   {
-   "tema": "#SolPersonajeDelAÃ±o",
-   "url": "https://x.com/search?q=%23SolPersonajeDelA%C3%83%C2%B1o",
+   "tema": "#solpersonajedelaÃ±o",
+   "url": "https://x.com/search?q=%23solpersonajedela%C3%83%C2%B1o",
    "relevante": false,
    "temas": []
   },
@@ -99,12 +99,6 @@
    "temas": []
   },
   {
-   "tema": "BCRA",
-   "url": "https://x.com/search?q=BCRA",
-   "relevante": false,
-   "temas": []
-  },
-  {
    "tema": "Lago",
    "url": "https://x.com/search?q=Lago",
    "relevante": false,
@@ -117,28 +111,52 @@
    "temas": []
   },
   {
-   "tema": "Chelsea",
-   "url": "https://x.com/search?q=Chelsea",
+   "tema": "BCRA",
+   "url": "https://x.com/search?q=BCRA",
    "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Presupuesto 2027",
+   "url": "https://x.com/search?q=Presupuesto%202027",
+   "relevante": true,
    "temas": []
   }
  ],
  "google": [
   {
-   "tema": "la nación",
-   "busquedas": "200+",
-   "nota": "Diario La Nación inició acciones legales contra plataformas de IA por usar sus notas",
-   "nota_url": "https://www.iprofesional.com/actualidad/470178-la-nacion-inicio-acciones-legales-contra-grandes-plataformas-de-ia-por-usar-sus-notas",
-   "medio": "iProfesional",
+   "tema": "pobreza",
+   "busquedas": "100+",
+   "nota": "Milei mejora pobreza pero empeora empleo: 12 millones menos pobres",
+   "nota_url": "https://mundoempresarial.ar/milei-mejora-pobreza-pero-empeora-empleo-12-millones-menos-pobres/",
+   "medio": "Mundo Empresarial AR",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "mclaren",
+   "busquedas": "100+",
+   "nota": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
+   "nota_url": "https://sports.yahoo.com/f1/articles/mclaren-flags-crucial-early-stop-100332762.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "guillermo francella",
+   "tema": "bichos de campo",
    "busquedas": "100+",
-   "nota": "Festival Fontanarrosa: Guillermo Francella y Luis Rubio abrieron la segunda edición en Rosario",
-   "nota_url": "https://www.clarin.com/cultura/festival-fontanarrosa-guillermo-francella-luis-rubio-abrieron-segunda-edicion-rosario_0_QClvdv9rRj.html",
-   "medio": "Clarin.com",
+   "nota": "¿La Unión Europea le abre una oportunidad a la soja argentina? El impacto del EUDR en el mercado; por Manuel Alvarado Ledesma",
+   "nota_url": "https://www.agrositio.com.ar/noticia/249489-la-union-europea-viene-a-darnos-una-mano-con-la-soja-por-manuel-alvarado-ledesma.html",
+   "medio": "Agrositio",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "la nación",
+   "busquedas": "200+",
+   "nota": "Difunden un audio del árbitro Luis Lobo Medina en el que pediría una coima al presidente de un club",
+   "nota_url": "https://www.lanacion.com.ar/deportes/futbol/difunden-un-audio-del-arbitro-luis-lobo-medina-en-el-que-pediria-una-coima-al-presidente-de-un-club-nid27112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
@@ -152,8 +170,17 @@
    "temas": []
   },
   {
-   "tema": "recesión",
+   "tema": "guillermo francella",
    "busquedas": "200+",
+   "nota": "Festival Fontanarrosa: Guillermo Francella y Luis Rubio abrieron la segunda edición en Rosario",
+   "nota_url": "https://www.clarin.com/cultura/festival-fontanarrosa-guillermo-francella-luis-rubio-abrieron-segunda-edicion-rosario_0_QClvdv9rRj.html",
+   "medio": "Clarin.com",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "recesión",
+   "busquedas": "500+",
    "nota": "La recuperación de la economía se hace esperar: por qué la actividad habría vuelto a retroceder en octubre",
    "nota_url": "https://www.clarin.com/economia/recuperacion-economia-hace-esperar-actividad-vuelto-retroceder-octubre_0_dfIHEsSoPb.html",
    "medio": "Clarin.com",
@@ -162,7 +189,7 @@
   },
   {
    "tema": "pro.cre.ar",
-   "busquedas": "100+",
+   "busquedas": "200+",
    "nota": "Una constructora de ex jugadores de fútbol se quedó con el predio del ex Procrear en Quilmes Oeste",
    "nota_url": "https://diario5dias.com.ar/noticia/Una-constructora-ex-jugadores-f%C3%BAtbol-se-qued%C3%B3-predio-Quilmes-Oeste",
    "medio": "diario5dias.com.ar",
@@ -170,47 +197,20 @@
    "temas": []
   },
   {
-   "tema": "ricky martin",
+   "tema": "frank darío kudelka",
    "busquedas": "100+",
-   "nota": "¡Orgullo latino! La estricta regla de Ricky Martin con sus hijos",
-   "nota_url": "https://saganoticias.com/entretenimiento/orgullo-latino-la-estricta-regla-de-ricky-martin-con-sus-hijos",
-   "medio": "Saga Noticias",
+   "nota": "La dirigencia negocia con Kudelka para que siga en Newell’s",
+   "nota_url": "https://www.conclusion.com.ar/deportes/la-dirigencia-negocia-con-kudelka-para-que-siga-en-newells/11/2026/",
+   "medio": "Diario Digital Conclusión",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "ley de reparación histórica para jubilados y pensionados",
-   "busquedas": "2000+",
-   "nota": "Jubilaciones: especialista advierte sobre noticias falsas en torno a la Ley de Reparación Histórica",
-   "nota_url": "https://chacodiapordia.com/jubilaciones-especialista-advierte-sobre-noticias-falsas-en-torno-a-la-ley-de-reparacion-historica/",
-   "medio": "CHACODIAPORDIA.COM",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "canal 13",
-   "busquedas": "200+",
-   "nota": "Llamativa ausencia de Mirtha Legrand en una foto promocional de El Trece que hizo explotar una interna",
-   "nota_url": "https://www.a24.com/primiciasya/llamativa-ausencia-mirtha-legrand-una-foto-promocional-el-trece-que-hizo-explotar-una-interna-n1620670",
-   "medio": "A24.com",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "bronson reed que le pasó",
-   "busquedas": "500+",
-   "nota": "¡Luto en la lucha libre mundial! Figura de WWE muere",
-   "nota_url": "https://www.tudn.com/mas-deportes/muere-el-luchador-de-la-wwe-jermaine-haley-por-complicaciones-de-salud",
-   "medio": "TUDN",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "meteorología",
-   "busquedas": "1000+",
-   "nota": "Clima en Buenos Aires: el pronóstico del tiempo para este sábado 28 de noviembre",
-   "nota_url": "https://www.pagina12.com.ar/2026/11/28/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-sabado-28-de-noviembre/",
-   "medio": "Página|12",
+   "tema": "ahorro",
+   "busquedas": "100+",
+   "nota": "No afloja la demanda de dólares: en octubre 1.700.000 personas compraron U$S 3.500 millones",
+   "nota_url": "https://www.clarin.com/economia/afloja-demanda-dolares-octubre-1700000-personas-compraron-us-3500-millones_0_HHiaWSIyRC.html",
+   "medio": "Clarin.com",
    "relevante": false,
    "temas": []
   }
