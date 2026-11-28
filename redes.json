@@ -1,22 +1,10 @@
 {
- "actualizado": "28/11 00:44",
+ "actualizado": "28/11 01:50",
  "fuentes_con_error": [],
  "tendencias_x": [
   {
    "tema": "ColÃ³n",
    "url": "https://x.com/search?q=Col%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "#MasterChefJunior",
-   "url": "https://x.com/search?q=%23MasterChefJunior",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Bonansea",
-   "url": "https://x.com/search?q=Bonansea",
    "relevante": false,
    "temas": []
   },
@@ -27,26 +15,8 @@
    "temas": []
   },
   {
-   "tema": "Lago",
-   "url": "https://x.com/search?q=Lago",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "MorÃ³n",
-   "url": "https://x.com/search?q=Mor%C3%83%C2%B3n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "El Senado",
-   "url": "https://x.com/search?q=El%20Senado",
-   "relevante": true,
-   "temas": []
-  },
-  {
-   "tema": "Black Friday",
-   "url": "https://x.com/search?q=Black%20Friday",
+   "tema": "#MasterChefJunior",
+   "url": "https://x.com/search?q=%23MasterChefJunior",
    "relevante": false,
    "temas": []
   },
@@ -57,20 +27,26 @@
    "temas": []
   },
   {
-   "tema": "Sabalero",
-   "url": "https://x.com/search?q=Sabalero",
+   "tema": "Inter Miami",
+   "url": "https://x.com/search?q=Inter%20Miami",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "Mayans",
-   "url": "https://x.com/search?q=Mayans",
+   "tema": "Bonansea",
+   "url": "https://x.com/search?q=Bonansea",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "VALENTINA ZENERE",
-   "url": "https://x.com/search?q=VALENTINA%20ZENERE",
+   "tema": "Black Friday",
+   "url": "https://x.com/search?q=Black%20Friday",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Lago",
+   "url": "https://x.com/search?q=Lago",
    "relevante": false,
    "temas": []
   },
@@ -81,8 +57,38 @@
    "temas": []
   },
   {
-   "tema": "Toledo",
-   "url": "https://x.com/search?q=Toledo",
+   "tema": "El Senado",
+   "url": "https://x.com/search?q=El%20Senado",
+   "relevante": true,
+   "temas": []
+  },
+  {
+   "tema": "AfganistÃ¡n",
+   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "HOY JUEGA RIVER",
+   "url": "https://x.com/search?q=HOY%20JUEGA%20RIVER",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Mayans",
+   "url": "https://x.com/search?q=Mayans",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "El Sabalero",
+   "url": "https://x.com/search?q=El%20Sabalero",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "Londres",
+   "url": "https://x.com/search?q=Londres",
    "relevante": false,
    "temas": []
   },
@@ -93,26 +99,20 @@
    "temas": []
   },
   {
+   "tema": "MorÃ³n",
+   "url": "https://x.com/search?q=Mor%C3%83%C2%B3n",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "BCRA",
    "url": "https://x.com/search?q=BCRA",
    "relevante": false,
    "temas": []
   },
   {
-   "tema": "TristÃ¡n SuÃ¡rez",
-   "url": "https://x.com/search?q=Trist%C3%83%C2%A1n%20Su%C3%83%C2%A1rez",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "AfganistÃ¡n",
-   "url": "https://x.com/search?q=Afganist%C3%83%C2%A1n",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "Londres",
-   "url": "https://x.com/search?q=Londres",
+   "tema": "#QatarGP",
+   "url": "https://x.com/search?q=%23QatarGP",
    "relevante": false,
    "temas": []
   },
@@ -126,7 +126,7 @@
  "google": [
   {
    "tema": "es mi sueño",
-   "busquedas": "1000+",
+   "busquedas": "2000+",
    "nota": "El cruce entre Miguel Ángel Rodríguez y El Puma que terminó con una advertencia de Joaquín Levinton: “No lo contradigas”",
    "nota_url": "https://www.infobae.com/teleshow/2026/11/25/el-cruce-entre-miguel-angel-rodriguez-y-el-puma-que-termino-con-una-advertencia-de-levinton/",
    "medio": "Infobae",
@@ -135,10 +135,10 @@
   },
   {
    "tema": "jazz - nuggets",
-   "busquedas": "100+",
-   "nota": "Denver Nuggets at Utah Jazz: Best Player Props for Murray, Braun, and Gordon",
-   "nota_url": "https://milehighsports.com/denver-nuggets-at-utah-jazz-best-player-props-for-murray-braun-and-gordon/",
-   "medio": "Mile High Sports",
+   "busquedas": "200+",
+   "nota": "Nuggets Jazz Basketball",
+   "nota_url": "https://www.corsicanadailysun.com/sports/national_sports/nuggets-jazz-basketball/image_c579a2c9-90aa-597a-bb7c-a120e440fe90.html",
+   "medio": "Corsicana Daily Sun",
    "relevante": false,
    "temas": []
   },
@@ -152,11 +152,29 @@
    "temas": []
   },
   {
+   "tema": "dario lopilato",
+   "busquedas": "1000+",
+   "nota": "Darío Lopilato recordó su encuentro más incómodo con Mario Pergolini",
+   "nota_url": "https://eldoce.tv/videos/show/2026/11/28/dario-lopilato-recordo-su-encuentro-mas-incomodo-con-mario-pergolini/",
+   "medio": "eldoce",
+   "relevante": false,
+   "temas": []
+  },
+  {
    "tema": "trail blazers - warriors",
-   "busquedas": "500+",
-   "nota": "Jrue Holiday Props Today: Live Odds, Trends, & Lines",
-   "nota_url": "https://sports.betmgm.com/en/blog/nba/jrue-holiday-props-odds-gaa/",
-   "medio": "sports.betmgm.com",
+   "busquedas": "1000+",
+   "nota": "Blazers start Jrue, Sidy, Avdija, Camara, Clingan",
+   "nota_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-27/blazers-start-jrue-sidy-avdija-camara-clingan",
+   "medio": "NBC Sports",
+   "relevante": false,
+   "temas": []
+  },
+  {
+   "tema": "el litoral",
+   "busquedas": "200+",
+   "nota": "Fuerte interés por SanCor: tres empresas quieren producir en plantas de la icónica láctea en quiebra",
+   "nota_url": "https://www.lanacion.com.ar/economia/campo/fuerte-interes-por-sancor-tres-empresas-quieren-producir-en-plantas-de-la-iconica-lactea-en-quiebra-nid21112026/",
+   "medio": "La Nación",
    "relevante": false,
    "temas": []
   },
@@ -171,10 +189,10 @@
   },
   {
    "tema": "spurs - lakers",
-   "busquedas": "1000+",
-   "nota": "How Can Spurs Advance to Cup Knockout Rounds?",
-   "nota_url": "https://www.si.com/nba/spurs/onsi/can-san-antonio-spurs-clinch-nba-cup-group-possible-scenarios-los-angeles-lakers",
-   "medio": "Sports Illustrated",
+   "busquedas": "2000+",
+   "nota": "JJ Redick Calls Out Media for Overreacting to Lakers’ Performances",
+   "nota_url": "https://sports.yahoo.com/nba/articles/jj-redick-calls-media-overreacting-140057536.html",
+   "medio": "Yahoo Sports",
    "relevante": false,
    "temas": []
   },
@@ -189,28 +207,10 @@
   },
   {
    "tema": "catalina gorostidi",
-   "busquedas": "200+",
-   "nota": "Catalina Gorostidi, ex Gran Hermano, mostró sus cambios estéticos y la liquidaron en redes sociales",
-   "nota_url": "https://www.minutouno.com/espectaculos/catalina-gorostidi-ex-gran-hermano-mostro-sus-cambios-esteticos-y-la-liquidaron-redes-sociales-n6350286",
-   "medio": "MinutoUno",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "timberwolves - grizzlies",
-   "busquedas": "200+",
-   "nota": "The Wolves now say LaMelo Ball is out tonight with a …",
-   "nota_url": "https://sports.yahoo.com/nba/articles/wolves-now-lamelo-ball-tonight-201152216.html",
-   "medio": "Yahoo Sports",
-   "relevante": false,
-   "temas": []
-  },
-  {
-   "tema": "mansión",
-   "busquedas": "200+",
-   "nota": "Allanaron una segunda mansión de Pilar que aparece ligada a las autoridades de la AFA",
-   "nota_url": "https://www.lanacion.com.ar/politica/pidieron-allanar-una-segunda-mansion-de-pilar-que-aparece-ligada-a-las-autoridades-de-la-afa-nid27112026/",
-   "medio": "La Nación",
+   "busquedas": "500+",
+   "nota": "Catalina Gorostidi mostró sus nuevos retoques estéticos y la fulminaron en las redes: \"Más te tocás, más envejecés\"",
+   "nota_url": "https://www.c5n.com/ratingcero/catalina-gorostidi-mostro-sus-nuevos-retoques-esteticos-y-la-fulminaron-las-redes-mas-te-tocas-mas-envejeces-n255506",
+   "medio": "C5N",
    "relevante": false,
    "temas": []
   }
